@@ -2,9 +2,7 @@
 const fs = require('fs');
 const crypto = require('crypto');
 const puppeteer = require('puppeteer');
-
-// use global fetch (Node 18+)
-await fetch('https://br.tradingview.com/news-flow/?market=crypto'); // funciona no Node 20
+const fetch = require('node-fetch');
 
 const TARGET_URL = 'https://br.tradingview.com/news-flow/?market=crypto';
 const EXISTING_FEED_URL = process.env.EXISTING_FEED_URL || ''; // optional: URL publica do feed.json atual
