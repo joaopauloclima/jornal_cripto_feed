@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-08-23T11:51:42.266Z",
+  "updated_at": "2025-08-23T13:01:42.277Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:00a969ab5bc81:0",
+      "id": "cointelegraph:8526774edbc81:0",
       "index": 0,
+      "title": "Dados do ETH e retorno do apetite ao risco dos investidores abrem caminho para o preço do Ether bater US$ 5 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:8526774edbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-23T12:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 23 Aug 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de ago. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Dados do ETH e retorno do apetite ao risco dos investidores abrem caminho para o preço do Ether bater US$ 5 mil\" data-qa-id=\"news-headline-title\">Dados do ETH e retorno do apetite ao risco dos investidores abrem caminho para o preço do Ether bater US$ 5 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:00a969ab5bc81:0",
+      "index": 1,
       "title": "Como as novas regras contábeis do Banco Central para criptoativos impactam o mercado brasileiro",
       "link": "https://br.tradingview.com/news/cointelegraph:00a969ab5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fdb1baba4bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ethereum vai chegar a US$ 5 mil? Analista avalia ETH após alta de 14%",
       "link": "https://br.tradingview.com/news/cointelegraph:fdb1baba4bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c84df40d4bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Jogada de marketing: Empresas de criptomoedas investem US$ 243 milhões no futebol, mas Brasil é território quase exclusivo das bets",
       "link": "https://br.tradingview.com/news/cointelegraph:c84df40d4bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:93fdff287bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Empresa registra alta de 82%, lucra mais de R$ 800 milhões e lança token RWA com o Mercado Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:93fdff287bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:fc18a7cf6bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Notícias Cripto: RACA e Cybertruck, Hust Capital com nova operação, Bitybank lança cadastro via Pix e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:fc18a7cf6bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:c66cd3f99bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Ethereum atinge máxima histórica após discurso de Powell",
       "link": "https://br.tradingview.com/news/beincrypto:c66cd3f99bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:4013a1af7bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "XRP sobe 7% após decisão judicial encerrar caso Ripple vs SEC",
       "link": "https://br.tradingview.com/news/beincrypto:4013a1af7bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e166db4edbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "União Europeia avalia Ethereum e Solana para lançamento do euro digital, diz Financial Times",
       "link": "https://br.tradingview.com/news/cointelegraph:e166db4edbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:73c1bfbdfbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Avanço da China com stablecoins levanta questões sobre a dominância do dólar e a confiança no mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:73c1bfbdfbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c411a70eabc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Andrew Tate abre posição vendida no YZY de Kanye West e acumula perdas de US$ 700 mil na Hyperliquid",
       "link": "https://br.tradingview.com/news/cointelegraph:c411a70eabc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:77cdce4b2bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Coinbase prevê era das stablecoins de trilhões de dólares até 2028",
       "link": "https://br.tradingview.com/news/cointelegraph:77cdce4b2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:118f12fcebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "ETH dispara com 'god candle' em meio às expectativas de corte de juros do Fed: Ether pode chegar a US$ 6.000?",
       "link": "https://br.tradingview.com/news/cointelegraph:118f12fcebc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 22 Aug 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de ago. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETH dispara com 'god candle' em meio às expectativas de corte de juros do Fed: Ether pode chegar a US$ 6.000?\" data-qa-id=\"news-headline-title\">ETH dispara com 'god candle' em meio às expectativas de corte de juros do Fed: Ether pode chegar a US$ 6.000?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:fc02e5bbabc81:0",
-      "index": 12,
-      "title": "Um ano desde a prisão de Durov: O que aconteceu e o que vem pela frente?",
-      "link": "https://br.tradingview.com/news/cointelegraph:fc02e5bbabc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-22T19:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 22 Aug 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de ago. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Um ano desde a prisão de Durov: O que aconteceu e o que vem pela frente?\" data-qa-id=\"news-headline-title\">Um ano desde a prisão de Durov: O que aconteceu e o que vem pela frente?</div></div></article>"
     }
   ]
 }
