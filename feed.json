@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-08-23T13:56:25.743Z",
+  "updated_at": "2025-08-23T14:40:29.688Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:80d6fcbcebc81:0",
+      "id": "cointelegraph:8b86a75cabc81:0",
       "index": 0,
+      "title": "Trader de alta alavancagem James Wynn abre posição comprada de 25x em Ether enquanto ETH atinge novas máximas",
+      "link": "https://br.tradingview.com/news/cointelegraph:8b86a75cabc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-23T14:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 23 Aug 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de ago. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trader de alta alavancagem James Wynn abre posição comprada de 25x em Ether enquanto ETH atinge novas máximas\" data-qa-id=\"news-headline-title\">Trader de alta alavancagem James Wynn abre posição comprada de 25x em Ether enquanto ETH atinge novas máximas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6247137a4bc81:0",
+      "index": 1,
+      "title": "VanEck registra ETF de JitoSOL, abrindo caminho para recompensas de staking em fundos da Solana",
+      "link": "https://br.tradingview.com/news/cointelegraph:6247137a4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-23T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 23 Aug 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de ago. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"VanEck registra ETF de JitoSOL, abrindo caminho para recompensas de staking em fundos da Solana\" data-qa-id=\"news-headline-title\">VanEck registra ETF de JitoSOL, abrindo caminho para recompensas de staking em fundos da Solana</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:80d6fcbcebc81:0",
+      "index": 2,
       "title": "Sentimento do mercado cripto retorna à ganância com alta do Bitcoin e do Ether após discurso do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:80d6fcbcebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a43b8a382bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Tribunal dos EUA aprova acordo de US$ 13 milhões com a BlockFi após objeção retirada",
       "link": "https://br.tradingview.com/news/cointelegraph:a43b8a382bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8526774edbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Dados do ETH e retorno do apetite ao risco dos investidores abrem caminho para o preço do Ether bater US$ 5 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:8526774edbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:00a969ab5bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Como as novas regras contábeis do Banco Central para criptoativos impactam o mercado brasileiro",
       "link": "https://br.tradingview.com/news/cointelegraph:00a969ab5bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:fdb1baba4bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ethereum vai chegar a US$ 5 mil? Analista avalia ETH após alta de 14%",
       "link": "https://br.tradingview.com/news/cointelegraph:fdb1baba4bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c84df40d4bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Jogada de marketing: Empresas de criptomoedas investem US$ 243 milhões no futebol, mas Brasil é território quase exclusivo das bets",
       "link": "https://br.tradingview.com/news/cointelegraph:c84df40d4bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:93fdff287bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Empresa registra alta de 82%, lucra mais de R$ 800 milhões e lança token RWA com o Mercado Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:93fdff287bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:fc18a7cf6bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Notícias Cripto: RACA e Cybertruck, Hust Capital com nova operação, Bitybank lança cadastro via Pix e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:fc18a7cf6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:c66cd3f99bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Ethereum atinge máxima histórica após discurso de Powell",
       "link": "https://br.tradingview.com/news/beincrypto:c66cd3f99bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:4013a1af7bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "XRP sobe 7% após decisão judicial encerrar caso Ripple vs SEC",
       "link": "https://br.tradingview.com/news/beincrypto:4013a1af7bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e166db4edbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "União Europeia avalia Ethereum e Solana para lançamento do euro digital, diz Financial Times",
       "link": "https://br.tradingview.com/news/cointelegraph:e166db4edbc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 22 Aug 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de ago. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"União Europeia avalia Ethereum e Solana para lançamento do euro digital, diz Financial Times\" data-qa-id=\"news-headline-title\">União Europeia avalia Ethereum e Solana para lançamento do euro digital, diz Financial Times</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:73c1bfbdfbc81:0",
-      "index": 11,
-      "title": "Avanço da China com stablecoins levanta questões sobre a dominância do dólar e a confiança no mercado",
-      "link": "https://br.tradingview.com/news/cointelegraph:73c1bfbdfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-22T20:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 22 Aug 2025 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de ago. de 2025, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Avanço da China com stablecoins levanta questões sobre a dominância do dólar e a confiança no mercado\" data-qa-id=\"news-headline-title\">Avanço da China com stablecoins levanta questões sobre a dominância do dólar e a confiança no mercado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c411a70eabc81:0",
-      "index": 12,
-      "title": "Andrew Tate abre posição vendida no YZY de Kanye West e acumula perdas de US$ 700 mil na Hyperliquid",
-      "link": "https://br.tradingview.com/news/cointelegraph:c411a70eabc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-22T20:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 22 Aug 2025 20:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de ago. de 2025, 20:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Andrew Tate abre posição vendida no YZY de Kanye West e acumula perdas de US$ 700 mil na Hyperliquid\" data-qa-id=\"news-headline-title\">Andrew Tate abre posição vendida no YZY de Kanye West e acumula perdas de US$ 700 mil na Hyperliquid</div></div></article>"
     }
   ]
 }
