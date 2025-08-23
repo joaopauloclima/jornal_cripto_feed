@@ -19,56 +19,15 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node.js
+      - name: Setup Node.js + cache
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'                # ✅ cache automático baseado no lockfile
 
-      - name: Install pnpm (global)
-        run: npm install -g pnpm@latest
+      - name: Install deps
+        run: npm ci --no-audit --no-fund
 
-      - name: Configure pnpm store-dir
-        run: pnpm config set store-dir ~/.pnpm-store
-
-      - name: Restore pnpm store cache
-        uses: actions/cache@v4
-        with:
-          path: ~/.pnpm-store
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
-
-      - name: Install deps (pnpm) — supports missing lockfile
-        run: |
-          if [ -f pnpm-lock.yaml ]; then
-            pnpm install --frozen-lockfile
-          else
-            pnpm install
-          fi
-
-      # --- novo: garantir que o Chromium que o Puppeteer espera esteja instalado ---
-      - name: Puppeteer: download Chromium (preferred)
-        run: |
-          echo "Attempting to download Chromium for Puppeteer..."
-          # tenta usar pnpm dlx (mais rápido/isolado) — se falhar, usa npx
-          if pnpm dlx --version >/dev/null 2>&1; then
-            pnpm dlx puppeteer@latest browsers install chrome || true
-          else
-            npx puppeteer@latest browsers install chrome || true
-          fi
-          echo "ls -la ~/.cache/puppeteer || true"
-          ls -la ~/.cache/puppeteer || true
-        shell: bash
-
-      - name: Cache Puppeteer browser (~/.cache/puppeteer)
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/puppeteer
-          key: ${{ runner.os }}-puppeteer-cache-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-puppeteer-cache-
-
-      # Run scraping
       - name: Run scraper and write summary
         id: run_scraper
         run: |
@@ -79,8 +38,8 @@ jobs:
       - name: Read summary
         id: read_summary
         run: |
-          TOTAL=$(grep 'TOTAL_ITEMS' scrape_summary.txt | cut -d'=' -f2 || echo 0)
-          NEW=$(grep 'NEW_ITEMS' scrape_summary.txt | cut -d'=' -f2 || echo 0)
+          TOTAL=$(grep 'TOTAL_ITEMS' scrape_summary.txt | cut -d'=' -f2)
+          NEW=$(grep 'NEW_ITEMS' scrape_summary.txt | cut -d'=' -f2)
           echo "total=${TOTAL}" >> $GITHUB_OUTPUT
           echo "new=${NEW}" >> $GITHUB_OUTPUT
 
@@ -112,23 +71,17 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
-      - name: Notify Make webhook with diff.json (robust)
+      # 🚀 Novo passo: notificar Make em tempo real
+      - name: Notify Make webhook with diff.json
         if: steps.read_summary.outputs.new != '0'
         env:
           MAKE_WEBHOOK: ${{ secrets.MAKE_WEBHOOK }}
         run: |
           echo "Posting diff.json to Make..."
-          RESPONSE=$(curl -s -w "%{http_code}" -o response.txt -X POST \
+          curl -s -X POST \
             -H "Content-Type: application/json" \
-            --data-binary @diff.json \
-            "$MAKE_WEBHOOK")
-          echo "HTTP status: $RESPONSE"
-          echo "Response body:"
-          cat response.txt
-          if [ "$RESPONSE" != "200" ] && [ "$RESPONSE" != "202" ]; then
-            echo "❌ Failed to post diff.json (http $RESPONSE)"
-            exit 1
-          fi
+            --data @diff.json \
+            "$MAKE_WEBHOOK" || echo "Failed to post diff.json"
 
       - name: Show artifacts
         if: always()
