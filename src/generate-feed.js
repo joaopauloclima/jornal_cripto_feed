@@ -1,43 +1,95 @@
-// src/generate-feed.js
+// src/generate-feed.js (versão debug + mais robusta)
 const fs = require('fs');
 const crypto = require('crypto');
 const puppeteer = require('puppeteer');
-const fetch = require('node-fetch');
 
 const TARGET_URL = 'https://br.tradingview.com/news-flow/?market=crypto';
-const EXISTING_FEED_URL = process.env.EXISTING_FEED_URL || ''; // optional: URL publica do feed.json atual
-const MAX_ITEMS = 40;
+const EXISTING_FEED_URL = process.env.EXISTING_FEED_URL || '';
+const MAX_ITEMS = 60;
+const WAIT_TIMEOUT = 45000;
 
 function idFromLink(link) {
   return crypto.createHash('sha256').update(link).digest('hex');
 }
 
+async function autoScroll(page) {
+  await page.evaluate(async () => {
+    await new Promise(resolve => {
+      let total = 0;
+      const dist = 800;
+      const timer = setInterval(() => {
+        window.scrollBy(0, dist);
+        total += dist;
+        if (total > 4000) {
+          clearInterval(timer);
+          resolve();
+        }
+      }, 400);
+    });
+  });
+}
+
 async function scrape() {
   const browser = await puppeteer.launch({
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
   const page = await browser.newPage();
-  await page.goto(TARGET_URL, { waitUntil: 'networkidle2', timeout: 60000 });
-  await page.waitForTimeout(1500);
 
-  // *** ATENÇÃO: seletores podem precisar ajuste se o DOM mudar ***
-  const raw = await page.evaluate(() => {
-    const list = Array.from(document.querySelectorAll('.tv-news-feed__item, .tv-widget-news__item, .tv-feed__item'));
-    return list.slice(0, 60).map(node => {
-      const a = node.querySelector('a') || node.querySelector('.tv-widget-news__headline a');
+  // Opcional: definir user agent para reduzir chance de bloqueio
+  await page.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36');
+
+  await page.goto(TARGET_URL, { waitUntil: 'networkidle2', timeout: WAIT_TIMEOUT });
+  // Dá um tempinho extra
+  await page.waitForTimeout(2000);
+
+  // rola para tentar carregar lazy-load
+  await autoScroll(page);
+  await page.waitForTimeout(1200);
+
+  // tira screenshot e salva HTML para debug
+  try {
+    await page.screenshot({ path: 'page.png', fullPage: false });
+    const html = await page.content();
+    fs.writeFileSync('page.html', html, 'utf8');
+    console.log('page.html and page.png saved for debugging.');
+  } catch (e) {
+    console.warn('Could not save screenshot/html:', e.message);
+  }
+
+  // Tente vários seletores alternativos
+  const selectors = [
+    '.tv-news-feed__item',
+    '.tv-widget-news__item',
+    '.tv-feed__item',
+    '.js-news-feed__item',
+    'article' // fallback
+  ];
+
+  // A função passada pro evaluate usa seletores que funcionem no DOM final
+  const raw = await page.evaluate((selectors, MAX_ITEMS) => {
+    function trySelect(selList) {
+      for (const s of selList) {
+        const nodes = Array.from(document.querySelectorAll(s || ''));
+        if (nodes && nodes.length) return nodes;
+      }
+      return [];
+    }
+    const nodes = trySelect(selectors).slice(0, MAX_ITEMS);
+    return nodes.map(node => {
+      const a = node.querySelector('a') || node.querySelector('h3 a') || node.querySelector('h2 a');
       const title = a ? a.innerText.trim() : (node.innerText || '').trim().split('\n')[0];
-      let link = a ? a.href : null;
+      let link = a ? a.href : (node.querySelector('a') ? node.querySelector('a').href : null);
       if (link && link.startsWith('/')) link = window.location.origin + link;
-      const sourceEl = node.querySelector('.tv-news-feed__source, .tv-widget-news__source, .provider');
+      const sourceEl = node.querySelector('.tv-news-feed__source, .provider, .source');
       const source = sourceEl ? sourceEl.innerText.trim() : '';
-      const timeEl = node.querySelector('time') || node.querySelector('.tv-widget-news__time, .tv-news-feed__time');
+      const timeEl = node.querySelector('time') || node.querySelector('.tv-widget-news__time, .time, .timestamp');
       const published = timeEl ? (timeEl.getAttribute('datetime') || timeEl.innerText) : null;
-      const snippetEl = node.querySelector('.tv-widget-news__summary, .summary') || node.querySelector('.tv-news-feed__subtitle');
+      const snippetEl = node.querySelector('.tv-widget-news__summary, .summary, p');
       const snippet = snippetEl ? snippetEl.innerText.trim() : '';
       const img = node.querySelector('img') ? node.querySelector('img').src : null;
       return { title, link, source, published, snippet, image: img };
     }).filter(i => i.title && i.link);
-  });
+  }, selectors, MAX_ITEMS);
 
   await browser.close();
   return raw.slice(0, MAX_ITEMS);
@@ -59,43 +111,26 @@ function normalize(items) {
   });
 }
 
-async function fetchExisting() {
-  if (!EXISTING_FEED_URL) return null;
-  try {
-    const res = await fetch(EXISTING_FEED_URL, { timeout: 10000 });
-    if (!res.ok) return null;
-    return await res.json();
-  } catch (e) {
-    console.warn('fetchExisting failed:', e.message);
-    return null;
-  }
-}
-
 (async () => {
   try {
     console.log('Starting scrape...');
     const rawItems = await scrape();
+    console.log('rawItems length:', rawItems.length);
+    if (!rawItems || rawItems.length === 0) {
+      console.warn('No items found — check page.html/page.png to debug selectors and dynamic loading.');
+    } else {
+      console.log('Sample item:', rawItems[0]);
+    }
+
     const items = normalize(rawItems);
     const now = new Date().toISOString();
     const feed = { updated_at: now, source: 'TradingView News Flow - crypto', items };
 
-    // get existing published feed (to compute diff)
-    const existing = await fetchExisting();
-    let newItems = items;
-    if (existing && Array.isArray(existing.items)) {
-      const known = new Set(existing.items.map(x => x.id));
-      newItems = items.filter(i => !known.has(i.id));
-    }
-
     // write outputs
     fs.writeFileSync('feed.json', JSON.stringify(feed, null, 2), 'utf8');
-    fs.writeFileSync('diff.json', JSON.stringify({ updated_at: now, new_items: newItems }, null, 2), 'utf8');
+    fs.writeFileSync('diff.json', JSON.stringify({ updated_at: now, new_items: items }, null, 2), 'utf8');
 
-    console.log('TOTAL_ITEMS=' + items.length);
-    console.log('NEW_ITEMS=' + newItems.length);
-    // write summary for Actions to read easily
-    fs.writeFileSync('scrape_summary.txt', `TOTAL_ITEMS=${items.length}\nNEW_ITEMS=${newItems.length}\n`, 'utf8');
-
+    console.log('Wrote feed.json and diff.json; items=', items.length);
     process.exit(0);
   } catch (err) {
     console.error('Error in scraper:', err);
