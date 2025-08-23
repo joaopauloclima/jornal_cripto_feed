@@ -28,6 +28,17 @@ jobs:
           node src/generate-feed.js
           cat scrape_summary.txt
         # outputs will be read by next steps using file parsing
+        
+      - name: Upload debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-debug
+          path: |
+            page.html
+            page.png
+            feed.json
+            diff.json
 
       - name: Read summary
         id: read_summary
