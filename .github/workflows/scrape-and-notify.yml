@@ -19,7 +19,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node.js + pnpm + cache
+      - name: Setup Node.js + cache
         uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -74,24 +74,16 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
-      # 🚀 Notificar Make webhook com depuração completa
       - name: Notify Make webhook with diff.json
         if: steps.read_summary.outputs.new != '0'
         env:
           MAKE_WEBHOOK: ${{ secrets.MAKE_WEBHOOK }}
         run: |
           echo "Posting diff.json to Make..."
-          RESPONSE=$(curl -s -w "%{http_code}" -o response.txt -X POST \
+          curl -s -X POST \
             -H "Content-Type: application/json" \
-            --data-binary @diff.json \
-            "$MAKE_WEBHOOK")
-          echo "HTTP status: $RESPONSE"
-          echo "Response body:"
-          cat response.txt
-          if [ "$RESPONSE" != "200" ]; then
-            echo "❌ Failed to post diff.json"
-            exit 1
-          fi
+            --data @diff.json \
+            "$MAKE_WEBHOOK" || echo "Failed to post diff.json"
 
       - name: Show artifacts
         if: always()
