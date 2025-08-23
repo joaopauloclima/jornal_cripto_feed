@@ -88,13 +88,17 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
+      # 🚀 Novo passo: notificar Make em tempo real
       - name: Notify Make webhook with diff.json
         if: steps.read_summary.outputs.new != '0'
         env:
           MAKE_WEBHOOK: ${{ secrets.MAKE_WEBHOOK }}
         run: |
           echo "Posting diff.json to Make..."
-          curl -s -X POST -H "Content-Type: application/json" --data @diff.json "$MAKE_WEBHOOK" || true
+          curl -s -X POST \
+            -H "Content-Type: application/json" \
+            --data @diff.json \
+            "$MAKE_WEBHOOK" || echo "Failed to post diff.json"
 
       - name: Show artifacts
         if: always()
