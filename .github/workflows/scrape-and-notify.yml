@@ -45,6 +45,13 @@ jobs:
             feed.json
             diff.json
 
+      - name: Generate feed (your existing step)
+        run: node src/generate-feed.js
+
+      - name: Write scrape summary (for GitHub steps that grep)
+        run: |
+          node src/write-scrape-summary.js
+      
       - name: Read summary
         id: read_summary
         run: |
