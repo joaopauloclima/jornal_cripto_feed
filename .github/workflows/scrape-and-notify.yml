@@ -4,7 +4,7 @@ permissions:
   contents: write
   pages: write
   id-token: write 
-
+  
 on:
   schedule:
     - cron: '*/15 * * * *'
@@ -23,7 +23,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          # NOTA: não usamos cache: 'pnpm' aqui porque o pnpm ainda não está instalado
 
       - name: Install pnpm (global)
         run: npm install -g pnpm@latest
@@ -39,9 +38,37 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pnpm-store-
 
-      - name: Install deps (pnpm)
-        run: pnpm install --frozen-lockfile
+      - name: Install deps (pnpm) — supports missing lockfile
+        run: |
+          if [ -f pnpm-lock.yaml ]; then
+            pnpm install --frozen-lockfile
+          else
+            pnpm install
+          fi
 
+      # --- novo: garantir que o Chromium que o Puppeteer espera esteja instalado ---
+      - name: Puppeteer: download Chromium (preferred)
+        run: |
+          echo "Attempting to download Chromium for Puppeteer..."
+          # tenta usar pnpm dlx (mais rápido/isolado) — se falhar, usa npx
+          if pnpm dlx --version >/dev/null 2>&1; then
+            pnpm dlx puppeteer@latest browsers install chrome || true
+          else
+            npx puppeteer@latest browsers install chrome || true
+          fi
+          echo "ls -la ~/.cache/puppeteer || true"
+          ls -la ~/.cache/puppeteer || true
+        shell: bash
+
+      - name: Cache Puppeteer browser (~/.cache/puppeteer)
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/puppeteer
+          key: ${{ runner.os }}-puppeteer-cache-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-puppeteer-cache-
+
+      # Run scraping
       - name: Run scraper and write summary
         id: run_scraper
         run: |
