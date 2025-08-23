@@ -1,94 +1,57 @@
-name: Scrape TradingView + publish + notify Make
+name: Scrape and Publish
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write 
-  
 on:
   schedule:
-    - cron: '*/15 * * * *'  # a cada 15 minutos; ajuste conforme desejar
+    - cron: "0 * * * *" # roda a cada hora
   workflow_dispatch:
 
 jobs:
-  scrape-and-publish:
+  scrape:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: 18
+          cache: 'npm'   # 🔥 habilita cache automático de dependências
 
-      - name: Install deps
+      - name: Install dependencies
         run: npm install --no-audit --no-fund
 
       - name: Run scraper
-        id: run_scraper
-        run: |
-          node src/generate-feed.js
-          cat scrape_summary.txt || true
-        # outputs will be read by next steps using file parsing
-        
-      - name: Upload debug artifacts
-        if: always()
+        run: node scraper.js
+
+      - name: Save scrape summary
+        run: node save-summary.js
+
+      - name: Upload artifacts (debug)
         uses: actions/upload-artifact@v4
         with:
-          name: scraper-debug
+          name: scraped-data
           path: |
-            page.html
-            page.png
-            feed.json
-            diff.json
+            public/
+            scrape_summary.txt
 
-      - name: Generate feed (your existing step)
-        run: node src/generate-feed.js
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
 
-      - name: Write scrape summary (for GitHub steps that grep)
-        run: |
-          node src/write-scrape-summary.js
-      
-      - name: Read summary
-        id: read_summary
-        run: |
-          TOTAL=$(grep 'TOTAL_ITEMS' scrape_summary.txt | cut -d'=' -f2)
-          NEW=$(grep 'NEW_ITEMS' scrape_summary.txt | cut -d'=' -f2)
-          echo "total=${TOTAL}" >> $GITHUB_OUTPUT
-          echo "new=${NEW}" >> $GITHUB_OUTPUT
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Commit feed.json to gh-pages (if new items)
-        if: steps.read_summary.outputs.new != '0'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p public
-          cp feed.json public/feed.json
-          git add public/feed.json || true
-          git commit -m "Update feed.json (auto)" || echo "no changes"
-         
-      - name: Deploy to gh-pages via action (alternative safe method)
-        if: steps.read_summary.outputs.new != '0'
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: scraped-data
+          path: public
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-
-      - name: Notify Make webhook with diff.json
-        if: steps.read_summary.outputs.new != '0'
-        env:
-          MAKE_WEBHOOK: ${{ secrets.MAKE_WEBHOOK }}
-        run: |
-          echo "Posting diff.json to Make..."
-          curl -s -X POST -H "Content-Type: application/json" --data @diff.json "$MAKE_WEBHOOK" || true
-
-      - name: Show artifacts
-        if: always()
-        run: |
-          echo "feed.json (first lines):"
-          head -n 20 feed.json || true
-          echo "diff.json (first lines):"
-          head -n 20 diff.json || true
