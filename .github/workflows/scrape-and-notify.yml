@@ -26,7 +26,7 @@ jobs:
         id: run_scraper
         run: |
           node src/generate-feed.js
-          cat scrape_summary.txt
+          cat scrape_summary.txt || true
         # outputs will be read by next steps using file parsing
         
       - name: Upload debug artifacts
