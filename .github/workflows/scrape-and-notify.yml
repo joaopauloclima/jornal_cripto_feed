@@ -1,5 +1,10 @@
 name: Scrape TradingView + publish + notify Make
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write 
+  
 on:
   schedule:
     - cron: '*/15 * * * *'  # a cada 15 minutos; ajuste conforme desejar
