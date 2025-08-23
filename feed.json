@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-08-23T14:40:29.688Z",
+  "updated_at": "2025-08-23T15:00:08.418Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -36,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 23 Aug 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de ago. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Sentimento do mercado cripto retorna à ganância com alta do Bitcoin e do Ether após discurso do Fed\" data-qa-id=\"news-headline-title\">Sentimento do mercado cripto retorna à ganância com alta do Bitcoin e do Ether após discurso do Fed</div></div></article>"
     },
     {
-      "id": "cointelegraph:a43b8a382bc81:0",
+      "id": "beincrypto:2d9970281bc81:0",
       "index": 3,
+      "title": "ChatGPT compartilha previsão de preço do Ethereum após novo recorde histórico",
+      "link": "https://br.tradingview.com/news/beincrypto:2d9970281bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-08-23T13:01:19.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 23 Aug 2025 13:01:19 GMT\" class=\"apply-common-tooltip\" title=\"23 de ago. de 2025, 13:01 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ChatGPT compartilha previsão de preço do Ethereum após novo recorde histórico\" data-qa-id=\"news-headline-title\">ChatGPT compartilha previsão de preço do Ethereum após novo recorde histórico</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:a43b8a382bc81:0",
+      "index": 4,
       "title": "Tribunal dos EUA aprova acordo de US$ 13 milhões com a BlockFi após objeção retirada",
       "link": "https://br.tradingview.com/news/cointelegraph:a43b8a382bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8526774edbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Dados do ETH e retorno do apetite ao risco dos investidores abrem caminho para o preço do Ether bater US$ 5 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:8526774edbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:00a969ab5bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Como as novas regras contábeis do Banco Central para criptoativos impactam o mercado brasileiro",
       "link": "https://br.tradingview.com/news/cointelegraph:00a969ab5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fdb1baba4bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ethereum vai chegar a US$ 5 mil? Analista avalia ETH após alta de 14%",
       "link": "https://br.tradingview.com/news/cointelegraph:fdb1baba4bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c84df40d4bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Jogada de marketing: Empresas de criptomoedas investem US$ 243 milhões no futebol, mas Brasil é território quase exclusivo das bets",
       "link": "https://br.tradingview.com/news/cointelegraph:c84df40d4bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:93fdff287bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Empresa registra alta de 82%, lucra mais de R$ 800 milhões e lança token RWA com o Mercado Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:93fdff287bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:fc18a7cf6bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Notícias Cripto: RACA e Cybertruck, Hust Capital com nova operação, Bitybank lança cadastro via Pix e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:fc18a7cf6bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:c66cd3f99bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Ethereum atinge máxima histórica após discurso de Powell",
       "link": "https://br.tradingview.com/news/beincrypto:c66cd3f99bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:4013a1af7bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "XRP sobe 7% após decisão judicial encerrar caso Ripple vs SEC",
       "link": "https://br.tradingview.com/news/beincrypto:4013a1af7bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 22 Aug 2025 21:11:55 GMT\" class=\"apply-common-tooltip\" title=\"22 de ago. de 2025, 21:11 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP sobe 7% após decisão judicial encerrar caso Ripple vs SEC\" data-qa-id=\"news-headline-title\">XRP sobe 7% após decisão judicial encerrar caso Ripple vs SEC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e166db4edbc81:0",
-      "index": 12,
-      "title": "União Europeia avalia Ethereum e Solana para lançamento do euro digital, diz Financial Times",
-      "link": "https://br.tradingview.com/news/cointelegraph:e166db4edbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-22T21:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 22 Aug 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de ago. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"União Europeia avalia Ethereum e Solana para lançamento do euro digital, diz Financial Times\" data-qa-id=\"news-headline-title\">União Europeia avalia Ethereum e Solana para lançamento do euro digital, diz Financial Times</div></div></article>"
     }
   ]
 }
