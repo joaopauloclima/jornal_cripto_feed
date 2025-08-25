@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-08-25T20:42:06.250Z",
+  "updated_at": "2025-08-25T20:56:14.340Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:598863e15bc81:0",
+      "id": "cointelegraph:e745029cabc81:0",
       "index": 0,
+      "title": "Galaxy Digital, Multicoin e Jump Crypto planejam fundo bilionário de Solana",
+      "link": "https://br.tradingview.com/news/cointelegraph:e745029cabc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-25T20:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Galaxy Digital, Multicoin e Jump Crypto planejam fundo bilionário de Solana\" data-qa-id=\"news-headline-title\">Galaxy Digital, Multicoin e Jump Crypto planejam fundo bilionário de Solana</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:598863e15bc81:0",
+      "index": 1,
       "title": "Preço de US$ 20 mil do ETH está em jogo? Mercado do Ethereum entra em zona de 'crença'",
       "link": "https://br.tradingview.com/news/cointelegraph:598863e15bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:42f459e28bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Executivo do Citi alerta que rendimentos de stablecoins podem drenar depósitos bancários, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:42f459e28bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:84a030c0ebc81:0",
-      "index": 2,
+      "index": 3,
       "title": "CBDCs fecham perfeitamente o 'ciclo orwelliano de 1984', diz CEO da Bitcoin Policy UK",
       "link": "https://br.tradingview.com/news/cointelegraph:84a030c0ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a1d372488bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Como usar o ChatGPT para pesquisar moedas antes de investir",
       "link": "https://br.tradingview.com/news/cointelegraph:a1d372488bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:a856e0615bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "ETHZilla compra mais Ethereum mesmo com ações em queda",
       "link": "https://br.tradingview.com/news/beincrypto:a856e0615bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:079ff71c4bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Strategy compra US$ 357 milhões em Bitcoin enquanto o preço cai para US$ 112 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:079ff71c4bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a3ebd5c29bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Baleia de Bitcoin com US$ 11 bilhões aposta forte na alta do ETH e compra US$ 108 milhões em Ether spot",
       "link": "https://br.tradingview.com/news/cointelegraph:a3ebd5c29bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a81d47023bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Posições compradas tardias de Bitcoin são liquidadas enquanto aumentam os alertas de preço abaixo de US$ 110 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:a81d47023bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:088ef2c0fbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Conselho de vidente custou US$ 80 milhões em criptomoedas a herdeira bilionária, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:088ef2c0fbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:5342df55cbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Solana sob ataque: indicadores sugerem pressão de venda",
       "link": "https://br.tradingview.com/news/beincrypto:5342df55cbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ac4dc9aeebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Trader de criptomoedas lança campanha de US$ 2 milhões após MEXC congelar US$ 3 milhões, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:ac4dc9aeebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9bc47fbebbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Brasil compra o mergulho e aporta R$ 5,4 milhões em semana de saques massivos em fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:9bc47fbebbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3983e60c1bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Fim de isenção e novas regras de tributação de criptoativos no Brasil podem parar nos tribunais, diz advogado",
       "link": "https://br.tradingview.com/news/cointelegraph:3983e60c1bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fim de isenção e novas regras de tributação de criptoativos no Brasil podem parar nos tribunais, diz advogado\" data-qa-id=\"news-headline-title\">Fim de isenção e novas regras de tributação de criptoativos no Brasil podem parar nos tribunais, diz advogado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:3b6e5d9eebc81:0",
-      "index": 13,
-      "title": "BTC em alta terminou nos US$ 111 mil? 5 coisas para saber sobre o Bitcoin nesta semana",
-      "link": "https://br.tradingview.com/news/cointelegraph:3b6e5d9eebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-25T16:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BTC em alta terminou nos US$ 111 mil? 5 coisas para saber sobre o Bitcoin nesta semana\" data-qa-id=\"news-headline-title\">BTC em alta terminou nos US$ 111 mil? 5 coisas para saber sobre o Bitcoin nesta semana</div></div></article>"
     }
   ]
 }
