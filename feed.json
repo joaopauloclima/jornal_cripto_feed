@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-08-25T17:37:24.083Z",
+  "updated_at": "2025-08-25T17:53:12.770Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9bc47fbebbc81:0",
+      "id": "cointelegraph:ac4dc9aeebc81:0",
       "index": 0,
+      "title": "Trader de criptomoedas lança campanha de US$ 2 milhões após MEXC congelar US$ 3 milhões, diz reportagem",
+      "link": "https://br.tradingview.com/news/cointelegraph:ac4dc9aeebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-25T17:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trader de criptomoedas lança campanha de US$ 2 milhões após MEXC congelar US$ 3 milhões, diz reportagem\" data-qa-id=\"news-headline-title\">Trader de criptomoedas lança campanha de US$ 2 milhões após MEXC congelar US$ 3 milhões, diz reportagem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9bc47fbebbc81:0",
+      "index": 1,
       "title": "Brasil compra o mergulho e aporta R$ 5,4 milhões em semana de saques massivos em fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:9bc47fbebbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:3983e60c1bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Fim de isenção e novas regras de tributação de criptoativos no Brasil podem parar nos tribunais, diz advogado",
       "link": "https://br.tradingview.com/news/cointelegraph:3983e60c1bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3b6e5d9eebc81:0",
-      "index": 2,
+      "index": 3,
       "title": "BTC em alta terminou nos US$ 111 mil? 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:3b6e5d9eebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:fcb962972bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Testemunha detalha R$ 30 milhões do Sheik do Bitcoin a Silas Malafaia: ‘Não, pastorzão. Vou te ajudar’",
       "link": "https://br.tradingview.com/news/cointelegraph:fcb962972bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:fe632ff25bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Metaplanet entra no índice FTSE Japão: promovida a Mid-Cap",
       "link": "https://br.tradingview.com/news/beincrypto:fe632ff25bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c43536244bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Preço do XRP falha em superar os US$ 3: uma nova alta ainda é possível?",
       "link": "https://br.tradingview.com/news/cointelegraph:c43536244bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d2a770b19bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ministro das Finanças do Japão endossa cripto como diversificador de portfólio",
       "link": "https://br.tradingview.com/news/cointelegraph:d2a770b19bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:bdfed2be1bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Hyperliquid dispara após Arthur Hayes prever valorização de 126x em Tóquio",
       "link": "https://br.tradingview.com/news/cointelegraph:bdfed2be1bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:6f90a224abc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Família Trump adotou cripto após Biden ‘armar’ bancos contra eles, segundo WSJ",
       "link": "https://br.tradingview.com/news/cointelegraph:6f90a224abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:803d71057bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Stablecoins mantêm pegada no Brasil com entrada de bancos e alternativa ao pagamento de IOF",
       "link": "https://br.tradingview.com/news/cointelegraph:803d71057bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5fe4e00c7bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Mercado TradFi de US$ 400 trilhões é uma enorme pista de crescimento para RWAs tokenizados, diz Animoca",
       "link": "https://br.tradingview.com/news/cointelegraph:5fe4e00c7bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:ca614c874bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Domínio do Ethereum atinge máxima anual: o que vem a seguir para o mercado?",
       "link": "https://br.tradingview.com/news/beincrypto:ca614c874bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:7a597719cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Mercado de baixa do Bitcoin provavelmente está a anos de distância, diz assessor de Trump David Bailey",
       "link": "https://br.tradingview.com/news/cointelegraph:7a597719cbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado de baixa do Bitcoin provavelmente está a anos de distância, diz assessor de Trump David Bailey\" data-qa-id=\"news-headline-title\">Mercado de baixa do Bitcoin provavelmente está a anos de distância, diz assessor de Trump David Bailey</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2667d028bbc81:0",
-      "index": 13,
-      "title": "Baleias OG do Bitcoin são culpadas pela subida lenta do BTC, diz Willy Woo",
-      "link": "https://br.tradingview.com/news/cointelegraph:2667d028bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-25T13:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias OG do Bitcoin são culpadas pela subida lenta do BTC, diz Willy Woo\" data-qa-id=\"news-headline-title\">Baleias OG do Bitcoin são culpadas pela subida lenta do BTC, diz Willy Woo</div></div></article>"
     }
   ]
 }
