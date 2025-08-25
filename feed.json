@@ -1,10 +1,43 @@
 {
-  "updated_at": "2025-08-25T13:59:29.045Z",
+  "updated_at": "2025-08-25T14:58:18.279Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2667d028bbc81:0",
+      "id": "cointelegraph:803d71057bc81:0",
       "index": 0,
+      "title": "Stablecoins mantêm pegada no Brasil com entrada de bancos e alternativa ao pagamento de IOF",
+      "link": "https://br.tradingview.com/news/cointelegraph:803d71057bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-25T14:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stablecoins mantêm pegada no Brasil com entrada de bancos e alternativa ao pagamento de IOF\" data-qa-id=\"news-headline-title\">Stablecoins mantêm pegada no Brasil com entrada de bancos e alternativa ao pagamento de IOF</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5fe4e00c7bc81:0",
+      "index": 1,
+      "title": "Mercado TradFi de US$ 400 trilhões é uma enorme pista de crescimento para RWAs tokenizados, diz Animoca",
+      "link": "https://br.tradingview.com/news/cointelegraph:5fe4e00c7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-25T14:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado TradFi de US$ 400 trilhões é uma enorme pista de crescimento para RWAs tokenizados, diz Animoca\" data-qa-id=\"news-headline-title\">Mercado TradFi de US$ 400 trilhões é uma enorme pista de crescimento para RWAs tokenizados, diz Animoca</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7a597719cbc81:0",
+      "index": 2,
+      "title": "Mercado de baixa do Bitcoin provavelmente está a anos de distância, diz assessor de Trump David Bailey",
+      "link": "https://br.tradingview.com/news/cointelegraph:7a597719cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-25T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado de baixa do Bitcoin provavelmente está a anos de distância, diz assessor de Trump David Bailey\" data-qa-id=\"news-headline-title\">Mercado de baixa do Bitcoin provavelmente está a anos de distância, diz assessor de Trump David Bailey</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2667d028bbc81:0",
+      "index": 3,
       "title": "Baleias OG do Bitcoin são culpadas pela subida lenta do BTC, diz Willy Woo",
       "link": "https://br.tradingview.com/news/cointelegraph:2667d028bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5960cd369bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "LayerZero vence disputa de aquisição da Stargate em guerra de lances com quatro participantes",
       "link": "https://br.tradingview.com/news/cointelegraph:5960cd369bc81:0/",
       "source": "Cointelegraph",
@@ -25,8 +58,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"LayerZero vence disputa de aquisição da Stargate em guerra de lances com quatro participantes\" data-qa-id=\"news-headline-title\">LayerZero vence disputa de aquisição da Stargate em guerra de lances com quatro participantes</div></div></article>"
     },
     {
+      "id": "beincrypto:7068d99dbbc81:0",
+      "index": 5,
+      "title": "Especialista prevê que Ethereum superará Bitcoin neste ciclo",
+      "link": "https://br.tradingview.com/news/beincrypto:7068d99dbbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-08-25T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Especialista prevê que Ethereum superará Bitcoin neste ciclo\" data-qa-id=\"news-headline-title\">Especialista prevê que Ethereum superará Bitcoin neste ciclo</div></div></article>"
+    },
+    {
       "id": "cointelegraph:b9f14de63bc81:0",
-      "index": 2,
+      "index": 6,
       "title": "Fundador do Telegram, Pavel Durov, diz que caso não avança e critica governo francês",
       "link": "https://br.tradingview.com/news/cointelegraph:b9f14de63bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +81,7 @@
     },
     {
       "id": "cointelegraph:be218eae9bc81:0",
-      "index": 3,
+      "index": 7,
       "title": "Empresa de tesouraria em Bitcoin Metaplanet entra nos índices FTSE Japan e All-World",
       "link": "https://br.tradingview.com/news/cointelegraph:be218eae9bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a0a4032acbc81:0",
-      "index": 4,
+      "index": 8,
       "title": "Após Powell, Bitcoin capota e liquidação de traders de criptomoedas supera US$ 800 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:a0a4032acbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +103,7 @@
     },
     {
       "id": "beincrypto:37a85fa34bc81:0",
-      "index": 5,
+      "index": 9,
       "title": "O que os investidores fizeram no recorde do Ethereum (ETH)?",
       "link": "https://br.tradingview.com/news/beincrypto:37a85fa34bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +114,7 @@
     },
     {
       "id": "beincrypto:f5478f922bc81:0",
-      "index": 6,
+      "index": 10,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 25/08/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:f5478f922bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +125,7 @@
     },
     {
       "id": "beincrypto:b13fa5550bc81:0",
-      "index": 7,
+      "index": 11,
       "title": "Previsão Bitcoin: correção do BTC com saídas de ETF acima de US$ 1 bilhão",
       "link": "https://br.tradingview.com/news/beincrypto:b13fa5550bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7ead10649bc81:0",
-      "index": 8,
+      "index": 12,
       "title": "Saques nos ETFs e incerteza sobre queda de juros nos EUA derrubam ‘preço justo’ do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:7ead10649bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +147,7 @@
     },
     {
       "id": "beincrypto:a34cb0779bc81:0",
-      "index": 9,
+      "index": 13,
       "title": "XRP supera momentaneamente a BlackRock: novo rali à vista ou miragem?",
       "link": "https://br.tradingview.com/news/beincrypto:a34cb0779bc81:0/",
       "source": "Beincrypto",
@@ -111,50 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 10:33:07 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 10:33 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP supera momentaneamente a BlackRock: novo rali à vista ou miragem?\" data-qa-id=\"news-headline-title\">XRP supera momentaneamente a BlackRock: novo rali à vista ou miragem?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c0a292ec2bc81:0",
-      "index": 10,
-      "title": "Preço do Bitcoin hoje 25/08/2025: BTC cai mais 2% e volta para US$111 mil, com chances de   despencar para US$ 105 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:c0a292ec2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-25T10:29:21.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 10:29:21 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 10:29 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje 25/08/2025: BTC cai mais 2% e volta para US$111 mil, com chances de   despencar para US$ 105 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje 25/08/2025: BTC cai mais 2% e volta para US$111 mil, com chances de   despencar para US$ 105 mil</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L1N3UH07W:0",
-      "index": 11,
-      "title": "Bolsas de valores pedem que reguladores reprimam ações tokenizadas",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3UH07W:0/",
-      "source": "Reuters",
-      "published_at": "2025-08-25T09:49:40.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/coinbase.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/robinhood.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 09:49:40 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 09:49 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bolsas de valores pedem que reguladores reprimam ações tokenizadas\" data-qa-id=\"news-headline-title\">Bolsas de valores pedem que reguladores reprimam ações tokenizadas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:69165e6f9bc81:0",
-      "index": 12,
-      "title": "Notícias Cripto: Vasco lança NFTs com a Trexx, Binance promove educação cripto e outras novidades",
-      "link": "https://br.tradingview.com/news/cointelegraph:69165e6f9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-24T22:04:45.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 24 Aug 2025 22:04:45 GMT\" class=\"apply-common-tooltip\" title=\"24 de ago. de 2025, 22:04 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias Cripto: Vasco lança NFTs com a Trexx, Binance promove educação cripto e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: Vasco lança NFTs com a Trexx, Binance promove educação cripto e outras novidades</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:08b14910ebc81:0",
-      "index": 13,
-      "title": "Baleias do Bitcoin trocam BTC por Ether enquanto trader vê ETH chegando a US$ 5,5 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:08b14910ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-24T20:41:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 24 Aug 2025 20:41:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de ago. de 2025, 20:41 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias do Bitcoin trocam BTC por Ether enquanto trader vê ETH chegando a US$ 5,5 mil\" data-qa-id=\"news-headline-title\">Baleias do Bitcoin trocam BTC por Ether enquanto trader vê ETH chegando a US$ 5,5 mil</div></div></article>"
     }
   ]
 }
