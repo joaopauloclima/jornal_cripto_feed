@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-08-26T13:48:01.828Z",
+  "updated_at": "2025-08-26T14:00:36.321Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3f0f8275dbc81:0",
+      "id": "tag:reuters.com,2025:newsml_L1N3UI0HZ:0",
       "index": 0,
+      "title": "Canary Capital registra pedido para listar ETF que rastreia memecoin de Trump",
+      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3UI0HZ:0/",
+      "source": "Reuters",
+      "published_at": "2025-08-26T13:47:53.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 26 Aug 2025 13:47:53 GMT\" class=\"apply-common-tooltip\" title=\"26 de ago. de 2025, 13:47 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Canary Capital registra pedido para listar ETF que rastreia memecoin de Trump\" data-qa-id=\"news-headline-title\">Canary Capital registra pedido para listar ETF que rastreia memecoin de Trump</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3f0f8275dbc81:0",
+      "index": 1,
       "title": "Liquidações de criptomoedas atingem US$ 900 milhões com a perda de ganhos do Bitcoin em Jackson Hole",
       "link": "https://br.tradingview.com/news/cointelegraph:3f0f8275dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:45f5cfb6abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Altseason não começará até que mais ETFs de cripto sejam lançados, aponta Bitfinex",
       "link": "https://br.tradingview.com/news/cointelegraph:45f5cfb6abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e15a1e446bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Emissores de ETF devem ser seletivos, já que a maioria das criptomoedas é 'meio duvidosa', diz CEO da REX",
       "link": "https://br.tradingview.com/news/cointelegraph:e15a1e446bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:2cb83bf7dbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "US$ 110.800 é a nova linha de defesa do Bitcoin segundo a Glassnode",
       "link": "https://br.tradingview.com/news/beincrypto:2cb83bf7dbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8f7b72ee5bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Altcoins tornam o Bitcoin melhor ao atuarem como campo de testes, afirma Tim Draper",
       "link": "https://br.tradingview.com/news/cointelegraph:8f7b72ee5bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:9fe42904ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 26/08/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:9fe42904ebc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d9050c9abbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Demanda por futuros de Bitcoin aumenta mesmo com a queda do BTC: o que está acontecendo?",
       "link": "https://br.tradingview.com/news/cointelegraph:d9050c9abbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:146559628bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Fidelity destaca posição única do Ethereum entre Bitcoin e Solana",
       "link": "https://br.tradingview.com/news/beincrypto:146559628bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:379a22891bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "‘Ímãs de Trump’ seguram criptomoedas em zona de venda e o Bitcoin abaixo de US$ 110 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:379a22891bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:42108b349bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Preço do Bitcoin hoje 26/08/2025: BTC cai para US$ 109 mil e pode estender correção até US$ 105 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:42108b349bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:af7389bd4bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Análise Bitcoin: BTC encontra resistência nos US$ 110 mil",
       "link": "https://br.tradingview.com/news/beincrypto:af7389bd4bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:f0e93b663bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitwise protocola Formulário S-1 para ETF de Chainlink (LINK)",
       "link": "https://br.tradingview.com/news/beincrypto:f0e93b663bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:bccd10d0cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Por que o preço do Bitcoin caiu para US$ 109 mil? Analista avalia se é hora de vender",
       "link": "https://br.tradingview.com/news/cointelegraph:bccd10d0cbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 23:30:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 23:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o preço do Bitcoin caiu para US$ 109 mil? Analista avalia se é hora de vender\" data-qa-id=\"news-headline-title\">Por que o preço do Bitcoin caiu para US$ 109 mil? Analista avalia se é hora de vender</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1f1398f04bc81:0",
-      "index": 13,
-      "title": "Correção de 11% do Bitcoin após máxima histórica não é o fim do mercado de alta, diz analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:1f1398f04bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-25T23:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 25 Aug 2025 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de ago. de 2025, 23:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Correção de 11% do Bitcoin após máxima histórica não é o fim do mercado de alta, diz analista\" data-qa-id=\"news-headline-title\">Correção de 11% do Bitcoin após máxima histórica não é o fim do mercado de alta, diz analista</div></div></article>"
     }
   ]
 }
