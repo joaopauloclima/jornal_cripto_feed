@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-08-26T20:39:31.060Z",
+  "updated_at": "2025-08-26T20:53:55.611Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1912cd178bc81:0",
+      "id": "cointelegraph:9ba716092bc81:0",
       "index": 0,
+      "title": "Queda do Bitcoin no 2º trimestre mostra semelhanças ‘assustadoras’ enquanto prêmio da Coinbase fica positivo",
+      "link": "https://br.tradingview.com/news/cointelegraph:9ba716092bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-26T20:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 26 Aug 2025 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de ago. de 2025, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Queda do Bitcoin no 2º trimestre mostra semelhanças ‘assustadoras’ enquanto prêmio da Coinbase fica positivo\" data-qa-id=\"news-headline-title\">Queda do Bitcoin no 2º trimestre mostra semelhanças ‘assustadoras’ enquanto prêmio da Coinbase fica positivo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1912cd178bc81:0",
+      "index": 1,
       "title": "Baleia adormecida de Ethereum compra US$ 28 milhões em ETH e reacende esperanças de recuperação em 'V'",
       "link": "https://br.tradingview.com/news/cointelegraph:1912cd178bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:ecbbbb87ebc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin e a muralha da dívida de 2026: Dois ciclos em rota de colisão",
       "link": "https://br.tradingview.com/news/cointelegraph:ecbbbb87ebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c86b7c346bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "SharpLink adicionou US$ 252 milhões em ETH na semana passada e restam US$ 200 milhões em caixa de guerra",
       "link": "https://br.tradingview.com/news/cointelegraph:c86b7c346bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a172150bfbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Queda de 30% nos juros em aberto do XRP pode abrir zona de compra abaixo de US$ 2,50",
       "link": "https://br.tradingview.com/news/cointelegraph:a172150bfbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b43ba6b39bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Desenvolvedores da Solana são cobrados em US$ 5 mil por uma única consulta no BigQuery do Google Cloud",
       "link": "https://br.tradingview.com/news/cointelegraph:b43ba6b39bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6dbbf4f0ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Trump Media vai criar a CRO Strategy em acordo de US$ 6,42 bilhões com a Crypto.com",
       "link": "https://br.tradingview.com/news/cointelegraph:6dbbf4f0ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6f928497fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Jon Rice retorna ao Cointelegraph como editor-chefe",
       "link": "https://br.tradingview.com/news/cointelegraph:6f928497fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:7c6f20352bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Animoca se une à Antler para trazer IPs de anime e mangá japoneses para on-chain",
       "link": "https://br.tradingview.com/news/cointelegraph:7c6f20352bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:60ddb0ab0bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Shiba Inu pode se recuperar mesmo com queda do mercado",
       "link": "https://br.tradingview.com/news/beincrypto:60ddb0ab0bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f79191a91bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "James Wynn é liquidado em aposta de 10× em DOGE, enquanto se prepara para ‘ir totalmente comprado’",
       "link": "https://br.tradingview.com/news/cointelegraph:f79191a91bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:30d1731ebbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "ETFs de Bitcoin spot encerram sequência de seis dias de saídas com fluxos de entrada de US$ 219 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:30d1731ebbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1d6fff89ebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Recusa de big techs em ‘desenvolver o Pix’ esvazia narrativa de Trump, sugere diretor do BC",
       "link": "https://br.tradingview.com/news/cointelegraph:1d6fff89ebc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:68265bbc1bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Tesourarias de Ethereum estão de olho em uma janela de compra, diz Standard Chartered",
       "link": "https://br.tradingview.com/news/beincrypto:68265bbc1bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 26 Aug 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de ago. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tesourarias de Ethereum estão de olho em uma janela de compra, diz Standard Chartered\" data-qa-id=\"news-headline-title\">Tesourarias de Ethereum estão de olho em uma janela de compra, diz Standard Chartered</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:75577da91bc81:0",
-      "index": 13,
-      "title": "Estabilidade do dólar é questionada após Trump demitir governadora do Federal Reserve",
-      "link": "https://br.tradingview.com/news/cointelegraph:75577da91bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-26T16:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 26 Aug 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de ago. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Estabilidade do dólar é questionada após Trump demitir governadora do Federal Reserve\" data-qa-id=\"news-headline-title\">Estabilidade do dólar é questionada após Trump demitir governadora do Federal Reserve</div></div></article>"
     }
   ]
 }
