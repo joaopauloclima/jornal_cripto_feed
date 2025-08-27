@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-08-26T23:53:20.645Z",
+  "updated_at": "2025-08-27T03:17:24.575Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ed5c899b0bc81:0",
+      "id": "cointelegraph:c7d3df6c8bc81:0",
       "index": 0,
+      "title": "Google anuncia blockchain própria de Layer 1 e já faz testes com a CME",
+      "link": "https://br.tradingview.com/news/cointelegraph:c7d3df6c8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-27T00:24:20.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 00:24:20 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 00:24 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Google anuncia blockchain própria de Layer 1 e já faz testes com a CME\" data-qa-id=\"news-headline-title\">Google anuncia blockchain própria de Layer 1 e já faz testes com a CME</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6394d908dbc81:0",
+      "index": 1,
+      "title": "Bitget lança os primeiros contratos perpétuos de tokens RWA com alavancagem de 10x",
+      "link": "https://br.tradingview.com/news/cointelegraph:6394d908dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-27T00:00:05.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 00:00:05 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 00:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitget lança os primeiros contratos perpétuos de tokens RWA com alavancagem de 10x\" data-qa-id=\"news-headline-title\">Bitget lança os primeiros contratos perpétuos de tokens RWA com alavancagem de 10x</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ed5c899b0bc81:0",
+      "index": 2,
       "title": "Como o Bitcoin mudou vidas de brasileiros comuns",
       "link": "https://br.tradingview.com/news/cointelegraph:ed5c899b0bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:774fa1f8bbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Tokenização, aqui não: Justiça decide que cartórios não podem reconhecer vínculo de tokens com imóveis",
       "link": "https://br.tradingview.com/news/cointelegraph:774fa1f8bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:42ef8e982bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "‘FIDC 3.0’: Fintech brasileira adota tokenização e DeFi para destravar mercado de R$ 1 trilhão com RWAs",
       "link": "https://br.tradingview.com/news/cointelegraph:42ef8e982bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f278767efbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Trump Jr. entra para o conselho da Polymarket enquanto o mercado de previsões busca retorno nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:f278767efbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1b6c0e83abc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ether rompe contra o BTC, mas novas máximas dependem de US$ 4,7 mil se consolidar como suporte",
       "link": "https://br.tradingview.com/news/cointelegraph:1b6c0e83abc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:672ecc91bbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "JPMorgan apoia fundo de hedge Numerai com US$ 500 milhões e impulsiona a convergência entre cripto e IA",
       "link": "https://br.tradingview.com/news/cointelegraph:672ecc91bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a642fc578bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Japão escreveu o primeiro conjunto de regras para stablecoins, então por que os EUA avançam na frente?",
       "link": "https://br.tradingview.com/news/cointelegraph:a642fc578bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9ba716092bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Queda do Bitcoin no 2º trimestre mostra semelhanças ‘assustadoras’ enquanto prêmio da Coinbase fica positivo",
       "link": "https://br.tradingview.com/news/cointelegraph:9ba716092bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:1912cd178bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Baleia adormecida de Ethereum compra US$ 28 milhões em ETH e reacende esperanças de recuperação em 'V'",
       "link": "https://br.tradingview.com/news/cointelegraph:1912cd178bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ecbbbb87ebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoin e a muralha da dívida de 2026: Dois ciclos em rota de colisão",
       "link": "https://br.tradingview.com/news/cointelegraph:ecbbbb87ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c86b7c346bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "SharpLink adicionou US$ 252 milhões em ETH na semana passada e restam US$ 200 milhões em caixa de guerra",
       "link": "https://br.tradingview.com/news/cointelegraph:c86b7c346bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:a172150bfbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Queda de 30% nos juros em aberto do XRP pode abrir zona de compra abaixo de US$ 2,50",
       "link": "https://br.tradingview.com/news/cointelegraph:a172150bfbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 26 Aug 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de ago. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Queda de 30% nos juros em aberto do XRP pode abrir zona de compra abaixo de US$ 2,50\" data-qa-id=\"news-headline-title\">Queda de 30% nos juros em aberto do XRP pode abrir zona de compra abaixo de US$ 2,50</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b43ba6b39bc81:0",
-      "index": 12,
-      "title": "Desenvolvedores da Solana são cobrados em US$ 5 mil por uma única consulta no BigQuery do Google Cloud",
-      "link": "https://br.tradingview.com/news/cointelegraph:b43ba6b39bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-26T19:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 26 Aug 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de ago. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Desenvolvedores da Solana são cobrados em US$ 5 mil por uma única consulta no BigQuery do Google Cloud\" data-qa-id=\"news-headline-title\">Desenvolvedores da Solana são cobrados em US$ 5 mil por uma única consulta no BigQuery do Google Cloud</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:6dbbf4f0ebc81:0",
-      "index": 13,
-      "title": "Trump Media vai criar a CRO Strategy em acordo de US$ 6,42 bilhões com a Crypto.com",
-      "link": "https://br.tradingview.com/news/cointelegraph:6dbbf4f0ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-26T18:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 26 Aug 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de ago. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump Media vai criar a CRO Strategy em acordo de US$ 6,42 bilhões com a Crypto.com\" data-qa-id=\"news-headline-title\">Trump Media vai criar a CRO Strategy em acordo de US$ 6,42 bilhões com a Crypto.com</div></div></article>"
     }
   ]
 }
