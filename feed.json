@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-08-27T23:32:25.963Z",
+  "updated_at": "2025-08-27T23:53:51.786Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c419e46dcbc81:0",
+      "id": "cointelegraph:7183c2c75bc81:0",
       "index": 0,
+      "title": "Bitcoin é o poder soberano que protege o mundo contra falhas do Estado e das TradFi, diz cofundador da Rootstock",
+      "link": "https://br.tradingview.com/news/cointelegraph:7183c2c75bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-27T23:31:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 23:31:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 23:31 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin é o poder soberano que protege o mundo contra falhas do Estado e das TradFi, diz cofundador da Rootstock\" data-qa-id=\"news-headline-title\">Bitcoin é o poder soberano que protege o mundo contra falhas do Estado e das TradFi, diz cofundador da Rootstock</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5b95ca473bc81:0",
+      "index": 1,
+      "title": "Esses sinais definirão o preço do Bitcoin em setembro",
+      "link": "https://br.tradingview.com/news/cointelegraph:5b95ca473bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-27T23:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 23:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 23:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Esses sinais definirão o preço do Bitcoin em setembro\" data-qa-id=\"news-headline-title\">Esses sinais definirão o preço do Bitcoin em setembro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c419e46dcbc81:0",
+      "index": 2,
       "title": "Trader de cripto aumenta 'recompensa' contra a MEXC para US$ 2,5 milhões após solicitação de KYC presencial",
       "link": "https://br.tradingview.com/news/cointelegraph:c419e46dcbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1cd0be308bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Regulador dos EUA integra ferramenta de vigilância da Nasdaq para combater a manipulação de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:1cd0be308bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:0c55fcbcabc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Startup brasileira cria a primeira ponte do mundo que une stablecoins ao sistema Swift",
       "link": "https://br.tradingview.com/news/cointelegraph:0c55fcbcabc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:e2829e197bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Participações do ETF de Bitcoin da BlackRock ultrapassam Coinbase e Binance, e o ETH pode ser o próximo",
       "link": "https://br.tradingview.com/news/cointelegraph:e2829e197bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:64f67acd3bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "ETH a US$ 5 mil pode vir após vencimento de US$ 5 bilhões em opções de Ether na sexta-feira?",
       "link": "https://br.tradingview.com/news/cointelegraph:64f67acd3bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e0e98622ebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Ledn e Sygnum refinanciam empréstimo de US$ 50 milhões em Bitcoin em meio à corrida de investidores por rendimento",
       "link": "https://br.tradingview.com/news/cointelegraph:e0e98622ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:12beeededbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Trader de Bitcoin prevê US$ 117 mil enquanto preço do BTC recupera linha de tendência chave",
       "link": "https://br.tradingview.com/news/cointelegraph:12beeededbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:bc25a3844bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "112 empresas de cripto pedem ao Senado dos EUA que proteja desenvolvedores em projeto de lei sobre estrutura de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:bc25a3844bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:14226f654bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Baleias da Hyperliquid lucram US$ 48 milhões com rali de 200% do XPL em meio a alegações de manipulação",
       "link": "https://br.tradingview.com/news/cointelegraph:14226f654bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:b8929fa26bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Play Solana lançará dispositivo portátil de jogos em outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:b8929fa26bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6195430c5bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Swarm Network levanta US$ 13 milhões para facilitar IA descentralizada",
       "link": "https://br.tradingview.com/news/cointelegraph:6195430c5bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:9192b9d5fbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Melhor mês da história do Ethereum coloca o preço do ETH em US$ 7 mil ao alcance",
       "link": "https://br.tradingview.com/news/cointelegraph:9192b9d5fbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Melhor mês da história do Ethereum coloca o preço do ETH em US$ 7 mil ao alcance\" data-qa-id=\"news-headline-title\">Melhor mês da história do Ethereum coloca o preço do ETH em US$ 7 mil ao alcance</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:38f220591bc81:0",
-      "index": 12,
-      "title": "Cronos da Crypto.com salta 40% com notícia da Trump Media Group CRO Strategy",
-      "link": "https://br.tradingview.com/news/cointelegraph:38f220591bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-27T18:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCCRO.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCCRO.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Cronos da Crypto.com salta 40% com notícia da Trump Media Group CRO Strategy\" data-qa-id=\"news-headline-title\">Cronos da Crypto.com salta 40% com notícia da Trump Media Group CRO Strategy</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2e6f867f5bc81:0",
-      "index": 13,
-      "title": "Traders de varejo perdem quando os acordos de tokens OTC ganham: Entenda o motivo",
-      "link": "https://br.tradingview.com/news/cointelegraph:2e6f867f5bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-27T18:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders de varejo perdem quando os acordos de tokens OTC ganham: Entenda o motivo\" data-qa-id=\"news-headline-title\">Traders de varejo perdem quando os acordos de tokens OTC ganham: Entenda o motivo</div></div></article>"
     }
   ]
 }
