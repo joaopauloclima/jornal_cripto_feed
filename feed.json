@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-08-28T13:40:34.691Z",
+  "updated_at": "2025-08-28T13:57:07.075Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ab8e4363fbc81:0",
+      "id": "cointelegraph:8404fe662bc81:0",
       "index": 0,
+      "title": "'Brasileiros querem bigtechs, criptomoedas e renda fixa', aponta Webull",
+      "link": "https://br.tradingview.com/news/cointelegraph:8404fe662bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-28T13:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 28 Aug 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de ago. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Brasileiros querem bigtechs, criptomoedas e renda fixa', aponta Webull\" data-qa-id=\"news-headline-title\">'Brasileiros querem bigtechs, criptomoedas e renda fixa', aponta Webull</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ab8e4363fbc81:0",
+      "index": 1,
       "title": "5 criptomoedas DeFi para ficar de olho em setembro",
       "link": "https://br.tradingview.com/news/cointelegraph:ab8e4363fbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:c51e6aaf6bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Circle amplia uso do USDC em pagamentos globais com acordos com Mastercard e Finastra",
       "link": "https://br.tradingview.com/news/cointelegraph:c51e6aaf6bc81:0/",
       "source": "Cointelegraph",
@@ -25,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 28 Aug 2025 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de ago. de 2025, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Circle amplia uso do USDC em pagamentos globais com acordos com Mastercard e Finastra\" data-qa-id=\"news-headline-title\">Circle amplia uso do USDC em pagamentos globais com acordos com Mastercard e Finastra</div></div></article>"
     },
     {
+      "id": "beincrypto:e6862bf1bbc81:0",
+      "index": 3,
+      "title": "Por que o mercado de criptomoedas está em alta hoje 28/08/2025?",
+      "link": "https://br.tradingview.com/news/beincrypto:e6862bf1bbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-08-28T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCCRO.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 28 Aug 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de ago. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 28/08/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 28/08/2025?</div></div></article>"
+    },
+    {
       "id": "cointelegraph:aba578f0fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Google apresenta planos para ‘Universal Ledger’ em meio à corrida por blockchains institucionais",
       "link": "https://br.tradingview.com/news/cointelegraph:aba578f0fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f3205cf1fbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin chega a US$ 113 mil, mas perde terreno e altcoins disparam até 53%",
       "link": "https://br.tradingview.com/news/cointelegraph:f3205cf1fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:2dbbe98b2bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "O que esperar do preço do XRP em setembro de 2025?",
       "link": "https://br.tradingview.com/news/beincrypto:2dbbe98b2bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7262569a8bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Preço do Bitcoin hoje 28/08/2025: BTC recupera US$ 113 mil, sobe quase 2% e pode ensaiar retorno a US$ 115 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:7262569a8bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:9f3dfad94bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin e criptomoedas ganham espaço entre Millennials e a Geração Z",
       "link": "https://br.tradingview.com/news/beincrypto:9f3dfad94bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c8ae81de9bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "TV 3.0: Lula anuncia início das transmissões em 2026 com interatividade, compras em tempo real e outras inovações",
       "link": "https://br.tradingview.com/news/cointelegraph:c8ae81de9bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5252a5082bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Operação Carbono Oculto: Policia Federal e Receita Federal 'fecham' 40 fundos de investimentos aprovados pela CVM e usados pelo crime",
       "link": "https://br.tradingview.com/news/cointelegraph:5252a5082bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3UK0AU:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoin norte-americano, apoiado pelos filhos de Trump, pretende começar a ser negociado em setembro",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3UK0AU:0/",
       "source": "Reuters",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7183c2c75bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin é o poder soberano que protege o mundo contra falhas do Estado e das TradFi, diz cofundador da Rootstock",
       "link": "https://br.tradingview.com/news/cointelegraph:7183c2c75bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5b95ca473bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Esses sinais definirão o preço do Bitcoin em setembro",
       "link": "https://br.tradingview.com/news/cointelegraph:5b95ca473bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 23:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 23:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Esses sinais definirão o preço do Bitcoin em setembro\" data-qa-id=\"news-headline-title\">Esses sinais definirão o preço do Bitcoin em setembro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c419e46dcbc81:0",
-      "index": 12,
-      "title": "Trader de cripto aumenta 'recompensa' contra a MEXC para US$ 2,5 milhões após solicitação de KYC presencial",
-      "link": "https://br.tradingview.com/news/cointelegraph:c419e46dcbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-27T22:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 22:20:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 22:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trader de cripto aumenta 'recompensa' contra a MEXC para US$ 2,5 milhões após solicitação de KYC presencial\" data-qa-id=\"news-headline-title\">Trader de cripto aumenta 'recompensa' contra a MEXC para US$ 2,5 milhões após solicitação de KYC presencial</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1cd0be308bc81:0",
-      "index": 13,
-      "title": "Regulador dos EUA integra ferramenta de vigilância da Nasdaq para combater a manipulação de mercado",
-      "link": "https://br.tradingview.com/news/cointelegraph:1cd0be308bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-27T22:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 27 Aug 2025 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de ago. de 2025, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Regulador dos EUA integra ferramenta de vigilância da Nasdaq para combater a manipulação de mercado\" data-qa-id=\"news-headline-title\">Regulador dos EUA integra ferramenta de vigilância da Nasdaq para combater a manipulação de mercado</div></div></article>"
     }
   ]
 }
