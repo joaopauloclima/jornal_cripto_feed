@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-08-29T17:00:30.318Z",
+  "updated_at": "2025-08-29T17:36:11.896Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:13ba6d53dbc81:0",
+      "id": "cointelegraph:22999d504bc81:0",
       "index": 0,
+      "title": "Baleias de Bitcoin derrubam preço do BTC abaixo de US$ 109,5 mil enquanto mercado 'oscila' antes do PCE dos EUA",
+      "link": "https://br.tradingview.com/news/cointelegraph:22999d504bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-29T17:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 29 Aug 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de ago. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias de Bitcoin derrubam preço do BTC abaixo de US$ 109,5 mil enquanto mercado 'oscila' antes do PCE dos EUA\" data-qa-id=\"news-headline-title\">Baleias de Bitcoin derrubam preço do BTC abaixo de US$ 109,5 mil enquanto mercado 'oscila' antes do PCE dos EUA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:190fe6a62bc81:0",
+      "index": 1,
+      "title": "Governo equipara fintechs a bancos e amplia lupa sobre as criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:190fe6a62bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-29T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 29 Aug 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de ago. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Governo equipara fintechs a bancos e amplia lupa sobre as criptomoedas\" data-qa-id=\"news-headline-title\">Governo equipara fintechs a bancos e amplia lupa sobre as criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:13ba6d53dbc81:0",
+      "index": 2,
       "title": "XRP vai desabar em setembro?",
       "link": "https://br.tradingview.com/news/cointelegraph:13ba6d53dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:11fd0846ebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Traders de Bitcoin: BTC precisa fechar semana acima de US$ 114 mil para evitar correção 'feia'",
       "link": "https://br.tradingview.com/news/cointelegraph:11fd0846ebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6a05cb8c8bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "92 produtos de investimento relacionados a cripto estão em andamento: ‘Portões estão prestes a se abrir’",
       "link": "https://br.tradingview.com/news/cointelegraph:6a05cb8c8bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:3cbb03d92bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Charles Hoskinson prevê: Bitcoin alcançará US$ 250 mil até o final deste ciclo",
       "link": "https://br.tradingview.com/news/beincrypto:3cbb03d92bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6a64bcd03bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "ETFs dos EUA agora são uma das principais fontes de volume de negociação à vista de Bitcoin, diz CryptoQuant",
       "link": "https://br.tradingview.com/news/cointelegraph:6a64bcd03bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6d57eeb4fbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Solana Policy Institute doa US$ 500 mil para fundo de defesa de Roman Storm",
       "link": "https://br.tradingview.com/news/cointelegraph:6d57eeb4fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:4be4b06a0bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bancos dos EUA movimentaram US$ 312 bilhões em dinheiro sujo, mas críticos ainda culpam as criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:4be4b06a0bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:ea4a288ebbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "ZachXBT critica investidores de Ripple (XRP): “Eles não agregam valor”",
       "link": "https://br.tradingview.com/news/beincrypto:ea4a288ebbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:0d0557470bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Inscrições para trainee da EY e Yduqs entram na reta final enquanto ClickSign abre vagas home office",
       "link": "https://br.tradingview.com/news/cointelegraph:0d0557470bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ff3b2d02abc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Fracassou em sua entrevista para um emprego cripto? Veja 4 erros que você provavelmente cometeu",
       "link": "https://br.tradingview.com/news/cointelegraph:ff3b2d02abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ead7d488fbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Executivos cripto se unem para SPAC de US$ 200 milhões focado em infraestrutura Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:ead7d488fbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:c0c2c0979bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "XRP perde força e cai sob US$ 3 com saídas recordes",
       "link": "https://br.tradingview.com/news/beincrypto:c0c2c0979bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 29 Aug 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de ago. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP perde força e cai sob US$ 3 com saídas recordes\" data-qa-id=\"news-headline-title\">XRP perde força e cai sob US$ 3 com saídas recordes</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d6eaeeaf9bc81:0",
-      "index": 12,
-      "title": "Mineradores de Bitcoin sacam US$ 485 milhões enquanto BTC luta para segurar US$ 112 mil; Sinal de alerta?",
-      "link": "https://br.tradingview.com/news/cointelegraph:d6eaeeaf9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-29T13:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 29 Aug 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de ago. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mineradores de Bitcoin sacam US$ 485 milhões enquanto BTC luta para segurar US$ 112 mil; Sinal de alerta?\" data-qa-id=\"news-headline-title\">Mineradores de Bitcoin sacam US$ 485 milhões enquanto BTC luta para segurar US$ 112 mil; Sinal de alerta?</div></div></article>"
-    },
-    {
-      "id": "beincrypto:4143b866ebc81:0",
-      "index": 13,
-      "title": "Rali do Bitcoin pode terminar em outubro, dizem analistas",
-      "link": "https://br.tradingview.com/news/beincrypto:4143b866ebc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-08-29T13:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 29 Aug 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de ago. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rali do Bitcoin pode terminar em outubro, dizem analistas\" data-qa-id=\"news-headline-title\">Rali do Bitcoin pode terminar em outubro, dizem analistas</div></div></article>"
     }
   ]
 }
