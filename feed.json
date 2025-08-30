@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-08-30T13:53:39.029Z",
+  "updated_at": "2025-08-30T14:54:32.001Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:afde652efbc81:0",
+      "id": "cointelegraph:1298d0c5fbc81:0",
       "index": 0,
+      "title": "Tribunal indiano condena 14 pessoas à prisão perpétua em caso de extorsão de Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:1298d0c5fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-30T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 30 Aug 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de ago. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tribunal indiano condena 14 pessoas à prisão perpétua em caso de extorsão de Bitcoin\" data-qa-id=\"news-headline-title\">Tribunal indiano condena 14 pessoas à prisão perpétua em caso de extorsão de Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:afde652efbc81:0",
+      "index": 1,
       "title": "Estratégia Ação judicial contra a Strategy é rejeitada após investidores desistirem do caso",
       "link": "https://br.tradingview.com/news/cointelegraph:afde652efbc81:0/",
       "source": "Cointelegraph",
@@ -14,8 +25,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 30 Aug 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de ago. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Estratégia Ação judicial contra a Strategy é rejeitada após investidores desistirem do caso\" data-qa-id=\"news-headline-title\">Estratégia Ação judicial contra a Strategy é rejeitada após investidores desistirem do caso</div></div></article>"
     },
     {
+      "id": "beincrypto:1e795e826bc81:0",
+      "index": 2,
+      "title": "MP 1303: Contadora cripto explica dura realidade para usuários e investidores cripto",
+      "link": "https://br.tradingview.com/news/beincrypto:1e795e826bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-08-30T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 30 Aug 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de ago. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"MP 1303: Contadora cripto explica dura realidade para usuários e investidores cripto\" data-qa-id=\"news-headline-title\">MP 1303: Contadora cripto explica dura realidade para usuários e investidores cripto</div></div></article>"
+    },
+    {
       "id": "cointelegraph:759cbbc83bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Token PENGU cai 20% em agosto em meio ao lançamento do jogo Pudgy Party",
       "link": "https://br.tradingview.com/news/cointelegraph:759cbbc83bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8bacf0825bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Gryphon aprova fusão reversa com a American Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:8bacf0825bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:55830f3a5bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin caminha para US$ 100 mil com déficit comercial dos EUA e problemas com bancos chineses",
       "link": "https://br.tradingview.com/news/cointelegraph:55830f3a5bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f50721ee5bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Advogado de Elon Musk presidirá o tesouro de US$ 200 milhões da Dogecoin",
       "link": "https://br.tradingview.com/news/cointelegraph:f50721ee5bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e8f3e3f8abc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Tether descarta plano de congelar USDT em cinco blockchains",
       "link": "https://br.tradingview.com/news/cointelegraph:e8f3e3f8abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:2660dd0e0bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "El Salvador divide seus US$ 678 milhões em Bitcoin em 14 carteiras para reduzir o risco quântico",
       "link": "https://br.tradingview.com/news/cointelegraph:2660dd0e0bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:dcd80eb12bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "ETFs spot de BTC e ETH registram saídas com aumento da inflação devido às tarifas de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:dcd80eb12bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:0f9654063bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Com mega bomba de bilhões pronta para entrar no mercado cripto, analista indica 6 criptomoedas para setembro",
       "link": "https://br.tradingview.com/news/cointelegraph:0f9654063bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:b9925518abc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Entre a lei e o mercado: Decisão judicial desafia tokenização de imóveis no Brasil por falta de clareza regulatória",
       "link": "https://br.tradingview.com/news/cointelegraph:b9925518abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:72344d168bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Análise de preços em 29/08: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI",
       "link": "https://br.tradingview.com/news/cointelegraph:72344d168bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:7817eb1d9bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Projeto de IA Agentic Eliza Labs processa a xAI de Elon Musk",
       "link": "https://br.tradingview.com/news/cointelegraph:7817eb1d9bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 29 Aug 2025 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de ago. de 2025, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Projeto de IA Agentic Eliza Labs processa a xAI de Elon Musk\" data-qa-id=\"news-headline-title\">Projeto de IA Agentic Eliza Labs processa a xAI de Elon Musk</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:fb889bb11bc81:0",
-      "index": 12,
-      "title": "Token da Hyperliquid ganha acesso institucional com novo ETP da 21Shares",
-      "link": "https://br.tradingview.com/news/cointelegraph:fb889bb11bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-29T21:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 29 Aug 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de ago. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Token da Hyperliquid ganha acesso institucional com novo ETP da 21Shares\" data-qa-id=\"news-headline-title\">Token da Hyperliquid ganha acesso institucional com novo ETP da 21Shares</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ca88babdebc81:0",
-      "index": 13,
-      "title": "Diante do fluxo de inscrições, a Ethereum Foundation suspende as inscrições de subsídios abertos",
-      "link": "https://br.tradingview.com/news/cointelegraph:ca88babdebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-29T21:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 29 Aug 2025 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de ago. de 2025, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Diante do fluxo de inscrições, a Ethereum Foundation suspende as inscrições de subsídios abertos\" data-qa-id=\"news-headline-title\">Diante do fluxo de inscrições, a Ethereum Foundation suspende as inscrições de subsídios abertos</div></div></article>"
     }
   ]
 }
