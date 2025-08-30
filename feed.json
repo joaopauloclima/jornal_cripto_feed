@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-08-30T10:53:22.493Z",
+  "updated_at": "2025-08-30T11:27:29.137Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2660dd0e0bc81:0",
+      "id": "cointelegraph:e8f3e3f8abc81:0",
       "index": 0,
+      "title": "Tether descarta plano de congelar USDT em cinco blockchains",
+      "link": "https://br.tradingview.com/news/cointelegraph:e8f3e3f8abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-30T11:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 30 Aug 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de ago. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tether descarta plano de congelar USDT em cinco blockchains\" data-qa-id=\"news-headline-title\">Tether descarta plano de congelar USDT em cinco blockchains</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2660dd0e0bc81:0",
+      "index": 1,
       "title": "El Salvador divide seus US$ 678 milhões em Bitcoin em 14 carteiras para reduzir o risco quântico",
       "link": "https://br.tradingview.com/news/cointelegraph:2660dd0e0bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:dcd80eb12bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "ETFs spot de BTC e ETH registram saídas com aumento da inflação devido às tarifas de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:dcd80eb12bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0f9654063bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Com mega bomba de bilhões pronta para entrar no mercado cripto, analista indica 6 criptomoedas para setembro",
       "link": "https://br.tradingview.com/news/cointelegraph:0f9654063bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b9925518abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Entre a lei e o mercado: Decisão judicial desafia tokenização de imóveis no Brasil por falta de clareza regulatória",
       "link": "https://br.tradingview.com/news/cointelegraph:b9925518abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:72344d168bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Análise de preços em 29/08: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI",
       "link": "https://br.tradingview.com/news/cointelegraph:72344d168bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:7817eb1d9bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Projeto de IA Agentic Eliza Labs processa a xAI de Elon Musk",
       "link": "https://br.tradingview.com/news/cointelegraph:7817eb1d9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fb889bb11bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Token da Hyperliquid ganha acesso institucional com novo ETP da 21Shares",
       "link": "https://br.tradingview.com/news/cointelegraph:fb889bb11bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ca88babdebc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Diante do fluxo de inscrições, a Ethereum Foundation suspende as inscrições de subsídios abertos",
       "link": "https://br.tradingview.com/news/cointelegraph:ca88babdebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:08a4817e3bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Preço do Bitcoin cai para o menor nível desde 8 de julho enquanto liquidações superam US$ 530 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:08a4817e3bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:fd4cf9ee4bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Fracassos de tesourarias de Bitcoin: Estas empresas erraram em suas apostas em BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:fd4cf9ee4bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:43bea8461bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Baleias de Bitcoin migram para o Ether apesar da fila recorde de saída de validadores de US$ 5 bilhões em ETH: Finance Redefined",
       "link": "https://br.tradingview.com/news/cointelegraph:43bea8461bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:11d61e8febc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Mercado cripto em 'sala de espera' antes do topo esperado no 1º trimestre de 2026, afirma Raoul Pal",
       "link": "https://br.tradingview.com/news/cointelegraph:11d61e8febc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:49eede238bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "5 sinais de que o mercado de alta do Ethereum não terminou abaixo de US$ 5 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:49eede238bc81:0/",
       "source": "Cointelegraph",
