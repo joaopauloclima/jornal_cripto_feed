@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-08-31T11:53:48.228Z",
+  "updated_at": "2025-08-31T13:09:40.258Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9b01926b4bc81:0",
+      "id": "cointelegraph:cfe23a8e5bc81:0",
       "index": 0,
+      "title": "A estratégia de Bitcoin da Metaplanet enfrenta uma crise de arrecadação",
+      "link": "https://br.tradingview.com/news/cointelegraph:cfe23a8e5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-31T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 31 Aug 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de ago. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A estratégia de Bitcoin da Metaplanet enfrenta uma crise de arrecadação\" data-qa-id=\"news-headline-title\">A estratégia de Bitcoin da Metaplanet enfrenta uma crise de arrecadação</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9116d33e9bc81:0",
+      "index": 1,
+      "title": "Enquanto traders dizem 'compre a queda', Santiment afirma que o BTC pode cair ainda mais",
+      "link": "https://br.tradingview.com/news/cointelegraph:9116d33e9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-08-31T12:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 31 Aug 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de ago. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Enquanto traders dizem 'compre a queda', Santiment afirma que o BTC pode cair ainda mais\" data-qa-id=\"news-headline-title\">Enquanto traders dizem 'compre a queda', Santiment afirma que o BTC pode cair ainda mais</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9b01926b4bc81:0",
+      "index": 2,
       "title": "Mesmo que o Bitcoin suba para US$ 10 milhões, as pessoas ainda vão continuar céticas sobre seu potencial",
       "link": "https://br.tradingview.com/news/cointelegraph:9b01926b4bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:68dcd3d3dbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "'Sem dúvida, o Bitcoin chega a US$ 1 milhão', diz Eric Trump na BTC Asia 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:68dcd3d3dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:ef9910273bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Empresas de tesouraria de criptomoedas refletem os riscos da crise financeira de 2008",
       "link": "https://br.tradingview.com/news/cointelegraph:ef9910273bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a1abe4274bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "DeFi sobreviverá aos esforços da regulamentação, diz CEO da Fold",
       "link": "https://br.tradingview.com/news/cointelegraph:a1abe4274bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ac94bfd93bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Pump.fun gasta mais de US$ 62 milhões em recompras para aumentar o preço do PUMP",
       "link": "https://br.tradingview.com/news/cointelegraph:ac94bfd93bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7645736e9bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "O preço do Bitcoin perde o principal suporte e pode cair para US$ 80 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:7645736e9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:1298d0c5fbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Tribunal indiano condena 14 pessoas à prisão perpétua em caso de extorsão de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:1298d0c5fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:afde652efbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Estratégia Ação judicial contra a Strategy é rejeitada após investidores desistirem do caso",
       "link": "https://br.tradingview.com/news/cointelegraph:afde652efbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:1e795e826bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "MP 1303: Contadora cripto explica dura realidade para usuários e investidores cripto",
       "link": "https://br.tradingview.com/news/beincrypto:1e795e826bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:759cbbc83bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Token PENGU cai 20% em agosto em meio ao lançamento do jogo Pudgy Party",
       "link": "https://br.tradingview.com/news/cointelegraph:759cbbc83bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8bacf0825bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Gryphon aprova fusão reversa com a American Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:8bacf0825bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:55830f3a5bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin caminha para US$ 100 mil com déficit comercial dos EUA e problemas com bancos chineses",
       "link": "https://br.tradingview.com/news/cointelegraph:55830f3a5bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 30 Aug 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de ago. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin caminha para US$ 100 mil com déficit comercial dos EUA e problemas com bancos chineses\" data-qa-id=\"news-headline-title\">Bitcoin caminha para US$ 100 mil com déficit comercial dos EUA e problemas com bancos chineses</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f50721ee5bc81:0",
-      "index": 12,
-      "title": "Advogado de Elon Musk presidirá o tesouro de US$ 200 milhões da Dogecoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:f50721ee5bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-30T11:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 30 Aug 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de ago. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Advogado de Elon Musk presidirá o tesouro de US$ 200 milhões da Dogecoin\" data-qa-id=\"news-headline-title\">Advogado de Elon Musk presidirá o tesouro de US$ 200 milhões da Dogecoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e8f3e3f8abc81:0",
-      "index": 13,
-      "title": "Tether descarta plano de congelar USDT em cinco blockchains",
-      "link": "https://br.tradingview.com/news/cointelegraph:e8f3e3f8abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-30T11:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 30 Aug 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de ago. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tether descarta plano de congelar USDT em cinco blockchains\" data-qa-id=\"news-headline-title\">Tether descarta plano de congelar USDT em cinco blockchains</div></div></article>"
     }
   ]
 }
