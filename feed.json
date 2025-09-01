@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-01T21:32:19.954Z",
+  "updated_at": "2025-09-01T21:53:23.010Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8fce641f8bc81:0",
+      "id": "cointelegraph:66eb3516fbc81:0",
       "index": 0,
+      "title": "Top 10 CEOs de cripto por patrimônio líquido em 2025: Quem lidera a indústria?",
+      "link": "https://br.tradingview.com/news/cointelegraph:66eb3516fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-01T21:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 01 Sep 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de set. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Top 10 CEOs de cripto por patrimônio líquido em 2025: Quem lidera a indústria?\" data-qa-id=\"news-headline-title\">Top 10 CEOs de cripto por patrimônio líquido em 2025: Quem lidera a indústria?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8fce641f8bc81:0",
+      "index": 1,
       "title": "Bitcoin abre ‘setembro vermelho’ sob pressão e risco de queda adicional de 16%, alerta analista",
       "link": "https://br.tradingview.com/news/cointelegraph:8fce641f8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:090311808bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Análise de preços em 01/09: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:090311808bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:24be41f90bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Truther levará cliente para evento na Suíça com tudo pago",
       "link": "https://br.tradingview.com/news/beincrypto:24be41f90bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d955ddf4cbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Quais expectativas sobre a política cripto dos EUA quando o Congresso retornar às sessões",
       "link": "https://br.tradingview.com/news/cointelegraph:d955ddf4cbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:0a44669e7bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Qual é o verdadeiro WLFI? Como evitar os golpistas",
       "link": "https://br.tradingview.com/news/cointelegraph:0a44669e7bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e98a41f2cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Binance lança entidade Medá no México e planeja investimento de US$ 53 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:e98a41f2cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c8e9da0b4bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Cripto está a um 'ciclo de crescimento' da adoção em massa, com 5 bilhões de usuários",
       "link": "https://br.tradingview.com/news/cointelegraph:c8e9da0b4bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:648f7f551bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Preço do XRP vai cair para US$ 2 ou mudar de rumo?",
       "link": "https://br.tradingview.com/news/cointelegraph:648f7f551bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:85687ffd9bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Fundos de cripto registram fluxos de US$ 2,5 bilhões apesar da queda nos preços do BTC e do ETH",
       "link": "https://br.tradingview.com/news/cointelegraph:85687ffd9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:4792e7094bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Preço do XRP começa setembro em baixa, mas métricas indicam recuperação de 8% à frente",
       "link": "https://br.tradingview.com/news/beincrypto:4792e7094bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4c2e2c785bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Quem possui mais Ether em 2025? Lista dos mais ricos em ETH é revelada",
       "link": "https://br.tradingview.com/news/cointelegraph:4c2e2c785bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:048cc5dc5bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Rarible aposta em recompras de tokens para superar o hype do farming de NFTs",
       "link": "https://br.tradingview.com/news/cointelegraph:048cc5dc5bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:49732a6f6bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Especialista aponta Bitcoin a US$ 180 mil e contraria pessimismo da Moody’s",
       "link": "https://br.tradingview.com/news/cointelegraph:49732a6f6bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 01 Sep 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de set. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Especialista aponta Bitcoin a US$ 180 mil e contraria pessimismo da Moody’s\" data-qa-id=\"news-headline-title\">Especialista aponta Bitcoin a US$ 180 mil e contraria pessimismo da Moody’s</div></div></article>"
-    },
-    {
-      "id": "beincrypto:0622b6bb6bc81:0",
-      "index": 13,
-      "title": "Metaplanet ultrapassa 20 mil BTC e entra no Top 6 de tesourarias globais",
-      "link": "https://br.tradingview.com/news/beincrypto:0622b6bb6bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-01T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 01 Sep 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de set. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Metaplanet ultrapassa 20 mil BTC e entra no Top 6 de tesourarias globais\" data-qa-id=\"news-headline-title\">Metaplanet ultrapassa 20 mil BTC e entra no Top 6 de tesourarias globais</div></div></article>"
     }
   ]
 }
