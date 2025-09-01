@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-01T14:43:25.410Z",
+  "updated_at": "2025-09-01T14:54:44.086Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b55767741bc81:0",
+      "id": "cointelegraph:650e61951bc81:0",
       "index": 0,
+      "title": "Raoul Pal prevê que número de usuários cripto chegará a impressionantes 4 bilhões até 2030",
+      "link": "https://br.tradingview.com/news/cointelegraph:650e61951bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-01T14:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 01 Sep 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de set. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Raoul Pal prevê que número de usuários cripto chegará a impressionantes 4 bilhões até 2030\" data-qa-id=\"news-headline-title\">Raoul Pal prevê que número de usuários cripto chegará a impressionantes 4 bilhões até 2030</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b55767741bc81:0",
+      "index": 1,
       "title": "Joe Lubin aposta em valorização de 100x do Ether à medida que Wall Street adota infraestrutura descentralizada",
       "link": "https://br.tradingview.com/news/cointelegraph:b55767741bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:6832a9fc6bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Baleia de BTC agora detém US$ 3,8 bilhões em ETH, sinalizando 'maturidade de mercado'",
       "link": "https://br.tradingview.com/news/cointelegraph:6832a9fc6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e535e5af6bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Brasil volta a investir, mas acumula R$ 80 milhões em retiradas mensais de fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:e535e5af6bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:f4cb84a0abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Reservas de Ethereum em baixa de 9 anos perto dos US$ 5 mil",
       "link": "https://br.tradingview.com/news/beincrypto:f4cb84a0abc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c17768b29bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin em risco de queda no feriado do Dia do Trabalho para US$ 105 mil enquanto vendedores aproveitam ameaça de baleia OG",
       "link": "https://br.tradingview.com/news/cointelegraph:c17768b29bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:09715f37ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "O que esperar do preço do Bitcoin (BTC) em setembro de 2025?",
       "link": "https://br.tradingview.com/news/beincrypto:09715f37ebc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:ed3128530bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "99% são a favor da atualização Alpenglow da Solana para finalidade de 150 ms, até agora",
       "link": "https://br.tradingview.com/news/cointelegraph:ed3128530bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d07cbf77fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Binance anuncia listagem e airdrop de 30.000.000 SOMI enquanto o Bitcoin perde US$ 109 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d07cbf77fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:db6240256bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Nova fase do Drex: Banco Central busca soluções de tokenização sem blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:db6240256bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f4ed0c7fdbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Valor do Bitcoin hoje 01/09/2025: por que o preço do Bitcoin subiu hoje? BTC em alta de 1%",
       "link": "https://br.tradingview.com/news/cointelegraph:f4ed0c7fdbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:072516179bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Empresas estão comprando Bitcoin 4x mais rápido do que ele é minerado",
       "link": "https://br.tradingview.com/news/cointelegraph:072516179bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:b4c633794bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "A IA tornará as ações obsoletas, levando os investidores ao Bitcoin, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:b4c633794bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:7ef9be90bbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "O investimento de capital de risco mudou devido à maturidade do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:7ef9be90bbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 31 Aug 2025 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de ago. de 2025, 23:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O investimento de capital de risco mudou devido à maturidade do mercado\" data-qa-id=\"news-headline-title\">O investimento de capital de risco mudou devido à maturidade do mercado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:948516505bc81:0",
-      "index": 13,
-      "title": "O mercado de alta do Bitcoin estará 'acabado' se o preço do BTC cair abaixo de  US$ 100 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:948516505bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-08-31T22:51:36.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 31 Aug 2025 22:51:36 GMT\" class=\"apply-common-tooltip\" title=\"31 de ago. de 2025, 22:51 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O mercado de alta do Bitcoin estará 'acabado' se o preço do BTC cair abaixo de  US$ 100 mil\" data-qa-id=\"news-headline-title\">O mercado de alta do Bitcoin estará 'acabado' se o preço do BTC cair abaixo de  US$ 100 mil</div></div></article>"
     }
   ]
 }
