@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-02T21:31:09.106Z",
+  "updated_at": "2025-09-02T21:53:49.314Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c05be7f2bbc81:0",
+      "id": "cointelegraph:9b7b6f7cebc81:0",
       "index": 0,
+      "title": "Alta na negociação spot de Bitcoin sugere possível rompimento para US$ 119 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:9b7b6f7cebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-02T21:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Sep 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de set. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Alta na negociação spot de Bitcoin sugere possível rompimento para US$ 119 mil\" data-qa-id=\"news-headline-title\">Alta na negociação spot de Bitcoin sugere possível rompimento para US$ 119 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c05be7f2bbc81:0",
+      "index": 1,
       "title": "Touros do Bitcoin avançam para US$ 112 mil enquanto o ouro atinge novas máximas históricas",
       "link": "https://br.tradingview.com/news/cointelegraph:c05be7f2bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:bb6378185bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Yunfeng Financial, ligada a Jack Ma, adquire US$ 44 milhões em ETH em meio a avanço na Web3",
       "link": "https://br.tradingview.com/news/cointelegraph:bb6378185bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:56117eaddbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Avalanche e Toyota Blockchain projetam infraestrutura para robotaxis autônomos",
       "link": "https://br.tradingview.com/news/cointelegraph:56117eaddbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f98ec63aabc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Até onde o preço do Bitcoin pode chegar enquanto o ouro atinge recorde acima de US$ 3,5 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:f98ec63aabc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4c72ca467bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Conheça as 5 pessoas mais poderosas das criptomoedas atualmente e o que planejam a seguir",
       "link": "https://br.tradingview.com/news/cointelegraph:4c72ca467bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:f7bea3cd4bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Primeira empresa de tesouraria de Dogecoin vê queda imediata nas ações – má ideia?",
       "link": "https://br.tradingview.com/news/beincrypto:f7bea3cd4bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:64a7c090cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Gemini protocola S-1 para IPO e planeja listar 16,7 milhões de ações GEMI na Nasdaq",
       "link": "https://br.tradingview.com/news/cointelegraph:64a7c090cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5171f3104bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Baleias de Ethereum acumulam 260 mil ETH e alimentam esperanças de recuperação para US$ 5 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:5171f3104bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d06b1dfa8bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Ether Machine arrecada US$ 654 milhões em ETH em financiamento privado antes de listagem na Nasdaq",
       "link": "https://br.tradingview.com/news/cointelegraph:d06b1dfa8bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:e3666346ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Preço do Bitcoin pode cair para menos de US$ 95 mil, preveem analistas da Bitfinex",
       "link": "https://br.tradingview.com/news/beincrypto:e3666346ebc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:1faea7f73bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Ethereum L2 Starknet sofre 2ª paralisação na mainnet em 2 meses",
       "link": "https://br.tradingview.com/news/cointelegraph:1faea7f73bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a3d78122abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Detentores de Bitcoin de curto prazo acionam raro sinal de fundo do BTC em US$ 107 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:a3d78122abc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3b6bba8f0bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "PayPal Ventures apoia a Kite AI com US$ 18 milhões para impulsionar agentes de IA",
       "link": "https://br.tradingview.com/news/cointelegraph:3b6bba8f0bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Sep 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de set. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"PayPal Ventures apoia a Kite AI com US$ 18 milhões para impulsionar agentes de IA\" data-qa-id=\"news-headline-title\">PayPal Ventures apoia a Kite AI com US$ 18 milhões para impulsionar agentes de IA</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5a46c5cefbc81:0",
-      "index": 13,
-      "title": "Plano de recompra de US$ 75 milhões da Sky impulsiona o token SKY em 8% em 6 meses",
-      "link": "https://br.tradingview.com/news/cointelegraph:5a46c5cefbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-02T17:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Sep 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de set. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Plano de recompra de US$ 75 milhões da Sky impulsiona o token SKY em 8% em 6 meses\" data-qa-id=\"news-headline-title\">Plano de recompra de US$ 75 milhões da Sky impulsiona o token SKY em 8% em 6 meses</div></div></article>"
     }
   ]
 }
