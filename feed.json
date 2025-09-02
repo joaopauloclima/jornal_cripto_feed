@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-02T13:41:58.303Z",
+  "updated_at": "2025-09-02T13:58:04.262Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:42067e758bc81:0",
+      "id": "cointelegraph:6f4965430bc81:0",
       "index": 0,
+      "title": "Investidores podem não entender ações tokenizadas, alerta agência reguladora europeia",
+      "link": "https://br.tradingview.com/news/cointelegraph:6f4965430bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-02T13:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Sep 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de set. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Investidores podem não entender ações tokenizadas, alerta agência reguladora europeia\" data-qa-id=\"news-headline-title\">Investidores podem não entender ações tokenizadas, alerta agência reguladora europeia</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:42067e758bc81:0",
+      "index": 1,
       "title": "Bitcoin se mantém em US$ 109 mil enquanto baleias giram para ETH e rendimentos de títulos do Reino Unido disparam",
       "link": "https://br.tradingview.com/news/cointelegraph:42067e758bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:8979f6313bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Criptomoedas podem ser incluídas em testamento, prevê projeto",
       "link": "https://br.tradingview.com/news/cointelegraph:8979f6313bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:edcfcf1d2bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Trump e família acumulam US$ 5 bilhões em participação na World Liberty após desbloqueio de tokens",
       "link": "https://br.tradingview.com/news/cointelegraph:edcfcf1d2bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:01018a57fbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Preço da Solana dobra enquanto atividade na rede despenca",
       "link": "https://br.tradingview.com/news/beincrypto:01018a57fbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:932f3dcb3bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Itaú Asset cria nova divisão de criptoativos sob liderança de ex-Hashdex para acelerar expansão de portfólio",
       "link": "https://br.tradingview.com/news/cointelegraph:932f3dcb3bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:38aab5bc5bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Ouro em recorde pode impulsionar o Bitcoin?",
       "link": "https://br.tradingview.com/news/beincrypto:38aab5bc5bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:54807f891bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do Bitcoin hoje 02/09/2025: Por que o Bitcoin subiu para US$ 110 mil hoje? Touros querem recuperação",
       "link": "https://br.tradingview.com/news/cointelegraph:54807f891bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:84f3da043bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin luta por US$ 110 mil com as criptomoedas em terreno misto e de medo",
       "link": "https://br.tradingview.com/news/cointelegraph:84f3da043bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:840b385a7bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em alta hoje 02/09/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:840b385a7bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8e6b777e8bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "CIO da Hashdex prevê Ethereum a US$ 10.000, mas Bitcoin pode frear alta",
       "link": "https://br.tradingview.com/news/cointelegraph:8e6b777e8bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9e0172bfdbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Viver de Day Trade é pura ilusão: Mais de 71% dos traders perdem dinheiro, aponta estudo",
       "link": "https://br.tradingview.com/news/cointelegraph:9e0172bfdbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:b5c39fd37bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitfinex vs CryptoQuant, quem está certo sobre o preço do Bitcoin nesta semana?",
       "link": "https://br.tradingview.com/news/cointelegraph:b5c39fd37bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Sep 2025 00:29:33 GMT\" class=\"apply-common-tooltip\" title=\"2 de set. de 2025, 00:29 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitfinex vs CryptoQuant, quem está certo sobre o preço do Bitcoin nesta semana?\" data-qa-id=\"news-headline-title\">Bitfinex vs CryptoQuant, quem está certo sobre o preço do Bitcoin nesta semana?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:22148a701bc81:0",
-      "index": 12,
-      "title": "Próximo boom: RWAs são a revolução menos barulhenta das criptos",
-      "link": "https://br.tradingview.com/news/cointelegraph:22148a701bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-02T00:12:06.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Sep 2025 00:12:06 GMT\" class=\"apply-common-tooltip\" title=\"2 de set. de 2025, 00:12 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Próximo boom: RWAs são a revolução menos barulhenta das criptos\" data-qa-id=\"news-headline-title\">Próximo boom: RWAs são a revolução menos barulhenta das criptos</div></div></article>"
     }
   ]
 }
