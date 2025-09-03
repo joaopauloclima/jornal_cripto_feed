@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-03T16:48:44.766Z",
+  "updated_at": "2025-09-03T16:59:39.172Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:96974cbf6bc81:0",
+      "id": "cointelegraph:fd110c746bc81:0",
       "index": 0,
+      "title": "Drex em segundo plano: Crise de segurança com hacks no PIX força BC a rever agenda de inovação",
+      "link": "https://br.tradingview.com/news/cointelegraph:fd110c746bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-03T16:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Drex em segundo plano: Crise de segurança com hacks no PIX força BC a rever agenda de inovação\" data-qa-id=\"news-headline-title\">Drex em segundo plano: Crise de segurança com hacks no PIX força BC a rever agenda de inovação</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:96974cbf6bc81:0",
+      "index": 1,
       "title": "Preço do Bitcoin rompe tendência de baixa de 2 semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:96974cbf6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:88a3564b6bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Polícia desarticula grupo chinês que aliciava brasileiros para 'exchange EBDOX'",
       "link": "https://br.tradingview.com/news/cointelegraph:88a3564b6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:46f336079bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "WLFI bloqueia tentativas de hack com lista negra on-chain",
       "link": "https://br.tradingview.com/news/cointelegraph:46f336079bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e9b6cf3ffbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "ETFs de Bitcoin à vista disparam, fundos de Ether sangram enquanto investidores buscam segurança",
       "link": "https://br.tradingview.com/news/cointelegraph:e9b6cf3ffbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:994e49133bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Winklevoss e Nakamoto lançam empresa de tesouraria com 1.000 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:994e49133bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:05451b8c6bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "IA de Elon Musk prevê preço do XRP se ETFs forem aprovados",
       "link": "https://br.tradingview.com/news/beincrypto:05451b8c6bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:831d52f00bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "World Liberty queima 47 milhões de tokens na tentativa de impulsionar preço em queda",
       "link": "https://br.tradingview.com/news/cointelegraph:831d52f00bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:c10d170f6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin vs Ethereum em setembro de 2025: o que muda no mercado cripto?",
       "link": "https://br.tradingview.com/news/beincrypto:c10d170f6bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f74701098bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Fila de entrada de staking de ETH atinge maior nível em dois anos enquanto instituições acumulam",
       "link": "https://br.tradingview.com/news/cointelegraph:f74701098bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5de0d3be5bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Imposto pela frente: Banco Central do Brasil volta a declarar que stablecoins terão tratamento cambial",
       "link": "https://br.tradingview.com/news/cointelegraph:5de0d3be5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:734d15c21bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Coinbase mistura criptomoedas e ações de tecnologia em próximo índice de futuros",
       "link": "https://br.tradingview.com/news/cointelegraph:734d15c21bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:d683a5fd0bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Hedera cai 12%: investidores abandonam o barco enquanto HBAR enfraquece ainda mais",
       "link": "https://br.tradingview.com/news/beincrypto:d683a5fd0bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:94687b832bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Negociações de ETH ofuscam BTC e USDT no Brasil, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:94687b832bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Negociações de ETH ofuscam BTC e USDT no Brasil, aponta relatório\" data-qa-id=\"news-headline-title\">Negociações de ETH ofuscam BTC e USDT no Brasil, aponta relatório</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:348c528ebbc81:0",
-      "index": 13,
-      "title": "Ethereum Foundation venderá 10 mil ETH para P&D, subsídios e doações",
-      "link": "https://br.tradingview.com/news/cointelegraph:348c528ebbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-03T13:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum Foundation venderá 10 mil ETH para P&amp;D, subsídios e doações\" data-qa-id=\"news-headline-title\">Ethereum Foundation venderá 10 mil ETH para P&amp;D, subsídios e doações</div></div></article>"
     }
   ]
 }
