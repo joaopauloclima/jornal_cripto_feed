@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-03T11:30:28.070Z",
+  "updated_at": "2025-09-03T11:53:51.766Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e7ec0ac23bc81:0",
+      "id": "cointelegraph:31e6b1b19bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje 03/09/2025: Por que o Bitcoin subiu hoje? Touros querem US$ 111 mil como suporte",
+      "link": "https://br.tradingview.com/news/cointelegraph:31e6b1b19bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-03T11:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje 03/09/2025: Por que o Bitcoin subiu hoje? Touros querem US$ 111 mil como suporte\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje 03/09/2025: Por que o Bitcoin subiu hoje? Touros querem US$ 111 mil como suporte</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e7ec0ac23bc81:0",
+      "index": 1,
       "title": "Brasil é referência do Citi para criação de 'Pix Global' com tokenização e stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:e7ec0ac23bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f6ba27309bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin sobe 3% e volta para US$ 111 mil, a queda acabou? Analistas respondem e apontam alta pela frente",
       "link": "https://br.tradingview.com/news/cointelegraph:f6ba27309bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a60b6ece2bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Webull planeja liberar staking cripto, tokenização e lança conta que paga 15% de juros em dólar para dinheiro 'parado'",
       "link": "https://br.tradingview.com/news/cointelegraph:a60b6ece2bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:821aa5915bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "TV 3.0: Brasil pode ser o primeiro país do mundo a integrar Bitcoin, Web3, criptomoedas e stablecoins na televisão",
       "link": "https://br.tradingview.com/news/cointelegraph:821aa5915bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9b7b6f7cebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Alta na negociação spot de Bitcoin sugere possível rompimento para US$ 119 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:9b7b6f7cebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c05be7f2bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Touros do Bitcoin avançam para US$ 112 mil enquanto o ouro atinge novas máximas históricas",
       "link": "https://br.tradingview.com/news/cointelegraph:c05be7f2bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:676122705bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "O que esperar do preço do XRP em setembro 2025?",
       "link": "https://br.tradingview.com/news/beincrypto:676122705bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:bb6378185bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Yunfeng Financial, ligada a Jack Ma, adquire US$ 44 milhões em ETH em meio a avanço na Web3",
       "link": "https://br.tradingview.com/news/cointelegraph:bb6378185bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:56117eaddbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Avalanche e Toyota Blockchain projetam infraestrutura para robotaxis autônomos",
       "link": "https://br.tradingview.com/news/cointelegraph:56117eaddbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f98ec63aabc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Até onde o preço do Bitcoin pode chegar enquanto o ouro atinge recorde acima de US$ 3,5 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:f98ec63aabc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4c72ca467bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Conheça as 5 pessoas mais poderosas das criptomoedas atualmente e o que planejam a seguir",
       "link": "https://br.tradingview.com/news/cointelegraph:4c72ca467bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:f7bea3cd4bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Primeira empresa de tesouraria de Dogecoin vê queda imediata nas ações – má ideia?",
       "link": "https://br.tradingview.com/news/beincrypto:f7bea3cd4bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:64a7c090cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Gemini protocola S-1 para IPO e planeja listar 16,7 milhões de ações GEMI na Nasdaq",
       "link": "https://br.tradingview.com/news/cointelegraph:64a7c090cbc81:0/",
       "source": "Cointelegraph",
