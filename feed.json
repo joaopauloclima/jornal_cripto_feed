@@ -1,10 +1,43 @@
 {
-  "updated_at": "2025-09-03T15:54:08.586Z",
+  "updated_at": "2025-09-03T16:48:44.766Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e9b6cf3ffbc81:0",
+      "id": "cointelegraph:96974cbf6bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin rompe tendência de baixa de 2 semanas",
+      "link": "https://br.tradingview.com/news/cointelegraph:96974cbf6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-03T16:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin rompe tendência de baixa de 2 semanas\" data-qa-id=\"news-headline-title\">Preço do Bitcoin rompe tendência de baixa de 2 semanas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:88a3564b6bc81:0",
+      "index": 1,
+      "title": "Polícia desarticula grupo chinês que aliciava brasileiros para 'exchange EBDOX'",
+      "link": "https://br.tradingview.com/news/cointelegraph:88a3564b6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-03T16:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 16:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 16:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Polícia desarticula grupo chinês que aliciava brasileiros para 'exchange EBDOX'\" data-qa-id=\"news-headline-title\">Polícia desarticula grupo chinês que aliciava brasileiros para 'exchange EBDOX'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:46f336079bc81:0",
+      "index": 2,
+      "title": "WLFI bloqueia tentativas de hack com lista negra on-chain",
+      "link": "https://br.tradingview.com/news/cointelegraph:46f336079bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-03T15:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 15:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 15:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"WLFI bloqueia tentativas de hack com lista negra on-chain\" data-qa-id=\"news-headline-title\">WLFI bloqueia tentativas de hack com lista negra on-chain</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e9b6cf3ffbc81:0",
+      "index": 3,
       "title": "ETFs de Bitcoin à vista disparam, fundos de Ether sangram enquanto investidores buscam segurança",
       "link": "https://br.tradingview.com/news/cointelegraph:e9b6cf3ffbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:994e49133bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Winklevoss e Nakamoto lançam empresa de tesouraria com 1.000 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:994e49133bc81:0/",
       "source": "Cointelegraph",
@@ -25,8 +58,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Winklevoss e Nakamoto lançam empresa de tesouraria com 1.000 BTC\" data-qa-id=\"news-headline-title\">Winklevoss e Nakamoto lançam empresa de tesouraria com 1.000 BTC</div></div></article>"
     },
     {
+      "id": "beincrypto:05451b8c6bc81:0",
+      "index": 5,
+      "title": "IA de Elon Musk prevê preço do XRP se ETFs forem aprovados",
+      "link": "https://br.tradingview.com/news/beincrypto:05451b8c6bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-09-03T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"IA de Elon Musk prevê preço do XRP se ETFs forem aprovados\" data-qa-id=\"news-headline-title\">IA de Elon Musk prevê preço do XRP se ETFs forem aprovados</div></div></article>"
+    },
+    {
       "id": "cointelegraph:831d52f00bc81:0",
-      "index": 2,
+      "index": 6,
       "title": "World Liberty queima 47 milhões de tokens na tentativa de impulsionar preço em queda",
       "link": "https://br.tradingview.com/news/cointelegraph:831d52f00bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +81,7 @@
     },
     {
       "id": "beincrypto:c10d170f6bc81:0",
-      "index": 3,
+      "index": 7,
       "title": "Bitcoin vs Ethereum em setembro de 2025: o que muda no mercado cripto?",
       "link": "https://br.tradingview.com/news/beincrypto:c10d170f6bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f74701098bc81:0",
-      "index": 4,
+      "index": 8,
       "title": "Fila de entrada de staking de ETH atinge maior nível em dois anos enquanto instituições acumulam",
       "link": "https://br.tradingview.com/news/cointelegraph:f74701098bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +103,7 @@
     },
     {
       "id": "cointelegraph:5de0d3be5bc81:0",
-      "index": 5,
+      "index": 9,
       "title": "Imposto pela frente: Banco Central do Brasil volta a declarar que stablecoins terão tratamento cambial",
       "link": "https://br.tradingview.com/news/cointelegraph:5de0d3be5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +114,7 @@
     },
     {
       "id": "cointelegraph:734d15c21bc81:0",
-      "index": 6,
+      "index": 10,
       "title": "Coinbase mistura criptomoedas e ações de tecnologia em próximo índice de futuros",
       "link": "https://br.tradingview.com/news/cointelegraph:734d15c21bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +125,7 @@
     },
     {
       "id": "beincrypto:d683a5fd0bc81:0",
-      "index": 7,
+      "index": 11,
       "title": "Hedera cai 12%: investidores abandonam o barco enquanto HBAR enfraquece ainda mais",
       "link": "https://br.tradingview.com/news/beincrypto:d683a5fd0bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +136,7 @@
     },
     {
       "id": "cointelegraph:94687b832bc81:0",
-      "index": 8,
+      "index": 12,
       "title": "Negociações de ETH ofuscam BTC e USDT no Brasil, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:94687b832bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +147,7 @@
     },
     {
       "id": "cointelegraph:348c528ebbc81:0",
-      "index": 9,
+      "index": 13,
       "title": "Ethereum Foundation venderá 10 mil ETH para P&D, subsídios e doações",
       "link": "https://br.tradingview.com/news/cointelegraph:348c528ebbc81:0/",
       "source": "Cointelegraph",
@@ -111,50 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum Foundation venderá 10 mil ETH para P&amp;D, subsídios e doações\" data-qa-id=\"news-headline-title\">Ethereum Foundation venderá 10 mil ETH para P&amp;D, subsídios e doações</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9227505eebc81:0",
-      "index": 10,
-      "title": "Avaliação da Anthropic triplica para US$ 183 bilhões à medida que Claude AI ganha força no setor cripto e além",
-      "link": "https://br.tradingview.com/news/cointelegraph:9227505eebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-03T12:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 12:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 12:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Avaliação da Anthropic triplica para US$ 183 bilhões à medida que Claude AI ganha força no setor cripto e além\" data-qa-id=\"news-headline-title\">Avaliação da Anthropic triplica para US$ 183 bilhões à medida que Claude AI ganha força no setor cripto e além</div></div></article>"
-    },
-    {
-      "id": "beincrypto:abf14c858bc81:0",
-      "index": 11,
-      "title": "O que a correlação entre a liquidez dos bancos centrais globais e o preço do Bitcoin indica?",
-      "link": "https://br.tradingview.com/news/beincrypto:abf14c858bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-03T12:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O que a correlação entre a liquidez dos bancos centrais globais e o preço do Bitcoin indica?\" data-qa-id=\"news-headline-title\">O que a correlação entre a liquidez dos bancos centrais globais e o preço do Bitcoin indica?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:62a1f7237bc81:0",
-      "index": 12,
-      "title": "Brasil é o 5º país com maior adoção de criptomoedas no mundo",
-      "link": "https://br.tradingview.com/news/cointelegraph:62a1f7237bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-03T12:28:17.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 12:28:17 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 12:28 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil é o 5º país com maior adoção de criptomoedas no mundo\" data-qa-id=\"news-headline-title\">Brasil é o 5º país com maior adoção de criptomoedas no mundo</div></div></article>"
-    },
-    {
-      "id": "beincrypto:fc65134ecbc81:0",
-      "index": 13,
-      "title": "SharpLink amplia tesouraria em Ethereum para 837.230 ETH",
-      "link": "https://br.tradingview.com/news/beincrypto:fc65134ecbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-03T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SharpLink amplia tesouraria em Ethereum para 837.230 ETH\" data-qa-id=\"news-headline-title\">SharpLink amplia tesouraria em Ethereum para 837.230 ETH</div></div></article>"
     }
   ]
 }
