@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-03T23:53:45.418Z",
+  "updated_at": "2025-09-04T03:07:47.536Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1fa408411bc81:0",
+      "id": "cointelegraph:70dc63c36bc81:0",
       "index": 0,
+      "title": "Baú da Fidelidade: SBT e Caixa Econômica entram em superapp de Web3 que dá criptomoeda de graça",
+      "link": "https://br.tradingview.com/news/cointelegraph:70dc63c36bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-04T00:09:19.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 00:09:19 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 00:09 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baú da Fidelidade: SBT e Caixa Econômica entram em superapp de Web3 que dá criptomoeda de graça\" data-qa-id=\"news-headline-title\">Baú da Fidelidade: SBT e Caixa Econômica entram em superapp de Web3 que dá criptomoeda de graça</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1fa408411bc81:0",
+      "index": 1,
       "title": "Detran do Paraná quer criar um token DID único para cada veículo e registrar todo seu histórico em blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:1fa408411bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:676ae8360bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Rali do Ether para US$ 5,5 mil é possível devido à oferta ilíquida e sinal positivo dos futuros de ETH",
       "link": "https://br.tradingview.com/news/cointelegraph:676ae8360bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:533727692bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "MB lança token RWA que paga IPCA +13% ao ano e dá cashback em Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:533727692bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:9551e75abbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Parlamento da Ucrânia aprova projeto de lei sobre legalização e taxação de cripto em primeira leitura",
       "link": "https://br.tradingview.com/news/cointelegraph:9551e75abbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:eed9e6d45bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Regulador dos EUA concede alívio ao Polymarket nas regras de reporte de contratos de eventos",
       "link": "https://br.tradingview.com/news/cointelegraph:eed9e6d45bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9370b781ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Estreia de negociação do American Bitcoin de Trump foi interrompida 5 vezes em meio à volatilidade",
       "link": "https://br.tradingview.com/news/cointelegraph:9370b781ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3UQ0Z3:0",
-      "index": 6,
+      "index": 7,
       "title": "Méliuz compra mais de R$1 milhão em bitcoins",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3UQ0Z3:0/",
       "source": "Reuters",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:02700422cbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Solana aprova atualização Alpenglow: preço sobe 6,5%",
       "link": "https://br.tradingview.com/news/beincrypto:02700422cbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1b3a2ba34bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Análise de preços em 03/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI",
       "link": "https://br.tradingview.com/news/cointelegraph:1b3a2ba34bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:1c314dbf7bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Tron Inc. adiciona US$ 110 milhões em TRX ao tesouro e total de reservas agora supera US$ 220 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:1c314dbf7bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:a3ca9d893bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Padrão clássico no gráfico de preço do XRP aponta para US$ 5 à medida que a realidade de um ETF spot se aproxima",
       "link": "https://br.tradingview.com/news/cointelegraph:a3ca9d893bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:12304c9e4bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "KuCoin mira 10% da capacidade de mineração do Dogecoin por meio de nova plataforma de mineração",
       "link": "https://br.tradingview.com/news/cointelegraph:12304c9e4bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5016595f0bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Touros do Bitcoin 'ainda no controle' enquanto preço do BTC supera US$ 112 mil, aponta análise",
       "link": "https://br.tradingview.com/news/cointelegraph:5016595f0bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 19:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 19:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Touros do Bitcoin 'ainda no controle' enquanto preço do BTC supera US$ 112 mil, aponta análise\" data-qa-id=\"news-headline-title\">Touros do Bitcoin 'ainda no controle' enquanto preço do BTC supera US$ 112 mil, aponta análise</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:12f7d1dbabc81:0",
-      "index": 13,
-      "title": "US Bancorp retoma a custódia de criptomoedas após mudança de regra da era Trump",
-      "link": "https://br.tradingview.com/news/cointelegraph:12f7d1dbabc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-03T19:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Sep 2025 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de set. de 2025, 19:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"US Bancorp retoma a custódia de criptomoedas após mudança de regra da era Trump\" data-qa-id=\"news-headline-title\">US Bancorp retoma a custódia de criptomoedas após mudança de regra da era Trump</div></div></article>"
     }
   ]
 }
