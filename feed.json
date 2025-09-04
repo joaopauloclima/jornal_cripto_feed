@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-04T18:51:27.032Z",
+  "updated_at": "2025-09-04T19:27:00.940Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e4ac548fbbc81:0",
+      "id": "cointelegraph:07144f632bc81:0",
       "index": 0,
+      "title": "Apostar em ganhos do XRP no estilo de 2017 pode ser extremamente arriscado em 2025",
+      "link": "https://br.tradingview.com/news/cointelegraph:07144f632bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-04T19:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Apostar em ganhos do XRP no estilo de 2017 pode ser extremamente arriscado em 2025\" data-qa-id=\"news-headline-title\">Apostar em ganhos do XRP no estilo de 2017 pode ser extremamente arriscado em 2025</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c3ad8f12cbc81:0",
+      "index": 1,
+      "title": "Processadora de pagamentos em stablecoin 1Money obtém 34 licenças de transmissor de dinheiro nos EUA",
+      "link": "https://br.tradingview.com/news/cointelegraph:c3ad8f12cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-04T18:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 18:50:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 18:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Processadora de pagamentos em stablecoin 1Money obtém 34 licenças de transmissor de dinheiro nos EUA\" data-qa-id=\"news-headline-title\">Processadora de pagamentos em stablecoin 1Money obtém 34 licenças de transmissor de dinheiro nos EUA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e4ac548fbbc81:0",
+      "index": 2,
       "title": "Top 10 blockchains que mais cresceram no ano, classificadas por usuários ativos",
       "link": "https://br.tradingview.com/news/cointelegraph:e4ac548fbbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:9779ac127bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Wintermute pede que a SEC dos EUA exclua tokens de rede das regras de valores mobiliários",
       "link": "https://br.tradingview.com/news/cointelegraph:9779ac127bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f930a5d58bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Baleias perdem milhões com queda de 40% do WLFI ligado a Trump, apesar de queima de 47 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:f930a5d58bc81:0/",
       "source": "Cointelegraph",
@@ -36,8 +58,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 17:51:01 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 17:51 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias perdem milhões com queda de 40% do WLFI ligado a Trump, apesar de queima de 47 milhões\" data-qa-id=\"news-headline-title\">Baleias perdem milhões com queda de 40% do WLFI ligado a Trump, apesar de queima de 47 milhões</div></div></article>"
     },
     {
+      "id": "beincrypto:b36d9c262bc81:0",
+      "index": 5,
+      "title": "World Liberty Financial coloca carteira de Justin Sun na lista negra",
+      "link": "https://br.tradingview.com/news/beincrypto:b36d9c262bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-09-04T17:43:02.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCTRX.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCTRX.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 17:43:02 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 17:43 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"World Liberty Financial coloca carteira de Justin Sun na lista negra\" data-qa-id=\"news-headline-title\">World Liberty Financial coloca carteira de Justin Sun na lista negra</div></div></article>"
+    },
+    {
       "id": "cointelegraph:4c34af2e2bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Desconfiança na IA cresce no Brasil, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:4c34af2e2bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:00c615e3cbc81:0",
-      "index": 4,
+      "index": 7,
       "title": "'Fase de euforia' do Bitcoin esfria com US$ 112 mil se tornando nível-chave para o preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:00c615e3cbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:4e11ea3f3bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Mercado de baixa do Bitcoin pode começar em outubro com fundo em US$ 50 mil, diz análise",
       "link": "https://br.tradingview.com/news/cointelegraph:4e11ea3f3bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9ce32b76ebc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Semana histórica para RWAs tokenizados enquanto Fed prepara conferência sobre DeFi e pagamentos",
       "link": "https://br.tradingview.com/news/cointelegraph:9ce32b76ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:894eb623abc81:0",
-      "index": 7,
+      "index": 10,
       "title": "BitMine compra US$ 65 milhões em ETH enquanto presidente cita ‘momento 1971’ para a Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:894eb623abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "beincrypto:a79c95735bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Futuros de BTC da Binance estabelecem novo recorde: preço vai se recuperar?",
       "link": "https://br.tradingview.com/news/beincrypto:a79c95735bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:24093228dbc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Baleias de Ether adicionaram 14% mais moedas desde as mínimas de abril",
       "link": "https://br.tradingview.com/news/cointelegraph:24093228dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:a300a2078bc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Hackers encontram nova forma de esconder malware em contratos inteligentes da Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:a300a2078bc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Hackers encontram nova forma de esconder malware em contratos inteligentes da Ethereum\" data-qa-id=\"news-headline-title\">Hackers encontram nova forma de esconder malware em contratos inteligentes da Ethereum</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:fd423f66cbc81:0",
-      "index": 11,
-      "title": "CEO da Coinbase quer que a IA escreva 50% do código da plataforma até outubro",
-      "link": "https://br.tradingview.com/news/cointelegraph:fd423f66cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-04T15:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da Coinbase quer que a IA escreva 50% do código da plataforma até outubro\" data-qa-id=\"news-headline-title\">CEO da Coinbase quer que a IA escreva 50% do código da plataforma até outubro</div></div></article>"
-    },
-    {
-      "id": "beincrypto:a17696671bc81:0",
-      "index": 12,
-      "title": "Ethereum mira US$ 4.500 ou cai abaixo de US$ 4.200?",
-      "link": "https://br.tradingview.com/news/beincrypto:a17696671bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-04T15:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum mira US$ 4.500 ou cai abaixo de US$ 4.200?\" data-qa-id=\"news-headline-title\">Ethereum mira US$ 4.500 ou cai abaixo de US$ 4.200?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4b75c6b7fbc81:0",
-      "index": 13,
-      "title": "American Bitcoin, apoiada por Trump, termina estreia volátil na Nasdaq com alta de 16%",
-      "link": "https://br.tradingview.com/news/cointelegraph:4b75c6b7fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-04T14:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"American Bitcoin, apoiada por Trump, termina estreia volátil na Nasdaq com alta de 16%\" data-qa-id=\"news-headline-title\">American Bitcoin, apoiada por Trump, termina estreia volátil na Nasdaq com alta de 16%</div></div></article>"
     }
   ]
 }
