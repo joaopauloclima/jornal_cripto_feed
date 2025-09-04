@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-04T20:37:23.446Z",
+  "updated_at": "2025-09-04T20:53:41.655Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8822888d1bc81:0",
+      "id": "cointelegraph:2634f4a10bc81:0",
       "index": 0,
+      "title": "‘Poucas proteções’, alerta Johnson da CFTC sobre os riscos dos mercados de previsão",
+      "link": "https://br.tradingview.com/news/cointelegraph:2634f4a10bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-04T20:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"‘Poucas proteções’, alerta Johnson da CFTC sobre os riscos dos mercados de previsão\" data-qa-id=\"news-headline-title\">‘Poucas proteções’, alerta Johnson da CFTC sobre os riscos dos mercados de previsão</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8822888d1bc81:0",
+      "index": 1,
       "title": "'Próxima onda' do Dogecoin mira US$ 1,40 com lançamento da primeira tesouraria de DOGE",
       "link": "https://br.tradingview.com/news/cointelegraph:8822888d1bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:2d987d96fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Venus Protocol recupera US$ 13,5 milhões roubados de usuário em ataque de phishing",
       "link": "https://br.tradingview.com/news/cointelegraph:2d987d96fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:9fb3b6b50bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Mantle 2.0 vai acelerar a convergência entre DeFi e CeFi, diz Delphi Digital",
       "link": "https://br.tradingview.com/news/cointelegraph:9fb3b6b50bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:d68dbb4d8bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Preço do XRP recorre à esperança de short squeeze em meio a impasse",
       "link": "https://br.tradingview.com/news/beincrypto:d68dbb4d8bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:07144f632bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Apostar em ganhos do XRP no estilo de 2017 pode ser extremamente arriscado em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:07144f632bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:b8cc7479fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Especialistas veem vitória do Ethereum na economia de stablecoins",
       "link": "https://br.tradingview.com/news/beincrypto:b8cc7479fbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c3ad8f12cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Processadora de pagamentos em stablecoin 1Money obtém 34 licenças de transmissor de dinheiro nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:c3ad8f12cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e4ac548fbbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Top 10 blockchains que mais cresceram no ano, classificadas por usuários ativos",
       "link": "https://br.tradingview.com/news/cointelegraph:e4ac548fbbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9779ac127bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Wintermute pede que a SEC dos EUA exclua tokens de rede das regras de valores mobiliários",
       "link": "https://br.tradingview.com/news/cointelegraph:9779ac127bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f930a5d58bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Baleias perdem milhões com queda de 40% do WLFI ligado a Trump, apesar de queima de 47 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:f930a5d58bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:b36d9c262bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "World Liberty Financial coloca carteira de Justin Sun na lista negra",
       "link": "https://br.tradingview.com/news/beincrypto:b36d9c262bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:4c34af2e2bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Desconfiança na IA cresce no Brasil, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:4c34af2e2bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:00c615e3cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "'Fase de euforia' do Bitcoin esfria com US$ 112 mil se tornando nível-chave para o preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:00c615e3cbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Fase de euforia' do Bitcoin esfria com US$ 112 mil se tornando nível-chave para o preço do BTC\" data-qa-id=\"news-headline-title\">'Fase de euforia' do Bitcoin esfria com US$ 112 mil se tornando nível-chave para o preço do BTC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4e11ea3f3bc81:0",
-      "index": 13,
-      "title": "Mercado de baixa do Bitcoin pode começar em outubro com fundo em US$ 50 mil, diz análise",
-      "link": "https://br.tradingview.com/news/cointelegraph:4e11ea3f3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-04T16:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Sep 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de set. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado de baixa do Bitcoin pode começar em outubro com fundo em US$ 50 mil, diz análise\" data-qa-id=\"news-headline-title\">Mercado de baixa do Bitcoin pode começar em outubro com fundo em US$ 50 mil, diz análise</div></div></article>"
     }
   ]
 }
