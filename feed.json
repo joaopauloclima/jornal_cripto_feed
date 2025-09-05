@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-05T16:55:43.859Z",
+  "updated_at": "2025-09-05T17:35:40.742Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:587a06d79bc81:0",
+      "id": "cointelegraph:69afe2237bc81:0",
       "index": 0,
+      "title": "Amazônia ganha IA que prevê áreas com risco de desmatamento",
+      "link": "https://br.tradingview.com/news/cointelegraph:69afe2237bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-05T17:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Amazônia ganha IA que prevê áreas com risco de desmatamento\" data-qa-id=\"news-headline-title\">Amazônia ganha IA que prevê áreas com risco de desmatamento</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fc5b6e3a7bc81:0",
+      "index": 1,
+      "title": "3 criptomoedas prestes a disparar até 250% e uma com risco de derreter 80%",
+      "link": "https://br.tradingview.com/news/cointelegraph:fc5b6e3a7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-05T16:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"3 criptomoedas prestes a disparar até 250% e uma com risco de derreter 80%\" data-qa-id=\"news-headline-title\">3 criptomoedas prestes a disparar até 250% e uma com risco de derreter 80%</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:587a06d79bc81:0",
+      "index": 2,
       "title": "Justin Sun pede à WLFI, ligada a Trump, que desbloqueie tokens 'congelados de forma irracional'",
       "link": "https://br.tradingview.com/news/cointelegraph:587a06d79bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:43c9a7321bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Analistas do Bitcoin preveem movimento 'massivo' com o preço do BTC recuperando US$ 112 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:43c9a7321bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:67ab7ed73bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "ChatGPT compartilha previsão de preço da Solana (SOL) para setembro de 2025",
       "link": "https://br.tradingview.com/news/beincrypto:67ab7ed73bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ad33d9a78bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin arma armadilha de urso no estilo de 2024 antes de ‘grande short squeeze’, diz trader",
       "link": "https://br.tradingview.com/news/cointelegraph:ad33d9a78bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5a656a3b4bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Pokémon pode ter seu ‘momento Polymarket’ em breve, aponta Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:5a656a3b4bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:3735daff5bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Erros ‘evitáveis’ apagaram um ano de mensagens de texto de Gary Gensler… ops",
       "link": "https://br.tradingview.com/news/cointelegraph:3735daff5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:2d0f4c980bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "NFTs ‘esquentam’ novamente com retorno de casas noturnas e rappers ao mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:2d0f4c980bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:8b6b1f6d9bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Empresas públicas atingem 1 milhão de Bitcoin, alcançando 5,1% do suprimento de BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:8b6b1f6d9bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:a8df54d24bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Queda do Bitcoin para US$ 108 mil é possível à medida que investidores migram para ativos 'mais seguros'",
       "link": "https://br.tradingview.com/news/cointelegraph:a8df54d24bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:f85d3672cbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Hedera (HBAR) em risco com sinais de cruzamento de morte",
       "link": "https://br.tradingview.com/news/beincrypto:f85d3672cbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:dc6987a3dbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Touros do Bitcoin compram na baixa, mas o BTC conseguirá fechar o dia acima de US$ 112 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:dc6987a3dbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:7ded1d94bbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Grandes investidores divergem no Bitcoin e acumulam Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:7ded1d94bbc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Grandes investidores divergem no Bitcoin e acumulam Ethereum\" data-qa-id=\"news-headline-title\">Grandes investidores divergem no Bitcoin e acumulam Ethereum</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:593f47d62bc81:0",
-      "index": 12,
-      "title": "TIVIT abre vagas e trilhas de trainee, QuintoAndar também tem oportunidades",
-      "link": "https://br.tradingview.com/news/cointelegraph:593f47d62bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-05T13:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"TIVIT abre vagas e trilhas de trainee, QuintoAndar também tem oportunidades\" data-qa-id=\"news-headline-title\">TIVIT abre vagas e trilhas de trainee, QuintoAndar também tem oportunidades</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:14fbd247cbc81:0",
-      "index": 13,
-      "title": "Carteira WLFI de Justin Sun é colocada na blacklist após transferência de US$ 9 milhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:14fbd247cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-05T13:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Carteira WLFI de Justin Sun é colocada na blacklist após transferência de US$ 9 milhões\" data-qa-id=\"news-headline-title\">Carteira WLFI de Justin Sun é colocada na blacklist após transferência de US$ 9 milhões</div></div></article>"
     }
   ]
 }
