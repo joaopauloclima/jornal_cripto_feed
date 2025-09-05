@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-05T14:40:14.725Z",
+  "updated_at": "2025-09-05T14:54:09.502Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -25,8 +25,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 14:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Queda do Bitcoin para US$ 108 mil é possível à medida que investidores migram para ativos 'mais seguros'\" data-qa-id=\"news-headline-title\">Queda do Bitcoin para US$ 108 mil é possível à medida que investidores migram para ativos 'mais seguros'</div></div></article>"
     },
     {
-      "id": "cointelegraph:dc6987a3dbc81:0",
+      "id": "beincrypto:f85d3672cbc81:0",
       "index": 2,
+      "title": "Hedera (HBAR) em risco com sinais de cruzamento de morte",
+      "link": "https://br.tradingview.com/news/beincrypto:f85d3672cbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-09-05T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Hedera (HBAR) em risco com sinais de cruzamento de morte\" data-qa-id=\"news-headline-title\">Hedera (HBAR) em risco com sinais de cruzamento de morte</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:dc6987a3dbc81:0",
+      "index": 3,
       "title": "Touros do Bitcoin compram na baixa, mas o BTC conseguirá fechar o dia acima de US$ 112 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:dc6987a3dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:7ded1d94bbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Grandes investidores divergem no Bitcoin e acumulam Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:7ded1d94bbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:593f47d62bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "TIVIT abre vagas e trilhas de trainee, QuintoAndar também tem oportunidades",
       "link": "https://br.tradingview.com/news/cointelegraph:593f47d62bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:14fbd247cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Carteira WLFI de Justin Sun é colocada na blacklist após transferência de US$ 9 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:14fbd247cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:2287bdb17bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin pode segurar suporte em US$ 110 mil, sugere histórico",
       "link": "https://br.tradingview.com/news/beincrypto:2287bdb17bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ec33597a9bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "XRP está preso em tendência de baixa, mas 3 dados preveem salto de 85% para novas máximas",
       "link": "https://br.tradingview.com/news/cointelegraph:ec33597a9bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:94e8d5bddbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Web3 multiplataforma, MMORPG lança mundos dinâmicos para manter a exploração sempre renovada e envolvente",
       "link": "https://br.tradingview.com/news/cointelegraph:94e8d5bddbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:39b42f3b8bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Gigante das stablecoins, Tether investe em empresas de mineração de ouro",
       "link": "https://br.tradingview.com/news/beincrypto:39b42f3b8bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:93cd45374bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 05/09/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:93cd45374bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a3bd7b2c8bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Volatilidade ronda o Bitcoin em dia de compra de criptomoedas e airdrop de 10.000.000 OPEN",
       "link": "https://br.tradingview.com/news/cointelegraph:a3bd7b2c8bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:71178b207bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin, Ethereum, XRP e Solana: análise semanal de criptos",
       "link": "https://br.tradingview.com/news/beincrypto:71178b207bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 11:41:35 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 11:41 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin, Ethereum, XRP e Solana: análise semanal de criptos\" data-qa-id=\"news-headline-title\">Bitcoin, Ethereum, XRP e Solana: análise semanal de criptos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ffd26ce3ebc81:0",
-      "index": 13,
-      "title": "Preço do Bitcoin hoje 05/09/2025: Por que o Bitcoin subiu hoje? Alta de 1% leva BTC de volta a US$ 112 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:ffd26ce3ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-05T11:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje 05/09/2025: Por que o Bitcoin subiu hoje? Alta de 1% leva BTC de volta a US$ 112 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje 05/09/2025: Por que o Bitcoin subiu hoje? Alta de 1% leva BTC de volta a US$ 112 mil</div></div></article>"
     }
   ]
 }
