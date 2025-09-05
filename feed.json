@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-05T18:56:14.956Z",
+  "updated_at": "2025-09-05T19:28:38.364Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:af3c3768ebc81:0",
+      "id": "cointelegraph:eba41b701bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin ignora grande decepção nos dados de emprego dos EUA e apaga alta de US$ 113,4 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:eba41b701bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-05T19:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin ignora grande decepção nos dados de emprego dos EUA e apaga alta de US$ 113,4 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin ignora grande decepção nos dados de emprego dos EUA e apaga alta de US$ 113,4 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:33d40e138bc81:0",
+      "index": 1,
+      "title": "Debate sobre CBDC continua nos EUA com retorno do Congresso do recesso",
+      "link": "https://br.tradingview.com/news/cointelegraph:33d40e138bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-05T18:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 18:50:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 18:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Debate sobre CBDC continua nos EUA com retorno do Congresso do recesso\" data-qa-id=\"news-headline-title\">Debate sobre CBDC continua nos EUA com retorno do Congresso do recesso</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:af3c3768ebc81:0",
+      "index": 2,
       "title": "Empresa de mídia ligada a Trump Jr. projeta arrecadar US$ 100 milhões com mineração de Dogecoin",
       "link": "https://br.tradingview.com/news/cointelegraph:af3c3768ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3c1e0047bbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Tesouro em Solana da DeFi Development Corp supera US$ 400 milhões após última compra",
       "link": "https://br.tradingview.com/news/cointelegraph:3c1e0047bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e85bcbd4cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Dogecoin pode ter primeiro ETF lançado na próxima semana, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:e85bcbd4cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4399af3a6bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Ferramenta de codificação por IA preferida da Coinbase pode ser sequestrada por novo vírus",
       "link": "https://br.tradingview.com/news/cointelegraph:4399af3a6bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:69afe2237bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Amazônia ganha IA que prevê áreas com risco de desmatamento",
       "link": "https://br.tradingview.com/news/cointelegraph:69afe2237bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:15eea717cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin perto de US$ 113 mil com mercado apostando em corte de juros",
       "link": "https://br.tradingview.com/news/beincrypto:15eea717cbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:fc5b6e3a7bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "3 criptomoedas prestes a disparar até 250% e uma com risco de derreter 80%",
       "link": "https://br.tradingview.com/news/cointelegraph:fc5b6e3a7bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:587a06d79bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Justin Sun pede à WLFI, ligada a Trump, que desbloqueie tokens 'congelados de forma irracional'",
       "link": "https://br.tradingview.com/news/cointelegraph:587a06d79bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:43c9a7321bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Analistas do Bitcoin preveem movimento 'massivo' com o preço do BTC recuperando US$ 112 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:43c9a7321bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:67ab7ed73bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "ChatGPT compartilha previsão de preço da Solana (SOL) para setembro de 2025",
       "link": "https://br.tradingview.com/news/beincrypto:67ab7ed73bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ad33d9a78bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin arma armadilha de urso no estilo de 2024 antes de ‘grande short squeeze’, diz trader",
       "link": "https://br.tradingview.com/news/cointelegraph:ad33d9a78bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5a656a3b4bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Pokémon pode ter seu ‘momento Polymarket’ em breve, aponta Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:5a656a3b4bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pokémon pode ter seu ‘momento Polymarket’ em breve, aponta Bitwise\" data-qa-id=\"news-headline-title\">Pokémon pode ter seu ‘momento Polymarket’ em breve, aponta Bitwise</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:3735daff5bc81:0",
-      "index": 12,
-      "title": "Erros ‘evitáveis’ apagaram um ano de mensagens de texto de Gary Gensler… ops",
-      "link": "https://br.tradingview.com/news/cointelegraph:3735daff5bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-05T15:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Erros ‘evitáveis’ apagaram um ano de mensagens de texto de Gary Gensler… ops\" data-qa-id=\"news-headline-title\">Erros ‘evitáveis’ apagaram um ano de mensagens de texto de Gary Gensler… ops</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2d0f4c980bc81:0",
-      "index": 13,
-      "title": "NFTs ‘esquentam’ novamente com retorno de casas noturnas e rappers ao mercado",
-      "link": "https://br.tradingview.com/news/cointelegraph:2d0f4c980bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-05T14:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"NFTs ‘esquentam’ novamente com retorno de casas noturnas e rappers ao mercado\" data-qa-id=\"news-headline-title\">NFTs ‘esquentam’ novamente com retorno de casas noturnas e rappers ao mercado</div></div></article>"
     }
   ]
 }
