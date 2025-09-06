@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-06T22:34:50.228Z",
+  "updated_at": "2025-09-06T22:53:27.509Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:40c2cfb1dbc81:0",
+      "id": "cointelegraph:f7e4430a1bc81:0",
       "index": 0,
+      "title": "Litecoin entra em briga com influenciador e troca farpas sobre preço… e linha do cabelo",
+      "link": "https://br.tradingview.com/news/cointelegraph:f7e4430a1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-06T22:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 06 Sep 2025 22:40:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de set. de 2025, 22:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Litecoin entra em briga com influenciador e troca farpas sobre preço… e linha do cabelo\" data-qa-id=\"news-headline-title\">Litecoin entra em briga com influenciador e troca farpas sobre preço… e linha do cabelo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:40c2cfb1dbc81:0",
+      "index": 1,
       "title": "Traders que apostam em topo do preço do Bitcoin no 4º trimestre 'não entendem de estatística', afirma analista",
       "link": "https://br.tradingview.com/news/cointelegraph:40c2cfb1dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:2ac8389e8bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Tether mantém conversas para investir em toda a cadeia de suprimento de ouro, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:2ac8389e8bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:58c364b47bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "App Chainless cresce 300% no Brasil e integra Uniswap para simplificar renda passiva em DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:58c364b47bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e09694555bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Gigantes bancários agora preveem pelo menos dois cortes de juros em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:e09694555bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:1c5572d44bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ethereum em queda: preço prestes a sofrer?",
       "link": "https://br.tradingview.com/news/beincrypto:1c5572d44bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:803d1ec96bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Rali do preço do ETH está seguro apesar das preocupações de traders cripto e de ações com a macroeconomia dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:803d1ec96bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:685b05685bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Nasdaq aprova listagem da SOL Strategies para a próxima semana",
       "link": "https://br.tradingview.com/news/cointelegraph:685b05685bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:45543194bbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Notícias Cripto: Bitget cresce 170% no Brasil, banco Inter com evento em BH e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:45543194bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f42d99463bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Reforma da listagem da Nasdaq pode elevar o padrão para empresas de fachada e tesourarias cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:f42d99463bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:e83c6c829bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Presidente do BC, Gabriel Galípolo, divulga prazo para publicação das regras cripto no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:e83c6c829bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d8c01d797bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Auditoria independente pode decidir o futuro das criptomoedas no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:d8c01d797bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:896c7a659bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitfinex lança Token RWA que dá Bitcoin de graça e permite minerar BTC sem máquinas",
       "link": "https://br.tradingview.com/news/cointelegraph:896c7a659bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5a7c0373dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Reguladores dos EUA divulgam declaração conjunta e sugerem mercados de capitais 24h por dia",
       "link": "https://br.tradingview.com/news/cointelegraph:5a7c0373dbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Reguladores dos EUA divulgam declaração conjunta e sugerem mercados de capitais 24h por dia\" data-qa-id=\"news-headline-title\">Reguladores dos EUA divulgam declaração conjunta e sugerem mercados de capitais 24h por dia</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:36c214254bc81:0",
-      "index": 13,
-      "title": "Análise de preços em 05/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI",
-      "link": "https://br.tradingview.com/news/cointelegraph:36c214254bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-05T21:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Sep 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de set. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 05/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI\" data-qa-id=\"news-headline-title\">Análise de preços em 05/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI</div></div></article>"
     }
   ]
 }
