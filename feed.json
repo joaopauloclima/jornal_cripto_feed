@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-07T17:53:37.847Z",
+  "updated_at": "2025-09-07T18:44:55.977Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ce816fa88bc81:0",
+      "id": "cointelegraph:9bb77dabfbc81:0",
       "index": 0,
+      "title": "Bitcoin atinge US$ 111,3 mil enquanto previsão aponta queda de 10% como 'pior cenário'",
+      "link": "https://br.tradingview.com/news/cointelegraph:9bb77dabfbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-07T18:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 07 Sep 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de set. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin atinge US$ 111,3 mil enquanto previsão aponta queda de 10% como 'pior cenário'\" data-qa-id=\"news-headline-title\">Bitcoin atinge US$ 111,3 mil enquanto previsão aponta queda de 10% como 'pior cenário'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:eee23b9b4bc81:0",
+      "index": 1,
+      "title": "'Dólares da Binance' substituem o bolívar da Venezuela enquanto inflação atinge 229%",
+      "link": "https://br.tradingview.com/news/cointelegraph:eee23b9b4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-07T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 07 Sep 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de set. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Dólares da Binance' substituem o bolívar da Venezuela enquanto inflação atinge 229%\" data-qa-id=\"news-headline-title\">'Dólares da Binance' substituem o bolívar da Venezuela enquanto inflação atinge 229%</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ce816fa88bc81:0",
+      "index": 2,
       "title": "Paxos propõe stablecoin voltada para a Hyperliquid e destina rendimento a recompras de HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:ce816fa88bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a0d5d1f1dbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Sentimento do mercado cripto entra em medo à medida que interesse diminui por 'altcoins obscuras'",
       "link": "https://br.tradingview.com/news/cointelegraph:a0d5d1f1dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:ede4da4cfbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "XRP atinge maior acumulação em 2 anos, preço pode reagir?",
       "link": "https://br.tradingview.com/news/beincrypto:ede4da4cfbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:db4df2349bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Fortuna de Michael Saylor aumenta em US$ 1 bilhão após inclusão em índice de bilionários",
       "link": "https://br.tradingview.com/news/cointelegraph:db4df2349bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9cf57cfaebc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Dificuldade de mineração da rede Bitcoin alcança nova máxima histórica",
       "link": "https://br.tradingview.com/news/cointelegraph:9cf57cfaebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f67131bc7bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Notícias Cripto: relatório da Franklin Templeton, US$ 500 bilhões na Bitger, MEXC top 2 e outras novidades no mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:f67131bc7bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:6018de3c3bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Tether lança app de chat de IA com pagamentos em cripto",
       "link": "https://br.tradingview.com/news/beincrypto:6018de3c3bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:4f10c0ad6bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Golpes de phishing custam mais de US$ 12 milhões aos usuários em agosto — veja como se proteger",
       "link": "https://br.tradingview.com/news/cointelegraph:4f10c0ad6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:24c4cad9dbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "ARK Invest aumenta apostas em cripto com compras de US$ 16 milhões em BitMine e US$ 7,5 milhões em ações da Bullish",
       "link": "https://br.tradingview.com/news/cointelegraph:24c4cad9dbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:07eeccf85bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Projeto de lei do Senado dos EUA sobre criptoativos adiciona cláusula para manter ações tokenizadas como valores mobiliários",
       "link": "https://br.tradingview.com/news/cointelegraph:07eeccf85bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:dcbf56dc9bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "ETFs de Ether registram semana seguida de saídas em meio a leve queda de preço",
       "link": "https://br.tradingview.com/news/cointelegraph:dcbf56dc9bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:f7e4430a1bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Litecoin entra em briga com influenciador e troca farpas sobre preço… e linha do cabelo",
       "link": "https://br.tradingview.com/news/cointelegraph:f7e4430a1bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 06 Sep 2025 22:40:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de set. de 2025, 22:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Litecoin entra em briga com influenciador e troca farpas sobre preço… e linha do cabelo\" data-qa-id=\"news-headline-title\">Litecoin entra em briga com influenciador e troca farpas sobre preço… e linha do cabelo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:40c2cfb1dbc81:0",
-      "index": 12,
-      "title": "Traders que apostam em topo do preço do Bitcoin no 4º trimestre 'não entendem de estatística', afirma analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:40c2cfb1dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-06T22:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 06 Sep 2025 22:20:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de set. de 2025, 22:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders que apostam em topo do preço do Bitcoin no 4º trimestre 'não entendem de estatística', afirma analista\" data-qa-id=\"news-headline-title\">Traders que apostam em topo do preço do Bitcoin no 4º trimestre 'não entendem de estatística', afirma analista</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2ac8389e8bc81:0",
-      "index": 13,
-      "title": "Tether mantém conversas para investir em toda a cadeia de suprimento de ouro, aponta reportagem",
-      "link": "https://br.tradingview.com/news/cointelegraph:2ac8389e8bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-06T22:04:39.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 06 Sep 2025 22:04:39 GMT\" class=\"apply-common-tooltip\" title=\"6 de set. de 2025, 22:04 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tether mantém conversas para investir em toda a cadeia de suprimento de ouro, aponta reportagem\" data-qa-id=\"news-headline-title\">Tether mantém conversas para investir em toda a cadeia de suprimento de ouro, aponta reportagem</div></div></article>"
     }
   ]
 }
