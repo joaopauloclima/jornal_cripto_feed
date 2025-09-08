@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-08T21:53:25.807Z",
+  "updated_at": "2025-09-08T22:38:03.606Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7867e61aabc81:0",
+      "id": "cointelegraph:aa186640dbc81:0",
       "index": 0,
+      "title": "Para onde vai o preço do Bitcoin? Analista aponta níveis-chave de resistência e suporte",
+      "link": "https://br.tradingview.com/news/cointelegraph:aa186640dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-08T22:28:13.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Sep 2025 22:28:13 GMT\" class=\"apply-common-tooltip\" title=\"8 de set. de 2025, 22:28 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Para onde vai o preço do Bitcoin? Analista aponta níveis-chave de resistência e suporte\" data-qa-id=\"news-headline-title\">Para onde vai o preço do Bitcoin? Analista aponta níveis-chave de resistência e suporte</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7867e61aabc81:0",
+      "index": 1,
       "title": "Análise de preços em 08/09: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:7867e61aabc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:2036a22a5bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "ETFs de criptomoedas registram saídas enquanto fundos de Ether perdem US$ 912 milhões, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:2036a22a5bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d92998553bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Por que o preço do Ethereum não consegue ultrapassar US$ 4,5 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:d92998553bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:210a4f675bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ex-CEO da Celsius começará a cumprir pena de 12 anos de prisão nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:210a4f675bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:45a786825bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "CoinShares abrirá capital nos EUA por meio de fusão com SPAC de US$ 1,2 bilhão",
       "link": "https://br.tradingview.com/news/cointelegraph:45a786825bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:dec78ef5abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Nasdaq solicita à SEC dos EUA mudança de regra para negociar ações tokenizadas",
       "link": "https://br.tradingview.com/news/cointelegraph:dec78ef5abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:1ec38d337bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Galaxy, Jump e Multicoin lideram captação de US$ 1,65 bilhão do tesouro da Solana pela Forward Industry",
       "link": "https://br.tradingview.com/news/cointelegraph:1ec38d337bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:88501963fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "MoonPay e outras empresas rivalizam com a Stripe na corrida para emitir a stablecoin USDH da Hyperliquid",
       "link": "https://br.tradingview.com/news/cointelegraph:88501963fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:30b7aa0bdbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "XRP pode continuar a superar o Bitcoin neste ciclo de alta?",
       "link": "https://br.tradingview.com/news/cointelegraph:30b7aa0bdbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:dff193b8dbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Backpack EU inicia operações com plataforma de derivativos aprovada pela CySEC",
       "link": "https://br.tradingview.com/news/cointelegraph:dff193b8dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:7fba8ab99bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Investidores de curto prazo da Solana podem impulsionar rali?",
       "link": "https://br.tradingview.com/news/beincrypto:7fba8ab99bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:0d3bec2fcbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Mercado de NFTs esfria com menor volume de vendas semanais desde meados de junho",
       "link": "https://br.tradingview.com/news/cointelegraph:0d3bec2fcbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:69565d2d4bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "HSBC e ICBC buscam licenças de stablecoin em Hong Kong sob novo regime, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:69565d2d4bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Sep 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de set. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"HSBC e ICBC buscam licenças de stablecoin em Hong Kong sob novo regime, diz reportagem\" data-qa-id=\"news-headline-title\">HSBC e ICBC buscam licenças de stablecoin em Hong Kong sob novo regime, diz reportagem</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5abfa5127bc81:0",
-      "index": 13,
-      "title": "BNDES e Senai vão doar R$ 56 milhões a projetos de IA e outras tecnologias",
-      "link": "https://br.tradingview.com/news/cointelegraph:5abfa5127bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-08T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Sep 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de set. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BNDES e Senai vão doar R$ 56 milhões a projetos de IA e outras tecnologias\" data-qa-id=\"news-headline-title\">BNDES e Senai vão doar R$ 56 milhões a projetos de IA e outras tecnologias</div></div></article>"
     }
   ]
 }
