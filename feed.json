@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-09T09:54:02.902Z",
+  "updated_at": "2025-09-09T10:45:44.497Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2025:newsml_L2N3UW09P:0",
+      "id": "cointelegraph:c9fc2a73dbc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje 09/09/2025: BTC indeciso abre espaço para alta das altcoins como XRP e Solana",
+      "link": "https://br.tradingview.com/news/cointelegraph:c9fc2a73dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-09T10:25:43.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Sep 2025 10:25:43 GMT\" class=\"apply-common-tooltip\" title=\"9 de set. de 2025, 10:25 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje 09/09/2025: BTC indeciso abre espaço para alta das altcoins como XRP e Solana\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje 09/09/2025: BTC indeciso abre espaço para alta das altcoins como XRP e Solana</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L2N3UW09P:0",
+      "index": 1,
       "title": "Fintech sul-coreana Toss planeja expansão global começando na Austrália e visa emitir stablecoin won",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3UW09P:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:9b6bc02c5bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Analista crava os níveis de máxima e mínima do BTC para traders ganharem dinheiro com Bitcoin na semana",
       "link": "https://br.tradingview.com/news/cointelegraph:9b6bc02c5bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:4359ff4adbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Brasil não tem lei para herança de criptomoedas e Bitcoins podem ficar 'perdidos' para sempre nas exchanges",
       "link": "https://br.tradingview.com/news/cointelegraph:4359ff4adbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:bf39135cfbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Além de criptomoedas e stablecoins, Banco Central do Brasil estuda emitir regras para NFTs",
       "link": "https://br.tradingview.com/news/cointelegraph:bf39135cfbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:aa186640dbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Para onde vai o preço do Bitcoin? Analista aponta níveis-chave de resistência e suporte",
       "link": "https://br.tradingview.com/news/cointelegraph:aa186640dbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:7867e61aabc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Análise de preços em 08/09: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:7867e61aabc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:2036a22a5bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETFs de criptomoedas registram saídas enquanto fundos de Ether perdem US$ 912 milhões, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:2036a22a5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d92998553bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Por que o preço do Ethereum não consegue ultrapassar US$ 4,5 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:d92998553bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:210a4f675bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Ex-CEO da Celsius começará a cumprir pena de 12 anos de prisão nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:210a4f675bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:45a786825bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "CoinShares abrirá capital nos EUA por meio de fusão com SPAC de US$ 1,2 bilhão",
       "link": "https://br.tradingview.com/news/cointelegraph:45a786825bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:dec78ef5abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Nasdaq solicita à SEC dos EUA mudança de regra para negociar ações tokenizadas",
       "link": "https://br.tradingview.com/news/cointelegraph:dec78ef5abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1ec38d337bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Galaxy, Jump e Multicoin lideram captação de US$ 1,65 bilhão do tesouro da Solana pela Forward Industry",
       "link": "https://br.tradingview.com/news/cointelegraph:1ec38d337bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:88501963fbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "MoonPay e outras empresas rivalizam com a Stripe na corrida para emitir a stablecoin USDH da Hyperliquid",
       "link": "https://br.tradingview.com/news/cointelegraph:88501963fbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Sep 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de set. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"MoonPay e outras empresas rivalizam com a Stripe na corrida para emitir a stablecoin USDH da Hyperliquid\" data-qa-id=\"news-headline-title\">MoonPay e outras empresas rivalizam com a Stripe na corrida para emitir a stablecoin USDH da Hyperliquid</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:30b7aa0bdbc81:0",
-      "index": 13,
-      "title": "XRP pode continuar a superar o Bitcoin neste ciclo de alta?",
-      "link": "https://br.tradingview.com/news/cointelegraph:30b7aa0bdbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-08T18:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Sep 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de set. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP pode continuar a superar o Bitcoin neste ciclo de alta?\" data-qa-id=\"news-headline-title\">XRP pode continuar a superar o Bitcoin neste ciclo de alta?</div></div></article>"
     }
   ]
 }
