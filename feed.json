@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-09T18:55:46.948Z",
+  "updated_at": "2025-09-09T19:28:25.797Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:5d102092cbc81:0",
+      "id": "cointelegraph:3c6bd45ebbc81:0",
       "index": 0,
+      "title": "Solana segue Ethereum? Padrão gráfico em 'V' projeta preço do SOL em US$ 300",
+      "link": "https://br.tradingview.com/news/cointelegraph:3c6bd45ebbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-09T19:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Sep 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de set. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana segue Ethereum? Padrão gráfico em 'V' projeta preço do SOL em US$ 300\" data-qa-id=\"news-headline-title\">Solana segue Ethereum? Padrão gráfico em 'V' projeta preço do SOL em US$ 300</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:27a25e27cbc81:0",
+      "index": 1,
+      "title": "Nasdaq busca acesso aos serviços de cripto da Gemini por meio de investimento, aponta reportagem",
+      "link": "https://br.tradingview.com/news/cointelegraph:27a25e27cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-09T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Sep 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de set. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nasdaq busca acesso aos serviços de cripto da Gemini por meio de investimento, aponta reportagem\" data-qa-id=\"news-headline-title\">Nasdaq busca acesso aos serviços de cripto da Gemini por meio de investimento, aponta reportagem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5d102092cbc81:0",
+      "index": 2,
       "title": "BBVA recorre à Ripple para custódia institucional de Bitcoin e Ether na Europa",
       "link": "https://br.tradingview.com/news/cointelegraph:5d102092cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c5ea68993bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Estreia da Robinhood no S&P 500 amplia alcance das criptomoedas para investidores de índice",
       "link": "https://br.tradingview.com/news/cointelegraph:c5ea68993bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e6a35fe1dbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Ant Digital destina US$ 8 bilhões em ativos de energia para a blockchain, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:e6a35fe1dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:aacdc368dbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço do Bitcoin e Ethereum enfrenta risco crítico após Israel atacar o Catar",
       "link": "https://br.tradingview.com/news/beincrypto:aacdc368dbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f30f7d084bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Baleia supera James Wynn como maior perdedor da Hyperliquid após prejuízo de US$ 40 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:f30f7d084bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:5025e661cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Falha em ataque ao NPM destaca ameaça iminente à segurança cripto, afirma executivo",
       "link": "https://br.tradingview.com/news/cointelegraph:5025e661cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:64286d18ebc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Empresa cripto suíça Taurus anuncia abertura de escritório no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:64286d18ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:2d97f487bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin chega a US$ 113 mil enquanto análise prevê ‘retorno às máximas’ com corte de juros pelo Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:2d97f487bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:856f8a246bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Quão alto o preço do DOGE pode chegar quando um ETF de Dogecoin for aprovado?",
       "link": "https://br.tradingview.com/news/cointelegraph:856f8a246bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9ca5d6850bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "ARK Invest compra US$ 4,4 milhões em ações da BitMine enquanto sua tesouraria ultrapassa 2 milhões de ETH",
       "link": "https://br.tradingview.com/news/cointelegraph:9ca5d6850bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:70723bb24bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Dogecoin (DOGE) mira novos patamares com alta de endereços",
       "link": "https://br.tradingview.com/news/beincrypto:70723bb24bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:4cb59344ebc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Lion Group aposta na Hyperliquid enquanto HYPE atinge nova máxima",
       "link": "https://br.tradingview.com/news/cointelegraph:4cb59344ebc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Sep 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de set. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Lion Group aposta na Hyperliquid enquanto HYPE atinge nova máxima\" data-qa-id=\"news-headline-title\">Lion Group aposta na Hyperliquid enquanto HYPE atinge nova máxima</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8721673b4bc81:0",
-      "index": 12,
-      "title": "Justiça multa autora de ação após IA inventar jurisprudência em recurso",
-      "link": "https://br.tradingview.com/news/cointelegraph:8721673b4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-09T15:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Sep 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de set. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Justiça multa autora de ação após IA inventar jurisprudência em recurso\" data-qa-id=\"news-headline-title\">Justiça multa autora de ação após IA inventar jurisprudência em recurso</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L2N3UW0MR:0",
-      "index": 13,
-      "title": "Cboe lançará contratos futuros de longo prazo para bitcoin e ether em impulso às criptomoedas",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3UW0MR:0/",
-      "source": "Reuters",
-      "published_at": "2025-09-09T15:05:50.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/cboe-global-markets.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/cboe-global-markets.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Sep 2025 15:05:50 GMT\" class=\"apply-common-tooltip\" title=\"9 de set. de 2025, 15:05 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Cboe lançará contratos futuros de longo prazo para bitcoin e ether em impulso às criptomoedas\" data-qa-id=\"news-headline-title\">Cboe lançará contratos futuros de longo prazo para bitcoin e ether em impulso às criptomoedas</div></div></article>"
     }
   ]
 }
