@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-09T20:37:55.030Z",
+  "updated_at": "2025-09-09T20:53:54.388Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6a9ed70fcbc81:0",
+      "id": "cointelegraph:40b1cdcfdbc81:0",
       "index": 0,
+      "title": "HSBC e BNP Paribas apoiam a Canton Foundation em iniciativa de tokenização institucional",
+      "link": "https://br.tradingview.com/news/cointelegraph:40b1cdcfdbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-09T20:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Sep 2025 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de set. de 2025, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"HSBC e BNP Paribas apoiam a Canton Foundation em iniciativa de tokenização institucional\" data-qa-id=\"news-headline-title\">HSBC e BNP Paribas apoiam a Canton Foundation em iniciativa de tokenização institucional</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6a9ed70fcbc81:0",
+      "index": 1,
       "title": "Trump Media permitirá que usuários do Truth Social convertam ‘gemas’ em tokens CRO",
       "link": "https://br.tradingview.com/news/cointelegraph:6a9ed70fcbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:baae53b9dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "ETFs de ETH spot registram saídas de US$ 1 bilhão em seis dias seguidos à medida que o otimismo sobre cortes de juros diminui",
       "link": "https://br.tradingview.com/news/cointelegraph:baae53b9dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b43bdedacbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Como a Hyperliquid alcançou US$ 330 bilhões em volume mensal de negociações com apenas 11 funcionários",
       "link": "https://br.tradingview.com/news/cointelegraph:b43bdedacbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3c6bd45ebbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Solana segue Ethereum? Padrão gráfico em 'V' projeta preço do SOL em US$ 300",
       "link": "https://br.tradingview.com/news/cointelegraph:3c6bd45ebbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:27a25e27cbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Nasdaq busca acesso aos serviços de cripto da Gemini por meio de investimento, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:27a25e27cbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:559be87a0bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "XRP pronto para disparar após sinais otimistas",
       "link": "https://br.tradingview.com/news/beincrypto:559be87a0bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:5d102092cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "BBVA recorre à Ripple para custódia institucional de Bitcoin e Ether na Europa",
       "link": "https://br.tradingview.com/news/cointelegraph:5d102092cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c5ea68993bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Estreia da Robinhood no S&P 500 amplia alcance das criptomoedas para investidores de índice",
       "link": "https://br.tradingview.com/news/cointelegraph:c5ea68993bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e6a35fe1dbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Ant Digital destina US$ 8 bilhões em ativos de energia para a blockchain, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:e6a35fe1dbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:aacdc368dbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Preço do Bitcoin e Ethereum enfrenta risco crítico após Israel atacar o Catar",
       "link": "https://br.tradingview.com/news/beincrypto:aacdc368dbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f30f7d084bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Baleia supera James Wynn como maior perdedor da Hyperliquid após prejuízo de US$ 40 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:f30f7d084bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:5025e661cbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Falha em ataque ao NPM destaca ameaça iminente à segurança cripto, afirma executivo",
       "link": "https://br.tradingview.com/news/cointelegraph:5025e661cbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Sep 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de set. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Falha em ataque ao NPM destaca ameaça iminente à segurança cripto, afirma executivo\" data-qa-id=\"news-headline-title\">Falha em ataque ao NPM destaca ameaça iminente à segurança cripto, afirma executivo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:64286d18ebc81:0",
-      "index": 12,
-      "title": "Empresa cripto suíça Taurus anuncia abertura de escritório no Brasil",
-      "link": "https://br.tradingview.com/news/cointelegraph:64286d18ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-09T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Sep 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de set. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Empresa cripto suíça Taurus anuncia abertura de escritório no Brasil\" data-qa-id=\"news-headline-title\">Empresa cripto suíça Taurus anuncia abertura de escritório no Brasil</div></div></article>"
     }
   ]
 }
