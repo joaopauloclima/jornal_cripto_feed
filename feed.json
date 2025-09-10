@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-10T20:38:08.467Z",
+  "updated_at": "2025-09-10T20:53:21.286Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2193885fdbc81:0",
+      "id": "cointelegraph:7031bc294bc81:0",
       "index": 0,
+      "title": "Comitê do Senado dos EUA aprova indicado de Trump ao Fed 'favorável às criptomoedas'",
+      "link": "https://br.tradingview.com/news/cointelegraph:7031bc294bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-10T20:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Sep 2025 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de set. de 2025, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Comitê do Senado dos EUA aprova indicado de Trump ao Fed 'favorável às criptomoedas'\" data-qa-id=\"news-headline-title\">Comitê do Senado dos EUA aprova indicado de Trump ao Fed 'favorável às criptomoedas'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2193885fdbc81:0",
+      "index": 1,
       "title": "StarkWare anuncia verificação leve de Bitcoin para uso em dispositivos móveis",
       "link": "https://br.tradingview.com/news/cointelegraph:2193885fdbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:d84f162f4bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "África Subsaariana é a terceira região que mais cresce em adoção de criptomoedas, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:d84f162f4bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:15c449002bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "De 55% para 20%? Como o Japão planeja corrigir suas regras de imposto sobre cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:15c449002bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a12838164bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ciclos de preço do Bitcoin 'ficam mais longos' e nova previsão diz que US$ 124 mil não é o topo",
       "link": "https://br.tradingview.com/news/cointelegraph:a12838164bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:44cbf47b3bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Controle de Chat da UE depende da decisão da Alemanha",
       "link": "https://br.tradingview.com/news/cointelegraph:44cbf47b3bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:955e08cefbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bubblemaps alega maior ataque Sybil da história das criptomoedas em airdrop da MYX",
       "link": "https://br.tradingview.com/news/cointelegraph:955e08cefbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f185c0698bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Quirguistão apresenta conceito de reserva estatal de criptomoedas em novo projeto de lei",
       "link": "https://br.tradingview.com/news/cointelegraph:f185c0698bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8a2292e98bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Presidente da SEC dos EUA diz que a maioria dos tokens não são valores mobiliários e apoia plataformas ‘super-app’",
       "link": "https://br.tradingview.com/news/cointelegraph:8a2292e98bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:7f24df806bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Rali de 110% da Worldcoin enfrenta esfriamento enquanto mercado mostra sinais de exaustão",
       "link": "https://br.tradingview.com/news/beincrypto:7f24df806bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:71c72b7a5bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Intimidar mulher pedindo Pix pode ser enquadrado na Lei Maria da Penha",
       "link": "https://br.tradingview.com/news/cointelegraph:71c72b7a5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8c789f4b8bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin ultrapassa US$ 114 mil com PPI dos EUA em queda, elevando apostas de corte de juros pelo Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:8c789f4b8bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:368983973bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Oranje se prepara para estrear na B3 e assumir liderança das ‘Bitcoin Treasury Companies’ na América Latina",
       "link": "https://br.tradingview.com/news/cointelegraph:368983973bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:96d3cb7acbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Binance e Franklin Templeton se unem em projetos de tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:96d3cb7acbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Sep 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de set. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance e Franklin Templeton se unem em projetos de tokenização\" data-qa-id=\"news-headline-title\">Binance e Franklin Templeton se unem em projetos de tokenização</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:988c87c6fbc81:0",
-      "index": 13,
-      "title": "Google anuncia expansão em infraestrutura de IA no Brasil",
-      "link": "https://br.tradingview.com/news/cointelegraph:988c87c6fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-10T16:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Sep 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de set. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Google anuncia expansão em infraestrutura de IA no Brasil\" data-qa-id=\"news-headline-title\">Google anuncia expansão em infraestrutura de IA no Brasil</div></div></article>"
     }
   ]
 }
