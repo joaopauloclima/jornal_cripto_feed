@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-10T16:58:32.670Z",
+  "updated_at": "2025-09-10T17:34:40.778Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:368983973bc81:0",
+      "id": "cointelegraph:8c789f4b8bc81:0",
       "index": 0,
+      "title": "Bitcoin ultrapassa US$ 114 mil com PPI dos EUA em queda, elevando apostas de corte de juros pelo Fed",
+      "link": "https://br.tradingview.com/news/cointelegraph:8c789f4b8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-10T17:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Sep 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de set. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin ultrapassa US$ 114 mil com PPI dos EUA em queda, elevando apostas de corte de juros pelo Fed\" data-qa-id=\"news-headline-title\">Bitcoin ultrapassa US$ 114 mil com PPI dos EUA em queda, elevando apostas de corte de juros pelo Fed</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:368983973bc81:0",
+      "index": 1,
       "title": "Oranje se prepara para estrear na B3 e assumir liderança das ‘Bitcoin Treasury Companies’ na América Latina",
       "link": "https://br.tradingview.com/news/cointelegraph:368983973bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:96d3cb7acbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Binance e Franklin Templeton se unem em projetos de tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:96d3cb7acbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:988c87c6fbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Google anuncia expansão em infraestrutura de IA no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:988c87c6fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:ff118d129bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Polygon afirma que blocos continuam sendo produzidos apesar de falha de consenso",
       "link": "https://br.tradingview.com/news/cointelegraph:ff118d129bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:46ef29f17bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Baleias impulsionam o Ethereum e abrem caminho para nova alta",
       "link": "https://br.tradingview.com/news/beincrypto:46ef29f17bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5ca47d89fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Paxos atualiza proposta de stablecoin USDH com planos de integração ao PayPal e Venmo",
       "link": "https://br.tradingview.com/news/cointelegraph:5ca47d89fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b5159ec1fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Linea resolve bug no sequenciador enquanto airdrop massivo de tokens está prestes a começar",
       "link": "https://br.tradingview.com/news/cointelegraph:b5159ec1fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:b63676922bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Preço do ETH a US$ 3.500 primeiro? Por que os ursos da Ethereum estão ficando mais barulhentos",
       "link": "https://br.tradingview.com/news/cointelegraph:b63676922bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e5cbbb49ebc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin precisa chegar a US$ 104 mil para repetir quedas anteriores de mercado em alta, diz pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:e5cbbb49ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c00f33a8ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Dos chineses ao Hezbollah: a trajetória de lavagem de dinheiro do ‘criptoboy brasileiro’",
       "link": "https://br.tradingview.com/news/cointelegraph:c00f33a8ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:bf8885f02bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Medo atual dos traders de cripto não vai durar muito, dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:bf8885f02bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:190139867bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Cboe planeja futuros de Bitcoin e Ethereum com vencimento de 10 anos nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:190139867bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:8d8250822bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "XRP flerta com US$ 3 em meio à esperança de ETF: US$ 3,60 é o próximo alvo?",
       "link": "https://br.tradingview.com/news/cointelegraph:8d8250822bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Sep 2025 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de set. de 2025, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP flerta com US$ 3 em meio à esperança de ETF: US$ 3,60 é o próximo alvo?\" data-qa-id=\"news-headline-title\">XRP flerta com US$ 3 em meio à esperança de ETF: US$ 3,60 é o próximo alvo?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c372f047fbc81:0",
-      "index": 13,
-      "title": "Diante de queda nas ações, Metaplanet anuncia oferta de 385 milhões de ações para comprar BTC",
-      "link": "https://br.tradingview.com/news/cointelegraph:c372f047fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-10T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Sep 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de set. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Diante de queda nas ações, Metaplanet anuncia oferta de 385 milhões de ações para comprar BTC\" data-qa-id=\"news-headline-title\">Diante de queda nas ações, Metaplanet anuncia oferta de 385 milhões de ações para comprar BTC</div></div></article>"
     }
   ]
 }
