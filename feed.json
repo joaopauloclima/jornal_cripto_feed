@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-11T17:34:38.133Z",
+  "updated_at": "2025-09-11T17:54:15.574Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:13836c10cbc81:0",
+      "id": "cointelegraph:bcb7f231cbc81:0",
       "index": 0,
+      "title": "Zodia Custody encerra empreendimento no Japão com a SBI em 'decisão mútua', aponta reportagem",
+      "link": "https://br.tradingview.com/news/cointelegraph:bcb7f231cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-11T17:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Sep 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de set. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Zodia Custody encerra empreendimento no Japão com a SBI em 'decisão mútua', aponta reportagem\" data-qa-id=\"news-headline-title\">Zodia Custody encerra empreendimento no Japão com a SBI em 'decisão mútua', aponta reportagem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:13836c10cbc81:0",
+      "index": 1,
       "title": "Joseph Lubin sugere futuras recompensas para detentores da Linea enquanto preço cai 20%",
       "link": "https://br.tradingview.com/news/cointelegraph:13836c10cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:d949926c5bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Apple torna assinaturas mais seguras para usuários cripto frequentes com novo iPhone 17",
       "link": "https://br.tradingview.com/news/cointelegraph:d949926c5bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:60f098588bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Índice de Altseason atinge o nível mais alto do ano: Veja o que os traders pensam",
       "link": "https://br.tradingview.com/news/cointelegraph:60f098588bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a1d87b75fbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "CEO do Goldman Sachs duvida de corte de 50 pontos-base nos juros dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:a1d87b75fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:6c7215d8cbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Chainlink faz parceria com UBS e DigiFT para mirar mercado de RWA na China",
       "link": "https://br.tradingview.com/news/beincrypto:6c7215d8cbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4b528c7dcbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "‘Fat apps’ podem se tornar uma grande narrativa nos próximos meses, diz executivo da Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:4b528c7dcbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8795fa435bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Salvador pode adotar pagamento de impostos por criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:8795fa435bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:34c10ea65bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Enviar Bitcoin para Marte agora é teoricamente possível, dizem pesquisadores",
       "link": "https://br.tradingview.com/news/cointelegraph:34c10ea65bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b9134c4efbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "BitMine faz segunda grande compra de ETH na semana e atinge US$ 9,2 bilhões em reservas",
       "link": "https://br.tradingview.com/news/cointelegraph:b9134c4efbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:9d82a61d5bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin sobe após CPI dos EUA sair dentro do esperado",
       "link": "https://br.tradingview.com/news/beincrypto:9d82a61d5bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:7f29e7ecbbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Nepaleses correm para o bitchat de Jack Dorsey em meio a protestos violentos contra a corrupção",
       "link": "https://br.tradingview.com/news/cointelegraph:7f29e7ecbbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:fb2c54852bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Preço da Avalanche (AVAX) atinge máxima de 7 meses",
       "link": "https://br.tradingview.com/news/beincrypto:fb2c54852bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:d2e28c633bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "'Superciclo' do Bitcoin pode levar o preço a US$ 360 mil, indica nova análise",
       "link": "https://br.tradingview.com/news/cointelegraph:d2e28c633bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Sep 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de set. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Superciclo' do Bitcoin pode levar o preço a US$ 360 mil, indica nova análise\" data-qa-id=\"news-headline-title\">'Superciclo' do Bitcoin pode levar o preço a US$ 360 mil, indica nova análise</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8655a8dd1bc81:0",
-      "index": 13,
-      "title": "SEC adia decisões sobre ETFs cripto da BlackRock e Franklin Templeton",
-      "link": "https://br.tradingview.com/news/cointelegraph:8655a8dd1bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-11T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Sep 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de set. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SEC adia decisões sobre ETFs cripto da BlackRock e Franklin Templeton\" data-qa-id=\"news-headline-title\">SEC adia decisões sobre ETFs cripto da BlackRock e Franklin Templeton</div></div></article>"
     }
   ]
 }
