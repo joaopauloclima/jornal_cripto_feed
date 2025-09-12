@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-12T14:53:55.931Z",
+  "updated_at": "2025-09-12T15:35:50.876Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:999739eb8bc81:0",
+      "id": "cointelegraph:4e04d91e1bc81:0",
       "index": 0,
+      "title": "Exchange cripto Bitstamp supera volumes da Robinhood em agosto",
+      "link": "https://br.tradingview.com/news/cointelegraph:4e04d91e1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-12T15:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Sep 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de set. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Exchange cripto Bitstamp supera volumes da Robinhood em agosto\" data-qa-id=\"news-headline-title\">Exchange cripto Bitstamp supera volumes da Robinhood em agosto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:999739eb8bc81:0",
+      "index": 1,
       "title": "Era do 'dinheiro fácil' das tesourarias cripto chega ao fim, mas isso pode ser bom para o setor",
       "link": "https://br.tradingview.com/news/cointelegraph:999739eb8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fea0ab369bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Assistente virtual de IA da Albânia, Diella, acaba de ser promovida a ‘ministra’",
       "link": "https://br.tradingview.com/news/cointelegraph:fea0ab369bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:3a04255e2bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Por que o mercado de criptomoedas está em alta hoje 12/09/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:3a04255e2bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:092af3e1abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "John Deere abre vagas de emprego e de trainne; Asaas e VOLL têm oportunidades",
       "link": "https://br.tradingview.com/news/cointelegraph:092af3e1abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c30c81f37bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Metaverso ainda vive enquanto vendas de NFTs sobem 27% em agosto",
       "link": "https://br.tradingview.com/news/cointelegraph:c30c81f37bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:292e9e204bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin recupera US$ 115 mil: veja os próximos níveis de preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:292e9e204bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:8dff05947bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Hedera (HBAR) sobe 15%, mas sinais indicam possível esgotamento",
       "link": "https://br.tradingview.com/news/beincrypto:8dff05947bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:70a435562bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Após recorde e condenação histórica de Bolsonaro, Ibovespa abre em queda",
       "link": "https://br.tradingview.com/news/beincrypto:70a435562bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d271ae29bbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "8 de 10 indicadores de alta do Bitcoin ficam pessimistas apesar da alta para US$ 116 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d271ae29bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:b79ce50e5bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Entradas de ETF à vista de ETH chegam a US$ 216 milhões, mas dados sugerem que preço de US$ 5 mil para o Ether não está ‘programado’",
       "link": "https://br.tradingview.com/news/cointelegraph:b79ce50e5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:aca6d0965bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "CPI não assusta e criptomoedas chegam a US$ 4 tri com o Bitcoin a US$ 115 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:aca6d0965bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:ad774adeabc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin supera barreira de US$ 112 mil e mira retorno a US$ 120 mil",
       "link": "https://br.tradingview.com/news/beincrypto:ad774adeabc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:a5280350cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preço do Bitcoin 12/11/2025: BTC chega a US$ 115 mil e anima touros antes da decisão do FED",
       "link": "https://br.tradingview.com/news/cointelegraph:a5280350cbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin 12/11/2025: BTC chega a US$ 115 mil e anima touros antes da decisão do FED\" data-qa-id=\"news-headline-title\">Preço do Bitcoin 12/11/2025: BTC chega a US$ 115 mil e anima touros antes da decisão do FED</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:a938325a3bc81:0",
-      "index": 13,
-      "title": "Real valoriza 14% em 2025 e 'desconta' ganhos dos brasileiros com criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:a938325a3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-12T11:07:18.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Sep 2025 11:07:18 GMT\" class=\"apply-common-tooltip\" title=\"12 de set. de 2025, 11:07 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Real valoriza 14% em 2025 e 'desconta' ganhos dos brasileiros com criptomoedas\" data-qa-id=\"news-headline-title\">Real valoriza 14% em 2025 e 'desconta' ganhos dos brasileiros com criptomoedas</div></div></article>"
     }
   ]
 }
