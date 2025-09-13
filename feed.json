@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-13T14:56:02.227Z",
+  "updated_at": "2025-09-13T15:31:00.840Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e2fdc4eddbc81:0",
+      "id": "cointelegraph:990ec7559bc81:0",
       "index": 0,
+      "title": "'Grande chance' de os EUA formarem uma Reserva Estratégica de Bitcoin este ano, diz Alex Thorn",
+      "link": "https://br.tradingview.com/news/cointelegraph:990ec7559bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-13T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Sep 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de set. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Grande chance' de os EUA formarem uma Reserva Estratégica de Bitcoin este ano, diz Alex Thorn\" data-qa-id=\"news-headline-title\">'Grande chance' de os EUA formarem uma Reserva Estratégica de Bitcoin este ano, diz Alex Thorn</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e2fdc4eddbc81:0",
+      "index": 1,
       "title": "OpenAI e Microsoft chegam a acordo de reestruturação de braço com fins lucrativos",
       "link": "https://br.tradingview.com/news/cointelegraph:e2fdc4eddbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:b1dff74eabc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Mineradores de Bitcoin buscam adaptação em meio à turbulência do mercado",
       "link": "https://br.tradingview.com/news/beincrypto:b1dff74eabc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:629dc9b46bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Máximas históricas do Bitcoin chegar em '2 a 3 semanas', com preço preenchendo lacuna de US$ 117 mil em futuros",
       "link": "https://br.tradingview.com/news/cointelegraph:629dc9b46bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:42805d6fabc81:0",
-      "index": 3,
+      "index": 4,
       "title": "XRP ganha fôlego com alta de 38% na atividade de curto prazo",
       "link": "https://br.tradingview.com/news/beincrypto:42805d6fabc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8ee62fa12bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Por dentro da corrida da stablecoin da Hyperliquid: empresas que competem pelo USDH",
       "link": "https://br.tradingview.com/news/cointelegraph:8ee62fa12bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:823308933bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Tether anuncia USAT, uma nova stablecoin para conformidade regulatória nos EUA",
       "link": "https://br.tradingview.com/news/beincrypto:823308933bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e22015c4ebc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Not your keys.... Superior Tribunal de Justiça autoriza penhora de criptomoedas para pagar dívidas",
       "link": "https://br.tradingview.com/news/cointelegraph:e22015c4ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3c5fcf80bbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ciclo de alta das criptomoedas ainda nem começou, defende analista que acertou alta do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:3c5fcf80bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9901840b6bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Ethereum sobe para US$ 4.700 com alta de 6%, ETH vai chegar a US$ 5 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:9901840b6bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:3f5dcf474bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "US$ 124.000 foi o limite para alta do Bitcoin? Google pode ter a resposta",
       "link": "https://br.tradingview.com/news/cointelegraph:3f5dcf474bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6e01a71b4bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Polymarket busca avaliação de US$ 10 bilhões enquanto mercado de previsões se prepara para retorno aos EUA, segundo reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:6e01a71b4bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:2b68b8e75bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "WisdomTree lança fundo de crédito privado tokenizado enquanto mercado ultrapassa US$ 16 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:2b68b8e75bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:388d2df56bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "TON Strategy lança recompra de US$ 250 milhões enquanto ações caem 7,5%",
       "link": "https://br.tradingview.com/news/cointelegraph:388d2df56bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCTON.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCTON.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Sep 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de set. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"TON Strategy lança recompra de US$ 250 milhões enquanto ações caem 7,5%\" data-qa-id=\"news-headline-title\">TON Strategy lança recompra de US$ 250 milhões enquanto ações caem 7,5%</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d548ea5f1bc81:0",
-      "index": 13,
-      "title": "Análise de preços em 12/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI",
-      "link": "https://br.tradingview.com/news/cointelegraph:d548ea5f1bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-12T21:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Sep 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de set. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 12/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI\" data-qa-id=\"news-headline-title\">Análise de preços em 12/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI</div></div></article>"
     }
   ]
 }
