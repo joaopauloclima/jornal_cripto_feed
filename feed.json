@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-14T20:53:18.906Z",
+  "updated_at": "2025-09-14T21:29:27.933Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:aa7c178cfbc81:0",
+      "id": "cointelegraph:011e9cccebc81:0",
       "index": 0,
+      "title": "Trader de Bitcoin diz que 'é hora de prestar atenção' ao preço do BTC de US$ 115 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:011e9cccebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-14T21:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Sep 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de set. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trader de Bitcoin diz que 'é hora de prestar atenção' ao preço do BTC de US$ 115 mil\" data-qa-id=\"news-headline-title\">Trader de Bitcoin diz que 'é hora de prestar atenção' ao preço do BTC de US$ 115 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:aa7c178cfbc81:0",
+      "index": 1,
       "title": "US$ 1 bilhão do gigante de investimentos Capital Group em títulos do Tesouro de Bitcoin sobe para US$ 6 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:aa7c178cfbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:a76d0fe7fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ethereum Foundation apresenta 'Privacy Stewards for Ethereum' e roadmap",
       "link": "https://br.tradingview.com/news/cointelegraph:a76d0fe7fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:621bb998fbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "O 'fim do jogo' para as stablecoins do dólar americano é a ausência de tickers, diz executivo da Web3",
       "link": "https://br.tradingview.com/news/cointelegraph:621bb998fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:024b773a1bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Blockstream soa o alarme sobre nova campanha de phishing por e-mail",
       "link": "https://br.tradingview.com/news/cointelegraph:024b773a1bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:fa757269dbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Redução da taxa de gás da Tron reduz receita diária em 64% em 10 dias",
       "link": "https://br.tradingview.com/news/cointelegraph:fa757269dbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:94303e146bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Stablecoin YU da Yala não consegue restaurar paridade após 'tentativa de ataque'",
       "link": "https://br.tradingview.com/news/cointelegraph:94303e146bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a2fcf0547bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Kalshi está 'pronta para defender' mercados de previsão em meio a processo judicial em Massachusetts",
       "link": "https://br.tradingview.com/news/cointelegraph:a2fcf0547bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5b591ecdfbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Garantias onchain podem lhe proporcionar melhores condições de empréstimo, diz executivo de banco de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:5b591ecdfbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:71e1be763bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Dogecoin mira US$ 0,60 após preço do DOGE subir 40% em uma semana",
       "link": "https://br.tradingview.com/news/cointelegraph:71e1be763bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:57f2ff690bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoiners que buscam uma Lamborghini rapidamente estão no caminho da derrota, diz Arthur Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:57f2ff690bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:920e33d2dbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "ETFs de BTC à vista atraem US$ 642 milhões, ETH adiciona US$ 406 milhões em meio à \"confiança crescente\"",
       "link": "https://br.tradingview.com/news/cointelegraph:920e33d2dbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8dc0f3910bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Hacker da Coinbase compra US$ 300 milhões em Ether após ETH ultrapassar US$ 4.700",
       "link": "https://br.tradingview.com/news/cointelegraph:8dc0f3910bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:03b3d4e47bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "White hats da Web3 ganham milhões, destruindo empregos tradicionais de US$ 300 mil em segurança cibernética",
       "link": "https://br.tradingview.com/news/cointelegraph:03b3d4e47bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Sep 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de set. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"White hats da Web3 ganham milhões, destruindo empregos tradicionais de US$ 300 mil em segurança cibernética\" data-qa-id=\"news-headline-title\">White hats da Web3 ganham milhões, destruindo empregos tradicionais de US$ 300 mil em segurança cibernética</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f9fbf146fbc81:0",
-      "index": 13,
-      "title": "Acumulação de mineradores de Bitcoin atinge ritmo não visto desde 2023: novas máximas do BTC serão as próximas?",
-      "link": "https://br.tradingview.com/news/cointelegraph:f9fbf146fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-13T16:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Sep 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de set. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Acumulação de mineradores de Bitcoin atinge ritmo não visto desde 2023: novas máximas do BTC serão as próximas?\" data-qa-id=\"news-headline-title\">Acumulação de mineradores de Bitcoin atinge ritmo não visto desde 2023: novas máximas do BTC serão as próximas?</div></div></article>"
     }
   ]
 }
