@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-15T20:37:11.499Z",
+  "updated_at": "2025-09-15T20:53:58.250Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d7c263e49bc81:0",
+      "id": "cointelegraph:6106fe91abc81:0",
       "index": 0,
+      "title": "Ethereum Foundation forma equipe de pesquisa em IA para integrar blockchain e IA",
+      "link": "https://br.tradingview.com/news/cointelegraph:6106fe91abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-15T20:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Sep 2025 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de set. de 2025, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum Foundation forma equipe de pesquisa em IA para integrar blockchain e IA\" data-qa-id=\"news-headline-title\">Ethereum Foundation forma equipe de pesquisa em IA para integrar blockchain e IA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d7c263e49bc81:0",
+      "index": 1,
       "title": "Análise de preços em 15/09: SPX, DXY, BTC, ETH, XRP, SOL, BNB, DOGE, ADA, HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:d7c263e49bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:7c45b1693bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Base sugere lançamento de token nativo no BaseCamp 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:7c45b1693bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a0f1f0211bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "PayPal vai integrar BTC, ETH e PYSD em expansão de pagamentos P2P",
       "link": "https://br.tradingview.com/news/cointelegraph:a0f1f0211bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:7f16f0229bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Reserva de Bitcoin da Strategy atinge US$ 73 bilhões com 638.985 BTC em tesouraria",
       "link": "https://br.tradingview.com/news/cointelegraph:7f16f0229bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:ad31c7f13bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Investidores de DOGE se recusam a vender enquanto rali esquenta",
       "link": "https://br.tradingview.com/news/beincrypto:ad31c7f13bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5b74e7c4cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Queda diária do Bitcoin atinge 2% enquanto ação de preço ‘clássica’ do BTC antecede o FOMC",
       "link": "https://br.tradingview.com/news/cointelegraph:5b74e7c4cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e81f94893bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Solana confirma sinal de alta que da última vez levou a ganhos de 1.300% no preço do SOL",
       "link": "https://br.tradingview.com/news/cointelegraph:e81f94893bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a5f77c4e9bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Helius, listada na Nasdaq, anuncia financiamento de US$ 500 milhões para tesouro de Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:a5f77c4e9bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a20d9c581bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "ETPs de Bitcoin e Solana lideram recuperação de US$ 3,3 bilhões em fluxos para cripto, segundo a CoinShares",
       "link": "https://br.tradingview.com/news/cointelegraph:a20d9c581bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:ef1e4f881bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Solana mira US$ 284, mas risco de correção aumenta",
       "link": "https://br.tradingview.com/news/beincrypto:ef1e4f881bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:c64429041bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "França diz que pode bloquear empresas de criptomoedas licenciadas em outros países da UE",
       "link": "https://br.tradingview.com/news/cointelegraph:c64429041bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:c14eb2119bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ouro dispara e reacende debate sobre Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:c14eb2119bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e198ca18dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Taxas mínimas padrão de retransmissão do Bitcoin Core caem 90% com atualização em andamento",
       "link": "https://br.tradingview.com/news/cointelegraph:e198ca18dbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Sep 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de set. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Taxas mínimas padrão de retransmissão do Bitcoin Core caem 90% com atualização em andamento\" data-qa-id=\"news-headline-title\">Taxas mínimas padrão de retransmissão do Bitcoin Core caem 90% com atualização em andamento</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:24a7bc7c8bc81:0",
-      "index": 13,
-      "title": "IA é um ‘retrocesso imensurável’ para habilidade da escrita, diz autor",
-      "link": "https://br.tradingview.com/news/cointelegraph:24a7bc7c8bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-15T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Sep 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de set. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"IA é um ‘retrocesso imensurável’ para habilidade da escrita, diz autor\" data-qa-id=\"news-headline-title\">IA é um ‘retrocesso imensurável’ para habilidade da escrita, diz autor</div></div></article>"
     }
   ]
 }
