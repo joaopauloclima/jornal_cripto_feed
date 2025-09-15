@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-15T17:35:24.086Z",
+  "updated_at": "2025-09-15T17:54:02.413Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e198ca18dbc81:0",
+      "id": "cointelegraph:c64429041bc81:0",
       "index": 0,
+      "title": "França diz que pode bloquear empresas de criptomoedas licenciadas em outros países da UE",
+      "link": "https://br.tradingview.com/news/cointelegraph:c64429041bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-15T17:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Sep 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de set. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"França diz que pode bloquear empresas de criptomoedas licenciadas em outros países da UE\" data-qa-id=\"news-headline-title\">França diz que pode bloquear empresas de criptomoedas licenciadas em outros países da UE</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e198ca18dbc81:0",
+      "index": 1,
       "title": "Taxas mínimas padrão de retransmissão do Bitcoin Core caem 90% com atualização em andamento",
       "link": "https://br.tradingview.com/news/cointelegraph:e198ca18dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:24a7bc7c8bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "IA é um ‘retrocesso imensurável’ para habilidade da escrita, diz autor",
       "link": "https://br.tradingview.com/news/cointelegraph:24a7bc7c8bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:62d532a6fbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "VC japonês Credit Saison lança fundo de investimento em blockchain no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:62d532a6fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:fab6fa588bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "DAO da Polkadot aprova limite de 2,1 bilhões de tokens DOT em mudança de tokenomics",
       "link": "https://br.tradingview.com/news/cointelegraph:fab6fa588bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4feebc96ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Presidente da SEC promete aviso prévio antes de ações de execução contra empresas cripto, segundo o Financial Times",
       "link": "https://br.tradingview.com/news/cointelegraph:4feebc96ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:1093ab12bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Votação de governança da Polkadot bloqueia oferta de DOT: alimenta perspectiva otimista",
       "link": "https://br.tradingview.com/news/beincrypto:1093ab12bbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:1681790cabc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Como ganhar renda passiva com stablecoins remuneradas em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:1681790cabc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:0d87781bfbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "BTC já está ‘precificando’ o que vem aí: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:0d87781bfbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e7da587fabc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Cidadãos da Tailândia descobrem contas bancárias congeladas: Bitcoin, alguém?",
       "link": "https://br.tradingview.com/news/cointelegraph:e7da587fabc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c2824b133bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Buterin diz que governança cripto gerida por IA é uma 'má ideia' devido a jailbreaks",
       "link": "https://br.tradingview.com/news/cointelegraph:c2824b133bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ced14a412bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Aportes do Brasil em fundos de criptomoedas sobem para R$ 28,8 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:ced14a412bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:01c58a253bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin perde força em US$ 115 mil e motivo preocupa investidores",
       "link": "https://br.tradingview.com/news/beincrypto:01c58a253bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3208a4131bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Galaxy Digital adquire US$ 306 milhões em Solana após acordo para tesouraria cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:3208a4131bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Sep 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de set. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Galaxy Digital adquire US$ 306 milhões em Solana após acordo para tesouraria cripto\" data-qa-id=\"news-headline-title\">Galaxy Digital adquire US$ 306 milhões em Solana após acordo para tesouraria cripto</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5feca73eebc81:0",
-      "index": 13,
-      "title": "Trump renova tentativa de destituir Cook do Fed antes de corte esperado nas taxas",
-      "link": "https://br.tradingview.com/news/cointelegraph:5feca73eebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-15T13:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Sep 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de set. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump renova tentativa de destituir Cook do Fed antes de corte esperado nas taxas\" data-qa-id=\"news-headline-title\">Trump renova tentativa de destituir Cook do Fed antes de corte esperado nas taxas</div></div></article>"
     }
   ]
 }
