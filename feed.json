@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-15T13:24:15.971Z",
+  "updated_at": "2025-09-15T13:54:07.620Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:85c2ec168bc81:0",
+      "id": "cointelegraph:5feca73eebc81:0",
       "index": 0,
+      "title": "Trump renova tentativa de destituir Cook do Fed antes de corte esperado nas taxas",
+      "link": "https://br.tradingview.com/news/cointelegraph:5feca73eebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-15T13:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Sep 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de set. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump renova tentativa de destituir Cook do Fed antes de corte esperado nas taxas\" data-qa-id=\"news-headline-title\">Trump renova tentativa de destituir Cook do Fed antes de corte esperado nas taxas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7df3644ddbc81:0",
+      "index": 1,
+      "title": "Criadores do Taproot não previram seu ‘valor de trolling’, aponta desenvolvedor de Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:7df3644ddbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-15T13:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Sep 2025 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de set. de 2025, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criadores do Taproot não previram seu ‘valor de trolling’, aponta desenvolvedor de Bitcoin\" data-qa-id=\"news-headline-title\">Criadores do Taproot não previram seu ‘valor de trolling’, aponta desenvolvedor de Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:85c2ec168bc81:0",
+      "index": 2,
       "title": "Cripto não é Web 3.0, é Capitalismo 2.0, diz executivo de cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:85c2ec168bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:69a01cd5ebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Traders dizem que fechamento semanal 'de alta' do Bitcoin abre caminho para preço do BTC a US$ 120 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:69a01cd5ebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:bf19708d9bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "IA de Elon Musk explica como ganhar US$10 mil por ano com Solana",
       "link": "https://br.tradingview.com/news/beincrypto:bf19708d9bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:076c88aacbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Baleia de Bitcoin está despejando novamente enquanto BTC se aproxima de US$ 116 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:076c88aacbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:00dac9e12bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Altcoins avançam sobre o Bitcoin com Fed no radar e pressão de venda",
       "link": "https://br.tradingview.com/news/cointelegraph:00dac9e12bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:b33b69a52bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Preço do XRP cai 9% e pode abrir caminho para nova alta",
       "link": "https://br.tradingview.com/news/beincrypto:b33b69a52bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:69df18d59bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Preço do Bitcoin 15/09/2025: Por que o BTC caiu hoje? Cripto começa a semana em queda e volta para US$ 114 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:69df18d59bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:52918d8ebbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 15/09/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:52918d8ebbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ba3fdafe5bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Itaú aposta em alta parabólica de altcoin em seu 1° relatório exclusivo sobre criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:ba3fdafe5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:7f154b89fbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Testamos a Tangem Wallet, carteira fria de Bitcoin e cripto com anel, cartões, Dex, Swaps entre outras funções",
       "link": "https://br.tradingview.com/news/cointelegraph:7f154b89fbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:2db96a296bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Brasiliera DexCap é selecionada pela Ripple para aceleração junto ao Fenasbac",
       "link": "https://br.tradingview.com/news/cointelegraph:2db96a296bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:f1b0a3b32bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Native Markets reivindica oficialmente o ticker da stablecoin USDH da Hyperliquid",
       "link": "https://br.tradingview.com/news/cointelegraph:f1b0a3b32bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Sep 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de set. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Native Markets reivindica oficialmente o ticker da stablecoin USDH da Hyperliquid\" data-qa-id=\"news-headline-title\">Native Markets reivindica oficialmente o ticker da stablecoin USDH da Hyperliquid</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:011e9cccebc81:0",
-      "index": 12,
-      "title": "Trader de Bitcoin diz que 'é hora de prestar atenção' ao preço do BTC de US$ 115 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:011e9cccebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-14T21:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Sep 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de set. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trader de Bitcoin diz que 'é hora de prestar atenção' ao preço do BTC de US$ 115 mil\" data-qa-id=\"news-headline-title\">Trader de Bitcoin diz que 'é hora de prestar atenção' ao preço do BTC de US$ 115 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:aa7c178cfbc81:0",
-      "index": 13,
-      "title": "US$ 1 bilhão do gigante de investimentos Capital Group em títulos do Tesouro de Bitcoin sobe para US$ 6 bilhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:aa7c178cfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-14T20:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Sep 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de set. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"US$ 1 bilhão do gigante de investimentos Capital Group em títulos do Tesouro de Bitcoin sobe para US$ 6 bilhões\" data-qa-id=\"news-headline-title\">US$ 1 bilhão do gigante de investimentos Capital Group em títulos do Tesouro de Bitcoin sobe para US$ 6 bilhões</div></div></article>"
     }
   ]
 }
