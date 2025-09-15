@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-15T11:30:01.170Z",
+  "updated_at": "2025-09-15T11:53:57.502Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ba3fdafe5bc81:0",
+      "id": "cointelegraph:69df18d59bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin 15/09/2025: Por que o BTC caiu hoje? Cripto começa a semana em queda e volta para US$ 114 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:69df18d59bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-15T11:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin 15/09/2025: Por que o BTC caiu hoje? Cripto começa a semana em queda e volta para US$ 114 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin 15/09/2025: Por que o BTC caiu hoje? Cripto começa a semana em queda e volta para US$ 114 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ba3fdafe5bc81:0",
+      "index": 1,
       "title": "Itaú aposta em alta parabólica de altcoin em seu 1° relatório exclusivo sobre criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:ba3fdafe5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:7f154b89fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Testamos a Tangem Wallet, carteira fria de Bitcoin e cripto com anel, cartões, Dex, Swaps entre outras funções",
       "link": "https://br.tradingview.com/news/cointelegraph:7f154b89fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2db96a296bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Brasiliera DexCap é selecionada pela Ripple para aceleração junto ao Fenasbac",
       "link": "https://br.tradingview.com/news/cointelegraph:2db96a296bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f1b0a3b32bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Native Markets reivindica oficialmente o ticker da stablecoin USDH da Hyperliquid",
       "link": "https://br.tradingview.com/news/cointelegraph:f1b0a3b32bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:011e9cccebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Trader de Bitcoin diz que 'é hora de prestar atenção' ao preço do BTC de US$ 115 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:011e9cccebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:aa7c178cfbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "US$ 1 bilhão do gigante de investimentos Capital Group em títulos do Tesouro de Bitcoin sobe para US$ 6 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:aa7c178cfbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a76d0fe7fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ethereum Foundation apresenta 'Privacy Stewards for Ethereum' e roadmap",
       "link": "https://br.tradingview.com/news/cointelegraph:a76d0fe7fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:621bb998fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "O 'fim do jogo' para as stablecoins do dólar americano é a ausência de tickers, diz executivo da Web3",
       "link": "https://br.tradingview.com/news/cointelegraph:621bb998fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:024b773a1bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Blockstream soa o alarme sobre nova campanha de phishing por e-mail",
       "link": "https://br.tradingview.com/news/cointelegraph:024b773a1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:fa757269dbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Redução da taxa de gás da Tron reduz receita diária em 64% em 10 dias",
       "link": "https://br.tradingview.com/news/cointelegraph:fa757269dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:94303e146bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Stablecoin YU da Yala não consegue restaurar paridade após 'tentativa de ataque'",
       "link": "https://br.tradingview.com/news/cointelegraph:94303e146bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a2fcf0547bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Kalshi está 'pronta para defender' mercados de previsão em meio a processo judicial em Massachusetts",
       "link": "https://br.tradingview.com/news/cointelegraph:a2fcf0547bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Sep 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de set. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Kalshi está 'pronta para defender' mercados de previsão em meio a processo judicial em Massachusetts\" data-qa-id=\"news-headline-title\">Kalshi está 'pronta para defender' mercados de previsão em meio a processo judicial em Massachusetts</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5b591ecdfbc81:0",
-      "index": 12,
-      "title": "Garantias onchain podem lhe proporcionar melhores condições de empréstimo, diz executivo de banco de criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:5b591ecdfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-14T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Sep 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de set. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Garantias onchain podem lhe proporcionar melhores condições de empréstimo, diz executivo de banco de criptomoedas\" data-qa-id=\"news-headline-title\">Garantias onchain podem lhe proporcionar melhores condições de empréstimo, diz executivo de banco de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:71e1be763bc81:0",
-      "index": 13,
-      "title": "Dogecoin mira US$ 0,60 após preço do DOGE subir 40% em uma semana",
-      "link": "https://br.tradingview.com/news/cointelegraph:71e1be763bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-13T21:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Sep 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de set. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Dogecoin mira US$ 0,60 após preço do DOGE subir 40% em uma semana\" data-qa-id=\"news-headline-title\">Dogecoin mira US$ 0,60 após preço do DOGE subir 40% em uma semana</div></div></article>"
     }
   ]
 }
