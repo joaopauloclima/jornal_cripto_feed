@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-16T19:27:47.393Z",
+  "updated_at": "2025-09-16T19:54:02.217Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f39e8ffc8bc81:0",
+      "id": "cointelegraph:6efda9e19bc81:0",
       "index": 0,
+      "title": "Subsidiária da Deutsche Börse lança liquidação off-exchange para instituições",
+      "link": "https://br.tradingview.com/news/cointelegraph:6efda9e19bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-16T19:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Sep 2025 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de set. de 2025, 19:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Subsidiária da Deutsche Börse lança liquidação off-exchange para instituições\" data-qa-id=\"news-headline-title\">Subsidiária da Deutsche Börse lança liquidação off-exchange para instituições</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f39e8ffc8bc81:0",
+      "index": 1,
       "title": "Divisão de capital de risco do Standard Chartered vai levantar US$ 250 milhões para fundo de ativos digitais, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:f39e8ffc8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:31666f339bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Regulação cripto da UE é testada enquanto França avalia bloqueio de 'passaporte'",
       "link": "https://br.tradingview.com/news/cointelegraph:31666f339bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:4afa868a1bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin mira liquidações longas enquanto ouro ultrapassa US$ 3,7 mil pela primeira vez",
       "link": "https://br.tradingview.com/news/cointelegraph:4afa868a1bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3e77fa4d2bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Traders de futuros de Bitcoin reduzem riscos antes do FOMC, mas prêmio da Coinbase mostra demanda no mercado à vista",
       "link": "https://br.tradingview.com/news/cointelegraph:3e77fa4d2bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b2a8af644bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Mercado cripto se prepara para corte de juros do Fed em meio a mudança de diretores",
       "link": "https://br.tradingview.com/news/cointelegraph:b2a8af644bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:a58e23278bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bancos suíços concluem primeiro pagamento juridicamente vinculativo baseado em blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:a58e23278bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:2d817846bbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Autor de 'Bitcoin Standard': título argentino em formato 'Ponzi' está perto do colapso, Bitcoin é a saída",
       "link": "https://br.tradingview.com/news/cointelegraph:2d817846bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3c165d47fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Criptomoeda brasileira dispara mais de 3.500% com integração em superapp de fidelidade e recompensas Web3",
       "link": "https://br.tradingview.com/news/cointelegraph:3c165d47fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1490251a1bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin enfrenta resistência em US$ 118 mil, mas ETFs podem impulsionar o preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:1490251a1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:027f3f42fbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Rali do preço do XRP estagna com falso rompimento em US$ 3 enquanto grandes investidores continuam vendendo",
       "link": "https://br.tradingview.com/news/cointelegraph:027f3f42fbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d39ab78d8bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Até onde o preço da Ethereum pode subir após corte de juros do Fed?",
       "link": "https://br.tradingview.com/news/cointelegraph:d39ab78d8bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e4864ca20bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Coinbase diz que stablecoins não drenam depósitos bancários e chama isso de 'mito'",
       "link": "https://br.tradingview.com/news/cointelegraph:e4864ca20bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Sep 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de set. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase diz que stablecoins não drenam depósitos bancários e chama isso de 'mito'\" data-qa-id=\"news-headline-title\">Coinbase diz que stablecoins não drenam depósitos bancários e chama isso de 'mito'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:82c6c7092bc81:0",
-      "index": 12,
-      "title": "Volume diário do Pump.fun ultrapassa US$ 1 bilhão com alta das memecoins em setembro",
-      "link": "https://br.tradingview.com/news/cointelegraph:82c6c7092bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-16T14:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Sep 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de set. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Volume diário do Pump.fun ultrapassa US$ 1 bilhão com alta das memecoins em setembro\" data-qa-id=\"news-headline-title\">Volume diário do Pump.fun ultrapassa US$ 1 bilhão com alta das memecoins em setembro</div></div></article>"
     }
   ]
 }
