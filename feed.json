@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-16T23:27:01.319Z",
+  "updated_at": "2025-09-16T23:53:35.491Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:345db09a6bc81:0",
+      "id": "cointelegraph:7cafa93dcbc81:0",
       "index": 0,
+      "title": "Agora é a hora, novo rali do Bitcoin está prestes a começar, crava análise da Coinext",
+      "link": "https://br.tradingview.com/news/cointelegraph:7cafa93dcbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-16T23:43:45.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Sep 2025 23:43:45 GMT\" class=\"apply-common-tooltip\" title=\"16 de set. de 2025, 23:43 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Agora é a hora, novo rali do Bitcoin está prestes a começar, crava análise da Coinext\" data-qa-id=\"news-headline-title\">Agora é a hora, novo rali do Bitcoin está prestes a começar, crava análise da Coinext</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:345db09a6bc81:0",
+      "index": 1,
       "title": "Ações de mineradoras de Bitcoin superam BTC e investidores apostam em mudanças para IA",
       "link": "https://br.tradingview.com/news/cointelegraph:345db09a6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:7a90347c0bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Openbank do Santander lança negociação de criptomoedas na Alemanha e mira a Espanha",
       "link": "https://br.tradingview.com/news/cointelegraph:7a90347c0bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:fd5c79002bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Coinbase pede ao Departamento de Justiça dos EUA que adote medidas para impedir processos de fiscalização estaduais",
       "link": "https://br.tradingview.com/news/cointelegraph:fd5c79002bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:2feec3093bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ethereum mira os US$ 5 mil com início da temporada de altcoins",
       "link": "https://br.tradingview.com/news/beincrypto:2feec3093bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8af5253b2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Google revela protocolo open-source para pagamentos com IA e suporte a stablecoin",
       "link": "https://br.tradingview.com/news/cointelegraph:8af5253b2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:cc23f3654bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "LimeWire revive a polêmica marca Fyre Festival com integração Web3",
       "link": "https://br.tradingview.com/news/cointelegraph:cc23f3654bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c48f6b6f6bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Tesourarias corporativas de Solana atingem US$ 4 bilhões à medida que empresas acumulam 3% da oferta",
       "link": "https://br.tradingview.com/news/cointelegraph:c48f6b6f6bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6efda9e19bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Subsidiária da Deutsche Börse lança liquidação off-exchange para instituições",
       "link": "https://br.tradingview.com/news/cointelegraph:6efda9e19bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f39e8ffc8bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Divisão de capital de risco do Standard Chartered vai levantar US$ 250 milhões para fundo de ativos digitais, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:f39e8ffc8bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:31666f339bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Regulação cripto da UE é testada enquanto França avalia bloqueio de 'passaporte'",
       "link": "https://br.tradingview.com/news/cointelegraph:31666f339bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4afa868a1bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin mira liquidações longas enquanto ouro ultrapassa US$ 3,7 mil pela primeira vez",
       "link": "https://br.tradingview.com/news/cointelegraph:4afa868a1bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:3e77fa4d2bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Traders de futuros de Bitcoin reduzem riscos antes do FOMC, mas prêmio da Coinbase mostra demanda no mercado à vista",
       "link": "https://br.tradingview.com/news/cointelegraph:3e77fa4d2bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:b2a8af644bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Mercado cripto se prepara para corte de juros do Fed em meio a mudança de diretores",
       "link": "https://br.tradingview.com/news/cointelegraph:b2a8af644bc81:0/",
       "source": "Cointelegraph",
