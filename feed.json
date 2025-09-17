@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-17T17:35:29.213Z",
+  "updated_at": "2025-09-17T17:53:57.204Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f5a923f90bc81:0",
+      "id": "cointelegraph:22b404cb0bc81:0",
       "index": 0,
+      "title": "P2P.org se torna validadora na Canton Network de US$ 4 trilhões",
+      "link": "https://br.tradingview.com/news/cointelegraph:22b404cb0bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-17T17:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"P2P.org se torna validadora na Canton Network de US$ 4 trilhões\" data-qa-id=\"news-headline-title\">P2P.org se torna validadora na Canton Network de US$ 4 trilhões</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0ade11e4fbc81:0",
+      "index": 1,
+      "title": "IA que rastreia criptomoedas detecta R$ 11 bi em sonegação no Brasil",
+      "link": "https://br.tradingview.com/news/cointelegraph:0ade11e4fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-17T17:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"IA que rastreia criptomoedas detecta R$ 11 bi em sonegação no Brasil\" data-qa-id=\"news-headline-title\">IA que rastreia criptomoedas detecta R$ 11 bi em sonegação no Brasil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f5a923f90bc81:0",
+      "index": 2,
       "title": "SBI Shinsei do Japão busca pagamentos tokenizados em cripto com nova parceria",
       "link": "https://br.tradingview.com/news/cointelegraph:f5a923f90bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:ee44beb09bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "FCA do Reino Unido considera dispensar algumas regras da TradFi para empresas de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:ee44beb09bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d08e4655cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Opções de Bitcoin mostram cautela, mas traders profissionais aumentam apostas otimistas antes da decisão do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:d08e4655cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f12e76dc5bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço do Bitcoin sobe 8% e setembro de 2025 caminha para o melhor em 13 anos",
       "link": "https://br.tradingview.com/news/cointelegraph:f12e76dc5bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:50a100926bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin está na carteira de um em cada três investidores arrojados do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:50a100926bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:5ae1ca135bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Grupo GD Culture expande para Bitcoin, mas mercado de ações pune movimento",
       "link": "https://br.tradingview.com/news/beincrypto:5ae1ca135bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:b34845fcebc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Privacidade é uma ‘batalha constante’ entre participantes de blockchain e o Estado",
       "link": "https://br.tradingview.com/news/cointelegraph:b34845fcebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:49ec1e119bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Fila de saída do staking da Ethereum fica ‘parabólica’: o que isso significa para o preço?",
       "link": "https://br.tradingview.com/news/cointelegraph:49ec1e119bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9d6aff50bbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Metaplanet expande estratégia de Bitcoin com novas unidades nos EUA e Japão",
       "link": "https://br.tradingview.com/news/cointelegraph:9d6aff50bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f9aa9c1b1bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do Bitcoin atinge US$ 117 mil enquanto traders se preparam para cortes de juros do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:f9aa9c1b1bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:d60d013c2bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitwise protocola ETF de stablecoins e tokenização junto à SEC dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:d60d013c2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:338054e56bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Baleia de Bitcoin desperta após 12 anos e transfere 1.000 BTC antes da reunião do Fed dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:338054e56bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleia de Bitcoin desperta após 12 anos e transfere 1.000 BTC antes da reunião do Fed dos EUA\" data-qa-id=\"news-headline-title\">Baleia de Bitcoin desperta após 12 anos e transfere 1.000 BTC antes da reunião do Fed dos EUA</div></div></article>"
-    },
-    {
-      "id": "beincrypto:79f4dfb83bc81:0",
-      "index": 12,
-      "title": "De acumulação à ansiedade: empresas de tesouraria cripto enfrentam duras realidades",
-      "link": "https://br.tradingview.com/news/beincrypto:79f4dfb83bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-17T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"De acumulação à ansiedade: empresas de tesouraria cripto enfrentam duras realidades\" data-qa-id=\"news-headline-title\">De acumulação à ansiedade: empresas de tesouraria cripto enfrentam duras realidades</div></div></article>"
     }
   ]
 }
