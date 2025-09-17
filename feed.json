@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-17T10:53:48.834Z",
+  "updated_at": "2025-09-17T11:29:48.149Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7cafa93dcbc81:0",
+      "id": "cointelegraph:bd88b5037bc81:0",
       "index": 0,
+      "title": "Perdeu o hype da IA? Analistas apontam criptomoedas de robótica como a próxima grande oportunidade",
+      "link": "https://br.tradingview.com/news/cointelegraph:bd88b5037bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-17T11:08:14.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 11:08:14 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 11:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Perdeu o hype da IA? Analistas apontam criptomoedas de robótica como a próxima grande oportunidade\" data-qa-id=\"news-headline-title\">Perdeu o hype da IA? Analistas apontam criptomoedas de robótica como a próxima grande oportunidade</div></div></article>"
+    },
+    {
+      "id": "beincrypto:0fd851876bc81:0",
+      "index": 1,
+      "title": "Por que o mercado de criptomoedas está em alta hoje 17/09/2025?",
+      "link": "https://br.tradingview.com/news/beincrypto:0fd851876bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-09-17T11:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 17/09/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 17/09/2025?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7cafa93dcbc81:0",
+      "index": 2,
       "title": "Agora é a hora, novo rali do Bitcoin está prestes a começar, crava análise da Coinext",
       "link": "https://br.tradingview.com/news/cointelegraph:7cafa93dcbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:345db09a6bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Ações de mineradoras de Bitcoin superam BTC e investidores apostam em mudanças para IA",
       "link": "https://br.tradingview.com/news/cointelegraph:345db09a6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:7a90347c0bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Openbank do Santander lança negociação de criptomoedas na Alemanha e mira a Espanha",
       "link": "https://br.tradingview.com/news/cointelegraph:7a90347c0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:fd5c79002bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Coinbase pede ao Departamento de Justiça dos EUA que adote medidas para impedir processos de fiscalização estaduais",
       "link": "https://br.tradingview.com/news/cointelegraph:fd5c79002bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:2feec3093bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ethereum mira os US$ 5 mil com início da temporada de altcoins",
       "link": "https://br.tradingview.com/news/beincrypto:2feec3093bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8af5253b2bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Google revela protocolo open-source para pagamentos com IA e suporte a stablecoin",
       "link": "https://br.tradingview.com/news/cointelegraph:8af5253b2bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:cc23f3654bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "LimeWire revive a polêmica marca Fyre Festival com integração Web3",
       "link": "https://br.tradingview.com/news/cointelegraph:cc23f3654bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c48f6b6f6bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Tesourarias corporativas de Solana atingem US$ 4 bilhões à medida que empresas acumulam 3% da oferta",
       "link": "https://br.tradingview.com/news/cointelegraph:c48f6b6f6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:6efda9e19bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Subsidiária da Deutsche Börse lança liquidação off-exchange para instituições",
       "link": "https://br.tradingview.com/news/cointelegraph:6efda9e19bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f39e8ffc8bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Divisão de capital de risco do Standard Chartered vai levantar US$ 250 milhões para fundo de ativos digitais, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:f39e8ffc8bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:31666f339bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Regulação cripto da UE é testada enquanto França avalia bloqueio de 'passaporte'",
       "link": "https://br.tradingview.com/news/cointelegraph:31666f339bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:4afa868a1bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin mira liquidações longas enquanto ouro ultrapassa US$ 3,7 mil pela primeira vez",
       "link": "https://br.tradingview.com/news/cointelegraph:4afa868a1bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Sep 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de set. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin mira liquidações longas enquanto ouro ultrapassa US$ 3,7 mil pela primeira vez\" data-qa-id=\"news-headline-title\">Bitcoin mira liquidações longas enquanto ouro ultrapassa US$ 3,7 mil pela primeira vez</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:3e77fa4d2bc81:0",
-      "index": 12,
-      "title": "Traders de futuros de Bitcoin reduzem riscos antes do FOMC, mas prêmio da Coinbase mostra demanda no mercado à vista",
-      "link": "https://br.tradingview.com/news/cointelegraph:3e77fa4d2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-16T18:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Sep 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de set. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders de futuros de Bitcoin reduzem riscos antes do FOMC, mas prêmio da Coinbase mostra demanda no mercado à vista\" data-qa-id=\"news-headline-title\">Traders de futuros de Bitcoin reduzem riscos antes do FOMC, mas prêmio da Coinbase mostra demanda no mercado à vista</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b2a8af644bc81:0",
-      "index": 13,
-      "title": "Mercado cripto se prepara para corte de juros do Fed em meio a mudança de diretores",
-      "link": "https://br.tradingview.com/news/cointelegraph:b2a8af644bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-16T17:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Sep 2025 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de set. de 2025, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado cripto se prepara para corte de juros do Fed em meio a mudança de diretores\" data-qa-id=\"news-headline-title\">Mercado cripto se prepara para corte de juros do Fed em meio a mudança de diretores</div></div></article>"
     }
   ]
 }
