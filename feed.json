@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-17T14:42:45.784Z",
+  "updated_at": "2025-09-17T14:54:24.948Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d60d013c2bc81:0",
+      "id": "cointelegraph:f9aa9c1b1bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin atinge US$ 117 mil enquanto traders se preparam para cortes de juros do Fed",
+      "link": "https://br.tradingview.com/news/cointelegraph:f9aa9c1b1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-17T14:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin atinge US$ 117 mil enquanto traders se preparam para cortes de juros do Fed\" data-qa-id=\"news-headline-title\">Preço do Bitcoin atinge US$ 117 mil enquanto traders se preparam para cortes de juros do Fed</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d60d013c2bc81:0",
+      "index": 1,
       "title": "Bitwise protocola ETF de stablecoins e tokenização junto à SEC dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:d60d013c2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:338054e56bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Baleia de Bitcoin desperta após 12 anos e transfere 1.000 BTC antes da reunião do Fed dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:338054e56bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:79f4dfb83bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "De acumulação à ansiedade: empresas de tesouraria cripto enfrentam duras realidades",
       "link": "https://br.tradingview.com/news/beincrypto:79f4dfb83bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c16960987bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin e Ethereum entre ‘rali monstruoso’ e fim do mercado de alta",
       "link": "https://br.tradingview.com/news/cointelegraph:c16960987bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:8a18465eabc81:0",
-      "index": 4,
+      "index": 5,
       "title": "BNB supera riscos e mira quatro dígitos",
       "link": "https://br.tradingview.com/news/beincrypto:8a18465eabc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:a3d651cbcbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Binance busca acordo com DOJ que pode encerrar monitor de compliance de 2023, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:a3d651cbcbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:2cd4bb851bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Câmara dos EUA deve considerar banimento retroativo de CBDCs em projeto de estrutura de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:2cd4bb851bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:bfa163fc1bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Venda de XRP atinge maior nível em 2 meses: manterá suporte de US$ 3?",
       "link": "https://br.tradingview.com/news/beincrypto:bfa163fc1bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:4e6353b91bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Circle responde à stablecoin da Hyperliquid com investimento e lançamento de USDC nativo",
       "link": "https://br.tradingview.com/news/cointelegraph:4e6353b91bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:cd7e24228bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "O que será necessário para o Ethereum superar o Bitcoin? Analista-chefe da Bitget explica",
       "link": "https://br.tradingview.com/news/beincrypto:cd7e24228bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2812a36debc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin pode chegar a US$ 120 mil: eis o porquê",
       "link": "https://br.tradingview.com/news/cointelegraph:2812a36debc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e4072d7f5bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin busca rali com o Fed em dia de airdrop de 10.000.000 BARD na Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:e4072d7f5bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:35e8cf8fcbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Previsão Bitcoin: corte de taxa do Fed pode levar BTC a US$ 120 mil?",
       "link": "https://br.tradingview.com/news/beincrypto:35e8cf8fcbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Previsão Bitcoin: corte de taxa do Fed pode levar BTC a US$ 120 mil?\" data-qa-id=\"news-headline-title\">Previsão Bitcoin: corte de taxa do Fed pode levar BTC a US$ 120 mil?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:45117d66bbc81:0",
-      "index": 13,
-      "title": "Preço do Bitcoin hoje 17/09/2025: BTC continua movimento lateral em busca de novo rompimento",
-      "link": "https://br.tradingview.com/news/cointelegraph:45117d66bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-17T11:29:39.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 11:29:39 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 11:29 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje 17/09/2025: BTC continua movimento lateral em busca de novo rompimento\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje 17/09/2025: BTC continua movimento lateral em busca de novo rompimento</div></div></article>"
     }
   ]
 }
