@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-18T15:53:19.610Z",
+  "updated_at": "2025-09-18T16:46:58.277Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1d3f1e7edbc81:0",
+      "id": "cointelegraph:28e9ad538bc81:0",
       "index": 0,
+      "title": "CEO da Coinbase diz que próximo grande projeto de lei cripto é um 'trem de carga'",
+      "link": "https://br.tradingview.com/news/cointelegraph:28e9ad538bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-18T16:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da Coinbase diz que próximo grande projeto de lei cripto é um 'trem de carga'\" data-qa-id=\"news-headline-title\">CEO da Coinbase diz que próximo grande projeto de lei cripto é um 'trem de carga'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:738651b9dbc81:0",
+      "index": 1,
+      "title": "Vitalik Buterin finalmente reage após semanas de FUD sobre fila de staking",
+      "link": "https://br.tradingview.com/news/cointelegraph:738651b9dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-18T16:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik Buterin finalmente reage após semanas de FUD sobre fila de staking\" data-qa-id=\"news-headline-title\">Vitalik Buterin finalmente reage após semanas de FUD sobre fila de staking</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1d3f1e7edbc81:0",
+      "index": 2,
       "title": "Tsar cripto dos EUA, David Sacks, nega ultrapassar limite de dias de trabalho em meio a escrutínio de Warren",
       "link": "https://br.tradingview.com/news/cointelegraph:1d3f1e7edbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c1c027b6bbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Stablecoins são futuro do comércio do Brics, dizem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:c1c027b6bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3d218395dbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Memecoiners erguem estátua dourada de Trump com Bitcoin de 3,6 metros perto do Capitólio dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:3d218395dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:1e53e34f1bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "ATH do Bitcoin depende destas três condições após corte de taxa",
       "link": "https://br.tradingview.com/news/beincrypto:1e53e34f1bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:820c6f509bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "SEC aprova padrões genéricos de listagem para acelerar aprovações de ETFs cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:820c6f509bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:671995f1ebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin pode testar máxima histórica 'rapidamente' se touros reconquistarem US$ 118 mil, afirma Trader",
       "link": "https://br.tradingview.com/news/cointelegraph:671995f1ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a61164616bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Quão alto o preço do DOGE pode chegar com o lançamento do primeiro ETF de Dogecoin?",
       "link": "https://br.tradingview.com/news/cointelegraph:a61164616bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:66695bec2bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Powell diz que FOMC está dividido sobre novos cortes de juros em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:66695bec2bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:1f4de0504bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Alta do Bitcoin pode ser armadilha de touro, sugere análise",
       "link": "https://br.tradingview.com/news/cointelegraph:1f4de0504bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4dff2fd0ebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "CME lançará opções de futuros de Solana e XRP em outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:4dff2fd0ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:1af7ade83bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "O que baleias de ETH, SOL e XRP fizeram após corte de 0,25% na taxa pelo Fed?",
       "link": "https://br.tradingview.com/news/beincrypto:1af7ade83bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:1adb4f7a6bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Ethereum mira acima de US$ 5.400 com métrica em mínima de 6 meses",
       "link": "https://br.tradingview.com/news/beincrypto:1adb4f7a6bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum mira acima de US$ 5.400 com métrica em mínima de 6 meses\" data-qa-id=\"news-headline-title\">Ethereum mira acima de US$ 5.400 com métrica em mínima de 6 meses</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0b762aac5bc81:0",
-      "index": 12,
-      "title": "ASTER sobe 470% com pressão de compra de altcoins e o Bitcoin a US$ 117 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:0b762aac5bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-18T11:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 11:50:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 11:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ASTER sobe 470% com pressão de compra de altcoins e o Bitcoin a US$ 117 mil\" data-qa-id=\"news-headline-title\">ASTER sobe 470% com pressão de compra de altcoins e o Bitcoin a US$ 117 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:77abe4cecbc81:0",
-      "index": 13,
-      "title": "AO VIVO - Preço do Bitcoin hoje 18/09/2025: BTC sobe para US$ 117 mil com corte de juros nos EUA",
-      "link": "https://br.tradingview.com/news/cointelegraph:77abe4cecbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-18T11:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"AO VIVO - Preço do Bitcoin hoje 18/09/2025: BTC sobe para US$ 117 mil com corte de juros nos EUA\" data-qa-id=\"news-headline-title\">AO VIVO - Preço do Bitcoin hoje 18/09/2025: BTC sobe para US$ 117 mil com corte de juros nos EUA</div></div></article>"
     }
   ]
 }
