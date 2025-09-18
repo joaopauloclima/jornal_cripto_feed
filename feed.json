@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-17T23:53:42.161Z",
+  "updated_at": "2025-09-18T03:09:32.122Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:4a3035572bc81:0",
+      "id": "cointelegraph:d3e80017bbc81:0",
       "index": 0,
+      "title": "BNB em US$ 1 mil? Criptomoeda chega a US$ 990 após decisão do FED e 'retorno' de CZ para a Binance",
+      "link": "https://br.tradingview.com/news/cointelegraph:d3e80017bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-18T00:26:08.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 00:26:08 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 00:26 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BNB em US$ 1 mil? Criptomoeda chega a US$ 990 após decisão do FED e 'retorno' de CZ para a Binance\" data-qa-id=\"news-headline-title\">BNB em US$ 1 mil? Criptomoeda chega a US$ 990 após decisão do FED e 'retorno' de CZ para a Binance</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e867931f3bc81:0",
+      "index": 1,
+      "title": "Mais de 33 milhões de brasileiros estão com identidade validada em blockchain",
+      "link": "https://br.tradingview.com/news/cointelegraph:e867931f3bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-18T00:02:02.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 00:02:02 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 00:02 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mais de 33 milhões de brasileiros estão com identidade validada em blockchain\" data-qa-id=\"news-headline-title\">Mais de 33 milhões de brasileiros estão com identidade validada em blockchain</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:4a3035572bc81:0",
+      "index": 2,
       "title": "Bitso cria sistema que leva stablecoins direto para o dia a dia",
       "link": "https://br.tradingview.com/news/cointelegraph:4a3035572bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:4c8f8b725bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Mercado cripto brasileiro enfrentará mesmo rigor regulatório que bancos sob novas regras do BC, alertam especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:4c8f8b725bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:4b3666a4bbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Executivos de cripto se reúnem com legisladores dos EUA para debater reserva de Bitcoin e estrutura de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:4b3666a4bbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:2246efd04bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin cai abaixo de US$ 115 mil após Fed implementar corte de um quarto de ponto na taxa de juros",
       "link": "https://br.tradingview.com/news/cointelegraph:2246efd04bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:7c7b8ed82bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Token da Wormhole dispara após reformulação da tokenomics e lançamento da reserva W",
       "link": "https://br.tradingview.com/news/cointelegraph:7c7b8ed82bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4e96ac79cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Federal Reserve deve cortar juros hoje, veja como isso pode impactar as criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:4e96ac79cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:743dd52c9bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bullish abre caminho para lançamento nos EUA com BitLicense de Nova York",
       "link": "https://br.tradingview.com/news/cointelegraph:743dd52c9bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:a358b1c94bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Ethereum testa suporte e mira recuperação em US$ 4.775",
       "link": "https://br.tradingview.com/news/beincrypto:a358b1c94bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:18c847407bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Fintech LMAX Group lança contratos perpétuos de Bitcoin e Ether para traders institucionais",
       "link": "https://br.tradingview.com/news/cointelegraph:18c847407bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5934711b9bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Criptomoedas precisam de uma nova narrativa, diz influenciador que defende começar salvando crianças",
       "link": "https://br.tradingview.com/news/cointelegraph:5934711b9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c19a5d588bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "'Terceiro mandato' do Fed pode desvalorizar o dólar e impulsionar a alta das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:c19a5d588bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:75a310fdcbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Análise de preços em 17/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e SUI",
       "link": "https://br.tradingview.com/news/cointelegraph:75a310fdcbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 17/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e SUI\" data-qa-id=\"news-headline-title\">Análise de preços em 17/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e SUI</div></div></article>"
-    },
-    {
-      "id": "beincrypto:ae9044855bc81:0",
-      "index": 12,
-      "title": "Bitcoin reage ao corte de juros do Fed de 25 pontos-base",
-      "link": "https://br.tradingview.com/news/beincrypto:ae9044855bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-17T18:02:30.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 18:02:30 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 18:02 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin reage ao corte de juros do Fed de 25 pontos-base\" data-qa-id=\"news-headline-title\">Bitcoin reage ao corte de juros do Fed de 25 pontos-base</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:22b404cb0bc81:0",
-      "index": 13,
-      "title": "P2P.org se torna validadora na Canton Network de US$ 4 trilhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:22b404cb0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-17T18:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Sep 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de set. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"P2P.org se torna validadora na Canton Network de US$ 4 trilhões\" data-qa-id=\"news-headline-title\">P2P.org se torna validadora na Canton Network de US$ 4 trilhões</div></div></article>"
     }
   ]
 }
