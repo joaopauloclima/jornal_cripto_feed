@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-18T14:43:08.519Z",
+  "updated_at": "2025-09-18T14:53:38.826Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:671995f1ebc81:0",
+      "id": "cointelegraph:820c6f509bc81:0",
       "index": 0,
+      "title": "SEC aprova padrões genéricos de listagem para acelerar aprovações de ETFs cripto",
+      "link": "https://br.tradingview.com/news/cointelegraph:820c6f509bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-18T14:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SEC aprova padrões genéricos de listagem para acelerar aprovações de ETFs cripto\" data-qa-id=\"news-headline-title\">SEC aprova padrões genéricos de listagem para acelerar aprovações de ETFs cripto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:671995f1ebc81:0",
+      "index": 1,
       "title": "Bitcoin pode testar máxima histórica 'rapidamente' se touros reconquistarem US$ 118 mil, afirma Trader",
       "link": "https://br.tradingview.com/news/cointelegraph:671995f1ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:a61164616bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Quão alto o preço do DOGE pode chegar com o lançamento do primeiro ETF de Dogecoin?",
       "link": "https://br.tradingview.com/news/cointelegraph:a61164616bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:66695bec2bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Powell diz que FOMC está dividido sobre novos cortes de juros em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:66695bec2bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:1f4de0504bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Alta do Bitcoin pode ser armadilha de touro, sugere análise",
       "link": "https://br.tradingview.com/news/cointelegraph:1f4de0504bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4dff2fd0ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "CME lançará opções de futuros de Solana e XRP em outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:4dff2fd0ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:1af7ade83bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "O que baleias de ETH, SOL e XRP fizeram após corte de 0,25% na taxa pelo Fed?",
       "link": "https://br.tradingview.com/news/beincrypto:1af7ade83bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:1adb4f7a6bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ethereum mira acima de US$ 5.400 com métrica em mínima de 6 meses",
       "link": "https://br.tradingview.com/news/beincrypto:1adb4f7a6bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:0b762aac5bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "ASTER sobe 470% com pressão de compra de altcoins e o Bitcoin a US$ 117 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:0b762aac5bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:77abe4cecbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "AO VIVO - Preço do Bitcoin hoje 18/09/2025: BTC sobe para US$ 117 mil com corte de juros nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:77abe4cecbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:09858f5e9bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Por que o mercado de criptomoedas está em alta hoje 18/09/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:09858f5e9bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:67999ec0fbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Integração permite brasileiros 'fazer um PIX' sem usar Reais ou bancos e usando stablecoins em carteira de auto custódia",
       "link": "https://br.tradingview.com/news/cointelegraph:67999ec0fbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:350c16f8bbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "BNB ultrapassa US$ 1 mil pela primeira vez, marca novo recorde histórico",
       "link": "https://br.tradingview.com/news/beincrypto:350c16f8bbc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:d3e80017bbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "BNB em US$ 1 mil? Criptomoeda chega a US$ 990 após decisão do FED e 'retorno' de CZ para a Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:d3e80017bbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 00:26:08 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 00:26 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BNB em US$ 1 mil? Criptomoeda chega a US$ 990 após decisão do FED e 'retorno' de CZ para a Binance\" data-qa-id=\"news-headline-title\">BNB em US$ 1 mil? Criptomoeda chega a US$ 990 após decisão do FED e 'retorno' de CZ para a Binance</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e867931f3bc81:0",
-      "index": 13,
-      "title": "Mais de 33 milhões de brasileiros estão com identidade validada em blockchain",
-      "link": "https://br.tradingview.com/news/cointelegraph:e867931f3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-18T00:02:02.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 00:02:02 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 00:02 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mais de 33 milhões de brasileiros estão com identidade validada em blockchain\" data-qa-id=\"news-headline-title\">Mais de 33 milhões de brasileiros estão com identidade validada em blockchain</div></div></article>"
     }
   ]
 }
