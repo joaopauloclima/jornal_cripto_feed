@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-18T17:36:20.387Z",
+  "updated_at": "2025-09-18T17:53:59.587Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:0d762af8dbc81:0",
+      "id": "cointelegraph:cf4f0dbb8bc81:0",
       "index": 0,
+      "title": "CZ faz alerta após equipe 'SEAL' identificar 60 falsos profissionais de TI ligados à Coreia do Norte",
+      "link": "https://br.tradingview.com/news/cointelegraph:cf4f0dbb8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-18T17:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CZ faz alerta após equipe 'SEAL' identificar 60 falsos profissionais de TI ligados à Coreia do Norte\" data-qa-id=\"news-headline-title\">CZ faz alerta após equipe 'SEAL' identificar 60 falsos profissionais de TI ligados à Coreia do Norte</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0d762af8dbc81:0",
+      "index": 1,
       "title": "SEC dos EUA aprova primeiro ETP de cripto multiativo da Grayscale",
       "link": "https://br.tradingview.com/news/cointelegraph:0d762af8dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:32b2a4d82bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "HYPE atinge máxima histórica enquanto fundador da Binance promove DEX rival Aster",
       "link": "https://br.tradingview.com/news/cointelegraph:32b2a4d82bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:03179a87dbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Crianças sofrem lavagem cerebral para trabalhar como escravas por 'dinheiro falso', segundo autor de 'Pai Rico, Pai Pobre'",
       "link": "https://br.tradingview.com/news/cointelegraph:03179a87dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:28e9ad538bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "CEO da Coinbase diz que próximo grande projeto de lei cripto é um 'trem de carga'",
       "link": "https://br.tradingview.com/news/cointelegraph:28e9ad538bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:738651b9dbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Vitalik Buterin finalmente reage após semanas de FUD sobre fila de staking",
       "link": "https://br.tradingview.com/news/cointelegraph:738651b9dbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1d3f1e7edbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Tsar cripto dos EUA, David Sacks, nega ultrapassar limite de dias de trabalho em meio a escrutínio de Warren",
       "link": "https://br.tradingview.com/news/cointelegraph:1d3f1e7edbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c1c027b6bbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Stablecoins são futuro do comércio do Brics, dizem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:c1c027b6bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3d218395dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Memecoiners erguem estátua dourada de Trump com Bitcoin de 3,6 metros perto do Capitólio dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:3d218395dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:1e53e34f1bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "ATH do Bitcoin depende destas três condições após corte de taxa",
       "link": "https://br.tradingview.com/news/beincrypto:1e53e34f1bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:820c6f509bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "SEC aprova padrões genéricos de listagem para acelerar aprovações de ETFs cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:820c6f509bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:671995f1ebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin pode testar máxima histórica 'rapidamente' se touros reconquistarem US$ 118 mil, afirma Trader",
       "link": "https://br.tradingview.com/news/cointelegraph:671995f1ebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a61164616bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Quão alto o preço do DOGE pode chegar com o lançamento do primeiro ETF de Dogecoin?",
       "link": "https://br.tradingview.com/news/cointelegraph:a61164616bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:66695bec2bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Powell diz que FOMC está dividido sobre novos cortes de juros em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:66695bec2bc81:0/",
       "source": "Cointelegraph",
