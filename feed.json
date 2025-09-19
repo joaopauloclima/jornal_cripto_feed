@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-19T14:54:24.079Z",
+  "updated_at": "2025-09-19T15:19:19.776Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ae34bffc9bc81:0",
+      "id": "cointelegraph:a21f9ec0abc81:0",
       "index": 0,
+      "title": "Bitcoin precisa agir rápido para vencer a computação quântica até 2030: fundador da Solana",
+      "link": "https://br.tradingview.com/news/cointelegraph:a21f9ec0abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-19T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin precisa agir rápido para vencer a computação quântica até 2030: fundador da Solana\" data-qa-id=\"news-headline-title\">Bitcoin precisa agir rápido para vencer a computação quântica até 2030: fundador da Solana</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ae34bffc9bc81:0",
+      "index": 1,
       "title": "Atualização Fusaka da Ethereum é adiada para dezembro; blobs vão dobrar depois",
       "link": "https://br.tradingview.com/news/cointelegraph:ae34bffc9bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:8f58073b2bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Inscrições de trainee em IA do Magalu chegam à reta final; B3 e BTG têm novas vagas",
       "link": "https://br.tradingview.com/news/cointelegraph:8f58073b2bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:ec7cc65a1bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Por que usamos Bitcoin — Vietnã fecha 86 milhões de contas bancárias que falharam em biometria",
       "link": "https://br.tradingview.com/news/cointelegraph:ec7cc65a1bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:8d448a1ccbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin Cash supera US$ 600 com ganhos de 145% no ano",
       "link": "https://br.tradingview.com/news/beincrypto:8d448a1ccbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:720e767d2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin pode ter queda de 70% no próximo mercado de baixa, diz analista cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:720e767d2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:cf6e3a355bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Cardano (ADA) pode enfrentar liquidações de US$ 73 mi",
       "link": "https://br.tradingview.com/news/beincrypto:cf6e3a355bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:52ea11c58bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "PayPal expande stablecoin PYUSD para Tron, Avalanche e outras 6 redes",
       "link": "https://br.tradingview.com/news/cointelegraph:52ea11c58bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:98dfbe599bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Próximo alvo de preço da Solana pode ser US$ 300: veja por quê",
       "link": "https://br.tradingview.com/news/cointelegraph:98dfbe599bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:84618cee6bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em alta hoje 19/09/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:84618cee6bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:979a5885ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "ASTER, AVNT, UB e FLZ acumulam até 620% em avanço sobre o Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:979a5885ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:3626e2770bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço do Bitcoin sugere queda de 2% antes de retomar jornada acima de US$ 120 mil",
       "link": "https://br.tradingview.com/news/beincrypto:3626e2770bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:0b276505bbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "AO VIVO - Preço do Bitcoin hoje 19/09/2025: touros estão sem forças e BTC cai para US$ 116 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:0b276505bbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:fba2c560dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "ETF de XRP quebra recordes, mas preço não acompanha o mercado",
       "link": "https://br.tradingview.com/news/beincrypto:fba2c560dbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 11:13:15 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 11:13 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETF de XRP quebra recordes, mas preço não acompanha o mercado\" data-qa-id=\"news-headline-title\">ETF de XRP quebra recordes, mas preço não acompanha o mercado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ca3947a54bc81:0",
-      "index": 13,
-      "title": "Nubank quer ser o primeiro banco do Brasil a integrar stablecoins em cartões de crédito",
-      "link": "https://br.tradingview.com/news/cointelegraph:ca3947a54bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-19T01:13:13.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 01:13:13 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 01:13 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nubank quer ser o primeiro banco do Brasil a integrar stablecoins em cartões de crédito\" data-qa-id=\"news-headline-title\">Nubank quer ser o primeiro banco do Brasil a integrar stablecoins em cartões de crédito</div></div></article>"
     }
   ]
 }
