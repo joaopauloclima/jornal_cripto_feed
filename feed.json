@@ -1,10 +1,43 @@
 {
-  "updated_at": "2025-09-19T22:17:44.421Z",
+  "updated_at": "2025-09-19T22:53:39.998Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:cb9e0324fbc81:0",
+      "id": "cointelegraph:ea9889228bc81:0",
       "index": 0,
+      "title": "Bitcoiners vs investidores institucionais: a batalha que impede o Bitcoin de subir",
+      "link": "https://br.tradingview.com/news/cointelegraph:ea9889228bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-19T22:40:23.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 22:40:23 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 22:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoiners vs investidores institucionais: a batalha que impede o Bitcoin de subir\" data-qa-id=\"news-headline-title\">Bitcoiners vs investidores institucionais: a batalha que impede o Bitcoin de subir</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8adee904ebc81:0",
+      "index": 1,
+      "title": "'Não abandonamos blockchain no Drex', Banco Central revela os rumos da CBDC nacional",
+      "link": "https://br.tradingview.com/news/cointelegraph:8adee904ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-19T22:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 22:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 22:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Não abandonamos blockchain no Drex', Banco Central revela os rumos da CBDC nacional\" data-qa-id=\"news-headline-title\">'Não abandonamos blockchain no Drex', Banco Central revela os rumos da CBDC nacional</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f62138d5bbc81:0",
+      "index": 2,
+      "title": "Investidores do Mercado Bitcoin podem ter retorno de até 5x: Caso da fintech brasileira Asaas evidencia potencial da tokenização",
+      "link": "https://br.tradingview.com/news/cointelegraph:f62138d5bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-19T22:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 22:20:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 22:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Investidores do Mercado Bitcoin podem ter retorno de até 5x: Caso da fintech brasileira Asaas evidencia potencial da tokenização\" data-qa-id=\"news-headline-title\">Investidores do Mercado Bitcoin podem ter retorno de até 5x: Caso da fintech brasileira Asaas evidencia potencial da tokenização</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:cb9e0324fbc81:0",
+      "index": 3,
       "title": "Ethena recorre à Flowdesk enquanto USDe alcança US$ 14 bilhões em meio ao aumento do dólar sintético",
       "link": "https://br.tradingview.com/news/cointelegraph:cb9e0324fbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:62a098511bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Gary Gensler reforça abordagem sobre cripto em meio à mudança significativa na SEC",
       "link": "https://br.tradingview.com/news/cointelegraph:62a098511bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6e2dc395abc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Análise de preços em 19/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e AVAX",
       "link": "https://br.tradingview.com/news/cointelegraph:6e2dc395abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3c93f0b06bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "ETFs de XRP e DOGE da Rex-Osprey 'não ficam para trás' com US$ 54 milhões de volume na estreia",
       "link": "https://br.tradingview.com/news/cointelegraph:3c93f0b06bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e19afc71fbc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Bolsa de Valores de Londres lista novo ETP de staking de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:e19afc71fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:966c5f4d9bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Michigan avança com projeto de lei para reserva estratégica de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:966c5f4d9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:cea1afc5bbc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Previsões de preço do Bitcoin miram alvo de US$ 110 mil com vencimento de US$ 4,9 trilhões em opções",
       "link": "https://br.tradingview.com/news/cointelegraph:cea1afc5bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "beincrypto:d391b8d2cbc81:0",
-      "index": 7,
+      "index": 10,
       "title": "3 razões por que a alta do Dogecoin para US$ 0,41 só foi adiada",
       "link": "https://br.tradingview.com/news/beincrypto:d391b8d2cbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6ffb1d320bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "União Europeia mira plataformas de cripto em novo pacote de sanções contra a Rússia",
       "link": "https://br.tradingview.com/news/cointelegraph:6ffb1d320bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:797a8e606bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Ministros das Finanças da UE concordam com plano para limitar saldos em euro digital",
       "link": "https://br.tradingview.com/news/cointelegraph:797a8e606bc81:0/",
       "source": "Cointelegraph",
@@ -111,50 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ministros das Finanças da UE concordam com plano para limitar saldos em euro digital\" data-qa-id=\"news-headline-title\">Ministros das Finanças da UE concordam com plano para limitar saldos em euro digital</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4b2a5b001bc81:0",
-      "index": 10,
-      "title": "Butão transfere US$ 107 milhões em Bitcoin enquanto baleias se movem após corte do Fed",
-      "link": "https://br.tradingview.com/news/cointelegraph:4b2a5b001bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-19T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Butão transfere US$ 107 milhões em Bitcoin enquanto baleias se movem após corte do Fed\" data-qa-id=\"news-headline-title\">Butão transfere US$ 107 milhões em Bitcoin enquanto baleias se movem após corte do Fed</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:20163414bbc81:0",
-      "index": 11,
-      "title": "XRP revisita o suporte de US$ 3, mas dados mostram que touros ainda estão no controle",
-      "link": "https://br.tradingview.com/news/cointelegraph:20163414bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-19T18:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP revisita o suporte de US$ 3, mas dados mostram que touros ainda estão no controle\" data-qa-id=\"news-headline-title\">XRP revisita o suporte de US$ 3, mas dados mostram que touros ainda estão no controle</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:15902430ebc81:0",
-      "index": 12,
-      "title": "Esses 3 gráficos da Cardano indicam que o preço do ADA mira US$ 1,25",
-      "link": "https://br.tradingview.com/news/cointelegraph:15902430ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-19T18:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Esses 3 gráficos da Cardano indicam que o preço do ADA mira US$ 1,25\" data-qa-id=\"news-headline-title\">Esses 3 gráficos da Cardano indicam que o preço do ADA mira US$ 1,25</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:80f36acecbc81:0",
-      "index": 13,
-      "title": "Kraken recorre à Trust Wallet para expandir ações tokenizadas do Backed xStocks",
-      "link": "https://br.tradingview.com/news/cointelegraph:80f36acecbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-19T18:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Kraken recorre à Trust Wallet para expandir ações tokenizadas do Backed xStocks\" data-qa-id=\"news-headline-title\">Kraken recorre à Trust Wallet para expandir ações tokenizadas do Backed xStocks</div></div></article>"
     }
   ]
 }
