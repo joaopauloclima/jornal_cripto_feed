@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-19T11:16:38.036Z",
+  "updated_at": "2025-09-19T11:53:53.717Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ca3947a54bc81:0",
+      "id": "cointelegraph:0b276505bbc81:0",
       "index": 0,
+      "title": "AO VIVO - Preço do Bitcoin hoje 19/09/2025: touros estão sem forças e BTC cai para US$ 116 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:0b276505bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-19T11:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"AO VIVO - Preço do Bitcoin hoje 19/09/2025: touros estão sem forças e BTC cai para US$ 116 mil\" data-qa-id=\"news-headline-title\">AO VIVO - Preço do Bitcoin hoje 19/09/2025: touros estão sem forças e BTC cai para US$ 116 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ca3947a54bc81:0",
+      "index": 1,
       "title": "Nubank quer ser o primeiro banco do Brasil a integrar stablecoins em cartões de crédito",
       "link": "https://br.tradingview.com/news/cointelegraph:ca3947a54bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:c772a8783bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Exclusivo: Amfi vai levar tokens RWA brasileiros para o mundo com negociação em outros países",
       "link": "https://br.tradingview.com/news/cointelegraph:c772a8783bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1113498ffbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Indústria 4.0: Especialista em blockchain está na lista de 16 profissões do futuro no Brasil, segundo a CNI",
       "link": "https://br.tradingview.com/news/cointelegraph:1113498ffbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c91bed204bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Carteiras de cripto se tornam os novos centros de controle das nossas vidas digitais?",
       "link": "https://br.tradingview.com/news/cointelegraph:c91bed204bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b19bb2253bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Parlamentares dos EUA desafiam a SEC sobre IPO da Tron e pressionam por investigação de Justin Sun",
       "link": "https://br.tradingview.com/news/cointelegraph:b19bb2253bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:fa9785d1dbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Chainlink tem melhor desempenho desde 2021 e padrão de xícara com alça mira US$ 100 para o LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:fa9785d1dbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:ee7331abdbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETF de XRP bate recorde e REX-Osprey estreia na Cboe",
       "link": "https://br.tradingview.com/news/beincrypto:ee7331abdbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6d8935f93bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "EUA e Reino Unido vão colaborar no desenvolvimento de IA, computação quântica e energia nuclear",
       "link": "https://br.tradingview.com/news/cointelegraph:6d8935f93bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:dc42587e4bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Grupo esportivo Brera migra para cripto e faz rebranding com US$ 300 milhões para tesouraria em SOL",
       "link": "https://br.tradingview.com/news/cointelegraph:dc42587e4bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:500c2090ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Brasil lidera audiência de portais cripto na América Latina, mas setor é pressionado por grande mídia e IA",
       "link": "https://br.tradingview.com/news/cointelegraph:500c2090ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6e65660a8bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Grayscale se prepara para fazer staking de Ether em meio à mudança de postura da SEC, segundo dados da Arkham",
       "link": "https://br.tradingview.com/news/cointelegraph:6e65660a8bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6f8cf9437bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin repete movimento de rompimento de maio e análise projeta disputa em US$ 118 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:6f8cf9437bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:7c821014abc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin tem 70% de chance de atingir novas máximas em 2 semanas, afirma analista",
       "link": "https://br.tradingview.com/news/cointelegraph:7c821014abc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin tem 70% de chance de atingir novas máximas em 2 semanas, afirma analista\" data-qa-id=\"news-headline-title\">Bitcoin tem 70% de chance de atingir novas máximas em 2 semanas, afirma analista</div></div></article>"
-    },
-    {
-      "id": "beincrypto:fe1518ea3bc81:0",
-      "index": 13,
-      "title": "Solana enfrenta risco de venda em massa com todos os investidores pressionando preço",
-      "link": "https://br.tradingview.com/news/beincrypto:fe1518ea3bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-18T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Sep 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de set. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana enfrenta risco de venda em massa com todos os investidores pressionando preço\" data-qa-id=\"news-headline-title\">Solana enfrenta risco de venda em massa com todos os investidores pressionando preço</div></div></article>"
     }
   ]
 }
