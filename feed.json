@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-19T20:19:52.727Z",
+  "updated_at": "2025-09-19T20:53:57.375Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:cea1afc5bbc81:0",
+      "id": "cointelegraph:e19afc71fbc81:0",
       "index": 0,
+      "title": "Bolsa de Valores de Londres lista novo ETP de staking de Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:e19afc71fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-19T20:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bolsa de Valores de Londres lista novo ETP de staking de Bitcoin\" data-qa-id=\"news-headline-title\">Bolsa de Valores de Londres lista novo ETP de staking de Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:966c5f4d9bc81:0",
+      "index": 1,
+      "title": "Michigan avança com projeto de lei para reserva estratégica de criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:966c5f4d9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-19T20:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 20:20:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 20:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Michigan avança com projeto de lei para reserva estratégica de criptomoedas\" data-qa-id=\"news-headline-title\">Michigan avança com projeto de lei para reserva estratégica de criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:cea1afc5bbc81:0",
+      "index": 2,
       "title": "Previsões de preço do Bitcoin miram alvo de US$ 110 mil com vencimento de US$ 4,9 trilhões em opções",
       "link": "https://br.tradingview.com/news/cointelegraph:cea1afc5bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3c93f0b06bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "ETFs de XRP e DOGE da Rex-Osprey 'não ficam para trás' com US$ 54 milhões de volume na estreia",
       "link": "https://br.tradingview.com/news/cointelegraph:3c93f0b06bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6ffb1d320bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "União Europeia mira plataformas de cripto em novo pacote de sanções contra a Rússia",
       "link": "https://br.tradingview.com/news/cointelegraph:6ffb1d320bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:797a8e606bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Ministros das Finanças da UE concordam com plano para limitar saldos em euro digital",
       "link": "https://br.tradingview.com/news/cointelegraph:797a8e606bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4b2a5b001bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Butão transfere US$ 107 milhões em Bitcoin enquanto baleias se movem após corte do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:4b2a5b001bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:20163414bbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "XRP revisita o suporte de US$ 3, mas dados mostram que touros ainda estão no controle",
       "link": "https://br.tradingview.com/news/cointelegraph:20163414bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:15902430ebc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Esses 3 gráficos da Cardano indicam que o preço do ADA mira US$ 1,25",
       "link": "https://br.tradingview.com/news/cointelegraph:15902430ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:80f36acecbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Kraken recorre à Trust Wallet para expandir ações tokenizadas do Backed xStocks",
       "link": "https://br.tradingview.com/news/cointelegraph:80f36acecbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:148750ac7bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Ethereum adia alvo de US$ 5 mil com saída de investidores e queda nos futuros",
       "link": "https://br.tradingview.com/news/beincrypto:148750ac7bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e4319c31ebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Banco da Itália pede regras mais rígidas para stablecoins globais de múltiplas emissões",
       "link": "https://br.tradingview.com/news/cointelegraph:e4319c31ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:dd1e3ce82bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "CyberGAECO: MP cria núcleo com atribuição de rastrear criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:dd1e3ce82bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:fa7b9dc35bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "World Liberty apoiado por Trump vota por recompras e queimas de tokens",
       "link": "https://br.tradingview.com/news/cointelegraph:fa7b9dc35bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"World Liberty apoiado por Trump vota por recompras e queimas de tokens\" data-qa-id=\"news-headline-title\">World Liberty apoiado por Trump vota por recompras e queimas de tokens</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:941f46766bc81:0",
-      "index": 12,
-      "title": "Oferta ilíquida de Bitcoin atinge recorde de 14,3 milhões de BTC com acúmulo de grandes investidores",
-      "link": "https://br.tradingview.com/news/cointelegraph:941f46766bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-19T16:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Oferta ilíquida de Bitcoin atinge recorde de 14,3 milhões de BTC com acúmulo de grandes investidores\" data-qa-id=\"news-headline-title\">Oferta ilíquida de Bitcoin atinge recorde de 14,3 milhões de BTC com acúmulo de grandes investidores</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:956615121bc81:0",
-      "index": 13,
-      "title": "Bitcoin e Ethereum têm 71% de chance de novos ralis em 2025, sugere análise",
-      "link": "https://br.tradingview.com/news/cointelegraph:956615121bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-19T16:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Sep 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de set. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin e Ethereum têm 71% de chance de novos ralis em 2025, sugere análise\" data-qa-id=\"news-headline-title\">Bitcoin e Ethereum têm 71% de chance de novos ralis em 2025, sugere análise</div></div></article>"
     }
   ]
 }
