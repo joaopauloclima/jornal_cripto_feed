@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-20T13:53:41.605Z",
+  "updated_at": "2025-09-20T14:16:42.088Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:73e5e6860bc81:0",
+      "id": "cointelegraph:c7c3ebe48bc81:0",
       "index": 0,
+      "title": "Há menos de 0,001% de chance de que a atividade de negociação do MYX seja orgânica, aponta relatório",
+      "link": "https://br.tradingview.com/news/cointelegraph:c7c3ebe48bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-20T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 20 Sep 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de set. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Há menos de 0,001% de chance de que a atividade de negociação do MYX seja orgânica, aponta relatório\" data-qa-id=\"news-headline-title\">Há menos de 0,001% de chance de que a atividade de negociação do MYX seja orgânica, aponta relatório</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:73e5e6860bc81:0",
+      "index": 1,
       "title": "Aumento na atividade onchain da Ethereum sugere alta no preço do ETH para US$ 5 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:73e5e6860bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:60ab77bf0bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "CFTC inclui líderes de criptomoedas em grupo de ativos digitais que terá executivo do JPMorgan como copresidente",
       "link": "https://br.tradingview.com/news/cointelegraph:60ab77bf0bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3b6c49b42bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Notícias Cripto: Bitget lança conceito de Universal Exchange, Satsconf 2025, Biobots Tec lança o Agente Sunny e muito mais",
       "link": "https://br.tradingview.com/news/cointelegraph:3b6c49b42bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b7619f4a2bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Estrela da NBA Kevin Durant recupera conta na Coinbase após quase 10 anos",
       "link": "https://br.tradingview.com/news/cointelegraph:b7619f4a2bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c9cde8f16bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Brasileiro cata latinhas há 2 anos para comprar Bitcoin, história viraliza e ele ganha US$ 20 mil da comunidade cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:c9cde8f16bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3b68980cbbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Banco Central do Brasil promove capacitação em tokenização para equipes de regulação",
       "link": "https://br.tradingview.com/news/cointelegraph:3b68980cbbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:ea9889228bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoiners vs investidores institucionais: a batalha que impede o Bitcoin de subir",
       "link": "https://br.tradingview.com/news/cointelegraph:ea9889228bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8adee904ebc81:0",
-      "index": 7,
+      "index": 8,
       "title": "'Não abandonamos blockchain no Drex', Banco Central revela os rumos da CBDC nacional",
       "link": "https://br.tradingview.com/news/cointelegraph:8adee904ebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f62138d5bbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Investidores do Mercado Bitcoin podem ter retorno de até 5x: Caso da fintech brasileira Asaas evidencia potencial da tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:f62138d5bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:cb9e0324fbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ethena recorre à Flowdesk enquanto USDe alcança US$ 14 bilhões em meio ao aumento do dólar sintético",
       "link": "https://br.tradingview.com/news/cointelegraph:cb9e0324fbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:62a098511bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Gary Gensler reforça abordagem sobre cripto em meio à mudança significativa na SEC",
       "link": "https://br.tradingview.com/news/cointelegraph:62a098511bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6e2dc395abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Análise de preços em 19/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e AVAX",
       "link": "https://br.tradingview.com/news/cointelegraph:6e2dc395abc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3c93f0b06bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "ETFs de XRP e DOGE da Rex-Osprey 'não ficam para trás' com US$ 54 milhões de volume na estreia",
       "link": "https://br.tradingview.com/news/cointelegraph:3c93f0b06bc81:0/",
       "source": "Cointelegraph",
