@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-21T18:23:03.970Z",
+  "updated_at": "2025-09-21T18:55:31.045Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:82b0677f4bc81:0",
+      "id": "cointelegraph:92bdce2c5bc81:0",
       "index": 0,
+      "title": "YZi Labs de Changpeng Zhao aumenta participação na emissora de stablecoins Ethena",
+      "link": "https://br.tradingview.com/news/cointelegraph:92bdce2c5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-21T18:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 21 Sep 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de set. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"YZi Labs de Changpeng Zhao aumenta participação na emissora de stablecoins Ethena\" data-qa-id=\"news-headline-title\">YZi Labs de Changpeng Zhao aumenta participação na emissora de stablecoins Ethena</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:82b0677f4bc81:0",
+      "index": 1,
       "title": "Traders de Bitcoin observam esse níveis com o preço do BTC em US$ 116 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:82b0677f4bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:20c524086bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "'Mão de diamante' da APX transforma US$ 226 mil em US$ 7 milhões em meio à alta do ASTER",
       "link": "https://br.tradingview.com/news/cointelegraph:20c524086bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:859e500eebc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Lei de controle de bate-papo da UE levará usuários para a Web3, dizem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:859e500eebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:bf1c32ae9bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Produtora de cannabis Flora Growth levanta US$ 401 milhões para apoiar protocolo de IA Zero Gravity",
       "link": "https://br.tradingview.com/news/cointelegraph:bf1c32ae9bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:e8166228fbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "DeFi de baixo risco pode fazer pela Ethereum o que pesquisas fizeram pelo Google, diz Vitalik",
       "link": "https://br.tradingview.com/news/cointelegraph:e8166228fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1c5111d75bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Criptomoedas entrarão no modo 'alta infinita' quando TGA dos EUA atingir US$ 850 bilhões, diz Arthur Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:1c5111d75bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:83c8606f5bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin vai 'acelerar' à medida que o mundo caminha para a Quarta Virada, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:83c8606f5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:7c80caef6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Dificuldade de mineração de Bitcoin atinge novo recorde histórico em meio a temores de centralização",
       "link": "https://br.tradingview.com/news/cointelegraph:7c80caef6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c68f72113bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Fim do Dinheiro: Projeto de lei propõe CBDC do real e rastreamento total de transações por CPF ou CNPJ",
       "link": "https://br.tradingview.com/news/cointelegraph:c68f72113bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:44041fd5bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Tesourarias de criptomoedas com estratégia de longo prazo 'sobreviverão a qualquer mercado', diz Hashkey",
       "link": "https://br.tradingview.com/news/cointelegraph:44041fd5bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e9e6f849bbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "CEO da Coinbase pretende substituir bancos por superapp de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:e9e6f849bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:4ceb5a758bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "BitGo entra com pedido de IPO nos EUA com US$ 90 bilhões em ativos sob custódia",
       "link": "https://br.tradingview.com/news/cointelegraph:4ceb5a758bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2efea4241bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin pode se tornar 'chato' à medida que o interesse institucional aumenta, diz Michael Saylor",
       "link": "https://br.tradingview.com/news/cointelegraph:2efea4241bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 20 Sep 2025 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de set. de 2025, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode se tornar 'chato' à medida que o interesse institucional aumenta, diz Michael Saylor\" data-qa-id=\"news-headline-title\">Bitcoin pode se tornar 'chato' à medida que o interesse institucional aumenta, diz Michael Saylor</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:36044b076bc81:0",
-      "index": 13,
-      "title": "Mercado está subestimando o 'choque' do Fed: Bitcoin e altcoins vão disparar, diz economista",
-      "link": "https://br.tradingview.com/news/cointelegraph:36044b076bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-20T15:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 20 Sep 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de set. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado está subestimando o 'choque' do Fed: Bitcoin e altcoins vão disparar, diz economista\" data-qa-id=\"news-headline-title\">Mercado está subestimando o 'choque' do Fed: Bitcoin e altcoins vão disparar, diz economista</div></div></article>"
     }
   ]
 }
