@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-22T15:20:47.970Z",
+  "updated_at": "2025-09-22T15:53:57.638Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:dc3fbec1bbc81:0",
+      "id": "cointelegraph:f0ce75284bc81:0",
       "index": 0,
+      "title": "Especialista revela alvos do ETH, LINK, VET e W: ‘Isso me entusiasma muito’",
+      "link": "https://br.tradingview.com/news/cointelegraph:f0ce75284bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-22T15:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCVET.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Especialista revela alvos do ETH, LINK, VET e W: ‘Isso me entusiasma muito’\" data-qa-id=\"news-headline-title\">Especialista revela alvos do ETH, LINK, VET e W: ‘Isso me entusiasma muito’</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e14a38377bc81:0",
+      "index": 1,
+      "title": "OKX construiu uma DEX de perpétuos, mas adiou o lançamento por preocupações regulatórias",
+      "link": "https://br.tradingview.com/news/cointelegraph:e14a38377bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-22T15:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"OKX construiu uma DEX de perpétuos, mas adiou o lançamento por preocupações regulatórias\" data-qa-id=\"news-headline-title\">OKX construiu uma DEX de perpétuos, mas adiou o lançamento por preocupações regulatórias</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:dc3fbec1bbc81:0",
+      "index": 2,
       "title": "Rali de ‘Uptober’ é questionado enquanto mercados cripto ficam no vermelho a 9 dias",
       "link": "https://br.tradingview.com/news/cointelegraph:dc3fbec1bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:50244659ebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Arthur Hayes diz que vendeu todo seu HYPE… para comprar uma Ferrari",
       "link": "https://br.tradingview.com/news/cointelegraph:50244659ebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L2N3V90JG:0",
-      "index": 2,
+      "index": 4,
       "title": "Strive, apoiado por Ramaswamy, compra Semler em um acordo de US$ 1,3 bilhão, totalmente em ações, aumentando as participações em Bitcoin",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3V90JG:0/",
       "source": "Reuters",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:7ef8744b5bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Toyota, Yamaha e BYD aceitam Tether na Bolívia em meio à queda das reservas em dólar",
       "link": "https://br.tradingview.com/news/cointelegraph:7ef8744b5bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L2N3V90J1:0",
-      "index": 4,
+      "index": 6,
       "title": "Strive, apoiado por Ramaswamy, compra Semler em um acordo de US$ 1,3 bilhão, totalmente em ações, aumentando as participações em Bitcoin",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3V90J1:0/",
       "source": "Reuters",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:92ce7d3efbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Jimmy Song critica devs do Bitcoin Core por mentalidade ‘fiat’ sobre OP_Return",
       "link": "https://br.tradingview.com/news/cointelegraph:92ce7d3efbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5c40781c9bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Economias tradicionais estão sendo ‘aposentadas’ em favor da internet, afirma VC",
       "link": "https://br.tradingview.com/news/cointelegraph:5c40781c9bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:17139c00bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Brasil segue frenesi do Fed com quase R$ 50 milhões em fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:17139c00bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:47e3bd0f1bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoin mostra sinais de ‘exaustão do ciclo’ enquanto preço cai para US$ 112 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:47e3bd0f1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d9b34b22dbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "AliExpress, Shein, Shopee e Uber podem aceitar pagamentos com stablecoins graças a integração de USDT e USDC no EBANX",
       "link": "https://br.tradingview.com/news/cointelegraph:d9b34b22dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:c69aa9bf7bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "A ilusão de Vitalik: por que o Ethereum não pode se tornar o próximo Google?",
       "link": "https://br.tradingview.com/news/beincrypto:c69aa9bf7bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2e2ab3488bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Queda do Bitcoin liquida traders de criptomoedas em US$ 1,7 bi",
       "link": "https://br.tradingview.com/news/cointelegraph:2e2ab3488bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 11:52:18 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 11:52 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Queda do Bitcoin liquida traders de criptomoedas em US$ 1,7 bi\" data-qa-id=\"news-headline-title\">Queda do Bitcoin liquida traders de criptomoedas em US$ 1,7 bi</div></div></article>"
-    },
-    {
-      "id": "beincrypto:dbc54e099bc81:0",
-      "index": 12,
-      "title": "Por que o mercado de criptomoedas está em baixa hoje 22/09/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:dbc54e099bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-22T11:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em baixa hoje 22/09/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em baixa hoje 22/09/2025?</div></div></article>"
     }
   ]
 }
