@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-22T19:53:50.377Z",
+  "updated_at": "2025-09-22T20:20:09.766Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9cef81969bc81:0",
+      "id": "cointelegraph:094cd3155bc81:0",
       "index": 0,
+      "title": "Preço do XRP vai despencar após cair abaixo de US$ 3 novamente?",
+      "link": "https://br.tradingview.com/news/cointelegraph:094cd3155bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-22T20:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do XRP vai despencar após cair abaixo de US$ 3 novamente?\" data-qa-id=\"news-headline-title\">Preço do XRP vai despencar após cair abaixo de US$ 3 novamente?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9cef81969bc81:0",
+      "index": 1,
       "title": "Democratas sinalizam apoio a solução bipartidária para projeto de lei sobre estrutura de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:9cef81969bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fab15e193bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Stable apoiada pela Bitfinex integra a stablecoin PYUSD do PayPal",
       "link": "https://br.tradingview.com/news/cointelegraph:fab15e193bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:d52788fbabc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Por que 2026 pode ser o ano mais decisivo para a cripto até agora?",
       "link": "https://br.tradingview.com/news/beincrypto:d52788fbabc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:cc617c2ddbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "'Parece que só existe a tecla 'G' em Brasília, que é Gastar', diz Gustavo Franco, ex-presidente do Banco Central do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:cc617c2ddbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:dfff443eebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "TGEs podem ser o fim das blockchains?",
       "link": "https://br.tradingview.com/news/cointelegraph:dfff443eebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:65131dc98bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "BitMine detém mais de 2% do fornecimento de ETH e anuncia oferta de US$ 365 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:65131dc98bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8450e8ff7bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Emirados Árabes Unidos assinam acordo para troca automática de dados fiscais de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:8450e8ff7bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6ccfc2451bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Baleia da Hyperliquid retira US$ 122 milhões em tokens HYPE enquanto Arthur Hayes sai",
       "link": "https://br.tradingview.com/news/cointelegraph:6ccfc2451bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a05c869acbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Uso de IA por estudantes brasileiros chega a 96%, revelam pesquisas",
       "link": "https://br.tradingview.com/news/cointelegraph:a05c869acbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:eb23c5f38bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Strategy de Michael Saylor adquire US$ 100 milhões em Bitcoin em meio ao corte de taxas do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:eb23c5f38bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:12c50cf47bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Metaplanet se torna a quinta maior tesouraria corporativa de Bitcoin com compra de US$ 633 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:12c50cf47bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:18af2907ebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "XRP sob pressão: ursos miram mínima de 2 meses em meio a fraqueza técnica",
       "link": "https://br.tradingview.com/news/beincrypto:18af2907ebc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:d9125d983bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Maelstrom alerta que token HYPE enfrenta pressão com desbloqueios de US$ 11,9 bilhões pela frente",
       "link": "https://br.tradingview.com/news/cointelegraph:d9125d983bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Maelstrom alerta que token HYPE enfrenta pressão com desbloqueios de US$ 11,9 bilhões pela frente\" data-qa-id=\"news-headline-title\">Maelstrom alerta que token HYPE enfrenta pressão com desbloqueios de US$ 11,9 bilhões pela frente</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:13c14fa25bc81:0",
-      "index": 13,
-      "title": "Maior liquidação de longs do ano: 5 coisas para saber sobre o Bitcoin nesta semana",
-      "link": "https://br.tradingview.com/news/cointelegraph:13c14fa25bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-22T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Maior liquidação de longs do ano: 5 coisas para saber sobre o Bitcoin nesta semana\" data-qa-id=\"news-headline-title\">Maior liquidação de longs do ano: 5 coisas para saber sobre o Bitcoin nesta semana</div></div></article>"
     }
   ]
 }
