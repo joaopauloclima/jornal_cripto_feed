@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-23T13:56:09.096Z",
+  "updated_at": "2025-09-23T14:19:53.447Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:92aa76409bc81:0",
+      "id": "cointelegraph:3cab0f8d9bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin a US$ 3,4 milhões até 2028? Arthur Hayes acha que não",
+      "link": "https://br.tradingview.com/news/cointelegraph:3cab0f8d9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-23T14:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 14:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin a US$ 3,4 milhões até 2028? Arthur Hayes acha que não\" data-qa-id=\"news-headline-title\">Preço do Bitcoin a US$ 3,4 milhões até 2028? Arthur Hayes acha que não</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:da6f9dc25bc81:0",
+      "index": 1,
+      "title": "Gestor de criptoativos propõe cortar oferta de HYPE em 45%",
+      "link": "https://br.tradingview.com/news/cointelegraph:da6f9dc25bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-23T13:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 13:50:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 13:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Gestor de criptoativos propõe cortar oferta de HYPE em 45%\" data-qa-id=\"news-headline-title\">Gestor de criptoativos propõe cortar oferta de HYPE em 45%</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:92aa76409bc81:0",
+      "index": 2,
       "title": "Euforia varejista e holding de baleias mudam estratégia para lucrar com Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:92aa76409bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:23bedbbf2bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Cripto liquidações atingem US$ 1,8 bi em um dia: descarga final ou mais por vir?",
       "link": "https://br.tradingview.com/news/cointelegraph:23bedbbf2bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:841ebaaa3bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Ações de tesourarias cripto caem em meio a queda do mercado, com algumas exceções",
       "link": "https://br.tradingview.com/news/cointelegraph:841ebaaa3bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f1a3d6713bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "AIC, HEMI e OG sobem até 170% e ignoram o medo do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:f1a3d6713bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:beb315b4dbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Arthur Hayes: Bitcoin atingirá US$ 250 mil até o final do ano com onda de liquidez",
       "link": "https://br.tradingview.com/news/beincrypto:beb315b4dbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:623818ec1bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Oranje BTC vai estrear na B3 com R$ 2 bilhões em Bitcoin e apoio dos gêmeos Winklevoss, Adam Back e Ricardo Salinas",
       "link": "https://br.tradingview.com/news/cointelegraph:623818ec1bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e665ec109bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Preço do Bitcoin hoje 23/09/2025: touros ensaiam recuperação e BTC volta para US$ 113 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:e665ec109bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:59be9e21fbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 23/09/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:59be9e21fbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9612ad046bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Não há ‘dinheiro grátis’ em cripto: 88% dos tokens distribuídos em airdrops perdem valor no curto prazo",
       "link": "https://br.tradingview.com/news/cointelegraph:9612ad046bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:da11fe46abc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoin vai ou racha: Analista aponta ‘última linha de defesa’ do preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:da11fe46abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8c4dd3a67bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "'Comprar 5% em Bitcoin aumenta a lucratividade e reduz a volatilidade nos investimentos', diz estudo da BlackRock",
       "link": "https://br.tradingview.com/news/cointelegraph:8c4dd3a67bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2c1651173bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Futuros de ETH apontam para queda: reação exagerada do mercado ou US$ 3,8 mil é o próximo?",
       "link": "https://br.tradingview.com/news/cointelegraph:2c1651173bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Futuros de ETH apontam para queda: reação exagerada do mercado ou US$ 3,8 mil é o próximo?\" data-qa-id=\"news-headline-title\">Futuros de ETH apontam para queda: reação exagerada do mercado ou US$ 3,8 mil é o próximo?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:526c7ea96bc81:0",
-      "index": 12,
-      "title": "Strive, apoiada por Ramaswamy, compra a Semler Scientific em fusão de tesouraria de Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:526c7ea96bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-22T21:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Strive, apoiada por Ramaswamy, compra a Semler Scientific em fusão de tesouraria de Bitcoin\" data-qa-id=\"news-headline-title\">Strive, apoiada por Ramaswamy, compra a Semler Scientific em fusão de tesouraria de Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ce8ac229dbc81:0",
-      "index": 13,
-      "title": "Peso em queda livre: ajuda dos EUA à Argentina é recebida com dúvida por bitcoiners",
-      "link": "https://br.tradingview.com/news/cointelegraph:ce8ac229dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-22T21:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Sep 2025 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de set. de 2025, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Peso em queda livre: ajuda dos EUA à Argentina é recebida com dúvida por bitcoiners\" data-qa-id=\"news-headline-title\">Peso em queda livre: ajuda dos EUA à Argentina é recebida com dúvida por bitcoiners</div></div></article>"
     }
   ]
 }
