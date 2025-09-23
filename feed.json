@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-23T15:53:27.910Z",
+  "updated_at": "2025-09-23T16:22:50.595Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:0becb0e41bc81:0",
+      "id": "cointelegraph:ecfe25b20bc81:0",
       "index": 0,
+      "title": "Bitcoin luta em US$ 113 mil enquanto Bowman, do Fed, sinaliza cortes de juros mais rápidos",
+      "link": "https://br.tradingview.com/news/cointelegraph:ecfe25b20bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-23T16:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 16:10:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 16:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin luta em US$ 113 mil enquanto Bowman, do Fed, sinaliza cortes de juros mais rápidos\" data-qa-id=\"news-headline-title\">Bitcoin luta em US$ 113 mil enquanto Bowman, do Fed, sinaliza cortes de juros mais rápidos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:850da6c3cbc81:0",
+      "index": 1,
+      "title": "Próximos alvos do Bitcoin, FLOKI, SOL e DOGE, segundo especialistas",
+      "link": "https://br.tradingview.com/news/cointelegraph:850da6c3cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-23T15:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 15:50:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 15:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Próximos alvos do Bitcoin, FLOKI, SOL e DOGE, segundo especialistas\" data-qa-id=\"news-headline-title\">Próximos alvos do Bitcoin, FLOKI, SOL e DOGE, segundo especialistas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0becb0e41bc81:0",
+      "index": 2,
       "title": "Última chance para o Ether? Padrão de preço do ETH se rompe enquanto US$ 4 mil precisa segurar",
       "link": "https://br.tradingview.com/news/cointelegraph:0becb0e41bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:531f6cc91bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "CEO do JPMorgan: cortes do Fed não são garantidos, stablecoins não ameaçam os bancos",
       "link": "https://br.tradingview.com/news/cointelegraph:531f6cc91bc81:0/",
       "source": "Cointelegraph",
@@ -25,8 +47,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO do JPMorgan: cortes do Fed não são garantidos, stablecoins não ameaçam os bancos\" data-qa-id=\"news-headline-title\">CEO do JPMorgan: cortes do Fed não são garantidos, stablecoins não ameaçam os bancos</div></div></article>"
     },
     {
+      "id": "beincrypto:ea79d3c0ebc81:0",
+      "index": 4,
+      "title": "Solana atinge ponto crítico com aumento de liquidações e saída de investidores",
+      "link": "https://br.tradingview.com/news/beincrypto:ea79d3c0ebc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-09-23T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana atinge ponto crítico com aumento de liquidações e saída de investidores\" data-qa-id=\"news-headline-title\">Solana atinge ponto crítico com aumento de liquidações e saída de investidores</div></div></article>"
+    },
+    {
       "id": "cointelegraph:47611a74bbc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Vitalik Buterin elogia a Base como o 'caminho certo' em meio ao ‘FUD’ sobre sequenciadores de L2",
       "link": "https://br.tradingview.com/news/cointelegraph:47611a74bbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5e727899fbc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Comprou na queda? Estas métricas dizem que o preço do Bitcoin em US$ 112 mil foi um fundo local",
       "link": "https://br.tradingview.com/news/cointelegraph:5e727899fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:3cab0f8d9bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Preço do Bitcoin a US$ 3,4 milhões até 2028? Arthur Hayes acha que não",
       "link": "https://br.tradingview.com/news/cointelegraph:3cab0f8d9bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:da6f9dc25bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Gestor de criptoativos propõe cortar oferta de HYPE em 45%",
       "link": "https://br.tradingview.com/news/cointelegraph:da6f9dc25bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:92aa76409bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Euforia varejista e holding de baleias mudam estratégia para lucrar com Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:92aa76409bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:23bedbbf2bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Cripto liquidações atingem US$ 1,8 bi em um dia: descarga final ou mais por vir?",
       "link": "https://br.tradingview.com/news/cointelegraph:23bedbbf2bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:841ebaaa3bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Ações de tesourarias cripto caem em meio a queda do mercado, com algumas exceções",
       "link": "https://br.tradingview.com/news/cointelegraph:841ebaaa3bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f1a3d6713bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "AIC, HEMI e OG sobem até 170% e ignoram o medo do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:f1a3d6713bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "beincrypto:beb315b4dbc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Arthur Hayes: Bitcoin atingirá US$ 250 mil até o final do ano com onda de liquidez",
       "link": "https://br.tradingview.com/news/beincrypto:beb315b4dbc81:0/",
       "source": "Beincrypto",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Arthur Hayes: Bitcoin atingirá US$ 250 mil até o final do ano com onda de liquidez\" data-qa-id=\"news-headline-title\">Arthur Hayes: Bitcoin atingirá US$ 250 mil até o final do ano com onda de liquidez</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:623818ec1bc81:0",
-      "index": 11,
-      "title": "Oranje BTC vai estrear na B3 com R$ 2 bilhões em Bitcoin e apoio dos gêmeos Winklevoss, Adam Back e Ricardo Salinas",
-      "link": "https://br.tradingview.com/news/cointelegraph:623818ec1bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-23T11:48:04.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 11:48:04 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 11:48 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Oranje BTC vai estrear na B3 com R$ 2 bilhões em Bitcoin e apoio dos gêmeos Winklevoss, Adam Back e Ricardo Salinas\" data-qa-id=\"news-headline-title\">Oranje BTC vai estrear na B3 com R$ 2 bilhões em Bitcoin e apoio dos gêmeos Winklevoss, Adam Back e Ricardo Salinas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e665ec109bc81:0",
-      "index": 12,
-      "title": "Preço do Bitcoin hoje 23/09/2025: touros ensaiam recuperação e BTC volta para US$ 113 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:e665ec109bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-23T11:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje 23/09/2025: touros ensaiam recuperação e BTC volta para US$ 113 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje 23/09/2025: touros ensaiam recuperação e BTC volta para US$ 113 mil</div></div></article>"
-    },
-    {
-      "id": "beincrypto:59be9e21fbc81:0",
-      "index": 13,
-      "title": "Por que o mercado de criptomoedas está em baixa hoje 23/09/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:59be9e21fbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-23T11:05:35.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 11:05:35 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 11:05 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em baixa hoje 23/09/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em baixa hoje 23/09/2025?</div></div></article>"
     }
   ]
 }
