@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-24T13:55:56.557Z",
+  "updated_at": "2025-09-24T14:17:40.316Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:0c7becc4ebc81:0",
+      "id": "cointelegraph:5cd79d78cbc81:0",
       "index": 0,
+      "title": "Iniciativa da CFTC vai permitir stablecoins como garantia em mercados de derivativos",
+      "link": "https://br.tradingview.com/news/cointelegraph:5cd79d78cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-24T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Sep 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de set. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Iniciativa da CFTC vai permitir stablecoins como garantia em mercados de derivativos\" data-qa-id=\"news-headline-title\">Iniciativa da CFTC vai permitir stablecoins como garantia em mercados de derivativos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0c7becc4ebc81:0",
+      "index": 1,
       "title": "Democrata pró-Bitcoin Ian Calderon vai concorrer ao governo da Califórnia",
       "link": "https://br.tradingview.com/news/cointelegraph:0c7becc4ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:cd5d358dabc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Traders de alavancagem comprada em SOL desaparecem com venda do mercado cripto: US$ 200 é o próximo alvo?",
       "link": "https://br.tradingview.com/news/cointelegraph:cd5d358dabc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:cf7f88f98bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Emissora do USDt, Tether, busca levantar US$ 20 bilhões com avaliação de US$ 500 bilhões, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:cf7f88f98bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f337a7681bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "FTX Trust busca recuperar US$ 1 bilhão da Genesis Digital",
       "link": "https://br.tradingview.com/news/cointelegraph:f337a7681bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:0145721b8bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Queda do Bitcoin atrai compradores, mas gráficos alertam para possível correção até US$ 106 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:0145721b8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5fe1a71f7bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Altcoins ganham terreno do Bitcoin com discurso hawkish de Powell e despejo de baleias",
       "link": "https://br.tradingview.com/news/cointelegraph:5fe1a71f7bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f09a7605abc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Fragilidade do mercado de trabalho preocupa Powell e Bowman enquanto mais cortes de juros se aproximam",
       "link": "https://br.tradingview.com/news/cointelegraph:f09a7605abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:563df71ddbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Arthur Hayes levanta rumores de IPO da Tether com avaliação de US$ 500 bi",
       "link": "https://br.tradingview.com/news/beincrypto:563df71ddbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:1825dc6e9bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 24/09/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:1825dc6e9bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:cdfc70476bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Preço do Bitcoin hoje 24/09/2025: BTC permanece em US$ 112 mil, nível chave que se perdido pode levar o ativo para US$ 105 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:cdfc70476bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L2N3VB095:0",
-      "index": 10,
+      "index": 11,
       "title": "ETFs de criptomoedas devem inundar o mercado dos EUA à medida que o regulador simplifica as aprovações",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3VB095:0/",
       "source": "Reuters",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:61ebd2dd5bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "PicNic lança app que integra cartão cripto Visa, Pix e stablecoins para compras no dia a dia",
       "link": "https://br.tradingview.com/news/cointelegraph:61ebd2dd5bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L2N3VB02C:0",
-      "index": 12,
+      "index": 13,
       "title": "Novatti Group da Austrália atinge máxima de 11 meses com acordo de listagem da stablecoin Coinbase",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3VB02C:0/",
       "source": "Reuters",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/novatti-ltd.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/novatti-ltd.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Sep 2025 02:59:55 GMT\" class=\"apply-common-tooltip\" title=\"24 de set. de 2025, 02:59 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Novatti Group da Austrália atinge máxima de 11 meses com acordo de listagem da stablecoin Coinbase\" data-qa-id=\"news-headline-title\">Novatti Group da Austrália atinge máxima de 11 meses com acordo de listagem da stablecoin Coinbase</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5e4b783d5bc81:0",
-      "index": 13,
-      "title": "Banco Central: 'Antes de regular, precisamos definir o que é uma stablecoin para não regular o que já é regulado'",
-      "link": "https://br.tradingview.com/news/cointelegraph:5e4b783d5bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-23T21:44:11.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 21:44:11 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 21:44 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Banco Central: 'Antes de regular, precisamos definir o que é uma stablecoin para não regular o que já é regulado'\" data-qa-id=\"news-headline-title\">Banco Central: 'Antes de regular, precisamos definir o que é uma stablecoin para não regular o que já é regulado'</div></div></article>"
     }
   ]
 }
