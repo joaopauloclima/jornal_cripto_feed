@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-24T11:16:51.266Z",
+  "updated_at": "2025-09-24T11:53:21.215Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2025:newsml_L2N3VB095:0",
+      "id": "cointelegraph:cdfc70476bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje 24/09/2025: BTC permanece em US$ 112 mil, nível chave que se perdido pode levar o ativo para US$ 105 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:cdfc70476bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-24T11:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje 24/09/2025: BTC permanece em US$ 112 mil, nível chave que se perdido pode levar o ativo para US$ 105 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje 24/09/2025: BTC permanece em US$ 112 mil, nível chave que se perdido pode levar o ativo para US$ 105 mil</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L2N3VB095:0",
+      "index": 1,
       "title": "ETFs de criptomoedas devem inundar o mercado dos EUA à medida que o regulador simplifica as aprovações",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3VB095:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:61ebd2dd5bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "PicNic lança app que integra cartão cripto Visa, Pix e stablecoins para compras no dia a dia",
       "link": "https://br.tradingview.com/news/cointelegraph:61ebd2dd5bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L2N3VB02C:0",
-      "index": 2,
+      "index": 3,
       "title": "Novatti Group da Austrália atinge máxima de 11 meses com acordo de listagem da stablecoin Coinbase",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3VB02C:0/",
       "source": "Reuters",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5e4b783d5bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Banco Central: 'Antes de regular, precisamos definir o que é uma stablecoin para não regular o que já é regulado'",
       "link": "https://br.tradingview.com/news/cointelegraph:5e4b783d5bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d94d92267bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "E*Trade vai adicionar Bitcoin, Ether e Solana na expansão cripto do Morgan Stanley",
       "link": "https://br.tradingview.com/news/cointelegraph:d94d92267bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:cb3b86433bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "SEC dos EUA avalia 'isenção para inovação' para acelerar produtos de ativos digitais, afirma Atkins",
       "link": "https://br.tradingview.com/news/cointelegraph:cb3b86433bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:101f12a9bbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "XRP pode se recuperar após queda, mas exige cautela",
       "link": "https://br.tradingview.com/news/beincrypto:101f12a9bbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ed34c29d1bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ciclo de alta do Bitcoin entra na 'fase final' enquanto métricas de realização de lucros disparam",
       "link": "https://br.tradingview.com/news/cointelegraph:ed34c29d1bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:2c0b11ed7bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Empresa de pagamentos em blockchain Fnality arrecada US$ 136 milhões em rodada liderada por grandes bancos",
       "link": "https://br.tradingview.com/news/cointelegraph:2c0b11ed7bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:3619ffd13bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Forward Industries quer tokenizar suas ações da Nasdaq na Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:3619ffd13bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9eaa3801bbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Machi Big Brother deixa aposta de US$ 25 milhões em HYPE com perda de US$ 4 milhões enquanto rivais ganham mercado da Hyperliquid",
       "link": "https://br.tradingview.com/news/cointelegraph:9eaa3801bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6b8dfac48bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "'Estamos focados em trazer a blockchain para dentro do sistema financeiro', revela BlackRock",
       "link": "https://br.tradingview.com/news/cointelegraph:6b8dfac48bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 19:14:34 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 19:14 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Estamos focados em trazer a blockchain para dentro do sistema financeiro', revela BlackRock\" data-qa-id=\"news-headline-title\">'Estamos focados em trazer a blockchain para dentro do sistema financeiro', revela BlackRock</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:35851e4f0bc81:0",
-      "index": 12,
-      "title": "BlackRock arrecada US$ 260 milhões em receita anual com ETFs de Bitcoin e Ether",
-      "link": "https://br.tradingview.com/news/cointelegraph:35851e4f0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-23T19:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BlackRock arrecada US$ 260 milhões em receita anual com ETFs de Bitcoin e Ether\" data-qa-id=\"news-headline-title\">BlackRock arrecada US$ 260 milhões em receita anual com ETFs de Bitcoin e Ether</div></div></article>"
-    },
-    {
-      "id": "beincrypto:5e3eb49a0bc81:0",
-      "index": 13,
-      "title": "Bitcoin em risco: queda abaixo deste nível indica mercado de baixa",
-      "link": "https://br.tradingview.com/news/beincrypto:5e3eb49a0bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-23T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Sep 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de set. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin em risco: queda abaixo deste nível indica mercado de baixa\" data-qa-id=\"news-headline-title\">Bitcoin em risco: queda abaixo deste nível indica mercado de baixa</div></div></article>"
     }
   ]
 }
