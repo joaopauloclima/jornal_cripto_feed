@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-25T09:20:33.910Z",
+  "updated_at": "2025-09-25T09:53:51.041Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:a95c866ffbc81:0",
+      "id": "cointelegraph:7108861bebc81:0",
       "index": 0,
+      "title": "Mercado cripto em momento decisivo: altcoins batem recorde de juros em aberto enquanto Bitcoin mostra ‘exaustão’",
+      "link": "https://br.tradingview.com/news/cointelegraph:7108861bebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-25T09:44:33.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Sep 2025 09:44:33 GMT\" class=\"apply-common-tooltip\" title=\"25 de set. de 2025, 09:44 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado cripto em momento decisivo: altcoins batem recorde de juros em aberto enquanto Bitcoin mostra ‘exaustão’\" data-qa-id=\"news-headline-title\">Mercado cripto em momento decisivo: altcoins batem recorde de juros em aberto enquanto Bitcoin mostra ‘exaustão’</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:a95c866ffbc81:0",
+      "index": 1,
       "title": "CVM lança Consulta Pública para rever norma sobre tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:a95c866ffbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:1037d448cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "21Shares chega ao Brasil e quer liderar mercado de ETPs de Bitcoin e criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:1037d448cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:ac0309f50bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Tokens RWA de títulos do Tesouro brasileiro rendem até 37,5% em protocolo DeFi da Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:ac0309f50bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:525662123bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Executivos da Kraken e da Crypto.com participarão de evento de 'harmonização' da SEC e CFTC",
       "link": "https://br.tradingview.com/news/cointelegraph:525662123bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4fae52f04bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Análise de preços em 24/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e AVAX",
       "link": "https://br.tradingview.com/news/cointelegraph:4fae52f04bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d7c3c898bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "US$ 500 bilhões: Tether, emissora do USDT, mais valiosa que todos os bancos do Brasil juntos",
       "link": "https://br.tradingview.com/news/cointelegraph:d7c3c898bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:1b0a5b8f7bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Euforia do preço do ETH desaparece, mas US$ 5.000 segue como alvo de fim de ano, afirma analista",
       "link": "https://br.tradingview.com/news/cointelegraph:1b0a5b8f7bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:825d85579bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin sobe para US$ 113,9 mil enquanto divergência de alta aponta reversão de tendência",
       "link": "https://br.tradingview.com/news/cointelegraph:825d85579bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c1a09665cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Escolhido de Trump para presidir a CFTC enfrenta futuro incerto enquanto outros candidatos são avaliados, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:c1a09665cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:07ddc36eabc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bandas de Bollinger do Bitcoin mais estreitas da história enquanto trader projeta 'máxima dor' em US$ 107 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:07ddc36eabc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:17b24da14bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço da Cardano pode cair 14%: como os grandes investidores podem salvar ADA?",
       "link": "https://br.tradingview.com/news/beincrypto:17b24da14bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:34c8d94b6bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Coinbase, Sony e Samsung apoiam startup de stablecoin Bastion em captação de US$ 14,6 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:34c8d94b6bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Sep 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de set. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase, Sony e Samsung apoiam startup de stablecoin Bastion em captação de US$ 14,6 milhões\" data-qa-id=\"news-headline-title\">Coinbase, Sony e Samsung apoiam startup de stablecoin Bastion em captação de US$ 14,6 milhões</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d645cd51cbc81:0",
-      "index": 12,
-      "title": "Aster pode ultrapassar a HYPE em valor de mercado e subir mais 480%, diz analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:d645cd51cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-24T19:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Sep 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de set. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Aster pode ultrapassar a HYPE em valor de mercado e subir mais 480%, diz analista\" data-qa-id=\"news-headline-title\">Aster pode ultrapassar a HYPE em valor de mercado e subir mais 480%, diz analista</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9d3daa469bc81:0",
-      "index": 13,
-      "title": "Preço do XRP se prepara para 'grande mudança de tendência' com US$ 4 no alvo, diz analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:9d3daa469bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-24T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Sep 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de set. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do XRP se prepara para 'grande mudança de tendência' com US$ 4 no alvo, diz analista\" data-qa-id=\"news-headline-title\">Preço do XRP se prepara para 'grande mudança de tendência' com US$ 4 no alvo, diz analista</div></div></article>"
     }
   ]
 }
