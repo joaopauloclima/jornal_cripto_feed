@@ -1,10 +1,43 @@
 {
-  "updated_at": "2025-09-25T11:53:42.639Z",
+  "updated_at": "2025-09-25T12:34:44.419Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f23854f78bc81:0",
+      "id": "cointelegraph:6995a0f56bc81:0",
       "index": 0,
+      "title": "Futuro de Solana (SOL) bate recorde com R$ 1 bilhão de negociações na B3",
+      "link": "https://br.tradingview.com/news/cointelegraph:6995a0f56bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-25T12:17:08.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Sep 2025 12:17:08 GMT\" class=\"apply-common-tooltip\" title=\"25 de set. de 2025, 12:17 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Futuro de Solana (SOL) bate recorde com R$ 1 bilhão de negociações na B3\" data-qa-id=\"news-headline-title\">Futuro de Solana (SOL) bate recorde com R$ 1 bilhão de negociações na B3</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:57146269bbc81:0",
+      "index": 1,
+      "title": "APEX salta 115% em dia de airdrop de 20.000.000 MIRA na Binance e fadiga do Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:57146269bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-25T12:05:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Sep 2025 12:05:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de set. de 2025, 12:05 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"APEX salta 115% em dia de airdrop de 20.000.000 MIRA na Binance e fadiga do Bitcoin\" data-qa-id=\"news-headline-title\">APEX salta 115% em dia de airdrop de 20.000.000 MIRA na Binance e fadiga do Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bfce93860bc81:0",
+      "index": 2,
+      "title": "Stablecoin da Hyperliquid entra em operação após acirrada disputa por direitos de emissão",
+      "link": "https://br.tradingview.com/news/cointelegraph:bfce93860bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-25T12:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Sep 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de set. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stablecoin da Hyperliquid entra em operação após acirrada disputa por direitos de emissão\" data-qa-id=\"news-headline-title\">Stablecoin da Hyperliquid entra em operação após acirrada disputa por direitos de emissão</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f23854f78bc81:0",
+      "index": 3,
       "title": "Preço do Bitcoin hoje 25/09/2025: por que o preço do BTC caiu hoje para US$ 111 mil? Touros abrem espaço para correção",
       "link": "https://br.tradingview.com/news/cointelegraph:f23854f78bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:7108861bebc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Mercado cripto em momento decisivo: altcoins batem recorde de juros em aberto enquanto Bitcoin mostra ‘exaustão’",
       "link": "https://br.tradingview.com/news/cointelegraph:7108861bebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a95c866ffbc81:0",
-      "index": 2,
+      "index": 5,
       "title": "CVM lança Consulta Pública para rever norma sobre tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:a95c866ffbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1037d448cbc81:0",
-      "index": 3,
+      "index": 6,
       "title": "21Shares chega ao Brasil e quer liderar mercado de ETPs de Bitcoin e criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:1037d448cbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:ac0309f50bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Tokens RWA de títulos do Tesouro brasileiro rendem até 37,5% em protocolo DeFi da Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:ac0309f50bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:525662123bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Executivos da Kraken e da Crypto.com participarão de evento de 'harmonização' da SEC e CFTC",
       "link": "https://br.tradingview.com/news/cointelegraph:525662123bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:4fae52f04bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Análise de preços em 24/09: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e AVAX",
       "link": "https://br.tradingview.com/news/cointelegraph:4fae52f04bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:d7c3c898bbc81:0",
-      "index": 7,
+      "index": 10,
       "title": "US$ 500 bilhões: Tether, emissora do USDT, mais valiosa que todos os bancos do Brasil juntos",
       "link": "https://br.tradingview.com/news/cointelegraph:d7c3c898bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:1b0a5b8f7bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Euforia do preço do ETH desaparece, mas US$ 5.000 segue como alvo de fim de ano, afirma analista",
       "link": "https://br.tradingview.com/news/cointelegraph:1b0a5b8f7bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:825d85579bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Bitcoin sobe para US$ 113,9 mil enquanto divergência de alta aponta reversão de tendência",
       "link": "https://br.tradingview.com/news/cointelegraph:825d85579bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c1a09665cbc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Escolhido de Trump para presidir a CFTC enfrenta futuro incerto enquanto outros candidatos são avaliados, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:c1a09665cbc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Sep 2025 20:20:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de set. de 2025, 20:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Escolhido de Trump para presidir a CFTC enfrenta futuro incerto enquanto outros candidatos são avaliados, diz reportagem\" data-qa-id=\"news-headline-title\">Escolhido de Trump para presidir a CFTC enfrenta futuro incerto enquanto outros candidatos são avaliados, diz reportagem</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:07ddc36eabc81:0",
-      "index": 11,
-      "title": "Bandas de Bollinger do Bitcoin mais estreitas da história enquanto trader projeta 'máxima dor' em US$ 107 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:07ddc36eabc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-24T20:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Sep 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de set. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bandas de Bollinger do Bitcoin mais estreitas da história enquanto trader projeta 'máxima dor' em US$ 107 mil\" data-qa-id=\"news-headline-title\">Bandas de Bollinger do Bitcoin mais estreitas da história enquanto trader projeta 'máxima dor' em US$ 107 mil</div></div></article>"
-    },
-    {
-      "id": "beincrypto:17b24da14bc81:0",
-      "index": 12,
-      "title": "Preço da Cardano pode cair 14%: como os grandes investidores podem salvar ADA?",
-      "link": "https://br.tradingview.com/news/beincrypto:17b24da14bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-24T20:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Sep 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de set. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço da Cardano pode cair 14%: como os grandes investidores podem salvar ADA?\" data-qa-id=\"news-headline-title\">Preço da Cardano pode cair 14%: como os grandes investidores podem salvar ADA?</div></div></article>"
     }
   ]
 }
