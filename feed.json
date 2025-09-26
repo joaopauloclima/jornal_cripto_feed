@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-26T10:19:28.764Z",
+  "updated_at": "2025-09-26T10:53:50.366Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8486583c9bc81:0",
+      "id": "cointelegraph:6dade813cbc81:0",
       "index": 0,
+      "title": "Criptomoedas e dólar: 'Viciado em bets' aplicava golpes românticos com promessas de 'investimento para o futuro'",
+      "link": "https://br.tradingview.com/news/cointelegraph:6dade813cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-26T10:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Sep 2025 10:30:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de set. de 2025, 10:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas e dólar: 'Viciado em bets' aplicava golpes românticos com promessas de 'investimento para o futuro'\" data-qa-id=\"news-headline-title\">Criptomoedas e dólar: 'Viciado em bets' aplicava golpes românticos com promessas de 'investimento para o futuro'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8486583c9bc81:0",
+      "index": 1,
       "title": "De US$ 124 para US$ 109 mil: macroestrutura do Bitcoin dá sinais de que bull market acabou e agora é só queda, aponta Glassnode",
       "link": "https://br.tradingview.com/news/cointelegraph:8486583c9bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:50a97661fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin cai abaixo de US$ 109.000, mas dados indicam entrada de compradores",
       "link": "https://br.tradingview.com/news/cointelegraph:50a97661fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:73825fe2abc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Chintai e Splyce buscam ampliar acesso do varejo a valores mobiliários tokenizados na Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:73825fe2abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5669b06bbbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Hashdex expande ETF Crypto Index US sob padrões genéricos de listagem da SEC",
       "link": "https://br.tradingview.com/news/cointelegraph:5669b06bbbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:dfc321e05bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin enfrenta reteste iminente de US$ 110 mil enquanto dólar atinge máxima de três semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:dfc321e05bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:860ea4e8bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Juros em aberto da Solana atingem recorde de 72 milhões de SOL, mas por que o preço está caindo?",
       "link": "https://br.tradingview.com/news/cointelegraph:860ea4e8bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4c27aeebebc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Spark integra o PayPal USD em seu mercado de empréstimos de stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:4c27aeebebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:73198338bbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ohio aprova fornecedor para processar pagamentos em criptomoedas para serviços estaduais",
       "link": "https://br.tradingview.com/news/cointelegraph:73198338bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:50f46388abc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Google adquire participação de 5,4% na mineradora de Bitcoin Cipher Mining em acordo de US$ 3 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:50f46388abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:0996648f9bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "ETH cai abaixo de US$ 4.000 e 'maior perdedor' do Ethereum sofre liquidação de US$ 36,4 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:0996648f9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:050839b84bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Aster lidera alta das DEXs perp para US$ 70 bilhões em volume diário de negociações",
       "link": "https://br.tradingview.com/news/cointelegraph:050839b84bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:be6d20526bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin pode atingir US$ 1 milhão em cinco anos, diz CEO da Coinbase",
       "link": "https://br.tradingview.com/news/beincrypto:be6d20526bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Sep 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de set. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode atingir US$ 1 milhão em cinco anos, diz CEO da Coinbase\" data-qa-id=\"news-headline-title\">Bitcoin pode atingir US$ 1 milhão em cinco anos, diz CEO da Coinbase</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:44aab924bbc81:0",
-      "index": 12,
-      "title": "M2 Capital apoia a Ethena com investimento de US$ 20 milhões em tokens ENA",
-      "link": "https://br.tradingview.com/news/cointelegraph:44aab924bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-25T18:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Sep 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de set. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"M2 Capital apoia a Ethena com investimento de US$ 20 milhões em tokens ENA\" data-qa-id=\"news-headline-title\">M2 Capital apoia a Ethena com investimento de US$ 20 milhões em tokens ENA</div></div></article>"
     }
   ]
 }
