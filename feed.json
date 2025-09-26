@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-26T14:17:38.283Z",
+  "updated_at": "2025-09-26T14:53:44.153Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e4523da7dbc81:0",
+      "id": "cointelegraph:969edca6fbc81:0",
       "index": 0,
+      "title": "Nubank reforça estratégia com Bitcoin e cripto e contrata executivo que trabalhou com Coinbase e Elon Musk na Tesla",
+      "link": "https://br.tradingview.com/news/cointelegraph:969edca6fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-26T14:26:45.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Sep 2025 14:26:45 GMT\" class=\"apply-common-tooltip\" title=\"26 de set. de 2025, 14:26 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nubank reforça estratégia com Bitcoin e cripto e contrata executivo que trabalhou com Coinbase e Elon Musk na Tesla\" data-qa-id=\"news-headline-title\">Nubank reforça estratégia com Bitcoin e cripto e contrata executivo que trabalhou com Coinbase e Elon Musk na Tesla</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:59429f50cbc81:0",
+      "index": 1,
+      "title": "HSBC afirma avanço quântico em trading algorítmico",
+      "link": "https://br.tradingview.com/news/cointelegraph:59429f50cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-26T14:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Sep 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de set. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"HSBC afirma avanço quântico em trading algorítmico\" data-qa-id=\"news-headline-title\">HSBC afirma avanço quântico em trading algorítmico</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e4523da7dbc81:0",
+      "index": 2,
       "title": "Deep tech abre 381 vagas na Finlândia, Meta inicia inscrições para trainee, Shopee tem oportunidades",
       "link": "https://br.tradingview.com/news/cointelegraph:e4523da7dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a1515c01cbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "BlackRock busca rendimento com Bitcoin em novo ETF como 'sequência' do IBIT",
       "link": "https://br.tradingview.com/news/cointelegraph:a1515c01cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:16f82fe57bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Cofundador da Ethereum move US$ 6 milhões em ETH, mas baleias compram US$ 1,6 bilhão",
       "link": "https://br.tradingview.com/news/cointelegraph:16f82fe57bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:add0651ccbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Atualização do protocolo Aave V4 está chegando: veja o que esperar",
       "link": "https://br.tradingview.com/news/cointelegraph:add0651ccbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:fff871e55bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin atinge mínima de 4 semanas em sinais crescentes de 'exaustão', segundo a Glassnode",
       "link": "https://br.tradingview.com/news/cointelegraph:fff871e55bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f3e84c0f2bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin cai abaixo de US$ 109 mil enquanto traders se preparam para o vencimento de US$ 22 bilhões em opções",
       "link": "https://br.tradingview.com/news/cointelegraph:f3e84c0f2bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:dad48ed8ebc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin sob pressão com baleias e futuros apontando queda para US$ 105 mil",
       "link": "https://br.tradingview.com/news/beincrypto:dad48ed8ebc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:ab7940ceebc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Liquidação de traders de criptomoedas beira US$ 1 bi enquanto o Bitcoin luta por US$  109 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:ab7940ceebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:01206ff98bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Avanço quântico vai acabar com o Bitcoin? CTO da IBM revela a verdade",
       "link": "https://br.tradingview.com/news/beincrypto:01206ff98bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:7bf31521dbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Pix com cashback em cripto: Magie cria programa de fidelidade inédito inspirado em token do Nubank",
       "link": "https://br.tradingview.com/news/cointelegraph:7bf31521dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:4295fc5d7bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 26/09/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:4295fc5d7bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:506b196bbbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Preço do Bitcoin hoje 26/09/2025: por que o preço do BTC caiu para US$ 109 mil? Ursos estão no comando agora",
       "link": "https://br.tradingview.com/news/cointelegraph:506b196bbbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Sep 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de set. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje 26/09/2025: por que o preço do BTC caiu para US$ 109 mil? Ursos estão no comando agora\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje 26/09/2025: por que o preço do BTC caiu para US$ 109 mil? Ursos estão no comando agora</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:6dade813cbc81:0",
-      "index": 12,
-      "title": "Criptomoedas e dólar: 'Viciado em bets' aplicava golpes românticos com promessas de 'investimento para o futuro'",
-      "link": "https://br.tradingview.com/news/cointelegraph:6dade813cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-26T10:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Sep 2025 10:30:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de set. de 2025, 10:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas e dólar: 'Viciado em bets' aplicava golpes românticos com promessas de 'investimento para o futuro'\" data-qa-id=\"news-headline-title\">Criptomoedas e dólar: 'Viciado em bets' aplicava golpes românticos com promessas de 'investimento para o futuro'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8486583c9bc81:0",
-      "index": 13,
-      "title": "De US$ 124 para US$ 109 mil: macroestrutura do Bitcoin dá sinais de que bull market acabou e agora é só queda, aponta Glassnode",
-      "link": "https://br.tradingview.com/news/cointelegraph:8486583c9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-25T23:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Sep 2025 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de set. de 2025, 23:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"De US$ 124 para US$ 109 mil: macroestrutura do Bitcoin dá sinais de que bull market acabou e agora é só queda, aponta Glassnode\" data-qa-id=\"news-headline-title\">De US$ 124 para US$ 109 mil: macroestrutura do Bitcoin dá sinais de que bull market acabou e agora é só queda, aponta Glassnode</div></div></article>"
     }
   ]
 }
