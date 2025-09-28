@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-28T09:17:24.239Z",
+  "updated_at": "2025-09-28T09:53:40.582Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:0fc46bbf4bc81:0",
+      "id": "cointelegraph:15b38badcbc81:0",
       "index": 0,
+      "title": "Ações vs. Bitcoin na era da IA: qual sobreviverá aos próximos 50 anos?",
+      "link": "https://br.tradingview.com/news/cointelegraph:15b38badcbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-28T09:27:13.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 28 Sep 2025 09:27:13 GMT\" class=\"apply-common-tooltip\" title=\"28 de set. de 2025, 09:27 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações vs. Bitcoin na era da IA: qual sobreviverá aos próximos 50 anos?\" data-qa-id=\"news-headline-title\">Ações vs. Bitcoin na era da IA: qual sobreviverá aos próximos 50 anos?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0fc46bbf4bc81:0",
+      "index": 1,
       "title": "AlphaTON adiciona US$ 30 milhões em Toncoin ao balanço mesmo com a queda no ativo e nas ações das empresas",
       "link": "https://br.tradingview.com/news/cointelegraph:0fc46bbf4bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:cce1015e0bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Desempenho do Bitcoin abaixo do esperado sinaliza uma altseason “distinta” no terceiro trimestre, afirma Grayscale",
       "link": "https://br.tradingview.com/news/cointelegraph:cce1015e0bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d1a44948dbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Tether pretende vender 3% da empresa e já há grandes investidores prontos para comprar",
       "link": "https://br.tradingview.com/news/cointelegraph:d1a44948dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e04c7a709bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Hester Peirce brica que vai se tornar criadora de NFTs após deixar a SEC",
       "link": "https://br.tradingview.com/news/cointelegraph:e04c7a709bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:086bb6352bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Citi eleva previsão de capitalização de mercado de stablecoin para US$ 4 trilhões até 2030",
       "link": "https://br.tradingview.com/news/cointelegraph:086bb6352bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:b92790c24bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitwise avança nos esforços para ETF de Solana com importante registro Formulário 8-A",
       "link": "https://br.tradingview.com/news/beincrypto:b92790c24bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:9e72d4eb6bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin cai abaixo de US$ 110 mil com alta do ouro e das ações: o que está impedindo a alta do BTC?",
       "link": "https://br.tradingview.com/news/cointelegraph:9e72d4eb6bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:97ceadde7bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Stablecoins podem retirar dinheiro dos bancos, prejudicar empréstimos e afetar o controle da economia, diz Moody's",
       "link": "https://br.tradingview.com/news/cointelegraph:97ceadde7bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:45a89cb3abc81:0",
-      "index": 8,
+      "index": 9,
       "title": "'O maior catalisador de alta do Bitcoin pode ser a próxima escolha do presidente do Fed' diz Novogratz",
       "link": "https://br.tradingview.com/news/cointelegraph:45a89cb3abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:b113a08eebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Vários ETFs de Solana podem ganhar aprovação nos EUA em duas semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:b113a08eebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:dbaaffffcbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "ETFs de Ether registram uma semana consecutiva de saídas: US$ 796 milhões retirados e queda de 10% no preço",
       "link": "https://br.tradingview.com/news/cointelegraph:dbaaffffcbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:bf7b8a6e6bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Vitalik critica o Chat Control da UE: \"Todos nós merecemos privacidade e segurança\"",
       "link": "https://br.tradingview.com/news/cointelegraph:bf7b8a6e6bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:f1b12b7b5bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Organização brasileira vai financiar desenvolvedores para melhorar o Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:f1b12b7b5bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Sep 2025 23:07:32 GMT\" class=\"apply-common-tooltip\" title=\"26 de set. de 2025, 23:07 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Organização brasileira vai financiar desenvolvedores para melhorar o Bitcoin\" data-qa-id=\"news-headline-title\">Organização brasileira vai financiar desenvolvedores para melhorar o Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:147efa642bc81:0",
-      "index": 13,
-      "title": "Jogo brasileiro que une IA e criptomoedas vai dar NFTs do Diego Lugano de graça",
-      "link": "https://br.tradingview.com/news/cointelegraph:147efa642bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-26T22:55:18.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Sep 2025 22:55:18 GMT\" class=\"apply-common-tooltip\" title=\"26 de set. de 2025, 22:55 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Jogo brasileiro que une IA e criptomoedas vai dar NFTs do Diego Lugano de graça\" data-qa-id=\"news-headline-title\">Jogo brasileiro que une IA e criptomoedas vai dar NFTs do Diego Lugano de graça</div></div></article>"
     }
   ]
 }
