@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-28T20:19:08.383Z",
+  "updated_at": "2025-09-28T20:53:21.519Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:88ff88b49bc81:0",
+      "id": "cointelegraph:da2234f4ebc81:0",
       "index": 0,
+      "title": "Autoridades francesas pressionaram o Telegram a censurar postagens eleitorais na Moldávia, diz Durov",
+      "link": "https://br.tradingview.com/news/cointelegraph:da2234f4ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-28T20:37:33.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 28 Sep 2025 20:37:33 GMT\" class=\"apply-common-tooltip\" title=\"28 de set. de 2025, 20:37 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Autoridades francesas pressionaram o Telegram a censurar postagens eleitorais na Moldávia, diz Durov\" data-qa-id=\"news-headline-title\">Autoridades francesas pressionaram o Telegram a censurar postagens eleitorais na Moldávia, diz Durov</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:a415d016ebc81:0",
+      "index": 1,
+      "title": "Analista explica como o Bitcoin pode ajudar a acabar com as guerras no mundo",
+      "link": "https://br.tradingview.com/news/cointelegraph:a415d016ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-28T20:33:55.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 28 Sep 2025 20:33:55 GMT\" class=\"apply-common-tooltip\" title=\"28 de set. de 2025, 20:33 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Analista explica como o Bitcoin pode ajudar a acabar com as guerras no mundo\" data-qa-id=\"news-headline-title\">Analista explica como o Bitcoin pode ajudar a acabar com as guerras no mundo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:88ff88b49bc81:0",
+      "index": 2,
       "title": "Notícias cripto: Bitfinex bate US$ 250 mi, MB vai a NY e Lisboa, Polygon cresce 33% e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:88ff88b49bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:8b4b98bc6bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "WLFI ligada a Trump queima US$ 1,43 milhão em tokens após recompra de US$ 1 milhão",
       "link": "https://br.tradingview.com/news/cointelegraph:8b4b98bc6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:681a684b0bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Análise da Bitget, destaca que Varejo e quants impulsionam a adoção de DEX",
       "link": "https://br.tradingview.com/news/cointelegraph:681a684b0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d02ace739bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "As empresas de tesouraria de criptomoedas representam um risco semelhante ao da bolha das pontocom dos anos 2000",
       "link": "https://br.tradingview.com/news/cointelegraph:d02ace739bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:62f36c6cfbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Opções e derivativos levarão o Bitcoin a um valor de mercado de US$ 10 trilhões, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:62f36c6cfbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4fa284c17bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Notícias cripto: Bitget com novos produtos, novo país criado com NFTs e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:4fa284c17bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:71ca60575bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Uma reserva estratégica de Bitcoin pode ser ruim para BTC e USD, diz executivo da OKX",
       "link": "https://br.tradingview.com/news/cointelegraph:71ca60575bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:fed989f11bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Cathie Wood: Hyperliquid me lembra Solana nos primeiros dias",
       "link": "https://br.tradingview.com/news/cointelegraph:fed989f11bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:07eca5e81bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "A força oculta por trás das oscilações de preço do Bitcoin e do Ether: vencimento no mercado de opções",
       "link": "https://br.tradingview.com/news/cointelegraph:07eca5e81bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8b832882bbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoin a US$ 1 milhão? Especialista diz que é vai acontecer mais cedo do que você imagina",
       "link": "https://br.tradingview.com/news/cointelegraph:8b832882bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:15b38badcbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Ações vs. Bitcoin na era da IA: qual sobreviverá aos próximos 50 anos?",
       "link": "https://br.tradingview.com/news/cointelegraph:15b38badcbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:0fc46bbf4bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "AlphaTON adiciona US$ 30 milhões em Toncoin ao balanço mesmo com a queda no ativo e nas ações das empresas",
       "link": "https://br.tradingview.com/news/cointelegraph:0fc46bbf4bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCTON.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCTON.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Sep 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de set. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"AlphaTON adiciona US$ 30 milhões em Toncoin ao balanço mesmo com a queda no ativo e nas ações das empresas\" data-qa-id=\"news-headline-title\">AlphaTON adiciona US$ 30 milhões em Toncoin ao balanço mesmo com a queda no ativo e nas ações das empresas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:cce1015e0bc81:0",
-      "index": 12,
-      "title": "Desempenho do Bitcoin abaixo do esperado sinaliza uma altseason “distinta” no terceiro trimestre, afirma Grayscale",
-      "link": "https://br.tradingview.com/news/cointelegraph:cce1015e0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-27T14:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Sep 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de set. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Desempenho do Bitcoin abaixo do esperado sinaliza uma altseason “distinta” no terceiro trimestre, afirma Grayscale\" data-qa-id=\"news-headline-title\">Desempenho do Bitcoin abaixo do esperado sinaliza uma altseason “distinta” no terceiro trimestre, afirma Grayscale</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d1a44948dbc81:0",
-      "index": 13,
-      "title": "Tether pretende vender 3% da empresa e já há grandes investidores prontos para comprar",
-      "link": "https://br.tradingview.com/news/cointelegraph:d1a44948dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-27T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Sep 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de set. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tether pretende vender 3% da empresa e já há grandes investidores prontos para comprar\" data-qa-id=\"news-headline-title\">Tether pretende vender 3% da empresa e já há grandes investidores prontos para comprar</div></div></article>"
     }
   ]
 }
