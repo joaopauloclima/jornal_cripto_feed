@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-09-29T21:16:44.024Z",
+  "updated_at": "2025-09-29T21:53:49.029Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:5ba36d33cbc81:0",
+      "id": "cointelegraph:3150ac1bbbc81:0",
       "index": 0,
+      "title": "Governo dos EUA prestes a paralisar: isso afetará o projeto de lei da estrutura do mercado cripto?",
+      "link": "https://br.tradingview.com/news/cointelegraph:3150ac1bbbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-29T21:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Sep 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de set. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Governo dos EUA prestes a paralisar: isso afetará o projeto de lei da estrutura do mercado cripto?\" data-qa-id=\"news-headline-title\">Governo dos EUA prestes a paralisar: isso afetará o projeto de lei da estrutura do mercado cripto?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f273a1ca3bc81:0",
+      "index": 1,
+      "title": "Análise de preços em 29/09: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e HYPE",
+      "link": "https://br.tradingview.com/news/cointelegraph:f273a1ca3bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-29T21:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Sep 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de set. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 29/09: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e HYPE\" data-qa-id=\"news-headline-title\">Análise de preços em 29/09: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e HYPE</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5ba36d33cbc81:0",
+      "index": 2,
       "title": "Touros do Bitcoin estão de volta: veja o que é necessário para um rali até US$ 120 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:5ba36d33cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b6e5958f6bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Predictive Oncology, listada na Nasdaq, lança tesouraria de US$ 344 milhões em DePIN com foco na Aethir",
       "link": "https://br.tradingview.com/news/cointelegraph:b6e5958f6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a35f4ca66bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin se prepara para o 'Uptober' após rali a US$ 114 mil reanimar os touros",
       "link": "https://br.tradingview.com/news/cointelegraph:a35f4ca66bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:de19c0df7bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Traders de Bitcoin preveem queda para US$ 110 mil com gap da CME enquanto preço do BTC sobe 1,5%",
       "link": "https://br.tradingview.com/news/cointelegraph:de19c0df7bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:422771086bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ethereum recupera os US$ 4.000: três razões para o preço do ETH 'subir' em outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:422771086bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bd943c0b9bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Fundos de criptomoedas registram saída de US$ 812 milhões, mas Solana foge da tendência com ganhos",
       "link": "https://br.tradingview.com/news/cointelegraph:bd943c0b9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:53b43ba7dbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ETF e rede ativa impulsionam Litecoin no 4º trimestre",
       "link": "https://br.tradingview.com/news/beincrypto:53b43ba7dbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:5c2873701bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "De programadores a CEOs: quem está ganhando em Bitcoin e Ether em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:5c2873701bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f06ae0f3bbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Preço do XRP: fechamento trimestral recorde pode impulsionar rali rumo a US$ 15",
       "link": "https://br.tradingview.com/news/cointelegraph:f06ae0f3bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:932959abfbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Strategy adiciona US$ 22 milhões em Bitcoin e agora possui mais de 640 mil BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:932959abfbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:58e3f4fe2bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Polkadot considera stablecoin algorítmica nativa lastreada em DOT",
       "link": "https://br.tradingview.com/news/cointelegraph:58e3f4fe2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:4e518683fbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Banco do Catar adota a blockchain do JPMorgan para pagamentos mais rápidos em dólares americanos",
       "link": "https://br.tradingview.com/news/cointelegraph:4e518683fbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Sep 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de set. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Banco do Catar adota a blockchain do JPMorgan para pagamentos mais rápidos em dólares americanos\" data-qa-id=\"news-headline-title\">Banco do Catar adota a blockchain do JPMorgan para pagamentos mais rápidos em dólares americanos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f2fc62cd2bc81:0",
-      "index": 12,
-      "title": "Como identificar moedas antes de serem listadas na Binance ou na Coinbase",
-      "link": "https://br.tradingview.com/news/cointelegraph:f2fc62cd2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-29T17:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Sep 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de set. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Como identificar moedas antes de serem listadas na Binance ou na Coinbase\" data-qa-id=\"news-headline-title\">Como identificar moedas antes de serem listadas na Binance ou na Coinbase</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:74ad936a9bc81:0",
-      "index": 13,
-      "title": "46% dos consumidores brasileiros ‘vão às compras com a IA’, revela pesquisa",
-      "link": "https://br.tradingview.com/news/cointelegraph:74ad936a9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-29T16:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Sep 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de set. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"46% dos consumidores brasileiros ‘vão às compras com a IA’, revela pesquisa\" data-qa-id=\"news-headline-title\">46% dos consumidores brasileiros ‘vão às compras com a IA’, revela pesquisa</div></div></article>"
     }
   ]
 }
