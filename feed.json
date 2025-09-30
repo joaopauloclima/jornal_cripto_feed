@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-30T10:19:46.865Z",
+  "updated_at": "2025-09-30T10:54:22.818Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2025:newsml_L2N3VH070:0",
+      "id": "cointelegraph:7ed162826bc81:0",
       "index": 0,
+      "title": "Bitcoin no caixa: PMEs já respondem por 15% dos investimentos em cripto no Mercado Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:7ed162826bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-30T10:45:13.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Sep 2025 10:45:13 GMT\" class=\"apply-common-tooltip\" title=\"30 de set. de 2025, 10:45 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin no caixa: PMEs já respondem por 15% dos investimentos em cripto no Mercado Bitcoin\" data-qa-id=\"news-headline-title\">Bitcoin no caixa: PMEs já respondem por 15% dos investimentos em cripto no Mercado Bitcoin</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L2N3VH070:0",
+      "index": 1,
       "title": "Visa aposta em stablecoins para acelerar pagamentos internacionais",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3VH070:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:130b6574ebc81:0",
-      "index": 1,
+      "index": 2,
       "title": "46% dos usuários globais usam criptomoedas como proteção contra a inflação",
       "link": "https://br.tradingview.com/news/cointelegraph:130b6574ebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3c5cf011ebc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Qual criptomoeda comprar? Análise indica as 5 melhores criptos para outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:3c5cf011ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:93dce074ebc81:0",
-      "index": 3,
+      "index": 4,
       "title": "'Fim da zona cinzenta': BC equipara operações com stablecoins a câmbio tradicional em nova consulta pública",
       "link": "https://br.tradingview.com/news/cointelegraph:93dce074ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:7c22a5b45bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Alta do Bitcoin para US$ 114.000 pode ser frustrada por ‘armadilha de touros’, alerta analista",
       "link": "https://br.tradingview.com/news/cointelegraph:7c22a5b45bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3150ac1bbbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Governo dos EUA prestes a paralisar: isso afetará o projeto de lei da estrutura do mercado cripto?",
       "link": "https://br.tradingview.com/news/cointelegraph:3150ac1bbbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f273a1ca3bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Análise de preços em 29/09: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:f273a1ca3bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5ba36d33cbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Touros do Bitcoin estão de volta: veja o que é necessário para um rali até US$ 120 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:5ba36d33cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b6e5958f6bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Predictive Oncology, listada na Nasdaq, lança tesouraria de US$ 344 milhões em DePIN com foco na Aethir",
       "link": "https://br.tradingview.com/news/cointelegraph:b6e5958f6bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:a35f4ca66bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin se prepara para o 'Uptober' após rali a US$ 114 mil reanimar os touros",
       "link": "https://br.tradingview.com/news/cointelegraph:a35f4ca66bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:de19c0df7bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Traders de Bitcoin preveem queda para US$ 110 mil com gap da CME enquanto preço do BTC sobe 1,5%",
       "link": "https://br.tradingview.com/news/cointelegraph:de19c0df7bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:422771086bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ethereum recupera os US$ 4.000: três razões para o preço do ETH 'subir' em outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:422771086bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:bd943c0b9bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Fundos de criptomoedas registram saída de US$ 812 milhões, mas Solana foge da tendência com ganhos",
       "link": "https://br.tradingview.com/news/cointelegraph:bd943c0b9bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Sep 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de set. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundos de criptomoedas registram saída de US$ 812 milhões, mas Solana foge da tendência com ganhos\" data-qa-id=\"news-headline-title\">Fundos de criptomoedas registram saída de US$ 812 milhões, mas Solana foge da tendência com ganhos</div></div></article>"
-    },
-    {
-      "id": "beincrypto:53b43ba7dbc81:0",
-      "index": 13,
-      "title": "ETF e rede ativa impulsionam Litecoin no 4º trimestre",
-      "link": "https://br.tradingview.com/news/beincrypto:53b43ba7dbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-09-29T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Sep 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de set. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETF e rede ativa impulsionam Litecoin no 4º trimestre\" data-qa-id=\"news-headline-title\">ETF e rede ativa impulsionam Litecoin no 4º trimestre</div></div></article>"
     }
   ]
 }
