@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-09-30T16:57:53.244Z",
+  "updated_at": "2025-09-30T17:17:59.439Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:79fbadac4bc81:0",
+      "id": "cointelegraph:4f5bf3277bc81:0",
       "index": 0,
+      "title": "TON e SERA buscam 'democratizar' as viagens espaciais com votação de astronautas on-chain",
+      "link": "https://br.tradingview.com/news/cointelegraph:4f5bf3277bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-09-30T17:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Sep 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de set. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"TON e SERA buscam 'democratizar' as viagens espaciais com votação de astronautas on-chain\" data-qa-id=\"news-headline-title\">TON e SERA buscam 'democratizar' as viagens espaciais com votação de astronautas on-chain</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:79fbadac4bc81:0",
+      "index": 1,
       "title": "Governo aporta R$ 390 milhões em IA para melhorar serviços públicos",
       "link": "https://br.tradingview.com/news/cointelegraph:79fbadac4bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:020921cc3bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Compra de baleias de XRP pode resultar em movimento de preço 'agressivo' para US$ 4,20",
       "link": "https://br.tradingview.com/news/cointelegraph:020921cc3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b7cde9438bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Preço da Aster pode subir novamente em outubro?",
       "link": "https://br.tradingview.com/news/cointelegraph:b7cde9438bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:08b530bd2bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Outubro será o mês da virada do XRP ou de um novo tombo?",
       "link": "https://br.tradingview.com/news/beincrypto:08b530bd2bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6cecf7de6bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Brasil aposta em energia limpa para atrair mineradoras de Bitcoin: ‘diamantes’",
       "link": "https://br.tradingview.com/news/cointelegraph:6cecf7de6bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:7f147743dbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Fundador da Akash, Greg Osuri, alerta que o treinamento de IA pode desencadear crise energética global",
       "link": "https://br.tradingview.com/news/cointelegraph:7f147743dbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:02ed6f7dfbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do Bitcoin encontrou fundo em US$ 108 mil? 3 razões pelas quais o pior pode ter acabado",
       "link": "https://br.tradingview.com/news/cointelegraph:02ed6f7dfbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:559300c13bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Observe esses três níveis do preço do Bitcoin antes do fechamento mensal, aponta analista",
       "link": "https://br.tradingview.com/news/cointelegraph:559300c13bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L2N3VH0LC:0",
-      "index": 8,
+      "index": 9,
       "title": "Visa ganha após empresa dizer que testará uso de stablecoin para pagamentos internacionais",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3VH0LC:0/",
       "source": "Reuters",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:1437cfea7bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Próximos alvos do Bitcoin, Ethereum e Chainlink: ‘é loucura’",
       "link": "https://br.tradingview.com/news/cointelegraph:1437cfea7bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:c65f90e54bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Strategy vê risco de diluição com novas compras de Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:c65f90e54bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c7d5989ebbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Comentários de Satoshi sobre dados arbitrários mostram quão antiga é a discussão sobre o OP_RETURN",
       "link": "https://br.tradingview.com/news/cointelegraph:c7d5989ebbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L2N3VH0IK:0",
-      "index": 12,
+      "index": 13,
       "title": "Visa testará uso de stablecoin para pagamentos internacionais",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3VH0IK:0/",
       "source": "Reuters",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/visa.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/visa.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Sep 2025 13:42:02 GMT\" class=\"apply-common-tooltip\" title=\"30 de set. de 2025, 13:42 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Visa testará uso de stablecoin para pagamentos internacionais\" data-qa-id=\"news-headline-title\">Visa testará uso de stablecoin para pagamentos internacionais</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e6549a6a2bc81:0",
-      "index": 13,
-      "title": "Psicologia é tão importante para a Ethereum quanto o preço, aponta estudo",
-      "link": "https://br.tradingview.com/news/cointelegraph:e6549a6a2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-09-30T13:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Sep 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de set. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Psicologia é tão importante para a Ethereum quanto o preço, aponta estudo\" data-qa-id=\"news-headline-title\">Psicologia é tão importante para a Ethereum quanto o preço, aponta estudo</div></div></article>"
     }
   ]
 }
