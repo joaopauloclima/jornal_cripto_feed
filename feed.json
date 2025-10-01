@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-01T17:53:46.991Z",
+  "updated_at": "2025-10-01T18:25:08.658Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1654ddc3dbc81:0",
+      "id": "cointelegraph:6adec67b1bc81:0",
       "index": 0,
+      "title": "Mais de 70% das transações com stablecoins no 3º trimestre estão ligadas a bots, aponta relatório",
+      "link": "https://br.tradingview.com/news/cointelegraph:6adec67b1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-01T18:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Oct 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de out. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mais de 70% das transações com stablecoins no 3º trimestre estão ligadas a bots, aponta relatório\" data-qa-id=\"news-headline-title\">Mais de 70% das transações com stablecoins no 3º trimestre estão ligadas a bots, aponta relatório</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f2cfb2abbbc81:0",
+      "index": 1,
+      "title": "Governador do Banco da Inglaterra diz que as stablecoins podem reduzir a dependência dos bancos",
+      "link": "https://br.tradingview.com/news/cointelegraph:f2cfb2abbbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-01T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Governador do Banco da Inglaterra diz que as stablecoins podem reduzir a dependência dos bancos\" data-qa-id=\"news-headline-title\">Governador do Banco da Inglaterra diz que as stablecoins podem reduzir a dependência dos bancos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1654ddc3dbc81:0",
+      "index": 2,
       "title": "Bitcoin retoma correlação com o ouro enquanto preço do BTC se aproxima de US$ 117 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:1654ddc3dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a7738524bbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "IA pode ser incluída nos ensinos fundamental e médio",
       "link": "https://br.tradingview.com/news/cointelegraph:a7738524bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d4c4821b2bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Quão alto o preço do Bitcoin pode ir em outubro?",
       "link": "https://br.tradingview.com/news/cointelegraph:d4c4821b2bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ef8ffae6dbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Quão alto o preço do Bitcoin pode ir em outubro?",
       "link": "https://br.tradingview.com/news/cointelegraph:ef8ffae6dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c9c457f23bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Déficit do banco central francês é 'ótimo' para o Bitcoin, afirma Arthur Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:c9c457f23bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:af88ce8c3bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Roman Storm pede absolvição de acusação de transmissão de dinheiro do Tornado Cash",
       "link": "https://br.tradingview.com/news/cointelegraph:af88ce8c3bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:edb7cb681bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Impulso da SEC por ações tokenizadas tem benefícios incertos para cripto, afirma executivo da Dragonfly",
       "link": "https://br.tradingview.com/news/cointelegraph:edb7cb681bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:bc452dc95bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Lobby do agro trava MP que acaba com isenção de impostos para criptoativos no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:bc452dc95bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:dc6308dc3bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Pix ganha ‘botão de contestação’ contra golpistas",
       "link": "https://br.tradingview.com/news/cointelegraph:dc6308dc3bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:7de9177e8bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Agentes de IA precisam de cripto para operar nos mercados financeiros, afirma executivo da Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:7de9177e8bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:f05b6e3e1bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin mira US$ 120 mil com sinal de exaustão dos vendedores",
       "link": "https://br.tradingview.com/news/beincrypto:f05b6e3e1bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:fff97c28bbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Especialistas apontam alvo da corrida dos touros do Bitcoin, Stellar, Sei e Celestia em outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:fff97c28bbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXLM.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Oct 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de out. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Especialistas apontam alvo da corrida dos touros do Bitcoin, Stellar, Sei e Celestia em outubro\" data-qa-id=\"news-headline-title\">Especialistas apontam alvo da corrida dos touros do Bitcoin, Stellar, Sei e Celestia em outubro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e4ab05ba0bc81:0",
-      "index": 12,
-      "title": "Chainlink integra-se ao Swift para permitir que fundos processem transações on-chain",
-      "link": "https://br.tradingview.com/news/cointelegraph:e4ab05ba0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-01T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Oct 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de out. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Chainlink integra-se ao Swift para permitir que fundos processem transações on-chain\" data-qa-id=\"news-headline-title\">Chainlink integra-se ao Swift para permitir que fundos processem transações on-chain</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:15eee6e54bc81:0",
-      "index": 13,
-      "title": "Financio meu estilo de vida com Bitcoin, não com o Telegram, afirma Pavel Durov",
-      "link": "https://br.tradingview.com/news/cointelegraph:15eee6e54bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-01T13:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Oct 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de out. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Financio meu estilo de vida com Bitcoin, não com o Telegram, afirma Pavel Durov\" data-qa-id=\"news-headline-title\">Financio meu estilo de vida com Bitcoin, não com o Telegram, afirma Pavel Durov</div></div></article>"
     }
   ]
 }
