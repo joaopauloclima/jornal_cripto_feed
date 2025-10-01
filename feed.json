@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-01T14:56:32.400Z",
+  "updated_at": "2025-10-01T15:18:25.040Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7de9177e8bc81:0",
+      "id": "cointelegraph:dc6308dc3bc81:0",
       "index": 0,
+      "title": "Pix ganha ‘botão de contestação’ contra golpistas",
+      "link": "https://br.tradingview.com/news/cointelegraph:dc6308dc3bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-01T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pix ganha ‘botão de contestação’ contra golpistas\" data-qa-id=\"news-headline-title\">Pix ganha ‘botão de contestação’ contra golpistas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7de9177e8bc81:0",
+      "index": 1,
       "title": "Agentes de IA precisam de cripto para operar nos mercados financeiros, afirma executivo da Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:7de9177e8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fff97c28bbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Especialistas apontam alvo da corrida dos touros do Bitcoin, Stellar, Sei e Celestia em outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:fff97c28bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e4ab05ba0bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Chainlink integra-se ao Swift para permitir que fundos processem transações on-chain",
       "link": "https://br.tradingview.com/news/cointelegraph:e4ab05ba0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:15eee6e54bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Financio meu estilo de vida com Bitcoin, não com o Telegram, afirma Pavel Durov",
       "link": "https://br.tradingview.com/news/cointelegraph:15eee6e54bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:ce1cbe5febc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Chinesa admite fraude histórica com Bitcoin no Reino Unido",
       "link": "https://br.tradingview.com/news/beincrypto:ce1cbe5febc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c82978622bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Republicanos da Câmara dos EUA investigam textos apagados de Gary Gensler",
       "link": "https://br.tradingview.com/news/cointelegraph:c82978622bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c00602340bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Nova ferramenta da Stripe pode criar stablecoins 'com apenas algumas linhas de código'",
       "link": "https://br.tradingview.com/news/cointelegraph:c00602340bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:112952742bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Visão de traders profissionais sobre o flash crash recente do BTC para US$ 112,6 mil: algo mudou?",
       "link": "https://br.tradingview.com/news/cointelegraph:112952742bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:16d377f03bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "O Uptober voltou: será que o Bitcoin vai disparar neste ciclo de 4 anos?",
       "link": "https://br.tradingview.com/news/beincrypto:16d377f03bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:85152aec5bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Criptomoedas ignoram shutdown e sobem até 80% com o Bitcoin acima de US$ 116 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:85152aec5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:4fb5856cebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Solana em guerra: investidores divididos podem derrubar o preço?",
       "link": "https://br.tradingview.com/news/beincrypto:4fb5856cebc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:aa7c0dafdbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Cofundador da Tether faz a pior doação cripto do ano",
       "link": "https://br.tradingview.com/news/beincrypto:aa7c0dafdbc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:99a718cb1bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Nubank mira mercado cripto dos EUA em plano de expansão com Roberto Campos Neto na liderança do conselho",
       "link": "https://br.tradingview.com/news/cointelegraph:99a718cb1bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Oct 2025 10:49:22 GMT\" class=\"apply-common-tooltip\" title=\"1 de out. de 2025, 10:49 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nubank mira mercado cripto dos EUA em plano de expansão com Roberto Campos Neto na liderança do conselho\" data-qa-id=\"news-headline-title\">Nubank mira mercado cripto dos EUA em plano de expansão com Roberto Campos Neto na liderança do conselho</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b779b3d47bc81:0",
-      "index": 13,
-      "title": "Preço do Bitcoin hoje, 01/10/2025: Por que o preço do BTC subiu hoje? Touros rompem US$ 116 mil com shutdown nos EUA",
-      "link": "https://br.tradingview.com/news/cointelegraph:b779b3d47bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-01T10:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Oct 2025 10:30:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de out. de 2025, 10:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 01/10/2025: Por que o preço do BTC subiu hoje? Touros rompem US$ 116 mil com shutdown nos EUA\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 01/10/2025: Por que o preço do BTC subiu hoje? Touros rompem US$ 116 mil com shutdown nos EUA</div></div></article>"
     }
   ]
 }
