@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-02T18:25:00.294Z",
+  "updated_at": "2025-10-02T18:54:43.363Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d648d4393bc81:0",
+      "id": "cointelegraph:f7dd6dc96bc81:0",
       "index": 0,
+      "title": "Touros do Bitcoin avançam para US$ 120.000 e traders preveem nova máxima histórica",
+      "link": "https://br.tradingview.com/news/cointelegraph:f7dd6dc96bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-02T18:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 02 Oct 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de out. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Touros do Bitcoin avançam para US$ 120.000 e traders preveem nova máxima histórica\" data-qa-id=\"news-headline-title\">Touros do Bitcoin avançam para US$ 120.000 e traders preveem nova máxima histórica</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d648d4393bc81:0",
+      "index": 1,
       "title": "'Fim do duopólio das stablecoins' à medida que a dominância de USDT e USDC cai para 84%",
       "link": "https://br.tradingview.com/news/cointelegraph:d648d4393bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f217bd1c1bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Reino Unido avalia se vítimas de fraude da China devem receber o valor atual dos 61.000 Bitcoins apreendidos",
       "link": "https://br.tradingview.com/news/cointelegraph:f217bd1c1bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:71f400303bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "BNB, Solana e Dogecoin podem subir ainda mais em outubro?",
       "link": "https://br.tradingview.com/news/cointelegraph:71f400303bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:795309417bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "6 criptomoedas com risco de queda pelo despejo de até US$ 108 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:795309417bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:a88458b87bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Pavel Durov aposta alto no Bitcoin: CEO do Telegram prevê futuro de US$ 1 milhão",
       "link": "https://br.tradingview.com/news/beincrypto:a88458b87bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:03fe671eebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "10 criptomoedas mais procuradas do Brasil em alta de até 2.000% para ficar de olho em 'Uptober'",
       "link": "https://br.tradingview.com/news/cointelegraph:03fe671eebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:24a00e77dbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Melania Trump promove memecoin em meio a alegações de venda de US$ 10 milhões pela equipe",
       "link": "https://br.tradingview.com/news/cointelegraph:24a00e77dbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:665f2d2a3bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Próximo movimento 'explosivo' do Bitcoin mira US$ 145 mil, aponta análise",
       "link": "https://br.tradingview.com/news/cointelegraph:665f2d2a3bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:df1fbda42bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "OpenAI atinge US$ 500 bilhões em valuation, superando a SpaceX como maior startup do mundo",
       "link": "https://br.tradingview.com/news/cointelegraph:df1fbda42bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:67466ef65bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin a US$ 120 mil pode levar a movimento 'muito rápido' até US$ 150 mil, afirma Charles Edwards",
       "link": "https://br.tradingview.com/news/cointelegraph:67466ef65bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:03026e48dbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Solana dispara e surpreende: será que a alta virou armadilha para os ursos?",
       "link": "https://br.tradingview.com/news/beincrypto:03026e48dbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ca1a57bf8bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin atinge US$ 119,5 mil, mas RSI alerta para possível correção no preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:ca1a57bf8bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c8bfb4136bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preço do XRP: Por que outubro será o mês mais otimista de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:c8bfb4136bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 02 Oct 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de out. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do XRP: Por que outubro será o mês mais otimista de 2025\" data-qa-id=\"news-headline-title\">Preço do XRP: Por que outubro será o mês mais otimista de 2025</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:82bf45e48bc81:0",
-      "index": 13,
-      "title": "Bitcoin pode esticar alta até US$ 130 mil, apontam análises",
-      "link": "https://br.tradingview.com/news/cointelegraph:82bf45e48bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-02T14:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 02 Oct 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de out. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode esticar alta até US$ 130 mil, apontam análises\" data-qa-id=\"news-headline-title\">Bitcoin pode esticar alta até US$ 130 mil, apontam análises</div></div></article>"
     }
   ]
 }
