@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-03T20:53:39.162Z",
+  "updated_at": "2025-10-03T21:16:40.228Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:68f2a3cccbc81:0",
+      "id": "cointelegraph:90f904cb4bc81:0",
       "index": 0,
+      "title": "Fluxos de ETP de Solana superam US$ 500 milhões e juros em aberto nos futuros da CME disparam: SOL pode alcançar novas máximas?",
+      "link": "https://br.tradingview.com/news/cointelegraph:90f904cb4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-03T21:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fluxos de ETP de Solana superam US$ 500 milhões e juros em aberto nos futuros da CME disparam: SOL pode alcançar novas máximas?\" data-qa-id=\"news-headline-title\">Fluxos de ETP de Solana superam US$ 500 milhões e juros em aberto nos futuros da CME disparam: SOL pode alcançar novas máximas?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5428add9bbc81:0",
+      "index": 1,
+      "title": "Bruxas do Etsy aparentemente podem transformá-lo em milionário cripto por US$ 73",
+      "link": "https://br.tradingview.com/news/cointelegraph:5428add9bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-03T20:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bruxas do Etsy aparentemente podem transformá-lo em milionário cripto por US$ 73\" data-qa-id=\"news-headline-title\">Bruxas do Etsy aparentemente podem transformá-lo em milionário cripto por US$ 73</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:68f2a3cccbc81:0",
+      "index": 2,
       "title": "Análise de preços em 03/10: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e SUI",
       "link": "https://br.tradingview.com/news/cointelegraph:68f2a3cccbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:24d391f10bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin pode enfrentar squeeze após recorde de US$ 88 bilhões em juros em aberto levantar temores de 'flush'",
       "link": "https://br.tradingview.com/news/cointelegraph:24d391f10bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:929f517b5bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Samsung amplia integração com a Coinbase com compras diretas de cripto no Samsung Wallet",
       "link": "https://br.tradingview.com/news/cointelegraph:929f517b5bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:41484f4a8bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Aplicativo bancário OnePay, do Walmart, adicionará negociação de Bitcoin e Ether ainda este ano, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:41484f4a8bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:efee4fb72bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Stablecoins ultrapassam US$ 300 bilhões em valor de mercado com crescimento de 47% no acumulado do ano",
       "link": "https://br.tradingview.com/news/cointelegraph:efee4fb72bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:31927ff00bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Próxima aposta de Wall Street em cripto pode ser empresas prontas para IPO, não altcoins",
       "link": "https://br.tradingview.com/news/cointelegraph:31927ff00bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:efd171c44bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Reino Unido retoma pressão por backdoor no iCloud da Apple e ameaça a segurança de carteiras cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:efd171c44bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e26cf3748bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "É possível alterar o limite fixo de 21 milhões do Bitcoin?",
       "link": "https://br.tradingview.com/news/cointelegraph:e26cf3748bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:00d843688bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Nomura avança para capturar o crescente mercado institucional de cripto no Japão",
       "link": "https://br.tradingview.com/news/cointelegraph:00d843688bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:08437ec8fbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "BNB dispara para novo recorde histórico e tokens ligados a CZ seguem em alta",
       "link": "https://br.tradingview.com/news/beincrypto:08437ec8fbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:fc6a7ac3cbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Perdas em hacks de criptomoedas recuam 37% no 3º trimestre com mudança de táticas para carteiras",
       "link": "https://br.tradingview.com/news/cointelegraph:fc6a7ac3cbc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Perdas em hacks de criptomoedas recuam 37% no 3º trimestre com mudança de táticas para carteiras\" data-qa-id=\"news-headline-title\">Perdas em hacks de criptomoedas recuam 37% no 3º trimestre com mudança de táticas para carteiras</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8da282989bc81:0",
-      "index": 11,
-      "title": "Touros forçam nova máxima histórica do Bitcoin enquanto ursos preparam ataque",
-      "link": "https://br.tradingview.com/news/cointelegraph:8da282989bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-03T16:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Touros forçam nova máxima histórica do Bitcoin enquanto ursos preparam ataque\" data-qa-id=\"news-headline-title\">Touros forçam nova máxima histórica do Bitcoin enquanto ursos preparam ataque</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f5c1fe6abbc81:0",
-      "index": 12,
-      "title": "Preço do XRP recupera US$ 3, abrindo caminho para ganhos de 40% em outubro",
-      "link": "https://br.tradingview.com/news/cointelegraph:f5c1fe6abbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-03T16:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 16:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 16:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do XRP recupera US$ 3, abrindo caminho para ganhos de 40% em outubro\" data-qa-id=\"news-headline-title\">Preço do XRP recupera US$ 3, abrindo caminho para ganhos de 40% em outubro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:478e3d019bc81:0",
-      "index": 13,
-      "title": "Que gap de US$ 110 mil? Futuros de Bitcoin estão ‘agressivamente comprados’ com o retorno das baleias",
-      "link": "https://br.tradingview.com/news/cointelegraph:478e3d019bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-03T15:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 15:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 15:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Que gap de US$ 110 mil? Futuros de Bitcoin estão ‘agressivamente comprados’ com o retorno das baleias\" data-qa-id=\"news-headline-title\">Que gap de US$ 110 mil? Futuros de Bitcoin estão ‘agressivamente comprados’ com o retorno das baleias</div></div></article>"
     }
   ]
 }
