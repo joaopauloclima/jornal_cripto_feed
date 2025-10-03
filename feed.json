@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-03T17:53:43.214Z",
+  "updated_at": "2025-10-03T18:24:36.058Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:fc6a7ac3cbc81:0",
+      "id": "cointelegraph:e26cf3748bc81:0",
       "index": 0,
+      "title": "É possível alterar o limite fixo de 21 milhões do Bitcoin?",
+      "link": "https://br.tradingview.com/news/cointelegraph:e26cf3748bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-03T18:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"É possível alterar o limite fixo de 21 milhões do Bitcoin?\" data-qa-id=\"news-headline-title\">É possível alterar o limite fixo de 21 milhões do Bitcoin?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:00d843688bc81:0",
+      "index": 1,
+      "title": "Nomura avança para capturar o crescente mercado institucional de cripto no Japão",
+      "link": "https://br.tradingview.com/news/cointelegraph:00d843688bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-03T17:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nomura avança para capturar o crescente mercado institucional de cripto no Japão\" data-qa-id=\"news-headline-title\">Nomura avança para capturar o crescente mercado institucional de cripto no Japão</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fc6a7ac3cbc81:0",
+      "index": 2,
       "title": "Perdas em hacks de criptomoedas recuam 37% no 3º trimestre com mudança de táticas para carteiras",
       "link": "https://br.tradingview.com/news/cointelegraph:fc6a7ac3cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:8da282989bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Touros forçam nova máxima histórica do Bitcoin enquanto ursos preparam ataque",
       "link": "https://br.tradingview.com/news/cointelegraph:8da282989bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f5c1fe6abbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Preço do XRP recupera US$ 3, abrindo caminho para ganhos de 40% em outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:f5c1fe6abbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:478e3d019bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Que gap de US$ 110 mil? Futuros de Bitcoin estão ‘agressivamente comprados’ com o retorno das baleias",
       "link": "https://br.tradingview.com/news/cointelegraph:478e3d019bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6f30ea035bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Solana e Sei buscam prolongar alta até 200%, diz especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:6f30ea035bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c5e577b96bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Todas as moedas serão stablecoins até 2030, afirma cofundador da Tether",
       "link": "https://br.tradingview.com/news/cointelegraph:c5e577b96bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e9a30906fbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "BNB atinge nova máxima histórica em US$ 1.111 com métricas de usuários em alta",
       "link": "https://br.tradingview.com/news/cointelegraph:e9a30906fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:0736ed1d2bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Valor do Bitcoin da Strategy dispara para recorde de US$ 77,4 bilhões com BTC a US$ 120 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:0736ed1d2bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:99a45154cbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Falha no Unity para Android pode drenar carteiras cripto de gamers: como se proteger",
       "link": "https://br.tradingview.com/news/cointelegraph:99a45154cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:d0c55c528bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Previsão Bitcoin (BTC): preço em US$ 120 mil abre caminho para novo recorde histórico?",
       "link": "https://br.tradingview.com/news/beincrypto:d0c55c528bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e9943a154bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Kodigos, ClickSign e Stefanini anunciam novas vagas de emprego",
       "link": "https://br.tradingview.com/news/cointelegraph:e9943a154bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:1360956fdbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Joe Lubin confirma que a SWIFT está usando a Linea para construir seu novo sistema de pagamentos",
       "link": "https://br.tradingview.com/news/cointelegraph:1360956fdbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Joe Lubin confirma que a SWIFT está usando a Linea para construir seu novo sistema de pagamentos\" data-qa-id=\"news-headline-title\">Joe Lubin confirma que a SWIFT está usando a Linea para construir seu novo sistema de pagamentos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:cea63d083bc81:0",
-      "index": 12,
-      "title": "Fundação Near está desenvolvendo um 'gêmeo digital' de IA para votos de governança",
-      "link": "https://br.tradingview.com/news/cointelegraph:cea63d083bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-03T13:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundação Near está desenvolvendo um 'gêmeo digital' de IA para votos de governança\" data-qa-id=\"news-headline-title\">Fundação Near está desenvolvendo um 'gêmeo digital' de IA para votos de governança</div></div></article>"
-    },
-    {
-      "id": "beincrypto:7663b04c3bc81:0",
-      "index": 13,
-      "title": "Análise semanal cripto: Bitcoin, Ethereum, XRP, Solana e Cardano",
-      "link": "https://br.tradingview.com/news/beincrypto:7663b04c3bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-03T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 03 Oct 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de out. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise semanal cripto: Bitcoin, Ethereum, XRP, Solana e Cardano\" data-qa-id=\"news-headline-title\">Análise semanal cripto: Bitcoin, Ethereum, XRP, Solana e Cardano</div></div></article>"
     }
   ]
 }
