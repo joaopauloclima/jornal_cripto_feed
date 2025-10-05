@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-05T20:53:50.091Z",
+  "updated_at": "2025-10-05T21:16:21.282Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:55ad115e0bc81:0",
+      "id": "cointelegraph:944f84316bc81:0",
       "index": 0,
+      "title": "Trader de cripto transforma US$ 3.000 em US$ 2 milhões após publicação de CZ fazer memecoin disparar",
+      "link": "https://br.tradingview.com/news/cointelegraph:944f84316bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-05T21:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 05 Oct 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de out. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trader de cripto transforma US$ 3.000 em US$ 2 milhões após publicação de CZ fazer memecoin disparar\" data-qa-id=\"news-headline-title\">Trader de cripto transforma US$ 3.000 em US$ 2 milhões após publicação de CZ fazer memecoin disparar</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:55ad115e0bc81:0",
+      "index": 1,
       "title": "Bitcoin dispara para US$ 125.000 enquanto saldo nas exchanges atinge menor nível em seis anos",
       "link": "https://br.tradingview.com/news/cointelegraph:55ad115e0bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:54afdc6cfbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Executivo da Bitwise prevê que a Solana se tornará a rede de stablecoins preferida de Wall Street",
       "link": "https://br.tradingview.com/news/cointelegraph:54afdc6cfbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3303f072fbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Stablecoins vão forçar 'todos' a compartilhar rendimentos, diz CEO da Stripe",
       "link": "https://br.tradingview.com/news/cointelegraph:3303f072fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d0d21b1d3bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Receitas das redes blockchain caíram 16% em setembro, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:d0d21b1d3bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:50be929b7bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Alta do mercado de stablecoins para US$ 300 bilhões é 'combustível de foguete' para a alta das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:50be929b7bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e3f8e7656bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "XRP cai abaixo de US$ 3: até onde o preço pode recuar?",
       "link": "https://br.tradingview.com/news/cointelegraph:e3f8e7656bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e900fbe4dbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bankman-Fried diz que seu maior erro foi entregar a FTX ao novo CEO antes da falência",
       "link": "https://br.tradingview.com/news/cointelegraph:e900fbe4dbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:10f58a0dfbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "XRP sofre rejeição significativa de grandes investidores: o que isso significa?",
       "link": "https://br.tradingview.com/news/beincrypto:10f58a0dfbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:52469f7e5bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin atinge nova máxima histórica acima de US$ 125 mil, superando recorde de agosto",
       "link": "https://br.tradingview.com/news/beincrypto:52469f7e5bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8f62a0c2dbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "ETFs de Bitcoin impulsionam o 'Uptober' com US$ 3,2 bilhões na segunda melhor semana da história",
       "link": "https://br.tradingview.com/news/cointelegraph:8f62a0c2dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d1cbcf7dcbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "JPMorgan e Citi preveem boom do Bitcoin no quarto trimestre: veja suas metas de preço",
       "link": "https://br.tradingview.com/news/cointelegraph:d1cbcf7dcbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:84511926abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "VCs de cripto estão 'muito mais cautelosos' e não seguem qualquer narrativa, afirma executiva",
       "link": "https://br.tradingview.com/news/cointelegraph:84511926abc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:0b18c3160bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "'Muito provável' que o ciclo do Bitcoin continue de alguma forma, diz executivo da Gemini",
       "link": "https://br.tradingview.com/news/cointelegraph:0b18c3160bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 04 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Muito provável' que o ciclo do Bitcoin continue de alguma forma, diz executivo da Gemini\" data-qa-id=\"news-headline-title\">'Muito provável' que o ciclo do Bitcoin continue de alguma forma, diz executivo da Gemini</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:58d3d22eebc81:0",
-      "index": 13,
-      "title": "Coinbase busca licença de Companhia Fiduciária Nacional — mas não a chame de banco",
-      "link": "https://br.tradingview.com/news/cointelegraph:58d3d22eebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-04T17:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 04 Oct 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de out. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase busca licença de Companhia Fiduciária Nacional — mas não a chame de banco\" data-qa-id=\"news-headline-title\">Coinbase busca licença de Companhia Fiduciária Nacional — mas não a chame de banco</div></div></article>"
     }
   ]
 }
