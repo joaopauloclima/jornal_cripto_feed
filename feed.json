@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-06T19:53:50.982Z",
+  "updated_at": "2025-10-06T20:20:24.388Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f56d5e7a0bc81:0",
+      "id": "cointelegraph:5403270f1bc81:0",
       "index": 0,
+      "title": "Como a Pump.fun conquistou 80% das memecoins da Solana, e isso pode durar?",
+      "link": "https://br.tradingview.com/news/cointelegraph:5403270f1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-06T20:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Como a Pump.fun conquistou 80% das memecoins da Solana, e isso pode durar?\" data-qa-id=\"news-headline-title\">Como a Pump.fun conquistou 80% das memecoins da Solana, e isso pode durar?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f56d5e7a0bc81:0",
+      "index": 1,
       "title": "Solana pode superar o Ether caso os ETFs sejam aprovados?",
       "link": "https://br.tradingview.com/news/cointelegraph:f56d5e7a0bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:03aeb0527bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "União Europeia estuda colocar supervisão das criptomoedas sob a ESMA para acabar com fiscalização fragmentada",
       "link": "https://br.tradingview.com/news/cointelegraph:03aeb0527bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e6ccaadd7bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Saylor interrompe compras de Bitcoin após ganho de US$ 3,9 bilhões no terceiro trimestre",
       "link": "https://br.tradingview.com/news/cointelegraph:e6ccaadd7bc81:0/",
       "source": "Cointelegraph",
@@ -36,8 +47,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Saylor interrompe compras de Bitcoin após ganho de US$ 3,9 bilhões no terceiro trimestre\" data-qa-id=\"news-headline-title\">Saylor interrompe compras de Bitcoin após ganho de US$ 3,9 bilhões no terceiro trimestre</div></div></article>"
     },
     {
+      "id": "beincrypto:55f21b625bc81:0",
+      "index": 4,
+      "title": "Solana recua até US$ 224, mas padrão aponta alta",
+      "link": "https://br.tradingview.com/news/beincrypto:55f21b625bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-10-06T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana recua até US$ 224, mas padrão aponta alta\" data-qa-id=\"news-headline-title\">Solana recua até US$ 224, mas padrão aponta alta</div></div></article>"
+    },
+    {
       "id": "cointelegraph:ad0e45b36bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Stablecoin sancionada A7A5 se torna a maior não lastreada no dólar, apontam dados",
       "link": "https://br.tradingview.com/news/cointelegraph:ad0e45b36bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:41d00528cbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Alta de 250% em ações de mineração de Bitcoin sorte ou informação?",
       "link": "https://br.tradingview.com/news/beincrypto:41d00528cbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:61813096bbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Grayscale lança staking para ETPs de Ethereum e Solana em estreia nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:61813096bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e4c2a8cabbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Standard Chartered diz que US$ 1 trilhão pode sair de bancos de mercados emergentes para stablecoins até 2028",
       "link": "https://br.tradingview.com/news/cointelegraph:e4c2a8cabbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:7221323b7bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Fundos de criptomoedas batem recorde com entradas de US$ 5,95 bilhões em meio a preocupações com a paralisação do governo dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:7221323b7bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8d83dc290bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Nova primeira-ministra do Japão pode beneficiar ativos de risco e mercados de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:8d83dc290bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:0566783cabc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Galaxy de Mike Novogratz lança a GalaxyOne e oferece rendimentos de 4% sobre dinheiro",
       "link": "https://br.tradingview.com/news/cointelegraph:0566783cabc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:a88458b87bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "CEO do Telegram prevê alta impressionante do Bitcoin, entenda",
       "link": "https://br.tradingview.com/news/beincrypto:a88458b87bc81:0/",
       "source": "Beincrypto",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO do Telegram prevê alta impressionante do Bitcoin, entenda\" data-qa-id=\"news-headline-title\">CEO do Telegram prevê alta impressionante do Bitcoin, entenda</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:28915a756bc81:0",
-      "index": 11,
-      "title": "Criptomoedas demonstram resiliência no Brasil, mostra relatório",
-      "link": "https://br.tradingview.com/news/cointelegraph:28915a756bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-06T16:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas demonstram resiliência no Brasil, mostra relatório\" data-qa-id=\"news-headline-title\">Criptomoedas demonstram resiliência no Brasil, mostra relatório</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:aee64f03cbc81:0",
-      "index": 12,
-      "title": "Probabilidade de rompimento do preço do BTC em outubro é baixa: 5 coisas para saber sobre o Bitcoin nesta semana",
-      "link": "https://br.tradingview.com/news/cointelegraph:aee64f03cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-06T16:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Probabilidade de rompimento do preço do BTC em outubro é baixa: 5 coisas para saber sobre o Bitcoin nesta semana\" data-qa-id=\"news-headline-title\">Probabilidade de rompimento do preço do BTC em outubro é baixa: 5 coisas para saber sobre o Bitcoin nesta semana</div></div></article>"
     }
   ]
 }
