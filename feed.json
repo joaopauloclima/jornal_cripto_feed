@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-06T16:57:20.794Z",
+  "updated_at": "2025-10-06T17:18:20.115Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:28915a756bc81:0",
+      "id": "cointelegraph:0566783cabc81:0",
       "index": 0,
+      "title": "Galaxy de Mike Novogratz lança a GalaxyOne e oferece rendimentos de 4% sobre dinheiro",
+      "link": "https://br.tradingview.com/news/cointelegraph:0566783cabc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-06T17:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Galaxy de Mike Novogratz lança a GalaxyOne e oferece rendimentos de 4% sobre dinheiro\" data-qa-id=\"news-headline-title\">Galaxy de Mike Novogratz lança a GalaxyOne e oferece rendimentos de 4% sobre dinheiro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:28915a756bc81:0",
+      "index": 1,
       "title": "Criptomoedas demonstram resiliência no Brasil, mostra relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:28915a756bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:aee64f03cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Probabilidade de rompimento do preço do BTC em outubro é baixa: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:aee64f03cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:89873cbe3bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin deve manter US$ 120 mil no retrovisor, sugerem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:89873cbe3bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:55b017eb5bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin está superando as principais memecoins em 2025: DOGE e TRUMP podem se recuperar no quarto trimestre?",
       "link": "https://br.tradingview.com/news/cointelegraph:55b017eb5bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:484287228bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Resposta de Elon Musk às 'falsidades' — Grokipedia será lançada em duas semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:484287228bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4d1f0b364bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Empresas gastam US$ 1,2 bilhão em Bitcoin na última semana, mas ETFs roubaram a cena",
       "link": "https://br.tradingview.com/news/cointelegraph:4d1f0b364bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:002767e36bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Cardano disputa entre baleias e varejo pode levar preço a romper US$ 0,89",
       "link": "https://br.tradingview.com/news/beincrypto:002767e36bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f580a477bbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Tokenização no Brasil: chegou a hora de trocar o chassi e acelerar a inovação",
       "link": "https://br.tradingview.com/news/cointelegraph:f580a477bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:921763531bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Unity corrige falha em jogos Android e afirma não haver evidências de exploração",
       "link": "https://br.tradingview.com/news/cointelegraph:921763531bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:13f739acabc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin 'vai disparar' para a próxima perna em US$ 150 mil, dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:13f739acabc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:bd462b0b2bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Dívida nacional dos EUA cresce incríveis US$ 6 bilhões por dia",
       "link": "https://br.tradingview.com/news/cointelegraph:bd462b0b2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:48a642571bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin, ouro e ações sobem juntos e investidores ligam o alerta",
       "link": "https://br.tradingview.com/news/beincrypto:48a642571bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:231959d9ebc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Warren Buffett ama o S&P 500, mas o índice caiu 88% em relação ao Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:231959d9ebc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Warren Buffett ama o S&amp;P 500, mas o índice caiu 88% em relação ao Bitcoin\" data-qa-id=\"news-headline-title\">Warren Buffett ama o S&amp;P 500, mas o índice caiu 88% em relação ao Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:a51a69daabc81:0",
-      "index": 13,
-      "title": "Brasil investe R$ 25,6 milhões em semana recorde dos fundos de criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:a51a69daabc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-06T13:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil investe R$ 25,6 milhões em semana recorde dos fundos de criptomoedas\" data-qa-id=\"news-headline-title\">Brasil investe R$ 25,6 milhões em semana recorde dos fundos de criptomoedas</div></div></article>"
     }
   ]
 }
