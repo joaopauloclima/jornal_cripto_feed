@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-06T18:26:05.664Z",
+  "updated_at": "2025-10-06T18:57:31.219Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:61813096bbc81:0",
+      "id": "cointelegraph:ad0e45b36bc81:0",
       "index": 0,
+      "title": "Stablecoin sancionada A7A5 se torna a maior não lastreada no dólar, apontam dados",
+      "link": "https://br.tradingview.com/news/cointelegraph:ad0e45b36bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-06T18:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stablecoin sancionada A7A5 se torna a maior não lastreada no dólar, apontam dados\" data-qa-id=\"news-headline-title\">Stablecoin sancionada A7A5 se torna a maior não lastreada no dólar, apontam dados</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:61813096bbc81:0",
+      "index": 1,
       "title": "Grayscale lança staking para ETPs de Ethereum e Solana em estreia nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:61813096bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:e4c2a8cabbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Standard Chartered diz que US$ 1 trilhão pode sair de bancos de mercados emergentes para stablecoins até 2028",
       "link": "https://br.tradingview.com/news/cointelegraph:e4c2a8cabbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:7221323b7bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Fundos de criptomoedas batem recorde com entradas de US$ 5,95 bilhões em meio a preocupações com a paralisação do governo dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:7221323b7bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8d83dc290bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Nova primeira-ministra do Japão pode beneficiar ativos de risco e mercados de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:8d83dc290bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:0566783cabc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Galaxy de Mike Novogratz lança a GalaxyOne e oferece rendimentos de 4% sobre dinheiro",
       "link": "https://br.tradingview.com/news/cointelegraph:0566783cabc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:a88458b87bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "CEO do Telegram prevê alta impressionante do Bitcoin, entenda",
       "link": "https://br.tradingview.com/news/beincrypto:a88458b87bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:28915a756bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Criptomoedas demonstram resiliência no Brasil, mostra relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:28915a756bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:aee64f03cbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Probabilidade de rompimento do preço do BTC em outubro é baixa: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:aee64f03cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:89873cbe3bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin deve manter US$ 120 mil no retrovisor, sugerem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:89873cbe3bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:55b017eb5bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin está superando as principais memecoins em 2025: DOGE e TRUMP podem se recuperar no quarto trimestre?",
       "link": "https://br.tradingview.com/news/cointelegraph:55b017eb5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:484287228bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Resposta de Elon Musk às 'falsidades' — Grokipedia será lançada em duas semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:484287228bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:4d1f0b364bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Empresas gastam US$ 1,2 bilhão em Bitcoin na última semana, mas ETFs roubaram a cena",
       "link": "https://br.tradingview.com/news/cointelegraph:4d1f0b364bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:002767e36bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Cardano disputa entre baleias e varejo pode levar preço a romper US$ 0,89",
       "link": "https://br.tradingview.com/news/beincrypto:002767e36bc81:0/",
       "source": "Beincrypto",
