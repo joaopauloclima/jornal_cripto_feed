@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-06T13:55:37.012Z",
+  "updated_at": "2025-10-06T14:19:34.286Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:231959d9ebc81:0",
+      "id": "cointelegraph:bd462b0b2bc81:0",
       "index": 0,
+      "title": "Dívida nacional dos EUA cresce incríveis US$ 6 bilhões por dia",
+      "link": "https://br.tradingview.com/news/cointelegraph:bd462b0b2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-06T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Dívida nacional dos EUA cresce incríveis US$ 6 bilhões por dia\" data-qa-id=\"news-headline-title\">Dívida nacional dos EUA cresce incríveis US$ 6 bilhões por dia</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:231959d9ebc81:0",
+      "index": 1,
       "title": "Warren Buffett ama o S&P 500, mas o índice caiu 88% em relação ao Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:231959d9ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:a51a69daabc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Brasil investe R$ 25,6 milhões em semana recorde dos fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:a51a69daabc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:239378ef0bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Lei GENIUS pode marcar o fim do 'roubo bancário', diz executivo da Multicoin",
       "link": "https://br.tradingview.com/news/cointelegraph:239378ef0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:cbcce6582bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Análise XRP: venda de US$ 950 mi trava nova alta?",
       "link": "https://br.tradingview.com/news/beincrypto:cbcce6582bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ccdbb7b38bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Morgan Stanley recomenda alocação 'conservadora' em cripto para alguns portfólios",
       "link": "https://br.tradingview.com/news/cointelegraph:ccdbb7b38bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:8186e99f2bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Por que o mercado de criptomoedas está em alta hoje 06/10/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:8186e99f2bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7828a179cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "DefiLlama vai remover dados de volume perpétuo da Aster por preocupações com integridade",
       "link": "https://br.tradingview.com/news/cointelegraph:7828a179cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6a8d7d86dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin atinge nova máxima histórica enquanto o dólar caminha para o pior ano desde 1973, dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:6a8d7d86dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:7cce9c4efbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin em alta histórica, mas sem base sólida: será o fim do rali?",
       "link": "https://br.tradingview.com/news/beincrypto:7cce9c4efbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:05793ff9bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Criptomoedas prolongam rali em até 1.200% com nova máxima histórica do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:05793ff9bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:0252bcdf0bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Real, a moeda do Brasil, sofre de 'transtorno de inflação' e precisa fazer terapia', aponta campanha da Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:0252bcdf0bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:dc253bc07bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Carrefour agora aceita pagamentos em Bitcoin usando a Lightning Network",
       "link": "https://br.tradingview.com/news/cointelegraph:dc253bc07bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:6a2ca2551bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Netspaces adquire startup para expandir mercado de tokenização imobiliária em mais de 200 cidades do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:6a2ca2551bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 10:54:11 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 10:54 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Netspaces adquire startup para expandir mercado de tokenização imobiliária em mais de 200 cidades do Brasil\" data-qa-id=\"news-headline-title\">Netspaces adquire startup para expandir mercado de tokenização imobiliária em mais de 200 cidades do Brasil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:357d38d61bc81:0",
-      "index": 13,
-      "title": "Preço do Bitcoin hoje, 06/10/2025: BTC atinge nova máxima história em US$ 125.653 e abre caminho para US$ 130 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:357d38d61bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-06T10:02:47.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 10:02:47 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 10:02 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 06/10/2025: BTC atinge nova máxima história em US$ 125.653 e abre caminho para US$ 130 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 06/10/2025: BTC atinge nova máxima história em US$ 125.653 e abre caminho para US$ 130 mil</div></div></article>"
     }
   ]
 }
