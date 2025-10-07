@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-07T19:16:11.977Z",
+  "updated_at": "2025-10-07T19:53:54.162Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:5ea41d948bc81:0",
+      "id": "cointelegraph:c60b1690dbc81:0",
       "index": 0,
+      "title": "Lucros não realizados da SharpLink em Ether se aproximam de US$ 1 bilhão com alta do ETH",
+      "link": "https://br.tradingview.com/news/cointelegraph:c60b1690dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-07T19:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Lucros não realizados da SharpLink em Ether se aproximam de US$ 1 bilhão com alta do ETH\" data-qa-id=\"news-headline-title\">Lucros não realizados da SharpLink em Ether se aproximam de US$ 1 bilhão com alta do ETH</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c6b53c7febc81:0",
+      "index": 1,
+      "title": "Ações da Streamex disparam 20% com o lançamento da pré-venda de stablecoin lastreada em ouro",
+      "link": "https://br.tradingview.com/news/cointelegraph:c6b53c7febc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-07T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações da Streamex disparam 20% com o lançamento da pré-venda de stablecoin lastreada em ouro\" data-qa-id=\"news-headline-title\">Ações da Streamex disparam 20% com o lançamento da pré-venda de stablecoin lastreada em ouro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5ea41d948bc81:0",
+      "index": 2,
       "title": "XRP registra maior 'FUD de varejo' desde as tarifas de Trump: uma grande venda vem a seguir?",
       "link": "https://br.tradingview.com/news/cointelegraph:5ea41d948bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:fe1e3b1adbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Breez lança Time2Build para impulsionar o desenvolvimento do Bitcoin Lightning",
       "link": "https://br.tradingview.com/news/cointelegraph:fe1e3b1adbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d012c2f2fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "União Europeia avalia aplicar sanções à stablecoin A7A5 lastreada em rublo, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:d012c2f2fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:af51e146abc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin segue em forte 'movimento de alta' e estes são os principais níveis de preço a observar",
       "link": "https://br.tradingview.com/news/cointelegraph:af51e146abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:21b271e69bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Criptobanco brasileiro quer distribuir R$ 7 milhões a artistas até 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:21b271e69bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:1f5bb8430bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Empresa de IA listada na Nasdaq compra a SmartPay",
       "link": "https://br.tradingview.com/news/cointelegraph:1f5bb8430bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5ef39a310bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Discussão sobre estímulo encontra impasse: o que cheques financiados por tarifas podem significar para cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:5ef39a310bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:973815923bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Exclusão da Aster expõe a crescente crise de integridade no DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:973815923bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:d5d1fa424bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "OranjeBTC estreia na B3 com maior tesouraria de Bitcoin da América Latina",
       "link": "https://br.tradingview.com/news/beincrypto:d5d1fa424bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:624147c80bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "BNY explora depósitos tokenizados para movimentar US$ 2,5 trilhões em pagamentos diários, afirma Bloomberg",
       "link": "https://br.tradingview.com/news/cointelegraph:624147c80bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a6e7911dcbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Trader de Bitcoin chama US$ 124 mil de 'ponto crucial' enquanto o BTC recua após nova máxima histórica",
       "link": "https://br.tradingview.com/news/cointelegraph:a6e7911dcbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:68e22df5abc81:0",
-      "index": 11,
+      "index": 13,
       "title": "XRP enfrenta pessimismo extremo, mas alta pode estar próxima",
       "link": "https://br.tradingview.com/news/beincrypto:68e22df5abc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP enfrenta pessimismo extremo, mas alta pode estar próxima\" data-qa-id=\"news-headline-title\">XRP enfrenta pessimismo extremo, mas alta pode estar próxima</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:3345490e6bc81:0",
-      "index": 12,
-      "title": "Controladora da NYSE investe US$ 2 bilhões na Polymarket, avaliada em US$ 9 bilhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:3345490e6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-07T15:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Controladora da NYSE investe US$ 2 bilhões na Polymarket, avaliada em US$ 9 bilhões\" data-qa-id=\"news-headline-title\">Controladora da NYSE investe US$ 2 bilhões na Polymarket, avaliada em US$ 9 bilhões</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9605b0164bc81:0",
-      "index": 13,
-      "title": "56% dos professores no Brasil usam IA em suas atividades, aponta pesquisa",
-      "link": "https://br.tradingview.com/news/cointelegraph:9605b0164bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-07T15:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"56% dos professores no Brasil usam IA em suas atividades, aponta pesquisa\" data-qa-id=\"news-headline-title\">56% dos professores no Brasil usam IA em suas atividades, aponta pesquisa</div></div></article>"
     }
   ]
 }
