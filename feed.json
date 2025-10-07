@@ -1,21 +1,32 @@
 {
-  "updated_at": "2025-10-07T11:17:18.344Z",
+  "updated_at": "2025-10-07T11:53:47.612Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:890140ebebc81:0",
+      "id": "cointelegraph:a6148e91dbc81:0",
       "index": 0,
-      "title": "Governo ‘corre’ contra o tempo para aprovar MP 1303, mas tempo e oposição podem fazer projeto caducar",
+      "title": "Criptomoedas mantêm pressão de compra com o Bitcoin a US$ 124 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:a6148e91dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-07T11:22:09.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 11:22:09 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 11:22 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas mantêm pressão de compra com o Bitcoin a US$ 124 mil\" data-qa-id=\"news-headline-title\">Criptomoedas mantêm pressão de compra com o Bitcoin a US$ 124 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:890140ebebc81:0",
+      "index": 1,
+      "title": "'MP da Taxação': Governo corre contra o tempo para vencer resistências e acabar com isenção de criptoativos",
       "link": "https://br.tradingview.com/news/cointelegraph:890140ebebc81:0/",
       "source": "Cointelegraph",
       "published_at": "2025-10-07T11:08:48.000Z",
       "snippet": "",
       "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 11:08:48 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 11:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Governo ‘corre’ contra o tempo para aprovar MP 1303, mas tempo e oposição podem fazer projeto caducar\" data-qa-id=\"news-headline-title\">Governo ‘corre’ contra o tempo para aprovar MP 1303, mas tempo e oposição podem fazer projeto caducar</div></div></article>"
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 11:08:48 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 11:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'MP da Taxação': Governo corre contra o tempo para vencer resistências e acabar com isenção de criptoativos\" data-qa-id=\"news-headline-title\">'MP da Taxação': Governo corre contra o tempo para vencer resistências e acabar com isenção de criptoativos</div></div></article>"
     },
     {
       "id": "cointelegraph:048d45e32bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do Bitcoin hoje, 07/10/2025: touros preparam terreno para US$ 130 mil e mostram força no curto prazo",
       "link": "https://br.tradingview.com/news/cointelegraph:048d45e32bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:7b036f08dbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Nova era cripto no Brasil: integração entre IA, Pix e blockchain promete mudar tudo",
       "link": "https://br.tradingview.com/news/cointelegraph:7b036f08dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:fea68a95bbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin atinge US$ 126 mil, mas varejo ainda está fora do jogo",
       "link": "https://br.tradingview.com/news/beincrypto:fea68a95bbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:3c74c6e23bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin ignora shutdown nos EUA e renova máxima histórica – Analista estabelece próximos alvos de alta no 'Uptober'",
       "link": "https://br.tradingview.com/news/cointelegraph:3c74c6e23bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:07f535c0fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "3 gráficos do Bitcoin que os touros observam após o fechamento semanal em máxima histórica do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:07f535c0fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:da2a4bc95bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "O que esperar enquanto a paralisação do governo dos EUA entra na segunda semana",
       "link": "https://br.tradingview.com/news/cointelegraph:da2a4bc95bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:2239ad0e1bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Análise de preços em 06/10: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:2239ad0e1bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:81cc0d9d2bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Plume Network obtém status de agente de transferência da SEC dos EUA para levar a TradFi on-chain",
       "link": "https://br.tradingview.com/news/cointelegraph:81cc0d9d2bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5403270f1bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Como a Pump.fun conquistou 80% das memecoins da Solana, e isso pode durar?",
       "link": "https://br.tradingview.com/news/cointelegraph:5403270f1bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f56d5e7a0bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Solana pode superar o Ether caso os ETFs sejam aprovados?",
       "link": "https://br.tradingview.com/news/cointelegraph:f56d5e7a0bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:03aeb0527bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "União Europeia estuda colocar supervisão das criptomoedas sob a ESMA para acabar com fiscalização fragmentada",
       "link": "https://br.tradingview.com/news/cointelegraph:03aeb0527bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"União Europeia estuda colocar supervisão das criptomoedas sob a ESMA para acabar com fiscalização fragmentada\" data-qa-id=\"news-headline-title\">União Europeia estuda colocar supervisão das criptomoedas sob a ESMA para acabar com fiscalização fragmentada</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e6ccaadd7bc81:0",
-      "index": 12,
-      "title": "Saylor interrompe compras de Bitcoin após ganho de US$ 3,9 bilhões no terceiro trimestre",
-      "link": "https://br.tradingview.com/news/cointelegraph:e6ccaadd7bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-06T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Saylor interrompe compras de Bitcoin após ganho de US$ 3,9 bilhões no terceiro trimestre\" data-qa-id=\"news-headline-title\">Saylor interrompe compras de Bitcoin após ganho de US$ 3,9 bilhões no terceiro trimestre</div></div></article>"
     },
     {
       "id": "beincrypto:55f21b625bc81:0",
