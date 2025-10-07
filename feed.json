@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-07T08:57:43.243Z",
+  "updated_at": "2025-10-07T09:20:34.436Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -113,19 +113,8 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"União Europeia estuda colocar supervisão das criptomoedas sob a ESMA para acabar com fiscalização fragmentada\" data-qa-id=\"news-headline-title\">União Europeia estuda colocar supervisão das criptomoedas sob a ESMA para acabar com fiscalização fragmentada</div></div></article>"
     },
     {
-      "id": "beincrypto:55f21b625bc81:0",
-      "index": 10,
-      "title": "Solana recua até US$ 224, mas padrão aponta alta",
-      "link": "https://br.tradingview.com/news/beincrypto:55f21b625bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-06T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana recua até US$ 224, mas padrão aponta alta\" data-qa-id=\"news-headline-title\">Solana recua até US$ 224, mas padrão aponta alta</div></div></article>"
-    },
-    {
       "id": "cointelegraph:e6ccaadd7bc81:0",
-      "index": 11,
+      "index": 10,
       "title": "Saylor interrompe compras de Bitcoin após ganho de US$ 3,9 bilhões no terceiro trimestre",
       "link": "https://br.tradingview.com/news/cointelegraph:e6ccaadd7bc81:0/",
       "source": "Cointelegraph",
@@ -133,6 +122,17 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Saylor interrompe compras de Bitcoin após ganho de US$ 3,9 bilhões no terceiro trimestre\" data-qa-id=\"news-headline-title\">Saylor interrompe compras de Bitcoin após ganho de US$ 3,9 bilhões no terceiro trimestre</div></div></article>"
+    },
+    {
+      "id": "beincrypto:55f21b625bc81:0",
+      "index": 11,
+      "title": "Solana recua até US$ 224, mas padrão aponta alta",
+      "link": "https://br.tradingview.com/news/beincrypto:55f21b625bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-10-06T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana recua até US$ 224, mas padrão aponta alta\" data-qa-id=\"news-headline-title\">Solana recua até US$ 224, mas padrão aponta alta</div></div></article>"
     },
     {
       "id": "cointelegraph:ad0e45b36bc81:0",
