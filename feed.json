@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-08T13:21:47.314Z",
+  "updated_at": "2025-10-08T13:56:40.320Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b70ccb609bc81:0",
+      "id": "cointelegraph:cdb7c6668bc81:0",
       "index": 0,
+      "title": "Reserva de Bitcoin de US$ 78 bilhões da Strategy se aproxima da segunda maior tesouraria corporativa da Amazon",
+      "link": "https://br.tradingview.com/news/cointelegraph:cdb7c6668bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-08T13:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 13:50:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 13:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Reserva de Bitcoin de US$ 78 bilhões da Strategy se aproxima da segunda maior tesouraria corporativa da Amazon\" data-qa-id=\"news-headline-title\">Reserva de Bitcoin de US$ 78 bilhões da Strategy se aproxima da segunda maior tesouraria corporativa da Amazon</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:74f9441d7bc81:0",
+      "index": 1,
+      "title": "Receita de US$ 2,85 bilhões da Solana supera o crescimento inicial da Ethereum: 21Shares",
+      "link": "https://br.tradingview.com/news/cointelegraph:74f9441d7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-08T13:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Receita de US$ 2,85 bilhões da Solana supera o crescimento inicial da Ethereum: 21Shares\" data-qa-id=\"news-headline-title\">Receita de US$ 2,85 bilhões da Solana supera o crescimento inicial da Ethereum: 21Shares</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b70ccb609bc81:0",
+      "index": 2,
       "title": "Qual a melhor exchange para comprar Bitcoin e criptomoedas no Brasil?",
       "link": "https://br.tradingview.com/news/cointelegraph:b70ccb609bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1e5486786bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "BoE sinaliza flexibilidade nos limites de stablecoins em meio a resistência da indústria, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:1e5486786bc81:0/",
       "source": "Cointelegraph",
@@ -25,8 +47,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BoE sinaliza flexibilidade nos limites de stablecoins em meio a resistência da indústria, aponta reportagem\" data-qa-id=\"news-headline-title\">BoE sinaliza flexibilidade nos limites de stablecoins em meio a resistência da indústria, aponta reportagem</div></div></article>"
     },
     {
+      "id": "beincrypto:e559ea0eebc81:0",
+      "index": 4,
+      "title": "Por que o mercado de criptomoedas está em baixa hoje 08/10/2025?",
+      "link": "https://br.tradingview.com/news/beincrypto:e559ea0eebc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-10-08T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em baixa hoje 08/10/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em baixa hoje 08/10/2025?</div></div></article>"
+    },
+    {
       "id": "cointelegraph:1f1f5c9e5bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Bitcoin sofre venda massiva, mas dados de derivativos apontam para US$ 150 mil até o fim do ano",
       "link": "https://br.tradingview.com/news/cointelegraph:1f1f5c9e5bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:06b829b91bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "ETH atinge pico em US$ 4,8 mil, preparando um momento decisivo para os touros de Ether",
       "link": "https://br.tradingview.com/news/cointelegraph:06b829b91bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "beincrypto:6cd7c8de4bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Bitcoin ganha rival: ouro tokenizado passa de US$ 3 bi",
       "link": "https://br.tradingview.com/news/beincrypto:6cd7c8de4bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8216bfc86bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Criptomoedas recuam com exaustão dos touros do Bitcoin antes da ata do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:8216bfc86bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "beincrypto:8ea727488bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Bitcoin cai para US$ 123 mil, início de correção ou pausa saudável?",
       "link": "https://br.tradingview.com/news/beincrypto:8ea727488bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8aa4141c2bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Preço do Bitcoin hoje, 08/10/2025: por que o preço do BTC caiu para US$ 122 mil? Touros descansam antes de nova alta",
       "link": "https://br.tradingview.com/news/cointelegraph:8aa4141c2bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:bf7756a00bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Pix internacional à vista? Dois países pedem licença para se conectar ao sistema de pagamentos brasileiro",
       "link": "https://br.tradingview.com/news/cointelegraph:bf7756a00bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "beincrypto:7e711052fbc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Mercado cripto ainda não está preparado para grandes bancos, diz Rocelo Lopes no TokenNation",
       "link": "https://br.tradingview.com/news/beincrypto:7e711052fbc81:0/",
       "source": "Beincrypto",
@@ -111,50 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado cripto ainda não está preparado para grandes bancos, diz Rocelo Lopes no TokenNation\" data-qa-id=\"news-headline-title\">Mercado cripto ainda não está preparado para grandes bancos, diz Rocelo Lopes no TokenNation</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L2N3VP03S:0",
-      "index": 10,
-      "title": "Corrida de criptomoedas para tokenizar ações sinaliza preocupações com a proteção do investidor",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3VP03S:0/",
-      "source": "Reuters",
-      "published_at": "2025-10-08T05:01:20.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/robinhood.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/robinhood.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/gemini.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/nvidia.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 05:01:20 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 05:01 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Corrida de criptomoedas para tokenizar ações sinaliza preocupações com a proteção do investidor\" data-qa-id=\"news-headline-title\">Corrida de criptomoedas para tokenizar ações sinaliza preocupações com a proteção do investidor</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5f1e6b20fbc81:0",
-      "index": 11,
-      "title": "Deputados aprovam imposto de 18% para todos os trades com Bitcoin, criptomoedas e stablecoins no Brasil",
-      "link": "https://br.tradingview.com/news/cointelegraph:5f1e6b20fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-07T23:54:43.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 23:54:43 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 23:54 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Deputados aprovam imposto de 18% para todos os trades com Bitcoin, criptomoedas e stablecoins no Brasil\" data-qa-id=\"news-headline-title\">Deputados aprovam imposto de 18% para todos os trades com Bitcoin, criptomoedas e stablecoins no Brasil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:98f1c4a7dbc81:0",
-      "index": 12,
-      "title": "Indicador que 'previu todos os topos do Bitcoin’ sinaliza que mercado de alta está perto do fim",
-      "link": "https://br.tradingview.com/news/cointelegraph:98f1c4a7dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-07T23:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 23:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Indicador que 'previu todos os topos do Bitcoin’ sinaliza que mercado de alta está perto do fim\" data-qa-id=\"news-headline-title\">Indicador que 'previu todos os topos do Bitcoin’ sinaliza que mercado de alta está perto do fim</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:78b1357c2bc81:0",
-      "index": 13,
-      "title": "O que realmente impulsiona as temporadas de altcoins? Uma análise mais detalhada",
-      "link": "https://br.tradingview.com/news/cointelegraph:78b1357c2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-07T22:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Oct 2025 22:40:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de out. de 2025, 22:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O que realmente impulsiona as temporadas de altcoins? Uma análise mais detalhada\" data-qa-id=\"news-headline-title\">O que realmente impulsiona as temporadas de altcoins? Uma análise mais detalhada</div></div></article>"
     }
   ]
 }
