@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-08T14:19:45.471Z",
+  "updated_at": "2025-10-08T14:56:31.542Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3b3859eb5bc81:0",
+      "id": "cointelegraph:ed0d6c318bc81:0",
       "index": 0,
+      "title": "ETFs de Litecoin e HBAR da Canary prontos para 'hora H' após reabertura do governo, dizem analistas",
+      "link": "https://br.tradingview.com/news/cointelegraph:ed0d6c318bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-08T14:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCHBAR.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Litecoin e HBAR da Canary prontos para 'hora H' após reabertura do governo, dizem analistas\" data-qa-id=\"news-headline-title\">ETFs de Litecoin e HBAR da Canary prontos para 'hora H' após reabertura do governo, dizem analistas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:75ed89e1cbc81:0",
+      "index": 1,
+      "title": "Denunciado por assassinato e suborno de policiais, Faraó dos Bitcoins pega 19 anos de prisão",
+      "link": "https://br.tradingview.com/news/cointelegraph:75ed89e1cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-08T14:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Denunciado por assassinato e suborno de policiais, Faraó dos Bitcoins pega 19 anos de prisão\" data-qa-id=\"news-headline-title\">Denunciado por assassinato e suborno de policiais, Faraó dos Bitcoins pega 19 anos de prisão</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3b3859eb5bc81:0",
+      "index": 2,
       "title": "'Centenas de simulações' apontam 50% de chance de o Bitcoin atingir US$ 140 mil neste mês",
       "link": "https://br.tradingview.com/news/cointelegraph:3b3859eb5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:cdb7c6668bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Reserva de Bitcoin de US$ 78 bilhões da Strategy se aproxima da segunda maior tesouraria corporativa da Amazon",
       "link": "https://br.tradingview.com/news/cointelegraph:cdb7c6668bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:74f9441d7bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Receita de US$ 2,85 bilhões da Solana supera o crescimento inicial da Ethereum: 21Shares",
       "link": "https://br.tradingview.com/news/cointelegraph:74f9441d7bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b70ccb609bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Qual a melhor exchange para comprar Bitcoin e criptomoedas no Brasil?",
       "link": "https://br.tradingview.com/news/cointelegraph:b70ccb609bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1e5486786bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "BoE sinaliza flexibilidade nos limites de stablecoins em meio a resistência da indústria, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:1e5486786bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:e559ea0eebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 08/10/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:e559ea0eebc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:1f1f5c9e5bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin sofre venda massiva, mas dados de derivativos apontam para US$ 150 mil até o fim do ano",
       "link": "https://br.tradingview.com/news/cointelegraph:1f1f5c9e5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:06b829b91bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "ETH atinge pico em US$ 4,8 mil, preparando um momento decisivo para os touros de Ether",
       "link": "https://br.tradingview.com/news/cointelegraph:06b829b91bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:6cd7c8de4bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoin ganha rival: ouro tokenizado passa de US$ 3 bi",
       "link": "https://br.tradingview.com/news/beincrypto:6cd7c8de4bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8216bfc86bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Criptomoedas recuam com exaustão dos touros do Bitcoin antes da ata do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:8216bfc86bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:8ea727488bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin cai para US$ 123 mil, início de correção ou pausa saudável?",
       "link": "https://br.tradingview.com/news/beincrypto:8ea727488bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:8aa4141c2bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Preço do Bitcoin hoje, 08/10/2025: por que o preço do BTC caiu para US$ 122 mil? Touros descansam antes de nova alta",
       "link": "https://br.tradingview.com/news/cointelegraph:8aa4141c2bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 08/10/2025: por que o preço do BTC caiu para US$ 122 mil? Touros descansam antes de nova alta\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 08/10/2025: por que o preço do BTC caiu para US$ 122 mil? Touros descansam antes de nova alta</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bf7756a00bc81:0",
-      "index": 12,
-      "title": "Pix internacional à vista? Dois países pedem licença para se conectar ao sistema de pagamentos brasileiro",
-      "link": "https://br.tradingview.com/news/cointelegraph:bf7756a00bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-08T11:05:30.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 11:05:30 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 11:05 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pix internacional à vista? Dois países pedem licença para se conectar ao sistema de pagamentos brasileiro\" data-qa-id=\"news-headline-title\">Pix internacional à vista? Dois países pedem licença para se conectar ao sistema de pagamentos brasileiro</div></div></article>"
     }
   ]
 }
