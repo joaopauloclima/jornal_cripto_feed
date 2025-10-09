@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-09T13:23:13.628Z",
+  "updated_at": "2025-10-09T13:56:49.613Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e3d46d782bc81:0",
+      "id": "cointelegraph:8fe3b7ae5bc81:0",
       "index": 0,
+      "title": "Bitcoin está longe de estar sobrecomprado enquanto 'as estrelas se alinham' para um aumento nos ETFs",
+      "link": "https://br.tradingview.com/news/cointelegraph:8fe3b7ae5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-09T13:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 13:50:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 13:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin está longe de estar sobrecomprado enquanto 'as estrelas se alinham' para um aumento nos ETFs\" data-qa-id=\"news-headline-title\">Bitcoin está longe de estar sobrecomprado enquanto 'as estrelas se alinham' para um aumento nos ETFs</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:55de1e79bbc81:0",
+      "index": 1,
+      "title": "Queda das altcoins pode ser oportunidade de compra, sugerem análises",
+      "link": "https://br.tradingview.com/news/cointelegraph:55de1e79bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-09T13:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Queda das altcoins pode ser oportunidade de compra, sugerem análises\" data-qa-id=\"news-headline-title\">Queda das altcoins pode ser oportunidade de compra, sugerem análises</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e3d46d782bc81:0",
+      "index": 2,
       "title": "Senado dos EUA confirma autoridade do Tesouro enquanto a Shutdown do governo continua",
       "link": "https://br.tradingview.com/news/cointelegraph:e3d46d782bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:7a29bdc69bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Jupiter e Ethena Labs lançam nova stablecoin baseada em Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:7a29bdc69bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:4458394dcbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Fundação Ethereum anuncia equipe 'Privacy Cluster'",
       "link": "https://br.tradingview.com/news/cointelegraph:4458394dcbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c7bd2223ebc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Fundador da Polymarket entra para o clube dos bilionários após investimento da controladora da NYSE, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:c7bd2223ebc81:0/",
       "source": "Cointelegraph",
@@ -47,8 +69,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 12:31:01 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 12:31 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundador da Polymarket entra para o clube dos bilionários após investimento da controladora da NYSE, aponta reportagem\" data-qa-id=\"news-headline-title\">Fundador da Polymarket entra para o clube dos bilionários após investimento da controladora da NYSE, aponta reportagem</div></div></article>"
     },
     {
+      "id": "beincrypto:d49b18963bc81:0",
+      "index": 6,
+      "title": "Ethereum rumo a US$ 12 mil? Analistas veem repetição histórica",
+      "link": "https://br.tradingview.com/news/beincrypto:d49b18963bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-10-09T12:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum rumo a US$ 12 mil? Analistas veem repetição histórica\" data-qa-id=\"news-headline-title\">Ethereum rumo a US$ 12 mil? Analistas veem repetição histórica</div></div></article>"
+    },
+    {
       "id": "cointelegraph:1775db68ebc81:0",
-      "index": 4,
+      "index": 7,
       "title": "COAI acumula 1.425% em dia de queda das criptomoedas e o Bitcoin perto de US$ 123 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:1775db68ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "beincrypto:e15ef5cf0bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Bitcoin pode despencar abaixo de US$ 120 mil após novo recorde?",
       "link": "https://br.tradingview.com/news/beincrypto:e15ef5cf0bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +103,7 @@
     },
     {
       "id": "beincrypto:e4f4de338bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 09/10/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:e4f4de338bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ef8e41972bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Preço do Bitcoin hoje, 09/10/2025: BTC estabiliza em US$ 122 mil com touros animados para nova alta",
       "link": "https://br.tradingview.com/news/cointelegraph:ef8e41972bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8f36481e8bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Bitcoin, Ethereum, Solana ou multi-ativos: Qual o ETF de criptomoedas mais rentável da B3?",
       "link": "https://br.tradingview.com/news/cointelegraph:8f36481e8bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:0fabfb402bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "MEXC x OKX x NovaDax: quem está certo sobre as melhores criptomoedas para comprar no Uptober?",
       "link": "https://br.tradingview.com/news/cointelegraph:0fabfb402bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:831f8e78cbc81:0",
-      "index": 10,
+      "index": 13,
       "title": "B3, a Bolsa de Valores do Brasil, lança o primeiro campeonato nacional de trading com Bitcoin, Ethereum e Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:831f8e78cbc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 01:21:59 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 01:21 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"B3, a Bolsa de Valores do Brasil, lança o primeiro campeonato nacional de trading com Bitcoin, Ethereum e Solana\" data-qa-id=\"news-headline-title\">B3, a Bolsa de Valores do Brasil, lança o primeiro campeonato nacional de trading com Bitcoin, Ethereum e Solana</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2d35fabc7bc81:0",
-      "index": 11,
-      "title": "Square oferece pagamentos em Bitcoin para comerciantes à medida que a adoção de criptomoedas acelera",
-      "link": "https://br.tradingview.com/news/cointelegraph:2d35fabc7bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-08T22:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 22:50:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 22:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Square oferece pagamentos em Bitcoin para comerciantes à medida que a adoção de criptomoedas acelera\" data-qa-id=\"news-headline-title\">Square oferece pagamentos em Bitcoin para comerciantes à medida que a adoção de criptomoedas acelera</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ce47a787cbc81:0",
-      "index": 12,
-      "title": "Análise de preços em 08/10: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK e SUI",
-      "link": "https://br.tradingview.com/news/cointelegraph:ce47a787cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-08T22:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 22:10:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 22:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 08/10: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK e SUI\" data-qa-id=\"news-headline-title\">Análise de preços em 08/10: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK e SUI</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c79cb4acdbc81:0",
-      "index": 13,
-      "title": "Histórico! Deputados derrubam MP 1303 e conseguem acabar com proposta de imposto de 18% para trade de Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:c79cb4acdbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-08T21:41:03.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 08 Oct 2025 21:41:03 GMT\" class=\"apply-common-tooltip\" title=\"8 de out. de 2025, 21:41 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Histórico! Deputados derrubam MP 1303 e conseguem acabar com proposta de imposto de 18% para trade de Bitcoin\" data-qa-id=\"news-headline-title\">Histórico! Deputados derrubam MP 1303 e conseguem acabar com proposta de imposto de 18% para trade de Bitcoin</div></div></article>"
     }
   ]
 }
