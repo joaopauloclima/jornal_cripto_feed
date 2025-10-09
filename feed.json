@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-09T16:24:50.078Z",
+  "updated_at": "2025-10-09T17:00:06.435Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1aef91469bc81:0",
+      "id": "cointelegraph:47a60cb33bc81:0",
       "index": 0,
+      "title": "Maria conquista o STF: IA da Suprema Corte adquire novas funcionalidades",
+      "link": "https://br.tradingview.com/news/cointelegraph:47a60cb33bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-09T16:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Maria conquista o STF: IA da Suprema Corte adquire novas funcionalidades\" data-qa-id=\"news-headline-title\">Maria conquista o STF: IA da Suprema Corte adquire novas funcionalidades</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:38e267a89bc81:0",
+      "index": 1,
+      "title": "2 criptomoedas em alta de mensal de até 270% podem esticar rali em até 180%",
+      "link": "https://br.tradingview.com/news/cointelegraph:38e267a89bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-09T16:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"2 criptomoedas em alta de mensal de até 270% podem esticar rali em até 180%\" data-qa-id=\"news-headline-title\">2 criptomoedas em alta de mensal de até 270% podem esticar rali em até 180%</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1aef91469bc81:0",
+      "index": 2,
       "title": "Bitcoin tem 100 dias para entrar em modo 'parabólico' ou encerrar seu mercado de alta, aponta análise",
       "link": "https://br.tradingview.com/news/cointelegraph:1aef91469bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:41d1fc32abc81:0",
-      "index": 1,
+      "index": 3,
       "title": "PayPay, da SoftBank, adquire participação de 40% na Binance Japan",
       "link": "https://br.tradingview.com/news/cointelegraph:41d1fc32abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8905fb5dcbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoiners estão no lucro, mas cuidado com a fragilidade de curto prazo, afirma Glassnode",
       "link": "https://br.tradingview.com/news/cointelegraph:8905fb5dcbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4c5ecae15bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitwise 'não está para brincadeira' ao propor taxa baixa para seu ETF de Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:4c5ecae15bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:2636fc152bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Aqui está o verdadeiro motivo pelo qual o ciclo de 4 anos do Bitcoin está morto, segundo Arthur Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:2636fc152bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:429ac4dcfbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Próximo alvo do SOL pode ser US$ 300: 3 forças que impulsionam a próxima grande alta da Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:429ac4dcfbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:1a510b1b0bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin pode ter alta 'dramática' se não atingir o topo em breve, diz Peter Brandt",
       "link": "https://br.tradingview.com/news/cointelegraph:1a510b1b0bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:8fe3b7ae5bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin está longe de estar sobrecomprado enquanto 'as estrelas se alinham' para um aumento nos ETFs",
       "link": "https://br.tradingview.com/news/cointelegraph:8fe3b7ae5bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:55de1e79bbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Queda das altcoins pode ser oportunidade de compra, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:55de1e79bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e3d46d782bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Senado dos EUA confirma autoridade do Tesouro enquanto a Shutdown do governo continua",
       "link": "https://br.tradingview.com/news/cointelegraph:e3d46d782bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7a29bdc69bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Jupiter e Ethena Labs lançam nova stablecoin baseada em Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:7a29bdc69bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:4458394dcbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Fundação Ethereum anuncia equipe 'Privacy Cluster'",
       "link": "https://br.tradingview.com/news/cointelegraph:4458394dcbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 12:50:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 12:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundação Ethereum anuncia equipe 'Privacy Cluster'\" data-qa-id=\"news-headline-title\">Fundação Ethereum anuncia equipe 'Privacy Cluster'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c7bd2223ebc81:0",
-      "index": 12,
-      "title": "Fundador da Polymarket entra para o clube dos bilionários após investimento da controladora da NYSE, aponta reportagem",
-      "link": "https://br.tradingview.com/news/cointelegraph:c7bd2223ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-09T12:31:01.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 12:31:01 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 12:31 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundador da Polymarket entra para o clube dos bilionários após investimento da controladora da NYSE, aponta reportagem\" data-qa-id=\"news-headline-title\">Fundador da Polymarket entra para o clube dos bilionários após investimento da controladora da NYSE, aponta reportagem</div></div></article>"
-    },
-    {
-      "id": "beincrypto:d49b18963bc81:0",
-      "index": 13,
-      "title": "Ethereum rumo a US$ 12 mil? Analistas veem repetição histórica",
-      "link": "https://br.tradingview.com/news/beincrypto:d49b18963bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-09T12:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Oct 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de out. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum rumo a US$ 12 mil? Analistas veem repetição histórica\" data-qa-id=\"news-headline-title\">Ethereum rumo a US$ 12 mil? Analistas veem repetição histórica</div></div></article>"
     }
   ]
 }
