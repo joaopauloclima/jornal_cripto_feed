@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-10T22:53:02.568Z",
+  "updated_at": "2025-10-10T23:17:26.922Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2025:newsml_L6N3VR1XO:0",
+      "id": "cointelegraph:b9630f9dcbc81:0",
       "index": 0,
+      "title": "'Perp DEX season': Hyperliquid, Aster ou Lighter – Quem vai dominar o mercado trilionário de derivativos descentralizados",
+      "link": "https://br.tradingview.com/news/cointelegraph:b9630f9dcbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-10T23:08:50.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 23:08:50 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 23:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Perp DEX season': Hyperliquid, Aster ou Lighter – Quem vai dominar o mercado trilionário de derivativos descentralizados\" data-qa-id=\"news-headline-title\">'Perp DEX season': Hyperliquid, Aster ou Lighter – Quem vai dominar o mercado trilionário de derivativos descentralizados</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L6N3VR1XO:0",
+      "index": 1,
       "title": "Bitcoin recua para US$104.782 com Trump escalando guerra comercial com China",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L6N3VR1XO:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:e47d4e3fdbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Caos toma conta: traders perdem US$ 8 bilhões e Bitcoin despenca para US$ 112 mil, com tarifas de 100% de Trump para a China",
       "link": "https://br.tradingview.com/news/cointelegraph:e47d4e3fdbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:ae4c06e26bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Mercado cripto despenca após Trump declarar guerra comercial de 100% contra a China",
       "link": "https://br.tradingview.com/news/beincrypto:ae4c06e26bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f53cb0da8bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bancos estudam lançar uma stablecoin vinculada às moedas do G7",
       "link": "https://br.tradingview.com/news/cointelegraph:f53cb0da8bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:373e9b8ccbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Kalshi arrecada US$ 300 milhões para expandir mercados de previsão para 140 países",
       "link": "https://br.tradingview.com/news/cointelegraph:373e9b8ccbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c82098b62bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Chegou a vez da Solana reforçar o cofre corporativo de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:c82098b62bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:17ad9d3a6bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Importante plataforma de apostas em criptomoedas Shuffle anuncia violação de dados de usuários",
       "link": "https://br.tradingview.com/news/cointelegraph:17ad9d3a6bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a85eab04fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Queda do Bitcoin para US$ 118 mil é provável, mas ajuste nos futuros indica que a baixa não deve durar",
       "link": "https://br.tradingview.com/news/cointelegraph:a85eab04fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f7679ca92bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Conta do Google de CZ é alvo de hackers com apoio governamental",
       "link": "https://br.tradingview.com/news/cointelegraph:f7679ca92bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5d1db58ebbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Como a blockchain da SWIFT pode desafiar o domínio da Ripple nos pagamentos",
       "link": "https://br.tradingview.com/news/cointelegraph:5d1db58ebbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:527cc525abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "DeFi em alta enquanto baleia de Bitcoin com US$ 11 bilhões reacende esperanças de 'Uptober': Finance Redefined",
       "link": "https://br.tradingview.com/news/cointelegraph:527cc525abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:918569853bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Baleia de Bitcoin com US$ 11 bilhões aposta em correção do BTC e do ETH com US$ 900 milhões em shorts",
       "link": "https://br.tradingview.com/news/cointelegraph:918569853bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleia de Bitcoin com US$ 11 bilhões aposta em correção do BTC e do ETH com US$ 900 milhões em shorts\" data-qa-id=\"news-headline-title\">Baleia de Bitcoin com US$ 11 bilhões aposta em correção do BTC e do ETH com US$ 900 milhões em shorts</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1f3e0295ebc81:0",
-      "index": 12,
-      "title": "Baleias de XRP despejam US$ 50 milhões por dia: o preço vai cair?",
-      "link": "https://br.tradingview.com/news/cointelegraph:1f3e0295ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-10T18:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias de XRP despejam US$ 50 milhões por dia: o preço vai cair?\" data-qa-id=\"news-headline-title\">Baleias de XRP despejam US$ 50 milhões por dia: o preço vai cair?</div></div></article>"
     }
   ]
 }
