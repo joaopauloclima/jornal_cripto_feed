@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-10T20:53:50.462Z",
+  "updated_at": "2025-10-10T21:16:44.359Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c82098b62bc81:0",
+      "id": "cointelegraph:f53cb0da8bc81:0",
       "index": 0,
+      "title": "Bancos estudam lançar uma stablecoin vinculada às moedas do G7",
+      "link": "https://br.tradingview.com/news/cointelegraph:f53cb0da8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-10T21:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bancos estudam lançar uma stablecoin vinculada às moedas do G7\" data-qa-id=\"news-headline-title\">Bancos estudam lançar uma stablecoin vinculada às moedas do G7</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:373e9b8ccbc81:0",
+      "index": 1,
+      "title": "Kalshi arrecada US$ 300 milhões para expandir mercados de previsão para 140 países",
+      "link": "https://br.tradingview.com/news/cointelegraph:373e9b8ccbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-10T20:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Kalshi arrecada US$ 300 milhões para expandir mercados de previsão para 140 países\" data-qa-id=\"news-headline-title\">Kalshi arrecada US$ 300 milhões para expandir mercados de previsão para 140 países</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c82098b62bc81:0",
+      "index": 2,
       "title": "Chegou a vez da Solana reforçar o cofre corporativo de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:c82098b62bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:17ad9d3a6bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Importante plataforma de apostas em criptomoedas Shuffle anuncia violação de dados de usuários",
       "link": "https://br.tradingview.com/news/cointelegraph:17ad9d3a6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a85eab04fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Queda do Bitcoin para US$ 118 mil é provável, mas ajuste nos futuros indica que a baixa não deve durar",
       "link": "https://br.tradingview.com/news/cointelegraph:a85eab04fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f7679ca92bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Conta do Google de CZ é alvo de hackers com apoio governamental",
       "link": "https://br.tradingview.com/news/cointelegraph:f7679ca92bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5d1db58ebbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Como a blockchain da SWIFT pode desafiar o domínio da Ripple nos pagamentos",
       "link": "https://br.tradingview.com/news/cointelegraph:5d1db58ebbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:527cc525abc81:0",
-      "index": 5,
+      "index": 7,
       "title": "DeFi em alta enquanto baleia de Bitcoin com US$ 11 bilhões reacende esperanças de 'Uptober': Finance Redefined",
       "link": "https://br.tradingview.com/news/cointelegraph:527cc525abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:918569853bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Baleia de Bitcoin com US$ 11 bilhões aposta em correção do BTC e do ETH com US$ 900 milhões em shorts",
       "link": "https://br.tradingview.com/news/cointelegraph:918569853bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1f3e0295ebc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Baleias de XRP despejam US$ 50 milhões por dia: o preço vai cair?",
       "link": "https://br.tradingview.com/news/cointelegraph:1f3e0295ebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:a13675ce6bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Boom na compra de ouro reflete o impulso do Bitcoin, diz Deutsche Bank",
       "link": "https://br.tradingview.com/news/cointelegraph:a13675ce6bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:d1acf5b3fbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Análise XRP: mínimas de 3 meses à vista indicam nova queda à frente?",
       "link": "https://br.tradingview.com/news/beincrypto:d1acf5b3fbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c1acca6fcbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bolha de IA? Alta correlação do Bitcoin com a Nvidia desperta alerta de queda de 80%",
       "link": "https://br.tradingview.com/news/cointelegraph:c1acca6fcbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:4b05f775ebc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Orações de IA rendem R$ 3 milhões e ‘milagres’ levam 35 pessoas em cana no Rio",
       "link": "https://br.tradingview.com/news/cointelegraph:4b05f775ebc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Orações de IA rendem R$ 3 milhões e ‘milagres’ levam 35 pessoas em cana no Rio\" data-qa-id=\"news-headline-title\">Orações de IA rendem R$ 3 milhões e ‘milagres’ levam 35 pessoas em cana no Rio</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:45649a1ecbc81:0",
-      "index": 12,
-      "title": "Mayer Multiple do Bitcoin: preço do BTC pode chegar a US$ 180 mil antes de ficar 'sobrecomprado'",
-      "link": "https://br.tradingview.com/news/cointelegraph:45649a1ecbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-10T16:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mayer Multiple do Bitcoin: preço do BTC pode chegar a US$ 180 mil antes de ficar 'sobrecomprado'\" data-qa-id=\"news-headline-title\">Mayer Multiple do Bitcoin: preço do BTC pode chegar a US$ 180 mil antes de ficar 'sobrecomprado'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1c276fa30bc81:0",
-      "index": 13,
-      "title": "Despejo de baleias força a queda do Bitcoin e do Ethereum, alerta especialista",
-      "link": "https://br.tradingview.com/news/cointelegraph:1c276fa30bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-10T16:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Despejo de baleias força a queda do Bitcoin e do Ethereum, alerta especialista\" data-qa-id=\"news-headline-title\">Despejo de baleias força a queda do Bitcoin e do Ethereum, alerta especialista</div></div></article>"
     }
   ]
 }
