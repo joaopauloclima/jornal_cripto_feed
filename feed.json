@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-11T14:54:14.719Z",
+  "updated_at": "2025-10-11T15:16:56.593Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:54a6cd328bc81:0",
+      "id": "cointelegraph:28763f8e0bc81:0",
       "index": 0,
+      "title": "Bitcoin oscila em US$ 110 mil, enquanto trader diz que liquidação de US$ 20 bilhões não é o \"fundo do poço\"",
+      "link": "https://br.tradingview.com/news/cointelegraph:28763f8e0bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-11T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 11 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin oscila em US$ 110 mil, enquanto trader diz que liquidação de US$ 20 bilhões não é o &quot;fundo do poço&quot;\" data-qa-id=\"news-headline-title\">Bitcoin oscila em US$ 110 mil, enquanto trader diz que liquidação de US$ 20 bilhões não é o \"fundo do poço\"</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fd2f72f3cbc81:0",
+      "index": 1,
+      "title": "Notícias Cripto: Dinamo ISO 9001, nova plataforma na Bitso, Tecban e Avenia na ABCripto e outras novidades",
+      "link": "https://br.tradingview.com/news/cointelegraph:fd2f72f3cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-11T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 11 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias Cripto: Dinamo ISO 9001, nova plataforma na Bitso, Tecban e Avenia na ABCripto e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: Dinamo ISO 9001, nova plataforma na Bitso, Tecban e Avenia na ABCripto e outras novidades</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:54a6cd328bc81:0",
+      "index": 2,
       "title": "Bitcoin pode ser 'arrastado um pouco' em meio a temores de tarifas de Trump, diz executivo",
       "link": "https://br.tradingview.com/news/cointelegraph:54a6cd328bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:f3d95f0cdbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "XRP Ledger lança hackathon para brasileiros com US$ 25 mil em prêmios",
       "link": "https://br.tradingview.com/news/cointelegraph:f3d95f0cdbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:992056735bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Derivativos de Bitcoin gritam 'cautela' apesar de uma semana de fortes entradas de ETFs de BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:992056735bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:86ddc6348bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Notícias Cripto: lançamento RWA Monitor, Mercado Bitcoin e Bitbank com novas ações, Binance em alta e mais novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:86ddc6348bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f9f0f57efbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin despenca para US$ 102 mil na Binance enquanto Trump anuncia tarifas de 100% sobre a China",
       "link": "https://br.tradingview.com/news/cointelegraph:f9f0f57efbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:66d09d687bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin é tão bom que até o pior trader do mundo pode lucrar 100%, revela estudo da 21Shares",
       "link": "https://br.tradingview.com/news/cointelegraph:66d09d687bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:b9630f9dcbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "'Perp DEX season': Hyperliquid, Aster ou Lighter – Quem vai dominar o mercado trilionário de derivativos descentralizados",
       "link": "https://br.tradingview.com/news/cointelegraph:b9630f9dcbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L6N3VR1XO:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin recua para US$104.782 com Trump escalando guerra comercial com China",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L6N3VR1XO:0/",
       "source": "Reuters",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:e47d4e3fdbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Caos toma conta: traders perdem US$ 8 bilhões e Bitcoin despenca para US$ 112 mil, com tarifas de 100% de Trump para a China",
       "link": "https://br.tradingview.com/news/cointelegraph:e47d4e3fdbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:ae4c06e26bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Mercado cripto despenca após Trump declarar guerra comercial de 100% contra a China",
       "link": "https://br.tradingview.com/news/beincrypto:ae4c06e26bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f53cb0da8bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bancos estudam lançar uma stablecoin vinculada às moedas do G7",
       "link": "https://br.tradingview.com/news/cointelegraph:f53cb0da8bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:373e9b8ccbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Kalshi arrecada US$ 300 milhões para expandir mercados de previsão para 140 países",
       "link": "https://br.tradingview.com/news/cointelegraph:373e9b8ccbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Kalshi arrecada US$ 300 milhões para expandir mercados de previsão para 140 países\" data-qa-id=\"news-headline-title\">Kalshi arrecada US$ 300 milhões para expandir mercados de previsão para 140 países</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c82098b62bc81:0",
-      "index": 12,
-      "title": "Chegou a vez da Solana reforçar o cofre corporativo de criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:c82098b62bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-10T20:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Chegou a vez da Solana reforçar o cofre corporativo de criptomoedas\" data-qa-id=\"news-headline-title\">Chegou a vez da Solana reforçar o cofre corporativo de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:17ad9d3a6bc81:0",
-      "index": 13,
-      "title": "Importante plataforma de apostas em criptomoedas Shuffle anuncia violação de dados de usuários",
-      "link": "https://br.tradingview.com/news/cointelegraph:17ad9d3a6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-10T20:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 20:10:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 20:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Importante plataforma de apostas em criptomoedas Shuffle anuncia violação de dados de usuários\" data-qa-id=\"news-headline-title\">Importante plataforma de apostas em criptomoedas Shuffle anuncia violação de dados de usuários</div></div></article>"
     }
   ]
 }
