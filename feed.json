@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-11T19:53:50.869Z",
+  "updated_at": "2025-10-11T20:19:12.743Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:527a612debc81:0",
+      "id": "cointelegraph:9c2eea1abbc81:0",
       "index": 0,
+      "title": "Defensora do Bitcoin e ativista dos direitos humanos María Machado ganha Prêmio Nobel da Paz",
+      "link": "https://br.tradingview.com/news/cointelegraph:9c2eea1abbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-11T20:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 11 Oct 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de out. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Defensora do Bitcoin e ativista dos direitos humanos María Machado ganha Prêmio Nobel da Paz\" data-qa-id=\"news-headline-title\">Defensora do Bitcoin e ativista dos direitos humanos María Machado ganha Prêmio Nobel da Paz</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:527a612debc81:0",
+      "index": 1,
       "title": "CEO da Crypto.com pede investigação sobre exchanges após liquidações de US$ 20 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:527a612debc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:3866c088dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "ETFs de Bitcoin mantêm impulso de 'Uptober' com US$ 2,71 bilhões em entradas semanais",
       "link": "https://br.tradingview.com/news/cointelegraph:3866c088dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:260ae40ccbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Três gráficos do Bitcoin para ficar de olho após a queda repentina do BTC para US$ 103 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:260ae40ccbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3ff724c76bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Sentimento em relação às criptomoedas muda para \"medo\" com a queda do Bitcoin após as tarifas de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:3ff724c76bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:28763f8e0bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin oscila em US$ 110 mil, enquanto trader diz que liquidação de US$ 20 bilhões não é o \"fundo do poço\"",
       "link": "https://br.tradingview.com/news/cointelegraph:28763f8e0bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:fd2f72f3cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Notícias Cripto: Dinamo ISO 9001, nova plataforma na Bitso, Tecban e Avenia na ABCripto e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:fd2f72f3cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:54a6cd328bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin pode ser 'arrastado um pouco' em meio a temores de tarifas de Trump, diz executivo",
       "link": "https://br.tradingview.com/news/cointelegraph:54a6cd328bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f3d95f0cdbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "XRP Ledger lança hackathon para brasileiros com US$ 25 mil em prêmios",
       "link": "https://br.tradingview.com/news/cointelegraph:f3d95f0cdbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:992056735bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Derivativos de Bitcoin gritam 'cautela' apesar de uma semana de fortes entradas de ETFs de BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:992056735bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:86ddc6348bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Notícias Cripto: lançamento RWA Monitor, Mercado Bitcoin e Bitbank com novas ações, Binance em alta e mais novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:86ddc6348bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f9f0f57efbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin despenca para US$ 102 mil na Binance enquanto Trump anuncia tarifas de 100% sobre a China",
       "link": "https://br.tradingview.com/news/cointelegraph:f9f0f57efbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:66d09d687bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin é tão bom que até o pior trader do mundo pode lucrar 100%, revela estudo da 21Shares",
       "link": "https://br.tradingview.com/news/cointelegraph:66d09d687bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:b9630f9dcbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "'Perp DEX season': Hyperliquid, Aster ou Lighter – Quem vai dominar o mercado trilionário de derivativos descentralizados",
       "link": "https://br.tradingview.com/news/cointelegraph:b9630f9dcbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 23:08:50 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 23:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Perp DEX season': Hyperliquid, Aster ou Lighter – Quem vai dominar o mercado trilionário de derivativos descentralizados\" data-qa-id=\"news-headline-title\">'Perp DEX season': Hyperliquid, Aster ou Lighter – Quem vai dominar o mercado trilionário de derivativos descentralizados</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L6N3VR1XO:0",
-      "index": 13,
-      "title": "Bitcoin recua para US$104.782 com Trump escalando guerra comercial com China",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L6N3VR1XO:0/",
-      "source": "Reuters",
-      "published_at": "2025-10-10T22:45:12.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/indices/s-and-p-500.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/indices/s-and-p-500.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Oct 2025 22:45:12 GMT\" class=\"apply-common-tooltip\" title=\"10 de out. de 2025, 22:45 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin recua para US$104.782 com Trump escalando guerra comercial com China\" data-qa-id=\"news-headline-title\">Bitcoin recua para US$104.782 com Trump escalando guerra comercial com China</div></div></article>"
     }
   ]
 }
