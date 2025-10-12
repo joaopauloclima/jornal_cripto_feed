@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-12T18:55:07.524Z",
+  "updated_at": "2025-10-12T19:15:19.750Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c17845e74bc81:0",
+      "id": "cointelegraph:78659b800bc81:0",
       "index": 0,
+      "title": "Por que algumas altcoins na Binance caíram para zero?",
+      "link": "https://br.tradingview.com/news/cointelegraph:78659b800bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-12T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCATOM.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCENJ.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 12 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que algumas altcoins na Binance caíram para zero?\" data-qa-id=\"news-headline-title\">Por que algumas altcoins na Binance caíram para zero?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c17845e74bc81:0",
+      "index": 1,
       "title": "Investigação vincula baleia de 100.000 BTC da Hyperliquid ao ex-CEO da BitForex",
       "link": "https://br.tradingview.com/news/cointelegraph:c17845e74bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:bf61d36bfbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "'Há uma grande chance' de que este seja o início do mercado de alta das criptomoedas, diz trader",
       "link": "https://br.tradingview.com/news/cointelegraph:bf61d36bfbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b6d5d0665bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Traders de criptomoedas culpam tarifas de Trump em busca de 'evento singular', diz Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:b6d5d0665bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3dd183120bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Quebra do mercado 'não tem implicações fundamentais de longo prazo', diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:3dd183120bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d31202f53bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Relaxa, o Bitcoin vai ficar bem, mesmo que o BTC tenha perdido 13% em 8 horas: a prova está nos dados",
       "link": "https://br.tradingview.com/news/cointelegraph:d31202f53bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:a935474adbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "ETH cai 6,7% após a 'sexta-feira cinzenta' das criptomoedas, mostrando mais resiliência que outras alts",
       "link": "https://br.tradingview.com/news/cointelegraph:a935474adbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b66b94c35bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Zcash se recupera para máximas pré-crise após colapso do mercado de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:b66b94c35bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:903cade76bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin pode recuperar até 21% da queda em 7 dias se a história se repetir, diz economista",
       "link": "https://br.tradingview.com/news/cointelegraph:903cade76bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:f406a5888bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Trader de cripto fatura US$ 160 milhões com colapso causado por Trump",
       "link": "https://br.tradingview.com/news/beincrypto:f406a5888bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:2dfc00145bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Galaxy Digital arrecada US$ 460 milhões para transformar mina de Bitcoin do Texas em data center de IA",
       "link": "https://br.tradingview.com/news/cointelegraph:2dfc00145bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9c2eea1abbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Defensora do Bitcoin e ativista dos direitos humanos María Machado ganha Prêmio Nobel da Paz",
       "link": "https://br.tradingview.com/news/cointelegraph:9c2eea1abbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:527a612debc81:0",
-      "index": 11,
+      "index": 12,
       "title": "CEO da Crypto.com pede investigação sobre exchanges após liquidações de US$ 20 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:527a612debc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3866c088dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "ETFs de Bitcoin mantêm impulso de 'Uptober' com US$ 2,71 bilhões em entradas semanais",
       "link": "https://br.tradingview.com/news/cointelegraph:3866c088dbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 11 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin mantêm impulso de 'Uptober' com US$ 2,71 bilhões em entradas semanais\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin mantêm impulso de 'Uptober' com US$ 2,71 bilhões em entradas semanais</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:260ae40ccbc81:0",
-      "index": 13,
-      "title": "Três gráficos do Bitcoin para ficar de olho após a queda repentina do BTC para US$ 103 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:260ae40ccbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-11T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 11 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Três gráficos do Bitcoin para ficar de olho após a queda repentina do BTC para US$ 103 mil\" data-qa-id=\"news-headline-title\">Três gráficos do Bitcoin para ficar de olho após a queda repentina do BTC para US$ 103 mil</div></div></article>"
     }
   ]
 }
