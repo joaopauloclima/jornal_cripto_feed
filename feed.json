@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-13T19:53:37.212Z",
+  "updated_at": "2025-10-13T20:21:08.558Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b4913d0a5bc81:0",
+      "id": "cointelegraph:d5e55ab18bc81:0",
       "index": 0,
+      "title": "BitMine adiciona mais de 200 mil ETH em fim de semana de compras 'agressivas' após o crash",
+      "link": "https://br.tradingview.com/news/cointelegraph:d5e55ab18bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-13T20:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Oct 2025 20:10:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de out. de 2025, 20:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BitMine adiciona mais de 200 mil ETH em fim de semana de compras 'agressivas' após o crash\" data-qa-id=\"news-headline-title\">BitMine adiciona mais de 200 mil ETH em fim de semana de compras 'agressivas' após o crash</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:092701319bc81:0",
+      "index": 1,
+      "title": "Problemas de exibição na Binance Wallet e na Trust Wallet persistem após o crash das criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:092701319bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-13T19:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Oct 2025 19:50:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de out. de 2025, 19:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Problemas de exibição na Binance Wallet e na Trust Wallet persistem após o crash das criptomoedas\" data-qa-id=\"news-headline-title\">Problemas de exibição na Binance Wallet e na Trust Wallet persistem após o crash das criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b4913d0a5bc81:0",
+      "index": 2,
       "title": "Captação de recursos em cripto atinge novo recorde de US$ 3,5 bilhões em uma única semana",
       "link": "https://br.tradingview.com/news/cointelegraph:b4913d0a5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:bfc97e9c7bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Strategy adicionou 220 BTC por US$ 27,2 milhões na semana passada, enquanto o Bitcoin atingiu novas máximas",
       "link": "https://br.tradingview.com/news/cointelegraph:bfc97e9c7bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a7b1e6a15bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Hyperliquid passa a permitir que qualquer pessoa lance futuros perpétuos, por um preço",
       "link": "https://br.tradingview.com/news/cointelegraph:a7b1e6a15bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:cc7bef998bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "XRP se recupera 66% após queda de preço e recupera US$ 75 bilhões em valor de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:cc7bef998bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3664dcc78bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin a US$ 1 milhão? Por que os gêmeos Winklevoss, da Gemini, o chamam de 'ouro 2.0'",
       "link": "https://br.tradingview.com/news/cointelegraph:3664dcc78bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:3aac1049bbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Cripto rende? Brasileiros com Bitcoin têm patrimônio triplo dos investidores comuns",
       "link": "https://br.tradingview.com/news/beincrypto:3aac1049bbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:4bf47492fbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Preço do Bitcoin recupera nível importante e traders afirmam que US$ 150 mil ainda estão em jogo",
       "link": "https://br.tradingview.com/news/cointelegraph:4bf47492fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:76f57e736bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Exchanges centralizadas enfrentam acusações de subnotificação massiva de liquidações",
       "link": "https://br.tradingview.com/news/cointelegraph:76f57e736bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:ce0cbb1e5bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoin x Ouro: dois ativos, duas realidades de investimento",
       "link": "https://br.tradingview.com/news/beincrypto:ce0cbb1e5bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:47b4bcae1bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Zcash impressiona com ganhos mensais de 520%: o rali do preço do ZEC pode continuar?",
       "link": "https://br.tradingview.com/news/cointelegraph:47b4bcae1bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:950873399bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Layers 2 de Ethereum superam a recuperação cripto após queda de US$ 19 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:950873399bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:bf8cc1f40bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "US$ 120 mil ou o fim do mercado em alta? 5 coisas que você precisa saber sobre Bitcoin esta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:bf8cc1f40bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Oct 2025 16:10:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de out. de 2025, 16:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"US$ 120 mil ou o fim do mercado em alta? 5 coisas que você precisa saber sobre Bitcoin esta semana\" data-qa-id=\"news-headline-title\">US$ 120 mil ou o fim do mercado em alta? 5 coisas que você precisa saber sobre Bitcoin esta semana</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2acd273babc81:0",
-      "index": 12,
-      "title": "Brasil retira R$ 55 milhões e minimiza ‘dump de Trump’ nos fundos de criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:2acd273babc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-13T15:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Oct 2025 15:50:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de out. de 2025, 15:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil retira R$ 55 milhões e minimiza ‘dump de Trump’ nos fundos de criptomoedas\" data-qa-id=\"news-headline-title\">Brasil retira R$ 55 milhões e minimiza ‘dump de Trump’ nos fundos de criptomoedas</div></div></article>"
     }
   ]
 }
