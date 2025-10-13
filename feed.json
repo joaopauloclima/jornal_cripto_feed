@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-13T20:53:40.722Z",
+  "updated_at": "2025-10-13T21:17:14.871Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1d56b4ba8bc81:0",
+      "id": "cointelegraph:a99ea7482bc81:0",
       "index": 0,
+      "title": "Análise de preços em 13/10: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e HYPE",
+      "link": "https://br.tradingview.com/news/cointelegraph:a99ea7482bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-13T21:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Oct 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de out. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 13/10: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e HYPE\" data-qa-id=\"news-headline-title\">Análise de preços em 13/10: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e HYPE</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0518f0d1ebc81:0",
+      "index": 1,
+      "title": "Baleia de Bitcoin revela short de 3.500 BTC: veja os principais níveis de suporte",
+      "link": "https://br.tradingview.com/news/cointelegraph:0518f0d1ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-13T20:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Oct 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de out. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleia de Bitcoin revela short de 3.500 BTC: veja os principais níveis de suporte\" data-qa-id=\"news-headline-title\">Baleia de Bitcoin revela short de 3.500 BTC: veja os principais níveis de suporte</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1d56b4ba8bc81:0",
+      "index": 2,
       "title": "Ações de mineradoras de Bitcoin se recuperam após ameaça de tarifas de Trump causar turbulência no mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:1d56b4ba8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d5e55ab18bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "BitMine adiciona mais de 200 mil ETH em fim de semana de compras 'agressivas' após o crash",
       "link": "https://br.tradingview.com/news/cointelegraph:d5e55ab18bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:092701319bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Problemas de exibição na Binance Wallet e na Trust Wallet persistem após o crash das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:092701319bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b4913d0a5bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Captação de recursos em cripto atinge novo recorde de US$ 3,5 bilhões em uma única semana",
       "link": "https://br.tradingview.com/news/cointelegraph:b4913d0a5bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:bfc97e9c7bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Strategy adicionou 220 BTC por US$ 27,2 milhões na semana passada, enquanto o Bitcoin atingiu novas máximas",
       "link": "https://br.tradingview.com/news/cointelegraph:bfc97e9c7bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a7b1e6a15bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Hyperliquid passa a permitir que qualquer pessoa lance futuros perpétuos, por um preço",
       "link": "https://br.tradingview.com/news/cointelegraph:a7b1e6a15bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:cc7bef998bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "XRP se recupera 66% após queda de preço e recupera US$ 75 bilhões em valor de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:cc7bef998bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:3664dcc78bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin a US$ 1 milhão? Por que os gêmeos Winklevoss, da Gemini, o chamam de 'ouro 2.0'",
       "link": "https://br.tradingview.com/news/cointelegraph:3664dcc78bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:3aac1049bbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Cripto rende? Brasileiros com Bitcoin têm patrimônio triplo dos investidores comuns",
       "link": "https://br.tradingview.com/news/beincrypto:3aac1049bbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4bf47492fbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do Bitcoin recupera nível importante e traders afirmam que US$ 150 mil ainda estão em jogo",
       "link": "https://br.tradingview.com/news/cointelegraph:4bf47492fbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:76f57e736bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Exchanges centralizadas enfrentam acusações de subnotificação massiva de liquidações",
       "link": "https://br.tradingview.com/news/cointelegraph:76f57e736bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:ce0cbb1e5bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin x Ouro: dois ativos, duas realidades de investimento",
       "link": "https://br.tradingview.com/news/beincrypto:ce0cbb1e5bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin x Ouro: dois ativos, duas realidades de investimento\" data-qa-id=\"news-headline-title\">Bitcoin x Ouro: dois ativos, duas realidades de investimento</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:47b4bcae1bc81:0",
-      "index": 12,
-      "title": "Zcash impressiona com ganhos mensais de 520%: o rali do preço do ZEC pode continuar?",
-      "link": "https://br.tradingview.com/news/cointelegraph:47b4bcae1bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-13T16:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Oct 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de out. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Zcash impressiona com ganhos mensais de 520%: o rali do preço do ZEC pode continuar?\" data-qa-id=\"news-headline-title\">Zcash impressiona com ganhos mensais de 520%: o rali do preço do ZEC pode continuar?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:950873399bc81:0",
-      "index": 13,
-      "title": "Layers 2 de Ethereum superam a recuperação cripto após queda de US$ 19 bilhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:950873399bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-13T16:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Oct 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de out. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Layers 2 de Ethereum superam a recuperação cripto após queda de US$ 19 bilhões\" data-qa-id=\"news-headline-title\">Layers 2 de Ethereum superam a recuperação cripto após queda de US$ 19 bilhões</div></div></article>"
     }
   ]
 }
