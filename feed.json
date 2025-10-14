@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-14T16:22:57.196Z",
+  "updated_at": "2025-10-14T16:58:23.096Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9368db391bc81:0",
+      "id": "cointelegraph:06a0b8e68bc81:0",
       "index": 0,
+      "title": "PF prende Buzeira em operação contra lavagem de dinheiro por criptomoedas e bets",
+      "link": "https://br.tradingview.com/news/cointelegraph:06a0b8e68bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-14T16:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Oct 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de out. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"PF prende Buzeira em operação contra lavagem de dinheiro por criptomoedas e bets\" data-qa-id=\"news-headline-title\">PF prende Buzeira em operação contra lavagem de dinheiro por criptomoedas e bets</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9368db391bc81:0",
+      "index": 1,
       "title": "78% das escolas usam IA em processos pedagógicos ou administrativos no Brasil, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:9368db391bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:4ca36411abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Correlação entre Bitcoin e ouro aumenta à medida que o BTC segue o caminho do ouro como reserva de valor",
       "link": "https://br.tradingview.com/news/cointelegraph:4ca36411abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:98ac50f25bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Preço da BNB cai 12% desde a máxima histórica: o bull run acabou?",
       "link": "https://br.tradingview.com/news/cointelegraph:98ac50f25bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d179f6962bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Crash de US$ 19 bilhões no mercado cripto foi 'desalavancagem controlada', não cascata, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:d179f6962bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9a9b274cfbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Empresa de tesouraria de Bitcoin Metaplanet agora vale menos do que suas reservas em BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:9a9b274cfbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:21f3c406dbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Trader misterioso da Hyperliquid dobra aposta em short de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:21f3c406dbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:bf61f54aebc81:0",
-      "index": 6,
+      "index": 7,
       "title": "XRP em colapso? Baleias despejam US$ 5 bi e vendas atingem recorde de 3 anos",
       "link": "https://br.tradingview.com/news/beincrypto:bf61f54aebc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ebb250dc1bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Análises sugerem compra com 15 altcoins em até 73% ignorando Trump vs China",
       "link": "https://br.tradingview.com/news/cointelegraph:ebb250dc1bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:89bf62791bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Elon Musk apoia Bitcoin em vez de moeda fiduciária em nova declaração audaciosa",
       "link": "https://br.tradingview.com/news/beincrypto:89bf62791bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:e46da5334bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Satélites estão vazando seus dados pior do que o Wi-Fi de um café, dizem pesquisadores",
       "link": "https://br.tradingview.com/news/cointelegraph:e46da5334bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:c928f980ebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "'FUD coletivo' é o melhor sinal para comprar Bitcoin, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:c928f980ebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:9cc3d6dd0bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Analista que previu a queda agora aposta em Bitcoin a US$ 150 mil",
       "link": "https://br.tradingview.com/news/beincrypto:9cc3d6dd0bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2c2257437bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Gigante TradFi JPMorgan planeja oferecer negociação de criptomoedas para clientes",
       "link": "https://br.tradingview.com/news/cointelegraph:2c2257437bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Oct 2025 12:50:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de out. de 2025, 12:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Gigante TradFi JPMorgan planeja oferecer negociação de criptomoedas para clientes\" data-qa-id=\"news-headline-title\">Gigante TradFi JPMorgan planeja oferecer negociação de criptomoedas para clientes</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4592f5da9bc81:0",
-      "index": 13,
-      "title": "Butão migra seu sistema nacional de identidade para a Ethereum",
-      "link": "https://br.tradingview.com/news/cointelegraph:4592f5da9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-14T12:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Oct 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de out. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Butão migra seu sistema nacional de identidade para a Ethereum\" data-qa-id=\"news-headline-title\">Butão migra seu sistema nacional de identidade para a Ethereum</div></div></article>"
     }
   ]
 }
