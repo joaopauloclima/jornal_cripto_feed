@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-15T16:20:39.070Z",
+  "updated_at": "2025-10-15T16:57:10.590Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d2afdcbf7bc81:0",
+      "id": "cointelegraph:3e9ded6e9bc81:0",
       "index": 0,
+      "title": "ETFs de Bitcoin e Ether dos EUA se recuperam após Powell sinalizar cortes de juros",
+      "link": "https://br.tradingview.com/news/cointelegraph:3e9ded6e9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-15T16:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Oct 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de out. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin e Ether dos EUA se recuperam após Powell sinalizar cortes de juros\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin e Ether dos EUA se recuperam após Powell sinalizar cortes de juros</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:4b802ce40bc81:0",
+      "index": 1,
+      "title": "Ether prestes a entrar em modo 'nuclear' com 3 'vácuos de oferta' ativos, aponta analista",
+      "link": "https://br.tradingview.com/news/cointelegraph:4b802ce40bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-15T16:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Oct 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de out. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ether prestes a entrar em modo 'nuclear' com 3 'vácuos de oferta' ativos, aponta analista\" data-qa-id=\"news-headline-title\">Ether prestes a entrar em modo 'nuclear' com 3 'vácuos de oferta' ativos, aponta analista</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d2afdcbf7bc81:0",
+      "index": 2,
       "title": "48 novas tesourarias de Bitcoin surgiram em apenas 3 meses, diz Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:d2afdcbf7bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:da41ac186bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Suporte em US$ 108 mil e Fed aumentam chance de rali do Bitcoin, sugerem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:da41ac186bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:603ff0181bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Crash cripto provavelmente não interrompeu o 'Uptober', dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:603ff0181bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6a1875716bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin pode ter mais uma queda antes de novas máximas históricas, diz Peter Brandt",
       "link": "https://br.tradingview.com/news/cointelegraph:6a1875716bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6b3e2bf39bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "CEO da BlackRock vê 'nova onda de oportunidade' na tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:6b3e2bf39bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:300ff0a63bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin tenta romper US$ 115 mil e dados sugerem alta até US$ 120 mil",
       "link": "https://br.tradingview.com/news/beincrypto:300ff0a63bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:594eddc4cbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Especialista aponta novos alvos para SEI, XLM, LINK, DOGE e SUI",
       "link": "https://br.tradingview.com/news/cointelegraph:594eddc4cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:3ce6ee4c6bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "CEO da Sorare continua otimista com a Ethereum, apesar da 'atualização' para Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:3ce6ee4c6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:207a076d2bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Prata dispara 120% e supera Bitcoin pela 1ª vez em 45 anos: acabou a era do “ouro digital”?",
       "link": "https://br.tradingview.com/news/beincrypto:207a076d2bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f2835795fbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Tom Lee e Arthur Hayes mantêm previsão de Ether a US$ 10 mil ainda este ano",
       "link": "https://br.tradingview.com/news/cointelegraph:f2835795fbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:fc7cca8e0bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Dados exclusivos de livro de ordens revelam detalhes sobre o crash do USDE",
       "link": "https://br.tradingview.com/news/cointelegraph:fc7cca8e0bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:c2930d307bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Análise XRP: preço estável pode estar escondendo acúmulo e indicar rali até US$ 2,74?",
       "link": "https://br.tradingview.com/news/beincrypto:c2930d307bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Oct 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de out. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise XRP: preço estável pode estar escondendo acúmulo e indicar rali até US$ 2,74?\" data-qa-id=\"news-headline-title\">Análise XRP: preço estável pode estar escondendo acúmulo e indicar rali até US$ 2,74?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:719a6de3abc81:0",
-      "index": 12,
-      "title": "Japão está trabalhando em novas regras para reprimir o uso de informações privilegiadas em negociações de criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:719a6de3abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-15T13:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Oct 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de out. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Japão está trabalhando em novas regras para reprimir o uso de informações privilegiadas em negociações de criptomoedas\" data-qa-id=\"news-headline-title\">Japão está trabalhando em novas regras para reprimir o uso de informações privilegiadas em negociações de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4f6f042dbbc81:0",
-      "index": 13,
-      "title": "Binance lança programa de US$ 400 milhões para traders afetados pela queda de sexta-feira",
-      "link": "https://br.tradingview.com/news/cointelegraph:4f6f042dbbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-15T12:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Oct 2025 12:40:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de out. de 2025, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance lança programa de US$ 400 milhões para traders afetados pela queda de sexta-feira\" data-qa-id=\"news-headline-title\">Binance lança programa de US$ 400 milhões para traders afetados pela queda de sexta-feira</div></div></article>"
     }
   ]
 }
