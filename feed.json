@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-15T10:22:01.752Z",
+  "updated_at": "2025-10-15T10:56:48.656Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2025:newsml_L2N3VW024:0",
+      "id": "cointelegraph:f47d516debc81:0",
       "index": 0,
+      "title": "BRLV: Real ganha nova stablecoin de empresa apoiada por Coinbase e cofundador do Nubank",
+      "link": "https://br.tradingview.com/news/cointelegraph:f47d516debc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-15T10:48:15.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Oct 2025 10:48:15 GMT\" class=\"apply-common-tooltip\" title=\"15 de out. de 2025, 10:48 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BRLV: Real ganha nova stablecoin de empresa apoiada por Coinbase e cofundador do Nubank\" data-qa-id=\"news-headline-title\">BRLV: Real ganha nova stablecoin de empresa apoiada por Coinbase e cofundador do Nubank</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L2N3VW024:0",
+      "index": 1,
       "title": "Coinbase investe na corretora indiana de criptomoedas CoinDCX com avaliação de US$ 2,45 bilhões",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L2N3VW024:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:4e63b5489bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Exclusivo: 'A CME vê o Brasil como uma região estratégica para a expansão de seus produtos de criptomoedas'",
       "link": "https://br.tradingview.com/news/cointelegraph:4e63b5489bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:96a9a1972bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Solana Superteam vai dar mais de R$ 10 mil para projetos cripto no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:96a9a1972bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e60555a29bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Analista aponta as 3 tendências que vão dominar o mercado cripto nos próximos anos",
       "link": "https://br.tradingview.com/news/cointelegraph:e60555a29bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b92f78a7bbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "77% dos investidores de Bitcoin estão deixando de ganhar dinheiro com suas moedas, revela pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:b92f78a7bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:958fd4169bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Prefeito de Nova York cria escritório de ativos digitais e blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:958fd4169bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d898fd3d0bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Tether fecha acordo de US$ 300 milhões com a Celsius e levanta preocupações sobre responsabilidades da stablecoin",
       "link": "https://br.tradingview.com/news/cointelegraph:d898fd3d0bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8055a1f9bbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Compradores de Bitcoin acumulam ordens em US$ 105 mil enquanto crise do mercado cripto se aproxima do fim",
       "link": "https://br.tradingview.com/news/cointelegraph:8055a1f9bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:de181f744bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "EUA hackearam carteiras de cripto para tomar US$ 14 bi em Bitcoin? entenda",
       "link": "https://br.tradingview.com/news/beincrypto:de181f744bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:1ee3872b9bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Atualização Fusaka da Ethereum entra em operação na Sepolia antes do lançamento na mainnet em dezembro",
       "link": "https://br.tradingview.com/news/cointelegraph:1ee3872b9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9ca9c4a86bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "EUA encerram processo fiscal contra o defensor do Bitcoin Roger Ver em acordo de US$ 50 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:9ca9c4a86bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:033dba86dbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "BNB atinge recorde de US$ 1.375 e recua: sinal de alerta para traders?",
       "link": "https://br.tradingview.com/news/beincrypto:033dba86dbc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:9b84a7f0dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Governo dos EUA busca adicionar US$ 14 bilhões às reservas de criptomoedas como parte de caso de confisco",
       "link": "https://br.tradingview.com/news/cointelegraph:9b84a7f0dbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Oct 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de out. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Governo dos EUA busca adicionar US$ 14 bilhões às reservas de criptomoedas como parte de caso de confisco\" data-qa-id=\"news-headline-title\">Governo dos EUA busca adicionar US$ 14 bilhões às reservas de criptomoedas como parte de caso de confisco</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c9c1a233bbc81:0",
-      "index": 13,
-      "title": "BlackRock registra trimestre recorde para ETFs da iShares com aumento na demanda por Bitcoin e Ether",
-      "link": "https://br.tradingview.com/news/cointelegraph:c9c1a233bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-14T19:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Oct 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de out. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BlackRock registra trimestre recorde para ETFs da iShares com aumento na demanda por Bitcoin e Ether\" data-qa-id=\"news-headline-title\">BlackRock registra trimestre recorde para ETFs da iShares com aumento na demanda por Bitcoin e Ether</div></div></article>"
     }
   ]
 }
