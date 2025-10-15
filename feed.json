@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-15T19:16:21.254Z",
+  "updated_at": "2025-10-15T19:53:41.455Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:68b8c97b2bc81:0",
+      "id": "cointelegraph:6ea84ef3abc81:0",
       "index": 0,
+      "title": "Criptomoedas 'passaram no teste' durante o crash do fim de semana, diz Matt Hougan, da Bitwise",
+      "link": "https://br.tradingview.com/news/cointelegraph:6ea84ef3abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-15T19:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Oct 2025 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de out. de 2025, 19:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas 'passaram no teste' durante o crash do fim de semana, diz Matt Hougan, da Bitwise\" data-qa-id=\"news-headline-title\">Criptomoedas 'passaram no teste' durante o crash do fim de semana, diz Matt Hougan, da Bitwise</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:68b8c97b2bc81:0",
+      "index": 1,
       "title": "Análise de preço do BNB: padrão de 'topo duplo' indica queda de 30% à frente",
       "link": "https://br.tradingview.com/news/cointelegraph:68b8c97b2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:2c7b89726bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Como seria se o Ethereum chegasse a US$ 100.000?",
       "link": "https://br.tradingview.com/news/cointelegraph:2c7b89726bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:093d857bbbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Preço do XRP mostra potencial em US$ 2,50: alta de 57% ainda é possível?",
       "link": "https://br.tradingview.com/news/cointelegraph:093d857bbbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3088e918cbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Tanssi anuncia parceria com a Trexx para monetizar eSports via blockchainn",
       "link": "https://br.tradingview.com/news/cointelegraph:3088e918cbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:6c673c267bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Movimentações diárias de US$ 20 mil serão normais no Bitcoin, prevê Anthony Pompliano",
       "link": "https://br.tradingview.com/news/beincrypto:6c673c267bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8bf7ca253bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Métrica do Bitcoin indica 'euforia' enquanto preço de US$ 112,5 mil pressiona novos compradores",
       "link": "https://br.tradingview.com/news/cointelegraph:8bf7ca253bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:3c75df885bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "China Merchants Bank tokeniza fundo de US$ 3,8 bilhões na BNB Chain em Hong Kong",
       "link": "https://br.tradingview.com/news/cointelegraph:3c75df885bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:89e1953fdbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Mercado de NFTs se recupera após perda de US$ 1,2 bilhão no crash cripto de sexta-feira",
       "link": "https://br.tradingview.com/news/cointelegraph:89e1953fdbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:3e9ded6e9bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "ETFs de Bitcoin e Ether dos EUA se recuperam após Powell sinalizar cortes de juros",
       "link": "https://br.tradingview.com/news/cointelegraph:3e9ded6e9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:4b802ce40bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ether prestes a entrar em modo 'nuclear' com 3 'vácuos de oferta' ativos, aponta analista",
       "link": "https://br.tradingview.com/news/cointelegraph:4b802ce40bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d2afdcbf7bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "48 novas tesourarias de Bitcoin surgiram em apenas 3 meses, diz Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:d2afdcbf7bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:da41ac186bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Suporte em US$ 108 mil e Fed aumentam chance de rali do Bitcoin, sugerem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:da41ac186bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:603ff0181bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Crash cripto provavelmente não interrompeu o 'Uptober', dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:603ff0181bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Oct 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de out. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Crash cripto provavelmente não interrompeu o 'Uptober', dizem analistas\" data-qa-id=\"news-headline-title\">Crash cripto provavelmente não interrompeu o 'Uptober', dizem analistas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:6a1875716bc81:0",
-      "index": 13,
-      "title": "Bitcoin pode ter mais uma queda antes de novas máximas históricas, diz Peter Brandt",
-      "link": "https://br.tradingview.com/news/cointelegraph:6a1875716bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-15T15:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode ter mais uma queda antes de novas máximas históricas, diz Peter Brandt\" data-qa-id=\"news-headline-title\">Bitcoin pode ter mais uma queda antes de novas máximas históricas, diz Peter Brandt</div></div></article>"
     }
   ]
 }
