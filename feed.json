@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-16T14:56:56.891Z",
+  "updated_at": "2025-10-16T15:20:27.677Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:652d77e45bc81:0",
+      "id": "cointelegraph:9368d4d0ebc81:0",
       "index": 0,
+      "title": "Segundo mandato de Trump impulsiona fortuna cripto de US$ 1 bilhão para sua família, diz reportagem",
+      "link": "https://br.tradingview.com/news/cointelegraph:9368d4d0ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-16T15:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Oct 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de out. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Segundo mandato de Trump impulsiona fortuna cripto de US$ 1 bilhão para sua família, diz reportagem\" data-qa-id=\"news-headline-title\">Segundo mandato de Trump impulsiona fortuna cripto de US$ 1 bilhão para sua família, diz reportagem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:652d77e45bc81:0",
+      "index": 1,
       "title": "Memecoins voltam aos níveis de julho enquanto o mercado luta para se recuperar",
       "link": "https://br.tradingview.com/news/cointelegraph:652d77e45bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:ddae6620fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Presidente da SEC: EUA estão 10 anos atrasados em cripto, corrigir isso é a 'prioridade número um'",
       "link": "https://br.tradingview.com/news/cointelegraph:ddae6620fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:f7b2b68d7bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Aposta de US$ 1,1 bilhão contra o Bitcoin indica que um colapso pode estar próximo",
       "link": "https://br.tradingview.com/news/beincrypto:f7b2b68d7bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8a5f185e8bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "BitMine parece comprar na queda enquanto ETH cai 20% em relação ao pico",
       "link": "https://br.tradingview.com/news/cointelegraph:8a5f185e8bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:2eb067270bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Análise XRP: preço pode romper US$ 3,33 e repetir ciclo de 2017?",
       "link": "https://br.tradingview.com/news/beincrypto:2eb067270bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:77bd6bf70bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin precisa de um novo catalisador para evitar uma 'correção mais profunda', afirmam analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:77bd6bf70bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:9e4f8ada2bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bancos também erram transferências — pelo menos o erro de US$ 300 trilhões da Paxos foi transparente",
       "link": "https://br.tradingview.com/news/cointelegraph:9e4f8ada2bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:492404260bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ethereum mostra 3 sinais de alta com baleias comprando US$ 600 milhões em ETH",
       "link": "https://br.tradingview.com/news/beincrypto:492404260bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:69c54d38cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "95% das compras corporativas de ETH ocorreram no terceiro trimestre — início do superciclo do Ether?",
       "link": "https://br.tradingview.com/news/cointelegraph:69c54d38cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:48b970d25bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Trump confirma que os EUA estão em uma guerra comercial com a China",
       "link": "https://br.tradingview.com/news/cointelegraph:48b970d25bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:57adc8b60bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "BlackRock aprofunda aposta no mercado cripto com novo fundo de reserva de stablecoin",
       "link": "https://br.tradingview.com/news/beincrypto:57adc8b60bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:2b4ab8086bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "BLESS a 360% ignora pressão sobre as criptomoedas e o Bitcoin a US$ 111 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:2b4ab8086bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:31b519f40bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "James Wynn, trader de cripto de alta alavancagem, é liquidado novamente, desta vez em US$ 4,8 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:31b519f40bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Oct 2025 12:10:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de out. de 2025, 12:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"James Wynn, trader de cripto de alta alavancagem, é liquidado novamente, desta vez em US$ 4,8 milhões\" data-qa-id=\"news-headline-title\">James Wynn, trader de cripto de alta alavancagem, é liquidado novamente, desta vez em US$ 4,8 milhões</div></div></article>"
-    },
-    {
-      "id": "beincrypto:abf4763d3bc81:0",
-      "index": 13,
-      "title": "Por que o mercado de criptomoedas está em baixa hoje 16/10/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:abf4763d3bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-16T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSNX.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Oct 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de out. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em baixa hoje 16/10/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em baixa hoje 16/10/2025?</div></div></article>"
     }
   ]
 }
