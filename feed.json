@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-16T19:54:16.981Z",
+  "updated_at": "2025-10-16T20:21:13.091Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:fb51fae5cbc81:0",
+      "id": "cointelegraph:05dd3c6ccbc81:0",
       "index": 0,
+      "title": "A16z Crypto, da Andreessen Horowitz, investe US$ 50 milhões no protocolo de staking líquido Jito da Solana",
+      "link": "https://br.tradingview.com/news/cointelegraph:05dd3c6ccbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-16T20:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Oct 2025 20:10:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de out. de 2025, 20:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A16z Crypto, da Andreessen Horowitz, investe US$ 50 milhões no protocolo de staking líquido Jito da Solana\" data-qa-id=\"news-headline-title\">A16z Crypto, da Andreessen Horowitz, investe US$ 50 milhões no protocolo de staking líquido Jito da Solana</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9847759ecbc81:0",
+      "index": 1,
+      "title": "Fusão cripto da Strive com a Semler Scientific enfrenta oposição de acionistas",
+      "link": "https://br.tradingview.com/news/cointelegraph:9847759ecbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-16T19:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Oct 2025 19:50:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de out. de 2025, 19:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fusão cripto da Strive com a Semler Scientific enfrenta oposição de acionistas\" data-qa-id=\"news-headline-title\">Fusão cripto da Strive com a Semler Scientific enfrenta oposição de acionistas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fb51fae5cbc81:0",
+      "index": 2,
       "title": "Como a Grayscale levou o staking de criptomoedas a Wall Street pela primeira vez",
       "link": "https://br.tradingview.com/news/cointelegraph:fb51fae5cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:48fd85858bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Ethereum confirma sinal de baixa que da última vez levou o ETH a cair 60%",
       "link": "https://br.tradingview.com/news/cointelegraph:48fd85858bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:ee90e8eccbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "BlackRock entra no aquecido mercado de stablecoins com fundo reformulado",
       "link": "https://br.tradingview.com/news/cointelegraph:ee90e8eccbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:42b1f0946bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Conflito entre Ocean e Fetch.ai escala para ameaças legais enquanto a Binance restringe depósitos",
       "link": "https://br.tradingview.com/news/cointelegraph:42b1f0946bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:15b0864e1bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Nova exchange de ações tokenizadas da França quer reinventar as IPOs",
       "link": "https://br.tradingview.com/news/cointelegraph:15b0864e1bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:f03216030bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "CZ desafia Coinbase a listar mais projetos BNB enquanto tensões entre exchanges aumentam",
       "link": "https://br.tradingview.com/news/beincrypto:f03216030bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:0f6dc91b8bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Sem confiança, mas com ressalvas: a grande promessa DeFi do Bitcoin da Babylon",
       "link": "https://br.tradingview.com/news/cointelegraph:0f6dc91b8bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c10b4e0d1bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Serpro inicia testes em nova plataforma blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:c10b4e0d1bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:cd8e1af1fbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Temporada das 'dino coins': por que Zcash e Dash estão entre as que mais se recuperam?",
       "link": "https://br.tradingview.com/news/cointelegraph:cd8e1af1fbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:cefb61a91bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Banco de 170 anos agora custodia criptomoedas de clientes institucionais da OKX na Europa",
       "link": "https://br.tradingview.com/news/cointelegraph:cefb61a91bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9c326fca4bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Trader de Bitcoin diz 'é hora de travar' enquanto compradores de queda entram abaixo de US$ 110 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:9c326fca4bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:1f2bba6c7bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Interesse do varejo por Bitcoin está em 'mercado de baixa' enquanto o sentimento cripto vira para o medo",
       "link": "https://br.tradingview.com/news/cointelegraph:1f2bba6c7bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Oct 2025 16:10:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de out. de 2025, 16:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Interesse do varejo por Bitcoin está em 'mercado de baixa' enquanto o sentimento cripto vira para o medo\" data-qa-id=\"news-headline-title\">Interesse do varejo por Bitcoin está em 'mercado de baixa' enquanto o sentimento cripto vira para o medo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:682dc09a2bc81:0",
-      "index": 12,
-      "title": "Nubank é a 4ª empresa que mais cresce no mundo segundo Top 100 da Fortune",
-      "link": "https://br.tradingview.com/news/cointelegraph:682dc09a2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-16T15:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Oct 2025 15:50:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de out. de 2025, 15:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nubank é a 4ª empresa que mais cresce no mundo segundo Top 100 da Fortune\" data-qa-id=\"news-headline-title\">Nubank é a 4ª empresa que mais cresce no mundo segundo Top 100 da Fortune</div></div></article>"
-    },
-    {
-      "id": "beincrypto:6a7b82210bc81:0",
-      "index": 13,
-      "title": "Ripple adquire gestora de tesouraria corporativa por US$ 1 bilhão",
-      "link": "https://br.tradingview.com/news/beincrypto:6a7b82210bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-16T15:40:30.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Oct 2025 15:40:30 GMT\" class=\"apply-common-tooltip\" title=\"16 de out. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ripple adquire gestora de tesouraria corporativa por US$ 1 bilhão\" data-qa-id=\"news-headline-title\">Ripple adquire gestora de tesouraria corporativa por US$ 1 bilhão</div></div></article>"
     }
   ]
 }
