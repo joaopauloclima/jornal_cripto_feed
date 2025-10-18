@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-18T11:53:46.741Z",
+  "updated_at": "2025-10-18T12:31:12.774Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b4a90c4bebc81:0",
+      "id": "cointelegraph:a0b3e6277bc81:0",
       "index": 0,
+      "title": "Colapso do NAV cria oportunidade rara em ações de empresas de tesouraria de Bitcoin, diz 10x Research",
+      "link": "https://br.tradingview.com/news/cointelegraph:a0b3e6277bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-18T12:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 18 Oct 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de out. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Colapso do NAV cria oportunidade rara em ações de empresas de tesouraria de Bitcoin, diz 10x Research\" data-qa-id=\"news-headline-title\">Colapso do NAV cria oportunidade rara em ações de empresas de tesouraria de Bitcoin, diz 10x Research</div></div></article>"
+    },
+    {
+      "id": "beincrypto:68fc581ecbc81:0",
+      "index": 1,
+      "title": "ETH Latam 2025 faz São Paulo virar centro do Ethereum na América Latina",
+      "link": "https://br.tradingview.com/news/beincrypto:68fc581ecbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-10-18T12:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 18 Oct 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de out. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETH Latam 2025 faz São Paulo virar centro do Ethereum na América Latina\" data-qa-id=\"news-headline-title\">ETH Latam 2025 faz São Paulo virar centro do Ethereum na América Latina</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b4a90c4bebc81:0",
+      "index": 2,
       "title": "Notícias Cripto: ETH Latam acontece em São Paulo, Tools for Humanity ganha prêmio e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:b4a90c4bebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e7c18681ebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Por que o Bitcoin não está subindo como o ouro que atingiu US$ 30 trilhões?",
       "link": "https://br.tradingview.com/news/cointelegraph:e7c18681ebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b7b31d6a3bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Não perca mais dinheiro com Bitcoin: CryptoQuant indica 3 armas certeiras para prever o preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:b7b31d6a3bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:671c41e51bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Fortuna de Elon Musk é quase 2 vezes maior que todas as reservas do Banco Central do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:671c41e51bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:915ab4543bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Rayls, solução de privacidade do Drex, mira mercado de US$ 100 trilhões com pré-venda de token e mainnet à vista",
       "link": "https://br.tradingview.com/news/cointelegraph:915ab4543bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:cfa47ecd2bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Traders dizem que a ‘temporada de alta do Bitcoin acabou’ e alertam para uma queda de 50% no preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:cfa47ecd2bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5055c716fbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Como identificar manipulação de mercado em altcoins antes que elas despenquem",
       "link": "https://br.tradingview.com/news/cointelegraph:5055c716fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a9346d96bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "E se os computadores quânticos já tiverem quebrado o Bitcoin?",
       "link": "https://br.tradingview.com/news/cointelegraph:a9346d96bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:3bafddb0cbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Por que a Rússia lidera a Europa em adoção de criptomoedas, segundo a Chainalysis",
       "link": "https://br.tradingview.com/news/cointelegraph:3bafddb0cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:a23f9b87cbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Filas por ouro disparam com alta de 18% e Bitcoin perde espaço",
       "link": "https://br.tradingview.com/news/beincrypto:a23f9b87cbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:cb83114fdbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Megabancos japoneses vão emitir conjuntamente uma stablecoin atrelada ao iene, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:cb83114fdbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:d6164e968bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Quão baixo o Bitcoin pode cair? 'Estresse bancário' regional nos EUA empurra o BTC em direção a US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d6164e968bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 17 Oct 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de out. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Quão baixo o Bitcoin pode cair? 'Estresse bancário' regional nos EUA empurra o BTC em direção a US$ 100 mil\" data-qa-id=\"news-headline-title\">Quão baixo o Bitcoin pode cair? 'Estresse bancário' regional nos EUA empurra o BTC em direção a US$ 100 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:df6e1dc91bc81:0",
-      "index": 12,
-      "title": "França aumenta pressão sobre a Binance e rivais em meio a disputa de poder na União Europeia, diz reportagem",
-      "link": "https://br.tradingview.com/news/cointelegraph:df6e1dc91bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-17T18:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 17 Oct 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de out. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"França aumenta pressão sobre a Binance e rivais em meio a disputa de poder na União Europeia, diz reportagem\" data-qa-id=\"news-headline-title\">França aumenta pressão sobre a Binance e rivais em meio a disputa de poder na União Europeia, diz reportagem</div></div></article>"
-    },
-    {
-      "id": "beincrypto:3b18b87fbbc81:0",
-      "index": 13,
-      "title": "Ripple planeja levantar US$ 1 bilhão para recomprar XRP, dizem fontes",
-      "link": "https://br.tradingview.com/news/beincrypto:3b18b87fbbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-17T18:00:40.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 17 Oct 2025 18:00:40 GMT\" class=\"apply-common-tooltip\" title=\"17 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ripple planeja levantar US$ 1 bilhão para recomprar XRP, dizem fontes\" data-qa-id=\"news-headline-title\">Ripple planeja levantar US$ 1 bilhão para recomprar XRP, dizem fontes</div></div></article>"
     }
   ]
 }
