@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-18T18:23:52.070Z",
+  "updated_at": "2025-10-18T18:55:00.351Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:46fb4c0a8bc81:0",
+      "id": "cointelegraph:22abd08b2bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin está alinhado para queda para US$ 95 mil, apesar de dados otimistas do RSI",
+      "link": "https://br.tradingview.com/news/cointelegraph:22abd08b2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-18T18:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 18 Oct 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de out. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin está alinhado para queda para US$ 95 mil, apesar de dados otimistas do RSI\" data-qa-id=\"news-headline-title\">Preço do Bitcoin está alinhado para queda para US$ 95 mil, apesar de dados otimistas do RSI</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:46fb4c0a8bc81:0",
+      "index": 1,
       "title": "ETFs de Bitcoin perdem US$ 1,2 bilhão em semana negativa, mas Schwab permanece otimista",
       "link": "https://br.tradingview.com/news/cointelegraph:46fb4c0a8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:62c5d7f97bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Regulador suíço GESPA registra queixa contra plataforma de NFTs da FIFA",
       "link": "https://br.tradingview.com/news/cointelegraph:62c5d7f97bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:136100ce3bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Escritório do cofundador da BitMEX busca US$ 250 milhões para fundo de private equity",
       "link": "https://br.tradingview.com/news/cointelegraph:136100ce3bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:29e6cd1d7bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Touros do ETH não se abalaram com a queda surpresa abaixo de US$ 3,7 mil: aqui está o porquê",
       "link": "https://br.tradingview.com/news/cointelegraph:29e6cd1d7bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:0c12a0329bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Empresas públicas detêm US$ 110 bilhões em BTC, mas quais estão lucrando com o padrão Bitcoin?",
       "link": "https://br.tradingview.com/news/cointelegraph:0c12a0329bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8a78fa8a0bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin mantém US$ 105 mil com recuperação de ações de bancos dos EUA e trégua de Trump eleva o sentimento",
       "link": "https://br.tradingview.com/news/cointelegraph:8a78fa8a0bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0fe9e29aabc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ondo Finance pede à SEC dos EUA que adie licença que permitiria à Nasdaq lançar ações tokenizadas",
       "link": "https://br.tradingview.com/news/cointelegraph:0fe9e29aabc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:33d31d3dfbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Tempo, nova blockchain da Stripe, é avaliada em US$ 5 bilhões em rodada de financiamento de US$ 500 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:33d31d3dfbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:3e04e4b63bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Veterano da Fundação Ethereum, Dankrad Feist, se junta à equipe da Tempo da Stripe",
       "link": "https://br.tradingview.com/news/cointelegraph:3e04e4b63bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:a5b409ad1bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Fundador da Huobi arrecada US$ 1 bilhão como parte de estratégia de fundo Ether",
       "link": "https://br.tradingview.com/news/cointelegraph:a5b409ad1bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:826dba634bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "'Bitcoin antecipa problemas': bancos estão estressados ​​e 'rendimentos estão vomitando', diz CEO da Strike",
       "link": "https://br.tradingview.com/news/cointelegraph:826dba634bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a0b3e6277bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Colapso do NAV cria oportunidade rara em ações de empresas de tesouraria de Bitcoin, diz 10x Research",
       "link": "https://br.tradingview.com/news/cointelegraph:a0b3e6277bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:68fc581ecbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "ETH Latam 2025 faz São Paulo virar centro do Ethereum na América Latina",
       "link": "https://br.tradingview.com/news/beincrypto:68fc581ecbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 18 Oct 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de out. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETH Latam 2025 faz São Paulo virar centro do Ethereum na América Latina\" data-qa-id=\"news-headline-title\">ETH Latam 2025 faz São Paulo virar centro do Ethereum na América Latina</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b4a90c4bebc81:0",
-      "index": 13,
-      "title": "Notícias Cripto: ETH Latam acontece em São Paulo, Tools for Humanity ganha prêmio e outras novidades",
-      "link": "https://br.tradingview.com/news/cointelegraph:b4a90c4bebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-18T10:18:24.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 18 Oct 2025 10:18:24 GMT\" class=\"apply-common-tooltip\" title=\"18 de out. de 2025, 10:18 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias Cripto: ETH Latam acontece em São Paulo, Tools for Humanity ganha prêmio e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: ETH Latam acontece em São Paulo, Tools for Humanity ganha prêmio e outras novidades</div></div></article>"
     }
   ]
 }
