@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-19T17:16:21.424Z",
+  "updated_at": "2025-10-19T17:53:28.501Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:be15054b7bc81:0",
+      "id": "cointelegraph:9bfe1faa9bc81:0",
       "index": 0,
+      "title": "John Bollinger diz para investidores ‘prestarem atenção’, pois uma grande volatilidade pode ser iminente",
+      "link": "https://br.tradingview.com/news/cointelegraph:9bfe1faa9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-19T17:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 19 Oct 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de out. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"John Bollinger diz para investidores ‘prestarem atenção’, pois uma grande volatilidade pode ser iminente\" data-qa-id=\"news-headline-title\">John Bollinger diz para investidores ‘prestarem atenção’, pois uma grande volatilidade pode ser iminente</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:be15054b7bc81:0",
+      "index": 1,
       "title": "Michael Saylor sugere nova compra de Bitcoin apesar do colapso do NAV",
       "link": "https://br.tradingview.com/news/cointelegraph:be15054b7bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:0e28f6577bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoins de Satoshi caíram mais de US$ 20 bilhões em relação à máxima histórica durante queda recente",
       "link": "https://br.tradingview.com/news/cointelegraph:0e28f6577bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:adc6f5e02bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin pode se recuperar mesmo com a queda do ouro após máximas históricas? Analistas opinam",
       "link": "https://br.tradingview.com/news/cointelegraph:adc6f5e02bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:101f2f103bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "OpenSea nega abandono de NFTs e diz que está evoluindo para 'negociar tudo'",
       "link": "https://br.tradingview.com/news/cointelegraph:101f2f103bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:7c17058bdbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Autoridade tributária do Reino Unido duplica envio de cartas de advertência sobre ganhos não declarados com criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:7c17058bdbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:97653d554bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Robinhood tokeniza quase 500 ações e ETFs dos EUA na Arbitrum para usuários da UE",
       "link": "https://br.tradingview.com/news/cointelegraph:97653d554bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:655fcc8d4bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Roman Storm questiona desenvolvedores de DeFi: Vocês têm certeza de que o DOJ não vai persegui-los?",
       "link": "https://br.tradingview.com/news/cointelegraph:655fcc8d4bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:840af0d64bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Stablecoins na verdade são 'moedas digitais de empresas centralizadas', diz VC",
       "link": "https://br.tradingview.com/news/cointelegraph:840af0d64bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:0d88b8b51bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Notícias Cripto: ABToken e Veirano lançam guia inédito, Final da Copa de trade do BTG e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:0d88b8b51bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:39536b3bebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Visa aposta em DeFi para revolucionar mercado de crédito global com stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:39536b3bebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:22abd08b2bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço do Bitcoin está alinhado para queda para US$ 95 mil, apesar de dados otimistas do RSI",
       "link": "https://br.tradingview.com/news/cointelegraph:22abd08b2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:46fb4c0a8bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "ETFs de Bitcoin perdem US$ 1,2 bilhão em semana negativa, mas Schwab permanece otimista",
       "link": "https://br.tradingview.com/news/cointelegraph:46fb4c0a8bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:62c5d7f97bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Regulador suíço GESPA registra queixa contra plataforma de NFTs da FIFA",
       "link": "https://br.tradingview.com/news/cointelegraph:62c5d7f97bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 18 Oct 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de out. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Regulador suíço GESPA registra queixa contra plataforma de NFTs da FIFA\" data-qa-id=\"news-headline-title\">Regulador suíço GESPA registra queixa contra plataforma de NFTs da FIFA</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:136100ce3bc81:0",
-      "index": 13,
-      "title": "Escritório do cofundador da BitMEX busca US$ 250 milhões para fundo de private equity",
-      "link": "https://br.tradingview.com/news/cointelegraph:136100ce3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-18T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 18 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Escritório do cofundador da BitMEX busca US$ 250 milhões para fundo de private equity\" data-qa-id=\"news-headline-title\">Escritório do cofundador da BitMEX busca US$ 250 milhões para fundo de private equity</div></div></article>"
     }
   ]
 }
