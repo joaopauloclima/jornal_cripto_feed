@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-20T10:21:19.305Z",
+  "updated_at": "2025-10-20T10:56:12.460Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:caece2afebc81:0",
+      "id": "cointelegraph:37470ecebbc81:0",
       "index": 0,
+      "title": "BlackRock prevê: do varejo à tesouraria de bancos, criptoativos estarão nos portfólios de todos os brasileiros",
+      "link": "https://br.tradingview.com/news/cointelegraph:37470ecebbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-20T10:45:03.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 20 Oct 2025 10:45:03 GMT\" class=\"apply-common-tooltip\" title=\"20 de out. de 2025, 10:45 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BlackRock prevê: do varejo à tesouraria de bancos, criptoativos estarão nos portfólios de todos os brasileiros\" data-qa-id=\"news-headline-title\">BlackRock prevê: do varejo à tesouraria de bancos, criptoativos estarão nos portfólios de todos os brasileiros</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:caece2afebc81:0",
+      "index": 1,
       "title": "Preço do Bitcoin hoje, 20/10/2025: por que o BTC subiu hoje? Bitcoin sobe 5% e volta a US$ 111 mil com força renovada",
       "link": "https://br.tradingview.com/news/cointelegraph:caece2afebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:224c03118bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Gigantes da tecnologia chinesa interrompem planos de stablecoins em Hong Kong em meio a restrições de Pequim",
       "link": "https://br.tradingview.com/news/cointelegraph:224c03118bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e069a745ebc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Preço do Ethereum pode recuperar os US$ 4.500 em outubro?",
       "link": "https://br.tradingview.com/news/cointelegraph:e069a745ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:abdadfbedbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "BitMine acumula US$ 1,5 bilhão em Ether desde a queda, apesar dos temores de Lee sobre a bolha das tesourarias corporativas",
       "link": "https://br.tradingview.com/news/cointelegraph:abdadfbedbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ca1726716bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Mercado cripto dispara após Trump confirmar cúpula com Xi Jinping em 31 de outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:ca1726716bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:94d9d3b24bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Fechamento semanal do Bitcoin deve atingir US$ 108 mil para resgatar principal ‘área de demanda’",
       "link": "https://br.tradingview.com/news/cointelegraph:94d9d3b24bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:9bfe1faa9bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "John Bollinger diz para investidores ‘prestarem atenção’, pois uma grande volatilidade pode ser iminente",
       "link": "https://br.tradingview.com/news/cointelegraph:9bfe1faa9bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:be15054b7bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Michael Saylor sugere nova compra de Bitcoin apesar do colapso do NAV",
       "link": "https://br.tradingview.com/news/cointelegraph:be15054b7bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:0e28f6577bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoins de Satoshi caíram mais de US$ 20 bilhões em relação à máxima histórica durante queda recente",
       "link": "https://br.tradingview.com/news/cointelegraph:0e28f6577bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:adc6f5e02bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin pode se recuperar mesmo com a queda do ouro após máximas históricas? Analistas opinam",
       "link": "https://br.tradingview.com/news/cointelegraph:adc6f5e02bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:101f2f103bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "OpenSea nega abandono de NFTs e diz que está evoluindo para 'negociar tudo'",
       "link": "https://br.tradingview.com/news/cointelegraph:101f2f103bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7c17058bdbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Autoridade tributária do Reino Unido duplica envio de cartas de advertência sobre ganhos não declarados com criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:7c17058bdbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 19 Oct 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de out. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Autoridade tributária do Reino Unido duplica envio de cartas de advertência sobre ganhos não declarados com criptomoedas\" data-qa-id=\"news-headline-title\">Autoridade tributária do Reino Unido duplica envio de cartas de advertência sobre ganhos não declarados com criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:97653d554bc81:0",
-      "index": 12,
-      "title": "Robinhood tokeniza quase 500 ações e ETFs dos EUA na Arbitrum para usuários da UE",
-      "link": "https://br.tradingview.com/news/cointelegraph:97653d554bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-19T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 19 Oct 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de out. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Robinhood tokeniza quase 500 ações e ETFs dos EUA na Arbitrum para usuários da UE\" data-qa-id=\"news-headline-title\">Robinhood tokeniza quase 500 ações e ETFs dos EUA na Arbitrum para usuários da UE</div></div></article>"
     }
   ]
 }
