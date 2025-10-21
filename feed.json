@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-21T16:24:20.951Z",
+  "updated_at": "2025-10-21T16:58:13.888Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1d22eb291bc81:0",
+      "id": "cointelegraph:852fde871bc81:0",
       "index": 0,
+      "title": "SpaceX movimenta US$ 257 milhões em Bitcoin e reacende dúvidas sobre sua estratégia cripto",
+      "link": "https://br.tradingview.com/news/cointelegraph:852fde871bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-21T16:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SpaceX movimenta US$ 257 milhões em Bitcoin e reacende dúvidas sobre sua estratégia cripto\" data-qa-id=\"news-headline-title\">SpaceX movimenta US$ 257 milhões em Bitcoin e reacende dúvidas sobre sua estratégia cripto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:084db2a2dbc81:0",
+      "index": 1,
+      "title": "Ethereum falha novamente acima de US$ 4 mil enquanto traders se frustram com volatilidade",
+      "link": "https://br.tradingview.com/news/cointelegraph:084db2a2dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-21T16:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum falha novamente acima de US$ 4 mil enquanto traders se frustram com volatilidade\" data-qa-id=\"news-headline-title\">Ethereum falha novamente acima de US$ 4 mil enquanto traders se frustram com volatilidade</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1d22eb291bc81:0",
+      "index": 2,
       "title": "Bitcoin mira gap da CME abaixo enquanto preço cai 2,5%, com risco de colapso para US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:1d22eb291bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:84a4d1994bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Turbulência política nos EUA testa a 'confiança institucional' enquanto ETFs de cripto registram saídas",
       "link": "https://br.tradingview.com/news/cointelegraph:84a4d1994bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:23d9ee37fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Baleia despeja Bitcoin para não ser liquidada em US$ 135 mil, mas há um detalhe",
       "link": "https://br.tradingview.com/news/cointelegraph:23d9ee37fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:e290dd5e1bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Chefe da Polygon diz que tem 'questionado sua lealdade' à Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:e290dd5e1bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:dfb72e6c8bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ex-desenvolvedor acusa Vitalik Buterin de controlar o Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:dfb72e6c8bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:577b021bcbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Coinbase gasta US$ 25 milhões para reviver um podcast da última alta do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:577b021bcbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:666a21ed6bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Coinbase para os EUA: Adote a blockchain se quiser combater o crime nela",
       "link": "https://br.tradingview.com/news/cointelegraph:666a21ed6bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:49e11d344bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em alta hoje 21/10/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:49e11d344bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:a32c89a2ebc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Próximo mercado de baixa das criptos terá novo gatilho, alerta Willy Woo",
       "link": "https://br.tradingview.com/news/cointelegraph:a32c89a2ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4a9855b32bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Tom Lee, da BitMine, diz que 'deslocamento de preço' do Ether é sinal de compra",
       "link": "https://br.tradingview.com/news/cointelegraph:4a9855b32bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:452d83ef2bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Pânico de hoje é o ‘rali de amanhã’ do XRP e do LINK, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:452d83ef2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e4a2d512dbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Fechamento do governo dos EUA 'provavelmente' terminará esta semana, diz assessor de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:e4a2d512dbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 13:01:10 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 13:01 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fechamento do governo dos EUA 'provavelmente' terminará esta semana, diz assessor de Trump\" data-qa-id=\"news-headline-title\">Fechamento do governo dos EUA 'provavelmente' terminará esta semana, diz assessor de Trump</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:cc7eb5e81bc81:0",
-      "index": 12,
-      "title": "House of Doge, da Dogecoin, aposta em time italiano azarão",
-      "link": "https://br.tradingview.com/news/cointelegraph:cc7eb5e81bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-21T12:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 12:40:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"House of Doge, da Dogecoin, aposta em time italiano azarão\" data-qa-id=\"news-headline-title\">House of Doge, da Dogecoin, aposta em time italiano azarão</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:20ed9040dbc81:0",
-      "index": 13,
-      "title": "Ethereum precisa da Paradigm e dos VCs, apesar das preocupações com extração de valor, diz Joseph Lubin",
-      "link": "https://br.tradingview.com/news/cointelegraph:20ed9040dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-21T12:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 12:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 12:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum precisa da Paradigm e dos VCs, apesar das preocupações com extração de valor, diz Joseph Lubin\" data-qa-id=\"news-headline-title\">Ethereum precisa da Paradigm e dos VCs, apesar das preocupações com extração de valor, diz Joseph Lubin</div></div></article>"
     }
   ]
 }
