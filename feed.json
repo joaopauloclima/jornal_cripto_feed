@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-21T21:18:26.463Z",
+  "updated_at": "2025-10-21T21:54:01.100Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f3bc364ebbc81:0",
+      "id": "cointelegraph:4d2aefbc5bc81:0",
       "index": 0,
+      "title": "Galaxy Digital lucra US$ 505 milhões no 3º trimestre impulsionado por alta nas negociações e demanda institucional",
+      "link": "https://br.tradingview.com/news/cointelegraph:4d2aefbc5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-21T21:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Galaxy Digital lucra US$ 505 milhões no 3º trimestre impulsionado por alta nas negociações e demanda institucional\" data-qa-id=\"news-headline-title\">Galaxy Digital lucra US$ 505 milhões no 3º trimestre impulsionado por alta nas negociações e demanda institucional</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:de3ea9535bc81:0",
+      "index": 1,
+      "title": "SharpLink adiciona 19.000 ETH e eleva suas participações para US$ 3,5 bilhões à medida que empresas compram na baixa",
+      "link": "https://br.tradingview.com/news/cointelegraph:de3ea9535bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-21T21:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SharpLink adiciona 19.000 ETH e eleva suas participações para US$ 3,5 bilhões à medida que empresas compram na baixa\" data-qa-id=\"news-headline-title\">SharpLink adiciona 19.000 ETH e eleva suas participações para US$ 3,5 bilhões à medida que empresas compram na baixa</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f3bc364ebbc81:0",
+      "index": 2,
       "title": "Fed avalia criação de contas de pagamento 'simplificadas' para facilitar o acesso de fintechs e empresas cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:f3bc364ebbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:7d4bbe2ddbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Mercado de tokenização no Brasil acelera com marcos regulatórios e avanço das stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:7d4bbe2ddbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:401315f32bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Baleias de Bitcoin adotam discretamente ETF da BlackRock após mudança nas regras da SEC",
       "link": "https://br.tradingview.com/news/cointelegraph:401315f32bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a3cd109d7bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Jogadores brasileiros usam stablecoins para 'fugir' dos bancos e acessar mercados no exterior, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:a3cd109d7bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:000018fa6bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin atinge US$ 110 mil com divergência do preço do BTC em relação à correção de 5% do ouro",
       "link": "https://br.tradingview.com/news/cointelegraph:000018fa6bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:52d48dae5bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Foxbit anuncia parceria e quer levar pagamento cripto para 2 milhões de pessoas",
       "link": "https://br.tradingview.com/news/cointelegraph:52d48dae5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:22455d728bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Apostas bilionárias em cripto viram risco sistêmico para tesourarias digitais",
       "link": "https://br.tradingview.com/news/beincrypto:22455d728bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:49f378d5abc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Preço da Solana vai reagir abaixo de US$ 180? Padrão de fundo duplo indica alta de 40%",
       "link": "https://br.tradingview.com/news/cointelegraph:49f378d5abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:7204e0631bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Queda do Bitcoin para US$ 104 mil foi uma 'correção', não um 'fracasso' do ciclo cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:7204e0631bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:86679f281bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Doação de US$ 33 milhões da Binance se torna campo minado político em Malta",
       "link": "https://br.tradingview.com/news/cointelegraph:86679f281bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:aecd3a500bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "'Acompanhe o ritmo' ou fique para trás: CryptoUK diz que regras alinhadas aos EUA são essenciais para a recuperação do setor cripto no Reino Unido",
       "link": "https://br.tradingview.com/news/cointelegraph:aecd3a500bc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Acompanhe o ritmo' ou fique para trás: CryptoUK diz que regras alinhadas aos EUA são essenciais para a recuperação do setor cripto no Reino Unido\" data-qa-id=\"news-headline-title\">'Acompanhe o ritmo' ou fique para trás: CryptoUK diz que regras alinhadas aos EUA são essenciais para a recuperação do setor cripto no Reino Unido</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f633a221cbc81:0",
-      "index": 11,
-      "title": "Coinbase aposta US$ 375 milhões que o financiamento coletivo de ICOs on-chain será a próxima tendência cripto",
-      "link": "https://br.tradingview.com/news/cointelegraph:f633a221cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-21T17:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase aposta US$ 375 milhões que o financiamento coletivo de ICOs on-chain será a próxima tendência cripto\" data-qa-id=\"news-headline-title\">Coinbase aposta US$ 375 milhões que o financiamento coletivo de ICOs on-chain será a próxima tendência cripto</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d65914f2cbc81:0",
-      "index": 12,
-      "title": "Credora da Argo assume participação de 87,5% da mineradora em dificuldades em ousada reestruturação",
-      "link": "https://br.tradingview.com/news/cointelegraph:d65914f2cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-21T17:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Credora da Argo assume participação de 87,5% da mineradora em dificuldades em ousada reestruturação\" data-qa-id=\"news-headline-title\">Credora da Argo assume participação de 87,5% da mineradora em dificuldades em ousada reestruturação</div></div></article>"
-    },
-    {
-      "id": "beincrypto:cffb85f26bc81:0",
-      "index": 13,
-      "title": "BNB pode superar Ethereum? 3 sinais-chave alimentam o debate",
-      "link": "https://br.tradingview.com/news/beincrypto:cffb85f26bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-21T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BNB pode superar Ethereum? 3 sinais-chave alimentam o debate\" data-qa-id=\"news-headline-title\">BNB pode superar Ethereum? 3 sinais-chave alimentam o debate</div></div></article>"
     }
   ]
 }
