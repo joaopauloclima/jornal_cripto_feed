@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-21T14:56:05.799Z",
+  "updated_at": "2025-10-21T15:22:23.788Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:577b021bcbc81:0",
+      "id": "cointelegraph:e290dd5e1bc81:0",
       "index": 0,
+      "title": "Chefe da Polygon diz que tem 'questionado sua lealdade' à Ethereum",
+      "link": "https://br.tradingview.com/news/cointelegraph:e290dd5e1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-21T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Chefe da Polygon diz que tem 'questionado sua lealdade' à Ethereum\" data-qa-id=\"news-headline-title\">Chefe da Polygon diz que tem 'questionado sua lealdade' à Ethereum</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:577b021bcbc81:0",
+      "index": 1,
       "title": "Coinbase gasta US$ 25 milhões para reviver um podcast da última alta do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:577b021bcbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:666a21ed6bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Coinbase para os EUA: Adote a blockchain se quiser combater o crime nela",
       "link": "https://br.tradingview.com/news/cointelegraph:666a21ed6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a32c89a2ebc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Próximo mercado de baixa das criptos terá novo gatilho, alerta Willy Woo",
       "link": "https://br.tradingview.com/news/cointelegraph:a32c89a2ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:4a9855b32bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Tom Lee, da BitMine, diz que 'deslocamento de preço' do Ether é sinal de compra",
       "link": "https://br.tradingview.com/news/cointelegraph:4a9855b32bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:452d83ef2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Pânico de hoje é o ‘rali de amanhã’ do XRP e do LINK, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:452d83ef2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e4a2d512dbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Fechamento do governo dos EUA 'provavelmente' terminará esta semana, diz assessor de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:e4a2d512dbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:cc7eb5e81bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "House of Doge, da Dogecoin, aposta em time italiano azarão",
       "link": "https://br.tradingview.com/news/cointelegraph:cc7eb5e81bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:20ed9040dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ethereum precisa da Paradigm e dos VCs, apesar das preocupações com extração de valor, diz Joseph Lubin",
       "link": "https://br.tradingview.com/news/cointelegraph:20ed9040dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:eea544f39bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Criptomoedas recuam enquanto o Bitcoin perde rali do S&P 500",
       "link": "https://br.tradingview.com/news/cointelegraph:eea544f39bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:0a03b4ca7bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "XRP vai subir ou cair entre o Halloween e o Natal de 2025?",
       "link": "https://br.tradingview.com/news/beincrypto:0a03b4ca7bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:f14d8100bbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Lucro do Bitcoin cai com preço em queda há 2 semanas",
       "link": "https://br.tradingview.com/news/beincrypto:f14d8100bbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3W20D9:0",
-      "index": 11,
+      "index": 12,
       "title": "Coinbase assina acordo de US$ 375 milhões para plataforma de investimento em criptomoedas Echo",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3W20D9:0/",
       "source": "Reuters",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:69293836ebc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Tesouro em BTC: Duas das três maiores empresas da América Latina possuem Bitcoin em suas reservas",
       "link": "https://br.tradingview.com/news/cointelegraph:69293836ebc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 11:07:30 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 11:07 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tesouro em BTC: Duas das três maiores empresas da América Latina possuem Bitcoin em suas reservas\" data-qa-id=\"news-headline-title\">Tesouro em BTC: Duas das três maiores empresas da América Latina possuem Bitcoin em suas reservas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:7a2401df5bc81:0",
-      "index": 13,
-      "title": "Uniswap integra Solana e amplia interoperabilidade entre principais redes DeFi",
-      "link": "https://br.tradingview.com/news/beincrypto:7a2401df5bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-21T11:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Uniswap integra Solana e amplia interoperabilidade entre principais redes DeFi\" data-qa-id=\"news-headline-title\">Uniswap integra Solana e amplia interoperabilidade entre principais redes DeFi</div></div></article>"
     }
   ]
 }
