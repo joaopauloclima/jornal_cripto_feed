@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-22T17:53:37.532Z",
+  "updated_at": "2025-10-22T18:27:10.912Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:13bcf46f9bc81:0",
+      "id": "cointelegraph:81c026730bc81:0",
       "index": 0,
+      "title": "Bitcoin corre risco de cair para a faixa dos US$ 100 mil à medida que baleia 'insider' move BTC para as exchanges",
+      "link": "https://br.tradingview.com/news/cointelegraph:81c026730bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-22T18:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin corre risco de cair para a faixa dos US$ 100 mil à medida que baleia 'insider' move BTC para as exchanges\" data-qa-id=\"news-headline-title\">Bitcoin corre risco de cair para a faixa dos US$ 100 mil à medida que baleia 'insider' move BTC para as exchanges</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:13bcf46f9bc81:0",
+      "index": 1,
       "title": "Stablecoins se tornam discretamente o motor oculto dos jogos, aponta relatório da BGA",
       "link": "https://br.tradingview.com/news/cointelegraph:13bcf46f9bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:405748b5cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Brasileiros aceitam ajuda de IA sem abrir mão da palavra final nas finanças, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:405748b5cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1bba33ba7bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "MVRV do Bitcoin indica formação de 'fundo cíclico' abaixo de US$ 110 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:1bba33ba7bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:722859d87bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Queda de US$ 19 bilhões abre caminho para o Bitcoin subir a US$ 200 mil, diz Standard Chartered",
       "link": "https://br.tradingview.com/news/cointelegraph:722859d87bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:1ea490419bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Especialista mira Solana entre o ‘céu e o inferno’ e aponta alvos para SEI, THETA e PENGU",
       "link": "https://br.tradingview.com/news/cointelegraph:1ea490419bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:09262b076bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Mercados de previsão atingem novo recorde com Polymarket entrando no ecossistema de Sam Altman",
       "link": "https://br.tradingview.com/news/cointelegraph:09262b076bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:59c6f75f4bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Hong Kong aprova primeiro ETF spot de Solana antes dos Estados Unidos",
       "link": "https://br.tradingview.com/news/cointelegraph:59c6f75f4bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:98f912742bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Série de hacks no Pix e fraudes em fintechs pressionam Banco Central a endurecer controle sobre mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:98f912742bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a182a9453bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "OpenAI lança navegador com 'cérebro' movido por agente de IA",
       "link": "https://br.tradingview.com/news/cointelegraph:a182a9453bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:311148d2bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Por que a maioria das 'cidades cripto' fracassa? E qual o modelo que executivos dizem que pode funcionar?",
       "link": "https://br.tradingview.com/news/cointelegraph:311148d2bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:0abfc4521bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Nubank diz que Febraban usa ‘argumentos tortuosos’ em defesa de projeto que pode resvalar nas criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:0abfc4521bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7aa00814ebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Gráfico do Bitcoin lembra bolha da soja dos anos 1970, diz Peter Brandt",
       "link": "https://br.tradingview.com/news/cointelegraph:7aa00814ebc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:439d345f5bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bolsas de valores da Ásia reagem contra tesourarias cripto, diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:439d345f5bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bolsas de valores da Ásia reagem contra tesourarias cripto, diz relatório\" data-qa-id=\"news-headline-title\">Bolsas de valores da Ásia reagem contra tesourarias cripto, diz relatório</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e15354b04bc81:0",
-      "index": 13,
-      "title": "CEO da Coinbase revela que 'transações privadas' estão chegando à Base",
-      "link": "https://br.tradingview.com/news/cointelegraph:e15354b04bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-22T13:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da Coinbase revela que 'transações privadas' estão chegando à Base\" data-qa-id=\"news-headline-title\">CEO da Coinbase revela que 'transações privadas' estão chegando à Base</div></div></article>"
     }
   ]
 }
