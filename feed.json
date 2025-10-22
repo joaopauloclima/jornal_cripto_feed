@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-22T21:16:00.894Z",
+  "updated_at": "2025-10-22T21:53:45.333Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:297936b1cbc81:0",
+      "id": "cointelegraph:a9d4c54f3bc81:0",
       "index": 0,
+      "title": "Reino Unido intensifica fiscalização e centenas de exchanges de criptomoedas recebem alertas da FCA em outubro",
+      "link": "https://br.tradingview.com/news/cointelegraph:a9d4c54f3bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-22T21:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Reino Unido intensifica fiscalização e centenas de exchanges de criptomoedas recebem alertas da FCA em outubro\" data-qa-id=\"news-headline-title\">Reino Unido intensifica fiscalização e centenas de exchanges de criptomoedas recebem alertas da FCA em outubro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d69eedbebbc81:0",
+      "index": 1,
+      "title": "Corrida de tesourarias de BNB acelera à medida que Applied DNA e CEA Industries ampliam participações",
+      "link": "https://br.tradingview.com/news/cointelegraph:d69eedbebbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-22T21:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Corrida de tesourarias de BNB acelera à medida que Applied DNA e CEA Industries ampliam participações\" data-qa-id=\"news-headline-title\">Corrida de tesourarias de BNB acelera à medida que Applied DNA e CEA Industries ampliam participações</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:297936b1cbc81:0",
+      "index": 2,
       "title": "Bitcoin fecha gap de US$ 107 mil na CME, com foco no dado importante do CPI de sexta-feira",
       "link": "https://br.tradingview.com/news/cointelegraph:297936b1cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e66ad28ebbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "IAs de baixo custo da China superam ChatGPT e Grok em negociações de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:e66ad28ebbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3069ab747bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Preço do Bitcoin pode multiplicar por 6 em 2026? Expansão da oferta de M2 gera comparações com a era da COVID-19",
       "link": "https://br.tradingview.com/news/cointelegraph:3069ab747bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:e203974aabc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Análise de preço do BNB: por que os touros precisam manter US$ 1.000",
       "link": "https://br.tradingview.com/news/cointelegraph:e203974aabc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3de8e9700bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "'Mais um prego no caixão' do espírito original das criptomoedas: baleias abandonam a autocustódia em favor dos ETFs",
       "link": "https://br.tradingview.com/news/cointelegraph:3de8e9700bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4a9dd7edebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Aave DAO propõe recompra anual de US$ 50 milhões em tokens com receitas do DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:4a9dd7edebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:47eb3a41bbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Arthur Hayes prevê Bitcoin a US$ 1 milhão enquanto nova primeira-ministra do Japão anuncia estímulo econômico",
       "link": "https://br.tradingview.com/news/cointelegraph:47eb3a41bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9fe10a32dbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Pior queda do ouro em anos eliminou US$ 2,5 trilhões: como o Bitcoin se compara?",
       "link": "https://br.tradingview.com/news/cointelegraph:9fe10a32dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9c37d5f93bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "FalconX adquire a 21Shares, a maior emissora global de ETPs de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:9c37d5f93bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:81c026730bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoin corre risco de cair para a faixa dos US$ 100 mil à medida que baleia 'insider' move BTC para as exchanges",
       "link": "https://br.tradingview.com/news/cointelegraph:81c026730bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:13bcf46f9bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Stablecoins se tornam discretamente o motor oculto dos jogos, aponta relatório da BGA",
       "link": "https://br.tradingview.com/news/cointelegraph:13bcf46f9bc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stablecoins se tornam discretamente o motor oculto dos jogos, aponta relatório da BGA\" data-qa-id=\"news-headline-title\">Stablecoins se tornam discretamente o motor oculto dos jogos, aponta relatório da BGA</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:405748b5cbc81:0",
-      "index": 11,
-      "title": "Brasileiros aceitam ajuda de IA sem abrir mão da palavra final nas finanças, aponta pesquisa",
-      "link": "https://br.tradingview.com/news/cointelegraph:405748b5cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-22T17:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasileiros aceitam ajuda de IA sem abrir mão da palavra final nas finanças, aponta pesquisa\" data-qa-id=\"news-headline-title\">Brasileiros aceitam ajuda de IA sem abrir mão da palavra final nas finanças, aponta pesquisa</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1bba33ba7bc81:0",
-      "index": 12,
-      "title": "MVRV do Bitcoin indica formação de 'fundo cíclico' abaixo de US$ 110 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:1bba33ba7bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-22T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"MVRV do Bitcoin indica formação de 'fundo cíclico' abaixo de US$ 110 mil\" data-qa-id=\"news-headline-title\">MVRV do Bitcoin indica formação de 'fundo cíclico' abaixo de US$ 110 mil</div></div></article>"
-    },
-    {
-      "id": "beincrypto:384836bb5bc81:0",
-      "index": 13,
-      "title": "Previsão de preço do XRP da Ripple para 2026",
-      "link": "https://br.tradingview.com/news/beincrypto:384836bb5bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-22T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Previsão de preço do XRP da Ripple para 2026\" data-qa-id=\"news-headline-title\">Previsão de preço do XRP da Ripple para 2026</div></div></article>"
     }
   ]
 }
