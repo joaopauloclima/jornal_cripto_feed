@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-22T12:36:03.490Z",
+  "updated_at": "2025-10-22T13:26:11.509Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9932c4b1fbc81:0",
+      "id": "cointelegraph:ada1e37d4bc81:0",
       "index": 0,
+      "title": "Stablecoin da Tether alcança 6,25% da população mundial, diz CEO",
+      "link": "https://br.tradingview.com/news/cointelegraph:ada1e37d4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-22T13:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stablecoin da Tether alcança 6,25% da população mundial, diz CEO\" data-qa-id=\"news-headline-title\">Stablecoin da Tether alcança 6,25% da população mundial, diz CEO</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6f83d5ed7bc81:0",
+      "index": 1,
+      "title": "Rali do Bitcoin até US$ 114 mil destaca confiança crescente dos traders de futuros",
+      "link": "https://br.tradingview.com/news/cointelegraph:6f83d5ed7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-22T12:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 12:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rali do Bitcoin até US$ 114 mil destaca confiança crescente dos traders de futuros\" data-qa-id=\"news-headline-title\">Rali do Bitcoin até US$ 114 mil destaca confiança crescente dos traders de futuros</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9932c4b1fbc81:0",
+      "index": 2,
       "title": "Ethereum entra na fase final de testnet antes da atualização Fusaka em 3 de dezembro",
       "link": "https://br.tradingview.com/news/cointelegraph:9932c4b1fbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2afb1045cbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "EVAA, COAI e RIVER desafiam recuo das criptomoedas com o Bitcoin a US$ 108 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:2afb1045cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:b30da165fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin perde força, mas dado indica salto de 14% em breve",
       "link": "https://br.tradingview.com/news/beincrypto:b30da165fbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:dd2075439bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço do Bitcoin hoje, 22/10/2025: BTC mantém consolidação em US$ 108 mil enquanto aguarda definições nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:dd2075439bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8156da051bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "‘IPO Cripto': Como o Mercado Bitcoin usou a tokenização para antecipar oferta de ações da OranjeBTC na B3",
       "link": "https://br.tradingview.com/news/cointelegraph:8156da051bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:71a6069edbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Baleia de Bitcoin abre short de US$ 235 milhões em BTC após lucrar US$ 200 milhões com a queda do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:71a6069edbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:4d2aefbc5bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Galaxy Digital lucra US$ 505 milhões no 3º trimestre impulsionado por alta nas negociações e demanda institucional",
       "link": "https://br.tradingview.com/news/cointelegraph:4d2aefbc5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:de3ea9535bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "SharpLink adiciona 19.000 ETH e eleva suas participações para US$ 3,5 bilhões à medida que empresas compram na baixa",
       "link": "https://br.tradingview.com/news/cointelegraph:de3ea9535bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f3bc364ebbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Fed avalia criação de contas de pagamento 'simplificadas' para facilitar o acesso de fintechs e empresas cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:f3bc364ebbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:7d4bbe2ddbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Mercado de tokenização no Brasil acelera com marcos regulatórios e avanço das stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:7d4bbe2ddbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:401315f32bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Baleias de Bitcoin adotam discretamente ETF da BlackRock após mudança nas regras da SEC",
       "link": "https://br.tradingview.com/news/cointelegraph:401315f32bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:a3cd109d7bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Jogadores brasileiros usam stablecoins para 'fugir' dos bancos e acessar mercados no exterior, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:a3cd109d7bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Jogadores brasileiros usam stablecoins para 'fugir' dos bancos e acessar mercados no exterior, aponta pesquisa\" data-qa-id=\"news-headline-title\">Jogadores brasileiros usam stablecoins para 'fugir' dos bancos e acessar mercados no exterior, aponta pesquisa</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:000018fa6bc81:0",
-      "index": 12,
-      "title": "Bitcoin atinge US$ 110 mil com divergência do preço do BTC em relação à correção de 5% do ouro",
-      "link": "https://br.tradingview.com/news/cointelegraph:000018fa6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-21T19:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin atinge US$ 110 mil com divergência do preço do BTC em relação à correção de 5% do ouro\" data-qa-id=\"news-headline-title\">Bitcoin atinge US$ 110 mil com divergência do preço do BTC em relação à correção de 5% do ouro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:52d48dae5bc81:0",
-      "index": 13,
-      "title": "Foxbit anuncia parceria e quer levar pagamento cripto para 2 milhões de pessoas",
-      "link": "https://br.tradingview.com/news/cointelegraph:52d48dae5bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-21T19:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 21 Oct 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de out. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Foxbit anuncia parceria e quer levar pagamento cripto para 2 milhões de pessoas\" data-qa-id=\"news-headline-title\">Foxbit anuncia parceria e quer levar pagamento cripto para 2 milhões de pessoas</div></div></article>"
     }
   ]
 }
