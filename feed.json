@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-22T16:24:12.003Z",
+  "updated_at": "2025-10-22T16:59:56.993Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1ea490419bc81:0",
+      "id": "cointelegraph:722859d87bc81:0",
       "index": 0,
+      "title": "Queda de US$ 19 bilhões abre caminho para o Bitcoin subir a US$ 200 mil, diz Standard Chartered",
+      "link": "https://br.tradingview.com/news/cointelegraph:722859d87bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-22T16:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Queda de US$ 19 bilhões abre caminho para o Bitcoin subir a US$ 200 mil, diz Standard Chartered\" data-qa-id=\"news-headline-title\">Queda de US$ 19 bilhões abre caminho para o Bitcoin subir a US$ 200 mil, diz Standard Chartered</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1ea490419bc81:0",
+      "index": 1,
       "title": "Especialista mira Solana entre o ‘céu e o inferno’ e aponta alvos para SEI, THETA e PENGU",
       "link": "https://br.tradingview.com/news/cointelegraph:1ea490419bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:09262b076bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Mercados de previsão atingem novo recorde com Polymarket entrando no ecossistema de Sam Altman",
       "link": "https://br.tradingview.com/news/cointelegraph:09262b076bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:59c6f75f4bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Hong Kong aprova primeiro ETF spot de Solana antes dos Estados Unidos",
       "link": "https://br.tradingview.com/news/cointelegraph:59c6f75f4bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:98f912742bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Série de hacks no Pix e fraudes em fintechs pressionam Banco Central a endurecer controle sobre mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:98f912742bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a182a9453bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "OpenAI lança navegador com 'cérebro' movido por agente de IA",
       "link": "https://br.tradingview.com/news/cointelegraph:a182a9453bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:311148d2bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Por que a maioria das 'cidades cripto' fracassa? E qual o modelo que executivos dizem que pode funcionar?",
       "link": "https://br.tradingview.com/news/cointelegraph:311148d2bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0abfc4521bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Nubank diz que Febraban usa ‘argumentos tortuosos’ em defesa de projeto que pode resvalar nas criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:0abfc4521bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:7aa00814ebc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Gráfico do Bitcoin lembra bolha da soja dos anos 1970, diz Peter Brandt",
       "link": "https://br.tradingview.com/news/cointelegraph:7aa00814ebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:439d345f5bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bolsas de valores da Ásia reagem contra tesourarias cripto, diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:439d345f5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:e15354b04bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "CEO da Coinbase revela que 'transações privadas' estão chegando à Base",
       "link": "https://br.tradingview.com/news/cointelegraph:e15354b04bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ada1e37d4bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Stablecoin da Tether alcança 6,25% da população mundial, diz CEO",
       "link": "https://br.tradingview.com/news/cointelegraph:ada1e37d4bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6f83d5ed7bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Rali do Bitcoin até US$ 114 mil destaca confiança crescente dos traders de futuros",
       "link": "https://br.tradingview.com/news/cointelegraph:6f83d5ed7bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:03a08e428bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Ouro sofre pior tombo em 12 anos e investidores correm para o Bitcoin?",
       "link": "https://br.tradingview.com/news/beincrypto:03a08e428bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ouro sofre pior tombo em 12 anos e investidores correm para o Bitcoin?\" data-qa-id=\"news-headline-title\">Ouro sofre pior tombo em 12 anos e investidores correm para o Bitcoin?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9932c4b1fbc81:0",
-      "index": 13,
-      "title": "Ethereum entra na fase final de testnet antes da atualização Fusaka em 3 de dezembro",
-      "link": "https://br.tradingview.com/news/cointelegraph:9932c4b1fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-22T12:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 12:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 12:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum entra na fase final de testnet antes da atualização Fusaka em 3 de dezembro\" data-qa-id=\"news-headline-title\">Ethereum entra na fase final de testnet antes da atualização Fusaka em 3 de dezembro</div></div></article>"
     }
   ]
 }
