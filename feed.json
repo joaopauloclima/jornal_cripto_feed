@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-23T14:57:44.566Z",
+  "updated_at": "2025-10-23T15:20:31.930Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2842566bcbc81:0",
+      "id": "cointelegraph:f00ccd1ebbc81:0",
       "index": 0,
+      "title": "Apatia dos ETFs de Bitcoin está pressionando um nível-chave de suporte do Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:f00ccd1ebbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-23T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Apatia dos ETFs de Bitcoin está pressionando um nível-chave de suporte do Bitcoin\" data-qa-id=\"news-headline-title\">Apatia dos ETFs de Bitcoin está pressionando um nível-chave de suporte do Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2842566bcbc81:0",
+      "index": 1,
       "title": "Hyperliquid Strategies quer US$ 1 bilhão para comprar mais HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:2842566bcbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:b8cac2e7cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin ‘vai virar soja’ e derreter até 50%, alerta especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:b8cac2e7cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:2b33b890dbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Analista zomba do XRP: “Quem precisa desses feijões mágicos?”",
       "link": "https://br.tradingview.com/news/beincrypto:2b33b890dbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e148304aabc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin pode ter 'flush final' até US$ 104 mil antes do retorno do mercado de alta",
       "link": "https://br.tradingview.com/news/cointelegraph:e148304aabc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:676eaaa94bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "'Coisas malucas' seriam necessárias para o Bitcoin chegar a US$ 250 mil este ano, diz Novogratz",
       "link": "https://br.tradingview.com/news/cointelegraph:676eaaa94bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e09b60948bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin quer subir, mas as tarifas de Trump não ajudam: o governo vai aplicar outro TACO?",
       "link": "https://br.tradingview.com/news/cointelegraph:e09b60948bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a09be05dfbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Google anuncia vantagem quântica 13.000 vezes mais rápida que supercomputadores",
       "link": "https://br.tradingview.com/news/cointelegraph:a09be05dfbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5a8580ea0bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "CEO da Citadel revela participação milionária em empresa de tesouraria Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:5a8580ea0bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:4d3fd2a33bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Stablecoins tornam-se 'força macroeconômica global' com transações de US$ 46 trilhões, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:4d3fd2a33bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:289d6630bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Criptomoedas reagem com o Bitcoin na luta por US$ 110 mil após sanção de Trump a Rússia",
       "link": "https://br.tradingview.com/news/cointelegraph:289d6630bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2c3217f09bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "4 fatores impedem a adoção do Bitcoin em reservas de bancos centrais – Quando eles serão superados?",
       "link": "https://br.tradingview.com/news/cointelegraph:2c3217f09bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:80806a58bbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Preço do Bitcoin hoje, 23/10/2025: BTC mantém consolidação sem perspectiva de alta enquanto situação nos EUA não se resolve",
       "link": "https://br.tradingview.com/news/cointelegraph:80806a58bbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:dffda05c4bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "3IAtlas: 30 de outubro pode mudar a história do Bitcoin e do mundo",
       "link": "https://br.tradingview.com/news/cointelegraph:dffda05c4bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 23:30:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 23:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"3IAtlas: 30 de outubro pode mudar a história do Bitcoin e do mundo\" data-qa-id=\"news-headline-title\">3IAtlas: 30 de outubro pode mudar a história do Bitcoin e do mundo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:6e6c26895bc81:0",
-      "index": 13,
-      "title": "Base acelera adoção no Brasil com ‘super app’, creator economy e integração com a Coinbase",
-      "link": "https://br.tradingview.com/news/cointelegraph:6e6c26895bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-22T23:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Oct 2025 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de out. de 2025, 23:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Base acelera adoção no Brasil com ‘super app’, creator economy e integração com a Coinbase\" data-qa-id=\"news-headline-title\">Base acelera adoção no Brasil com ‘super app’, creator economy e integração com a Coinbase</div></div></article>"
     }
   ]
 }
