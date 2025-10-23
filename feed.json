@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-23T16:58:44.571Z",
+  "updated_at": "2025-10-23T17:17:56.773Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:067c1dcb0bc81:0",
+      "id": "cointelegraph:0397683c6bc81:0",
       "index": 0,
+      "title": "Justiça de Minas autoriza penhora de criptomoedas em ação trabalhista",
+      "link": "https://br.tradingview.com/news/cointelegraph:0397683c6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-23T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Justiça de Minas autoriza penhora de criptomoedas em ação trabalhista\" data-qa-id=\"news-headline-title\">Justiça de Minas autoriza penhora de criptomoedas em ação trabalhista</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:067c1dcb0bc81:0",
+      "index": 1,
       "title": "2 criptomoedas lembradas por baleias e esquecidas por sardinhas em ‘momento de acumular’",
       "link": "https://br.tradingview.com/news/cointelegraph:067c1dcb0bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "afp:18140f318c66f:0",
-      "index": 1,
+      "index": 2,
       "title": "Trump indulta cofundador da plataforma de criptomoedas Binance, Chanpeng Zhao",
       "link": "https://br.tradingview.com/news/afp:18140f318c66f:0/",
       "source": "AFP",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:f9feb6d6fbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Cofundador da Ripple continua 'realizando lucros' nos topos: isso pode prejudicar o preço do XRP?",
       "link": "https://br.tradingview.com/news/cointelegraph:f9feb6d6fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:1be69dd41bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Banco britânico alerta que queda do Bitcoin abaixo de US$ 100 mil pode ser a última",
       "link": "https://br.tradingview.com/news/beincrypto:1be69dd41bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:03dcb32f5bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "CZ chama ouro tokenizado de Peter Schiff de ativo 'confia em mim, irmão'",
       "link": "https://br.tradingview.com/news/cointelegraph:03dcb32f5bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:94e81c4dbbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Gigante em formação? Avaliação da Polymarket pode subir 10 vezes, para US$ 15 bilhões, com novo financiamento",
       "link": "https://br.tradingview.com/news/cointelegraph:94e81c4dbbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:4cbe2aa2abc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Baleia investe US$ 660 milhões em Ethereum, mas mercado reage com cautela",
       "link": "https://br.tradingview.com/news/beincrypto:4cbe2aa2abc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c912364b7bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Empresa apoiada pela ARK Invest se torna a maior acumuladora de ETH fora dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:c912364b7bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f00ccd1ebbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Apatia dos ETFs de Bitcoin está pressionando um nível-chave de suporte do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:f00ccd1ebbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:2842566bcbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Hyperliquid Strategies quer US$ 1 bilhão para comprar mais HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:2842566bcbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:162aff50ebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Por que o mercado de criptomoedas está em alta hoje 23/10/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:162aff50ebc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:b8cac2e7cbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin ‘vai virar soja’ e derreter até 50%, alerta especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:b8cac2e7cbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:2b33b890dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Analista zomba do XRP: “Quem precisa desses feijões mágicos?”",
       "link": "https://br.tradingview.com/news/beincrypto:2b33b890dbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Analista zomba do XRP: “Quem precisa desses feijões mágicos?”\" data-qa-id=\"news-headline-title\">Analista zomba do XRP: “Quem precisa desses feijões mágicos?”</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e148304aabc81:0",
-      "index": 13,
-      "title": "Bitcoin pode ter 'flush final' até US$ 104 mil antes do retorno do mercado de alta",
-      "link": "https://br.tradingview.com/news/cointelegraph:e148304aabc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-23T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode ter 'flush final' até US$ 104 mil antes do retorno do mercado de alta\" data-qa-id=\"news-headline-title\">Bitcoin pode ter 'flush final' até US$ 104 mil antes do retorno do mercado de alta</div></div></article>"
     }
   ]
 }
