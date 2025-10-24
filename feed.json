@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-24T14:56:54.696Z",
+  "updated_at": "2025-10-24T15:19:50.235Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:eb3946a1cbc81:0",
+      "id": "cointelegraph:f2fea83d2bc81:0",
       "index": 0,
+      "title": "Traders de cripto se preparam para relatório atrasado de inflação dos EUA na sexta-feira",
+      "link": "https://br.tradingview.com/news/cointelegraph:f2fea83d2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-24T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders de cripto se preparam para relatório atrasado de inflação dos EUA na sexta-feira\" data-qa-id=\"news-headline-title\">Traders de cripto se preparam para relatório atrasado de inflação dos EUA na sexta-feira</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:eb3946a1cbc81:0",
+      "index": 1,
       "title": "Outra carteira da 'era Satoshi' de 2009 desperta e move Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:eb3946a1cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:836678996bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Volume de perps em DeFi ultrapassa US$ 1 trilhão em mês recorde até agora",
       "link": "https://br.tradingview.com/news/cointelegraph:836678996bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2ea34f8d4bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "UBS paga R$ 11,5 mil para trainee; Octafy e WK têm vagas; Serpro e SP lançam cursos de IA grátis",
       "link": "https://br.tradingview.com/news/cointelegraph:2ea34f8d4bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:569da7a70bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Trader que lucrou US$ 190 milhões com o crash também aparentemente apostou no perdão de CZ",
       "link": "https://br.tradingview.com/news/cointelegraph:569da7a70bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b3be288c0bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Tether que 'brigrar' com Google, Meta, OpenAI e Elon Musk - 'Não é sua IA, não é sua inteligência', defende Paolo Ardoino",
       "link": "https://br.tradingview.com/news/cointelegraph:b3be288c0bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:feddebfa5bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Trump sobre perdão a CZ: 'Disseram-me que o que ele fez nem é crime'",
       "link": "https://br.tradingview.com/news/cointelegraph:feddebfa5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fd82d4386bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Traders veem BNB em tendência de 'só alta' após perdão de Trump a CZ",
       "link": "https://br.tradingview.com/news/cointelegraph:fd82d4386bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6836403c6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Receita da Kraken salta 114% no terceiro trimestre em meio à expansão e planos de IPO",
       "link": "https://br.tradingview.com/news/cointelegraph:6836403c6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:e9f7ab315bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin sobe com inflação dos EUA em 3% abaixo da previsão",
       "link": "https://br.tradingview.com/news/beincrypto:e9f7ab315bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:328ab06b5bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Guerra em Lugano: Desenvolvedores de Bitcoin trocam farpas sobre censura e controle da rede",
       "link": "https://br.tradingview.com/news/cointelegraph:328ab06b5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:ce56e1fb8bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin volta a emitir sinal que antecipou alta de 15% e mercado mira nível chave",
       "link": "https://br.tradingview.com/news/beincrypto:ce56e1fb8bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:318ffb4a3bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Apesar da paralisação do governo, projeto de lei sobre estrutura de mercado cripto está '90% pronto', diz CEO da Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:318ffb4a3bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c363a280fbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "APR e CLANKER sobem até 120% em meio a expectativa do Bitcoin com CPI",
       "link": "https://br.tradingview.com/news/cointelegraph:c363a280fbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"APR e CLANKER sobem até 120% em meio a expectativa do Bitcoin com CPI\" data-qa-id=\"news-headline-title\">APR e CLANKER sobem até 120% em meio a expectativa do Bitcoin com CPI</div></div></article>"
-    },
-    {
-      "id": "beincrypto:016f8c16dbc81:0",
-      "index": 13,
-      "title": "Por que o mercado de criptomoedas está em alta hoje 24/10/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:016f8c16dbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-24T11:41:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 11:41:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 11:41 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 24/10/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 24/10/2025?</div></div></article>"
     }
   ]
 }
