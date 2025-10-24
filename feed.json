@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-24T12:36:08.843Z",
+  "updated_at": "2025-10-24T13:23:32.163Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:328ab06b5bc81:0",
+      "id": "cointelegraph:fd82d4386bc81:0",
       "index": 0,
+      "title": "Traders veem BNB em tendência de 'só alta' após perdão de Trump a CZ",
+      "link": "https://br.tradingview.com/news/cointelegraph:fd82d4386bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-24T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders veem BNB em tendência de 'só alta' após perdão de Trump a CZ\" data-qa-id=\"news-headline-title\">Traders veem BNB em tendência de 'só alta' após perdão de Trump a CZ</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6836403c6bc81:0",
+      "index": 1,
+      "title": "Receita da Kraken salta 114% no terceiro trimestre em meio à expansão e planos de IPO",
+      "link": "https://br.tradingview.com/news/cointelegraph:6836403c6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-24T12:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 12:40:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Receita da Kraken salta 114% no terceiro trimestre em meio à expansão e planos de IPO\" data-qa-id=\"news-headline-title\">Receita da Kraken salta 114% no terceiro trimestre em meio à expansão e planos de IPO</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:328ab06b5bc81:0",
+      "index": 2,
       "title": "Guerra em Lugano: Desenvolvedores de Bitcoin trocam farpas sobre censura e controle da rede",
       "link": "https://br.tradingview.com/news/cointelegraph:328ab06b5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:318ffb4a3bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Apesar da paralisação do governo, projeto de lei sobre estrutura de mercado cripto está '90% pronto', diz CEO da Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:318ffb4a3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c363a280fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "APR e CLANKER sobem até 120% em meio a expectativa do Bitcoin com CPI",
       "link": "https://br.tradingview.com/news/cointelegraph:c363a280fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:016f8c16dbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Por que o mercado de criptomoedas está em alta hoje 24/10/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:016f8c16dbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:867fd6788bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Países não devem gastar dinheiro público comprando Bitcoin, eles devem minerar seu próprio BTC, defende Samsow Mow",
       "link": "https://br.tradingview.com/news/cointelegraph:867fd6788bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:042f8b333bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Não use seu Bitcoin para pagar um café, não seja o cara que pagou R$ 6 bilhões por uma pizza",
       "link": "https://br.tradingview.com/news/cointelegraph:042f8b333bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:65b4a9219bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin se torna a voz da Geração Z que deseja uma 'revolução' na economia",
       "link": "https://br.tradingview.com/news/cointelegraph:65b4a9219bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:9eefaf814bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "JPMorgan abre espaço para Bitcoin e Ethereum?",
       "link": "https://br.tradingview.com/news/beincrypto:9eefaf814bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:36a4cfe25bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Preço do Bitcoin hoje, 24/10/2025: porque o BTC está em alta hoje? Recuperação pode ser pulo de gato morto",
       "link": "https://br.tradingview.com/news/cointelegraph:36a4cfe25bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:c7ae97ef3bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Fidelity abre as portas para a Solana e disponibiliza o SOL aos clientes",
       "link": "https://br.tradingview.com/news/cointelegraph:c7ae97ef3bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:829831c00bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "União Europeia sanciona a stablecoin russa A7A5 e exchanges de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:829831c00bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:1a020bdcbbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Aave amplia presença na DeFi voltada ao consumidor com aquisição da Stable Finance",
       "link": "https://br.tradingview.com/news/cointelegraph:1a020bdcbbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Aave amplia presença na DeFi voltada ao consumidor com aquisição da Stable Finance\" data-qa-id=\"news-headline-title\">Aave amplia presença na DeFi voltada ao consumidor com aquisição da Stable Finance</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0eeb6e7a6bc81:0",
-      "index": 12,
-      "title": "Brasil no topo: energia de Itaipu já é a 4ª mais usada no mundo na mineração do Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:0eeb6e7a6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-23T21:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil no topo: energia de Itaipu já é a 4ª mais usada no mundo na mineração do Bitcoin\" data-qa-id=\"news-headline-title\">Brasil no topo: energia de Itaipu já é a 4ª mais usada no mundo na mineração do Bitcoin</div></div></article>"
     }
   ]
 }
