@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-24T10:22:11.599Z",
+  "updated_at": "2025-10-24T10:56:08.373Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:65b4a9219bc81:0",
+      "id": "cointelegraph:042f8b333bc81:0",
       "index": 0,
+      "title": "Não use seu Bitcoin para pagar um café, não seja o cara que pagou R$ 6 bilhões por uma pizza",
+      "link": "https://br.tradingview.com/news/cointelegraph:042f8b333bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-24T10:19:50.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 10:19:50 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 10:19 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Não use seu Bitcoin para pagar um café, não seja o cara que pagou R$ 6 bilhões por uma pizza\" data-qa-id=\"news-headline-title\">Não use seu Bitcoin para pagar um café, não seja o cara que pagou R$ 6 bilhões por uma pizza</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:65b4a9219bc81:0",
+      "index": 1,
       "title": "Bitcoin se torna a voz da Geração Z que deseja uma 'revolução' na economia",
       "link": "https://br.tradingview.com/news/cointelegraph:65b4a9219bc81:0/",
       "source": "Cointelegraph",
@@ -14,8 +25,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 09:48:43 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 09:48 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin se torna a voz da Geração Z que deseja uma 'revolução' na economia\" data-qa-id=\"news-headline-title\">Bitcoin se torna a voz da Geração Z que deseja uma 'revolução' na economia</div></div></article>"
     },
     {
+      "id": "beincrypto:9eefaf814bc81:0",
+      "index": 2,
+      "title": "JPMorgan supostamente abre portas para Bitcoin e Ethereum como colateral para clientes institucionais",
+      "link": "https://br.tradingview.com/news/beincrypto:9eefaf814bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-10-24T09:31:12.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 09:31:12 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 09:31 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"JPMorgan supostamente abre portas para Bitcoin e Ethereum como colateral para clientes institucionais\" data-qa-id=\"news-headline-title\">JPMorgan supostamente abre portas para Bitcoin e Ethereum como colateral para clientes institucionais</div></div></article>"
+    },
+    {
       "id": "cointelegraph:36a4cfe25bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Preço do Bitcoin hoje, 24/10/2025: porque o BTC está em alta hoje? Recuperação pode ser pulo de gato morto",
       "link": "https://br.tradingview.com/news/cointelegraph:36a4cfe25bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c7ae97ef3bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Fidelity abre as portas para a Solana e disponibiliza o SOL aos clientes",
       "link": "https://br.tradingview.com/news/cointelegraph:c7ae97ef3bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:829831c00bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "União Europeia sanciona a stablecoin russa A7A5 e exchanges de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:829831c00bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1a020bdcbbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Aave amplia presença na DeFi voltada ao consumidor com aquisição da Stable Finance",
       "link": "https://br.tradingview.com/news/cointelegraph:1a020bdcbbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0eeb6e7a6bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Brasil no topo: energia de Itaipu já é a 4ª mais usada no mundo na mineração do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:0eeb6e7a6bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6a8ee32adbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Ledger anuncia integração e deve liberar Pix para comprar e vender Bitcoin direto na wallet",
       "link": "https://br.tradingview.com/news/cointelegraph:6a8ee32adbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:5ffc57b31bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "'Carteira inteligente': Visa pretende usar agentes de IA para automatizar compras no Brasil a partir de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:5ffc57b31bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:7c770ef0fbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Solana (SOL): novos endereços em alta indicam virada acima de US$ 200?",
       "link": "https://br.tradingview.com/news/beincrypto:7c770ef0fbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ef488cd52bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Spark marca a primeira grande migração dos títulos do Tesouro dos EUA para a DeFi regulamentada",
       "link": "https://br.tradingview.com/news/cointelegraph:ef488cd52bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c6c3be216bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Configuração de triplo fundo do Ethereum sugere rompimento para US$ 4.000",
       "link": "https://br.tradingview.com/news/cointelegraph:c6c3be216bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:ffdbf9791bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Brasil avança na adoção institucional do Bitcoin e quer ser hub global de criptoativos",
       "link": "https://br.tradingview.com/news/cointelegraph:ffdbf9791bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 19:49:57 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 19:49 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil avança na adoção institucional do Bitcoin e quer ser hub global de criptoativos\" data-qa-id=\"news-headline-title\">Brasil avança na adoção institucional do Bitcoin e quer ser hub global de criptoativos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:a2bf2c272bc81:0",
-      "index": 12,
-      "title": "Binance confirma que CZ recebeu perdão presidencial de Trump",
-      "link": "https://br.tradingview.com/news/cointelegraph:a2bf2c272bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-23T19:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance confirma que CZ recebeu perdão presidencial de Trump\" data-qa-id=\"news-headline-title\">Binance confirma que CZ recebeu perdão presidencial de Trump</div></div></article>"
-    },
-    {
-      "id": "beincrypto:86376df66bc81:0",
-      "index": 13,
-      "title": "Análise XRP: preço da moeda em US$ 2,42 acende alerta de correção",
-      "link": "https://br.tradingview.com/news/beincrypto:86376df66bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-23T19:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 19:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise XRP: preço da moeda em US$ 2,42 acende alerta de correção\" data-qa-id=\"news-headline-title\">Análise XRP: preço da moeda em US$ 2,42 acende alerta de correção</div></div></article>"
     }
   ]
 }
