@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-24T09:21:18.537Z",
+  "updated_at": "2025-10-24T09:53:25.741Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c7ae97ef3bc81:0",
+      "id": "cointelegraph:36a4cfe25bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje, 24/10/2025: porque o BTC está em alta hoje? Recuperação pode ser pulo de gato morto",
+      "link": "https://br.tradingview.com/news/cointelegraph:36a4cfe25bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-24T09:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 09:30:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 09:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 24/10/2025: porque o BTC está em alta hoje? Recuperação pode ser pulo de gato morto\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 24/10/2025: porque o BTC está em alta hoje? Recuperação pode ser pulo de gato morto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c7ae97ef3bc81:0",
+      "index": 1,
       "title": "Fidelity abre as portas para a Solana e disponibiliza o SOL aos clientes",
       "link": "https://br.tradingview.com/news/cointelegraph:c7ae97ef3bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:829831c00bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "União Europeia sanciona a stablecoin russa A7A5 e exchanges de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:829831c00bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1a020bdcbbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Aave amplia presença na DeFi voltada ao consumidor com aquisição da Stable Finance",
       "link": "https://br.tradingview.com/news/cointelegraph:1a020bdcbbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:0eeb6e7a6bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Brasil no topo: energia de Itaipu já é a 4ª mais usada no mundo na mineração do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:0eeb6e7a6bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6a8ee32adbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ledger anuncia integração e deve liberar Pix para comprar e vender Bitcoin direto na wallet",
       "link": "https://br.tradingview.com/news/cointelegraph:6a8ee32adbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5ffc57b31bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "'Carteira inteligente': Visa pretende usar agentes de IA para automatizar compras no Brasil a partir de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:5ffc57b31bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:7c770ef0fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Solana (SOL): novos endereços em alta indicam virada acima de US$ 200?",
       "link": "https://br.tradingview.com/news/beincrypto:7c770ef0fbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ef488cd52bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Spark marca a primeira grande migração dos títulos do Tesouro dos EUA para a DeFi regulamentada",
       "link": "https://br.tradingview.com/news/cointelegraph:ef488cd52bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c6c3be216bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Configuração de triplo fundo do Ethereum sugere rompimento para US$ 4.000",
       "link": "https://br.tradingview.com/news/cointelegraph:c6c3be216bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ffdbf9791bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Brasil avança na adoção institucional do Bitcoin e quer ser hub global de criptoativos",
       "link": "https://br.tradingview.com/news/cointelegraph:ffdbf9791bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:a2bf2c272bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Binance confirma que CZ recebeu perdão presidencial de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:a2bf2c272bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:86376df66bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Análise XRP: preço da moeda em US$ 2,42 acende alerta de correção",
       "link": "https://br.tradingview.com/news/beincrypto:86376df66bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:9fd7de0b4bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Baleias de Bitcoin abrem posições vendidas em BTC com alavancagem de 40X antes do anúncio de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:9fd7de0b4bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias de Bitcoin abrem posições vendidas em BTC com alavancagem de 40X antes do anúncio de Trump\" data-qa-id=\"news-headline-title\">Baleias de Bitcoin abrem posições vendidas em BTC com alavancagem de 40X antes do anúncio de Trump</div></div></article>"
-    },
-    {
-      "id": "beincrypto:368597648bc81:0",
-      "index": 13,
-      "title": "Cardano registra 115 milhões de transações, mas ADA segue em queda",
-      "link": "https://br.tradingview.com/news/beincrypto:368597648bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-23T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Cardano registra 115 milhões de transações, mas ADA segue em queda\" data-qa-id=\"news-headline-title\">Cardano registra 115 milhões de transações, mas ADA segue em queda</div></div></article>"
     }
   ]
 }
