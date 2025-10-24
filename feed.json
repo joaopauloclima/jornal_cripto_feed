@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-24T20:21:41.697Z",
+  "updated_at": "2025-10-24T20:54:39.091Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3fea6ccd2bc81:0",
+      "id": "cointelegraph:0fa744aadbc81:0",
       "index": 0,
+      "title": "Bitcoin salta para US$ 112 mil com dados fracos do CPI dos EUA enquanto o S&P 500 atinge recorde histórico",
+      "link": "https://br.tradingview.com/news/cointelegraph:0fa744aadbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-24T20:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin salta para US$ 112 mil com dados fracos do CPI dos EUA enquanto o S&amp;P 500 atinge recorde histórico\" data-qa-id=\"news-headline-title\">Bitcoin salta para US$ 112 mil com dados fracos do CPI dos EUA enquanto o S&amp;P 500 atinge recorde histórico</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:314b01ff1bc81:0",
+      "index": 1,
+      "title": "Ethereum pode recuperar US$ 4 mil? Baleia 'smart trader' eleva posição comprada em ETH para US$ 131 milhões",
+      "link": "https://br.tradingview.com/news/cointelegraph:314b01ff1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-24T20:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 20:20:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 20:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum pode recuperar US$ 4 mil? Baleia 'smart trader' eleva posição comprada em ETH para US$ 131 milhões\" data-qa-id=\"news-headline-title\">Ethereum pode recuperar US$ 4 mil? Baleia 'smart trader' eleva posição comprada em ETH para US$ 131 milhões</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3fea6ccd2bc81:0",
+      "index": 2,
       "title": "JPMorgan planeja permitir que clientes peguem empréstimos com Bitcoin e Ether como garantia",
       "link": "https://br.tradingview.com/news/cointelegraph:3fea6ccd2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:616303cb4bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Tesourarias de Bitcoin podem render mais Bitcoin, diz Willem Schroé",
       "link": "https://br.tradingview.com/news/cointelegraph:616303cb4bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:90a52f26ebc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Será que as maiores baleias de Bitcoin realmente podem decidir quando o mercado fica verde ou vermelho?",
       "link": "https://br.tradingview.com/news/cointelegraph:90a52f26ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:f295992ecbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin pode realmente chegar a US$ 200 mil ainda em 2025? Analistas dividem opiniões",
       "link": "https://br.tradingview.com/news/beincrypto:f295992ecbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:2c41b1c76bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Queda de US$ 19 bilhões no mercado cripto abre caminho para Bitcoin a US$ 200 mil em 2025: Finance Redefined",
       "link": "https://br.tradingview.com/news/cointelegraph:2c41b1c76bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:9522b1a33bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Gráfico de preço do Dogecoin projeta ganhos de 25%, mas antes, isso precisa acontecer",
       "link": "https://br.tradingview.com/news/cointelegraph:9522b1a33bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:1cc1881b3bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Até onde o preço do HYPE pode subir após a listagem na Robinhood?",
       "link": "https://br.tradingview.com/news/cointelegraph:1cc1881b3bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:5f9c21f18bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Ethereum enfrenta resistência em US$ 4 mil com saída de grandes investidores",
       "link": "https://br.tradingview.com/news/beincrypto:5f9c21f18bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ca5ddc855bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Negociação spot de criptomoedas em CEXs se recupera 31% no 3º trimestre após forte queda",
       "link": "https://br.tradingview.com/news/cointelegraph:ca5ddc855bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:cf6334008bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Perdão de Trump a CZ provoca fúria de Maxine Waters por supostos vínculos cripto de 'pay-to-play'",
       "link": "https://br.tradingview.com/news/cointelegraph:cf6334008bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6c329315bbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Pior Uptober da história? Preço do Bitcoin corre risco de ter o primeiro outubro 'vermelho' em anos",
       "link": "https://br.tradingview.com/news/cointelegraph:6c329315bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c6e5a2b85bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Carteiras digitais e Pix representam apenas 6% das transferências B2B, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:c6e5a2b85bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Carteiras digitais e Pix representam apenas 6% das transferências B2B, aponta pesquisa\" data-qa-id=\"news-headline-title\">Carteiras digitais e Pix representam apenas 6% das transferências B2B, aponta pesquisa</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:6308c3903bc81:0",
-      "index": 12,
-      "title": "Bitcoin não está imune a quedas de 50%, apesar do amor de Wall Street, diz Tom Lee da BitMine",
-      "link": "https://br.tradingview.com/news/cointelegraph:6308c3903bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-24T16:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin não está imune a quedas de 50%, apesar do amor de Wall Street, diz Tom Lee da BitMine\" data-qa-id=\"news-headline-title\">Bitcoin não está imune a quedas de 50%, apesar do amor de Wall Street, diz Tom Lee da BitMine</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:db7b4714dbc81:0",
-      "index": 13,
-      "title": "Esperança por altseason cresce, mas sinais ainda não apareceram",
-      "link": "https://br.tradingview.com/news/cointelegraph:db7b4714dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-24T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Esperança por altseason cresce, mas sinais ainda não apareceram\" data-qa-id=\"news-headline-title\">Esperança por altseason cresce, mas sinais ainda não apareceram</div></div></article>"
     }
   ]
 }
