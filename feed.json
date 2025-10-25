@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-25T16:20:43.530Z",
+  "updated_at": "2025-10-25T16:54:40.736Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -36,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 25 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações da Coinbase disparam após JPMorgan reconhecer potencial do Base e USDC\" data-qa-id=\"news-headline-title\">Ações da Coinbase disparam após JPMorgan reconhecer potencial do Base e USDC</div></div></article>"
     },
     {
-      "id": "cointelegraph:c0e753d76bc81:0",
+      "id": "beincrypto:ab9410747bc81:0",
       "index": 3,
+      "title": "Ripple cresce além da cripto, mas o XRP pode acompanhar?",
+      "link": "https://br.tradingview.com/news/beincrypto:ab9410747bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-10-25T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 25 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ripple cresce além da cripto, mas o XRP pode acompanhar?\" data-qa-id=\"news-headline-title\">Ripple cresce além da cripto, mas o XRP pode acompanhar?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c0e753d76bc81:0",
+      "index": 4,
       "title": "De volta à Binance? Perdão de CZ abre espaço para volta aos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:c0e753d76bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c4bb528a8bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Análise de preço 24/10: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK, XLM",
       "link": "https://br.tradingview.com/news/cointelegraph:c4bb528a8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f017d1c96bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Trump quer nome 'pró-cripto' da SEC como presidente da CFTC, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:f017d1c96bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d969da026bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Empresa de Stablecoin da Tether está pronta para mais um ano recorde de lucratividade",
       "link": "https://br.tradingview.com/news/cointelegraph:d969da026bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9a7af3019bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Crypto.com expansão nos EUA com aplicação para patente de banco fiduciário",
       "link": "https://br.tradingview.com/news/cointelegraph:9a7af3019bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:88ca75490bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Solana se une à ABFintechs e reforça presença no setor financeiro brasileiro",
       "link": "https://br.tradingview.com/news/beincrypto:88ca75490bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9c9971115bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Paolo Ardoino: 'A humanidade precisa reconquistar o controle sobre seus próprios sistemas de comunicação e dinheiro'",
       "link": "https://br.tradingview.com/news/cointelegraph:9c9971115bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:823f76741bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "O futuro do Bitcoin será várias L2 para transferências e a rede BTC como o grande banco de custódia, defende criador da stablecoin do Facebook",
       "link": "https://br.tradingview.com/news/cointelegraph:823f76741bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:0043a77c7bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "'Precisamos expandir as interfaces cérebro-computador para libertar todo o potencial humano', defende CEO da Tether",
       "link": "https://br.tradingview.com/news/cointelegraph:0043a77c7bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2b2111dc1bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin não é mais privacidade e liberdade, mas politica e poder para os políticos",
       "link": "https://br.tradingview.com/news/cointelegraph:2b2111dc1bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 25 Oct 2025 07:53:16 GMT\" class=\"apply-common-tooltip\" title=\"25 de out. de 2025, 07:53 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin não é mais privacidade e liberdade, mas politica e poder para os políticos\" data-qa-id=\"news-headline-title\">Bitcoin não é mais privacidade e liberdade, mas politica e poder para os políticos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c628782f0bc81:0",
-      "index": 13,
-      "title": "Pump.fun se expande com aquisição do terminal de negociação Padre enquanto o mercado de memecoins perde força",
-      "link": "https://br.tradingview.com/news/cointelegraph:c628782f0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-24T21:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pump.fun se expande com aquisição do terminal de negociação Padre enquanto o mercado de memecoins perde força\" data-qa-id=\"news-headline-title\">Pump.fun se expande com aquisição do terminal de negociação Padre enquanto o mercado de memecoins perde força</div></div></article>"
     }
   ]
 }
