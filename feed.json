@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-25T11:53:47.243Z",
+  "updated_at": "2025-10-25T12:31:25.868Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9c9971115bc81:0",
+      "id": "cointelegraph:9a7af3019bc81:0",
       "index": 0,
+      "title": "Crypto.com expansão nos EUA com aplicação para patente de banco fiduciário",
+      "link": "https://br.tradingview.com/news/cointelegraph:9a7af3019bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-25T12:04:24.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 25 Oct 2025 12:04:24 GMT\" class=\"apply-common-tooltip\" title=\"25 de out. de 2025, 12:04 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Crypto.com expansão nos EUA com aplicação para patente de banco fiduciário\" data-qa-id=\"news-headline-title\">Crypto.com expansão nos EUA com aplicação para patente de banco fiduciário</div></div></article>"
+    },
+    {
+      "id": "beincrypto:88ca75490bc81:0",
+      "index": 1,
+      "title": "Solana se une à ABFintechs e reforça presença no setor financeiro brasileiro",
+      "link": "https://br.tradingview.com/news/beincrypto:88ca75490bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-10-25T11:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 25 Oct 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de out. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana se une à ABFintechs e reforça presença no setor financeiro brasileiro\" data-qa-id=\"news-headline-title\">Solana se une à ABFintechs e reforça presença no setor financeiro brasileiro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9c9971115bc81:0",
+      "index": 2,
       "title": "Paolo Ardoino: 'A humanidade precisa reconquistar o controle sobre seus próprios sistemas de comunicação e dinheiro'",
       "link": "https://br.tradingview.com/news/cointelegraph:9c9971115bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:823f76741bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "O futuro do Bitcoin será várias L2 para transferências e a rede BTC como o grande banco de custódia, defende criador da stablecoin do Facebook",
       "link": "https://br.tradingview.com/news/cointelegraph:823f76741bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:0043a77c7bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "'Precisamos expandir as interfaces cérebro-computador para libertar todo o potencial humano', defende CEO da Tether",
       "link": "https://br.tradingview.com/news/cointelegraph:0043a77c7bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:2b2111dc1bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin não é mais privacidade e liberdade, mas politica e poder para os políticos",
       "link": "https://br.tradingview.com/news/cointelegraph:2b2111dc1bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c628782f0bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Pump.fun se expande com aquisição do terminal de negociação Padre enquanto o mercado de memecoins perde força",
       "link": "https://br.tradingview.com/news/cointelegraph:c628782f0bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:5aa68a83bbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Polymarket: Token virá, mas estreia nos EUA acontece primeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:5aa68a83bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:2cb4c54efbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Stablecoins avançam 40% no Brasil e volume alcança R$ 74 bilhões este ano",
       "link": "https://br.tradingview.com/news/cointelegraph:2cb4c54efbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:0fa744aadbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin salta para US$ 112 mil com dados fracos do CPI dos EUA enquanto o S&P 500 atinge recorde histórico",
       "link": "https://br.tradingview.com/news/cointelegraph:0fa744aadbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:314b01ff1bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Ethereum pode recuperar US$ 4 mil? Baleia 'smart trader' eleva posição comprada em ETH para US$ 131 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:314b01ff1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:3fea6ccd2bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "JPMorgan planeja permitir que clientes peguem empréstimos com Bitcoin e Ether como garantia",
       "link": "https://br.tradingview.com/news/cointelegraph:3fea6ccd2bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:616303cb4bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Tesourarias de Bitcoin podem render mais Bitcoin, diz Willem Schroé",
       "link": "https://br.tradingview.com/news/cointelegraph:616303cb4bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tesourarias de Bitcoin podem render mais Bitcoin, diz Willem Schroé\" data-qa-id=\"news-headline-title\">Tesourarias de Bitcoin podem render mais Bitcoin, diz Willem Schroé</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:90a52f26ebc81:0",
-      "index": 11,
-      "title": "Será que as maiores baleias de Bitcoin realmente podem decidir quando o mercado fica verde ou vermelho?",
-      "link": "https://br.tradingview.com/news/cointelegraph:90a52f26ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-24T19:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Será que as maiores baleias de Bitcoin realmente podem decidir quando o mercado fica verde ou vermelho?\" data-qa-id=\"news-headline-title\">Será que as maiores baleias de Bitcoin realmente podem decidir quando o mercado fica verde ou vermelho?</div></div></article>"
-    },
-    {
-      "id": "beincrypto:f295992ecbc81:0",
-      "index": 12,
-      "title": "Bitcoin pode realmente chegar a US$ 200 mil ainda em 2025? Analistas dividem opiniões",
-      "link": "https://br.tradingview.com/news/beincrypto:f295992ecbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-24T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 24 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode realmente chegar a US$ 200 mil ainda em 2025? Analistas dividem opiniões\" data-qa-id=\"news-headline-title\">Bitcoin pode realmente chegar a US$ 200 mil ainda em 2025? Analistas dividem opiniões</div></div></article>"
     }
   ]
 }
