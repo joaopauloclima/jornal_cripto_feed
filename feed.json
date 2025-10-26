@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-26T14:17:05.354Z",
+  "updated_at": "2025-10-26T14:54:04.830Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:702c9c6aebc81:0",
+      "id": "cointelegraph:4ea426814bc81:0",
       "index": 0,
+      "title": "Dados da indústria sugerem que ciclo do Bitcoin pode se estender para além de padrão histórico",
+      "link": "https://br.tradingview.com/news/cointelegraph:4ea426814bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-26T14:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 26 Oct 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de out. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Dados da indústria sugerem que ciclo do Bitcoin pode se estender para além de padrão histórico\" data-qa-id=\"news-headline-title\">Dados da indústria sugerem que ciclo do Bitcoin pode se estender para além de padrão histórico</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:702c9c6aebc81:0",
+      "index": 1,
       "title": "Mineradores de Bitcoin de médio porte ganham terreno e mudam a competição pós-halving",
       "link": "https://br.tradingview.com/news/cointelegraph:702c9c6aebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:df124b4d0bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Coinbase quer trazer todo o ciclo de vida das startups para a blockchain, diz CEO Armstrong",
       "link": "https://br.tradingview.com/news/cointelegraph:df124b4d0bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0a53d55e9bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Nova interface multisig da Ledger provoca reação negativa devido a taxas 'abusivas'",
       "link": "https://br.tradingview.com/news/cointelegraph:0a53d55e9bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:53b09b4f8bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Notícias Cripto: OKX lança Rubix, Stablecoin Conference LatAm 2026, KGeN no Brasil, SEC e Naoris Protocol e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:53b09b4f8bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:1ff20f7dbbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Notícias Cripto: Ethereum Foundation no ETH Latam, Solana na ABFintechs, hard fork na Chiliz e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:1ff20f7dbbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4620a5c3fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Investidores de cripto no Reino Unido podem ter de pagar impostos, alerta especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:4620a5c3fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:25a4c6b51bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ferrari vai lançar token digital e fãs vão poder investir em vencedor da Le Mans",
       "link": "https://br.tradingview.com/news/cointelegraph:25a4c6b51bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:db4642de3bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "ETFs de Ether Spot registram saídas pela segunda semana seguida com 'diminuição da demanda'",
       "link": "https://br.tradingview.com/news/cointelegraph:db4642de3bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:378459661bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Ripple ganha loja fintech completa depois de aquisição da Hidden Road",
       "link": "https://br.tradingview.com/news/cointelegraph:378459661bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:981e17062bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Rumble faz parceria com Tether para oferecer gorjetas em Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:981e17062bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:a8b8fd02fbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço do XRP mira alta para US$ 3,45 depois de CEO da Ripple aconselhar 'lock in'",
       "link": "https://br.tradingview.com/news/cointelegraph:a8b8fd02fbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9d3f08c9fbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Pressão sobre preço do Bitcoin vai desencadear explosão: BTC pode chegar a US$ 120 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:9d3f08c9fbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:a12cbb7e6bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Ações da Coinbase disparam após JPMorgan reconhecer potencial do Base e USDC",
       "link": "https://br.tradingview.com/news/cointelegraph:a12cbb7e6bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 25 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações da Coinbase disparam após JPMorgan reconhecer potencial do Base e USDC\" data-qa-id=\"news-headline-title\">Ações da Coinbase disparam após JPMorgan reconhecer potencial do Base e USDC</div></div></article>"
-    },
-    {
-      "id": "beincrypto:ab9410747bc81:0",
-      "index": 13,
-      "title": "Ripple cresce além da cripto, mas o XRP pode acompanhar?",
-      "link": "https://br.tradingview.com/news/beincrypto:ab9410747bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-25T15:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 25 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ripple cresce além da cripto, mas o XRP pode acompanhar?\" data-qa-id=\"news-headline-title\">Ripple cresce além da cripto, mas o XRP pode acompanhar?</div></div></article>"
     }
   ]
 }
