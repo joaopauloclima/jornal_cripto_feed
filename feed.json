@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-26T16:55:27.128Z",
+  "updated_at": "2025-10-26T17:16:29.965Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9fdf3b68ebc81:0",
+      "id": "cointelegraph:852d2f0bbbc81:0",
       "index": 0,
+      "title": "Perdão de CZ veio através de lobby da Binance em Washington, diz jornal",
+      "link": "https://br.tradingview.com/news/cointelegraph:852d2f0bbbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-26T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 26 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Perdão de CZ veio através de lobby da Binance em Washington, diz jornal\" data-qa-id=\"news-headline-title\">Perdão de CZ veio através de lobby da Binance em Washington, diz jornal</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9fdf3b68ebc81:0",
+      "index": 1,
       "title": "Preço do bitcoin inicia fuga em US$ 112mil com chances de corte de taxas do Fed acima de 98%",
       "link": "https://br.tradingview.com/news/cointelegraph:9fdf3b68ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:f1a494992bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Entenda a estratégia do trader que lucrou US$ 17 mi durante volatilidade do Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:f1a494992bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e82b1038ebc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Transações x402 da Coinbase explodem mais de 10.000% em um mês",
       "link": "https://br.tradingview.com/news/cointelegraph:e82b1038ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:4ea426814bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Dados da indústria sugerem que ciclo do Bitcoin pode se estender para além de padrão histórico",
       "link": "https://br.tradingview.com/news/cointelegraph:4ea426814bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:702c9c6aebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Mineradores de Bitcoin de médio porte ganham terreno e mudam a competição pós-halving",
       "link": "https://br.tradingview.com/news/cointelegraph:702c9c6aebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:df124b4d0bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Coinbase quer trazer todo o ciclo de vida das startups para a blockchain, diz CEO Armstrong",
       "link": "https://br.tradingview.com/news/cointelegraph:df124b4d0bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0a53d55e9bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Nova interface multisig da Ledger provoca reação negativa devido a taxas 'abusivas'",
       "link": "https://br.tradingview.com/news/cointelegraph:0a53d55e9bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:53b09b4f8bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Notícias Cripto: OKX lança Rubix, Stablecoin Conference LatAm 2026, KGeN no Brasil, SEC e Naoris Protocol e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:53b09b4f8bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1ff20f7dbbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Notícias Cripto: Ethereum Foundation no ETH Latam, Solana na ABFintechs, hard fork na Chiliz e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:1ff20f7dbbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:4620a5c3fbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Investidores de cripto no Reino Unido podem ter de pagar impostos, alerta especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:4620a5c3fbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:25a4c6b51bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Ferrari vai lançar token digital e fãs vão poder investir em vencedor da Le Mans",
       "link": "https://br.tradingview.com/news/cointelegraph:25a4c6b51bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:db4642de3bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "ETFs de Ether Spot registram saídas pela segunda semana seguida com 'diminuição da demanda'",
       "link": "https://br.tradingview.com/news/cointelegraph:db4642de3bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:378459661bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Ripple ganha loja fintech completa depois de aquisição da Hidden Road",
       "link": "https://br.tradingview.com/news/cointelegraph:378459661bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 25 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ripple ganha loja fintech completa depois de aquisição da Hidden Road\" data-qa-id=\"news-headline-title\">Ripple ganha loja fintech completa depois de aquisição da Hidden Road</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:981e17062bc81:0",
-      "index": 13,
-      "title": "Rumble faz parceria com Tether para oferecer gorjetas em Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:981e17062bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-25T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 25 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rumble faz parceria com Tether para oferecer gorjetas em Bitcoin\" data-qa-id=\"news-headline-title\">Rumble faz parceria com Tether para oferecer gorjetas em Bitcoin</div></div></article>"
     }
   ]
 }
