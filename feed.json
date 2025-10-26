@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-26T20:19:58.308Z",
+  "updated_at": "2025-10-26T20:54:08.175Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b41617ad2bc81:0",
+      "id": "cointelegraph:dda8e3cdebc81:0",
       "index": 0,
+      "title": "Einstein encontra o Bitcoin: a ‘constante econômica universal’ que inverte a flecha do tempo para gerar valor",
+      "link": "https://br.tradingview.com/news/cointelegraph:dda8e3cdebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-26T20:22:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 26 Oct 2025 20:22:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de out. de 2025, 20:22 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Einstein encontra o Bitcoin: a ‘constante econômica universal’ que inverte a flecha do tempo para gerar valor\" data-qa-id=\"news-headline-title\">Einstein encontra o Bitcoin: a ‘constante econômica universal’ que inverte a flecha do tempo para gerar valor</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b41617ad2bc81:0",
+      "index": 1,
       "title": "Chefe do tesouro dos EUA, Bessent, diz que foi alcançado um 'substancial' quadro comercial com a China",
       "link": "https://br.tradingview.com/news/cointelegraph:b41617ad2bc81:0/",
       "source": "Cointelegraph",
@@ -12,17 +23,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 26 Oct 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de out. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Chefe do tesouro dos EUA, Bessent, diz que foi alcançado um 'substancial' quadro comercial com a China\" data-qa-id=\"news-headline-title\">Chefe do tesouro dos EUA, Bessent, diz que foi alcançado um 'substancial' quadro comercial com a China</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:dda8e3cdebc81:0",
-      "index": 1,
-      "title": "Einstein encontra o Bitcoin: a ‘constante econômica universal’ que inverte a flecha do tempo para gerar valor",
-      "link": "https://br.tradingview.com/news/cointelegraph:dda8e3cdebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-26T20:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 26 Oct 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de out. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Einstein encontra o Bitcoin: a ‘constante econômica universal’ que inverte a flecha do tempo para gerar valor\" data-qa-id=\"news-headline-title\">Einstein encontra o Bitcoin: a ‘constante econômica universal’ que inverte a flecha do tempo para gerar valor</div></div></article>"
     },
     {
       "id": "cointelegraph:49499c42abc81:0",
