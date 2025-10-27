@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-27T21:17:45.051Z",
+  "updated_at": "2025-10-27T21:53:34.120Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1808ddd70bc81:0",
+      "id": "cointelegraph:f6109f852bc81:0",
       "index": 0,
+      "title": "Até onde o preço do XRP pode chegar em novembro?",
+      "link": "https://br.tradingview.com/news/cointelegraph:f6109f852bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-27T21:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Até onde o preço do XRP pode chegar em novembro?\" data-qa-id=\"news-headline-title\">Até onde o preço do XRP pode chegar em novembro?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:34199537dbc81:0",
+      "index": 1,
+      "title": "Tribunal indiano intervém na distribuição de XRP da WazirX ligada ao hack de 2024",
+      "link": "https://br.tradingview.com/news/cointelegraph:34199537dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-27T21:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tribunal indiano intervém na distribuição de XRP da WazirX ligada ao hack de 2024\" data-qa-id=\"news-headline-title\">Tribunal indiano intervém na distribuição de XRP da WazirX ligada ao hack de 2024</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1808ddd70bc81:0",
+      "index": 2,
       "title": "ETFs de Bitcoin já tem mais de 1.351.896 BTCs, 6,8% de todo o Bitcoin em circulação",
       "link": "https://br.tradingview.com/news/cointelegraph:1808ddd70bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:03ce3b991bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Binance lança promoção que pode levar brasileiros para conhecer Cristiano Ronaldo e comemorar seus 950 gols",
       "link": "https://br.tradingview.com/news/cointelegraph:03ce3b991bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:30139869ebc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Analistas cravam: XRP está a apenas 7% de disparar",
       "link": "https://br.tradingview.com/news/beincrypto:30139869ebc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b06fdfe0fbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Análise de preços em 27/10: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:b06fdfe0fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:87dad7d04bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Plataforma de tokenização tZero mira IPO em 2026 em meio ao aumento de listagens de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:87dad7d04bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d46c17243bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Com apoio do Banco Central, Mastercard e Visa vão ter PIX direto no cartão e usuário vai pagar sem precisar acessar a conta",
       "link": "https://br.tradingview.com/news/cointelegraph:d46c17243bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:074401748bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "“Criptos de arrepiar”: as 3 moedas favoritas do ChatGPT para o Halloween",
       "link": "https://br.tradingview.com/news/beincrypto:074401748bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d630d7a68bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Ledn ultrapassa US$ 1 bilhão em empréstimos garantidos por Bitcoin com alta no crédito cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:d630d7a68bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:e97e10d14bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Canadá avalia regras para stablecoins antes do orçamento federal, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:e97e10d14bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:bdc66ea48bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Blockchain da Ripple já tokenizou mais de R$ 200 milhões do INSS no Brasil e pretende chegar a R$ 1 bilhão",
       "link": "https://br.tradingview.com/news/cointelegraph:bdc66ea48bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:771cd862fbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Como Changpeng Zhao recuperou poder entre a prisão e o perdão",
       "link": "https://br.tradingview.com/news/cointelegraph:771cd862fbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:d31ce4f0fbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Mesmo com alta de mercado, trader famoso aposta contra o Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:d31ce4f0fbc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mesmo com alta de mercado, trader famoso aposta contra o Bitcoin\" data-qa-id=\"news-headline-title\">Mesmo com alta de mercado, trader famoso aposta contra o Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1df613ca3bc81:0",
-      "index": 12,
-      "title": "Uptober? Strategy registra o menor volume mensal de compras de Bitcoin do ano, com 778 BTC",
-      "link": "https://br.tradingview.com/news/cointelegraph:1df613ca3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-27T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Uptober? Strategy registra o menor volume mensal de compras de Bitcoin do ano, com 778 BTC\" data-qa-id=\"news-headline-title\">Uptober? Strategy registra o menor volume mensal de compras de Bitcoin do ano, com 778 BTC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:dc4b4160bbc81:0",
-      "index": 13,
-      "title": "Ant Group registra a marca 'Antcoin' enquanto a China intensifica a repressão às criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:dc4b4160bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-27T17:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ant Group registra a marca 'Antcoin' enquanto a China intensifica a repressão às criptomoedas\" data-qa-id=\"news-headline-title\">Ant Group registra a marca 'Antcoin' enquanto a China intensifica a repressão às criptomoedas</div></div></article>"
     }
   ]
 }
