@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-27T13:58:24.260Z",
+  "updated_at": "2025-10-27T14:20:18.974Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:083dc134bbc81:0",
+      "id": "cointelegraph:0d933697fbc81:0",
       "index": 0,
+      "title": "Brasil ignora incertezas e aporta R$ 70,8 milhões em fundos de criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:0d933697fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-27T14:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 14:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil ignora incertezas e aporta R$ 70,8 milhões em fundos de criptomoedas\" data-qa-id=\"news-headline-title\">Brasil ignora incertezas e aporta R$ 70,8 milhões em fundos de criptomoedas</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L1N3W80KY:0",
+      "index": 1,
+      "title": "Prenetics cai após oferta de US$ 48 milhões em ações e warrants para expandir e comprar bitcoin",
+      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3W80KY:0/",
+      "source": "Reuters",
+      "published_at": "2025-10-27T14:08:05.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/prenetics-global-limited.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/prenetics-global-limited.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/dominari-holdings.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 14:08:05 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 14:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Prenetics cai após oferta de US$ 48 milhões em ações e warrants para expandir e comprar bitcoin\" data-qa-id=\"news-headline-title\">Prenetics cai após oferta de US$ 48 milhões em ações e warrants para expandir e comprar bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:083dc134bbc81:0",
+      "index": 2,
       "title": "Mt. Gox adia reembolsos para 2026 enquanto saga de uma década se arrasta",
       "link": "https://br.tradingview.com/news/cointelegraph:083dc134bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:5faa6b7debc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin finalmente escapa do 'medo' enquanto a confiança retorna ao mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:5faa6b7debc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:41970cc3ebc81:0",
-      "index": 2,
+      "index": 4,
       "title": "‘Ataque ao Bitcoin’ — Bitcoiners criticam ‘ameaças legais’ em proposta de soft fork",
       "link": "https://br.tradingview.com/news/cointelegraph:41970cc3ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:57db2f247bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Zcash dispara 30% após ‘vibe check’ de Arthur Hayes prever alvo de US$ 10 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:57db2f247bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:38813fe17bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin não é proteção contra inflação, mas prospera quando o dólar enfraquece, diz NYDIG",
       "link": "https://br.tradingview.com/news/cointelegraph:38813fe17bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:861e40c2cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Análise: caminho do Bitcoin para US$ 120 mil pode ser adiado?",
       "link": "https://br.tradingview.com/news/beincrypto:861e40c2cbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3W80FD:0",
-      "index": 6,
+      "index": 8,
       "title": "Prenetics cai após lançar oferta de ações e warrants",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3W80FD:0/",
       "source": "Reuters",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:ae79b174abc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Ethereum ultrapassa US$ 4.200, mas pode chegar a US$ 4.500 até o final do ano?",
       "link": "https://br.tradingview.com/news/beincrypto:ae79b174abc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:311278537bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Partido pró-cripto de Javier Milei vence eleições legislativas na Argentina",
       "link": "https://br.tradingview.com/news/cointelegraph:311278537bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:ffd1f8324bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Por que o mercado cripto está em alta hoje, 27/10/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:ffd1f8324bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:51767f6cabc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Preço do Bitcoin hoje, 27/10/2025: BTC busca recuperação em busca de 'respostas' para o cenário econômico dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:51767f6cabc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:455ca6c4abc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Falhas de segurança da Mt. Gox custaram milhões - IA poderia tê-las identificado",
       "link": "https://br.tradingview.com/news/cointelegraph:455ca6c4abc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 11:24:01 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 11:24 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Falhas de segurança da Mt. Gox custaram milhões - IA poderia tê-las identificado\" data-qa-id=\"news-headline-title\">Falhas de segurança da Mt. Gox custaram milhões - IA poderia tê-las identificado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:867bfb69cbc81:0",
-      "index": 12,
-      "title": "Criptomoedas avançam com um olho do Bitcoin no Fed e outro em Trump",
-      "link": "https://br.tradingview.com/news/cointelegraph:867bfb69cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-27T11:23:05.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 11:23:05 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 11:23 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas avançam com um olho do Bitcoin no Fed e outro em Trump\" data-qa-id=\"news-headline-title\">Criptomoedas avançam com um olho do Bitcoin no Fed e outro em Trump</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b58197befbc81:0",
-      "index": 13,
-      "title": "Grande banco privado iraniano vai à falência prejudicando 42 milhões de clientes",
-      "link": "https://br.tradingview.com/news/cointelegraph:b58197befbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-27T11:06:19.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 27 Oct 2025 11:06:19 GMT\" class=\"apply-common-tooltip\" title=\"27 de out. de 2025, 11:06 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Grande banco privado iraniano vai à falência prejudicando 42 milhões de clientes\" data-qa-id=\"news-headline-title\">Grande banco privado iraniano vai à falência prejudicando 42 milhões de clientes</div></div></article>"
     }
   ]
 }
