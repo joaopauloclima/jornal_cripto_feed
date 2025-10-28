@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-28T21:17:47.437Z",
+  "updated_at": "2025-10-28T21:53:31.915Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:75f100a9ebc81:0",
+      "id": "cointelegraph:b0365a160bc81:0",
       "index": 0,
+      "title": "Polymarket planeja relançamento nos EUA para novembro, diz reportagem",
+      "link": "https://br.tradingview.com/news/cointelegraph:b0365a160bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-28T21:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Polymarket planeja relançamento nos EUA para novembro, diz reportagem\" data-qa-id=\"news-headline-title\">Polymarket planeja relançamento nos EUA para novembro, diz reportagem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b8fb64591bc81:0",
+      "index": 1,
+      "title": "Coinbase e Figment ampliam o staking institucional para além do Ethereum",
+      "link": "https://br.tradingview.com/news/cointelegraph:b8fb64591bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-28T21:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase e Figment ampliam o staking institucional para além do Ethereum\" data-qa-id=\"news-headline-title\">Coinbase e Figment ampliam o staking institucional para além do Ethereum</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:75f100a9ebc81:0",
+      "index": 2,
       "title": "Governo francês deve analisar moção para 'adotar o Bitcoin e as criptomoedas'",
       "link": "https://br.tradingview.com/news/cointelegraph:75f100a9ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:9ba569647bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "OpenAI se reestrutura como corporação de benefício público e Microsoft garante participação de 27%",
       "link": "https://br.tradingview.com/news/cointelegraph:9ba569647bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:094cc80afbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Preço do Bitcoin toca US$ 116 mil enquanto análise avalia chances de preenchimento do gap da CME",
       "link": "https://br.tradingview.com/news/cointelegraph:094cc80afbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a7c1373c0bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "'Sem BlackRock, sem festa' para investimentos em ETFs de Bitcoin e altcoins, diz a K33 Research",
       "link": "https://br.tradingview.com/news/cointelegraph:a7c1373c0bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8c9aa301dbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Truth Social de Trump entra no mercado de previsões em parceria com a Crypto.com",
       "link": "https://br.tradingview.com/news/cointelegraph:8c9aa301dbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:97686b13abc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Securitize abrirá capital em fusão de US$ 1,25 bilhão com apoio da BlackRock",
       "link": "https://br.tradingview.com/news/cointelegraph:97686b13abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:96fc7a3f4bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Circle lança testnet Arc com participação da BlackRock, Goldman Sachs e Visa",
       "link": "https://br.tradingview.com/news/cointelegraph:96fc7a3f4bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:5f18dd44abc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Grandes investidores dão as caras e XRP supera US$ 2,50: e agora?",
       "link": "https://br.tradingview.com/news/beincrypto:5f18dd44abc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:12cf95edcbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "O segredo por trás da estratégia de aquisições bilionárias da Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:12cf95edcbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6d6bbe627bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Até onde o preço do SOL pode subir com o lançamento do primeiro ETF de Solana?",
       "link": "https://br.tradingview.com/news/cointelegraph:6d6bbe627bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3W916V:0",
-      "index": 10,
+      "index": 12,
       "title": "Trump Media entrará no mercado de previsões",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3W916V:0/",
       "source": "Reuters",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:30c086c99bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "CEO da BlackRock revela principal dúvida dos bancos centrais enquanto ouro cai abaixo de US$ 4 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:30c086c99bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da BlackRock revela principal dúvida dos bancos centrais enquanto ouro cai abaixo de US$ 4 mil\" data-qa-id=\"news-headline-title\">CEO da BlackRock revela principal dúvida dos bancos centrais enquanto ouro cai abaixo de US$ 4 mil</div></div></article>"
-    },
-    {
-      "id": "beincrypto:ef2b087b6bc81:0",
-      "index": 12,
-      "title": "O que esperar do preço do Bitcoin em novembro?",
-      "link": "https://br.tradingview.com/news/beincrypto:ef2b087b6bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-28T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O que esperar do preço do Bitcoin em novembro?\" data-qa-id=\"news-headline-title\">O que esperar do preço do Bitcoin em novembro?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:43309bbdfbc81:0",
-      "index": 13,
-      "title": "A16z lidera rodada de US$ 12,9 milhões para a ZAR levar stablecoins aos desbancarizados do Paquistão",
-      "link": "https://br.tradingview.com/news/cointelegraph:43309bbdfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-28T17:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A16z lidera rodada de US$ 12,9 milhões para a ZAR levar stablecoins aos desbancarizados do Paquistão\" data-qa-id=\"news-headline-title\">A16z lidera rodada de US$ 12,9 milhões para a ZAR levar stablecoins aos desbancarizados do Paquistão</div></div></article>"
     }
   ]
 }
