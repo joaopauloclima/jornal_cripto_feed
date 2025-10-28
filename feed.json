@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-28T17:01:17.902Z",
+  "updated_at": "2025-10-28T17:21:10.346Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e12d34134bc81:0",
+      "id": "cointelegraph:0dbf9383ebc81:0",
       "index": 0,
+      "title": "ETFs de Solana podem atrair US$ 6 bilhões no primeiro ano à medida que o SOL entra na 'primeira divisão'",
+      "link": "https://br.tradingview.com/news/cointelegraph:0dbf9383ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-28T17:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCHBAR.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Solana podem atrair US$ 6 bilhões no primeiro ano à medida que o SOL entra na 'primeira divisão'\" data-qa-id=\"news-headline-title\">ETFs de Solana podem atrair US$ 6 bilhões no primeiro ano à medida que o SOL entra na 'primeira divisão'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e12d34134bc81:0",
+      "index": 1,
       "title": "Bitcoin está 'caro demais' para o varejo e ameaça encerrar o ciclo de alta do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:e12d34134bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:43eb9b714bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Maduro intensifica adoção de criptomoedas na Venezuela para driblar Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:43eb9b714bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:5b91bb3c8bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Metaplanet recorre à alavancagem em Bitcoin para recompra de US$ 500 milhões após valor de mercado cair abaixo das reservas de BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:5b91bb3c8bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f34892b64bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Elon Musk lança Grokipedia — uma enciclopédia em que a IA tem a palavra final",
       "link": "https://br.tradingview.com/news/cointelegraph:f34892b64bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8eee76902bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Plataforma de previsões Kalshi processa regulador de Nova York, alegando abuso de autoridade",
       "link": "https://br.tradingview.com/news/cointelegraph:8eee76902bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:22209092fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Analistas afirmam que isso precisa acontecer para o preço do Bitcoin ultrapassar US$ 115 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:22209092fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:04aed4590bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do Bitcoin testa suporte em US$ 111 mil enquanto RSI aponta para alta",
       "link": "https://br.tradingview.com/news/cointelegraph:04aed4590bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8bbe038e3bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Uso de stablecoins na Venezuela cresce em meio a ameaças de guerra e sanções contínuas",
       "link": "https://br.tradingview.com/news/cointelegraph:8bbe038e3bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9d66d4e82bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin e Ethereum estão perto de novas máximas históricas, diz especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:9d66d4e82bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9a3d52f7ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Parlamentar dos EUA busca impedir que Trump e sua família negociem criptomoedas e ações",
       "link": "https://br.tradingview.com/news/cointelegraph:9a3d52f7ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:de0506559bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Tesourarias de Bitcoin e Ether ‘sumiram’ desde o crash cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:de0506559bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1b37d7a4ebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "S&P rebaixa Strategy para rating B- de 'título lixo', citando foco estreito em Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:1b37d7a4ebc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:f004af811bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Senador republicano alerta que o tempo está se esgotando para aprovar projeto de lei sobre cripto nos EUA, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:f004af811bc81:0/",
       "source": "Cointelegraph",
