@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-29T18:59:16.470Z",
+  "updated_at": "2025-10-29T19:16:37.803Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2df3ad643bc81:0",
+      "id": "cointelegraph:fb864050abc81:0",
       "index": 0,
+      "title": "Grayscale lança ETF de Solana e entra na disputa com a Bitwise por ETF de staking de SOL",
+      "link": "https://br.tradingview.com/news/cointelegraph:fb864050abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-29T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Grayscale lança ETF de Solana e entra na disputa com a Bitwise por ETF de staking de SOL\" data-qa-id=\"news-headline-title\">Grayscale lança ETF de Solana e entra na disputa com a Bitwise por ETF de staking de SOL</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2df3ad643bc81:0",
+      "index": 1,
       "title": "Quatro gráficos de preço do XRP que preveem uma alta em direção a US$ 3",
       "link": "https://br.tradingview.com/news/cointelegraph:2df3ad643bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:913c66fe9bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Empresa brasileira de energia solar Thopen considera mineração de Bitcoin para absorver energia excedente",
       "link": "https://br.tradingview.com/news/cointelegraph:913c66fe9bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:709b70402bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Perdões de Trump no setor cripto levantam preocupações sobre ética e corrupção",
       "link": "https://br.tradingview.com/news/cointelegraph:709b70402bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:ed7a22a9abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Avalanche atrai governos e fundos no 3º trimestre, mas token permanece 86% abaixo do pico",
       "link": "https://br.tradingview.com/news/cointelegraph:ed7a22a9abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:384e39a8cbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Alemanha segue exemplo da França com proposta de reserva nacional de Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:384e39a8cbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:24e1e77a4bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Próximos alvos do USELESS, ASTER e outras 5 criptomoedas para ficar de olho",
       "link": "https://br.tradingview.com/news/cointelegraph:24e1e77a4bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f5e9d07cfbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Temporada de ETPs cripto? Safello e Deutsche Bank lançarão primeiro ETP de TAO na SIX Swiss Exchange",
       "link": "https://br.tradingview.com/news/cointelegraph:f5e9d07cfbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:c7094d435bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin pode dobrar ainda em 2025, diz autor de “Pai Rico, Pai Pobre”",
       "link": "https://br.tradingview.com/news/beincrypto:c7094d435bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:60719409dbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Arc da Circle atrai primeira iniciativa de stablecoin lastreada em won da Coreia do Sul",
       "link": "https://br.tradingview.com/news/cointelegraph:60719409dbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ffaf833fbbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Strategy de Saylor pode ser incluída no S&P 500 após resultados do 3º trimestre, diz 10X Research",
       "link": "https://br.tradingview.com/news/cointelegraph:ffaf833fbbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5fd0de8b8bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "World Liberty, ligada a Trump, fará airdrop de US$ 1,2 milhão em tokens WLFI para primeiros usuários do USD1",
       "link": "https://br.tradingview.com/news/cointelegraph:5fd0de8b8bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:4374bee2cbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "‘Mineração descarada’ para treinar IA pode dar prejuízo de até R$ 116 bilhões aos compositores",
       "link": "https://br.tradingview.com/news/cointelegraph:4374bee2cbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:1fb8933eebc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Senadores democratas exigem explicações sobre o perdão de Trump a CZ da Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:1fb8933eebc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Senadores democratas exigem explicações sobre o perdão de Trump a CZ da Binance\" data-qa-id=\"news-headline-title\">Senadores democratas exigem explicações sobre o perdão de Trump a CZ da Binance</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:08e92c5cebc81:0",
-      "index": 13,
-      "title": "Visa começará a oferecer suporte a stablecoins em quatro blockchains",
-      "link": "https://br.tradingview.com/news/cointelegraph:08e92c5cebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-29T14:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Visa começará a oferecer suporte a stablecoins em quatro blockchains\" data-qa-id=\"news-headline-title\">Visa começará a oferecer suporte a stablecoins em quatro blockchains</div></div></article>"
     }
   ]
 }
