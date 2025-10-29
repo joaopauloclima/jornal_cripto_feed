@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-29T14:20:02.769Z",
+  "updated_at": "2025-10-29T14:58:06.892Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e6e471a81bc81:0",
+      "id": "cointelegraph:08e92c5cebc81:0",
       "index": 0,
+      "title": "Visa começará a oferecer suporte a stablecoins em quatro blockchains",
+      "link": "https://br.tradingview.com/news/cointelegraph:08e92c5cebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-29T14:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Visa começará a oferecer suporte a stablecoins em quatro blockchains\" data-qa-id=\"news-headline-title\">Visa começará a oferecer suporte a stablecoins em quatro blockchains</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ac50db791bc81:0",
+      "index": 1,
+      "title": "Fork Fusaka da Ethereum está pronto para mainnet após estreia em testnet final",
+      "link": "https://br.tradingview.com/news/cointelegraph:ac50db791bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-29T14:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fork Fusaka da Ethereum está pronto para mainnet após estreia em testnet final\" data-qa-id=\"news-headline-title\">Fork Fusaka da Ethereum está pronto para mainnet após estreia em testnet final</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e6e471a81bc81:0",
+      "index": 2,
       "title": "Western Union escolhe Solana para sua rede de stablecoin e criptoativos",
       "link": "https://br.tradingview.com/news/cointelegraph:e6e471a81bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b92fbf438bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "ETF de staking de Solana da Bitwise registra US$ 55 milhões em volume no primeiro dia",
       "link": "https://br.tradingview.com/news/cointelegraph:b92fbf438bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:06a16340fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin aguarda ‘pânico das sardinhas’ para nova máxima, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:06a16340fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:2d31167fabc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Ação de preço 'pingue-pongue' do Bitcoin deve continuar até decisão do Fed e acordo EUA-China",
       "link": "https://br.tradingview.com/news/cointelegraph:2d31167fabc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:fd05555c9bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "OceanPal levanta US$ 120 milhões para criar empresa de tesouraria em tokens NEAR",
       "link": "https://br.tradingview.com/news/cointelegraph:fd05555c9bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:af8b86230bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Mercado cripto segue em baixa hoje: por que?",
       "link": "https://br.tradingview.com/news/beincrypto:af8b86230bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:64a3b18f6bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ETF de staking de Solana da Bitwise estreia com US$ 223 milhões em ativos e mostra forte demanda institucional",
       "link": "https://br.tradingview.com/news/cointelegraph:64a3b18f6bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:66820ea27bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Por que o Bitcoin não conseguiu se manter acima dos US$ 115 mil?",
       "link": "https://br.tradingview.com/news/beincrypto:66820ea27bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:a3baf0521bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "O que esperar do preço do XRP em novembro?",
       "link": "https://br.tradingview.com/news/beincrypto:a3baf0521bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:c2d108e50bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Fed assusta e criptomoedas recuam, mas Bitcoin mantém esperança de rali",
       "link": "https://br.tradingview.com/news/cointelegraph:c2d108e50bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:e06e4d68abc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Os preços do ouro e da prata podem prever o próximo movimento do Bitcoin?",
       "link": "https://br.tradingview.com/news/beincrypto:e06e4d68abc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:674ebd59abc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Tributação de criptoativos e bets pode bancar novo programa social e volta à pauta no Congresso",
       "link": "https://br.tradingview.com/news/cointelegraph:674ebd59abc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 10:40:45 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 10:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tributação de criptoativos e bets pode bancar novo programa social e volta à pauta no Congresso\" data-qa-id=\"news-headline-title\">Tributação de criptoativos e bets pode bancar novo programa social e volta à pauta no Congresso</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:05b6b8d5dbc81:0",
-      "index": 12,
-      "title": "Preço do Bitcoin hoje, 29/10/2025: BTC ainda preso entre US$ 105 mil e US$ 113 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:05b6b8d5dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-29T10:16:11.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 10:16:11 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 10:16 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 29/10/2025: BTC ainda preso entre US$ 105 mil e US$ 113 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 29/10/2025: BTC ainda preso entre US$ 105 mil e US$ 113 mil</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L6N3W916T:0",
-      "index": 13,
-      "title": "Trump Media entrará no mercado de previsões",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L6N3W916T:0/",
-      "source": "Reuters",
-      "published_at": "2025-10-28T23:26:37.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/digital-world-acquisition-corp.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/digital-world-acquisition-corp.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 23:26:37 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 23:26 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump Media entrará no mercado de previsões\" data-qa-id=\"news-headline-title\">Trump Media entrará no mercado de previsões</div></div></article>"
     }
   ]
 }
