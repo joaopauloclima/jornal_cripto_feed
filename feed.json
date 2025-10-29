@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-29T10:21:34.382Z",
+  "updated_at": "2025-10-29T10:57:17.622Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2025:newsml_L6N3W916T:0",
+      "id": "cointelegraph:674ebd59abc81:0",
       "index": 0,
+      "title": "Tributação de criptoativos e bets pode bancar novo programa social e volta à pauta no Congresso",
+      "link": "https://br.tradingview.com/news/cointelegraph:674ebd59abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-29T10:40:45.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 10:40:45 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 10:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tributação de criptoativos e bets pode bancar novo programa social e volta à pauta no Congresso\" data-qa-id=\"news-headline-title\">Tributação de criptoativos e bets pode bancar novo programa social e volta à pauta no Congresso</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:05b6b8d5dbc81:0",
+      "index": 1,
+      "title": "Preço do Bitcoin hoje, 29/10/2025: BTC ainda preso entre US$ 105 mil e US$ 113 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:05b6b8d5dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-29T10:16:11.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 10:16:11 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 10:16 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 29/10/2025: BTC ainda preso entre US$ 105 mil e US$ 113 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 29/10/2025: BTC ainda preso entre US$ 105 mil e US$ 113 mil</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L6N3W916T:0",
+      "index": 2,
       "title": "Trump Media entrará no mercado de previsões",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L6N3W916T:0/",
       "source": "Reuters",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:afe3e0296bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "'Brasil assume a liderança global na tokenização e deixa o Vale do Silício para trás', aponta VC investidor da Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:afe3e0296bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:27e3a8282bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Itaú faz parceria com a Circle e lança USDC na Avenue",
       "link": "https://br.tradingview.com/news/cointelegraph:27e3a8282bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c79386c7fbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Uptober não foi um fracasso, mas o começo de um final de ano de alta para o Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:c79386c7fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:b0365a160bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Polymarket planeja relançamento nos EUA para novembro, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:b0365a160bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b8fb64591bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Coinbase e Figment ampliam o staking institucional para além do Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:b8fb64591bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:75f100a9ebc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Governo francês deve analisar moção para 'adotar o Bitcoin e as criptomoedas'",
       "link": "https://br.tradingview.com/news/cointelegraph:75f100a9ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9ba569647bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "OpenAI se reestrutura como corporação de benefício público e Microsoft garante participação de 27%",
       "link": "https://br.tradingview.com/news/cointelegraph:9ba569647bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:094cc80afbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Preço do Bitcoin toca US$ 116 mil enquanto análise avalia chances de preenchimento do gap da CME",
       "link": "https://br.tradingview.com/news/cointelegraph:094cc80afbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:a7c1373c0bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "'Sem BlackRock, sem festa' para investimentos em ETFs de Bitcoin e altcoins, diz a K33 Research",
       "link": "https://br.tradingview.com/news/cointelegraph:a7c1373c0bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8c9aa301dbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Truth Social de Trump entra no mercado de previsões em parceria com a Crypto.com",
       "link": "https://br.tradingview.com/news/cointelegraph:8c9aa301dbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:97686b13abc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Securitize abrirá capital em fusão de US$ 1,25 bilhão com apoio da BlackRock",
       "link": "https://br.tradingview.com/news/cointelegraph:97686b13abc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Securitize abrirá capital em fusão de US$ 1,25 bilhão com apoio da BlackRock\" data-qa-id=\"news-headline-title\">Securitize abrirá capital em fusão de US$ 1,25 bilhão com apoio da BlackRock</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:96fc7a3f4bc81:0",
-      "index": 12,
-      "title": "Circle lança testnet Arc com participação da BlackRock, Goldman Sachs e Visa",
-      "link": "https://br.tradingview.com/news/cointelegraph:96fc7a3f4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-28T19:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Circle lança testnet Arc com participação da BlackRock, Goldman Sachs e Visa\" data-qa-id=\"news-headline-title\">Circle lança testnet Arc com participação da BlackRock, Goldman Sachs e Visa</div></div></article>"
-    },
-    {
-      "id": "beincrypto:5f18dd44abc81:0",
-      "index": 13,
-      "title": "Grandes investidores dão as caras e XRP supera US$ 2,50: e agora?",
-      "link": "https://br.tradingview.com/news/beincrypto:5f18dd44abc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-28T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Oct 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de out. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Grandes investidores dão as caras e XRP supera US$ 2,50: e agora?\" data-qa-id=\"news-headline-title\">Grandes investidores dão as caras e XRP supera US$ 2,50: e agora?</div></div></article>"
     }
   ]
 }
