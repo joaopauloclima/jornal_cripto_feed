@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-30T13:57:06.921Z",
+  "updated_at": "2025-10-30T14:19:42.087Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2e70abe0ebc81:0",
+      "id": "cointelegraph:777dde4acbc81:0",
       "index": 0,
+      "title": "Ondo tokeniza mais de 100 ações e ETFs dos EUA na BNB Chain",
+      "link": "https://br.tradingview.com/news/cointelegraph:777dde4acbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-30T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 30 Oct 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de out. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ondo tokeniza mais de 100 ações e ETFs dos EUA na BNB Chain\" data-qa-id=\"news-headline-title\">Ondo tokeniza mais de 100 ações e ETFs dos EUA na BNB Chain</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2e70abe0ebc81:0",
+      "index": 1,
       "title": "Mastercard está em negociações para adquirir a zerohash por quase US$ 2 bilhões, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:2e70abe0ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fc6d9905abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "ETFs de Solana são finalmente lançados: então por que o SOL não está sendo negociado acima de US$ 200?",
       "link": "https://br.tradingview.com/news/cointelegraph:fc6d9905abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:3693037b4bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Grok prevê preços do Bitcoin e do XRP após corte de juros do Fed",
       "link": "https://br.tradingview.com/news/beincrypto:3693037b4bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:43ce221cfbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Securitize e BNY Mellon lançam fundo tokenizado lastreado em crédito estruturado",
       "link": "https://br.tradingview.com/news/cointelegraph:43ce221cfbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:3630e7df9bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "FOMC corta juros, mas movimento já estava 'precificado', diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:3630e7df9bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c5b5c4880bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin cai para US$ 109,2 mil após corte de juros de 0,25% pelo Fed e fim do aperto quantitativo",
       "link": "https://br.tradingview.com/news/cointelegraph:c5b5c4880bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:cf100eda3bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Saylor diz que Bitcoin pode subir para US$ 150 mil até o fim de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:cf100eda3bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3b139d2efbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Empresa brasileira de energia solar vai começar a minerar Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:3b139d2efbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:86dea750bbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Fed frustra o Bitcoin e pressão vendedora derruba touros de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:86dea750bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:ba23c6728bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "O que esperar do preço do Ethereum em novembro?",
       "link": "https://br.tradingview.com/news/beincrypto:ba23c6728bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5a88e3090bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço do Bitcoin hoje, 30/10/2025: por que o BTC caiu hoje? Criptomoeda recua 4% e volta para US$ 108 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:5a88e3090bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:bd6cf9e7ebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ações da OranjeBTC caem 46% desde estreia na B3 e empresa já vale menos que seu tesouro em Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:bd6cf9e7ebc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:988245304bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Banco Central do Brasil lança documento e 'impede' que empresas tenham 100% de reservas em Bitcoin e nem grandes quantidades",
       "link": "https://br.tradingview.com/news/cointelegraph:988245304bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 23:53:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 23:53 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Banco Central do Brasil lança documento e 'impede' que empresas tenham 100% de reservas em Bitcoin e nem grandes quantidades\" data-qa-id=\"news-headline-title\">Banco Central do Brasil lança documento e 'impede' que empresas tenham 100% de reservas em Bitcoin e nem grandes quantidades</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8a7878de0bc81:0",
-      "index": 13,
-      "title": "Notícias Cripto: Oobit chega no Brasil, Bitfinex lança campanha de trade e outras novidades",
-      "link": "https://br.tradingview.com/news/cointelegraph:8a7878de0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-29T23:52:21.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 23:52:21 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 23:52 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias Cripto: Oobit chega no Brasil, Bitfinex lança campanha de trade e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: Oobit chega no Brasil, Bitfinex lança campanha de trade e outras novidades</div></div></article>"
     }
   ]
 }
