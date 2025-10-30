@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-30T11:17:44.115Z",
+  "updated_at": "2025-10-30T11:53:28.307Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:bd6cf9e7ebc81:0",
+      "id": "cointelegraph:86dea750bbc81:0",
       "index": 0,
+      "title": "Fed frustra o Bitcoin e pressão vendedora derruba touros de criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:86dea750bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-30T11:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 30 Oct 2025 11:40:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de out. de 2025, 11:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fed frustra o Bitcoin e pressão vendedora derruba touros de criptomoedas\" data-qa-id=\"news-headline-title\">Fed frustra o Bitcoin e pressão vendedora derruba touros de criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5a88e3090bc81:0",
+      "index": 1,
+      "title": "Preço do Bitcoin hoje, 30/10/2025: por que o BTC caiu hoje? Criptomoeda recua 2% e volta para US$ 110 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:5a88e3090bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-30T11:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 30 Oct 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de out. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 30/10/2025: por que o BTC caiu hoje? Criptomoeda recua 2% e volta para US$ 110 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 30/10/2025: por que o BTC caiu hoje? Criptomoeda recua 2% e volta para US$ 110 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bd6cf9e7ebc81:0",
+      "index": 2,
       "title": "Ações da OranjeBTC caem 46% desde estreia na B3 e empresa já vale menos que seu tesouro em Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:bd6cf9e7ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:988245304bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Banco Central do Brasil lança documento e 'impede' que empresas tenham 100% de reservas em Bitcoin e nem grandes quantidades",
       "link": "https://br.tradingview.com/news/cointelegraph:988245304bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8a7878de0bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Notícias Cripto: Oobit chega no Brasil, Bitfinex lança campanha de trade e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:8a7878de0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:cbecb4bcabc81:0",
-      "index": 3,
+      "index": 5,
       "title": "'O Bitcoin não é 100% anônimo, isso é uma mentira' revela especialista em identificar endereços de BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:cbecb4bcabc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1309fe1a7bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Cripto fora do alcance da Justiça: CriptoJud ainda tem efeito limitado para bloquear criptoativos no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:1309fe1a7bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7bfbc79e1bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Análise de preços em 29/10: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK e BCH",
       "link": "https://br.tradingview.com/news/cointelegraph:7bfbc79e1bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e63c2cb2ebc81:0",
-      "index": 6,
+      "index": 8,
       "title": "CZ avalia processar senadora dos EUA por acusação de lavagem de dinheiro, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:e63c2cb2ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1d7d2ee75bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Ex-chefe da FTX dos EUA aposta em 'perpétuos' para os mercados tradicionais",
       "link": "https://br.tradingview.com/news/cointelegraph:1d7d2ee75bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:d94166e5bbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Pavel Durov, do Telegram, revela rede de IA descentralizada construída na TON",
       "link": "https://br.tradingview.com/news/cointelegraph:d94166e5bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:631de8ee5bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "ETFs de staking de Solana são a 'peça que faltava no quebra-cabeça', diz CIO da Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:631de8ee5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:29aa9add6bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin recua para US$ 113.000 e S&P 500 atinge nova máxima histórica antes da decisão do Fed sobre juros",
       "link": "https://br.tradingview.com/news/cointelegraph:29aa9add6bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:36c8e481cbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin x história: preço do BTC sinaliza ganhos de 7% com o fim da 'semana dourada'",
       "link": "https://br.tradingview.com/news/cointelegraph:36c8e481cbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 20:20:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 20:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin x história: preço do BTC sinaliza ganhos de 7% com o fim da 'semana dourada'\" data-qa-id=\"news-headline-title\">Bitcoin x história: preço do BTC sinaliza ganhos de 7% com o fim da 'semana dourada'</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L1N3WA1I9:0",
-      "index": 12,
-      "title": "Mastercard está prestes a comprar a empresa de criptomoedas Zerohash por quase US$ 2 bilhões, segundo reportagem da Fortune.",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WA1I9:0/",
-      "source": "Reuters",
-      "published_at": "2025-10-29T20:10:25.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/mastercard.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/mastercard.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/interactive-brokers-group.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 29 Oct 2025 20:10:25 GMT\" class=\"apply-common-tooltip\" title=\"29 de out. de 2025, 20:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mastercard está prestes a comprar a empresa de criptomoedas Zerohash por quase US$ 2 bilhões, segundo reportagem da Fortune.\" data-qa-id=\"news-headline-title\">Mastercard está prestes a comprar a empresa de criptomoedas Zerohash por quase US$ 2 bilhões, segundo reportagem da Fortune.</div></div></article>"
     }
   ]
 }
