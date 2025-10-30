@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-10-30T14:57:14.475Z",
+  "updated_at": "2025-10-30T15:21:19.709Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1d18a05e7bc81:0",
+      "id": "cointelegraph:95a1ace07bc81:0",
       "index": 0,
+      "title": "21Shares registra ETF de Hyperliquid; e ETF de staking de Solana da Bitwise tem 'número enorme' no segundo dia",
+      "link": "https://br.tradingview.com/news/cointelegraph:95a1ace07bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-30T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 30 Oct 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de out. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"21Shares registra ETF de Hyperliquid; e ETF de staking de Solana da Bitwise tem 'número enorme' no segundo dia\" data-qa-id=\"news-headline-title\">21Shares registra ETF de Hyperliquid; e ETF de staking de Solana da Bitwise tem 'número enorme' no segundo dia</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1d18a05e7bc81:0",
+      "index": 1,
       "title": "Ethereum se aproxima de Wall Street com novo site voltado a instituições",
       "link": "https://br.tradingview.com/news/cointelegraph:1d18a05e7bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:612f490fdbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Queda pode ser armadilha de urso, mas Bitcoin não escapará da ‘bolha do fim do mundo’, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:612f490fdbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:a4ebecdf8bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Novas baleias de Bitcoin controlam 45% do BTC: entenda o risco",
       "link": "https://br.tradingview.com/news/beincrypto:a4ebecdf8bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:777dde4acbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ondo tokeniza mais de 100 ações e ETFs dos EUA na BNB Chain",
       "link": "https://br.tradingview.com/news/cointelegraph:777dde4acbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:2e70abe0ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Mastercard está em negociações para adquirir a zerohash por quase US$ 2 bilhões, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:2e70abe0ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:fc6d9905abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "ETFs de Solana são finalmente lançados: então por que o SOL não está sendo negociado acima de US$ 200?",
       "link": "https://br.tradingview.com/news/cointelegraph:fc6d9905abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:3693037b4bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Grok prevê preços do Bitcoin e do XRP após corte de juros do Fed",
       "link": "https://br.tradingview.com/news/beincrypto:3693037b4bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:43ce221cfbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Securitize e BNY Mellon lançam fundo tokenizado lastreado em crédito estruturado",
       "link": "https://br.tradingview.com/news/cointelegraph:43ce221cfbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:3630e7df9bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "FOMC corta juros, mas movimento já estava 'precificado', diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:3630e7df9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c5b5c4880bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin cai para US$ 109,2 mil após corte de juros de 0,25% pelo Fed e fim do aperto quantitativo",
       "link": "https://br.tradingview.com/news/cointelegraph:c5b5c4880bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:cf100eda3bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Saylor diz que Bitcoin pode subir para US$ 150 mil até o fim de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:cf100eda3bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:3b139d2efbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Empresa brasileira de energia solar vai começar a minerar Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:3b139d2efbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:86dea750bbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Fed frustra o Bitcoin e pressão vendedora derruba touros de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:86dea750bbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 30 Oct 2025 11:40:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de out. de 2025, 11:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fed frustra o Bitcoin e pressão vendedora derruba touros de criptomoedas\" data-qa-id=\"news-headline-title\">Fed frustra o Bitcoin e pressão vendedora derruba touros de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:ba23c6728bc81:0",
-      "index": 13,
-      "title": "O que esperar do preço do Ethereum em novembro?",
-      "link": "https://br.tradingview.com/news/beincrypto:ba23c6728bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-10-30T11:30:26.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 30 Oct 2025 11:30:26 GMT\" class=\"apply-common-tooltip\" title=\"30 de out. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O que esperar do preço do Ethereum em novembro?\" data-qa-id=\"news-headline-title\">O que esperar do preço do Ethereum em novembro?</div></div></article>"
     }
   ]
 }
