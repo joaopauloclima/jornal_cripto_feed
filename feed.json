@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-10-31T17:53:16.650Z",
+  "updated_at": "2025-10-31T18:26:13.885Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e35ae0bdebc81:0",
+      "id": "cointelegraph:f4acc18edbc81:0",
       "index": 0,
+      "title": "Executivo da Bitwise diz que apostar na Solana oferece 'duas formas de ganhar'",
+      "link": "https://br.tradingview.com/news/cointelegraph:f4acc18edbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-31T18:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 31 Oct 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de out. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Executivo da Bitwise diz que apostar na Solana oferece 'duas formas de ganhar'\" data-qa-id=\"news-headline-title\">Executivo da Bitwise diz que apostar na Solana oferece 'duas formas de ganhar'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ee0909218bc81:0",
+      "index": 1,
+      "title": "Registro da marca 'WUUSD' da Western Union sugere possíveis ofertas de criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:ee0909218bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-10-31T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 31 Oct 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de out. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Registro da marca 'WUUSD' da Western Union sugere possíveis ofertas de criptomoedas\" data-qa-id=\"news-headline-title\">Registro da marca 'WUUSD' da Western Union sugere possíveis ofertas de criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e35ae0bdebc81:0",
+      "index": 2,
       "title": "Investidores de varejo injetam US$ 1,4 bilhão nas ICOs 'superlotadas' da MetaETH, zkPass e Momentum",
       "link": "https://br.tradingview.com/news/cointelegraph:e35ae0bdebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:954df8c0ebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "6 criptomoedas para ficar de olho em novembro",
       "link": "https://br.tradingview.com/news/cointelegraph:954df8c0ebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:773dafb87bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Saylor diz que a Strategy provavelmente não comprará rivais devido à incerteza",
       "link": "https://br.tradingview.com/news/cointelegraph:773dafb87bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:eef24a53bbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "As palavras finais bizarras do CEO da Coinbase no call do 3º trimestre renderam a alguns sortudos",
       "link": "https://br.tradingview.com/news/cointelegraph:eef24a53bbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:ef9ebbe92bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "O que esperar do preço do XRP em novembro?",
       "link": "https://br.tradingview.com/news/beincrypto:ef9ebbe92bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:70b6cbd30bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin não é o 'objetivo final', diz Riot após aumento de 27% na produção de BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:70b6cbd30bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:304f1f8cfbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Coinbase adiciona US$ 300 milhões em Bitcoin enquanto avança com sua visão de 'Exchange de tudo'",
       "link": "https://br.tradingview.com/news/cointelegraph:304f1f8cfbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d5d97cf89bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Strategy de Saylor sobe no pós-mercado após empresa registrar lucro líquido de US$ 2,8 bilhões no 3º trimestre",
       "link": "https://br.tradingview.com/news/cointelegraph:d5d97cf89bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:88777797cbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Ether está prestes a transformar ganância dos ursos em rali em novembro, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:88777797cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:15874e4a6bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Mercado cripto sangra apesar de cortes de juros e negociações comerciais entre EUA e China",
       "link": "https://br.tradingview.com/news/cointelegraph:15874e4a6bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:2fd3dcbe7bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "DYdX planeja entrar no mercado dos EUA até 2026 e oferecer trading à vista, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:2fd3dcbe7bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:8cb46a461bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Receita on-chain se aproxima de US$ 20 bilhões em 2025, marcando um teste de maturidade para o setor cripto, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:8cb46a461bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 31 Oct 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de out. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Receita on-chain se aproxima de US$ 20 bilhões em 2025, marcando um teste de maturidade para o setor cripto, aponta pesquisa\" data-qa-id=\"news-headline-title\">Receita on-chain se aproxima de US$ 20 bilhões em 2025, marcando um teste de maturidade para o setor cripto, aponta pesquisa</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:53f7f4230bc81:0",
-      "index": 12,
-      "title": "Core Scientific não atinge votos suficientes de acionistas para fusão com a CoreWeave",
-      "link": "https://br.tradingview.com/news/cointelegraph:53f7f4230bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-31T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 31 Oct 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de out. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Core Scientific não atinge votos suficientes de acionistas para fusão com a CoreWeave\" data-qa-id=\"news-headline-title\">Core Scientific não atinge votos suficientes de acionistas para fusão com a CoreWeave</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e14c2b37ebc81:0",
-      "index": 13,
-      "title": "Bitcoin toca novas mínimas enquanto ações de tecnologia caem: dados projetam BTC abaixo de US$ 100 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:e14c2b37ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-31T13:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 31 Oct 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de out. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin toca novas mínimas enquanto ações de tecnologia caem: dados projetam BTC abaixo de US$ 100 mil\" data-qa-id=\"news-headline-title\">Bitcoin toca novas mínimas enquanto ações de tecnologia caem: dados projetam BTC abaixo de US$ 100 mil</div></div></article>"
     }
   ]
 }
