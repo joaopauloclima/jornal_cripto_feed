@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-01T14:53:21.808Z",
+  "updated_at": "2025-11-01T15:16:56.047Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ad13c36c2bc81:0",
+      "id": "cointelegraph:dcf4a548abc81:0",
       "index": 0,
+      "title": "MEXC pede desculpas por ter bloqueado US$ 3 milhões de trader",
+      "link": "https://br.tradingview.com/news/cointelegraph:dcf4a548abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-01T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 01 Nov 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de nov. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"MEXC pede desculpas por ter bloqueado US$ 3 milhões de trader\" data-qa-id=\"news-headline-title\">MEXC pede desculpas por ter bloqueado US$ 3 milhões de trader</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ad13c36c2bc81:0",
+      "index": 1,
       "title": "O ciclo de 4 anos do Bitcoin não acabou e BTC deve cair 70% durante o próximo bear market",
       "link": "https://br.tradingview.com/news/cointelegraph:ad13c36c2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:5314efca6bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Musk anuncia o X Chat, um aplicativo de mensagens com criptografia \"similar ao Bitcoin\".",
       "link": "https://br.tradingview.com/news/cointelegraph:5314efca6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:705d00ee9bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "O Senado de New Hampshire atrasa projeto de lei pró mineração de Bitcoin após votação dividida",
       "link": "https://br.tradingview.com/news/cointelegraph:705d00ee9bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:dfd285791bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Reserva de Bitcoin do Steak ‘n Shake: um banquete para investidores de longo prazo ou nada?",
       "link": "https://br.tradingview.com/news/cointelegraph:dfd285791bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f9c0f8fccbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Notícias Cripto: Blockchain Conference Brasil 2025,  RACA e BSF.AI, DexCap com tokens RWA imobiliários",
       "link": "https://br.tradingview.com/news/cointelegraph:f9c0f8fccbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6a5ec2b0bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "O Bitcoin encerra outubro em queda, mas agora entra em seu mês de maior valorização",
       "link": "https://br.tradingview.com/news/cointelegraph:6a5ec2b0bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:039a32108bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Dev brasileiro quer mudar a constituição para tornar autocustódia de criptoativos um direito fundamental",
       "link": "https://br.tradingview.com/news/cointelegraph:039a32108bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:812a81f33bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin registra seu pior desempenho em outubro desde 2018",
       "link": "https://br.tradingview.com/news/cointelegraph:812a81f33bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:073214398bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Brasileiro tokeniza galinheiro e 'paga' holders com venda de ovos e galinhas",
       "link": "https://br.tradingview.com/news/cointelegraph:073214398bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:667d291b9bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Os ETFs da Solana registram entradas pelo 4º dia consecutivo em meio à \"rotação de capital\" de fundos de Bitcoin e Ether",
       "link": "https://br.tradingview.com/news/cointelegraph:667d291b9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:be94c67afbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "ARK de Cathie Wood arrecada US$ 5 milhões em ações e comemora lançamento nos EUA da Bullish",
       "link": "https://br.tradingview.com/news/cointelegraph:be94c67afbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:07a95988ebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Previsão de preços 31/10: Btc, Eth, Bnb, Xrp, Sol, Doge, Ada, Hype, Link, Bch",
       "link": "https://br.tradingview.com/news/cointelegraph:07a95988ebc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e6f391e1dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "“1% já é o suficiente para explodir tudo”: Ripple prevê boom cripto no Brasil em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:e6f391e1dbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 31 Oct 2025 23:06:16 GMT\" class=\"apply-common-tooltip\" title=\"31 de out. de 2025, 23:06 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"“1% já é o suficiente para explodir tudo”: Ripple prevê boom cripto no Brasil em 2026\" data-qa-id=\"news-headline-title\">“1% já é o suficiente para explodir tudo”: Ripple prevê boom cripto no Brasil em 2026</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2827b5710bc81:0",
-      "index": 13,
-      "title": "Banco Central aprova plano de sistema que pode gerar R$ 10 trilhões em tokens RWA no Brasil",
-      "link": "https://br.tradingview.com/news/cointelegraph:2827b5710bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-10-31T22:46:56.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 31 Oct 2025 22:46:56 GMT\" class=\"apply-common-tooltip\" title=\"31 de out. de 2025, 22:46 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Banco Central aprova plano de sistema que pode gerar R$ 10 trilhões em tokens RWA no Brasil\" data-qa-id=\"news-headline-title\">Banco Central aprova plano de sistema que pode gerar R$ 10 trilhões em tokens RWA no Brasil</div></div></article>"
     }
   ]
 }
