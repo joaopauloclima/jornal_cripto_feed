@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-03T20:55:15.200Z",
+  "updated_at": "2025-11-03T21:18:47.802Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:eb409789bbc81:0",
+      "id": "cointelegraph:05aa9ca54bc81:0",
       "index": 0,
+      "title": "Comentários agressivos do Fed provocam saídas de US$ 360 milhões em cripto, mas ETFs da Solana se destacam",
+      "link": "https://br.tradingview.com/news/cointelegraph:05aa9ca54bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-03T21:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Comentários agressivos do Fed provocam saídas de US$ 360 milhões em cripto, mas ETFs da Solana se destacam\" data-qa-id=\"news-headline-title\">Comentários agressivos do Fed provocam saídas de US$ 360 milhões em cripto, mas ETFs da Solana se destacam</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d8dee3b56bc81:0",
+      "index": 1,
+      "title": "Análise de preços em 03/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e HYPE",
+      "link": "https://br.tradingview.com/news/cointelegraph:d8dee3b56bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-03T20:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 03/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e HYPE\" data-qa-id=\"news-headline-title\">Análise de preços em 03/11: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e HYPE</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:eb409789bbc81:0",
+      "index": 2,
       "title": "Mineradora de BTC IREN fecha acordo de US$ 9,7 bilhões com a Microsoft e acelera a transição do setor para GPUs",
       "link": "https://br.tradingview.com/news/cointelegraph:eb409789bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d30f4c763bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Lobby cripto dispara à medida que o setor ganha força política em Washington",
       "link": "https://br.tradingview.com/news/cointelegraph:d30f4c763bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:9adf276afbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin fecha outubro no vermelho pela 1ª vez em anos",
       "link": "https://br.tradingview.com/news/beincrypto:9adf276afbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:fac1808b2bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Gráfico de preço do Ethereum aponta para abaixo de US$ 3 mil com queda na demanda por ETF spot",
       "link": "https://br.tradingview.com/news/cointelegraph:fac1808b2bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6430a0cbcbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Strategy de Michael Saylor inicia novembro com compra de Bitcoin de US$ 45 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:6430a0cbcbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bfb6c221abc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Até onde o preço do Dash pode subir se repetir o desempenho da Zcash em novembro?",
       "link": "https://br.tradingview.com/news/cointelegraph:bfb6c221abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:b5436b3e3bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Ripple, emissora do XRP, atinge marco importante nos EUA: do que se trata?",
       "link": "https://br.tradingview.com/news/beincrypto:b5436b3e3bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c6dddbab6bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Nasdaq emite alerta à TON Strategy sobre compra de Toncoin de US$ 272 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:c6dddbab6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:81132c5aabc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Potência cripto Animoca Brands mira a Nasdaq por meio de fusão reversa",
       "link": "https://br.tradingview.com/news/cointelegraph:81132c5aabc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:fa13de31bbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Instituições precisam realizar staking de Ether em infraestrutura descentralizada",
       "link": "https://br.tradingview.com/news/cointelegraph:fa13de31bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:fbfcd06cdbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Mercados de carbono precisam de tokenização ao estilo da BlackRock para recuperar a credibilidade",
       "link": "https://br.tradingview.com/news/cointelegraph:fbfcd06cdbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:b9f4d5bfdbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "CEO do Standard Chartered prevê o fim do dinheiro em espécie: 'Todo o dinheiro será digital'",
       "link": "https://br.tradingview.com/news/cointelegraph:b9f4d5bfdbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO do Standard Chartered prevê o fim do dinheiro em espécie: 'Todo o dinheiro será digital'\" data-qa-id=\"news-headline-title\">CEO do Standard Chartered prevê o fim do dinheiro em espécie: 'Todo o dinheiro será digital'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d68bd1f60bc81:0",
-      "index": 12,
-      "title": "Inter e Chainlink conectam Brasil e Hong Kong via blockchain em pagamento de commodities",
-      "link": "https://br.tradingview.com/news/cointelegraph:d68bd1f60bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-03T16:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Inter e Chainlink conectam Brasil e Hong Kong via blockchain em pagamento de commodities\" data-qa-id=\"news-headline-title\">Inter e Chainlink conectam Brasil e Hong Kong via blockchain em pagamento de commodities</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:408275a79bc81:0",
-      "index": 13,
-      "title": "Zerohash obtém licença MiCA em meio a rumores de aquisição de US$ 2 bilhões pela Mastercard",
-      "link": "https://br.tradingview.com/news/cointelegraph:408275a79bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-03T16:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Zerohash obtém licença MiCA em meio a rumores de aquisição de US$ 2 bilhões pela Mastercard\" data-qa-id=\"news-headline-title\">Zerohash obtém licença MiCA em meio a rumores de aquisição de US$ 2 bilhões pela Mastercard</div></div></article>"
     }
   ]
 }
