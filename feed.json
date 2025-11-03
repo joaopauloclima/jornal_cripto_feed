@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-03T18:26:00.860Z",
+  "updated_at": "2025-11-03T18:57:34.564Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:81132c5aabc81:0",
+      "id": "cointelegraph:c6dddbab6bc81:0",
       "index": 0,
+      "title": "Nasdaq emite alerta à TON Strategy sobre compra de Toncoin de US$ 272 milhões",
+      "link": "https://br.tradingview.com/news/cointelegraph:c6dddbab6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-03T18:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCTON.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCTON.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 18:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 18:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nasdaq emite alerta à TON Strategy sobre compra de Toncoin de US$ 272 milhões\" data-qa-id=\"news-headline-title\">Nasdaq emite alerta à TON Strategy sobre compra de Toncoin de US$ 272 milhões</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:81132c5aabc81:0",
+      "index": 1,
       "title": "Potência cripto Animoca Brands mira a Nasdaq por meio de fusão reversa",
       "link": "https://br.tradingview.com/news/cointelegraph:81132c5aabc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fa13de31bbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Instituições precisam realizar staking de Ether em infraestrutura descentralizada",
       "link": "https://br.tradingview.com/news/cointelegraph:fa13de31bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:fbfcd06cdbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Mercados de carbono precisam de tokenização ao estilo da BlackRock para recuperar a credibilidade",
       "link": "https://br.tradingview.com/news/cointelegraph:fbfcd06cdbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b9f4d5bfdbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "CEO do Standard Chartered prevê o fim do dinheiro em espécie: 'Todo o dinheiro será digital'",
       "link": "https://br.tradingview.com/news/cointelegraph:b9f4d5bfdbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d68bd1f60bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Inter e Chainlink conectam Brasil e Hong Kong via blockchain em pagamento de commodities",
       "link": "https://br.tradingview.com/news/cointelegraph:d68bd1f60bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:408275a79bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Zerohash obtém licença MiCA em meio a rumores de aquisição de US$ 2 bilhões pela Mastercard",
       "link": "https://br.tradingview.com/news/cointelegraph:408275a79bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:17f75d690bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "‘Não é bom’ para o preço: demanda por ETFs de Bitcoin começa a ficar atrás do BTC minerado",
       "link": "https://br.tradingview.com/news/cointelegraph:17f75d690bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:b7a474f96bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Investidores de varejo 'recuam' para US$ 98,5 mil: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:b7a474f96bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b35b1e9b9bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "De olho no Fed, Brasil aporta R$ 7 milhões em fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:b35b1e9b9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:e2f1e09fabc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ethereum recua com pressão vendedora de grandes investidores",
       "link": "https://br.tradingview.com/news/beincrypto:e2f1e09fabc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:a56a262acbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Exploração do Balancer chega a US$ 116 milhões em saques enquanto equipe oferece recompensa de 20%",
       "link": "https://br.tradingview.com/news/cointelegraph:a56a262acbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7d56491d8bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Como a família Trump transformou as criptomoedas em uma corrida do ouro de US$ 800 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:7d56491d8bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:b1fa2f475bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Por que especialistas acreditam que a Zcash pode substituir o Bitcoin?",
       "link": "https://br.tradingview.com/news/beincrypto:b1fa2f475bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que especialistas acreditam que a Zcash pode substituir o Bitcoin?\" data-qa-id=\"news-headline-title\">Por que especialistas acreditam que a Zcash pode substituir o Bitcoin?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f3516029cbc81:0",
-      "index": 13,
-      "title": "XRP é o novo Bitcoin? Por que Wall Street não para de falar sobre seu ETF?",
-      "link": "https://br.tradingview.com/news/cointelegraph:f3516029cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-03T14:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCHBAR.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP é o novo Bitcoin? Por que Wall Street não para de falar sobre seu ETF?\" data-qa-id=\"news-headline-title\">XRP é o novo Bitcoin? Por que Wall Street não para de falar sobre seu ETF?</div></div></article>"
     }
   ]
 }
