@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-02T23:53:22.509Z",
+  "updated_at": "2025-11-03T01:17:23.321Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:807970c68bc81:0",
+      "id": "cointelegraph:eb3041e0cbc81:0",
       "index": 0,
+      "title": "União Europeia estuda regulamentação semelhante à da SEC para exchanges de cirptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:eb3041e0cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-03T00:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 00:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 00:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"União Europeia estuda regulamentação semelhante à da SEC para exchanges de cirptomoedas\" data-qa-id=\"news-headline-title\">União Europeia estuda regulamentação semelhante à da SEC para exchanges de cirptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:807970c68bc81:0",
+      "index": 1,
       "title": "Bitcoin acumula US$ 8 bilhões, mas a recuperação carece de aportes dos ETFs",
       "link": "https://br.tradingview.com/news/cointelegraph:807970c68bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:b5e4f5840bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Coinbase mira o mercado de stablecoins e avalia aquisição da startup BVNK por US$ 2 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:b5e4f5840bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e401bc6e6bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "O preço do Bitcoin atinge a máxima de US$ 111 mil em novembro, mas os temores de um mercado em baixa persistem",
       "link": "https://br.tradingview.com/news/cointelegraph:e401bc6e6bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:2835f9ba8bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Credor da FTX afirma investidores vão receber apenas 9% do valor atual das criptomoedas na exchange falida",
       "link": "https://br.tradingview.com/news/cointelegraph:2835f9ba8bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:cac2c71abbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Autoridades afirmam que 95% dos 427 mil dispositivos de mineração de criptomoedas ativos no Irã operam ilegalmente",
       "link": "https://br.tradingview.com/news/cointelegraph:cac2c71abbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:0e4991696bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Romênia inclui Polymarket em lista de bloqueio por apostas ilegais com criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:0e4991696bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:3dcf6c956bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "O sentimento do mercado de criptomoedas permanece em \"Medo\" após o acordo de Trump com a China",
       "link": "https://br.tradingview.com/news/cointelegraph:3dcf6c956bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8afdcdcb7bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin está mostrando sinais de uma oferta inicial de produtos (IPO)",
       "link": "https://br.tradingview.com/news/cointelegraph:8afdcdcb7bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:545dc042cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Por que rompimento do Bitcoin está estagnado, mesmo com gráfico apontando alta?",
       "link": "https://br.tradingview.com/news/beincrypto:545dc042cbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:131091d07bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Professor da Columbia Business School questiona a eficácia dos depósitos bancários tokenizados",
       "link": "https://br.tradingview.com/news/cointelegraph:131091d07bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:eb9443763bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Imposto oculto: MEV afasta instituições do DeFi, custando caro aos usuários",
       "link": "https://br.tradingview.com/news/cointelegraph:eb9443763bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:037d6ad1fbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Uma CBDC do euro é um \"símbolo de confiança em nosso destino comum\", afirma o presidente do BCE",
       "link": "https://br.tradingview.com/news/cointelegraph:037d6ad1fbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:49c06396fbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Banco central da Malásia define roteiro de três anos para implementar projeto-piloto de tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:49c06396fbc81:0/",
       "source": "Cointelegraph",
