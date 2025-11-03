@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-03T16:23:16.236Z",
+  "updated_at": "2025-11-03T16:59:22.565Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:17f75d690bc81:0",
+      "id": "cointelegraph:d68bd1f60bc81:0",
       "index": 0,
+      "title": "Inter e Chainlink conectam Brasil e Hong Kong via blockchain em pagamento de commodities",
+      "link": "https://br.tradingview.com/news/cointelegraph:d68bd1f60bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-03T16:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Inter e Chainlink conectam Brasil e Hong Kong via blockchain em pagamento de commodities\" data-qa-id=\"news-headline-title\">Inter e Chainlink conectam Brasil e Hong Kong via blockchain em pagamento de commodities</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:408275a79bc81:0",
+      "index": 1,
+      "title": "Zerohash obtém licença MiCA em meio a rumores de aquisição de US$ 2 bilhões pela Mastercard",
+      "link": "https://br.tradingview.com/news/cointelegraph:408275a79bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-03T16:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Zerohash obtém licença MiCA em meio a rumores de aquisição de US$ 2 bilhões pela Mastercard\" data-qa-id=\"news-headline-title\">Zerohash obtém licença MiCA em meio a rumores de aquisição de US$ 2 bilhões pela Mastercard</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:17f75d690bc81:0",
+      "index": 2,
       "title": "‘Não é bom’ para o preço: demanda por ETFs de Bitcoin começa a ficar atrás do BTC minerado",
       "link": "https://br.tradingview.com/news/cointelegraph:17f75d690bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b7a474f96bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Investidores de varejo 'recuam' para US$ 98,5 mil: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:b7a474f96bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b35b1e9b9bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "De olho no Fed, Brasil aporta R$ 7 milhões em fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:b35b1e9b9bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:e2f1e09fabc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Ethereum recua com pressão vendedora de grandes investidores",
       "link": "https://br.tradingview.com/news/beincrypto:e2f1e09fabc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:a56a262acbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Exploração do Balancer chega a US$ 116 milhões em saques enquanto equipe oferece recompensa de 20%",
       "link": "https://br.tradingview.com/news/cointelegraph:a56a262acbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7d56491d8bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Como a família Trump transformou as criptomoedas em uma corrida do ouro de US$ 800 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:7d56491d8bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:b1fa2f475bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Por que especialistas acreditam que a Zcash pode substituir o Bitcoin?",
       "link": "https://br.tradingview.com/news/beincrypto:b1fa2f475bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f3516029cbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "XRP é o novo Bitcoin? Por que Wall Street não para de falar sobre seu ETF?",
       "link": "https://br.tradingview.com/news/cointelegraph:f3516029cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:4123a7bb8bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Trump defende perdão a CZ e diz que 'não conhece' o cofundador da Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:4123a7bb8bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:10212767cbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Despejo de baleias pode ser a ‘véspera’ de nova máxima do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:10212767cbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:36966379abc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Tesourarias de Bitcoin no Brasil enfrentam incertezas após restrições asiáticas",
       "link": "https://br.tradingview.com/news/beincrypto:36966379abc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:545ad5d0fbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Tokenização assume papel central na estratégia Fintech 2030 de Hong Kong",
       "link": "https://br.tradingview.com/news/cointelegraph:545ad5d0fbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tokenização assume papel central na estratégia Fintech 2030 de Hong Kong\" data-qa-id=\"news-headline-title\">Tokenização assume papel central na estratégia Fintech 2030 de Hong Kong</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9cc57de91bc81:0",
-      "index": 12,
-      "title": "Deputados franceses avançam com medida para taxar cripto como 'riqueza improdutiva'",
-      "link": "https://br.tradingview.com/news/cointelegraph:9cc57de91bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-03T13:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Deputados franceses avançam com medida para taxar cripto como 'riqueza improdutiva'\" data-qa-id=\"news-headline-title\">Deputados franceses avançam com medida para taxar cripto como 'riqueza improdutiva'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:74994df32bc81:0",
-      "index": 13,
-      "title": "Token Aster dispara após CZ revelar participação pessoal de US$ 2,5 milhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:74994df32bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-03T12:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 03 Nov 2025 12:50:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de nov. de 2025, 12:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Token Aster dispara após CZ revelar participação pessoal de US$ 2,5 milhões\" data-qa-id=\"news-headline-title\">Token Aster dispara após CZ revelar participação pessoal de US$ 2,5 milhões</div></div></article>"
     }
   ]
 }
