@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-04T13:57:57.865Z",
+  "updated_at": "2025-11-04T14:20:14.293Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6452a646dbc81:0",
+      "id": "cointelegraph:cf59e5d80bc81:0",
       "index": 0,
+      "title": "Chefe da Wintermute nega planos de processar a Binance pelo crash de 10 de outubro",
+      "link": "https://br.tradingview.com/news/cointelegraph:cf59e5d80bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-04T14:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 04 Nov 2025 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de nov. de 2025, 14:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Chefe da Wintermute nega planos de processar a Binance pelo crash de 10 de outubro\" data-qa-id=\"news-headline-title\">Chefe da Wintermute nega planos de processar a Binance pelo crash de 10 de outubro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6452a646dbc81:0",
+      "index": 1,
       "title": "Cipher Mining dispara 34% após acordo de US$ 5,5 bilhões com a Amazon para data centers",
       "link": "https://br.tradingview.com/news/cointelegraph:6452a646dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WG0PR:0",
-      "index": 1,
+      "index": 2,
       "title": "Ações de criptomoedas caem com queda do bitcoin para o menor nível desde junho",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WG0PR:0/",
       "source": "Reuters",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:8fff47645bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Czar cripto David Sacks afirma que a ameaça da IA é orwelliana, não do tipo 'Exterminador do Futuro'",
       "link": "https://br.tradingview.com/news/cointelegraph:8fff47645bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5b3934c2ebc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Baleia cripto que previu o crash de outubro abre longs de US$ 55 milhões em BTC e ETH",
       "link": "https://br.tradingview.com/news/cointelegraph:5b3934c2ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:22c1fec5abc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin à beira dos US$ 100 mil? Gráfico aponta possível queda",
       "link": "https://br.tradingview.com/news/beincrypto:22c1fec5abc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:eb617eac3bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "FTSE Russell faz parceria com Chainlink para publicar índices de ações on-chain",
       "link": "https://br.tradingview.com/news/cointelegraph:eb617eac3bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:ee658fb8dbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Auditorias da Balancer sob escrutínio após exploit de mais de US$ 100 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:ee658fb8dbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:40366efaabc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Investidores vendem US$ 43 bilhões em Bitcoin, mas mercado segue otimista",
       "link": "https://br.tradingview.com/news/beincrypto:40366efaabc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:ea07a4d76bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Decred dispara 150%, mas capitulação do Bitcoin ajuda a liquidar US$ 1,3 bi",
       "link": "https://br.tradingview.com/news/cointelegraph:ea07a4d76bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:5acdb795fbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 04/11/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:5acdb795fbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e789aeab2bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Banco Central publica regra e exige capital mínimo de R$ 8 milhões para empresas de cripto no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:e789aeab2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9586652dabc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Preço do Bitcoin hoje, 04/11/2025: Por que o BTC caiu hoje? Criptomoeda despenca para US$ 103 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:9586652dabc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:37669cb01bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Rocelo Lopes critica centralização e aponta 'stablecoins abrem o caminho, mas o destino é o Bitcoin'",
       "link": "https://br.tradingview.com/news/cointelegraph:37669cb01bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 04 Nov 2025 01:33:08 GMT\" class=\"apply-common-tooltip\" title=\"4 de nov. de 2025, 01:33 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rocelo Lopes critica centralização e aponta 'stablecoins abrem o caminho, mas o destino é o Bitcoin'\" data-qa-id=\"news-headline-title\">Rocelo Lopes critica centralização e aponta 'stablecoins abrem o caminho, mas o destino é o Bitcoin'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d782fe5b0bc81:0",
-      "index": 13,
-      "title": "Mastercard anuncia fim do 'numero do cartão e declara \"Tudo será tokenizado\"",
-      "link": "https://br.tradingview.com/news/cointelegraph:d782fe5b0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-04T01:03:21.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 04 Nov 2025 01:03:21 GMT\" class=\"apply-common-tooltip\" title=\"4 de nov. de 2025, 01:03 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mastercard anuncia fim do 'numero do cartão e declara &quot;Tudo será tokenizado&quot;\" data-qa-id=\"news-headline-title\">Mastercard anuncia fim do 'numero do cartão e declara \"Tudo será tokenizado\"</div></div></article>"
     }
   ]
 }
