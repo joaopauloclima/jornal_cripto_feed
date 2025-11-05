@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-05T19:17:01.407Z",
+  "updated_at": "2025-11-05T19:53:38.230Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e82c8746dbc81:0",
+      "id": "cointelegraph:b61348f62bc81:0",
       "index": 0,
+      "title": "Future, startup suíça de tesouraria em Bitcoin cofundada por Adam Back, arrecada US$ 34,5 milhões",
+      "link": "https://br.tradingview.com/news/cointelegraph:b61348f62bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-05T19:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Future, startup suíça de tesouraria em Bitcoin cofundada por Adam Back, arrecada US$ 34,5 milhões\" data-qa-id=\"news-headline-title\">Future, startup suíça de tesouraria em Bitcoin cofundada por Adam Back, arrecada US$ 34,5 milhões</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bd03d5a3cbc81:0",
+      "index": 1,
+      "title": "Metaplanet obtém empréstimo de US$ 100 milhões garantido por Bitcoin para comprar BTC e recomprar ações",
+      "link": "https://br.tradingview.com/news/cointelegraph:bd03d5a3cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-05T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Metaplanet obtém empréstimo de US$ 100 milhões garantido por Bitcoin para comprar BTC e recomprar ações\" data-qa-id=\"news-headline-title\">Metaplanet obtém empréstimo de US$ 100 milhões garantido por Bitcoin para comprar BTC e recomprar ações</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e82c8746dbc81:0",
+      "index": 2,
       "title": "Autocustódia encontra KYC: Tangem lança pagamentos Visa com a Paera",
       "link": "https://br.tradingview.com/news/cointelegraph:e82c8746dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:eb8b56235bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Três coisas que precisam acontecer para o Bitcoin evitar o mercado de baixa",
       "link": "https://br.tradingview.com/news/cointelegraph:eb8b56235bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d3bc18005bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Batalhas de precificação dos ETFs de SOL confirmam aposta total de Wall Street em cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:d3bc18005bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:e2c64eca8bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Queda de 21% no preço do Bitcoin é 'normal' enquanto carteiras acumuladoras compram 50 mil BTC em um dia",
       "link": "https://br.tradingview.com/news/cointelegraph:e2c64eca8bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:856488815bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "NFTs sofrem queda brusca e valor de mercado despenca 46% em apenas 30 dias",
       "link": "https://br.tradingview.com/news/cointelegraph:856488815bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:e4976b9cebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Grok prevê preço do Bitcoin até o fim do ano",
       "link": "https://br.tradingview.com/news/beincrypto:e4976b9cebc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:404c46d84bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ETFs de Bitcoin e Ether sofrem saídas enquanto Solana atrai silenciosamente 'capital curioso'",
       "link": "https://br.tradingview.com/news/cointelegraph:404c46d84bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9b9332c04bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Você é freelancer? Espiões norte-coreanos podem usar você",
       "link": "https://br.tradingview.com/news/cointelegraph:9b9332c04bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ca5b6f6e2bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoin entre o abismo e a consolidação após ‘despencar das nuvens’",
       "link": "https://br.tradingview.com/news/cointelegraph:ca5b6f6e2bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:20da7f074bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Ripple recebe aporte de US$ 500 milhões e agora vale U$ 40 bi",
       "link": "https://br.tradingview.com/news/beincrypto:20da7f074bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:65cc0fb35bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Empresas de tesouraria cripto estão acelerando a queda do mercado, argumenta professor",
       "link": "https://br.tradingview.com/news/cointelegraph:65cc0fb35bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:64329a3eabc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Exchange cripto Gemini mira integrar mercados de previsão, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:64329a3eabc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Exchange cripto Gemini mira integrar mercados de previsão, aponta reportagem\" data-qa-id=\"news-headline-title\">Exchange cripto Gemini mira integrar mercados de previsão, aponta reportagem</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4b2208c4dbc81:0",
-      "index": 12,
-      "title": "Próximos alvos do ETH, XRP, SPX e ADA",
-      "link": "https://br.tradingview.com/news/cointelegraph:4b2208c4dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-05T15:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Próximos alvos do ETH, XRP, SPX e ADA\" data-qa-id=\"news-headline-title\">Próximos alvos do ETH, XRP, SPX e ADA</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:a5e08be70bc81:0",
-      "index": 13,
-      "title": "Strategy não enfrentará liquidação de Bitcoin no próximo mercado de baixa, diz Willy Woo",
-      "link": "https://br.tradingview.com/news/cointelegraph:a5e08be70bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-05T15:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Strategy não enfrentará liquidação de Bitcoin no próximo mercado de baixa, diz Willy Woo\" data-qa-id=\"news-headline-title\">Strategy não enfrentará liquidação de Bitcoin no próximo mercado de baixa, diz Willy Woo</div></div></article>"
     }
   ]
 }
