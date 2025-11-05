@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-05T15:20:36.446Z",
+  "updated_at": "2025-11-05T15:56:05.528Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9406c76a0bc81:0",
+      "id": "cointelegraph:4b2208c4dbc81:0",
       "index": 0,
+      "title": "Próximos alvos do ETH, XRP, SPX e ADA",
+      "link": "https://br.tradingview.com/news/cointelegraph:4b2208c4dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-05T15:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Próximos alvos do ETH, XRP, SPX e ADA\" data-qa-id=\"news-headline-title\">Próximos alvos do ETH, XRP, SPX e ADA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:a5e08be70bc81:0",
+      "index": 1,
+      "title": "Strategy não enfrentará liquidação de Bitcoin no próximo mercado de baixa, diz Willy Woo",
+      "link": "https://br.tradingview.com/news/cointelegraph:a5e08be70bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-05T15:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Strategy não enfrentará liquidação de Bitcoin no próximo mercado de baixa, diz Willy Woo\" data-qa-id=\"news-headline-title\">Strategy não enfrentará liquidação de Bitcoin no próximo mercado de baixa, diz Willy Woo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9406c76a0bc81:0",
+      "index": 2,
       "title": "Perdão de CZ foi considerado com 'máxima seriedade', diz Casa Branca",
       "link": "https://br.tradingview.com/news/cointelegraph:9406c76a0bc81:0/",
       "source": "Cointelegraph",
@@ -14,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Perdão de CZ foi considerado com 'máxima seriedade', diz Casa Branca\" data-qa-id=\"news-headline-title\">Perdão de CZ foi considerado com 'máxima seriedade', diz Casa Branca</div></div></article>"
     },
     {
+      "id": "beincrypto:413c3c52abc81:0",
+      "index": 3,
+      "title": "Solana em risco: analistas alertam para queda de 30% abaixo de US$ 100",
+      "link": "https://br.tradingview.com/news/beincrypto:413c3c52abc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-11-05T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana em risco: analistas alertam para queda de 30% abaixo de US$ 100\" data-qa-id=\"news-headline-title\">Solana em risco: analistas alertam para queda de 30% abaixo de US$ 100</div></div></article>"
+    },
+    {
       "id": "cointelegraph:12368c866bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Arthur Hayes e executivo da Bitwise mantêm otimismo mesmo com Bitcoin abaixo de US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:12368c866bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b3d210b05bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Mercado de baixa do Bitcoin confirmado: veja os próximos níveis de preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:b3d210b05bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1e452456dbc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Criador do ZKsync propõe reformulação do token de governança para adicionar 'utilidade econômica'",
       "link": "https://br.tradingview.com/news/cointelegraph:1e452456dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:935319bd2bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Traders compram a queda do Bitcoin de olho na ‘catapulta do S&P 500’",
       "link": "https://br.tradingview.com/news/cointelegraph:935319bd2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:82c615e89bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Executivo da Coinbase critica resistência de bancos contra pedido de licença fiduciária cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:82c615e89bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "beincrypto:85224367cbc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Ethereum mostra sinais de reversão e analistas veem potencial de alta até US$ 4 mil",
       "link": "https://br.tradingview.com/news/beincrypto:85224367cbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:01413fcffbc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Mercado de alta ou de baixa? Traders entram em pânico à medida que Bitcoin cai abaixo da média de 365 dias",
       "link": "https://br.tradingview.com/news/cointelegraph:01413fcffbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e2af174ddbc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Lucros da MARA e da Hut 8 disparam no 3º trimestre com aumento das reservas de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:e2af174ddbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "beincrypto:6d4aef7c1bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Preço do Bitcoin cai abaixo de US$ 100 mil e registra maior queda em 9 meses",
       "link": "https://br.tradingview.com/news/beincrypto:6d4aef7c1bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2e7b112f1bc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Ações da Sequans caem 16% após venda de 970 Bitcoin para reduzir dívida",
       "link": "https://br.tradingview.com/news/cointelegraph:2e7b112f1bc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 12:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 12:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações da Sequans caem 16% após venda de 970 Bitcoin para reduzir dívida\" data-qa-id=\"news-headline-title\">Ações da Sequans caem 16% após venda de 970 Bitcoin para reduzir dívida</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:743f6b7e0bc81:0",
-      "index": 11,
-      "title": "Bitcoin mostra exaustão enquanto analistas dizem que meta de US$ 125 mil é improvável em 2025",
-      "link": "https://br.tradingview.com/news/cointelegraph:743f6b7e0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-05T12:07:32.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 12:07:32 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 12:07 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin mostra exaustão enquanto analistas dizem que meta de US$ 125 mil é improvável em 2025\" data-qa-id=\"news-headline-title\">Bitcoin mostra exaustão enquanto analistas dizem que meta de US$ 125 mil é improvável em 2025</div></div></article>"
-    },
-    {
-      "id": "beincrypto:135fa9379bc81:0",
-      "index": 12,
-      "title": "XRP se aproxima de “golpe mortal” com disputa intensa em US$ 2,06",
-      "link": "https://br.tradingview.com/news/beincrypto:135fa9379bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-05T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP se aproxima de “golpe mortal” com disputa intensa em US$ 2,06\" data-qa-id=\"news-headline-title\">XRP se aproxima de “golpe mortal” com disputa intensa em US$ 2,06</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4dd852a43bc81:0",
-      "index": 13,
-      "title": "Wall Street amedronta o Bitcoin e liquidações cripto chegam a US$ 1,7 bi",
-      "link": "https://br.tradingview.com/news/cointelegraph:4dd852a43bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-05T11:41:54.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 11:41:54 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 11:41 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Wall Street amedronta o Bitcoin e liquidações cripto chegam a US$ 1,7 bi\" data-qa-id=\"news-headline-title\">Wall Street amedronta o Bitcoin e liquidações cripto chegam a US$ 1,7 bi</div></div></article>"
     }
   ]
 }
