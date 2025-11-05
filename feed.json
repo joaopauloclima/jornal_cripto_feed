@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-05T17:22:25.554Z",
+  "updated_at": "2025-11-05T17:53:52.915Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9b9332c04bc81:0",
+      "id": "cointelegraph:856488815bc81:0",
       "index": 0,
+      "title": "NFTs sofrem queda brusca e valor de mercado despenca 46% em apenas 30 dias",
+      "link": "https://br.tradingview.com/news/cointelegraph:856488815bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-05T17:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"NFTs sofrem queda brusca e valor de mercado despenca 46% em apenas 30 dias\" data-qa-id=\"news-headline-title\">NFTs sofrem queda brusca e valor de mercado despenca 46% em apenas 30 dias</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:404c46d84bc81:0",
+      "index": 1,
+      "title": "ETFs de Bitcoin e Ether sofrem saídas enquanto Solana atrai silenciosamente 'capital curioso'",
+      "link": "https://br.tradingview.com/news/cointelegraph:404c46d84bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-05T17:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin e Ether sofrem saídas enquanto Solana atrai silenciosamente 'capital curioso'\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin e Ether sofrem saídas enquanto Solana atrai silenciosamente 'capital curioso'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9b9332c04bc81:0",
+      "index": 2,
       "title": "Você é freelancer? Espiões norte-coreanos podem usar você",
       "link": "https://br.tradingview.com/news/cointelegraph:9b9332c04bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:ca5b6f6e2bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin entre o abismo e a consolidação após ‘despencar das nuvens’",
       "link": "https://br.tradingview.com/news/cointelegraph:ca5b6f6e2bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:20da7f074bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Ripple recebe aporte de US$ 500 milhões e agora vale U$ 40 bi",
       "link": "https://br.tradingview.com/news/beincrypto:20da7f074bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:65cc0fb35bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Empresas de tesouraria cripto estão acelerando a queda do mercado, argumenta professor",
       "link": "https://br.tradingview.com/news/cointelegraph:65cc0fb35bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:64329a3eabc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Exchange cripto Gemini mira integrar mercados de previsão, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:64329a3eabc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4b2208c4dbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Próximos alvos do ETH, XRP, SPX e ADA",
       "link": "https://br.tradingview.com/news/cointelegraph:4b2208c4dbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a5e08be70bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Strategy não enfrentará liquidação de Bitcoin no próximo mercado de baixa, diz Willy Woo",
       "link": "https://br.tradingview.com/news/cointelegraph:a5e08be70bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9406c76a0bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Perdão de CZ foi considerado com 'máxima seriedade', diz Casa Branca",
       "link": "https://br.tradingview.com/news/cointelegraph:9406c76a0bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:413c3c52abc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Solana em risco: analistas alertam para queda abaixo de US$ 100",
       "link": "https://br.tradingview.com/news/beincrypto:413c3c52abc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:12368c866bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Arthur Hayes e executivo da Bitwise mantêm otimismo mesmo com Bitcoin abaixo de US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:12368c866bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:b3d210b05bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Mercado de baixa do Bitcoin confirmado: veja os próximos níveis de preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:b3d210b05bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:1e452456dbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Criador do ZKsync propõe reformulação do token de governança para adicionar 'utilidade econômica'",
       "link": "https://br.tradingview.com/news/cointelegraph:1e452456dbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criador do ZKsync propõe reformulação do token de governança para adicionar 'utilidade econômica'\" data-qa-id=\"news-headline-title\">Criador do ZKsync propõe reformulação do token de governança para adicionar 'utilidade econômica'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:935319bd2bc81:0",
-      "index": 12,
-      "title": "Traders compram a queda do Bitcoin de olho na ‘catapulta do S&P 500’",
-      "link": "https://br.tradingview.com/news/cointelegraph:935319bd2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-05T13:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders compram a queda do Bitcoin de olho na ‘catapulta do S&amp;P 500’\" data-qa-id=\"news-headline-title\">Traders compram a queda do Bitcoin de olho na ‘catapulta do S&amp;P 500’</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:82c615e89bc81:0",
-      "index": 13,
-      "title": "Executivo da Coinbase critica resistência de bancos contra pedido de licença fiduciária cripto",
-      "link": "https://br.tradingview.com/news/cointelegraph:82c615e89bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-05T13:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 05 Nov 2025 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de nov. de 2025, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Executivo da Coinbase critica resistência de bancos contra pedido de licença fiduciária cripto\" data-qa-id=\"news-headline-title\">Executivo da Coinbase critica resistência de bancos contra pedido de licença fiduciária cripto</div></div></article>"
     }
   ]
 }
