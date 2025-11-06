@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-06T17:54:17.760Z",
+  "updated_at": "2025-11-06T18:26:48.456Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f994d5131bc81:0",
+      "id": "cointelegraph:411e75d68bc81:0",
       "index": 0,
+      "title": "Instituto de pesquisa espanhol venderá reserva de Bitcoin de US$ 10 milhões comprada por US$ 10 mil em 2012",
+      "link": "https://br.tradingview.com/news/cointelegraph:411e75d68bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-06T18:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Instituto de pesquisa espanhol venderá reserva de Bitcoin de US$ 10 milhões comprada por US$ 10 mil em 2012\" data-qa-id=\"news-headline-title\">Instituto de pesquisa espanhol venderá reserva de Bitcoin de US$ 10 milhões comprada por US$ 10 mil em 2012</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c27bb7d13bc81:0",
+      "index": 1,
+      "title": "Agência da ONU lançará programas de educação e consultoria em blockchain para governos",
+      "link": "https://br.tradingview.com/news/cointelegraph:c27bb7d13bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-06T17:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Agência da ONU lançará programas de educação e consultoria em blockchain para governos\" data-qa-id=\"news-headline-title\">Agência da ONU lançará programas de educação e consultoria em blockchain para governos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f994d5131bc81:0",
+      "index": 2,
       "title": "Empresas de DeFi lançam aliança para promover o Ethereum junto a formuladores de políticas",
       "link": "https://br.tradingview.com/news/cointelegraph:f994d5131bc81:0/",
       "source": "Cointelegraph",
@@ -15,18 +37,18 @@
     },
     {
       "id": "cointelegraph:9fb32623abc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Méliuz registra lucro líquido de R$ 14,2 milhões no 3º trimestre, ‘fora o Bitcoin’",
       "link": "https://br.tradingview.com/news/cointelegraph:9fb32623abc81:0/",
       "source": "Cointelegraph",
       "published_at": "2025-11-06T17:14:45.000Z",
       "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 17:14:45 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 17:14 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Méliuz registra lucro líquido de R$ 14,2 milhões no 3º trimestre, ‘fora o Bitcoin’\" data-qa-id=\"news-headline-title\">Méliuz registra lucro líquido de R$ 14,2 milhões no 3º trimestre, ‘fora o Bitcoin’</div></div></article>"
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 17:14:45 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 17:14 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Méliuz registra lucro líquido de R$ 14,2 milhões no 3º trimestre, ‘fora o Bitcoin’\" data-qa-id=\"news-headline-title\">Méliuz registra lucro líquido de R$ 14,2 milhões no 3º trimestre, ‘fora o Bitcoin’</div></div></article>"
     },
     {
       "id": "beincrypto:0a3360503bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Baleias de Ethereum investem pesado e compram US$ 1,37 bilhão em ETH",
       "link": "https://br.tradingview.com/news/beincrypto:0a3360503bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:5984df805bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Moedas de privacidade disparam 80%: por que Zcash e Dash voltaram aos holofotes",
       "link": "https://br.tradingview.com/news/cointelegraph:5984df805bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c136d5f79bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bancos pressionam Tesouro dos EUA por proibição total de rendimento em stablecoins; Coinbase reage",
       "link": "https://br.tradingview.com/news/cointelegraph:c136d5f79bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:35c930035bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "ETFs de Bitcoin à vista nos EUA sofrem saídas de mais de US$ 2 bilhões, segunda pior sequência da história",
       "link": "https://br.tradingview.com/news/cointelegraph:35c930035bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:0326953a9bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Méliuz bate recordes de lucro e amplia aposta em Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:0326953a9bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:77e18108bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Quebra de resistência pode impulsionar o Bitcoin a US$ 112 mil, diz especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:77e18108bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:50dfffa44bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Traders da Kalshi e Polymarket apostam que a Suprema Corte limitará os poderes tarifários de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:50dfffa44bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9f703dacabc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoin enfrenta 'muro insano' de vendas acima de US$ 105 mil enquanto ações aguardam decisão sobre tarifas",
       "link": "https://br.tradingview.com/news/cointelegraph:9f703dacabc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:98043da26bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "FBI não pode ser culpado por apagar HD com US$ 345 milhões em Bitcoin, dizem juízes",
       "link": "https://br.tradingview.com/news/cointelegraph:98043da26bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:be69e870abc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Brasil amarga 60ª colocação em difusão de IA, revela Microsoft",
       "link": "https://br.tradingview.com/news/cointelegraph:be69e870abc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil amarga 60ª colocação em difusão de IA, revela Microsoft\" data-qa-id=\"news-headline-title\">Brasil amarga 60ª colocação em difusão de IA, revela Microsoft</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2c027e410bc81:0",
-      "index": 12,
-      "title": "'Ethereum está escalando' — maximalistas de ETH comemoram recorde de 24 mil TPS com a Lighter",
-      "link": "https://br.tradingview.com/news/cointelegraph:2c027e410bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-06T14:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 14:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Ethereum está escalando' — maximalistas de ETH comemoram recorde de 24 mil TPS com a Lighter\" data-qa-id=\"news-headline-title\">'Ethereum está escalando' — maximalistas de ETH comemoram recorde de 24 mil TPS com a Lighter</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:08a9d3a0ebc81:0",
-      "index": 13,
-      "title": "Prefeito de Miami, Francis Suarez, afirma ter lucro de 300% com salário em Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:08a9d3a0ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-06T13:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 13:50:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 13:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Prefeito de Miami, Francis Suarez, afirma ter lucro de 300% com salário em Bitcoin\" data-qa-id=\"news-headline-title\">Prefeito de Miami, Francis Suarez, afirma ter lucro de 300% com salário em Bitcoin</div></div></article>"
     }
   ]
 }
