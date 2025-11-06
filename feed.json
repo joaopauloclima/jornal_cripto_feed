@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-06T14:56:31.507Z",
+  "updated_at": "2025-11-06T15:21:32.801Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:98043da26bc81:0",
+      "id": "cointelegraph:9f703dacabc81:0",
       "index": 0,
+      "title": "Bitcoin enfrenta 'muro insano' de vendas acima de US$ 105 mil enquanto ações aguardam decisão sobre tarifas",
+      "link": "https://br.tradingview.com/news/cointelegraph:9f703dacabc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-06T15:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin enfrenta 'muro insano' de vendas acima de US$ 105 mil enquanto ações aguardam decisão sobre tarifas\" data-qa-id=\"news-headline-title\">Bitcoin enfrenta 'muro insano' de vendas acima de US$ 105 mil enquanto ações aguardam decisão sobre tarifas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:98043da26bc81:0",
+      "index": 1,
       "title": "FBI não pode ser culpado por apagar HD com US$ 345 milhões em Bitcoin, dizem juízes",
       "link": "https://br.tradingview.com/news/cointelegraph:98043da26bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:be69e870abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Brasil amarga 60ª colocação em difusão de IA, revela Microsoft",
       "link": "https://br.tradingview.com/news/cointelegraph:be69e870abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2c027e410bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "'Ethereum está escalando' — maximalistas de ETH comemoram recorde de 24 mil TPS com a Lighter",
       "link": "https://br.tradingview.com/news/cointelegraph:2c027e410bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:08a9d3a0ebc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Prefeito de Miami, Francis Suarez, afirma ter lucro de 300% com salário em Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:08a9d3a0ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:5cbd58fd9bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Melhores tesourarias cripto estão 'fazendo algo difícil', diz Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:5cbd58fd9bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:2afeaf1d2bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Ripple descarta planos de IPO apesar de avaliação de US$ 40 bilhões",
       "link": "https://br.tradingview.com/news/beincrypto:2afeaf1d2bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:5f1965776bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Banco da Inglaterra promete acompanhar os EUA em regulamentações de stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:5f1965776bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:60fdba79abc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Analista projeta próximas máximas históricas para Bitcoin e Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:60fdba79abc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:4a94e4800bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Balancer publica relatório preliminar pós-mortem após hack de US$ 116 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:4a94e4800bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:0260b570cbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Queda do preço do ETH para US$ 3 mil prepara terreno para short squeeze de US$ 7 bilhões se recuperação do mercado cripto se mantiver",
       "link": "https://br.tradingview.com/news/cointelegraph:0260b570cbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:87824477cbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Previsão Bitcoin: moeda evita nova queda, mas só estará segura se preço subir 12%",
       "link": "https://br.tradingview.com/news/beincrypto:87824477cbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:67d037fbdbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Criptomoedas reagem com o Bitcoin a US$ 103 mil e julgamento do tarifaço de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:67d037fbdbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:eeb97c84cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preço do Bitcoin hoje, 06/11/2025: BTC volta para US$ 103 mil com alta de 1,8%, mas não espanta fantasma da queda",
       "link": "https://br.tradingview.com/news/cointelegraph:eeb97c84cbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 06/11/2025: BTC volta para US$ 103 mil com alta de 1,8%, mas não espanta fantasma da queda\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 06/11/2025: BTC volta para US$ 103 mil com alta de 1,8%, mas não espanta fantasma da queda</div></div></article>"
-    },
-    {
-      "id": "beincrypto:70fdd4773bc81:0",
-      "index": 13,
-      "title": "Por que o mercado de criptomoedas está em alta hoje 06/11/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:70fdd4773bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-06T11:06:48.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 11:06:48 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 11:06 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 06/11/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 06/11/2025?</div></div></article>"
     }
   ]
 }
