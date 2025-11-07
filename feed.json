@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-07T11:17:30.741Z",
+  "updated_at": "2025-11-07T11:53:34.389Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:07a956824bc81:0",
+      "id": "cointelegraph:7a45f2b8fbc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje, 07/11/2025: BTC testa suporte de US$ 100 mil com queda de 2%",
+      "link": "https://br.tradingview.com/news/cointelegraph:7a45f2b8fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-07T11:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 07/11/2025: BTC testa suporte de US$ 100 mil com queda de 2%\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 07/11/2025: BTC testa suporte de US$ 100 mil com queda de 2%</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:07a956824bc81:0",
+      "index": 1,
       "title": "Mercado Bitcoin usa tokens RWA para substituir VCs em financiamento de startup brasileira de IA",
       "link": "https://br.tradingview.com/news/cointelegraph:07a956824bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:b535f1c7bbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Avalanche quer transformar o Brasil no centro da tokenização global",
       "link": "https://br.tradingview.com/news/cointelegraph:b535f1c7bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:26bea2af4bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Stablecoins vão ultrapassar o Bitcoin? Presidente da OKX responde com uma previsão ousada",
       "link": "https://br.tradingview.com/news/cointelegraph:26bea2af4bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:9d13a5ca0bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Imposto de 30% ou 5%? Regularização de criptoativos vira pauta de guerra fiscal no Congresso",
       "link": "https://br.tradingview.com/news/cointelegraph:9d13a5ca0bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:35cfa8465bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Touros do Bitcoin recuam enquanto os fluxos de saída dos ETFs de Bitcoin spot se intensificam e temores macroeconômicos aumentam",
       "link": "https://br.tradingview.com/news/cointelegraph:35cfa8465bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6bad5794ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Preço da memecoin TRUMP pode subir 70% até o fim de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:6bad5794ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bf0b5701cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "OKX escolhe o Brasil para lançar o OKX Pay cartão com 10% de rendimento para o dinheiro dos clientes",
       "link": "https://br.tradingview.com/news/cointelegraph:bf0b5701cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ae8b4f487bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ray Dalio alerta que o Fed estimula a economia a ponto de formar uma bolha",
       "link": "https://br.tradingview.com/news/cointelegraph:ae8b4f487bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1505c2b56bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "JPMorgan afirma que o Bitcoin está 'US$ 68 mil abaixo do valor justo' em relação ao ouro enquanto BTC e ações voltam a cair",
       "link": "https://br.tradingview.com/news/cointelegraph:1505c2b56bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:79b777c04bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Jurados fazem perguntas diretas no julgamento do bot de MEV enquanto as deliberações avançam",
       "link": "https://br.tradingview.com/news/cointelegraph:79b777c04bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5e524a2e0bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Movimentação de US$ 100 bilhões em Bitcoins antigos reacende debate entre 'OGs' e 'traders'",
       "link": "https://br.tradingview.com/news/cointelegraph:5e524a2e0bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f31f04ad5bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Métrica de valorização do Bitcoin indica formação de um 'possível fundo', aponta análise",
       "link": "https://br.tradingview.com/news/cointelegraph:f31f04ad5bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:61347a74cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin conquista bases populares nos Estados Unidos",
       "link": "https://br.tradingview.com/news/cointelegraph:61347a74cbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 19:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin conquista bases populares nos Estados Unidos\" data-qa-id=\"news-headline-title\">Bitcoin conquista bases populares nos Estados Unidos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4fa9a69e3bc81:0",
-      "index": 13,
-      "title": "Verdade por trás do retorno do Zcash em 2025",
-      "link": "https://br.tradingview.com/news/cointelegraph:4fa9a69e3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-06T19:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 06 Nov 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de nov. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Verdade por trás do retorno do Zcash em 2025\" data-qa-id=\"news-headline-title\">Verdade por trás do retorno do Zcash em 2025</div></div></article>"
     }
   ]
 }
