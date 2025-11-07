@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-07T22:53:56.312Z",
+  "updated_at": "2025-11-07T23:18:14.112Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c52a0e5c0bc81:0",
+      "id": "cointelegraph:fd6a6966abc81:0",
       "index": 0,
+      "title": "Guilherme Nazar revela o próximo grande passo da Binance no Brasil",
+      "link": "https://br.tradingview.com/news/cointelegraph:fd6a6966abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-07T23:05:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 23:05:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 23:05 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Guilherme Nazar revela o próximo grande passo da Binance no Brasil\" data-qa-id=\"news-headline-title\">Guilherme Nazar revela o próximo grande passo da Binance no Brasil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b08a3454cbc81:0",
+      "index": 1,
+      "title": "Profissionais de Web3 recebem salários 32% superiores aos do mercado convencional, aponta pesquisa",
+      "link": "https://br.tradingview.com/news/cointelegraph:b08a3454cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-07T22:53:49.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 22:53:49 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 22:53 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Profissionais de Web3 recebem salários 32% superiores aos do mercado convencional, aponta pesquisa\" data-qa-id=\"news-headline-title\">Profissionais de Web3 recebem salários 32% superiores aos do mercado convencional, aponta pesquisa</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c52a0e5c0bc81:0",
+      "index": 2,
       "title": "RERAV: o imposto para Bitcoin e criptomoedas no Brasil volta 'com força' em novo projeto, confira quem será afetado",
       "link": "https://br.tradingview.com/news/cointelegraph:c52a0e5c0bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d8cf8a771bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Oficial: Banco Central do Brasil anuncia que publicar regras para exchanges, stablecoins e criptomoedas na segunda-feira",
       "link": "https://br.tradingview.com/news/cointelegraph:d8cf8a771bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:073b7d1c2bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Análise de preços em 07/11: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK e ZEC",
       "link": "https://br.tradingview.com/news/cointelegraph:073b7d1c2bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:00d051755bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Strategy precifica novas ações preferenciais STRE para financiar acumulação de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:00d051755bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1273340a4bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Commonware capta US$ 25 milhões da Tempo enquanto Stripe e Paradigm ampliam aposta na blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:1273340a4bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8e2451815bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bots de trading com IA ganham popularidade, mas especialistas alertam que eles não são 'máquinas de fazer dinheiro'",
       "link": "https://br.tradingview.com/news/cointelegraph:8e2451815bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f2b81fbdabc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Senado dos EUA votará projeto para reabrir o governo enquanto proposta de lei sobre cripto segue indefinida",
       "link": "https://br.tradingview.com/news/cointelegraph:f2b81fbdabc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:70bf10e4cbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin cruza os US$ 100 mil enquanto 'fase de estabilização' do preço do BTC começa",
       "link": "https://br.tradingview.com/news/cointelegraph:70bf10e4cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:fa48ada3bbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Quatro razões pelas quais o Ether não caiu abaixo de US$ 3 mil e provavelmente não vai cair",
       "link": "https://br.tradingview.com/news/cointelegraph:fa48ada3bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:0cf5f5799bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Ripple evita IPO: o que está por trás da decisão?",
       "link": "https://br.tradingview.com/news/beincrypto:0cf5f5799bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:bea31210fbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Como os bancos TradFi avançam novos modelos de stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:bea31210fbc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCPYUSD.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCPYUSD.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Como os bancos TradFi avançam novos modelos de stablecoins\" data-qa-id=\"news-headline-title\">Como os bancos TradFi avançam novos modelos de stablecoins</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bc5155500bc81:0",
-      "index": 11,
-      "title": "CEO da Thodex é encontrado morto: como esse golpe cripto de US$ 2 bilhões mudou a lei turca",
-      "link": "https://br.tradingview.com/news/cointelegraph:bc5155500bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-07T19:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da Thodex é encontrado morto: como esse golpe cripto de US$ 2 bilhões mudou a lei turca\" data-qa-id=\"news-headline-title\">CEO da Thodex é encontrado morto: como esse golpe cripto de US$ 2 bilhões mudou a lei turca</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4a5118f98bc81:0",
-      "index": 12,
-      "title": "Ripple descarta planos de IPO apesar da vitória contra a SEC: entenda o motivo",
-      "link": "https://br.tradingview.com/news/cointelegraph:4a5118f98bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-07T19:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ripple descarta planos de IPO apesar da vitória contra a SEC: entenda o motivo\" data-qa-id=\"news-headline-title\">Ripple descarta planos de IPO apesar da vitória contra a SEC: entenda o motivo</div></div></article>"
     }
   ]
 }
