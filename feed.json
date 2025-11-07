@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-07T21:53:23.884Z",
+  "updated_at": "2025-11-07T22:18:27.840Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:00d051755bc81:0",
+      "id": "cointelegraph:d8cf8a771bc81:0",
       "index": 0,
+      "title": "Oficial: Banco Central do Brasil anuncia que publicar regras para exchanges, stablecoins e criptomoedas na segunda-feira",
+      "link": "https://br.tradingview.com/news/cointelegraph:d8cf8a771bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-07T22:03:48.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 22:03:48 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 22:03 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Oficial: Banco Central do Brasil anuncia que publicar regras para exchanges, stablecoins e criptomoedas na segunda-feira\" data-qa-id=\"news-headline-title\">Oficial: Banco Central do Brasil anuncia que publicar regras para exchanges, stablecoins e criptomoedas na segunda-feira</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:073b7d1c2bc81:0",
+      "index": 1,
+      "title": "Análise de preços em 07/11: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK e ZEC",
+      "link": "https://br.tradingview.com/news/cointelegraph:073b7d1c2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-07T22:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 07/11: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK e ZEC\" data-qa-id=\"news-headline-title\">Análise de preços em 07/11: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK e ZEC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:00d051755bc81:0",
+      "index": 2,
       "title": "Strategy precifica novas ações preferenciais STRE para financiar acumulação de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:00d051755bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1273340a4bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Commonware capta US$ 25 milhões da Tempo enquanto Stripe e Paradigm ampliam aposta na blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:1273340a4bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8e2451815bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bots de trading com IA ganham popularidade, mas especialistas alertam que eles não são 'máquinas de fazer dinheiro'",
       "link": "https://br.tradingview.com/news/cointelegraph:8e2451815bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f2b81fbdabc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Senado dos EUA votará projeto para reabrir o governo enquanto proposta de lei sobre cripto segue indefinida",
       "link": "https://br.tradingview.com/news/cointelegraph:f2b81fbdabc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:70bf10e4cbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin cruza os US$ 100 mil enquanto 'fase de estabilização' do preço do BTC começa",
       "link": "https://br.tradingview.com/news/cointelegraph:70bf10e4cbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fa48ada3bbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Quatro razões pelas quais o Ether não caiu abaixo de US$ 3 mil e provavelmente não vai cair",
       "link": "https://br.tradingview.com/news/cointelegraph:fa48ada3bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:0cf5f5799bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Ripple evita IPO: o que está por trás da decisão?",
       "link": "https://br.tradingview.com/news/beincrypto:0cf5f5799bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:bea31210fbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Como os bancos TradFi avançam novos modelos de stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:bea31210fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:bc5155500bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "CEO da Thodex é encontrado morto: como esse golpe cripto de US$ 2 bilhões mudou a lei turca",
       "link": "https://br.tradingview.com/news/cointelegraph:bc5155500bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4a5118f98bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Ripple descarta planos de IPO apesar da vitória contra a SEC: entenda o motivo",
       "link": "https://br.tradingview.com/news/cointelegraph:4a5118f98bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:69647533ebc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Maioria dos fundos hedge tradicionais agora possui exposição a criptoativos, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:69647533ebc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Maioria dos fundos hedge tradicionais agora possui exposição a criptoativos, aponta pesquisa\" data-qa-id=\"news-headline-title\">Maioria dos fundos hedge tradicionais agora possui exposição a criptoativos, aponta pesquisa</div></div></article>"
-    },
-    {
-      "id": "beincrypto:d0432ba25bc81:0",
-      "index": 11,
-      "title": "Vitalik Buterin defende privacidade como direito humano em evento no Brasil",
-      "link": "https://br.tradingview.com/news/beincrypto:d0432ba25bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-07T18:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik Buterin defende privacidade como direito humano em evento no Brasil\" data-qa-id=\"news-headline-title\">Vitalik Buterin defende privacidade como direito humano em evento no Brasil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:07dfe4c59bc81:0",
-      "index": 12,
-      "title": "Hack da Bybit: 'Ajuste de contas' que levou a SafeWallet a reestruturar seus sistemas",
-      "link": "https://br.tradingview.com/news/cointelegraph:07dfe4c59bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-07T18:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Hack da Bybit: 'Ajuste de contas' que levou a SafeWallet a reestruturar seus sistemas\" data-qa-id=\"news-headline-title\">Hack da Bybit: 'Ajuste de contas' que levou a SafeWallet a reestruturar seus sistemas</div></div></article>"
     }
   ]
 }
