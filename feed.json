@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-07T14:55:09.951Z",
+  "updated_at": "2025-11-07T15:19:55.537Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ab7b35872bc81:0",
+      "id": "cointelegraph:e7b85b76abc81:0",
       "index": 0,
+      "title": "ETFs cripto estão 'desempenhando acima do peso', segundo relatório",
+      "link": "https://br.tradingview.com/news/cointelegraph:e7b85b76abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-07T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs cripto estão 'desempenhando acima do peso', segundo relatório\" data-qa-id=\"news-headline-title\">ETFs cripto estão 'desempenhando acima do peso', segundo relatório</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ab7b35872bc81:0",
+      "index": 1,
       "title": "Bitcoin a US$ 100 mil é 'lombada' rumo a US$ 56 mil, mas dados não mostram sinais de pânico",
       "link": "https://br.tradingview.com/news/cointelegraph:ab7b35872bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:6654bfa65bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Mineração de Bitcoin em outubro enfrenta custos altos e aposta em IA",
       "link": "https://br.tradingview.com/news/beincrypto:6654bfa65bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b3053eb24bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "J&J oferece 15 vagas; BNP Paribas e BV abrem programas de trainee e de estágio",
       "link": "https://br.tradingview.com/news/cointelegraph:b3053eb24bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:21e697524bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Jogos Web3 e DeFi lideram atividade do setor em outubro apesar da queda do mercado, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:21e697524bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ca155cb7fbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "JPMorgan diz que BTC parece barato em comparação ao ouro e aponta valor justo de US$ 170 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:ca155cb7fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:74ba43cecbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Projetos de lei cripto dos EUA são 'como óleo para a economia on-chain', diz executivo da Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:74ba43cecbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6f4e9ad69bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Google Finance adiciona dados de mercados de previsão em nova atualização com IA",
       "link": "https://br.tradingview.com/news/cointelegraph:6f4e9ad69bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8c4abb262bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Cathie Wood reduz previsão do BTC em US$ 300 mil e diz que stablecoins estão corroendo participação de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:8c4abb262bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:fb7d46cf6bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin pode despencar após saídas de US$ 2 bilhões em ETFs, entenda",
       "link": "https://br.tradingview.com/news/beincrypto:fb7d46cf6bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:21aee1a61bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Baleias de XRP reduzem vendas enquanto criação de carteiras atinge maior nível em 8 meses",
       "link": "https://br.tradingview.com/news/cointelegraph:21aee1a61bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ed9ffbddfbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "AIA, HIPPO e FOLKS sobem até 530% e ignoram queda do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:ed9ffbddfbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:0442a0298bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 07/11/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:0442a0298bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:7a45f2b8fbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preço do Bitcoin hoje, 07/11/2025: BTC testa suporte de US$ 100 mil com queda de 2%",
       "link": "https://br.tradingview.com/news/cointelegraph:7a45f2b8fbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 07/11/2025: BTC testa suporte de US$ 100 mil com queda de 2%\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 07/11/2025: BTC testa suporte de US$ 100 mil com queda de 2%</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:07a956824bc81:0",
-      "index": 13,
-      "title": "Mercado Bitcoin usa tokens RWA para substituir VCs em financiamento de startup brasileira de IA",
-      "link": "https://br.tradingview.com/news/cointelegraph:07a956824bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-07T00:31:25.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 07 Nov 2025 00:31:25 GMT\" class=\"apply-common-tooltip\" title=\"7 de nov. de 2025, 00:31 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado Bitcoin usa tokens RWA para substituir VCs em financiamento de startup brasileira de IA\" data-qa-id=\"news-headline-title\">Mercado Bitcoin usa tokens RWA para substituir VCs em financiamento de startup brasileira de IA</div></div></article>"
     }
   ]
 }
