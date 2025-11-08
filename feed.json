@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-08T18:55:43.227Z",
+  "updated_at": "2025-11-08T19:15:13.688Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ddc656f38bc81:0",
+      "id": "cointelegraph:65463b92fbc81:0",
       "index": 0,
+      "title": "Arthur Hayes diz que Zcash se tornou sua segunda maior posição após o Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:65463b92fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-08T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDASH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 08 Nov 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de nov. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Arthur Hayes diz que Zcash se tornou sua segunda maior posição após o Bitcoin\" data-qa-id=\"news-headline-title\">Arthur Hayes diz que Zcash se tornou sua segunda maior posição após o Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ddc656f38bc81:0",
+      "index": 1,
       "title": "Bitcoin a US$ 250 mil em 3 meses seria 'uma das piores coisas', diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:ddc656f38bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:ceea31b17bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Previsões de queda do preço do Bitcoin vêm de vendedores interessados, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:ceea31b17bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d11d1eb58bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Divergência entre baleias e varejo do Bitcoin é sinal de alerta, diz Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:d11d1eb58bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a2ab17e33bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Perdas não realizadas da Evernorth com XRP expõem pressão crescente sobre empresas de tesouraria cripto, diz CryptoQuant",
       "link": "https://br.tradingview.com/news/cointelegraph:a2ab17e33bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:789f7d2cabc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Hashprice de mineradores de Bitcoin se aproxima de US$ 40, e setor entra em ‘modo de sobrevivência’, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:789f7d2cabc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ba497e7d4bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Júri em julgamento de bot MEV enfrenta dificuldades para chegar a um veredicto às vésperas do fim de semana",
       "link": "https://br.tradingview.com/news/cointelegraph:ba497e7d4bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bbb93162fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Não culpe os ETFs — venda de BTC está ‘vindo de dentro de casa’, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:bbb93162fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:1f038e715bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Balancer faz último apelo ao hacker por trás do exploit de mais de US$ 100 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:1f038e715bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9d02579bdbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Coinbase, Block e Robinhood destacam semana desastrosa para ações de empresas cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:9d02579bdbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:6ef486900bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "My First Bitcoin encerra programa em El Salvador e adota foco na educação global sobre BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:6ef486900bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f8c16acfbbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Prêmio do Bitcoin na Coinbase atinge mínima de 7 meses, mas traders veem um lado positivo",
       "link": "https://br.tradingview.com/news/cointelegraph:f8c16acfbbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:bacacb916bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin sobrevive ao teste de queda de US$ 100 mil: o que vem a seguir?",
       "link": "https://br.tradingview.com/news/beincrypto:bacacb916bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:a4823cebdbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "XRP é superior a Bitcoin, Ethereum, Solana e Stellar: analista justifica escolha",
       "link": "https://br.tradingview.com/news/beincrypto:a4823cebdbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXLM.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 08 Nov 2025 11:42:03 GMT\" class=\"apply-common-tooltip\" title=\"8 de nov. de 2025, 11:42 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP é superior a Bitcoin, Ethereum, Solana e Stellar: analista justifica escolha\" data-qa-id=\"news-headline-title\">XRP é superior a Bitcoin, Ethereum, Solana e Stellar: analista justifica escolha</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:853381ce8bc81:0",
-      "index": 13,
-      "title": "Notícias Cripto: Black November no Bitybank, Op3n Replays da Ledger, RWA na Bitfinex e outras novidades",
-      "link": "https://br.tradingview.com/news/cointelegraph:853381ce8bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-08T10:29:10.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 08 Nov 2025 10:29:10 GMT\" class=\"apply-common-tooltip\" title=\"8 de nov. de 2025, 10:29 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias Cripto: Black November no Bitybank, Op3n Replays da Ledger, RWA na Bitfinex e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: Black November no Bitybank, Op3n Replays da Ledger, RWA na Bitfinex e outras novidades</div></div></article>"
     }
   ]
 }
