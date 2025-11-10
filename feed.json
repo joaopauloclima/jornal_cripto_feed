@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-10T10:57:11.784Z",
+  "updated_at": "2025-11-10T11:17:59.036Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:290236c29bc81:0",
+      "id": "cointelegraph:d7eaccf15bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje, 10/11/2025: por que o preço do Bitcoin subiu hoje? BTC sobe quase 5% e volta para US$ 106 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:d7eaccf15bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-10T11:01:49.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 11:01:49 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 11:01 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 10/11/2025: por que o preço do Bitcoin subiu hoje? BTC sobe quase 5% e volta para US$ 106 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 10/11/2025: por que o preço do Bitcoin subiu hoje? BTC sobe quase 5% e volta para US$ 106 mil</div></div></article>"
+    },
+    {
+      "id": "beincrypto:290236c29bc81:0",
+      "index": 1,
       "title": "Número de investidores de XRP despenca: preço vai cair mais?",
       "link": "https://br.tradingview.com/news/beincrypto:290236c29bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:3e28dd9f8bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ledger mira listagem em Nova York após receita atingir centenas de milhões em meio ao aumento de hacks, diz Financial Times",
       "link": "https://br.tradingview.com/news/cointelegraph:3e28dd9f8bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:03c4d683dbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin pode disparar com fim de “shutdown” dos EUA",
       "link": "https://br.tradingview.com/news/beincrypto:03c4d683dbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:27cd480d3bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Touros do Bitcoin conseguirão evitar a quarta 'cruz da morte' do ciclo em US$ 102 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:27cd480d3bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4a79de0d9bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Robert Kiyosaki anuncia novas compras e projeta Bitcoin a US$ 250 mil e ouro a US$ 27 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:4a79de0d9bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ecf41efa2bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Lei de potência do Bitcoin sugere uma 'mola comprimida' pronta para disparar, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:ecf41efa2bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:64dee27d8bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin perdeu força após ser a 'aposta mais quente' de 2025 e a atenção deve voltar, diz Alex Thorn",
       "link": "https://br.tradingview.com/news/cointelegraph:64dee27d8bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:91c4769abbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "CZ diz ter ficado surpreso com o perdão e nega ligações com a família Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:91c4769abbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:2b945b148bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Sinais da próxima temporada de altcoins surgem 'após semanas' de dominância de baixa do BTC, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:2b945b148bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:0c795bf6dbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Estado-nação entra em declínio e estados em rede surgem como novo paradigma, diz autor",
       "link": "https://br.tradingview.com/news/cointelegraph:0c795bf6dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:03a62019abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Baleias OG de Bitcoin continuam a 'sacar' e ameaçam queda do BTC para US$ 90 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:03a62019abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:5a18261b9bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ethereum enfrenta caminho difícil até US$ 3,9 mil à medida que sentimento e demanda enfraquecem",
       "link": "https://br.tradingview.com/news/cointelegraph:5a18261b9bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 09 Nov 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de nov. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum enfrenta caminho difícil até US$ 3,9 mil à medida que sentimento e demanda enfraquecem\" data-qa-id=\"news-headline-title\">Ethereum enfrenta caminho difícil até US$ 3,9 mil à medida que sentimento e demanda enfraquecem</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:65463b92fbc81:0",
-      "index": 12,
-      "title": "Arthur Hayes diz que Zcash se tornou sua segunda maior posição após o Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:65463b92fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-08T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDASH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 08 Nov 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de nov. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Arthur Hayes diz que Zcash se tornou sua segunda maior posição após o Bitcoin\" data-qa-id=\"news-headline-title\">Arthur Hayes diz que Zcash se tornou sua segunda maior posição após o Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ddc656f38bc81:0",
-      "index": 13,
-      "title": "Bitcoin a US$ 250 mil em 3 meses seria 'uma das piores coisas', diz analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:ddc656f38bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-08T18:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 08 Nov 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de nov. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin a US$ 250 mil em 3 meses seria 'uma das piores coisas', diz analista\" data-qa-id=\"news-headline-title\">Bitcoin a US$ 250 mil em 3 meses seria 'uma das piores coisas', diz analista</div></div></article>"
     }
   ]
 }
