@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-10T21:18:14.351Z",
+  "updated_at": "2025-11-10T21:53:21.946Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9ad476e99bc81:0",
+      "id": "tag:reuters.com,2025:newsml_L1N3WM156:0",
       "index": 0,
+      "title": "A mineradora de Bitcoin CleanSpark cai após planejada oferta de títulos conversíveis de US$ 1 bilhão.",
+      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WM156:0/",
+      "source": "Reuters",
+      "published_at": "2025-11-10T21:39:59.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/cleanspark.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/cleanspark.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 21:39:59 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 21:39 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A mineradora de Bitcoin CleanSpark cai após planejada oferta de títulos conversíveis de US$ 1 bilhão.\" data-qa-id=\"news-headline-title\">A mineradora de Bitcoin CleanSpark cai após planejada oferta de títulos conversíveis de US$ 1 bilhão.</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:60be4e5d2bc81:0",
+      "index": 1,
+      "title": "Por que a Tether atua mais como um banco central do que como uma stablecoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:60be4e5d2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-10T21:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que a Tether atua mais como um banco central do que como uma stablecoin\" data-qa-id=\"news-headline-title\">Por que a Tether atua mais como um banco central do que como uma stablecoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9ad476e99bc81:0",
+      "index": 2,
       "title": "Coinbase lança plataforma de venda de tokens com estreia da Monad",
       "link": "https://br.tradingview.com/news/cointelegraph:9ad476e99bc81:0/",
       "source": "Cointelegraph",
@@ -14,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase lança plataforma de venda de tokens com estreia da Monad\" data-qa-id=\"news-headline-title\">Coinbase lança plataforma de venda de tokens com estreia da Monad</div></div></article>"
     },
     {
+      "id": "beincrypto:1dc521f56bc81:0",
+      "index": 3,
+      "title": "Autor de “Pai Rico, Pai Pobre” prevê Bitcoin a US$ 250 mil e prata a US$ 100 em 2026",
+      "link": "https://br.tradingview.com/news/beincrypto:1dc521f56bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-11-10T21:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Autor de “Pai Rico, Pai Pobre” prevê Bitcoin a US$ 250 mil e prata a US$ 100 em 2026\" data-qa-id=\"news-headline-title\">Autor de “Pai Rico, Pai Pobre” prevê Bitcoin a US$ 250 mil e prata a US$ 100 em 2026</div></div></article>"
+    },
+    {
       "id": "cointelegraph:d29f45f19bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Próximo movimento do Bitcoin pode surpreender traders se o preço do BTC ultrapassar US$ 112 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d29f45f19bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:af07ad6b6bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Strategy adiciona US$ 50 milhões em Bitcoin à sua reserva de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:af07ad6b6bc81:0/",
       "source": "Cointelegraph",
@@ -36,8 +69,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Strategy adiciona US$ 50 milhões em Bitcoin à sua reserva de criptomoedas\" data-qa-id=\"news-headline-title\">Strategy adiciona US$ 50 milhões em Bitcoin à sua reserva de criptomoedas</div></div></article>"
     },
     {
+      "id": "beincrypto:eb39c1e19bc81:0",
+      "index": 6,
+      "title": "Strategy compra US$ 50 milhões em Bitcoin apesar da turbulência no mercado",
+      "link": "https://br.tradingview.com/news/beincrypto:eb39c1e19bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-11-10T20:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Strategy compra US$ 50 milhões em Bitcoin apesar da turbulência no mercado\" data-qa-id=\"news-headline-title\">Strategy compra US$ 50 milhões em Bitcoin apesar da turbulência no mercado</div></div></article>"
+    },
+    {
       "id": "cointelegraph:7c5eb86d6bc81:0",
-      "index": 3,
+      "index": 7,
       "title": "ETFs de Bitcoin e ETH registram saídas de US$ 1,7 bilhão, mas compras de baleias reduzem o impacto no preço",
       "link": "https://br.tradingview.com/news/cointelegraph:7c5eb86d6bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ce285e678bc81:0",
-      "index": 4,
+      "index": 8,
       "title": "Zcash pode ter 'fim violento' após alta de 1.500% no preço do ZEC em apenas dois meses",
       "link": "https://br.tradingview.com/news/cointelegraph:ce285e678bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +103,7 @@
     },
     {
       "id": "beincrypto:20b321b08bc81:0",
-      "index": 5,
+      "index": 9,
       "title": "Essas altcoins podem subir nesta semana, segundo analista",
       "link": "https://br.tradingview.com/news/beincrypto:20b321b08bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +114,7 @@
     },
     {
       "id": "cointelegraph:b0e673cccbc81:0",
-      "index": 6,
+      "index": 10,
       "title": "Fim da paralisação do governo dos EUA impulsiona compras institucionais e renova expectativas de 'enxurrada' de ETFs",
       "link": "https://br.tradingview.com/news/cointelegraph:b0e673cccbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9c6e564c0bc81:0",
-      "index": 7,
+      "index": 11,
       "title": "Realização de lucros do XRP indica 'fraqueza': isso pode atrasar a recuperação para US$ 3?",
       "link": "https://br.tradingview.com/news/cointelegraph:9c6e564c0bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +136,7 @@
     },
     {
       "id": "cointelegraph:15a056b71bc81:0",
-      "index": 8,
+      "index": 12,
       "title": "Transak obtém 5 novas licenças estaduais nos EUA ao expandir atuação em pagamentos com stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:15a056b71bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2470582c5bc81:0",
-      "index": 9,
+      "index": 13,
       "title": "Reino Unido e EUA avaliam sandbox de passaporte cripto após negociações, diz ex-parlamentar britânica Lisa Cameron",
       "link": "https://br.tradingview.com/news/cointelegraph:2470582c5bc81:0/",
       "source": "Cointelegraph",
@@ -111,50 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Reino Unido e EUA avaliam sandbox de passaporte cripto após negociações, diz ex-parlamentar britânica Lisa Cameron\" data-qa-id=\"news-headline-title\">Reino Unido e EUA avaliam sandbox de passaporte cripto após negociações, diz ex-parlamentar britânica Lisa Cameron</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f10011ca3bc81:0",
-      "index": 10,
-      "title": "Fundos de criptomoedas registram segunda semana de saídas, mas altcoins seguem em direção oposta",
-      "link": "https://br.tradingview.com/news/cointelegraph:f10011ca3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-10T18:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundos de criptomoedas registram segunda semana de saídas, mas altcoins seguem em direção oposta\" data-qa-id=\"news-headline-title\">Fundos de criptomoedas registram segunda semana de saídas, mas altcoins seguem em direção oposta</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:18666fbf6bc81:0",
-      "index": 11,
-      "title": "Banco da Inglaterra lança consulta sobre stablecoins e deve divulgar regras finais em 2026",
-      "link": "https://br.tradingview.com/news/cointelegraph:18666fbf6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-10T17:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Banco da Inglaterra lança consulta sobre stablecoins e deve divulgar regras finais em 2026\" data-qa-id=\"news-headline-title\">Banco da Inglaterra lança consulta sobre stablecoins e deve divulgar regras finais em 2026</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f4104c50dbc81:0",
-      "index": 12,
-      "title": "61% das instituições planejam aumentar a exposição a criptomoedas apesar da queda de outubro, diz Sygnum",
-      "link": "https://br.tradingview.com/news/cointelegraph:f4104c50dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-10T17:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"61% das instituições planejam aumentar a exposição a criptomoedas apesar da queda de outubro, diz Sygnum\" data-qa-id=\"news-headline-title\">61% das instituições planejam aumentar a exposição a criptomoedas apesar da queda de outubro, diz Sygnum</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:04f75e9b3bc81:0",
-      "index": 13,
-      "title": "‘Pix fraudado’ na compra de criptomoedas fica mais difícil com nova ferramenta do BC",
-      "link": "https://br.tradingview.com/news/cointelegraph:04f75e9b3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-10T17:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 10 Nov 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de nov. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"‘Pix fraudado’ na compra de criptomoedas fica mais difícil com nova ferramenta do BC\" data-qa-id=\"news-headline-title\">‘Pix fraudado’ na compra de criptomoedas fica mais difícil com nova ferramenta do BC</div></div></article>"
     }
   ]
 }
