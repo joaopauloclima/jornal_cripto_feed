@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-11T17:53:15.344Z",
+  "updated_at": "2025-11-11T18:25:48.794Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2e8c0cee6bc81:0",
+      "id": "cointelegraph:5451f8b50bc81:0",
       "index": 0,
+      "title": "Gráficos de preço do XRP indicam possível 'mega rompimento' com alvo em US$ 5",
+      "link": "https://br.tradingview.com/news/cointelegraph:5451f8b50bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-11T18:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Gráficos de preço do XRP indicam possível 'mega rompimento' com alvo em US$ 5\" data-qa-id=\"news-headline-title\">Gráficos de preço do XRP indicam possível 'mega rompimento' com alvo em US$ 5</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:65e1b4b56bc81:0",
+      "index": 1,
+      "title": "'Devemos migrar agora' para a criptografia pós-quântica, diz pesquisador",
+      "link": "https://br.tradingview.com/news/cointelegraph:65e1b4b56bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-11T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Devemos migrar agora' para a criptografia pós-quântica, diz pesquisador\" data-qa-id=\"news-headline-title\">'Devemos migrar agora' para a criptografia pós-quântica, diz pesquisador</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2e8c0cee6bc81:0",
+      "index": 2,
       "title": "CleanSpark planeja captar US$ 1,15 bilhão para expandir mineração de Bitcoin e infraestrutura de IA",
       "link": "https://br.tradingview.com/news/cointelegraph:2e8c0cee6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:9210dc073bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Mercados de NFTs e memecoins se recuperam após queda no mercado cripto que durou um mês",
       "link": "https://br.tradingview.com/news/cointelegraph:9210dc073bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:0825a5a24bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Do ChatGPT ao WhatsApp: Brasil estipula idades mínimas em ambiente digital",
       "link": "https://br.tradingview.com/news/cointelegraph:0825a5a24bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d9f3a1b89bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Especialista aponta próximos alvos do AERO, PUMP e ZEC",
       "link": "https://br.tradingview.com/news/cointelegraph:d9f3a1b89bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f2fd8d0a2bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Demanda por ETFs de Bitcoin estagna enquanto otimismo com o fim da paralisação nos EUA não eleva o sentimento",
       "link": "https://br.tradingview.com/news/cointelegraph:f2fd8d0a2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:be3348df0bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin enfrenta rejeição em US$ 107 mil: veja os próximos níveis de suporte de preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:be3348df0bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c3a31063abc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin sinaliza reversão altista com 'demanda aparente' no nível mais alto em quatro meses",
       "link": "https://br.tradingview.com/news/cointelegraph:c3a31063abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:838a49d59bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Conversa sobre o Bitcoin dispara enquanto o preço se recupera e o fim do shutdown dos EUA se aproxima",
       "link": "https://br.tradingview.com/news/cointelegraph:838a49d59bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ed355840abc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Gemini aposta em 'super app' enquanto ações caem para mínima histórica após resultados do 3º trimestre",
       "link": "https://br.tradingview.com/news/cointelegraph:ed355840abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ed118eea7bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "BitMine comprou 34% mais ETH na semana passada durante queda de preços",
       "link": "https://br.tradingview.com/news/cointelegraph:ed118eea7bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c799dd895bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin está em zona de inflexão crítica, entre US$ 90 mil e US$ 116 mil, apontam análises",
       "link": "https://br.tradingview.com/news/cointelegraph:c799dd895bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:0697e300ebc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Baleias compram US$ 200 milhões em Cardano (ADA) antes de possível alta",
       "link": "https://br.tradingview.com/news/beincrypto:0697e300ebc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias compram US$ 200 milhões em Cardano (ADA) antes de possível alta\" data-qa-id=\"news-headline-title\">Baleias compram US$ 200 milhões em Cardano (ADA) antes de possível alta</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2672f5920bc81:0",
-      "index": 12,
-      "title": "Square, de Jack Dorsey, libera pagamentos em Bitcoin para 4 milhões de comerciantes",
-      "link": "https://br.tradingview.com/news/cointelegraph:2672f5920bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-11T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Square, de Jack Dorsey, libera pagamentos em Bitcoin para 4 milhões de comerciantes\" data-qa-id=\"news-headline-title\">Square, de Jack Dorsey, libera pagamentos em Bitcoin para 4 milhões de comerciantes</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:a12b06693bc81:0",
-      "index": 13,
-      "title": "Biotech busca US$ 100 milhões para tesouraria cripto que apoiará tratamento contra o câncer",
-      "link": "https://br.tradingview.com/news/cointelegraph:a12b06693bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-11T13:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Biotech busca US$ 100 milhões para tesouraria cripto que apoiará tratamento contra o câncer\" data-qa-id=\"news-headline-title\">Biotech busca US$ 100 milhões para tesouraria cripto que apoiará tratamento contra o câncer</div></div></article>"
     }
   ]
 }
