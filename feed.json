@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-11T14:19:53.240Z",
+  "updated_at": "2025-11-11T14:56:35.702Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2672f5920bc81:0",
+      "id": "cointelegraph:ed118eea7bc81:0",
       "index": 0,
+      "title": "BitMine comprou 34% mais ETH na semana passada durante queda de preços",
+      "link": "https://br.tradingview.com/news/cointelegraph:ed118eea7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-11T14:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BitMine comprou 34% mais ETH na semana passada durante queda de preços\" data-qa-id=\"news-headline-title\">BitMine comprou 34% mais ETH na semana passada durante queda de preços</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c799dd895bc81:0",
+      "index": 1,
+      "title": "Bitcoin está em zona de inflexão crítica, entre US$ 90 mil e US$ 116 mil, apontam análises",
+      "link": "https://br.tradingview.com/news/cointelegraph:c799dd895bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-11T14:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin está em zona de inflexão crítica, entre US$ 90 mil e US$ 116 mil, apontam análises\" data-qa-id=\"news-headline-title\">Bitcoin está em zona de inflexão crítica, entre US$ 90 mil e US$ 116 mil, apontam análises</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2672f5920bc81:0",
+      "index": 2,
       "title": "Square, de Jack Dorsey, libera pagamentos em Bitcoin para 4 milhões de comerciantes",
       "link": "https://br.tradingview.com/news/cointelegraph:2672f5920bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a12b06693bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Biotech busca US$ 100 milhões para tesouraria cripto que apoiará tratamento contra o câncer",
       "link": "https://br.tradingview.com/news/cointelegraph:a12b06693bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:285c4d5dcbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Token da Uniswap salta 38% após proposta de ativação de taxas e queima de tokens",
       "link": "https://br.tradingview.com/news/cointelegraph:285c4d5dcbc81:0/",
       "source": "Cointelegraph",
@@ -37,18 +59,18 @@
     },
     {
       "id": "beincrypto:446bd4678bc81:0",
-      "index": 3,
-      "title": "Computação quântica vai hackear Satoshi Nakamoto em 2026?",
+      "index": 5,
+      "title": "Computação quântica vai hackear carteira de Satoshi Nakamoto em 2026?",
       "link": "https://br.tradingview.com/news/beincrypto:446bd4678bc81:0/",
       "source": "Beincrypto",
       "published_at": "2025-11-11T13:00:00.000Z",
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Computação quântica vai hackear Satoshi Nakamoto em 2026?\" data-qa-id=\"news-headline-title\">Computação quântica vai hackear Satoshi Nakamoto em 2026?</div></div></article>"
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Computação quântica vai hackear carteira de Satoshi Nakamoto em 2026?\" data-qa-id=\"news-headline-title\">Computação quântica vai hackear carteira de Satoshi Nakamoto em 2026?</div></div></article>"
     },
     {
       "id": "cointelegraph:072f3027fbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "EUA abrem caminho para que ETFs e trusts de cripto ganhem recompensas de staking",
       "link": "https://br.tradingview.com/news/cointelegraph:072f3027fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8fbdbe479bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Rumble comprará mineradora de criptomoedas Northern Data após investimento da Tether",
       "link": "https://br.tradingview.com/news/cointelegraph:8fbdbe479bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:9bd50e8aebc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin pode repetir alta de 157% após fim do shutdown nos EUA?",
       "link": "https://br.tradingview.com/news/beincrypto:9bd50e8aebc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:210bd1e16bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Padrão de 'fundo duplo' do Bitcoin mira US$ 110 mil, mas gap da CME pode adiar rali",
       "link": "https://br.tradingview.com/news/cointelegraph:210bd1e16bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c01c18bcbbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Uniswap acumula 65% enquanto o Bitcoin mira o CPI após feriado nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:c01c18bcbbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WN0EP:0",
-      "index": 9,
+      "index": 11,
       "title": "Mineradora de Bitcoin CleanSpark cai após venda ampliada de títulos conversíveis de US$ 1,15 bilhão",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WN0EP:0/",
       "source": "Reuters",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:1c85fd8f8bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Ethereum abaixo de US$ 3.607 pode estar prestes a reverter tendência",
       "link": "https://br.tradingview.com/news/beincrypto:1c85fd8f8bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e3d252eb4bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Preço do Bitcoin hoje, 11/11/2025: BTC luta em US$ 105 mil, mas touros já mostram fraqueza",
       "link": "https://br.tradingview.com/news/cointelegraph:e3d252eb4bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 11/11/2025: BTC luta em US$ 105 mil, mas touros já mostram fraqueza\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 11/11/2025: BTC luta em US$ 105 mil, mas touros já mostram fraqueza</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e02d117eebc81:0",
-      "index": 12,
-      "title": "Brasil está pronto para liderar nova era das finanças digitais com tokenização, IA e open finance, diz Campos Neto",
-      "link": "https://br.tradingview.com/news/cointelegraph:e02d117eebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-11T11:00:09.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 11:00:09 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil está pronto para liderar nova era das finanças digitais com tokenização, IA e open finance, diz Campos Neto\" data-qa-id=\"news-headline-title\">Brasil está pronto para liderar nova era das finanças digitais com tokenização, IA e open finance, diz Campos Neto</div></div></article>"
-    },
-    {
-      "id": "beincrypto:2a9463941bc81:0",
-      "index": 13,
-      "title": "Por que o mercado de criptomoedas está em alta hoje 11/11/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:2a9463941bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-11T11:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 11/11/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 11/11/2025?</div></div></article>"
     }
   ]
 }
