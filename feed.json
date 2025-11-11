@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-11T19:54:25.687Z",
+  "updated_at": "2025-11-11T20:21:12.602Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d06e615e4bc81:0",
+      "id": "cointelegraph:f5a43c8c2bc81:0",
       "index": 0,
+      "title": "Base de US$ 200 bilhões em ativos tokenizados do Ethereum sustenta previsões de analistas para alta do preço do ETH",
+      "link": "https://br.tradingview.com/news/cointelegraph:f5a43c8c2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-11T20:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Base de US$ 200 bilhões em ativos tokenizados do Ethereum sustenta previsões de analistas para alta do preço do ETH\" data-qa-id=\"news-headline-title\">Base de US$ 200 bilhões em ativos tokenizados do Ethereum sustenta previsões de analistas para alta do preço do ETH</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d06e615e4bc81:0",
+      "index": 1,
       "title": "JPMorgan e DBS consideram tokens de depósito como alternativa interbancária às stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:d06e615e4bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:42590834dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "China alerta sobre suposto envolvimento dos EUA em um dos maiores hacks de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:42590834dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:6e18b1a0cbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Argentina intensifica investigação no escândalo da Libra com amplo congelamento de ativos",
       "link": "https://br.tradingview.com/news/cointelegraph:6e18b1a0cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:d7de0b832bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ripple movimenta US$ 511 milhões em XRP e desperta teorias",
       "link": "https://br.tradingview.com/news/beincrypto:d7de0b832bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d24f9060ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Detentores de Ethereum voltam a lucrar e o preço do ETH se prepara para romper os US$ 4.000",
       "link": "https://br.tradingview.com/news/cointelegraph:d24f9060ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5451f8b50bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Gráficos de preço do XRP indicam possível 'mega rompimento' com alvo em US$ 5",
       "link": "https://br.tradingview.com/news/cointelegraph:5451f8b50bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:65e1b4b56bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "'Devemos migrar agora' para a criptografia pós-quântica, diz pesquisador",
       "link": "https://br.tradingview.com/news/cointelegraph:65e1b4b56bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:2e8c0cee6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "CleanSpark planeja captar US$ 1,15 bilhão para expandir mineração de Bitcoin e infraestrutura de IA",
       "link": "https://br.tradingview.com/news/cointelegraph:2e8c0cee6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9210dc073bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Mercados de NFTs e memecoins se recuperam após queda no mercado cripto que durou um mês",
       "link": "https://br.tradingview.com/news/cointelegraph:9210dc073bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:0825a5a24bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Do ChatGPT ao WhatsApp: Brasil estipula idades mínimas em ambiente digital",
       "link": "https://br.tradingview.com/news/cointelegraph:0825a5a24bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d9f3a1b89bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Especialista aponta próximos alvos do AERO, PUMP e ZEC",
       "link": "https://br.tradingview.com/news/cointelegraph:d9f3a1b89bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f2fd8d0a2bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Demanda por ETFs de Bitcoin estagna enquanto otimismo com o fim da paralisação nos EUA não eleva o sentimento",
       "link": "https://br.tradingview.com/news/cointelegraph:f2fd8d0a2bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Demanda por ETFs de Bitcoin estagna enquanto otimismo com o fim da paralisação nos EUA não eleva o sentimento\" data-qa-id=\"news-headline-title\">Demanda por ETFs de Bitcoin estagna enquanto otimismo com o fim da paralisação nos EUA não eleva o sentimento</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:be3348df0bc81:0",
-      "index": 12,
-      "title": "Bitcoin enfrenta rejeição em US$ 107 mil: veja os próximos níveis de suporte de preço do BTC",
-      "link": "https://br.tradingview.com/news/cointelegraph:be3348df0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-11T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin enfrenta rejeição em US$ 107 mil: veja os próximos níveis de suporte de preço do BTC\" data-qa-id=\"news-headline-title\">Bitcoin enfrenta rejeição em US$ 107 mil: veja os próximos níveis de suporte de preço do BTC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c3a31063abc81:0",
-      "index": 13,
-      "title": "Bitcoin sinaliza reversão altista com 'demanda aparente' no nível mais alto em quatro meses",
-      "link": "https://br.tradingview.com/news/cointelegraph:c3a31063abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-11T15:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 11 Nov 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de nov. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin sinaliza reversão altista com 'demanda aparente' no nível mais alto em quatro meses\" data-qa-id=\"news-headline-title\">Bitcoin sinaliza reversão altista com 'demanda aparente' no nível mais alto em quatro meses</div></div></article>"
     }
   ]
 }
