@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-12T22:19:19.393Z",
+  "updated_at": "2025-11-12T22:53:39.182Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d478e9de7bc81:0",
+      "id": "cointelegraph:56bc4a85cbc81:0",
       "index": 0,
+      "title": "Leap Therapeutics salta 170% após compra de US$ 50 milhões em Zcash com apoio dos irmãos Winklevoss",
+      "link": "https://br.tradingview.com/news/cointelegraph:56bc4a85cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-12T22:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 22:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 22:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Leap Therapeutics salta 170% após compra de US$ 50 milhões em Zcash com apoio dos irmãos Winklevoss\" data-qa-id=\"news-headline-title\">Leap Therapeutics salta 170% após compra de US$ 50 milhões em Zcash com apoio dos irmãos Winklevoss</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f871d022ebc81:0",
+      "index": 1,
+      "title": "Presidente da SEC promete que não haverá 'fiscalização branda' sobre cripto na estrutura de mercado",
+      "link": "https://br.tradingview.com/news/cointelegraph:f871d022ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-12T22:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 22:20:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 22:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Presidente da SEC promete que não haverá 'fiscalização branda' sobre cripto na estrutura de mercado\" data-qa-id=\"news-headline-title\">Presidente da SEC promete que não haverá 'fiscalização branda' sobre cripto na estrutura de mercado</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d478e9de7bc81:0",
+      "index": 2,
       "title": "Drex: tecnologia inviabilizou o projeto e não há previsão de lançamento, diz presidente do Banco Central",
       "link": "https://br.tradingview.com/news/cointelegraph:d478e9de7bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3c9666942bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin cai para US$ 101 mil apesar da alta das ações e do ouro antes da votação que pode encerrar a paralisação do governo dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:3c9666942bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5e318ce57bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Circle planeja token nativo para a blockchain Arc após lucro do terceiro trimestre disparar",
       "link": "https://br.tradingview.com/news/cointelegraph:5e318ce57bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:7d96f017bbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Franklin Templeton expande a plataforma de tokenização Benji para a Canton Network",
       "link": "https://br.tradingview.com/news/cointelegraph:7d96f017bbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:281758e35bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Coinbase anuncia incorporação no Texas e cita o ‘clima jurídico’",
       "link": "https://br.tradingview.com/news/cointelegraph:281758e35bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8b7ff8c4cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Domínio em Bitcoin da Strategy diminui em outubro à medida que tesourarias corporativas se expandem",
       "link": "https://br.tradingview.com/news/cointelegraph:8b7ff8c4cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a05bab132bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Fase de 'distribuição' do XRP não altera a meta de preço de US$ 30, dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:a05bab132bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:6f10e07e1bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Por que veteranos do Bitcoin estão vendendo e o que isso revela sobre o mercado?",
       "link": "https://br.tradingview.com/news/beincrypto:6f10e07e1bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:dd32c7c07bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Alta do Bitcoin não está garantida após a paralisação do governo dos EUA: entenda o motivo",
       "link": "https://br.tradingview.com/news/cointelegraph:dd32c7c07bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6e77d38eabc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Análise de preço do Ethereum: ETH a 'segundos' de um rompimento em direção a US$ 4,4 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:6e77d38eabc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c2d317e17bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Diferença de rendimento entre cripto e TradFi diminui com o avanço do staking e dos RWAs",
       "link": "https://br.tradingview.com/news/cointelegraph:c2d317e17bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:731eec3f7bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Halving do Bitcoin e liquidez: o ciclo mágico da cripto foi finalmente quebrado?",
       "link": "https://br.tradingview.com/news/beincrypto:731eec3f7bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Halving do Bitcoin e liquidez: o ciclo mágico da cripto foi finalmente quebrado?\" data-qa-id=\"news-headline-title\">Halving do Bitcoin e liquidez: o ciclo mágico da cripto foi finalmente quebrado?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:32c2f0215bc81:0",
-      "index": 12,
-      "title": "Preço do Bitcoin atinge US$ 105 mil enquanto análise aponta 'retiradas massivas' de BTC na Binance",
-      "link": "https://br.tradingview.com/news/cointelegraph:32c2f0215bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-12T18:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin atinge US$ 105 mil enquanto análise aponta 'retiradas massivas' de BTC na Binance\" data-qa-id=\"news-headline-title\">Preço do Bitcoin atinge US$ 105 mil enquanto análise aponta 'retiradas massivas' de BTC na Binance</div></div></article>"
     }
   ]
 }
