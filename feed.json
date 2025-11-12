@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-12T15:22:16.870Z",
+  "updated_at": "2025-11-12T15:57:41.596Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c73125fd3bc81:0",
+      "id": "cointelegraph:8a50ceb54bc81:0",
       "index": 0,
+      "title": "Coinbase Business é lançado em Singapura para transformar pagamentos com USDC",
+      "link": "https://br.tradingview.com/news/cointelegraph:8a50ceb54bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-12T15:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase Business é lançado em Singapura para transformar pagamentos com USDC\" data-qa-id=\"news-headline-title\">Coinbase Business é lançado em Singapura para transformar pagamentos com USDC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6a1f4c0f5bc81:0",
+      "index": 1,
+      "title": "Visa lança sistema de repasse focado em stablecoins",
+      "link": "https://br.tradingview.com/news/cointelegraph:6a1f4c0f5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-12T15:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Visa lança sistema de repasse focado em stablecoins\" data-qa-id=\"news-headline-title\">Visa lança sistema de repasse focado em stablecoins</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c73125fd3bc81:0",
+      "index": 2,
       "title": "JPMorgan lança token de depósito JPM Coin para pagamentos instantâneos na Base",
       "link": "https://br.tradingview.com/news/cointelegraph:c73125fd3bc81:0/",
       "source": "Cointelegraph",
@@ -14,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"JPMorgan lança token de depósito JPM Coin para pagamentos instantâneos na Base\" data-qa-id=\"news-headline-title\">JPMorgan lança token de depósito JPM Coin para pagamentos instantâneos na Base</div></div></article>"
     },
     {
+      "id": "beincrypto:23fe2ad0abc81:0",
+      "index": 3,
+      "title": "Smart money mantém posição em Solana mesmo após queda de 20% no preço da SOL?",
+      "link": "https://br.tradingview.com/news/beincrypto:23fe2ad0abc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-11-12T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Smart money mantém posição em Solana mesmo após queda de 20% no preço da SOL?\" data-qa-id=\"news-headline-title\">Smart money mantém posição em Solana mesmo após queda de 20% no preço da SOL?</div></div></article>"
+    },
+    {
       "id": "cointelegraph:14cc8020ebc81:0",
-      "index": 1,
+      "index": 4,
       "title": "World revela o futuro das carteiras digitais: trocando senhas por hash e prova de humanidade",
       "link": "https://br.tradingview.com/news/cointelegraph:14cc8020ebc81:0/",
       "source": "Cointelegraph",
@@ -25,8 +58,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"World revela o futuro das carteiras digitais: trocando senhas por hash e prova de humanidade\" data-qa-id=\"news-headline-title\">World revela o futuro das carteiras digitais: trocando senhas por hash e prova de humanidade</div></div></article>"
     },
     {
+      "id": "beincrypto:0ff6870e4bc81:0",
+      "index": 5,
+      "title": "XRP ganha tração entre novos investidores, mas US$ 2,50 ainda é um desafio",
+      "link": "https://br.tradingview.com/news/beincrypto:0ff6870e4bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-11-12T14:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP ganha tração entre novos investidores, mas US$ 2,50 ainda é um desafio\" data-qa-id=\"news-headline-title\">XRP ganha tração entre novos investidores, mas US$ 2,50 ainda é um desafio</div></div></article>"
+    },
+    {
       "id": "cointelegraph:df3cc1c18bc81:0",
-      "index": 2,
+      "index": 6,
       "title": "Arthur Hayes pede que holders de Zcash retirem fundos das CEXs e 'protejam' seus ativos",
       "link": "https://br.tradingview.com/news/cointelegraph:df3cc1c18bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +81,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WO0JO:0",
-      "index": 3,
+      "index": 7,
       "title": "A corretora de criptomoedas Coinbase vai se reincorporar no Texas e sair de Delaware.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WO0JO:0/",
       "source": "Reuters",
@@ -48,7 +92,7 @@
     },
     {
       "id": "beincrypto:900074dbfbc81:0",
-      "index": 4,
+      "index": 8,
       "title": "Dogecoin desaba em 2025: há tempo para uma virada antes do fim do ano?",
       "link": "https://br.tradingview.com/news/beincrypto:900074dbfbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +103,7 @@
     },
     {
       "id": "cointelegraph:53d7d45a0bc81:0",
-      "index": 5,
+      "index": 9,
       "title": "OKX prioriza o Brasil em produtos de pagamento e stablecoins, diz CEO da exchange",
       "link": "https://br.tradingview.com/news/cointelegraph:53d7d45a0bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +114,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WO0IR:0",
-      "index": 6,
+      "index": 10,
       "title": "Coinbase planeja se reincorporar no Texas",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WO0IR:0/",
       "source": "Reuters",
@@ -81,7 +125,7 @@
     },
     {
       "id": "cointelegraph:066230d34bc81:0",
-      "index": 7,
+      "index": 11,
       "title": "Morgan Stanley diz que é hora da colheita enquanto Bitcoin entra na 'estação do outono'",
       "link": "https://br.tradingview.com/news/cointelegraph:066230d34bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +136,7 @@
     },
     {
       "id": "cointelegraph:04c891cc3bc81:0",
-      "index": 8,
+      "index": 12,
       "title": "Piloto do CBDC 'dirham digital' dos Emirados Árabes Unidos realiza primeira transação",
       "link": "https://br.tradingview.com/news/cointelegraph:04c891cc3bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +147,7 @@
     },
     {
       "id": "cointelegraph:6e9d50a89bc81:0",
-      "index": 9,
+      "index": 13,
       "title": "Desculpem, otimistas do 'Moonvember': incerteza macro sinaliza mês lateralizado",
       "link": "https://br.tradingview.com/news/cointelegraph:6e9d50a89bc81:0/",
       "source": "Cointelegraph",
@@ -111,50 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Desculpem, otimistas do 'Moonvember': incerteza macro sinaliza mês lateralizado\" data-qa-id=\"news-headline-title\">Desculpem, otimistas do 'Moonvember': incerteza macro sinaliza mês lateralizado</div></div></article>"
-    },
-    {
-      "id": "beincrypto:7683ee1c5bc81:0",
-      "index": 10,
-      "title": "XRP pode chegar a US$ 5 ainda em 2025? Analistas explicam",
-      "link": "https://br.tradingview.com/news/beincrypto:7683ee1c5bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-12T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP pode chegar a US$ 5 ainda em 2025? Analistas explicam\" data-qa-id=\"news-headline-title\">XRP pode chegar a US$ 5 ainda em 2025? Analistas explicam</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2507908b6bc81:0",
-      "index": 11,
-      "title": "Presidente indicado à CFTC enfrentará sabatina após Trump fazer primeira escolha",
-      "link": "https://br.tradingview.com/news/cointelegraph:2507908b6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-12T12:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 12:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Presidente indicado à CFTC enfrentará sabatina após Trump fazer primeira escolha\" data-qa-id=\"news-headline-title\">Presidente indicado à CFTC enfrentará sabatina após Trump fazer primeira escolha</div></div></article>"
-    },
-    {
-      "id": "beincrypto:e67800941bc81:0",
-      "index": 12,
-      "title": "Bitcoin encosta em barreira histórica e pode surpreender o mercado nos próximos dias",
-      "link": "https://br.tradingview.com/news/beincrypto:e67800941bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-12T12:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin encosta em barreira histórica e pode surpreender o mercado nos próximos dias\" data-qa-id=\"news-headline-title\">Bitcoin encosta em barreira histórica e pode surpreender o mercado nos próximos dias</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:7e2f820cfbc81:0",
-      "index": 13,
-      "title": "Expansão da 'Onda 3' do Bitcoin mira US$ 200 mil enquanto pressão de venda diminui, diz analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:7e2f820cfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-12T12:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 12:20:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 12:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Expansão da 'Onda 3' do Bitcoin mira US$ 200 mil enquanto pressão de venda diminui, diz analista\" data-qa-id=\"news-headline-title\">Expansão da 'Onda 3' do Bitcoin mira US$ 200 mil enquanto pressão de venda diminui, diz analista</div></div></article>"
     }
   ]
 }
