@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-12T21:19:08.642Z",
+  "updated_at": "2025-11-12T21:53:42.505Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7d96f017bbc81:0",
+      "id": "cointelegraph:3c9666942bc81:0",
       "index": 0,
+      "title": "Bitcoin cai para US$ 101 mil apesar da alta das ações e do ouro antes da votação que pode encerrar a paralisação do governo dos EUA",
+      "link": "https://br.tradingview.com/news/cointelegraph:3c9666942bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-12T21:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin cai para US$ 101 mil apesar da alta das ações e do ouro antes da votação que pode encerrar a paralisação do governo dos EUA\" data-qa-id=\"news-headline-title\">Bitcoin cai para US$ 101 mil apesar da alta das ações e do ouro antes da votação que pode encerrar a paralisação do governo dos EUA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5e318ce57bc81:0",
+      "index": 1,
+      "title": "Circle planeja token nativo para a blockchain Arc após lucro do terceiro trimestre disparar",
+      "link": "https://br.tradingview.com/news/cointelegraph:5e318ce57bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-12T21:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Circle planeja token nativo para a blockchain Arc após lucro do terceiro trimestre disparar\" data-qa-id=\"news-headline-title\">Circle planeja token nativo para a blockchain Arc após lucro do terceiro trimestre disparar</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7d96f017bbc81:0",
+      "index": 2,
       "title": "Franklin Templeton expande a plataforma de tokenização Benji para a Canton Network",
       "link": "https://br.tradingview.com/news/cointelegraph:7d96f017bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:281758e35bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Coinbase anuncia incorporação no Texas e cita o ‘clima jurídico’",
       "link": "https://br.tradingview.com/news/cointelegraph:281758e35bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8b7ff8c4cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Domínio em Bitcoin da Strategy diminui em outubro à medida que tesourarias corporativas se expandem",
       "link": "https://br.tradingview.com/news/cointelegraph:8b7ff8c4cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a05bab132bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Fase de 'distribuição' do XRP não altera a meta de preço de US$ 30, dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:a05bab132bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:6f10e07e1bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Por que veteranos do Bitcoin estão vendendo e o que isso revela sobre o mercado?",
       "link": "https://br.tradingview.com/news/beincrypto:6f10e07e1bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:dd32c7c07bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Alta do Bitcoin não está garantida após a paralisação do governo dos EUA: entenda o motivo",
       "link": "https://br.tradingview.com/news/cointelegraph:dd32c7c07bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6e77d38eabc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Análise de preço do Ethereum: ETH a 'segundos' de um rompimento em direção a US$ 4,4 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:6e77d38eabc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c2d317e17bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Diferença de rendimento entre cripto e TradFi diminui com o avanço do staking e dos RWAs",
       "link": "https://br.tradingview.com/news/cointelegraph:c2d317e17bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:731eec3f7bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Halving do Bitcoin e liquidez: o ciclo mágico da cripto foi finalmente quebrado?",
       "link": "https://br.tradingview.com/news/beincrypto:731eec3f7bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:32c2f0215bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do Bitcoin atinge US$ 105 mil enquanto análise aponta 'retiradas massivas' de BTC na Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:32c2f0215bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:b182380f3bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bybit identifica 16 blockchains com poder para congelar fundos de usuários",
       "link": "https://br.tradingview.com/news/cointelegraph:b182380f3bc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bybit identifica 16 blockchains com poder para congelar fundos de usuários\" data-qa-id=\"news-headline-title\">Bybit identifica 16 blockchains com poder para congelar fundos de usuários</div></div></article>"
-    },
-    {
-      "id": "beincrypto:31e1f9c47bc81:0",
-      "index": 11,
-      "title": "Baleias de Ethereum injetam US$ 900 milhões apesar de alerta de cruzamento de baixa",
-      "link": "https://br.tradingview.com/news/beincrypto:31e1f9c47bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-12T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias de Ethereum injetam US$ 900 milhões apesar de alerta de cruzamento de baixa\" data-qa-id=\"news-headline-title\">Baleias de Ethereum injetam US$ 900 milhões apesar de alerta de cruzamento de baixa</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e932f9dccbc81:0",
-      "index": 12,
-      "title": "Co-CEO da Kraken alerta que regras do Reino Unido criadas para proteger usuários acabam punindo-os, diz Financial Times",
-      "link": "https://br.tradingview.com/news/cointelegraph:e932f9dccbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-12T18:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Co-CEO da Kraken alerta que regras do Reino Unido criadas para proteger usuários acabam punindo-os, diz Financial Times\" data-qa-id=\"news-headline-title\">Co-CEO da Kraken alerta que regras do Reino Unido criadas para proteger usuários acabam punindo-os, diz Financial Times</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:974bde4c3bc81:0",
-      "index": 13,
-      "title": "Pagamentos cripto, tokens ZK e negociação com IA mantêm tendência em novembro, diz Binance",
-      "link": "https://br.tradingview.com/news/cointelegraph:974bde4c3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-12T17:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXMR.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pagamentos cripto, tokens ZK e negociação com IA mantêm tendência em novembro, diz Binance\" data-qa-id=\"news-headline-title\">Pagamentos cripto, tokens ZK e negociação com IA mantêm tendência em novembro, diz Binance</div></div></article>"
     }
   ]
 }
