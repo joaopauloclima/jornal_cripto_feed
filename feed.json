@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-12T14:20:44.111Z",
+  "updated_at": "2025-11-12T14:58:11.395Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2025:newsml_L1N3WO0JO:0",
+      "id": "cointelegraph:14cc8020ebc81:0",
       "index": 0,
+      "title": "World revela o futuro das carteiras digitais: trocando senhas por hash e prova de humanidade",
+      "link": "https://br.tradingview.com/news/cointelegraph:14cc8020ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-12T14:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"World revela o futuro das carteiras digitais: trocando senhas por hash e prova de humanidade\" data-qa-id=\"news-headline-title\">World revela o futuro das carteiras digitais: trocando senhas por hash e prova de humanidade</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:df3cc1c18bc81:0",
+      "index": 1,
+      "title": "Arthur Hayes pede que holders de Zcash retirem fundos das CEXs e 'protejam' seus ativos",
+      "link": "https://br.tradingview.com/news/cointelegraph:df3cc1c18bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-12T14:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Arthur Hayes pede que holders de Zcash retirem fundos das CEXs e 'protejam' seus ativos\" data-qa-id=\"news-headline-title\">Arthur Hayes pede que holders de Zcash retirem fundos das CEXs e 'protejam' seus ativos</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L1N3WO0JO:0",
+      "index": 2,
       "title": "A corretora de criptomoedas Coinbase planeja se reincorporar no Texas.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WO0JO:0/",
       "source": "Reuters",
@@ -14,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 14:06:13 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 14:06 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A corretora de criptomoedas Coinbase planeja se reincorporar no Texas.\" data-qa-id=\"news-headline-title\">A corretora de criptomoedas Coinbase planeja se reincorporar no Texas.</div></div></article>"
     },
     {
+      "id": "beincrypto:900074dbfbc81:0",
+      "index": 3,
+      "title": "Dogecoin desaba em 2025: há tempo para uma virada antes do fim do ano?",
+      "link": "https://br.tradingview.com/news/beincrypto:900074dbfbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-11-12T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Dogecoin desaba em 2025: há tempo para uma virada antes do fim do ano?\" data-qa-id=\"news-headline-title\">Dogecoin desaba em 2025: há tempo para uma virada antes do fim do ano?</div></div></article>"
+    },
+    {
       "id": "cointelegraph:53d7d45a0bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "OKX prioriza o Brasil em produtos de pagamento e stablecoins, diz CEO da exchange",
       "link": "https://br.tradingview.com/news/cointelegraph:53d7d45a0bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WO0IR:0",
-      "index": 2,
+      "index": 5,
       "title": "Coinbase planeja se reincorporar no Texas",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WO0IR:0/",
       "source": "Reuters",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:066230d34bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Morgan Stanley diz que é hora da colheita enquanto Bitcoin entra na 'estação do outono'",
       "link": "https://br.tradingview.com/news/cointelegraph:066230d34bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:04c891cc3bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Piloto do CBDC 'dirham digital' dos Emirados Árabes Unidos realiza primeira transação",
       "link": "https://br.tradingview.com/news/cointelegraph:04c891cc3bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6e9d50a89bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Desculpem, otimistas do 'Moonvember': incerteza macro sinaliza mês lateralizado",
       "link": "https://br.tradingview.com/news/cointelegraph:6e9d50a89bc81:0/",
       "source": "Cointelegraph",
@@ -70,18 +103,18 @@
     },
     {
       "id": "beincrypto:7683ee1c5bc81:0",
-      "index": 6,
-      "title": "XRP pode chegar a US$ 5 ainda em 2025? analistas explicam",
+      "index": 9,
+      "title": "XRP pode chegar a US$ 5 ainda em 2025? Analistas explicam",
       "link": "https://br.tradingview.com/news/beincrypto:7683ee1c5bc81:0/",
       "source": "Beincrypto",
       "published_at": "2025-11-12T13:00:00.000Z",
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP pode chegar a US$ 5 ainda em 2025? analistas explicam\" data-qa-id=\"news-headline-title\">XRP pode chegar a US$ 5 ainda em 2025? analistas explicam</div></div></article>"
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP pode chegar a US$ 5 ainda em 2025? Analistas explicam\" data-qa-id=\"news-headline-title\">XRP pode chegar a US$ 5 ainda em 2025? Analistas explicam</div></div></article>"
     },
     {
       "id": "cointelegraph:2507908b6bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Presidente indicado à CFTC enfrentará sabatina após Trump fazer primeira escolha",
       "link": "https://br.tradingview.com/news/cointelegraph:2507908b6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "beincrypto:e67800941bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Bitcoin encosta em barreira histórica e pode surpreender o mercado nos próximos dias",
       "link": "https://br.tradingview.com/news/beincrypto:e67800941bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7e2f820cfbc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Expansão da 'Onda 3' do Bitcoin mira US$ 200 mil enquanto pressão de venda diminui, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:7e2f820cfbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:7287e23debc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Bitcoin luta por US$ 105 mil em meio ao aumento da pressão de compra de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:7287e23debc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin luta por US$ 105 mil em meio ao aumento da pressão de compra de criptomoedas\" data-qa-id=\"news-headline-title\">Bitcoin luta por US$ 105 mil em meio ao aumento da pressão de compra de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:056114be7bc81:0",
-      "index": 11,
-      "title": "Por que o mercado de criptomoedas está em baixa hoje 12/11/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:056114be7bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-12T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em baixa hoje 12/11/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em baixa hoje 12/11/2025?</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L1N3WO0BV:0",
-      "index": 12,
-      "title": "O lucro trimestral da Circle supera as estimativas com o crescimento da stablecoin.",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WO0BV:0/",
-      "source": "Reuters",
-      "published_at": "2025-11-12T11:34:35.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/circle-internet-group-inc.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/circle-internet-group-inc.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 11:34:35 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 11:34 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O lucro trimestral da Circle supera as estimativas com o crescimento da stablecoin.\" data-qa-id=\"news-headline-title\">O lucro trimestral da Circle supera as estimativas com o crescimento da stablecoin.</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L1N3WO0BE:0",
-      "index": 13,
-      "title": "A receita trimestral da Circle aumenta com o crescimento da stablecoin",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WO0BE:0/",
-      "source": "Reuters",
-      "published_at": "2025-11-12T11:26:59.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/circle-internet-group-inc.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/circle-internet-group-inc.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 11:26:59 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 11:26 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A receita trimestral da Circle aumenta com o crescimento da stablecoin\" data-qa-id=\"news-headline-title\">A receita trimestral da Circle aumenta com o crescimento da stablecoin</div></div></article>"
     }
   ]
 }
