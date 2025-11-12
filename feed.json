@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-12T17:02:22.450Z",
+  "updated_at": "2025-11-12T17:22:57.315Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2025:newsml_L1N3WO0S4:0",
+      "id": "cointelegraph:bc1cb48ebbc81:0",
       "index": 0,
+      "title": "Bitcoin tem chance de rali após capotar frente ao ouro, sugerem análises",
+      "link": "https://br.tradingview.com/news/cointelegraph:bc1cb48ebbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-12T17:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin tem chance de rali após capotar frente ao ouro, sugerem análises\" data-qa-id=\"news-headline-title\">Bitcoin tem chance de rali após capotar frente ao ouro, sugerem análises</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L1N3WO0S4:0",
+      "index": 1,
       "title": "Lucro trimestral da Circle supera estimativas com crescimento de stablecoin",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WO0S4:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:1b9ed396dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Emissora de stablecoin do Japão pode preencher lacuna de compra de títulos pelo banco central, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:1b9ed396dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3c4bdd51abc81:0",
-      "index": 2,
+      "index": 3,
       "title": "IOF em criptomoedas? 80% das exchanges brasileiras vão falir? O que o Banco Central não contou com a nova lei",
       "link": "https://br.tradingview.com/news/cointelegraph:3c4bdd51abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:21de6ead0bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "ETFs de Bitcoin voltam com força e registram entradas de US$ 524 milhões no melhor dia desde o crash do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:21de6ead0bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WO0QS:0",
-      "index": 4,
+      "index": 5,
       "title": "Stablecoins a US$ 4 trilhões? Bernstein diz: Segurem minha carteira.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WO0QS:0/",
       "source": "Reuters",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8a50ceb54bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Coinbase Business é lançado em Singapura para transformar pagamentos com USDC",
       "link": "https://br.tradingview.com/news/cointelegraph:8a50ceb54bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6a1f4c0f5bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Visa lança sistema de repasse focado em stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:6a1f4c0f5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c73125fd3bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "JPMorgan lança token de depósito JPM Coin para pagamentos instantâneos na Base",
       "link": "https://br.tradingview.com/news/cointelegraph:c73125fd3bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:23fe2ad0abc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Smart money mantém posição em Solana mesmo após queda de 20% no preço da SOL?",
       "link": "https://br.tradingview.com/news/beincrypto:23fe2ad0abc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:14cc8020ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "World revela o futuro das carteiras digitais: trocando senhas por hash e prova de humanidade",
       "link": "https://br.tradingview.com/news/cointelegraph:14cc8020ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:0ff6870e4bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "XRP ganha tração entre novos investidores, mas US$ 2,50 ainda é um desafio",
       "link": "https://br.tradingview.com/news/beincrypto:0ff6870e4bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:df3cc1c18bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Arthur Hayes pede que holders de Zcash retirem fundos das CEXs e 'protejam' seus ativos",
       "link": "https://br.tradingview.com/news/cointelegraph:df3cc1c18bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WO0JO:0",
-      "index": 12,
+      "index": 13,
       "title": "A corretora de criptomoedas Coinbase vai se reincorporar no Texas e sair de Delaware.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WO0JO:0/",
       "source": "Reuters",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/coinbase.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/tesla.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/digital-world-acquisition-corp.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 14:06:13 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 14:06 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A corretora de criptomoedas Coinbase vai se reincorporar no Texas e sair de Delaware.\" data-qa-id=\"news-headline-title\">A corretora de criptomoedas Coinbase vai se reincorporar no Texas e sair de Delaware.</div></div></article>"
-    },
-    {
-      "id": "beincrypto:900074dbfbc81:0",
-      "index": 13,
-      "title": "Dogecoin desaba em 2025: há tempo para uma virada antes do fim do ano?",
-      "link": "https://br.tradingview.com/news/beincrypto:900074dbfbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-12T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Dogecoin desaba em 2025: há tempo para uma virada antes do fim do ano?\" data-qa-id=\"news-headline-title\">Dogecoin desaba em 2025: há tempo para uma virada antes do fim do ano?</div></div></article>"
     }
   ]
 }
