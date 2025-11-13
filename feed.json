@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-13T18:59:07.695Z",
+  "updated_at": "2025-11-13T19:16:59.232Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c96e6b66dbc81:0",
+      "id": "cointelegraph:26382d65cbc81:0",
       "index": 0,
+      "title": "Volume transacionado em stablecoins de dólar triplica em 2025, aponta Mercado Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:26382d65cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-13T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 13 Nov 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de nov. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Volume transacionado em stablecoins de dólar triplica em 2025, aponta Mercado Bitcoin\" data-qa-id=\"news-headline-title\">Volume transacionado em stablecoins de dólar triplica em 2025, aponta Mercado Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c96e6b66dbc81:0",
+      "index": 1,
       "title": "Circle entra no maior mercado financeiro do mundo com mecanismo on-chain de câmbio",
       "link": "https://br.tradingview.com/news/cointelegraph:c96e6b66dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:d46800137bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Segunda maior acumulação de baleias de Bitcoin não consegue levar o BTC acima de US$ 106 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d46800137bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a6ef000b8bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Ganhos em Bitcoin da Metaplanet caem 39% enquanto crash de outubro pressiona tesourarias corporativas",
       "link": "https://br.tradingview.com/news/cointelegraph:a6ef000b8bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d6c88b117bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Emory University eleva participação no ETF de Bitcoin da Grayscale para US$ 52 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:d6c88b117bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:544998fbabc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Comunidade espera que o primeiro ETF de XRP spot dos EUA seja lançado na quinta-feira",
       "link": "https://br.tradingview.com/news/cointelegraph:544998fbabc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:e025c455bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Entusiasta revela como “ganhar” 1 Bitcoin grátis devido a uma falha",
       "link": "https://br.tradingview.com/news/beincrypto:e025c455bbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a95dd3e82bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Trader torra US$ 3 milhões para abrir um buraco de US$ 5 milhões no cofre da Hyperliquid",
       "link": "https://br.tradingview.com/news/cointelegraph:a95dd3e82bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f2e41f56bbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Stop order: CVM determina suspensão de 24 exchanges de criptomoedas no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:f2e41f56bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e48c9ed48bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Shutdown dos EUA termina e o progresso cripto é retomado enquanto Trump assina o projeto",
       "link": "https://br.tradingview.com/news/cointelegraph:e48c9ed48bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:471bdeefdbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Baleias de Ethereum acumulam US$ 1,6 bilhão em ETH com vendas em queda",
       "link": "https://br.tradingview.com/news/beincrypto:471bdeefdbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:859dc1ae9bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Especialistas apontam derretimento da Solana e revelam alvo do ‘pôr do SOL’",
       "link": "https://br.tradingview.com/news/cointelegraph:859dc1ae9bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c0206063cbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Vitalik Buterin defende descentralização no ‘Manifesto Trustless’",
       "link": "https://br.tradingview.com/news/cointelegraph:c0206063cbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5c1dc7809bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Projeto de lei de financiamento para reabrir o governo dos EUA segue para a mesa de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:5c1dc7809bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 13 Nov 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de nov. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Projeto de lei de financiamento para reabrir o governo dos EUA segue para a mesa de Trump\" data-qa-id=\"news-headline-title\">Projeto de lei de financiamento para reabrir o governo dos EUA segue para a mesa de Trump</div></div></article>"
-    },
-    {
-      "id": "beincrypto:21321a631bc81:0",
-      "index": 13,
-      "title": "Análise XRP: quando os ganhos podem virar um rali e qual nível decide tudo?",
-      "link": "https://br.tradingview.com/news/beincrypto:21321a631bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-13T15:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 13 Nov 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de nov. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise XRP: quando os ganhos podem virar um rali e qual nível decide tudo?\" data-qa-id=\"news-headline-title\">Análise XRP: quando os ganhos podem virar um rali e qual nível decide tudo?</div></div></article>"
     }
   ]
 }
