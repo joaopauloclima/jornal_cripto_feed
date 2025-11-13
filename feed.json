@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-13T09:23:36.294Z",
+  "updated_at": "2025-11-13T09:55:31.365Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -14,8 +14,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 13 Nov 2025 09:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de nov. de 2025, 09:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O boom dos ETFs é só o começo: Murilo Cortina revela o que vai dominar o mercado em 2026\" data-qa-id=\"news-headline-title\">O boom dos ETFs é só o começo: Murilo Cortina revela o que vai dominar o mercado em 2026</div></div></article>"
     },
     {
-      "id": "beincrypto:e20ca9895bc81:0",
+      "id": "invezz:0daaa8464bc81:0",
       "index": 1,
+      "title": "Bolsa de valores do Japão mira repressão a empresas de cripto-tesouraria",
+      "link": "https://br.tradingview.com/news/invezz:0daaa8464bc81:0/",
+      "source": "Invezz",
+      "published_at": "2025-11-13T07:06:13.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 13 Nov 2025 07:06:13 GMT\" class=\"apply-common-tooltip\" title=\"13 de nov. de 2025, 07:06 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Invezz</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bolsa de valores do Japão mira repressão a empresas de cripto-tesouraria\" data-qa-id=\"news-headline-title\">Bolsa de valores do Japão mira repressão a empresas de cripto-tesouraria</div></div></article>"
+    },
+    {
+      "id": "beincrypto:e20ca9895bc81:0",
+      "index": 2,
       "title": "XRP ganha destaque: primeiro ETF de XRP à vista dos EUA é aprovado e começa a ser negociado amanhã",
       "link": "https://br.tradingview.com/news/beincrypto:e20ca9895bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:48263e0cfbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Brasil na contramão da regulação de criptoativos: EUA estudam medidas para reforçar privacidade de usuários",
       "link": "https://br.tradingview.com/news/cointelegraph:48263e0cfbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:56bc4a85cbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Leap Therapeutics salta 170% após compra de US$ 50 milhões em Zcash com apoio dos irmãos Winklevoss",
       "link": "https://br.tradingview.com/news/cointelegraph:56bc4a85cbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f871d022ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Presidente da SEC promete que não haverá 'fiscalização branda' sobre cripto na estrutura de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:f871d022ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d478e9de7bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Drex: tecnologia inviabilizou o projeto e não há previsão de lançamento, diz presidente do Banco Central",
       "link": "https://br.tradingview.com/news/cointelegraph:d478e9de7bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:3c9666942bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin cai para US$ 101 mil apesar da alta das ações e do ouro antes da votação que pode encerrar a paralisação do governo dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:3c9666942bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5e318ce57bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Circle planeja token nativo para a blockchain Arc após lucro do terceiro trimestre disparar",
       "link": "https://br.tradingview.com/news/cointelegraph:5e318ce57bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:7d96f017bbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Franklin Templeton expande a plataforma de tokenização Benji para a Canton Network",
       "link": "https://br.tradingview.com/news/cointelegraph:7d96f017bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:281758e35bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Coinbase anuncia incorporação no Texas e cita o ‘clima jurídico’",
       "link": "https://br.tradingview.com/news/cointelegraph:281758e35bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8b7ff8c4cbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Domínio em Bitcoin da Strategy diminui em outubro à medida que tesourarias corporativas se expandem",
       "link": "https://br.tradingview.com/news/cointelegraph:8b7ff8c4cbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a05bab132bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Fase de 'distribuição' do XRP não altera a meta de preço de US$ 30, dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:a05bab132bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:6f10e07e1bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Por que veteranos do Bitcoin estão vendendo e o que isso revela sobre o mercado?",
       "link": "https://br.tradingview.com/news/beincrypto:6f10e07e1bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que veteranos do Bitcoin estão vendendo e o que isso revela sobre o mercado?\" data-qa-id=\"news-headline-title\">Por que veteranos do Bitcoin estão vendendo e o que isso revela sobre o mercado?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:dd32c7c07bc81:0",
-      "index": 13,
-      "title": "Alta do Bitcoin não está garantida após a paralisação do governo dos EUA: entenda o motivo",
-      "link": "https://br.tradingview.com/news/cointelegraph:dd32c7c07bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-12T19:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 12 Nov 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de nov. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Alta do Bitcoin não está garantida após a paralisação do governo dos EUA: entenda o motivo\" data-qa-id=\"news-headline-title\">Alta do Bitcoin não está garantida após a paralisação do governo dos EUA: entenda o motivo</div></div></article>"
     }
   ]
 }
