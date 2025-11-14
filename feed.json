@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-14T21:53:35.666Z",
+  "updated_at": "2025-11-14T22:18:45.463Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:baef8005fbc81:0",
+      "id": "cointelegraph:af2ab980cbc81:0",
       "index": 0,
+      "title": "Análise de preços em 14/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e BCH",
+      "link": "https://br.tradingview.com/news/cointelegraph:af2ab980cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-14T21:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 21:50:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 21:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 14/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e BCH\" data-qa-id=\"news-headline-title\">Análise de preços em 14/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e BCH</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:baef8005fbc81:0",
+      "index": 1,
       "title": "Tether vai acelerar a expansão no crédito de commodities com empréstimos em dinheiro e USDt",
       "link": "https://br.tradingview.com/news/cointelegraph:baef8005fbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:46524e8b3bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Queda do Bitcoin aponta para quebra do padrão histórico, o que vem a seguir?",
       "link": "https://br.tradingview.com/news/cointelegraph:46524e8b3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:41bec6661bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Detentores de longo prazo do ETH vendem 45.000 Ether por dia: queda para US$ 2,5 mil é o próximo passo?",
       "link": "https://br.tradingview.com/news/cointelegraph:41bec6661bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:6a2b2f0febc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Strategy deve mais do que o valor dos seus Bitcoins, entenda",
       "link": "https://br.tradingview.com/news/beincrypto:6a2b2f0febc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:23906a2ddbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Como os novos pagamentos em Bitcoin da Square podem mudar a forma como comerciantes aceitam dinheiro online",
       "link": "https://br.tradingview.com/news/cointelegraph:23906a2ddbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:268bccadebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Preocupado com a queda do Bitcoin? Hashdex revela o futuro da maior criptomoedas do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:268bccadebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:97b110fcbbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ascensão do Zcash pode reacender a discussão sobre o OP_CAT no Bitcoin?",
       "link": "https://br.tradingview.com/news/cointelegraph:97b110fcbbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:fb1e66316bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Uniswap revive lançamentos de tokens estilo ICO com novo sistema de leilões on-chain",
       "link": "https://br.tradingview.com/news/cointelegraph:fb1e66316bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c00859720bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Estreia do ETF de XRP supera todos os lançamentos de 2025 com fluxos de US$ 250 milhões e volume recorde",
       "link": "https://br.tradingview.com/news/cointelegraph:c00859720bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:dca045b37bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Alibaba avalia token de depósito enquanto China aperta o cerco às stablecoins, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:dca045b37bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:617c80aa8bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Chainalysis diz que 'pig butchering' se torna uma ameaça à segurança nacional",
       "link": "https://br.tradingview.com/news/cointelegraph:617c80aa8bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:4b21dc260bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Aave oferecerá rampas de stablecoins sem taxas na Europa após aprovação do MiCA",
       "link": "https://br.tradingview.com/news/cointelegraph:4b21dc260bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:b951b118fbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Strategy movimenta seus Bitcoins e fala de Michael Saylor derruba o mercado",
       "link": "https://br.tradingview.com/news/beincrypto:b951b118fbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Strategy movimenta seus Bitcoins e fala de Michael Saylor derruba o mercado\" data-qa-id=\"news-headline-title\">Strategy movimenta seus Bitcoins e fala de Michael Saylor derruba o mercado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:74079c2bfbc81:0",
-      "index": 13,
-      "title": "Executivo da Kraken afirma que a empresa não tem pressa para abrir capital nos EUA",
-      "link": "https://br.tradingview.com/news/cointelegraph:74079c2bfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-14T17:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Executivo da Kraken afirma que a empresa não tem pressa para abrir capital nos EUA\" data-qa-id=\"news-headline-title\">Executivo da Kraken afirma que a empresa não tem pressa para abrir capital nos EUA</div></div></article>"
     }
   ]
 }
