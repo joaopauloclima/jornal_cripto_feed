@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-14T16:24:11.472Z",
+  "updated_at": "2025-11-14T16:59:38.151Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8e27ceb9cbc81:0",
+      "id": "cointelegraph:138941220bc81:0",
       "index": 0,
+      "title": "ETFs de Bitcoin registram saída de US$ 866 milhões no 2º pior dia da história, mas a tese de alta se recusa a morrer",
+      "link": "https://br.tradingview.com/news/cointelegraph:138941220bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-14T16:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin registram saída de US$ 866 milhões no 2º pior dia da história, mas a tese de alta se recusa a morrer\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin registram saída de US$ 866 milhões no 2º pior dia da história, mas a tese de alta se recusa a morrer</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:20d6d3ac4bc81:0",
+      "index": 1,
+      "title": "‘Situação está ruim para o Bitcoin’, mas isso pode ser bom, sugerem análises",
+      "link": "https://br.tradingview.com/news/cointelegraph:20d6d3ac4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-14T16:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"‘Situação está ruim para o Bitcoin’, mas isso pode ser bom, sugerem análises\" data-qa-id=\"news-headline-title\">‘Situação está ruim para o Bitcoin’, mas isso pode ser bom, sugerem análises</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8e27ceb9cbc81:0",
+      "index": 2,
       "title": "ARK de Cathie Wood compra US$ 46 milhões em ações da Circle conforme preço cai abaixo de US$ 90",
       "link": "https://br.tradingview.com/news/cointelegraph:8e27ceb9cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:94c3549d1bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin pode conquistar eleitores dos EUA independentemente da inclinação política, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:94c3549d1bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WQ0PQ:0",
-      "index": 2,
+      "index": 4,
       "title": "American Bitcoin, apoiada pelos irmãos Trump, registra lucro com a expansão de margem",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WQ0PQ:0/",
       "source": "Reuters",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:37e9dabdfbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Mantenha a calma: baleias de Bitcoin estão vendendo, mas não é um 'êxodo repentino'",
       "link": "https://br.tradingview.com/news/cointelegraph:37e9dabdfbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ea2ecd655bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitfarms despenca 18% após plano de encerrar operações de mineração de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:ea2ecd655bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:2537cd867bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "3 razões pelas quais o Bitcoin e os mercados de risco caíram: haverá recuperação?",
       "link": "https://br.tradingview.com/news/cointelegraph:2537cd867bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:370ca9be6bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Lançamento do ETF de XRP registra forte volume, mas preços ficam estagnados",
       "link": "https://br.tradingview.com/news/cointelegraph:370ca9be6bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:8bd9d29adbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "WBTC se expande para a Hedera enquanto liquidez de Bitcoin flui para novos trilhos de DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:8bd9d29adbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:a816f170bbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "XRP vai fazer o Bitcoin desaparecer? Debate cresce no X",
       "link": "https://br.tradingview.com/news/beincrypto:a816f170bbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f0700eebcbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "B3 e Nubank oferecem novas vagas; MIGNOW abre programa de trainee",
       "link": "https://br.tradingview.com/news/cointelegraph:f0700eebcbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:5ecf46617bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Chance do Ether virar bullish antes do fim de 2025 depende de 4 fatores críticos",
       "link": "https://br.tradingview.com/news/cointelegraph:5ecf46617bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c520ebeebbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Cash App planeja liberar transações com stablecoins 'em breve'",
       "link": "https://br.tradingview.com/news/cointelegraph:c520ebeebbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Cash App planeja liberar transações com stablecoins 'em breve'\" data-qa-id=\"news-headline-title\">Cash App planeja liberar transações com stablecoins 'em breve'</div></div></article>"
-    },
-    {
-      "id": "beincrypto:83a6369acbc81:0",
-      "index": 12,
-      "title": "Previsão Bitcoin (BTC): será que o sinal clássico de queda ainda pode derrubar o preço?",
-      "link": "https://br.tradingview.com/news/beincrypto:83a6369acbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-14T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Previsão Bitcoin (BTC): será que o sinal clássico de queda ainda pode derrubar o preço?\" data-qa-id=\"news-headline-title\">Previsão Bitcoin (BTC): será que o sinal clássico de queda ainda pode derrubar o preço?</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L1N3WQ0IK:0",
-      "index": 13,
-      "title": "Mizuho reduz meta de preço para a emissora de stablecoin Circle; mantém recomendação de \"desempenho abaixo da média\".",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WQ0IK:0/",
-      "source": "Reuters",
-      "published_at": "2025-11-14T12:57:27.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/circle-internet-group-inc.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/circle-internet-group-inc.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 12:57:27 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 12:57 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mizuho reduz meta de preço para a emissora de stablecoin Circle; mantém recomendação de &quot;desempenho abaixo da média&quot;.\" data-qa-id=\"news-headline-title\">Mizuho reduz meta de preço para a emissora de stablecoin Circle; mantém recomendação de \"desempenho abaixo da média\".</div></div></article>"
     }
   ]
 }
