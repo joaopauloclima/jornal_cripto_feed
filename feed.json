@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-14T17:53:56.855Z",
+  "updated_at": "2025-11-14T18:25:49.005Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:bc588ca91bc81:0",
+      "id": "cointelegraph:4b21dc260bc81:0",
       "index": 0,
+      "title": "Aave oferecerá rampas de stablecoins sem taxas na Europa após aprovação do MiCA",
+      "link": "https://br.tradingview.com/news/cointelegraph:4b21dc260bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-14T18:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Aave oferecerá rampas de stablecoins sem taxas na Europa após aprovação do MiCA\" data-qa-id=\"news-headline-title\">Aave oferecerá rampas de stablecoins sem taxas na Europa após aprovação do MiCA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:74079c2bfbc81:0",
+      "index": 1,
+      "title": "Executivo da Kraken afirma que a empresa não tem pressa para abrir capital nos EUA",
+      "link": "https://br.tradingview.com/news/cointelegraph:74079c2bfbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-14T17:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Executivo da Kraken afirma que a empresa não tem pressa para abrir capital nos EUA\" data-qa-id=\"news-headline-title\">Executivo da Kraken afirma que a empresa não tem pressa para abrir capital nos EUA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bc588ca91bc81:0",
+      "index": 2,
       "title": "Banir recompensas vinculadas a pagamentos com stablecoins é antiamericano, diz Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:bc588ca91bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:03278f36fbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "MB defende regulamentação cripto do BC: ‘melhor que a gente poderia ter’",
       "link": "https://br.tradingview.com/news/cointelegraph:03278f36fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:3f95e3440bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Previsão de preço do XRP para 2025: onde a moeda pode chegar antes do fim do ano?",
       "link": "https://br.tradingview.com/news/beincrypto:3f95e3440bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:138941220bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "ETFs de Bitcoin registram saída de US$ 866 milhões no 2º pior dia da história, mas a tese de alta se recusa a morrer",
       "link": "https://br.tradingview.com/news/cointelegraph:138941220bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:20d6d3ac4bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "‘Situação está ruim para o Bitcoin’, mas isso pode ser bom, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:20d6d3ac4bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8e27ceb9cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "ARK de Cathie Wood compra US$ 46 milhões em ações da Circle conforme preço cai abaixo de US$ 90",
       "link": "https://br.tradingview.com/news/cointelegraph:8e27ceb9cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:94c3549d1bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin pode conquistar eleitores dos EUA independentemente da inclinação política, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:94c3549d1bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WQ0PQ:0",
-      "index": 7,
+      "index": 9,
       "title": "American Bitcoin, apoiada pelos irmãos Trump, registra lucro com a expansão de margem",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WQ0PQ:0/",
       "source": "Reuters",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:37e9dabdfbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Mantenha a calma: baleias de Bitcoin estão vendendo, mas não é um 'êxodo repentino'",
       "link": "https://br.tradingview.com/news/cointelegraph:37e9dabdfbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ea2ecd655bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitfarms despenca 18% após plano de encerrar operações de mineração de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:ea2ecd655bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:2537cd867bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "3 razões pelas quais o Bitcoin e os mercados de risco caíram: haverá recuperação?",
       "link": "https://br.tradingview.com/news/cointelegraph:2537cd867bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:370ca9be6bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Lançamento do ETF de XRP registra forte volume, mas preços ficam estagnados",
       "link": "https://br.tradingview.com/news/cointelegraph:370ca9be6bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Lançamento do ETF de XRP registra forte volume, mas preços ficam estagnados\" data-qa-id=\"news-headline-title\">Lançamento do ETF de XRP registra forte volume, mas preços ficam estagnados</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8bd9d29adbc81:0",
-      "index": 12,
-      "title": "WBTC se expande para a Hedera enquanto liquidez de Bitcoin flui para novos trilhos de DeFi",
-      "link": "https://br.tradingview.com/news/cointelegraph:8bd9d29adbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-14T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"WBTC se expande para a Hedera enquanto liquidez de Bitcoin flui para novos trilhos de DeFi\" data-qa-id=\"news-headline-title\">WBTC se expande para a Hedera enquanto liquidez de Bitcoin flui para novos trilhos de DeFi</div></div></article>"
-    },
-    {
-      "id": "beincrypto:a816f170bbc81:0",
-      "index": 13,
-      "title": "XRP vai fazer o Bitcoin desaparecer? Debate cresce no X",
-      "link": "https://br.tradingview.com/news/beincrypto:a816f170bbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-14T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP vai fazer o Bitcoin desaparecer? Debate cresce no X\" data-qa-id=\"news-headline-title\">XRP vai fazer o Bitcoin desaparecer? Debate cresce no X</div></div></article>"
     }
   ]
 }
