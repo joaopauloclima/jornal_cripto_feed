@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-15T18:55:53.439Z",
+  "updated_at": "2025-11-15T19:15:07.457Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e4a4c364dbc81:0",
+      "id": "cointelegraph:b83e81b29bc81:0",
       "index": 0,
+      "title": "Aster afirma que a tokenomics permanece inalterada em meio à confusão da comunidade após atualização do CMC",
+      "link": "https://br.tradingview.com/news/cointelegraph:b83e81b29bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-15T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 15 Nov 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de nov. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Aster afirma que a tokenomics permanece inalterada em meio à confusão da comunidade após atualização do CMC\" data-qa-id=\"news-headline-title\">Aster afirma que a tokenomics permanece inalterada em meio à confusão da comunidade após atualização do CMC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e4a4c364dbc81:0",
+      "index": 1,
       "title": "ARK Invest retoma compras de criptomoedas e adiciona ações da BitMine e da Bullish à sua carteira",
       "link": "https://br.tradingview.com/news/cointelegraph:e4a4c364dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:d69a36489bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin atinge mínima de 6 meses com IA intensificando aversão ao risco: como estão posicionados os traders profissionais?",
       "link": "https://br.tradingview.com/news/cointelegraph:d69a36489bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c94ab4e03bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Supervisão das criptomoedas pela CFTC em relação à SEC está 'na direção correta', diz Jeff Park",
       "link": "https://br.tradingview.com/news/cointelegraph:c94ab4e03bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:eb1bea83abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Chance de corte de juros em dezembro cai abaixo de 50%",
       "link": "https://br.tradingview.com/news/cointelegraph:eb1bea83abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:98295c1a2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Robert Kiyosaki afirma que a crise de liquidez está causando colapso, mas continua otimista em relação ao Bitcoin e ao ouro",
       "link": "https://br.tradingview.com/news/cointelegraph:98295c1a2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9b040ff23bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Binance adiciona BUIDL da BlackRock como garantia fora da exchange para traders institucionais",
       "link": "https://br.tradingview.com/news/cointelegraph:9b040ff23bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:37eb20bafbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin (BTC) atinge o preço que pode virar o mercado para cima?",
       "link": "https://br.tradingview.com/news/beincrypto:37eb20bafbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:41363b1d0bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "SOL cai para mínima de 5 meses apesar do sucesso do ETF spot de Solana: US$ 100 será o próximo alvo?",
       "link": "https://br.tradingview.com/news/cointelegraph:41363b1d0bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:114d3393abc81:0",
-      "index": 8,
+      "index": 9,
       "title": "'A volatilidade é sua amiga': Eric Trump ignora carnificina do Bitcoin e das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:114d3393abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:e6ae5bd9fbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Volatilidade no final de 2025 sinaliza 'explosão positiva' para criptomoedas em 2026, segundo a Hashdex",
       "link": "https://br.tradingview.com/news/cointelegraph:e6ae5bd9fbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:af2ab980cbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Análise de preços em 14/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK e BCH",
       "link": "https://br.tradingview.com/news/cointelegraph:af2ab980cbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:baef8005fbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Tether vai acelerar a expansão no crédito de commodities com empréstimos em dinheiro e USDt",
       "link": "https://br.tradingview.com/news/cointelegraph:baef8005fbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tether vai acelerar a expansão no crédito de commodities com empréstimos em dinheiro e USDt\" data-qa-id=\"news-headline-title\">Tether vai acelerar a expansão no crédito de commodities com empréstimos em dinheiro e USDt</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:46524e8b3bc81:0",
-      "index": 12,
-      "title": "Queda do Bitcoin aponta para quebra do padrão histórico, o que vem a seguir?",
-      "link": "https://br.tradingview.com/news/cointelegraph:46524e8b3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-14T21:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 14 Nov 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de nov. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Queda do Bitcoin aponta para quebra do padrão histórico, o que vem a seguir?\" data-qa-id=\"news-headline-title\">Queda do Bitcoin aponta para quebra do padrão histórico, o que vem a seguir?</div></div></article>"
     }
   ]
 }
