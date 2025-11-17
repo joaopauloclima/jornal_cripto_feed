@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-17T21:53:19.691Z",
+  "updated_at": "2025-11-17T22:19:05.213Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -25,8 +25,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 17 Nov 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de nov. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Figment e OpenTrade lançam produto de stablecoin na rede Solana com rendimento alvo de 15% ao ano\" data-qa-id=\"news-headline-title\">Figment e OpenTrade lançam produto de stablecoin na rede Solana com rendimento alvo de 15% ao ano</div></div></article>"
     },
     {
-      "id": "cointelegraph:0198aae0fbc81:0",
+      "id": "beincrypto:a11df2e85bc81:0",
       "index": 2,
+      "title": "Queda de big techs e Bitcoin acende alerta para “bolha que murcha”",
+      "link": "https://br.tradingview.com/news/beincrypto:a11df2e85bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-11-17T21:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 17 Nov 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de nov. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Queda de big techs e Bitcoin acende alerta para “bolha que murcha”\" data-qa-id=\"news-headline-title\">Queda de big techs e Bitcoin acende alerta para “bolha que murcha”</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0198aae0fbc81:0",
+      "index": 3,
       "title": "Republic levanta US$ 100 milhões para compras de ETH em acordo incomum com juros zero",
       "link": "https://br.tradingview.com/news/cointelegraph:0198aae0fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c04e4cbe3bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Novos detentores de Bitcoin vendem em pânico 148.000 BTC enquanto analistas preveem fundo abaixo de US$ 90.000",
       "link": "https://br.tradingview.com/news/cointelegraph:c04e4cbe3bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:e9d660e87bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Strategy intensifica compras de Bitcoin com aquisição de 8.178 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:e9d660e87bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:05918326dbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Pensa que a BlackRock está otimista com o Bitcoin? Arthur Hayes diz que não",
       "link": "https://br.tradingview.com/news/beincrypto:05918326dbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:901125a5ebc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Por que o Brasil usa Bitcoin como ativo de tesouraria e o que outras nações podem aprender",
       "link": "https://br.tradingview.com/news/cointelegraph:901125a5ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:244178ad9bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Coinbase estreia plataforma de ICOs com pré-venda da Monad e acesso a investidores brasileiros",
       "link": "https://br.tradingview.com/news/cointelegraph:244178ad9bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:98716addebc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Trump Organization vai tokenizar projeto de resort nas Maldivas para investidores iniciais",
       "link": "https://br.tradingview.com/news/cointelegraph:98716addebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:3a948d08ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Strategy e BitMine se unem e Tom Lee dispara previsão",
       "link": "https://br.tradingview.com/news/beincrypto:3a948d08ebc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:43aef699dbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "ETPs de cripto têm maior saída semanal desde fevereiro após investidores retirarem US$ 2 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:43aef699dbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1c99e8fe7bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Compras corporativas levantam debate sobre a descentralização de longo prazo do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:1c99e8fe7bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:200b20a53bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "UBS e Ant apostam na blockchain para romper o gargalo nos fluxos globais de tesouraria",
       "link": "https://br.tradingview.com/news/cointelegraph:200b20a53bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 17 Nov 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de nov. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"UBS e Ant apostam na blockchain para romper o gargalo nos fluxos globais de tesouraria\" data-qa-id=\"news-headline-title\">UBS e Ant apostam na blockchain para romper o gargalo nos fluxos globais de tesouraria</div></div></article>"
-    },
-    {
-      "id": "beincrypto:21814b94dbc81:0",
-      "index": 13,
-      "title": "Rali dos ETFs de Bitcoin levantam mais perguntas que respostas",
-      "link": "https://br.tradingview.com/news/beincrypto:21814b94dbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-17T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 17 Nov 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de nov. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rali dos ETFs de Bitcoin levantam mais perguntas que respostas\" data-qa-id=\"news-headline-title\">Rali dos ETFs de Bitcoin levantam mais perguntas que respostas</div></div></article>"
     }
   ]
 }
