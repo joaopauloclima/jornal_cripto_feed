@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-18T04:04:48.616Z",
+  "updated_at": "2025-11-18T04:36:13.718Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -102,8 +102,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 17 Nov 2025 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de nov. de 2025, 19:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase estreia plataforma de ICOs com pré-venda da Monad e acesso a investidores brasileiros\" data-qa-id=\"news-headline-title\">Coinbase estreia plataforma de ICOs com pré-venda da Monad e acesso a investidores brasileiros</div></div></article>"
     },
     {
-      "id": "cointelegraph:98716addebc81:0",
+      "id": "invezz:780d1793fbc81:0",
       "index": 9,
+      "title": "Resumo da noite: Alfabeto dispara, SEBI entra em conflito com Jane Street, Nvidia despenca",
+      "link": "https://br.tradingview.com/news/invezz:780d1793fbc81:0/",
+      "source": "Invezz",
+      "published_at": "2025-11-17T19:12:11.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 17 Nov 2025 19:12:11 GMT\" class=\"apply-common-tooltip\" title=\"17 de nov. de 2025, 19:12 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Invezz</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Resumo da noite: Alfabeto dispara, SEBI entra em conflito com Jane Street, Nvidia despenca\" data-qa-id=\"news-headline-title\">Resumo da noite: Alfabeto dispara, SEBI entra em conflito com Jane Street, Nvidia despenca</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:98716addebc81:0",
+      "index": 10,
       "title": "Trump Organization vai tokenizar projeto de resort nas Maldivas para investidores iniciais",
       "link": "https://br.tradingview.com/news/cointelegraph:98716addebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:3a948d08ebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Strategy e BitMine se unem e Tom Lee dispara previsão",
       "link": "https://br.tradingview.com/news/beincrypto:3a948d08ebc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:43aef699dbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "ETPs de cripto têm maior saída semanal desde fevereiro após investidores retirarem US$ 2 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:43aef699dbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:1c99e8fe7bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Compras corporativas levantam debate sobre a descentralização de longo prazo do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:1c99e8fe7bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 17 Nov 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de nov. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Compras corporativas levantam debate sobre a descentralização de longo prazo do Bitcoin\" data-qa-id=\"news-headline-title\">Compras corporativas levantam debate sobre a descentralização de longo prazo do Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:200b20a53bc81:0",
-      "index": 13,
-      "title": "UBS e Ant apostam na blockchain para romper o gargalo nos fluxos globais de tesouraria",
-      "link": "https://br.tradingview.com/news/cointelegraph:200b20a53bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-17T18:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 17 Nov 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de nov. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"UBS e Ant apostam na blockchain para romper o gargalo nos fluxos globais de tesouraria\" data-qa-id=\"news-headline-title\">UBS e Ant apostam na blockchain para romper o gargalo nos fluxos globais de tesouraria</div></div></article>"
     }
   ]
 }
