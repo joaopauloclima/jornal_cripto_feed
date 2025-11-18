@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-18T19:18:44.944Z",
+  "updated_at": "2025-11-18T19:53:47.293Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:bd56d968abc81:0",
+      "id": "cointelegraph:add66dad3bc81:0",
       "index": 0,
+      "title": "Cloudflare sofre interrupção e afeta vários sites de criptomoedas e canais de mídias sociais",
+      "link": "https://br.tradingview.com/news/cointelegraph:add66dad3bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-18T19:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 18 Nov 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de nov. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Cloudflare sofre interrupção e afeta vários sites de criptomoedas e canais de mídias sociais\" data-qa-id=\"news-headline-title\">Cloudflare sofre interrupção e afeta vários sites de criptomoedas e canais de mídias sociais</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:185dc7696bc81:0",
+      "index": 1,
+      "title": "Como os 50 milhões de nós da Pi Network podem remodelar o futuro da IA descentralizada",
+      "link": "https://br.tradingview.com/news/cointelegraph:185dc7696bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-18T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 18 Nov 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de nov. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Como os 50 milhões de nós da Pi Network podem remodelar o futuro da IA descentralizada\" data-qa-id=\"news-headline-title\">Como os 50 milhões de nós da Pi Network podem remodelar o futuro da IA descentralizada</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bd56d968abc81:0",
+      "index": 2,
       "title": "APriori, apoiada pela Pantera, permanece em silêncio após uma entidade reivindicar 60% do airdrop",
       "link": "https://br.tradingview.com/news/cointelegraph:bd56d968abc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:19e475cd9bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "SEC dos EUA não cita especificamente criptomoedas nas prioridades de fiscalização de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:19e475cd9bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:207ed459cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Ações da mineradora de Bitcoin HIVE sobem 7,5% com receita trimestral recorde",
       "link": "https://br.tradingview.com/news/cointelegraph:207ed459cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c592a62e6bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "El Salvador compra mais US$ 100 milhões em Bitcoin e reacende dúvidas sobre o programa do FMI",
       "link": "https://br.tradingview.com/news/cointelegraph:c592a62e6bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:30b222738bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Maior banco dos EUA prevê alta do Bitcoin no fim do ano mesmo com sinais fortes de venda",
       "link": "https://br.tradingview.com/news/beincrypto:30b222738bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e5fdc6c45bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Capitulação, despejo e fraqueza industrial podem derreter o Bitcoin a US$ 60 mil, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:e5fdc6c45bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:33ef8d816bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Mastercard usa Polygon para transformar endereços cripto complicados em nomes de usuário simples",
       "link": "https://br.tradingview.com/news/cointelegraph:33ef8d816bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1283f4d37bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Libra: carteiras ligadas ao token sacam US$ 4 milhões e apostam pesado em Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:1283f4d37bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:f843fe3a1bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "XRP volta a receber entradas após 4 semanas enquanto expectativa por ETF dispara",
       "link": "https://br.tradingview.com/news/beincrypto:f843fe3a1bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:3a1c40e29bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "ARK Invest compra US$ 10 milhões em Bullish enquanto ação atinge mínima histórica em meio a queda das ações cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:3a1c40e29bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a7578c489bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Mt. Gox move US$ 953 milhões em Bitcoin após 8 meses, aumentando preocupações no mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:a7578c489bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:d9f6f567abc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Média dos investidores de ETFs de Bitcoin agora está no prejuízo após BTC cair abaixo de US$ 89,6 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d9f6f567abc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 18 Nov 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de nov. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Média dos investidores de ETFs de Bitcoin agora está no prejuízo após BTC cair abaixo de US$ 89,6 mil\" data-qa-id=\"news-headline-title\">Média dos investidores de ETFs de Bitcoin agora está no prejuízo após BTC cair abaixo de US$ 89,6 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:63b7adaaabc81:0",
-      "index": 12,
-      "title": "MP deflagra operação contra streamings piratas acusados de lavagem de dinheiro com criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:63b7adaaabc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-18T15:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 18 Nov 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de nov. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"MP deflagra operação contra streamings piratas acusados de lavagem de dinheiro com criptomoedas\" data-qa-id=\"news-headline-title\">MP deflagra operação contra streamings piratas acusados de lavagem de dinheiro com criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8f1a5eb12bc81:0",
-      "index": 13,
-      "title": "Baleias de Bitcoin passam a comprar em meio a 'medo extremo'",
-      "link": "https://br.tradingview.com/news/cointelegraph:8f1a5eb12bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-18T15:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 18 Nov 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de nov. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias de Bitcoin passam a comprar em meio a 'medo extremo'\" data-qa-id=\"news-headline-title\">Baleias de Bitcoin passam a comprar em meio a 'medo extremo'</div></div></article>"
     }
   ]
 }
