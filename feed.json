@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-18T22:19:12.609Z",
+  "updated_at": "2025-11-18T22:54:20.631Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b88c84e72bc81:0",
+      "id": "cointelegraph:0d69b708fbc81:0",
       "index": 0,
+      "title": "Paxos lança o USDG0 para expandir sua stablecoin regulada por múltiplas blockchains",
+      "link": "https://br.tradingview.com/news/cointelegraph:0d69b708fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-18T22:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 18 Nov 2025 22:20:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de nov. de 2025, 22:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Paxos lança o USDG0 para expandir sua stablecoin regulada por múltiplas blockchains\" data-qa-id=\"news-headline-title\">Paxos lança o USDG0 para expandir sua stablecoin regulada por múltiplas blockchains</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b88c84e72bc81:0",
+      "index": 1,
       "title": "Regulador esclarece que bancos dos EUA podem usar criptomoedas que possuem para pagar taxas de gás",
       "link": "https://br.tradingview.com/news/cointelegraph:b88c84e72bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:840375781bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin sinaliza fundo em US$ 75.000, mas analistas preveem alta de 40% antes do fim de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:840375781bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a3394f392bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "ETH cai para a 'zona de compra', mas traders avessos à volatilidade adotam postura de esperar para ver",
       "link": "https://br.tradingview.com/news/cointelegraph:a3394f392bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:027842bd6bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin finalmente reage e supera as ações antes da divulgação dos resultados da Nvidia: a alta do BTC pode se manter?",
       "link": "https://br.tradingview.com/news/cointelegraph:027842bd6bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:78beb6fe2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Tether apoia a Ledn e mira o mercado global de empréstimos em criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:78beb6fe2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:943a5ab33bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Varejo vs. baleias: quem realmente impulsiona o rali de Natal?",
       "link": "https://br.tradingview.com/news/cointelegraph:943a5ab33bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bbb11a76cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Instituições intensificam aposta em criptomoedas apesar da queda do preço do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:bbb11a76cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:add66dad3bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Cloudflare sofre interrupção e afeta vários sites de criptomoedas e canais de mídias sociais",
       "link": "https://br.tradingview.com/news/cointelegraph:add66dad3bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:185dc7696bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Como os 50 milhões de nós da Pi Network podem remodelar o futuro da IA descentralizada",
       "link": "https://br.tradingview.com/news/cointelegraph:185dc7696bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:bd56d968abc81:0",
-      "index": 9,
+      "index": 10,
       "title": "APriori, apoiada pela Pantera, permanece em silêncio após uma entidade reivindicar 60% do airdrop",
       "link": "https://br.tradingview.com/news/cointelegraph:bd56d968abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:473d13712bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Ethereum retoma padrão de alta de 116% mas queda pode vir antes",
       "link": "https://br.tradingview.com/news/beincrypto:473d13712bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:19e475cd9bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "SEC dos EUA não cita especificamente criptomoedas nas prioridades de fiscalização de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:19e475cd9bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:207ed459cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Ações da mineradora de Bitcoin HIVE sobem 7,5% com receita trimestral recorde",
       "link": "https://br.tradingview.com/news/cointelegraph:207ed459cbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 18 Nov 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de nov. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações da mineradora de Bitcoin HIVE sobem 7,5% com receita trimestral recorde\" data-qa-id=\"news-headline-title\">Ações da mineradora de Bitcoin HIVE sobem 7,5% com receita trimestral recorde</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c592a62e6bc81:0",
-      "index": 13,
-      "title": "El Salvador compra mais US$ 100 milhões em Bitcoin e reacende dúvidas sobre o programa do FMI",
-      "link": "https://br.tradingview.com/news/cointelegraph:c592a62e6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-18T18:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 18 Nov 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de nov. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"El Salvador compra mais US$ 100 milhões em Bitcoin e reacende dúvidas sobre o programa do FMI\" data-qa-id=\"news-headline-title\">El Salvador compra mais US$ 100 milhões em Bitcoin e reacende dúvidas sobre o programa do FMI</div></div></article>"
     }
   ]
 }
