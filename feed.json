@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-20T12:35:39.026Z",
+  "updated_at": "2025-11-20T13:23:30.808Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d4250ef02bc81:0",
+      "id": "cointelegraph:6048e9befbc81:0",
       "index": 0,
+      "title": "Bitcoin derrete 10% após cruz da morte, mas mercado de baixa não está confirmado, dizem especialista",
+      "link": "https://br.tradingview.com/news/cointelegraph:6048e9befbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-20T13:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 20 Nov 2025 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de nov. de 2025, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin derrete 10% após cruz da morte, mas mercado de baixa não está confirmado, dizem especialista\" data-qa-id=\"news-headline-title\">Bitcoin derrete 10% após cruz da morte, mas mercado de baixa não está confirmado, dizem especialista</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:be356f286bc81:0",
+      "index": 1,
+      "title": "Traders de futuros de Bitcoin se recusam a capitular mesmo com BTC caindo para US$ 89 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:be356f286bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-20T12:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 20 Nov 2025 12:50:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de nov. de 2025, 12:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders de futuros de Bitcoin se recusam a capitular mesmo com BTC caindo para US$ 89 mil\" data-qa-id=\"news-headline-title\">Traders de futuros de Bitcoin se recusam a capitular mesmo com BTC caindo para US$ 89 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d4250ef02bc81:0",
+      "index": 2,
       "title": "Probabilidades de corte de juros em dezembro despencam para 33% enquanto BTC cai abaixo de US$ 89 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d4250ef02bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WW0H1:0",
-      "index": 1,
+      "index": 3,
       "title": "Ações de criptomoedas sobem com a valorização do bitcoin.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WW0H1:0/",
       "source": "Reuters",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f7974e07bbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Criptomoedas tentam reação e o Bitcoin luta por US$ 92 mil com ‘esvaziamento da bolha da IA’",
       "link": "https://br.tradingview.com/news/cointelegraph:f7974e07bbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:9dd17ed37bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 20/11/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:9dd17ed37bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:bf15b8990bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Preço do Bitcoin hoje, 20/11/2025: BTC luta em US$ 91 mil, mas touros estão sem forças e nova queda pode ocorrer",
       "link": "https://br.tradingview.com/news/cointelegraph:bf15b8990bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6bbed07dfbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Coinbase lança trade de DEX com foco em usuários do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:6bbed07dfbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6f6b95e69bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Drex fora do jogo? A tecnologia que realmente importa já está vencendo",
       "link": "https://br.tradingview.com/news/cointelegraph:6f6b95e69bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f43fe66f8bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Expectativa pelo Fla-Flu faz o Fan Token $MENGO disparar",
       "link": "https://br.tradingview.com/news/cointelegraph:f43fe66f8bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f3d5abc0fbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoin falhou como reserva de valor?",
       "link": "https://br.tradingview.com/news/cointelegraph:f3d5abc0fbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d4f100641bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "'DeFi transparente': DeCripto cria 'armadilha do hash' e põe em risco privacidade on-chain de brasileiros",
       "link": "https://br.tradingview.com/news/cointelegraph:d4f100641bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:71fd1483bbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "MEXC recorre à Hacken para auditorias de prova de reservas a fim de aumentar a transparência",
       "link": "https://br.tradingview.com/news/cointelegraph:71fd1483bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:a1929b1e0bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "21shares lança ETF de Solana em meio à queda, mas fluxos indicam interesse dos investidores",
       "link": "https://br.tradingview.com/news/cointelegraph:a1929b1e0bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 19 Nov 2025 21:50:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de nov. de 2025, 21:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"21shares lança ETF de Solana em meio à queda, mas fluxos indicam interesse dos investidores\" data-qa-id=\"news-headline-title\">21shares lança ETF de Solana em meio à queda, mas fluxos indicam interesse dos investidores</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:24f47e9fcbc81:0",
-      "index": 12,
-      "title": "Grupo de defesa propõe soluções DeFi para combater a pobreza global",
-      "link": "https://br.tradingview.com/news/cointelegraph:24f47e9fcbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-19T21:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 19 Nov 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de nov. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Grupo de defesa propõe soluções DeFi para combater a pobreza global\" data-qa-id=\"news-headline-title\">Grupo de defesa propõe soluções DeFi para combater a pobreza global</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4c99a2cf3bc81:0",
-      "index": 13,
-      "title": "Análise de preços em 19/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, BCH e ZEC",
-      "link": "https://br.tradingview.com/news/cointelegraph:4c99a2cf3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-19T21:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 19 Nov 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de nov. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 19/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, BCH e ZEC\" data-qa-id=\"news-headline-title\">Análise de preços em 19/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, BCH e ZEC</div></div></article>"
     }
   ]
 }
