@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-20T14:20:19.374Z",
+  "updated_at": "2025-11-20T14:53:55.669Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:24cb68a38bc81:0",
+      "id": "cointelegraph:25fe875e9bc81:0",
       "index": 0,
+      "title": "1 em 3 jovens investidores trocou de consultor por causa de acesso a cripto, aponta pesquisa",
+      "link": "https://br.tradingview.com/news/cointelegraph:25fe875e9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-20T14:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 20 Nov 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de nov. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"1 em 3 jovens investidores trocou de consultor por causa de acesso a cripto, aponta pesquisa\" data-qa-id=\"news-headline-title\">1 em 3 jovens investidores trocou de consultor por causa de acesso a cripto, aponta pesquisa</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:24cb68a38bc81:0",
+      "index": 1,
       "title": "Atividade das baleias de Bitcoin caminha para sua maior semana do ano, apontam analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:24cb68a38bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:28e03f9dabc81:0",
-      "index": 1,
+      "index": 2,
       "title": "BlackRock sinaliza que está trabalhando em novo ETF de Ethereum com staking",
       "link": "https://br.tradingview.com/news/cointelegraph:28e03f9dabc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c14683802bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Cripto e ações de tecnologia sobem após resultados explosivos do terceiro trimestre da Nvidia",
       "link": "https://br.tradingview.com/news/cointelegraph:c14683802bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6048e9befbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin derrete 10% após cruz da morte, mas mercado de baixa não está confirmado, dizem especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:6048e9befbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:3b5ceca27bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ethereum corre por defesa quântica enquanto Vitalik alerta risco em 2028",
       "link": "https://br.tradingview.com/news/beincrypto:3b5ceca27bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:be356f286bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Traders de futuros de Bitcoin se recusam a capitular mesmo com BTC caindo para US$ 89 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:be356f286bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d4250ef02bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Probabilidades de corte de juros em dezembro despencam para 33% enquanto BTC cai abaixo de US$ 89 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d4250ef02bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WW0H1:0",
-      "index": 7,
+      "index": 8,
       "title": "Ações de criptomoedas sobem com a valorização do bitcoin.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WW0H1:0/",
       "source": "Reuters",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f7974e07bbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Criptomoedas tentam reação e o Bitcoin luta por US$ 92 mil com ‘esvaziamento da bolha da IA’",
       "link": "https://br.tradingview.com/news/cointelegraph:f7974e07bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:9dd17ed37bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 20/11/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:9dd17ed37bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:bf15b8990bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço do Bitcoin hoje, 20/11/2025: BTC luta em US$ 91 mil, mas touros estão sem forças e nova queda pode ocorrer",
       "link": "https://br.tradingview.com/news/cointelegraph:bf15b8990bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6bbed07dfbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Coinbase lança trade de DEX com foco em usuários do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:6bbed07dfbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:6f6b95e69bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Drex fora do jogo? A tecnologia que realmente importa já está vencendo",
       "link": "https://br.tradingview.com/news/cointelegraph:6f6b95e69bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 19 Nov 2025 23:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de nov. de 2025, 23:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Drex fora do jogo? A tecnologia que realmente importa já está vencendo\" data-qa-id=\"news-headline-title\">Drex fora do jogo? A tecnologia que realmente importa já está vencendo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f43fe66f8bc81:0",
-      "index": 13,
-      "title": "Expectativa pelo Fla-Flu faz o Fan Token $MENGO disparar",
-      "link": "https://br.tradingview.com/news/cointelegraph:f43fe66f8bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-19T22:51:54.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 19 Nov 2025 22:51:54 GMT\" class=\"apply-common-tooltip\" title=\"19 de nov. de 2025, 22:51 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Expectativa pelo Fla-Flu faz o Fan Token $MENGO disparar\" data-qa-id=\"news-headline-title\">Expectativa pelo Fla-Flu faz o Fan Token $MENGO disparar</div></div></article>"
     }
   ]
 }
