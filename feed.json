@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-20T22:53:40.078Z",
+  "updated_at": "2025-11-20T23:18:46.091Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8f51b1c7abc81:0",
+      "id": "cointelegraph:6b32d7753bc81:0",
       "index": 0,
+      "title": "Hora da verdade para as BTC Treasury Companies: Quem está comprando a queda e quem está capitulando?",
+      "link": "https://br.tradingview.com/news/cointelegraph:6b32d7753bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-20T23:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 20 Nov 2025 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de nov. de 2025, 23:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Hora da verdade para as BTC Treasury Companies: Quem está comprando a queda e quem está capitulando?\" data-qa-id=\"news-headline-title\">Hora da verdade para as BTC Treasury Companies: Quem está comprando a queda e quem está capitulando?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8f51b1c7abc81:0",
+      "index": 1,
       "title": "Coinbase lança empréstimos lastreados em ETH e vê o crédito on-chain superar US$ 1,25 bilhão",
       "link": "https://br.tradingview.com/news/cointelegraph:8f51b1c7abc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:290b9a089bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Grupos de defesa pedem que Trump intervenha no julgamento de Roman Storm",
       "link": "https://br.tradingview.com/news/cointelegraph:290b9a089bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:20bf9eb65bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Governo da Índia avalia regras para stablecoins e se afasta da posição do RBI",
       "link": "https://br.tradingview.com/news/cointelegraph:20bf9eb65bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5efae9b17bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Tendência de queda do Bitcoin se acelera, mas traders miram a liquidez de shorts em US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:5efae9b17bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:80a59487bbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Abu Dhabi Investment Council triplica participação em ETF de Bitcoin no terceiro trimestre, diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:80a59487bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:a5973299ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Coinbase vai lançar sua nova oferta 'DeFi Mullet' no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:a5973299ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b3d65fca7bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Tether apoia a Parfin para impulsionar a adoção institucional do USDT na América Latina",
       "link": "https://br.tradingview.com/news/cointelegraph:b3d65fca7bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f2e9f1f81bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Metaplanet mira captação de US$ 135 milhões com novas ações Classe B para ampliar compras de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:f2e9f1f81bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:f9d9fe1b0bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "JPMorgan ganha impulso depois de a Nvidia mostrar lucro forte no 3º trimestre",
       "link": "https://br.tradingview.com/news/beincrypto:f9d9fe1b0bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:61be435bdbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "21Shares lança mais seis ETPs de criptomoedas na Europa: Aave, Cardano e mais",
       "link": "https://br.tradingview.com/news/cointelegraph:61be435bdbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:b406b19d7bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Baleia de Bitcoin Owen Gunden liquida toda sua reserva de US$ 1,3 bilhão enquanto instituições reforçam domínio",
       "link": "https://br.tradingview.com/news/cointelegraph:b406b19d7bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9eab1c4f0bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Mercado Bitcoin investe R$ 307 milhões em expansão para a Europa",
       "link": "https://br.tradingview.com/news/cointelegraph:9eab1c4f0bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:f6f1e7749bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Marathon Digital acelera transferências de Bitcoin enquanto economia da mineração piora",
       "link": "https://br.tradingview.com/news/beincrypto:f6f1e7749bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 20 Nov 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de nov. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Marathon Digital acelera transferências de Bitcoin enquanto economia da mineração piora\" data-qa-id=\"news-headline-title\">Marathon Digital acelera transferências de Bitcoin enquanto economia da mineração piora</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:af5355270bc81:0",
-      "index": 13,
-      "title": "Notícias Cripto: OKX anuncia embaixador, Binance expande operações, Bahia SAF com a BlinkPlanet e outras novidades",
-      "link": "https://br.tradingview.com/news/cointelegraph:af5355270bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-20T18:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 20 Nov 2025 18:50:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de nov. de 2025, 18:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias Cripto: OKX anuncia embaixador, Binance expande operações, Bahia SAF com a BlinkPlanet e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: OKX anuncia embaixador, Binance expande operações, Bahia SAF com a BlinkPlanet e outras novidades</div></div></article>"
     }
   ]
 }
