@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-21T11:53:47.502Z",
+  "updated_at": "2025-11-21T12:34:31.251Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:09242f6afbc81:0",
+      "id": "tag:reuters.com,2025:newsml_L6N3WX0PM:0",
       "index": 0,
+      "title": "Bitcoin despenca em fuga de risco",
+      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L6N3WX0PM:0/",
+      "source": "Reuters",
+      "published_at": "2025-11-21T12:16:52.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/country/US.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/cleanspark.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 12:16:52 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 12:16 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin despenca em fuga de risco\" data-qa-id=\"news-headline-title\">Bitcoin despenca em fuga de risco</div></div></article>"
+    },
+    {
+      "id": "beincrypto:3c1689d92bc81:0",
+      "index": 1,
+      "title": "Bitcoin está oficialmente sobrevendido pela primeira vez em 9 meses",
+      "link": "https://br.tradingview.com/news/beincrypto:3c1689d92bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-11-21T11:33:36.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 11:33:36 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 11:33 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin está oficialmente sobrevendido pela primeira vez em 9 meses\" data-qa-id=\"news-headline-title\">Bitcoin está oficialmente sobrevendido pela primeira vez em 9 meses</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:09242f6afbc81:0",
+      "index": 2,
       "title": "Preço do Bitcoin hoje, 21/11/2025: por que o preço do BTC caiu 10% hoje? criptomoeda chega a US$ 83 mil e liquida US$ 2 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:09242f6afbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WX06G:0",
-      "index": 1,
+      "index": 3,
       "title": "Criptomoedas afetadas pela fuga do risco",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WX06G:0/",
       "source": "Reuters",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6b32d7753bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Hora da verdade para as BTC Treasury Companies: Quem está comprando a queda e quem está capitulando?",
       "link": "https://br.tradingview.com/news/cointelegraph:6b32d7753bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8f51b1c7abc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Coinbase lança empréstimos lastreados em ETH e vê o crédito on-chain superar US$ 1,25 bilhão",
       "link": "https://br.tradingview.com/news/cointelegraph:8f51b1c7abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:290b9a089bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Grupos de defesa pedem que Trump intervenha no julgamento de Roman Storm",
       "link": "https://br.tradingview.com/news/cointelegraph:290b9a089bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:20bf9eb65bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Governo da Índia avalia regras para stablecoins e se afasta da posição do RBI",
       "link": "https://br.tradingview.com/news/cointelegraph:20bf9eb65bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5efae9b17bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Tendência de queda do Bitcoin se acelera, mas traders miram a liquidez de shorts em US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:5efae9b17bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:80a59487bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Abu Dhabi Investment Council triplica participação em ETF de Bitcoin no terceiro trimestre, diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:80a59487bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:a5973299ebc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Coinbase vai lançar sua nova oferta 'DeFi Mullet' no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:a5973299ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:b3d65fca7bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Tether apoia a Parfin para impulsionar a adoção institucional do USDT na América Latina",
       "link": "https://br.tradingview.com/news/cointelegraph:b3d65fca7bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f2e9f1f81bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Metaplanet mira captação de US$ 135 milhões com novas ações Classe B para ampliar compras de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:f2e9f1f81bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:f9d9fe1b0bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "JPMorgan ganha impulso depois de a Nvidia mostrar lucro forte no 3º trimestre",
       "link": "https://br.tradingview.com/news/beincrypto:f9d9fe1b0bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 20 Nov 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de nov. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"JPMorgan ganha impulso depois de a Nvidia mostrar lucro forte no 3º trimestre\" data-qa-id=\"news-headline-title\">JPMorgan ganha impulso depois de a Nvidia mostrar lucro forte no 3º trimestre</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:61be435bdbc81:0",
-      "index": 12,
-      "title": "21Shares lança mais seis ETPs de criptomoedas na Europa: Aave, Cardano e mais",
-      "link": "https://br.tradingview.com/news/cointelegraph:61be435bdbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-20T19:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 20 Nov 2025 19:50:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de nov. de 2025, 19:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"21Shares lança mais seis ETPs de criptomoedas na Europa: Aave, Cardano e mais\" data-qa-id=\"news-headline-title\">21Shares lança mais seis ETPs de criptomoedas na Europa: Aave, Cardano e mais</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b406b19d7bc81:0",
-      "index": 13,
-      "title": "Baleia de Bitcoin Owen Gunden liquida toda sua reserva de US$ 1,3 bilhão enquanto instituições reforçam domínio",
-      "link": "https://br.tradingview.com/news/cointelegraph:b406b19d7bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-20T19:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 20 Nov 2025 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de nov. de 2025, 19:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleia de Bitcoin Owen Gunden liquida toda sua reserva de US$ 1,3 bilhão enquanto instituições reforçam domínio\" data-qa-id=\"news-headline-title\">Baleia de Bitcoin Owen Gunden liquida toda sua reserva de US$ 1,3 bilhão enquanto instituições reforçam domínio</div></div></article>"
     }
   ]
 }
