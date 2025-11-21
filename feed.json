@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-21T17:53:41.057Z",
+  "updated_at": "2025-11-21T18:25:20.941Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:27c26f5a3bc81:0",
+      "id": "cointelegraph:c36321d3fbc81:0",
       "index": 0,
+      "title": "ETF altseason? Fundos de Solana e XRP contrariam a liquidação do mercado cripto",
+      "link": "https://br.tradingview.com/news/cointelegraph:c36321d3fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-21T18:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETF altseason? Fundos de Solana e XRP contrariam a liquidação do mercado cripto\" data-qa-id=\"news-headline-title\">ETF altseason? Fundos de Solana e XRP contrariam a liquidação do mercado cripto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:290e2115abc81:0",
+      "index": 1,
+      "title": "APriori nega atuação como insider após entidade misteriosa captar a maior parte do airdrop de APR",
+      "link": "https://br.tradingview.com/news/cointelegraph:290e2115abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-21T17:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"APriori nega atuação como insider após entidade misteriosa captar a maior parte do airdrop de APR\" data-qa-id=\"news-headline-title\">APriori nega atuação como insider após entidade misteriosa captar a maior parte do airdrop de APR</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:27c26f5a3bc81:0",
+      "index": 2,
       "title": "PayPay da SoftBank muda o jogo para usuários da Binance Japan",
       "link": "https://br.tradingview.com/news/cointelegraph:27c26f5a3bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:6cbc50c9bbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Gêmeos Winklevoss apostam em Zcash e privacidade para combater ameaça da IA",
       "link": "https://br.tradingview.com/news/cointelegraph:6cbc50c9bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WX0LQ:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin em situação delicada após afundar em fuga do risco",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WX0LQ:0/",
       "source": "Reuters",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:d7dc7d1debc81:0",
-      "index": 3,
+      "index": 5,
       "title": "XRP acena fundo claro mas preço ainda não reage",
       "link": "https://br.tradingview.com/news/beincrypto:d7dc7d1debc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:212e0cf18bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Mercado de memecoins afunda para mínima de 2025 com US$ 5 bilhões evaporando em um dia",
       "link": "https://br.tradingview.com/news/cointelegraph:212e0cf18bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4c2361b77bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "CEO da Binance diz que volatilidade do Bitcoin acompanha mercados mais amplos em meio a queda de 35%",
       "link": "https://br.tradingview.com/news/cointelegraph:4c2361b77bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:139a0ce9dbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ETF de Bitcoin da BlackRock registra saída de US$ 2,47 bilhões em novembro enquanto resgates atingem recorde de US$ 3,79 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:139a0ce9dbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:4800e0952bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Strategy pode perder US$ 9 bilhões com análise de provedores sobre Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:4800e0952bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:731ed68a1bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoiners enlouquecem depois que Scott Bessent entra em um bar de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:731ed68a1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2fd9ccf44bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Índice MSCI provavelmente excluirá tesourarias de cripto, alerta executivo",
       "link": "https://br.tradingview.com/news/cointelegraph:2fd9ccf44bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9ba80afd2bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin não atingirá US$ 200 mil até o terceiro trimestre de 2029, afirma veterano trader Peter Brandt",
       "link": "https://br.tradingview.com/news/cointelegraph:9ba80afd2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:be8778b1fbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Peter Brandt diz que Bitcoin pode alcançar US$ 200 mil, mas não em breve",
       "link": "https://br.tradingview.com/news/beincrypto:be8778b1fbc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Peter Brandt diz que Bitcoin pode alcançar US$ 200 mil, mas não em breve\" data-qa-id=\"news-headline-title\">Peter Brandt diz que Bitcoin pode alcançar US$ 200 mil, mas não em breve</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:440ffbc36bc81:0",
-      "index": 12,
-      "title": "Traders observam o 'cabo de guerra' entre touros e ursos do Bitcoin para planejar seu próximo movimento",
-      "link": "https://br.tradingview.com/news/cointelegraph:440ffbc36bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-21T13:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 13:50:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 13:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders observam o 'cabo de guerra' entre touros e ursos do Bitcoin para planejar seu próximo movimento\" data-qa-id=\"news-headline-title\">Traders observam o 'cabo de guerra' entre touros e ursos do Bitcoin para planejar seu próximo movimento</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4fdbe8b7cbc81:0",
-      "index": 13,
-      "title": "Tom Lee especula que formadores de mercado fragilizados estão por trás do aperto no mercado cripto",
-      "link": "https://br.tradingview.com/news/cointelegraph:4fdbe8b7cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-21T13:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tom Lee especula que formadores de mercado fragilizados estão por trás do aperto no mercado cripto\" data-qa-id=\"news-headline-title\">Tom Lee especula que formadores de mercado fragilizados estão por trás do aperto no mercado cripto</div></div></article>"
     }
   ]
 }
