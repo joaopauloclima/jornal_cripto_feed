@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-21T20:22:10.999Z",
+  "updated_at": "2025-11-21T20:55:04.968Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:73f30b052bc81:0",
+      "id": "cointelegraph:b4520bf2abc81:0",
       "index": 0,
+      "title": "Ex-advogado da Coinbase anuncia candidatura a procurador-geral de Nova York e cita política cripto",
+      "link": "https://br.tradingview.com/news/cointelegraph:b4520bf2abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-21T20:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ex-advogado da Coinbase anuncia candidatura a procurador-geral de Nova York e cita política cripto\" data-qa-id=\"news-headline-title\">Ex-advogado da Coinbase anuncia candidatura a procurador-geral de Nova York e cita política cripto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3d60835f9bc81:0",
+      "index": 1,
+      "title": "BitMine anuncia planos de staking de ETH para 2026 enquanto o mercado desaba",
+      "link": "https://br.tradingview.com/news/cointelegraph:3d60835f9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-21T20:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BitMine anuncia planos de staking de ETH para 2026 enquanto o mercado desaba\" data-qa-id=\"news-headline-title\">BitMine anuncia planos de staking de ETH para 2026 enquanto o mercado desaba</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:73f30b052bc81:0",
+      "index": 2,
       "title": "CEO da Plume prevê que os RWA cresçam de 3 a 5 vezes em 2026 à medida que ultrapassam o público nativo cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:73f30b052bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:be550002abc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Grok enaltece Elon Musk e mostra por que a IA precisa ser descentralizada",
       "link": "https://br.tradingview.com/news/cointelegraph:be550002abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c195c38fabc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin implode à medida que a volatilidade das Big Tech e o temor de uma bolha de IA afetam o mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:c195c38fabc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6b58d4646bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "KuCoin Pay se integra à rede de pagamentos Pix do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:6b58d4646bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9022c7d3bbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitmain, produtora de ASICs de Bitcoin, é investigada nos EUA por riscos à segurança nacional",
       "link": "https://br.tradingview.com/news/cointelegraph:9022c7d3bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:5fb5e3646bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Perdas realizadas do Bitcoin atingem níveis do colapso da FTX: onde está o fundo?",
       "link": "https://br.tradingview.com/news/cointelegraph:5fb5e3646bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c36321d3fbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ETF altseason? Fundos de Solana e XRP contrariam a liquidação do mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:c36321d3fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:290e2115abc81:0",
-      "index": 7,
+      "index": 9,
       "title": "APriori nega atuação como insider após entidade misteriosa captar a maior parte do airdrop de APR",
       "link": "https://br.tradingview.com/news/cointelegraph:290e2115abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:27c26f5a3bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "PayPay da SoftBank muda o jogo para usuários da Binance Japan",
       "link": "https://br.tradingview.com/news/cointelegraph:27c26f5a3bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6cbc50c9bbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Gêmeos Winklevoss apostam em Zcash e privacidade para combater ameaça da IA",
       "link": "https://br.tradingview.com/news/cointelegraph:6cbc50c9bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3WX0LQ:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin em situação delicada após afundar em fuga do risco",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3WX0LQ:0/",
       "source": "Reuters",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:d7dc7d1debc81:0",
-      "index": 11,
+      "index": 13,
       "title": "XRP acena fundo claro mas preço ainda não reage",
       "link": "https://br.tradingview.com/news/beincrypto:d7dc7d1debc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP acena fundo claro mas preço ainda não reage\" data-qa-id=\"news-headline-title\">XRP acena fundo claro mas preço ainda não reage</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:212e0cf18bc81:0",
-      "index": 12,
-      "title": "Mercado de memecoins afunda para mínima de 2025 com US$ 5 bilhões evaporando em um dia",
-      "link": "https://br.tradingview.com/news/cointelegraph:212e0cf18bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-21T15:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSHIB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 15:50:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 15:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado de memecoins afunda para mínima de 2025 com US$ 5 bilhões evaporando em um dia\" data-qa-id=\"news-headline-title\">Mercado de memecoins afunda para mínima de 2025 com US$ 5 bilhões evaporando em um dia</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4c2361b77bc81:0",
-      "index": 13,
-      "title": "CEO da Binance diz que volatilidade do Bitcoin acompanha mercados mais amplos em meio a queda de 35%",
-      "link": "https://br.tradingview.com/news/cointelegraph:4c2361b77bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-21T15:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da Binance diz que volatilidade do Bitcoin acompanha mercados mais amplos em meio a queda de 35%\" data-qa-id=\"news-headline-title\">CEO da Binance diz que volatilidade do Bitcoin acompanha mercados mais amplos em meio a queda de 35%</div></div></article>"
     }
   ]
 }
