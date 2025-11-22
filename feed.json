@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-22T10:53:30.789Z",
+  "updated_at": "2025-11-22T11:15:54.772Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:68461228fbc81:0",
+      "id": "cointelegraph:75ee3b65abc81:0",
       "index": 0,
+      "title": "Confirmação de cruz da morte pode significar que Bitcoin está oficialmente em um mercado de baixa",
+      "link": "https://br.tradingview.com/news/cointelegraph:75ee3b65abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-22T11:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 22 Nov 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de nov. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Confirmação de cruz da morte pode significar que Bitcoin está oficialmente em um mercado de baixa\" data-qa-id=\"news-headline-title\">Confirmação de cruz da morte pode significar que Bitcoin está oficialmente em um mercado de baixa</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:68461228fbc81:0",
+      "index": 1,
       "title": "Modelo da Strategy começa a dar errado e surge a primeira empresa a 'se livrar' de seu tesouro de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:68461228fbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:47b425bb8bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Notícias Cripto: Torne-se Inquebrável 2025, Binance Demo Trading, Fórum de Tokenização Veicular e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:47b425bb8bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b5d6e9b8cbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Ripio supera Méliuz e Mercado Livre como 2ª maior holder de criptomoedas da América Latina",
       "link": "https://br.tradingview.com/news/cointelegraph:b5d6e9b8cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b4520bf2abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ex-advogado da Coinbase anuncia candidatura a procurador-geral de Nova York e cita política cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:b4520bf2abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:3d60835f9bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "BitMine anuncia planos de staking de ETH para 2026 enquanto o mercado desaba",
       "link": "https://br.tradingview.com/news/cointelegraph:3d60835f9bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:73f30b052bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "CEO da Plume prevê que os RWA cresçam de 3 a 5 vezes em 2026 à medida que ultrapassam o público nativo cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:73f30b052bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:be550002abc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Grok enaltece Elon Musk e mostra por que a IA precisa ser descentralizada",
       "link": "https://br.tradingview.com/news/cointelegraph:be550002abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c195c38fabc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin implode à medida que a volatilidade das Big Tech e o temor de uma bolha de IA afetam o mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:c195c38fabc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:6b58d4646bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "KuCoin Pay se integra à rede de pagamentos Pix do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:6b58d4646bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9022c7d3bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitmain, produtora de ASICs de Bitcoin, é investigada nos EUA por riscos à segurança nacional",
       "link": "https://br.tradingview.com/news/cointelegraph:9022c7d3bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "invezz:8fc69f679bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Resumo da noite: Eli Lilly atinge US$ 1 Trilhão, cripto tropeça, tensões China-Japão aumentam",
       "link": "https://br.tradingview.com/news/invezz:8fc69f679bc81:0/",
       "source": "Invezz",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:5fb5e3646bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Perdas realizadas do Bitcoin atingem níveis do colapso da FTX: onde está o fundo?",
       "link": "https://br.tradingview.com/news/cointelegraph:5fb5e3646bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c36321d3fbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "ETF altseason? Fundos de Solana e XRP contrariam a liquidação do mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:c36321d3fbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETF altseason? Fundos de Solana e XRP contrariam a liquidação do mercado cripto\" data-qa-id=\"news-headline-title\">ETF altseason? Fundos de Solana e XRP contrariam a liquidação do mercado cripto</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:290e2115abc81:0",
-      "index": 13,
-      "title": "APriori nega atuação como insider após entidade misteriosa captar a maior parte do airdrop de APR",
-      "link": "https://br.tradingview.com/news/cointelegraph:290e2115abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-21T17:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 21 Nov 2025 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de nov. de 2025, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"APriori nega atuação como insider após entidade misteriosa captar a maior parte do airdrop de APR\" data-qa-id=\"news-headline-title\">APriori nega atuação como insider após entidade misteriosa captar a maior parte do airdrop de APR</div></div></article>"
     }
   ]
 }
