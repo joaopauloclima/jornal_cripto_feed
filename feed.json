@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-23T17:53:37.473Z",
+  "updated_at": "2025-11-23T18:24:50.837Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:af6ff795abc81:0",
+      "id": "cointelegraph:4ee0f647ebc81:0",
       "index": 0,
+      "title": "Vírus que circula no WhatsApp ameaça contas bancárias e carteiras de criptomoedas de brasileiros",
+      "link": "https://br.tradingview.com/news/cointelegraph:4ee0f647ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-23T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 23 Nov 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de nov. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vírus que circula no WhatsApp ameaça contas bancárias e carteiras de criptomoedas de brasileiros\" data-qa-id=\"news-headline-title\">Vírus que circula no WhatsApp ameaça contas bancárias e carteiras de criptomoedas de brasileiros</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:af6ff795abc81:0",
+      "index": 1,
       "title": "Grayscale considera Chainlink o 'tecido conjuntivo essencial' das finanças tokenizadas",
       "link": "https://br.tradingview.com/news/cointelegraph:af6ff795abc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:7bdfd4096bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Analista de ETFs da Bloomberg alerta que Zcash pode dividir a comunidade em relação ao Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:7bdfd4096bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:28e3ee3abbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Clientes de Bitcoin da BlackRock não estão cientes da viabilidade do BTC para pagamentos globais",
       "link": "https://br.tradingview.com/news/cointelegraph:28e3ee3abbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5e1a8080abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Vendas de baleias de Bitcoin para 'mãos fracas' irão aprofundar a pressão vendedora no futuro, diz Peter Schiff",
       "link": "https://br.tradingview.com/news/cointelegraph:5e1a8080abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:85d02a652bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Condições do mercado de criptomoedas indicam baixa probabilidade de 'capitulação significativa', afirma Lyn Alden",
       "link": "https://br.tradingview.com/news/cointelegraph:85d02a652bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d37a9ecb6bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Cardano sofre divisão temporária da rede devido a um bug no código, mas ADA se mantém estável",
       "link": "https://br.tradingview.com/news/cointelegraph:d37a9ecb6bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:9dcffda8dbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Reservas de mineradores de Bitcoin caem para mínima recorde",
       "link": "https://br.tradingview.com/news/beincrypto:9dcffda8dbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a3f7ca032bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Exchange de criptomoedas Coinbase executa migração interna de carteiras",
       "link": "https://br.tradingview.com/news/cointelegraph:a3f7ca032bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:95f692d13bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em alta hoje 23/11/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:95f692d13bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:91d1f1968bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ações do Méliuz zeram ganhos de 'Estratégia Bitcoin' após queda de 35% do preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:91d1f1968bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:bed9ac074bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "ETFs de Bitcoin ganham US$ 238 milhões enquanto fundos de Ether interrompem sequência de 8 dias de saídas",
       "link": "https://br.tradingview.com/news/cointelegraph:bed9ac074bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:93025ba4abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Minerador solo de Bitcoin 'extremamente sortudo' contraria probabilidades e ganha US$ 266 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:93025ba4abc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:7cf3f5203bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "ARK Invest encerra a semana com compras de ETF de Bitcoin, Bullish, Circle e BitMine",
       "link": "https://br.tradingview.com/news/cointelegraph:7cf3f5203bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 22 Nov 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de nov. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ARK Invest encerra a semana com compras de ETF de Bitcoin, Bullish, Circle e BitMine\" data-qa-id=\"news-headline-title\">ARK Invest encerra a semana com compras de ETF de Bitcoin, Bullish, Circle e BitMine</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:cbde9a4ccbc81:0",
-      "index": 13,
-      "title": "Adoção soberana do Bitcoin é o catalisador definitivo para o crescimento, diz Jeff Park",
-      "link": "https://br.tradingview.com/news/cointelegraph:cbde9a4ccbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-22T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 22 Nov 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de nov. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Adoção soberana do Bitcoin é o catalisador definitivo para o crescimento, diz Jeff Park\" data-qa-id=\"news-headline-title\">Adoção soberana do Bitcoin é o catalisador definitivo para o crescimento, diz Jeff Park</div></div></article>"
     }
   ]
 }
