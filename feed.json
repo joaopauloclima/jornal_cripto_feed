@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-24T10:22:15.455Z",
+  "updated_at": "2025-11-24T10:57:39.182Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e57ecf51bbc81:0",
+      "id": "tag:reuters.com,2025:newsml_L6N3X00FN:0",
       "index": 0,
+      "title": "Mineração de bitcoin na China volta a crescer, desafiando proibição de 2021",
+      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L6N3X00FN:0/",
+      "source": "Reuters",
+      "published_at": "2025-11-24T10:52:03.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/canaan-inc.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/canaan-inc.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 24 Nov 2025 10:52:03 GMT\" class=\"apply-common-tooltip\" title=\"24 de nov. de 2025, 10:52 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mineração de bitcoin na China volta a crescer, desafiando proibição de 2021\" data-qa-id=\"news-headline-title\">Mineração de bitcoin na China volta a crescer, desafiando proibição de 2021</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e57ecf51bbc81:0",
+      "index": 1,
       "title": "Regulação do Banco Central do Brasil é 'divisor de águas' para mercado cripto na América Latina, diz Chainalysis",
       "link": "https://br.tradingview.com/news/cointelegraph:e57ecf51bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:cd0707a9dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do Bitcoin hoje, 24/11/2025: BTC tenta afastar fantasma da queda e se firmar acima de US$ 86 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:cd0707a9dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:cb8bbc791bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Notícias Cripto: Crypto Use no LIFT, My Drive Crypto, Carrot.eco e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:cb8bbc791bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:ddbde9f4dbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Apoiadores da Strategy e do Bitcoin pedem 'boicote' ao JP Morgan",
       "link": "https://br.tradingview.com/news/cointelegraph:ddbde9f4dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4ee0f647ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Vírus que circula no WhatsApp ameaça contas bancárias e carteiras de criptomoedas de brasileiros",
       "link": "https://br.tradingview.com/news/cointelegraph:4ee0f647ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:af6ff795abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Grayscale considera Chainlink o 'tecido conjuntivo essencial' das finanças tokenizadas",
       "link": "https://br.tradingview.com/news/cointelegraph:af6ff795abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7bdfd4096bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Analista de ETFs da Bloomberg alerta que Zcash pode dividir a comunidade em relação ao Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:7bdfd4096bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:28e3ee3abbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Clientes de Bitcoin da BlackRock não estão cientes da viabilidade do BTC para pagamentos globais",
       "link": "https://br.tradingview.com/news/cointelegraph:28e3ee3abbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:5e1a8080abc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Vendas de baleias de Bitcoin para 'mãos fracas' irão aprofundar a pressão vendedora no futuro, diz Peter Schiff",
       "link": "https://br.tradingview.com/news/cointelegraph:5e1a8080abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:85d02a652bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Condições do mercado de criptomoedas indicam baixa probabilidade de 'capitulação significativa', afirma Lyn Alden",
       "link": "https://br.tradingview.com/news/cointelegraph:85d02a652bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d37a9ecb6bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Cardano sofre divisão temporária da rede devido a um bug no código, mas ADA se mantém estável",
       "link": "https://br.tradingview.com/news/cointelegraph:d37a9ecb6bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:9dcffda8dbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Reservas de mineradores de Bitcoin caem para mínima recorde",
       "link": "https://br.tradingview.com/news/beincrypto:9dcffda8dbc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:a3f7ca032bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Exchange de criptomoedas Coinbase executa migração interna de carteiras",
       "link": "https://br.tradingview.com/news/cointelegraph:a3f7ca032bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 23 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Exchange de criptomoedas Coinbase executa migração interna de carteiras\" data-qa-id=\"news-headline-title\">Exchange de criptomoedas Coinbase executa migração interna de carteiras</div></div></article>"
-    },
-    {
-      "id": "beincrypto:95f692d13bc81:0",
-      "index": 13,
-      "title": "Por que o mercado de criptomoedas está em alta hoje 23/11/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:95f692d13bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-23T12:08:40.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 23 Nov 2025 12:08:40 GMT\" class=\"apply-common-tooltip\" title=\"23 de nov. de 2025, 12:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 23/11/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 23/11/2025?</div></div></article>"
     }
   ]
 }
