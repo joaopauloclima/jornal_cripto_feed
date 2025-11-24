@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-24T19:17:22.713Z",
+  "updated_at": "2025-11-24T19:53:59.774Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:76f90563fbc81:0",
+      "id": "cointelegraph:597c3047abc81:0",
       "index": 0,
+      "title": "Computadores quânticos não vão quebrar o código do Bitcoin, eles vão quebrar a sua política",
+      "link": "https://br.tradingview.com/news/cointelegraph:597c3047abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-24T19:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 24 Nov 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de nov. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Computadores quânticos não vão quebrar o código do Bitcoin, eles vão quebrar a sua política\" data-qa-id=\"news-headline-title\">Computadores quânticos não vão quebrar o código do Bitcoin, eles vão quebrar a sua política</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:15fbaf3a6bc81:0",
+      "index": 1,
+      "title": "Stand With Crypto vai avaliar os candidatos na eleição de 2026 com base em suas posições sobre ativos digitais",
+      "link": "https://br.tradingview.com/news/cointelegraph:15fbaf3a6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-24T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 24 Nov 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de nov. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stand With Crypto vai avaliar os candidatos na eleição de 2026 com base em suas posições sobre ativos digitais\" data-qa-id=\"news-headline-title\">Stand With Crypto vai avaliar os candidatos na eleição de 2026 com base em suas posições sobre ativos digitais</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:76f90563fbc81:0",
+      "index": 2,
       "title": "Bitcoin sobe enquanto o dólar americano se fortalece: traders de cripto correm risco de armadilha?",
       "link": "https://br.tradingview.com/news/cointelegraph:76f90563fbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:48592491cbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Preço de US$ 80.000 foi o fundo do Bitcoin, acredita Arthur Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:48592491cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:7a9fa0c1cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Zcash cai 30% desde a máxima de novembro: o preço do ZEC vai cair ainda mais?",
       "link": "https://br.tradingview.com/news/cointelegraph:7a9fa0c1cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:eb8cd462dbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Satoshi Nakamoto perde US$ 43 bilhões com queda de mais de 30% no preço do Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:eb8cd462dbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3d6292365bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Saída de US$ 1,9 bilhão e leve sinal de recuperação atingem fundos cripto, diz CoinShares",
       "link": "https://br.tradingview.com/news/cointelegraph:3d6292365bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8a0b25262bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Enlivex, listada na Nasdaq, anuncia movimentação de US$ 212 milhões com token RAIN e participação de ex-primeiro-ministro italiano",
       "link": "https://br.tradingview.com/news/cointelegraph:8a0b25262bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:478abd590bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Riscos das stablecoins são considerados mínimos na Europa devido à baixa adoção e ao MiCA, diz o BCE",
       "link": "https://br.tradingview.com/news/cointelegraph:478abd590bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:2876d5867bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Ataque à cadeia de suprimentos do NPM compromete bibliotecas importantes de ENS e criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:2876d5867bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9a8746adabc81:0",
-      "index": 8,
+      "index": 10,
       "title": "MB anuncia novo presidente e mira 25 milhões de investidores até 2030",
       "link": "https://br.tradingview.com/news/cointelegraph:9a8746adabc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:24e702a87bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Um aumento de 300% na pressão de venda pode ameaçar a recuperação do preço do Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:24e702a87bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:82c121fa2bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Desbloqueio de US$ 314 milhões da Hyperliquid alimenta pedidos de transparência e alertas de pressão vendedora",
       "link": "https://br.tradingview.com/news/cointelegraph:82c121fa2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:67966841bbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Pump.fun faz enorme 'cash-out' de US$ 436 milhões enquanto mania das memecoins esfria",
       "link": "https://br.tradingview.com/news/cointelegraph:67966841bbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 24 Nov 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de nov. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pump.fun faz enorme 'cash-out' de US$ 436 milhões enquanto mania das memecoins esfria\" data-qa-id=\"news-headline-title\">Pump.fun faz enorme 'cash-out' de US$ 436 milhões enquanto mania das memecoins esfria</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0c5659ba6bc81:0",
-      "index": 12,
-      "title": "Rearp: governo ‘perdoa Bitcoin escondido’, com 30% de imposto",
-      "link": "https://br.tradingview.com/news/cointelegraph:0c5659ba6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-24T15:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 24 Nov 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de nov. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rearp: governo ‘perdoa Bitcoin escondido’, com 30% de imposto\" data-qa-id=\"news-headline-title\">Rearp: governo ‘perdoa Bitcoin escondido’, com 30% de imposto</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9177f4dddbc81:0",
-      "index": 13,
-      "title": "Ação da Strategy está sangrando, mas Saylor 'não vai recuar' da aposta no Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:9177f4dddbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-24T15:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 24 Nov 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de nov. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ação da Strategy está sangrando, mas Saylor 'não vai recuar' da aposta no Bitcoin\" data-qa-id=\"news-headline-title\">Ação da Strategy está sangrando, mas Saylor 'não vai recuar' da aposta no Bitcoin</div></div></article>"
     }
   ]
 }
