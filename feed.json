@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-25T18:28:10.354Z",
+  "updated_at": "2025-11-25T18:59:27.927Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:371c553e6bc81:0",
+      "id": "cointelegraph:0bfa48c05bc81:0",
       "index": 0,
+      "title": "Metaplanet aposta em dívida lastreada em Bitcoin com novo aporte de US$ 130 milhões para comprar mais BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:0bfa48c05bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-25T18:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 25 Nov 2025 18:50:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de nov. de 2025, 18:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Metaplanet aposta em dívida lastreada em Bitcoin com novo aporte de US$ 130 milhões para comprar mais BTC\" data-qa-id=\"news-headline-title\">Metaplanet aposta em dívida lastreada em Bitcoin com novo aporte de US$ 130 milhões para comprar mais BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b5429dd4abc81:0",
+      "index": 1,
+      "title": "VanEck recua discretamente sobre o staking do ETF de BNB em seu último registro na SEC",
+      "link": "https://br.tradingview.com/news/cointelegraph:b5429dd4abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-25T18:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 25 Nov 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de nov. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"VanEck recua discretamente sobre o staking do ETF de BNB em seu último registro na SEC\" data-qa-id=\"news-headline-title\">VanEck recua discretamente sobre o staking do ETF de BNB em seu último registro na SEC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:371c553e6bc81:0",
+      "index": 2,
       "title": "CEO da Strike perde acesso bancário no JPMorgan e Lummis alerta para 'Chokepoint 2.0'",
       "link": "https://br.tradingview.com/news/cointelegraph:371c553e6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:bc1f66955bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Nova lei financeira dos Emirados Árabes Unidos traz DeFi e a Web3 para o escopo regulatório",
       "link": "https://br.tradingview.com/news/cointelegraph:bc1f66955bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:797ea580abc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Exodus usa suas reservas de Bitcoin para financiar expansão de US$ 175 milhões em pagamentos on-chain",
       "link": "https://br.tradingview.com/news/cointelegraph:797ea580abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:18adf2e92bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Cofundador da Pump.fun nega retirada de US$ 436 milhões e afirma que foi 'gestão de tesouraria'",
       "link": "https://br.tradingview.com/news/cointelegraph:18adf2e92bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:1968acb9cbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Por que o Bitcoin pode ter formado um fundo em novembro?",
       "link": "https://br.tradingview.com/news/beincrypto:1968acb9cbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d578c1dbdbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "SEC emite carta de não ação 'rara' para o token FUSE do projeto Solana DePIN",
       "link": "https://br.tradingview.com/news/cointelegraph:d578c1dbdbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:12d878016bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "USP anuncia cátedra de IA em parceria com o Google",
       "link": "https://br.tradingview.com/news/cointelegraph:12d878016bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:bf0d4e2f1bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "'Não confie, verifique': OranjeBTC revela endereços de seu tesouro de 3.720 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:bf0d4e2f1bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f25e429c5bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Especialistas apontam próximos alvos do CRV, ETH e SUI",
       "link": "https://br.tradingview.com/news/cointelegraph:f25e429c5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:cb4dca043bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do XRP 'parece muito otimista' após alta semanal de 25%: até onde pode subir?",
       "link": "https://br.tradingview.com/news/cointelegraph:cb4dca043bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ba88247c3bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "ETFs de Solana atraem US$ 369 milhões em novembro enquanto investidores buscam ativos com rendimento produtivo",
       "link": "https://br.tradingview.com/news/cointelegraph:ba88247c3bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:9e1b7de8fbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin abaixo de US$ 90 mil acende alerta entre investidores",
       "link": "https://br.tradingview.com/news/beincrypto:9e1b7de8fbc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 25 Nov 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de nov. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin abaixo de US$ 90 mil acende alerta entre investidores\" data-qa-id=\"news-headline-title\">Bitcoin abaixo de US$ 90 mil acende alerta entre investidores</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:53eada274bc81:0",
-      "index": 12,
-      "title": "Bitcoin a US$ 87 mil: oportunidade de compra ou 'voo de galinha'?",
-      "link": "https://br.tradingview.com/news/cointelegraph:53eada274bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-25T14:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 25 Nov 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de nov. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin a US$ 87 mil: oportunidade de compra ou 'voo de galinha'?\" data-qa-id=\"news-headline-title\">Bitcoin a US$ 87 mil: oportunidade de compra ou 'voo de galinha'?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:3571db688bc81:0",
-      "index": 13,
-      "title": "Índice de Sharpe do Bitcoin está próximo de zero — um raro sinal de risco-recompensa",
-      "link": "https://br.tradingview.com/news/cointelegraph:3571db688bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-25T14:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 25 Nov 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de nov. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Índice de Sharpe do Bitcoin está próximo de zero — um raro sinal de risco-recompensa\" data-qa-id=\"news-headline-title\">Índice de Sharpe do Bitcoin está próximo de zero — um raro sinal de risco-recompensa</div></div></article>"
     }
   ]
 }
