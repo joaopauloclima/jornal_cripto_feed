@@ -1,10 +1,43 @@
 {
-  "updated_at": "2025-11-26T20:53:42.935Z",
+  "updated_at": "2025-11-26T21:17:58.246Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:53278c7a7bc81:0",
+      "id": "cointelegraph:c99e7535dbc81:0",
       "index": 0,
+      "title": "Governo confirma cobrança de IOF sobre operações com criptoativos, mas alíquota ainda está em debate",
+      "link": "https://br.tradingview.com/news/cointelegraph:c99e7535dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-26T21:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Governo confirma cobrança de IOF sobre operações com criptoativos, mas alíquota ainda está em debate\" data-qa-id=\"news-headline-title\">Governo confirma cobrança de IOF sobre operações com criptoativos, mas alíquota ainda está em debate</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:475d70dc9bc81:0",
+      "index": 1,
+      "title": "O real brasileiro na terapia: Bolsa global de criptomoedas vira local com nova campanha",
+      "link": "https://br.tradingview.com/news/cointelegraph:475d70dc9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-26T20:54:40.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 20:54:40 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 20:54 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O real brasileiro na terapia: Bolsa global de criptomoedas vira local com nova campanha\" data-qa-id=\"news-headline-title\">O real brasileiro na terapia: Bolsa global de criptomoedas vira local com nova campanha</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2aa5646aebc81:0",
+      "index": 2,
+      "title": "Análise do Bitcoin prevê short squeeze para US$ 89.000 com o S&P 500 a 2% da máxima histórica",
+      "link": "https://br.tradingview.com/news/cointelegraph:2aa5646aebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-26T20:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise do Bitcoin prevê short squeeze para US$ 89.000 com o S&amp;P 500 a 2% da máxima histórica\" data-qa-id=\"news-headline-title\">Análise do Bitcoin prevê short squeeze para US$ 89.000 com o S&amp;P 500 a 2% da máxima histórica</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:53278c7a7bc81:0",
+      "index": 3,
       "title": "Strategy revela novo indicador de crédito para acalmar temores de dívida após queda do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:53278c7a7bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d7b32e749bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Cofundador da Polygon avalia ressuscitar o MATIC um ano após a mudança para POL",
       "link": "https://br.tradingview.com/news/cointelegraph:d7b32e749bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "beincrypto:468a90b95bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "O que o Bitcoin precisa fazer para voltar aos US$ 120 mil?",
       "link": "https://br.tradingview.com/news/beincrypto:468a90b95bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8b439ffffbc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Tether acumula 116 toneladas de ouro e rivaliza com reservas da Coreia do Sul e da Hungria, diz Jefferies",
       "link": "https://br.tradingview.com/news/cointelegraph:8b439ffffbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6335abb80bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Preço do Bitcoin corre risco de cair abaixo de US$ 80.000 à medida que temores de um 'ataque contra a MSTR' aumentam",
       "link": "https://br.tradingview.com/news/cointelegraph:6335abb80bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d7b16bcdabc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Blockrise obtém licença MiCA na Holanda e leva empréstimos lastreados em Bitcoin para empresas da UE",
       "link": "https://br.tradingview.com/news/cointelegraph:d7b16bcdabc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "beincrypto:bc907133ebc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Como instituições vão negociar Bitcoin no ciclo de halving 2026 a 2028?",
       "link": "https://br.tradingview.com/news/beincrypto:bc907133ebc81:0/",
       "source": "Beincrypto",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:dbb727b39bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "WLFI apoiado por Trump intensifica recompras enquanto o token permanece 50% abaixo do preço de lançamento",
       "link": "https://br.tradingview.com/news/cointelegraph:dbb727b39bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:95a8a35a1bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Naver vai adquirir a Dunamu, operadora da Upbit, em um acordo integral em ações de US$ 10,3 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:95a8a35a1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:07779c6b1bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Bitcoin mira recuperação em US$ 96.000 a partir da atual zona de 'desconto', aponta análise",
       "link": "https://br.tradingview.com/news/cointelegraph:07779c6b1bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:70fa31bc8bc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Fundo do preço do Bitcoin pode ocorrer 'esta semana' após queda de 20% em novembro",
       "link": "https://br.tradingview.com/news/cointelegraph:70fa31bc8bc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundo do preço do Bitcoin pode ocorrer 'esta semana' após queda de 20% em novembro\" data-qa-id=\"news-headline-title\">Fundo do preço do Bitcoin pode ocorrer 'esta semana' após queda de 20% em novembro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e93336e88bc81:0",
-      "index": 11,
-      "title": "BIS escolhe o chefe de moeda digital do FMI e defensor de CBDCs como novo líder do Innovation Hub",
-      "link": "https://br.tradingview.com/news/cointelegraph:e93336e88bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-26T17:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BIS escolhe o chefe de moeda digital do FMI e defensor de CBDCs como novo líder do Innovation Hub\" data-qa-id=\"news-headline-title\">BIS escolhe o chefe de moeda digital do FMI e defensor de CBDCs como novo líder do Innovation Hub</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:a96bf184abc81:0",
-      "index": 12,
-      "title": "Coinbase revela 9 ideias de criptomoedas que pretende financiar em 2026",
-      "link": "https://br.tradingview.com/news/cointelegraph:a96bf184abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-26T17:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase revela 9 ideias de criptomoedas que pretende financiar em 2026\" data-qa-id=\"news-headline-title\">Coinbase revela 9 ideias de criptomoedas que pretende financiar em 2026</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:864420198bc81:0",
-      "index": 13,
-      "title": "Ilha Satoshi corre o risco de afundar após fracasso da ‘criptoutopia’",
-      "link": "https://br.tradingview.com/news/cointelegraph:864420198bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-26T16:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ilha Satoshi corre o risco de afundar após fracasso da ‘criptoutopia’\" data-qa-id=\"news-headline-title\">Ilha Satoshi corre o risco de afundar após fracasso da ‘criptoutopia’</div></div></article>"
     }
   ]
 }
