@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-26T17:00:54.168Z",
+  "updated_at": "2025-11-26T17:20:13.086Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:864420198bc81:0",
+      "id": "cointelegraph:a96bf184abc81:0",
       "index": 0,
+      "title": "Coinbase revela 9 ideias de criptomoedas que pretende financiar em 2026",
+      "link": "https://br.tradingview.com/news/cointelegraph:a96bf184abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-26T17:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase revela 9 ideias de criptomoedas que pretende financiar em 2026\" data-qa-id=\"news-headline-title\">Coinbase revela 9 ideias de criptomoedas que pretende financiar em 2026</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:864420198bc81:0",
+      "index": 1,
       "title": "Ilha Satoshi corre o risco de afundar após fracasso da ‘criptoutopia’",
       "link": "https://br.tradingview.com/news/cointelegraph:864420198bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:b3011d516bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin volta a ficar no vermelho neste mês, mas demanda pode reacender em breve, diz Bitfinex",
       "link": "https://br.tradingview.com/news/cointelegraph:b3011d516bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:345d01e88bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Mercados de previsão são a linha de receita que mais cresce na Robinhood",
       "link": "https://br.tradingview.com/news/cointelegraph:345d01e88bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:91e49343fbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Análise XRP: preço segue no verde enquanto um grupo acende alerta",
       "link": "https://br.tradingview.com/news/beincrypto:91e49343fbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:095d58ac8bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Assessor pró-cripto de Trump, Kevin Hassett, é o principal nome cotado para chefiar o Fed, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:095d58ac8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:85e4b3d88bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Analista alerta que uma última limpeza de alavancagem pode empurrar o Bitcoin abaixo de US$ 80 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:85e4b3d88bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:475eeca33bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ganância dos ursos e pânico dos varejistas indicam reação do Bitcoin, sugere análise",
       "link": "https://br.tradingview.com/news/cointelegraph:475eeca33bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:00679095abc81:0",
-      "index": 7,
+      "index": 8,
       "title": "DeFi já percorreu 30% do caminho rumo à adoção em massa, diz fundador da Chainlink",
       "link": "https://br.tradingview.com/news/cointelegraph:00679095abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:00664495abc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Texas compra na baixa do Bitcoin, adquirindo US$ 5 milhões do IBIT da BlackRock",
       "link": "https://br.tradingview.com/news/cointelegraph:00664495abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3X20HX:0",
-      "index": 9,
+      "index": 10,
       "title": "A stablecoin Tether teve sua recomendação rebaixada para \"fraca\" pela S&P.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3X20HX:0/",
       "source": "Reuters",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4c66f39fabc81:0",
-      "index": 10,
+      "index": 11,
       "title": "ETF à vista de Dogecoin da Grayscale fica abaixo das expectativas de volume em sua estreia",
       "link": "https://br.tradingview.com/news/cointelegraph:4c66f39fabc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:928e97b19bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Base revela planos de expansão da blockchain no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:928e97b19bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c7c5a3462bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "'As instituições chegaram' — US Bancorp lança projeto-piloto de stablecoin na rede Stellar",
       "link": "https://br.tradingview.com/news/cointelegraph:c7c5a3462bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'As instituições chegaram' — US Bancorp lança projeto-piloto de stablecoin na rede Stellar\" data-qa-id=\"news-headline-title\">'As instituições chegaram' — US Bancorp lança projeto-piloto de stablecoin na rede Stellar</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2101287e4bc81:0",
-      "index": 13,
-      "title": "MegaETH cancela plano de US$ 1 bilhão após falhas técnicas interromperem a venda",
-      "link": "https://br.tradingview.com/news/cointelegraph:2101287e4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-26T13:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"MegaETH cancela plano de US$ 1 bilhão após falhas técnicas interromperem a venda\" data-qa-id=\"news-headline-title\">MegaETH cancela plano de US$ 1 bilhão após falhas técnicas interromperem a venda</div></div></article>"
     }
   ]
 }
