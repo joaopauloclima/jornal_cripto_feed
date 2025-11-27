@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-27T14:20:36.252Z",
+  "updated_at": "2025-11-27T14:57:13.367Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:33a16b25ebc81:0",
+      "id": "cointelegraph:1504ea1b8bc81:0",
       "index": 0,
+      "title": "Fundos tokenizados do mercado monetário disparam para US$ 9 bilhões; BIS alerta para novos riscos",
+      "link": "https://br.tradingview.com/news/cointelegraph:1504ea1b8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-27T14:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundos tokenizados do mercado monetário disparam para US$ 9 bilhões; BIS alerta para novos riscos\" data-qa-id=\"news-headline-title\">Fundos tokenizados do mercado monetário disparam para US$ 9 bilhões; BIS alerta para novos riscos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:09ec80552bc81:0",
+      "index": 1,
+      "title": "Bitcoin mostra 'forte correlação negativa' com a atividade do USDT, aponta Glassnode",
+      "link": "https://br.tradingview.com/news/cointelegraph:09ec80552bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-27T14:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin mostra 'forte correlação negativa' com a atividade do USDT, aponta Glassnode\" data-qa-id=\"news-headline-title\">Bitcoin mostra 'forte correlação negativa' com a atividade do USDT, aponta Glassnode</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:33a16b25ebc81:0",
+      "index": 2,
       "title": "Caminho do Bitcoin de volta aos US$ 112 mil e além depende de quatro fatores principais",
       "link": "https://br.tradingview.com/news/cointelegraph:33a16b25ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2c6dd81efbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Mynt anuncia novos recursos e recompensas em negociação de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:2c6dd81efbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d11bed04ebc81:0",
-      "index": 2,
+      "index": 4,
       "title": "S&P rebaixa classificação do lastro do USDT para a nota mais baixa",
       "link": "https://br.tradingview.com/news/cointelegraph:d11bed04ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:bc549d826bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Drex: Detalhes inéditos da nova tecnologia adotada pelo BC são revelados por Roberto Campos Neto",
       "link": "https://br.tradingview.com/news/cointelegraph:bc549d826bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:121af0b5fbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Grayscale protocola pedido na SEC para converter Zcash Trust em ETF à vista",
       "link": "https://br.tradingview.com/news/cointelegraph:121af0b5fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:32f36a491bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin passa de US$ 90 mil e analista vê dois caminhos rumo aos US$ 100 mil",
       "link": "https://br.tradingview.com/news/beincrypto:32f36a491bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:4cad259e3bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ETFs de XRP absorvem 80 milhões de tokens: um novo ciclo de alta está começando para a altcoin?",
       "link": "https://br.tradingview.com/news/cointelegraph:4cad259e3bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c0578c95bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin vira para alta e criptomoedas sobem até 87% com otimismo no Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:c0578c95bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:095774477bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Por que o mercado de criptomoedas está em alta hoje 27/11/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:095774477bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d8fcfe279bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do Bitcoin hoje, 27/11/2025: Por que o BTC subiu 5% hoje? Criptomoeda registra forte alta e volta para US$ 92 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d8fcfe279bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1a2fa721bbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "80% das empresas no Brasil veem cripto como a tecnologia mais poderosa do mercado, aponta estudo da ABCripto",
       "link": "https://br.tradingview.com/news/cointelegraph:1a2fa721bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:fba295e88bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Nova regra do Banco Central mexe com Bitcoin, USDT e todo o mercado cripto no balanço de pagementos",
       "link": "https://br.tradingview.com/news/cointelegraph:fba295e88bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 23:08:08 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 23:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nova regra do Banco Central mexe com Bitcoin, USDT e todo o mercado cripto no balanço de pagementos\" data-qa-id=\"news-headline-title\">Nova regra do Banco Central mexe com Bitcoin, USDT e todo o mercado cripto no balanço de pagementos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ec138fb1cbc81:0",
-      "index": 12,
-      "title": "Stablecoins em crise: setor encolhe pela primeira vez desde a queda da FTX",
-      "link": "https://br.tradingview.com/news/cointelegraph:ec138fb1cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-26T22:54:55.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 22:54:55 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 22:54 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stablecoins em crise: setor encolhe pela primeira vez desde a queda da FTX\" data-qa-id=\"news-headline-title\">Stablecoins em crise: setor encolhe pela primeira vez desde a queda da FTX</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:af6d3d4a6bc81:0",
-      "index": 13,
-      "title": "Bolívia integrará criptomoedas e stablecoins ao sistema financeiro",
-      "link": "https://br.tradingview.com/news/cointelegraph:af6d3d4a6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-26T21:25:36.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 21:25:36 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 21:25 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bolívia integrará criptomoedas e stablecoins ao sistema financeiro\" data-qa-id=\"news-headline-title\">Bolívia integrará criptomoedas e stablecoins ao sistema financeiro</div></div></article>"
     }
   ]
 }
