@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-27T12:37:08.928Z",
+  "updated_at": "2025-11-27T13:24:46.728Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:4cad259e3bc81:0",
+      "id": "cointelegraph:bc549d826bc81:0",
       "index": 0,
+      "title": "Drex: Detalhes inéditos da nova tecnologia adotada pelo BC são revelados por Roberto Campos Neto",
+      "link": "https://br.tradingview.com/news/cointelegraph:bc549d826bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-27T13:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Drex: Detalhes inéditos da nova tecnologia adotada pelo BC são revelados por Roberto Campos Neto\" data-qa-id=\"news-headline-title\">Drex: Detalhes inéditos da nova tecnologia adotada pelo BC são revelados por Roberto Campos Neto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:121af0b5fbc81:0",
+      "index": 1,
+      "title": "Grayscale protocola pedido na SEC para converter Zcash Trust em ETF à vista",
+      "link": "https://br.tradingview.com/news/cointelegraph:121af0b5fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-27T12:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 12:40:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Grayscale protocola pedido na SEC para converter Zcash Trust em ETF à vista\" data-qa-id=\"news-headline-title\">Grayscale protocola pedido na SEC para converter Zcash Trust em ETF à vista</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:4cad259e3bc81:0",
+      "index": 2,
       "title": "ETFs de XRP absorvem 80 milhões de tokens: um novo ciclo de alta está começando para a altcoin?",
       "link": "https://br.tradingview.com/news/cointelegraph:4cad259e3bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c0578c95bbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin vira para alta e criptomoedas sobem até 87% com otimismo no Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:c0578c95bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:095774477bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Por que o mercado de criptomoedas está em alta hoje 27/11/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:095774477bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d8fcfe279bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço do Bitcoin hoje, 27/11/2025: Por que o BTC subiu 5% hoje? Criptomoeda registra forte alta e volta para US$ 92 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d8fcfe279bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1a2fa721bbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "80% das empresas no Brasil veem cripto como a tecnologia mais poderosa do mercado, aponta estudo da ABCripto",
       "link": "https://br.tradingview.com/news/cointelegraph:1a2fa721bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fba295e88bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Nova regra do Banco Central mexe com Bitcoin, USDT e todo o mercado cripto no balanço de pagementos",
       "link": "https://br.tradingview.com/news/cointelegraph:fba295e88bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ec138fb1cbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Stablecoins em crise: setor encolhe pela primeira vez desde a queda da FTX",
       "link": "https://br.tradingview.com/news/cointelegraph:ec138fb1cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:af6d3d4a6bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bolívia integrará criptomoedas e stablecoins ao sistema financeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:af6d3d4a6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8253bc0c5bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Tailândia pede à World de Sam Altman para deletar 1,2M de escaneamentos de íris devido a dados em risco",
       "link": "https://br.tradingview.com/news/cointelegraph:8253bc0c5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:b835a0e9dbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Previsões de preço 26/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, BCH, LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:b835a0e9dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c99e7535dbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Governo confirma cobrança de IOF sobre operações com criptoativos, mas alíquota ainda está em debate",
       "link": "https://br.tradingview.com/news/cointelegraph:c99e7535dbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:d53fcffcebc81:0",
-      "index": 11,
+      "index": 13,
       "title": "ETF de Dogecoin estreia com entradas tímidas de menos de US$ 2 milhões em 48 horas",
       "link": "https://br.tradingview.com/news/beincrypto:d53fcffcebc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETF de Dogecoin estreia com entradas tímidas de menos de US$ 2 milhões em 48 horas\" data-qa-id=\"news-headline-title\">ETF de Dogecoin estreia com entradas tímidas de menos de US$ 2 milhões em 48 horas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:475d70dc9bc81:0",
-      "index": 12,
-      "title": "O real brasileiro na terapia: Bolsa global de criptomoedas vira local com nova campanha",
-      "link": "https://br.tradingview.com/news/cointelegraph:475d70dc9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-26T20:54:40.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 20:54:40 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 20:54 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O real brasileiro na terapia: Bolsa global de criptomoedas vira local com nova campanha\" data-qa-id=\"news-headline-title\">O real brasileiro na terapia: Bolsa global de criptomoedas vira local com nova campanha</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2aa5646aebc81:0",
-      "index": 13,
-      "title": "Análise do Bitcoin prevê short squeeze para US$ 89.000 com o S&P 500 a 2% da máxima histórica",
-      "link": "https://br.tradingview.com/news/cointelegraph:2aa5646aebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-26T20:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 26 Nov 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de nov. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise do Bitcoin prevê short squeeze para US$ 89.000 com o S&amp;P 500 a 2% da máxima histórica\" data-qa-id=\"news-headline-title\">Análise do Bitcoin prevê short squeeze para US$ 89.000 com o S&amp;P 500 a 2% da máxima histórica</div></div></article>"
     }
   ]
 }
