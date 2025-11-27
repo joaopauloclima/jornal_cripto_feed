@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-27T17:53:15.958Z",
+  "updated_at": "2025-11-27T18:25:45.227Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ff75ab5e7bc81:0",
+      "id": "cointelegraph:fc3d47914bc81:0",
       "index": 0,
+      "title": "Do Kwon diz que 5 anos de prisão nos EUA são suficientes enquanto pode enfrentar 40 anos na Coreia do Sul",
+      "link": "https://br.tradingview.com/news/cointelegraph:fc3d47914bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-27T18:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Do Kwon diz que 5 anos de prisão nos EUA são suficientes enquanto pode enfrentar 40 anos na Coreia do Sul\" data-qa-id=\"news-headline-title\">Do Kwon diz que 5 anos de prisão nos EUA são suficientes enquanto pode enfrentar 40 anos na Coreia do Sul</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:dabbfcc90bc81:0",
+      "index": 1,
+      "title": "Ethereum eleva limite de gas por bloco para 60 milhões enquanto capacidade da rede cresce antes do Fusaka",
+      "link": "https://br.tradingview.com/news/cointelegraph:dabbfcc90bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-27T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum eleva limite de gas por bloco para 60 milhões enquanto capacidade da rede cresce antes do Fusaka\" data-qa-id=\"news-headline-title\">Ethereum eleva limite de gas por bloco para 60 milhões enquanto capacidade da rede cresce antes do Fusaka</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ff75ab5e7bc81:0",
+      "index": 2,
       "title": "Upbit sofre violação de US$ 36 milhões em hot wallet na Solana um dia após acordo de US$ 10 bilhões com a Naver",
       "link": "https://br.tradingview.com/news/cointelegraph:ff75ab5e7bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b5cb64dddbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Miguel Nicolelis diz que IA é visão ideológica e erra frequentemente: ‘Palmeiras não tem mundial’",
       "link": "https://br.tradingview.com/news/cointelegraph:b5cb64dddbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:ae26bbcc7bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Cathie Wood diz que previsão otimista da ARK de US$ 1,5 milhão para o Bitcoin não mudou enquanto o mercado sinaliza rali",
       "link": "https://br.tradingview.com/news/cointelegraph:ae26bbcc7bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9aab0d9bdbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Buterin doa para dois projetos que impulsionam os 'próximos passos' da privacidade digital",
       "link": "https://br.tradingview.com/news/cointelegraph:9aab0d9bdbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:285e0cacfbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Saldo de XRP na Binance atinge o menor nível em um ano: quais são as causas e impactos?",
       "link": "https://br.tradingview.com/news/beincrypto:285e0cacfbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:600880cd3bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Este indicador sugere que saímos do mercado de alta do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:600880cd3bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ca08f0973bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin corre risco de queda mais profunda se depósitos de baleias em exchanges permanecerem altos, alerta analista",
       "link": "https://br.tradingview.com/news/cointelegraph:ca08f0973bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:dbb1027afbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Tom Lee recua na previsão de Bitcoin a US$ 250 mil; nova máxima histórica no fim do ano agora é apenas um 'talvez'",
       "link": "https://br.tradingview.com/news/cointelegraph:dbb1027afbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:7b73e107fbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Conor McGregor provoca Khabib por NFTs e é silenciado por ZachXBT",
       "link": "https://br.tradingview.com/news/cointelegraph:7b73e107fbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:51f586de9bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoin está mais perto de US$ 100 mil que de US$ 85 mil, dizem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:51f586de9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1504ea1b8bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Fundos tokenizados do mercado monetário disparam para US$ 9 bilhões; BIS alerta para novos riscos",
       "link": "https://br.tradingview.com/news/cointelegraph:1504ea1b8bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:fd0855adcbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Zcash pode ameaçar interesse no Bitcoin, alerta Eric Balchunas",
       "link": "https://br.tradingview.com/news/beincrypto:fd0855adcbc81:0/",
       "source": "Beincrypto",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Zcash pode ameaçar interesse no Bitcoin, alerta Eric Balchunas\" data-qa-id=\"news-headline-title\">Zcash pode ameaçar interesse no Bitcoin, alerta Eric Balchunas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:09ec80552bc81:0",
-      "index": 12,
-      "title": "Bitcoin mostra 'forte correlação negativa' com a atividade do USDT, aponta Glassnode",
-      "link": "https://br.tradingview.com/news/cointelegraph:09ec80552bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-27T14:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin mostra 'forte correlação negativa' com a atividade do USDT, aponta Glassnode\" data-qa-id=\"news-headline-title\">Bitcoin mostra 'forte correlação negativa' com a atividade do USDT, aponta Glassnode</div></div></article>"
     }
   ]
 }
