@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-28T16:23:19.732Z",
+  "updated_at": "2025-11-28T16:58:33.603Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b11a4d958bc81:0",
+      "id": "cointelegraph:27133a920bc81:0",
       "index": 0,
+      "title": "FMI alerta que mercados tokenizados podem aprofundar flash crashes e afirma que governos vão intervir",
+      "link": "https://br.tradingview.com/news/cointelegraph:27133a920bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-28T16:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"FMI alerta que mercados tokenizados podem aprofundar flash crashes e afirma que governos vão intervir\" data-qa-id=\"news-headline-title\">FMI alerta que mercados tokenizados podem aprofundar flash crashes e afirma que governos vão intervir</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b11a4d958bc81:0",
+      "index": 1,
       "title": "Bitcoin se prepara para 'um novo ano promissor' após o pior novembro em 7 anos",
       "link": "https://br.tradingview.com/news/cointelegraph:b11a4d958bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:a7de0c829bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "XP Asset anuncia lançamento de ETFs de Bitcoin e de Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:a7de0c829bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:efe5ede4cbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Deputado Aureo Ribeiro fala sobre regulamentação cripto: ‘Liberdade sim, ingenuidade não’",
       "link": "https://br.tradingview.com/news/cointelegraph:efe5ede4cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:9312d117abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Sentimento do mercado cripto se recupera para níveis de quando o Bitcoin era negociado acima de US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:9312d117abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:762f185d2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "₳70 milhões: Cardano propõe orçamento para 2026 após incidente de divisão na rede",
       "link": "https://br.tradingview.com/news/beincrypto:762f185d2bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:97cecd2e3bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Não acreditar no Bitcoin como ouro digital e não adotar uma reserva de BTC vai deixar o Brasil para trás, defende Senador Jorge Seif",
       "link": "https://br.tradingview.com/news/cointelegraph:97cecd2e3bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c92e97102bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Volumes de exchanges descentralizadas disparam com corrida especulativa de memecoins, diz CoinGecko",
       "link": "https://br.tradingview.com/news/cointelegraph:c92e97102bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ead642372bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Baleias de ETH cautelosas à medida que dados on-chain e de derivativos reduzem chances de rali até US$ 4 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:ead642372bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:fc3ed2b81bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "B3 e Stefanini oferecem novas vagas; Novo Nordisk abre programa de trainee em finanças",
       "link": "https://br.tradingview.com/news/cointelegraph:fc3ed2b81bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:49a6a92c2bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Pressão de compra sobe 1.000% pode levar o XRP ao preço que traders querem?",
       "link": "https://br.tradingview.com/news/beincrypto:49a6a92c2bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6955edffdbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoiners acusam JPMorgan de manipular o jogo contra Strategy e empresas de tesouraria cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:6955edffdbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:cb64f107cbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Comunidade da Balancer propõe plano para distribuir fundos recuperados de hack",
       "link": "https://br.tradingview.com/news/cointelegraph:cb64f107cbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e660f5433bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Traders de ETH aumentam posições alavancadas e miram preço em US$ 3.400",
       "link": "https://br.tradingview.com/news/cointelegraph:e660f5433bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 13:04:31 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 13:04 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders de ETH aumentam posições alavancadas e miram preço em US$ 3.400\" data-qa-id=\"news-headline-title\">Traders de ETH aumentam posições alavancadas e miram preço em US$ 3.400</div></div></article>"
-    },
-    {
-      "id": "beincrypto:69452b13dbc81:0",
-      "index": 13,
-      "title": "Por que o mercado de criptomoedas está em baixa hoje 28/11/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:69452b13dbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-11-28T12:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em baixa hoje 28/11/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em baixa hoje 28/11/2025?</div></div></article>"
     }
   ]
 }
