@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-28T18:25:57.175Z",
+  "updated_at": "2025-11-28T18:57:53.708Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:444b41a3bbc81:0",
+      "id": "cointelegraph:919f3da01bc81:0",
       "index": 0,
+      "title": "Sinal de mercado de alta cripto: oferta de stablecoins ERC-20 mantém recorde de US$ 185 bilhões",
+      "link": "https://br.tradingview.com/news/cointelegraph:919f3da01bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-28T18:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Sinal de mercado de alta cripto: oferta de stablecoins ERC-20 mantém recorde de US$ 185 bilhões\" data-qa-id=\"news-headline-title\">Sinal de mercado de alta cripto: oferta de stablecoins ERC-20 mantém recorde de US$ 185 bilhões</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:444b41a3bbc81:0",
+      "index": 1,
       "title": "Nexus da Avail quer ser a espinha dorsal de execução da Web3, não apenas outra ponte",
       "link": "https://br.tradingview.com/news/cointelegraph:444b41a3bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:334008170bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do BTC pausa em US$ 92 mil: o Bitcoin pode evitar outra queda?",
       "link": "https://br.tradingview.com/news/cointelegraph:334008170bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:73b3c066abc81:0",
-      "index": 2,
+      "index": 3,
       "title": "5 criptomoedas para ficar de olho em dezembro e não perder o bonde do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:73b3c066abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6f2c77b77bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Tether confirma saída da mineração de Bitcoin no Uruguai em meio a altos custos de energia",
       "link": "https://br.tradingview.com/news/cointelegraph:6f2c77b77bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:fbc136328bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Dinheiro sólido vs. Privacidade? Saifedean Ammous questiona a ênfase de cripto em privacidade",
       "link": "https://br.tradingview.com/news/cointelegraph:fbc136328bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:27133a920bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "FMI alerta que mercados tokenizados podem aprofundar flash crashes e afirma que governos vão intervir",
       "link": "https://br.tradingview.com/news/cointelegraph:27133a920bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b11a4d958bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin se prepara para 'um novo ano promissor' após o pior novembro em 7 anos",
       "link": "https://br.tradingview.com/news/cointelegraph:b11a4d958bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:f6a3b081dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Memecoins podem ter um forte retorno em dezembro de 2025?",
       "link": "https://br.tradingview.com/news/beincrypto:f6a3b081dbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a7de0c829bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "XP Asset anuncia lançamento de ETFs de Bitcoin e de Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:a7de0c829bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:efe5ede4cbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Deputado Aureo Ribeiro fala sobre regulamentação cripto: ‘Liberdade sim, ingenuidade não’",
       "link": "https://br.tradingview.com/news/cointelegraph:efe5ede4cbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9312d117abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Sentimento do mercado cripto se recupera para níveis de quando o Bitcoin era negociado acima de US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:9312d117abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:762f185d2bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "₳70 milhões: Cardano propõe orçamento para 2026 após incidente de divisão na rede",
       "link": "https://br.tradingview.com/news/beincrypto:762f185d2bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:97cecd2e3bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Não acreditar no Bitcoin como ouro digital e não adotar uma reserva de BTC vai deixar o Brasil para trás, defende Senador Jorge Seif",
       "link": "https://br.tradingview.com/news/cointelegraph:97cecd2e3bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 14:47:04 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 14:47 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Não acreditar no Bitcoin como ouro digital e não adotar uma reserva de BTC vai deixar o Brasil para trás, defende Senador Jorge Seif\" data-qa-id=\"news-headline-title\">Não acreditar no Bitcoin como ouro digital e não adotar uma reserva de BTC vai deixar o Brasil para trás, defende Senador Jorge Seif</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c92e97102bc81:0",
-      "index": 13,
-      "title": "Volumes de exchanges descentralizadas disparam com corrida especulativa de memecoins, diz CoinGecko",
-      "link": "https://br.tradingview.com/news/cointelegraph:c92e97102bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-28T14:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Volumes de exchanges descentralizadas disparam com corrida especulativa de memecoins, diz CoinGecko\" data-qa-id=\"news-headline-title\">Volumes de exchanges descentralizadas disparam com corrida especulativa de memecoins, diz CoinGecko</div></div></article>"
     }
   ]
 }
