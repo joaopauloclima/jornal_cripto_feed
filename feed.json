@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-28T13:56:00.945Z",
+  "updated_at": "2025-11-28T14:20:07.413Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6955edffdbc81:0",
+      "id": "cointelegraph:fc3ed2b81bc81:0",
       "index": 0,
+      "title": "B3 e Stefanini oferecem novas vagas; Novo Nordisk abre programa de trainee em finanças",
+      "link": "https://br.tradingview.com/news/cointelegraph:fc3ed2b81bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-28T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"B3 e Stefanini oferecem novas vagas; Novo Nordisk abre programa de trainee em finanças\" data-qa-id=\"news-headline-title\">B3 e Stefanini oferecem novas vagas; Novo Nordisk abre programa de trainee em finanças</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6955edffdbc81:0",
+      "index": 1,
       "title": "Bitcoiners acusam JPMorgan de manipular o jogo contra Strategy e empresas de tesouraria cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:6955edffdbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:cb64f107cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Comunidade da Balancer propõe plano para distribuir fundos recuperados de hack",
       "link": "https://br.tradingview.com/news/cointelegraph:cb64f107cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e660f5433bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Traders de ETH aumentam posições alavancadas e miram preço em US$ 3.400",
       "link": "https://br.tradingview.com/news/cointelegraph:e660f5433bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:69452b13dbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 28/11/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:69452b13dbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:3aaca12a0bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin enfrenta resistência-chave na Black Friday para manter recuperação das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:3aaca12a0bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:176d4a92fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Risco crítico no Bitcoin acende alerta com possível queda de 25%",
       "link": "https://br.tradingview.com/news/beincrypto:176d4a92fbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:51e48d650bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do Bitcoin hoje, 28/11/2025: Bitcoin permanece em US$ 91 mil com touros lutando para manter o suporte",
       "link": "https://br.tradingview.com/news/cointelegraph:51e48d650bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a10eb8763bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Brasil não precisa de uma CBDC, afirma estudo do BIS",
       "link": "https://br.tradingview.com/news/cointelegraph:a10eb8763bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:19ef86311bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "O que está por trás da alta nos tokens de privacidade à medida que o restante do mercado enfraquece?",
       "link": "https://br.tradingview.com/news/cointelegraph:19ef86311bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8fcd77f92bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin é negociado acima de US$ 90 mil: o que os touros precisam fazer para prolongar a recuperação",
       "link": "https://br.tradingview.com/news/cointelegraph:8fcd77f92bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4586e4db8bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Inflação das moedas fiduciárias impulsiona a adoção de criptomoedas no mundo",
       "link": "https://br.tradingview.com/news/cointelegraph:4586e4db8bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:19ba226cdbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitso vai lançar criptomoeda própria e fazer airdrop para traders",
       "link": "https://br.tradingview.com/news/cointelegraph:19ba226cdbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:557cf6395bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Organização ALT5 Sigma ligada a Trump promove mudanças na liderança em meio a investigações da WLFI",
       "link": "https://br.tradingview.com/news/cointelegraph:557cf6395bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Organização ALT5 Sigma ligada a Trump promove mudanças na liderança em meio a investigações da WLFI\" data-qa-id=\"news-headline-title\">Organização ALT5 Sigma ligada a Trump promove mudanças na liderança em meio a investigações da WLFI</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ab48e5bfbbc81:0",
-      "index": 13,
-      "title": "Bitcoin registra 'avanço significativo' à medida que a meta de preço de US$ 97.000 para o BTC retorna",
-      "link": "https://br.tradingview.com/news/cointelegraph:ab48e5bfbbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-27T21:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 27 Nov 2025 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de nov. de 2025, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin registra 'avanço significativo' à medida que a meta de preço de US$ 97.000 para o BTC retorna\" data-qa-id=\"news-headline-title\">Bitcoin registra 'avanço significativo' à medida que a meta de preço de US$ 97.000 para o BTC retorna</div></div></article>"
     }
   ]
 }
