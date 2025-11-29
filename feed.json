@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-29T10:19:44.205Z",
+  "updated_at": "2025-11-29T10:54:04.205Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3402ca549bc81:0",
+      "id": "cointelegraph:474de81fdbc81:0",
       "index": 0,
+      "title": "Após 18 dias de medo, criptomoedas retomam fôlego",
+      "link": "https://br.tradingview.com/news/cointelegraph:474de81fdbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-29T10:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 29 Nov 2025 10:30:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de nov. de 2025, 10:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Após 18 dias de medo, criptomoedas retomam fôlego\" data-qa-id=\"news-headline-title\">Após 18 dias de medo, criptomoedas retomam fôlego</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3402ca549bc81:0",
+      "index": 1,
       "title": "Arthur Hayes alerta que a Monad pode desvalorizar 99%, chamando-a de alto risco",
       "link": "https://br.tradingview.com/news/cointelegraph:3402ca549bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f275b55eebc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Por que a regulação brasileira pode acelerar alta das ações de OranjeBTC e Méliuz",
       "link": "https://br.tradingview.com/news/cointelegraph:f275b55eebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:dd6da0f49bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "1,83 milhão de projetos Web3 ‘morreram’ em 2025: Pesquisa revela a principal causa do fracasso",
       "link": "https://br.tradingview.com/news/cointelegraph:dd6da0f49bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f8e856767bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Decripto: em 2026 as operações de cripto para fiat, cripto para cripto, transferências, envios para wallets e pagamentos, serão reportadas para a Receita Federal",
       "link": "https://br.tradingview.com/news/cointelegraph:f8e856767bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b40ed5d21bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Treze anos após o primeiro halving, a mineração de Bitcoin está muito diferente em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:b40ed5d21bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:bf6e57d2ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Incêndio atinge a instalação de mineração da Greenidge que compartilha operações com rigs da NYDIG",
       "link": "https://br.tradingview.com/news/cointelegraph:bf6e57d2ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:690efabb3bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bolsa Mercantil de Chicago interrompe negociações e provoca indignação pública",
       "link": "https://br.tradingview.com/news/cointelegraph:690efabb3bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:477695543bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Retração institucional ou choque macroeconômico? Especialistas analisam a queda do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:477695543bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:2fd10f1e9bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Proposta publicada: como o batching pode transformar a Tron",
       "link": "https://br.tradingview.com/news/cointelegraph:2fd10f1e9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:15fcdc1a3bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "'Recusamos fazer uma ICO': a verdade por trás da tokenomics da Canton",
       "link": "https://br.tradingview.com/news/cointelegraph:15fcdc1a3bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:10cb3d5f6bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Cinco gráficos do XRP sugerem que uma recuperação de curto prazo para US$ 2,80 pode ser o próximo movimento",
       "link": "https://br.tradingview.com/news/cointelegraph:10cb3d5f6bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "invezz:61eddcefdbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Resumo da noite: Intel dispara com esperanças da Apple, China pressiona o Reino Unido, crescimento da Índia supera as previsões",
       "link": "https://br.tradingview.com/news/invezz:61eddcefdbc81:0/",
       "source": "Invezz",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:d651e3c0dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preço do Bitcoin cai 20% e capitalização de mercado das stablecoins recua US$ 2 bilhões: novembro em gráficos",
       "link": "https://br.tradingview.com/news/cointelegraph:d651e3c0dbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin cai 20% e capitalização de mercado das stablecoins recua US$ 2 bilhões: novembro em gráficos\" data-qa-id=\"news-headline-title\">Preço do Bitcoin cai 20% e capitalização de mercado das stablecoins recua US$ 2 bilhões: novembro em gráficos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4783f24f2bc81:0",
-      "index": 13,
-      "title": "Cathie Wood mantém otimismo no alvo de US$ 1,5 milhão para o Bitcoin: Finance Redefined",
-      "link": "https://br.tradingview.com/news/cointelegraph:4783f24f2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-28T19:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Cathie Wood mantém otimismo no alvo de US$ 1,5 milhão para o Bitcoin: Finance Redefined\" data-qa-id=\"news-headline-title\">Cathie Wood mantém otimismo no alvo de US$ 1,5 milhão para o Bitcoin: Finance Redefined</div></div></article>"
     }
   ]
 }
