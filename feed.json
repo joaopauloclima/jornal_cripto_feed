@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-11-29T19:15:52.368Z",
+  "updated_at": "2025-11-29T19:53:40.814Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:550ee8863bc81:0",
+      "id": "cointelegraph:b99891b3ebc81:0",
       "index": 0,
+      "title": "'ETFs de Bitcoin são nossa maior fonte de receita', revela BlackRock",
+      "link": "https://br.tradingview.com/news/cointelegraph:b99891b3ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-29T19:47:04.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 29 Nov 2025 19:47:04 GMT\" class=\"apply-common-tooltip\" title=\"29 de nov. de 2025, 19:47 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'ETFs&nbsp;de&nbsp;Bitcoin são nossa maior fonte de receita', revela BlackRock\" data-qa-id=\"news-headline-title\">'ETFs&nbsp;de&nbsp;Bitcoin são nossa maior fonte de receita', revela BlackRock</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2c71ea1c1bc81:0",
+      "index": 1,
+      "title": "Fintech brasileira Nomad conversa com a Ripple e pode integrar stablecoins",
+      "link": "https://br.tradingview.com/news/cointelegraph:2c71ea1c1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-29T19:38:12.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 29 Nov 2025 19:38:12 GMT\" class=\"apply-common-tooltip\" title=\"29 de nov. de 2025, 19:38 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fintech brasileira Nomad conversa com a Ripple e pode integrar stablecoins\" data-qa-id=\"news-headline-title\">Fintech brasileira Nomad conversa com a Ripple e pode integrar stablecoins</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:550ee8863bc81:0",
+      "index": 2,
       "title": "Bancos vão dominar o mercado de stablecoins e 'roubar' usuários das exchanges, carteiras e fintechs",
       "link": "https://br.tradingview.com/news/cointelegraph:550ee8863bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1aae179dbbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Reino Unido segue Brasil e amplia regras de declaração de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:1aae179dbbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:097fff60cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Coinbase vai pedir para Fernando Haddad rever impostos para stablecoins e criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:097fff60cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:84703af3bbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "CoinShares retira o pedido de registro na SEC referente ao ETF Solana em staking.",
       "link": "https://br.tradingview.com/news/cointelegraph:84703af3bbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4a9609582bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "O Bitcoin não via uma relação risco-recompensa tão assimétrica desde a COVID-19",
       "link": "https://br.tradingview.com/news/cointelegraph:4a9609582bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:2ef51ba4ebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Anthony Sassano, afirmou que o limite de gas do Ethereum pode aumentar mais de três vezes no próximo ano",
       "link": "https://br.tradingview.com/news/cointelegraph:2ef51ba4ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:474de81fdbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Após 18 dias de medo, criptomoedas retomam fôlego",
       "link": "https://br.tradingview.com/news/cointelegraph:474de81fdbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:3402ca549bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Arthur Hayes alerta que a Monad pode desvalorizar 99%, chamando-a de alto risco",
       "link": "https://br.tradingview.com/news/cointelegraph:3402ca549bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f275b55eebc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Por que a regulação brasileira pode acelerar alta das ações de OranjeBTC e Méliuz",
       "link": "https://br.tradingview.com/news/cointelegraph:f275b55eebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:dd6da0f49bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "1,83 milhão de projetos Web3 ‘morreram’ em 2025: Pesquisa revela a principal causa do fracasso",
       "link": "https://br.tradingview.com/news/cointelegraph:dd6da0f49bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f8e856767bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Decripto: em 2026 as operações de cripto para fiat, cripto para cripto, transferências, envios para wallets e pagamentos, serão reportadas para a Receita Federal",
       "link": "https://br.tradingview.com/news/cointelegraph:f8e856767bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:b40ed5d21bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Treze anos após o primeiro halving, a mineração de Bitcoin está muito diferente em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:b40ed5d21bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Treze anos após o primeiro halving, a mineração de Bitcoin está muito diferente em 2025\" data-qa-id=\"news-headline-title\">Treze anos após o primeiro halving, a mineração de Bitcoin está muito diferente em 2025</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bf6e57d2ebc81:0",
-      "index": 12,
-      "title": "Incêndio atinge a instalação de mineração da Greenidge que compartilha operações com rigs da NYDIG",
-      "link": "https://br.tradingview.com/news/cointelegraph:bf6e57d2ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-28T21:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Incêndio atinge a instalação de mineração da Greenidge que compartilha operações com rigs da NYDIG\" data-qa-id=\"news-headline-title\">Incêndio atinge a instalação de mineração da Greenidge que compartilha operações com rigs da NYDIG</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:690efabb3bc81:0",
-      "index": 13,
-      "title": "Bolsa Mercantil de Chicago interrompe negociações e provoca indignação pública",
-      "link": "https://br.tradingview.com/news/cointelegraph:690efabb3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-11-28T21:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 28 Nov 2025 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de nov. de 2025, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bolsa Mercantil de Chicago interrompe negociações e provoca indignação pública\" data-qa-id=\"news-headline-title\">Bolsa Mercantil de Chicago interrompe negociações e provoca indignação pública</div></div></article>"
     }
   ]
 }
