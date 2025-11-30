@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-11-30T13:53:29.621Z",
+  "updated_at": "2025-11-30T14:18:00.663Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:23bba62bbbc81:0",
+      "id": "cointelegraph:04093f44fbc81:0",
       "index": 0,
+      "title": "1,75 milhão de tokens Hyperliquid foram desbloqueados, o preço foi afetado?",
+      "link": "https://br.tradingview.com/news/cointelegraph:04093f44fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-11-30T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 30 Nov 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de nov. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"1,75 milhão de tokens Hyperliquid foram desbloqueados, o preço foi afetado?\" data-qa-id=\"news-headline-title\">1,75 milhão de tokens Hyperliquid foram desbloqueados, o preço foi afetado?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:23bba62bbbc81:0",
+      "index": 1,
       "title": "A correlação entre o Bitcoin e o mercado de baixa em 2022 atinge 98%, com ETFs adicionando US$ 220 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:23bba62bbbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:448b58cf4bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "O ETH pode recuperar US$ 3,2 mil em breve, devido aos baixos rendimentos das stablecoins, diz Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:448b58cf4bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:20440b8f0bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Strategy confirma que pode vender seus Bitcoin como 'último recurso' em caso de qued no valor patrimonial líquido (mNAV)",
       "link": "https://br.tradingview.com/news/cointelegraph:20440b8f0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:dfd8f7109bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Executivo da BlackRock afirma que é \"perfeitamente normal\" o fluxo de saída de US$ 2,3 bilhões da IBIT em novembro",
       "link": "https://br.tradingview.com/news/cointelegraph:dfd8f7109bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:27143b6bfbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Governo Lula conversou com exchanges sobre Brasil adotar Reserva estratégica de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:27143b6bfbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:7451e1ea1bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin forma fundo de curto prazo, alta de US$ 100 mil pela frente?",
       "link": "https://br.tradingview.com/news/cointelegraph:7451e1ea1bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d6b62d453bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETFs de Bitcoin interrompem sequência de quatro semanas de saídas",
       "link": "https://br.tradingview.com/news/cointelegraph:d6b62d453bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:248035316bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "'Não basta ETFs de Bitcoin, precisamos de derivativos, empréstimos e uso em garantia e isso está avançando', revela B3",
       "link": "https://br.tradingview.com/news/cointelegraph:248035316bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b99891b3ebc81:0",
-      "index": 8,
+      "index": 9,
       "title": "'ETFs de Bitcoin são nossa maior fonte de receita', revela BlackRock",
       "link": "https://br.tradingview.com/news/cointelegraph:b99891b3ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:2c71ea1c1bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Fintech brasileira Nomad conversa com a Ripple e pode integrar stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:2c71ea1c1bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:550ee8863bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bancos vão dominar o mercado de stablecoins e 'roubar' usuários das exchanges, carteiras e fintechs",
       "link": "https://br.tradingview.com/news/cointelegraph:550ee8863bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1aae179dbbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Reino Unido segue Brasil e amplia regras de declaração de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:1aae179dbbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:097fff60cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Coinbase vai pedir para Fernando Haddad rever impostos para stablecoins e criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:097fff60cbc81:0/",
       "source": "Cointelegraph",
