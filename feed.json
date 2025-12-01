@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-01T19:54:50.905Z",
+  "updated_at": "2025-12-01T20:20:51.405Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:db7ab4801bc81:0",
+      "id": "cointelegraph:2513fe2ecbc81:0",
       "index": 0,
+      "title": "Coreia do Sul pressiona por proposta de projeto de lei sobre stablecoins até 10 de dezembro",
+      "link": "https://br.tradingview.com/news/cointelegraph:2513fe2ecbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-01T20:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 01 Dec 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de dez. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coreia do Sul pressiona por proposta de projeto de lei sobre stablecoins até 10 de dezembro\" data-qa-id=\"news-headline-title\">Coreia do Sul pressiona por proposta de projeto de lei sobre stablecoins até 10 de dezembro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:db7ab4801bc81:0",
+      "index": 1,
       "title": "Mercados de previsão apostam em Hassett, ligado à Coinbase, como principal indicação para o Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:db7ab4801bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fe93a7419bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Republicanos pedem ação sobre projeto de estrutura de mercado diante de alegações de desbancarização",
       "link": "https://br.tradingview.com/news/cointelegraph:fe93a7419bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:4a270eb86bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "ETPs de criptomoedas rompem queda de 4 semanas com US$ 1 bilhão em fluxos enquanto XRP tem sua melhor semana",
       "link": "https://br.tradingview.com/news/cointelegraph:4a270eb86bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:dfa006d27bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Strategy constrói reserva de caixa de US$ 1,44 bilhão em meio ao aumento do temor",
       "link": "https://br.tradingview.com/news/beincrypto:dfa006d27bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:26b7e26f0bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Análise de preço do BTC: Bitcoin pode cair mais 50%",
       "link": "https://br.tradingview.com/news/cointelegraph:26b7e26f0bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:06f21629cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Por que Vitalik acredita que a computação quântica pode quebrar a criptografia do Ethereum mais cedo do que o esperado",
       "link": "https://br.tradingview.com/news/cointelegraph:06f21629cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:17a6b1840bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do BTC cai abaixo de US$ 84 mil enquanto o Bitcoin enfrenta semana 'crucial' para a vela de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:17a6b1840bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3e7bdc28dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Mineradores de Bitcoin entram no 'ambiente de margem mais severo de todos os tempos'",
       "link": "https://br.tradingview.com/news/cointelegraph:3e7bdc28dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:65b374ac1bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "GENIUS transforma emissoras de stablecoins em compradoras silenciosas da dívida dos EUA?",
       "link": "https://br.tradingview.com/news/cointelegraph:65b374ac1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:353962c96bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "3 altcoins que podem gerar recorde de liquidações em dezembro",
       "link": "https://br.tradingview.com/news/beincrypto:353962c96bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f7cc9dc61bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin mantém efeitos de 10/10, mas US$ 100 mil ainda está em jogo, dizem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:f7cc9dc61bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f8c2edf5cbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Stablecoins remodelam câmbio no Brasil, avaliam especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:f8c2edf5cbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:eb14030bbbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Strategy cria reserva de US$ 1,4 bilhão e eleva participação em Bitcoin para 650.000 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:eb14030bbbc81:0/",
       "source": "Cointelegraph",
