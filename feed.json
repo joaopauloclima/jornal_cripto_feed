@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-02T19:29:36.552Z",
+  "updated_at": "2025-12-02T19:54:03.796Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c3ec3cfb6bc81:0",
+      "id": "cointelegraph:48e35795dbc81:0",
       "index": 0,
+      "title": "Rússia cogita flexibilizar regras de criptomoedas para amenizar o impacto das sanções ocidentais",
+      "link": "https://br.tradingview.com/news/cointelegraph:48e35795dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-02T19:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rússia cogita flexibilizar regras de criptomoedas para amenizar o impacto das sanções ocidentais\" data-qa-id=\"news-headline-title\">Rússia cogita flexibilizar regras de criptomoedas para amenizar o impacto das sanções ocidentais</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c3ec3cfb6bc81:0",
+      "index": 1,
       "title": "Análise de preço do Ethereum: o ETH vai continuar em queda em dezembro?",
       "link": "https://br.tradingview.com/news/cointelegraph:c3ec3cfb6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:0fa509e6fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Métrica de capitulação do Bitcoin atinge recorde histórico – o que isso significa?",
       "link": "https://br.tradingview.com/news/beincrypto:0fa509e6fbc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:090099ce3bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bank of America recomenda alocação de 1% a 4% em cripto e abre caminho para ETFs de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:090099ce3bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:2196dcd95bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Trust Wallet, de propriedade do CZ, estreia mercados de previsão com a Myriad",
       "link": "https://br.tradingview.com/news/cointelegraph:2196dcd95bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6d2a9b4cebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Atualização Fusaka do Ethereum: escala rollups sem comprometer o núcleo",
       "link": "https://br.tradingview.com/news/cointelegraph:6d2a9b4cebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:cd2ba7a2fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Ripple e grandes VCs apoiam a plataforma de RWA OpenEden na expansão de títulos do Tesouro tokenizados",
       "link": "https://br.tradingview.com/news/cointelegraph:cd2ba7a2fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d908d4dd8bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Estudo da Anthropic aponta que agentes de IA geraram US$ 4,6 milhões em bugs de contratos inteligentes",
       "link": "https://br.tradingview.com/news/cointelegraph:d908d4dd8bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:61fb246aabc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Mineradora de Bitcoin Canaan planeja plataforma de mineração com energia verde adaptativa",
       "link": "https://br.tradingview.com/news/cointelegraph:61fb246aabc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:ae79fab87bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "O que esperar do preço do XRP em dezembro de 2025?",
       "link": "https://br.tradingview.com/news/beincrypto:ae79fab87bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5bf298646bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Sinal verde aos hermanos: Mercado Pago libera Pix a turistas argentinos no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:5bf298646bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6d2d71f3ebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Métrica de valorização do Bitcoin projeta 96% de chance de recuperação do preço em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:6d2d71f3ebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:75dd3c601bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin deve romper o ciclo de quatro anos e alcançar novas máximas em 2026, diz Grayscale",
       "link": "https://br.tradingview.com/news/cointelegraph:75dd3c601bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:10ef5c883bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin luta para manter alvo de US$ 50 mil enquanto Fed injeta US$ 13,5 bilhões em liquidez overnight",
       "link": "https://br.tradingview.com/news/cointelegraph:10ef5c883bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin luta para manter alvo de US$ 50 mil enquanto Fed injeta US$ 13,5 bilhões em liquidez overnight\" data-qa-id=\"news-headline-title\">Bitcoin luta para manter alvo de US$ 50 mil enquanto Fed injeta US$ 13,5 bilhões em liquidez overnight</div></div></article>"
-    },
-    {
-      "id": "beincrypto:b191273fabc81:0",
-      "index": 13,
-      "title": "O que esperar do preço do Bitcoin em dezembro de 2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:b191273fabc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-02T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O que esperar do preço do Bitcoin em dezembro de 2025?\" data-qa-id=\"news-headline-title\">O que esperar do preço do Bitcoin em dezembro de 2025?</div></div></article>"
     }
   ]
 }
