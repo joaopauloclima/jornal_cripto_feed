@@ -1,10 +1,43 @@
 {
-  "updated_at": "2025-12-02T17:04:11.774Z",
+  "updated_at": "2025-12-02T17:32:17.792Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6d2d71f3ebc81:0",
+      "id": "cointelegraph:61fb246aabc81:0",
       "index": 0,
+      "title": "Mineradora de Bitcoin Canaan planeja plataforma de mineração com energia verde adaptativa",
+      "link": "https://br.tradingview.com/news/cointelegraph:61fb246aabc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-02T17:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mineradora de Bitcoin Canaan planeja plataforma de mineração com energia verde adaptativa\" data-qa-id=\"news-headline-title\">Mineradora de Bitcoin Canaan planeja plataforma de mineração com energia verde adaptativa</div></div></article>"
+    },
+    {
+      "id": "beincrypto:ae79fab87bc81:0",
+      "index": 1,
+      "title": "O que esperar do preço do XRP em dezembro de 2025?",
+      "link": "https://br.tradingview.com/news/beincrypto:ae79fab87bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-12-02T17:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O que esperar do preço do XRP em dezembro de 2025?\" data-qa-id=\"news-headline-title\">O que esperar do preço do XRP em dezembro de 2025?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5bf298646bc81:0",
+      "index": 2,
+      "title": "Sinal verde aos hermanos: Mercado Pago libera Pix a turistas argentinos no Brasil",
+      "link": "https://br.tradingview.com/news/cointelegraph:5bf298646bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-02T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Sinal verde aos hermanos: Mercado Pago libera Pix a turistas argentinos no Brasil\" data-qa-id=\"news-headline-title\">Sinal verde aos hermanos: Mercado Pago libera Pix a turistas argentinos no Brasil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6d2d71f3ebc81:0",
+      "index": 3,
       "title": "Métrica de valorização do Bitcoin projeta 96% de chance de recuperação do preço em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:6d2d71f3ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:75dd3c601bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Bitcoin deve romper o ciclo de quatro anos e alcançar novas máximas em 2026, diz Grayscale",
       "link": "https://br.tradingview.com/news/cointelegraph:75dd3c601bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:10ef5c883bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Bitcoin luta para manter alvo de US$ 50 mil enquanto Fed injeta US$ 13,5 bilhões em liquidez overnight",
       "link": "https://br.tradingview.com/news/cointelegraph:10ef5c883bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "beincrypto:b191273fabc81:0",
-      "index": 3,
+      "index": 6,
       "title": "O que esperar do preço do Bitcoin em dezembro de 2025?",
       "link": "https://br.tradingview.com/news/beincrypto:b191273fabc81:0/",
       "source": "Beincrypto",
@@ -48,7 +81,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3X80MJ:0",
-      "index": 4,
+      "index": 7,
       "title": "Ações ligadas ao setor de criptomoedas disparam com a valorização do bitcoin e do ethereum.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3X80MJ:0/",
       "source": "Reuters",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:65102db9abc81:0",
-      "index": 5,
+      "index": 8,
       "title": "‘IA anuncia era de crescente desigualdade entre os países’, alerta ONU",
       "link": "https://br.tradingview.com/news/cointelegraph:65102db9abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:27b7910acbc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Bandas de Bollinger sugerem que fundo do Bitcoin não será abaixo de US$ 55 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:27b7910acbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:73c363342bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "BitMine compra US$ 70 milhões em ETH enquanto Tom Lee revisa previsão para o Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:73c363342bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5b3f822c2bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Desenvolvedores da Ethereum trabalham em protocolo 'Amigo Secreto' para impulsionar a privacidade",
       "link": "https://br.tradingview.com/news/cointelegraph:5b3f822c2bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:622465cb7bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Baleias ignoram ‘Bitcoin a US$ 80 mil’ e compram o mergulho do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:622465cb7bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:9b8f63aeabc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Carteira da ICO da Ethereum movimenta US$ 120 milhões após uma década e coloca tudo em staking",
       "link": "https://br.tradingview.com/news/cointelegraph:9b8f63aeabc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Carteira da ICO da Ethereum movimenta US$ 120 milhões após uma década e coloca tudo em staking\" data-qa-id=\"news-headline-title\">Carteira da ICO da Ethereum movimenta US$ 120 milhões após uma década e coloca tudo em staking</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:60d1ece6ebc81:0",
-      "index": 11,
-      "title": "YZi Labs, de CZ, move-se para assumir o controle do conselho da tesouraria de BNB em crise",
-      "link": "https://br.tradingview.com/news/cointelegraph:60d1ece6ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-02T13:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"YZi Labs, de CZ, move-se para assumir o controle do conselho da tesouraria de BNB em crise\" data-qa-id=\"news-headline-title\">YZi Labs, de CZ, move-se para assumir o controle do conselho da tesouraria de BNB em crise</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:01e35f449bc81:0",
-      "index": 12,
-      "title": "Mais de 50 milhões de clientes da Vanguard terão acesso a ETFs de criptomoedas em breve",
-      "link": "https://br.tradingview.com/news/cointelegraph:01e35f449bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-02T13:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mais de 50 milhões de clientes da Vanguard terão acesso a ETFs de criptomoedas em breve\" data-qa-id=\"news-headline-title\">Mais de 50 milhões de clientes da Vanguard terão acesso a ETFs de criptomoedas em breve</div></div></article>"
-    },
-    {
-      "id": "beincrypto:7682cf550bc81:0",
-      "index": 13,
-      "title": "ETF de Chainlink perto de estrear e pressão cresce: LINK pode enfim reverter a queda?",
-      "link": "https://br.tradingview.com/news/beincrypto:7682cf550bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-02T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETF de Chainlink perto de estrear e pressão cresce: LINK pode enfim reverter a queda?\" data-qa-id=\"news-headline-title\">ETF de Chainlink perto de estrear e pressão cresce: LINK pode enfim reverter a queda?</div></div></article>"
     }
   ]
 }
