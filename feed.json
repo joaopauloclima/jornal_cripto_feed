@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-03T17:56:54.678Z",
+  "updated_at": "2025-12-03T18:29:20.267Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6ab921b8ebc81:0",
+      "id": "cointelegraph:473a1a59fbc81:0",
       "index": 0,
+      "title": "Bitcoin agora processa volumes na escala da Visa, mas a maior parte é para uso institucional, não para comprar café",
+      "link": "https://br.tradingview.com/news/cointelegraph:473a1a59fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-03T18:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Dec 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de dez. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin agora processa volumes na escala da Visa, mas a maior parte é para uso institucional, não para comprar café\" data-qa-id=\"news-headline-title\">Bitcoin agora processa volumes na escala da Visa, mas a maior parte é para uso institucional, não para comprar café</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6ab921b8ebc81:0",
+      "index": 1,
       "title": "Further e 3iQ lançam fundo de US$ 100 milhões que compõe retornos em Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:6ab921b8ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:678fd881abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bandas de Bollinger do Bitcoin repetem o sinal 'parabólico' de alta visto no final de 2023",
       "link": "https://br.tradingview.com/news/cointelegraph:678fd881abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3a5a38f4cbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "10 criptomoedas em alta de até 125% para ficar de olho",
       "link": "https://br.tradingview.com/news/cointelegraph:3a5a38f4cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d5be12cc3bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Nubank pretende virar banco para se adequar às novas regras do BC e evitar mudança de nome",
       "link": "https://br.tradingview.com/news/cointelegraph:d5be12cc3bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d13915590bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Gensler separa o Bitcoin do restante e chama a maioria das criptomoedas de 'altamente especulativas'",
       "link": "https://br.tradingview.com/news/cointelegraph:d13915590bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d1704e409bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin adiciona US$ 732 bilhões em novo capital neste ciclo à medida que a estrutura de mercado se transforma",
       "link": "https://br.tradingview.com/news/cointelegraph:d1704e409bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:999065434bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Traders de Bitcoin enfrentam pico de dor não realizada enquanto ETFs começam a se recuperar",
       "link": "https://br.tradingview.com/news/cointelegraph:999065434bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5650de729bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Liquidações diárias de cripto quase triplicam com alavancagem em alta, diz Glassnode",
       "link": "https://br.tradingview.com/news/cointelegraph:5650de729bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:0b87934ccbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "USDe da Ethena encolhe 24% em novembro enquanto stablecoins lastreadas em dólar expandem",
       "link": "https://br.tradingview.com/news/cointelegraph:0b87934ccbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:47ee99174bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Rio anuncia edital para startups com soluções em IA para indústria",
       "link": "https://br.tradingview.com/news/cointelegraph:47ee99174bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e5e61fb0fbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Binance nomeia cofundadora Yi He como co-CEO ao lado de Richard Teng",
       "link": "https://br.tradingview.com/news/cointelegraph:e5e61fb0fbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3X90NW:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin norte-americano se estabiliza após fim de bloqueio de ações provocar queda de quase 40%",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3X90NW:0/",
       "source": "Reuters",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:7662feae6bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Tesourarias cripto lideram recuperação das ações após início instável de dezembro",
       "link": "https://br.tradingview.com/news/cointelegraph:7662feae6bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Dec 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de dez. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tesourarias cripto lideram recuperação das ações após início instável de dezembro\" data-qa-id=\"news-headline-title\">Tesourarias cripto lideram recuperação das ações após início instável de dezembro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9e6477571bc81:0",
-      "index": 13,
-      "title": "Bitcoin dispara para US$ 93 mil após flush de domingo, enquanto analistas miram US$ 100 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:9e6477571bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-03T14:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Dec 2025 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de dez. de 2025, 14:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin dispara para US$ 93 mil após flush de domingo, enquanto analistas miram US$ 100 mil\" data-qa-id=\"news-headline-title\">Bitcoin dispara para US$ 93 mil após flush de domingo, enquanto analistas miram US$ 100 mil</div></div></article>"
     }
   ]
 }
