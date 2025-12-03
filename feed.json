@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-03T07:02:55.224Z",
+  "updated_at": "2025-12-03T07:28:14.186Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e60f4493bbc81:0",
+      "id": "tag:reuters.com,2025:newsml_L1N3X906C:0",
       "index": 0,
+      "title": "Cofundadora da Binance, Yi He, junta-se a Richard Teng em uma estrutura de liderança dupla",
+      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3X906C:0/",
+      "source": "Reuters",
+      "published_at": "2025-12-03T06:42:48.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 03 Dec 2025 06:42:48 GMT\" class=\"apply-common-tooltip\" title=\"3 de dez. de 2025, 06:42 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Cofundadora da Binance, Yi He, junta-se a Richard Teng em uma estrutura de liderança dupla\" data-qa-id=\"news-headline-title\">Cofundadora da Binance, Yi He, junta-se a Richard Teng em uma estrutura de liderança dupla</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e60f4493bbc81:0",
+      "index": 1,
       "title": "97% dos bancos centrais rejeitam Bitcoin em reservas soberanas, mas veem potencial na tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:e60f4493bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:18a2dd37dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Queda acabou? Sinal raro volta e indica alta de 132%",
       "link": "https://br.tradingview.com/news/cointelegraph:18a2dd37dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e5a0ee467bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Análise objetiva do plano da Strategy para o Bitcoin e o que pode influenciar as vendas futuras",
       "link": "https://br.tradingview.com/news/cointelegraph:e5a0ee467bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:638ea1505bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ações da American Bitcoin despencam 50% à medida que o proxy do Bitcoin se desfaz",
       "link": "https://br.tradingview.com/news/cointelegraph:638ea1505bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:7d2a434a5bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Notícias Cripto: duas frentes de tokenização, parcerias, stablecoins e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:7d2a434a5bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9de8bc1ddbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Apesar da incerteza no preço do Bitcoin, instalações de apps cripto crescem 90%",
       "link": "https://br.tradingview.com/news/cointelegraph:9de8bc1ddbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4ec6d2fa5bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Unlimit entra na disputa por infraestrutura de stablecoins com câmara de compensação descentralizada",
       "link": "https://br.tradingview.com/news/cointelegraph:4ec6d2fa5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9914fa0ebbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Atkins diz que a SEC tem 'autoridade suficiente' para avançar com as regras de cripto em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:9914fa0ebbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:5888f453bbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Criptoativos invadem a B3 com 35 produtos que já movimentam mais de R$ 100 bilhões mensais",
       "link": "https://br.tradingview.com/news/cointelegraph:5888f453bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ce68f08f0bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Entradas em ETFs de XRP superam US$ 756 milhões enquanto divergência de alta sugere reversão de tendência",
       "link": "https://br.tradingview.com/news/cointelegraph:ce68f08f0bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:44ddd3fe8bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Ciclo famoso de 4 anos do Bitcoin está se rompendo",
       "link": "https://br.tradingview.com/news/beincrypto:44ddd3fe8bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e451bce71bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Variante 'mais confiável' do RSI do Bitcoin atinge a zona de fundo do mercado de baixa em US$ 87 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:e451bce71bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:48e35795dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Rússia cogita flexibilizar regras de criptomoedas para amenizar o impacto das sanções ocidentais",
       "link": "https://br.tradingview.com/news/cointelegraph:48e35795dbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rússia cogita flexibilizar regras de criptomoedas para amenizar o impacto das sanções ocidentais\" data-qa-id=\"news-headline-title\">Rússia cogita flexibilizar regras de criptomoedas para amenizar o impacto das sanções ocidentais</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c3ec3cfb6bc81:0",
-      "index": 13,
-      "title": "Análise de preço do Ethereum: o ETH vai continuar em queda em dezembro?",
-      "link": "https://br.tradingview.com/news/cointelegraph:c3ec3cfb6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-02T19:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 02 Dec 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de dez. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preço do Ethereum: o ETH vai continuar em queda em dezembro?\" data-qa-id=\"news-headline-title\">Análise de preço do Ethereum: o ETH vai continuar em queda em dezembro?</div></div></article>"
     }
   ]
 }
