@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-04T22:18:03.185Z",
+  "updated_at": "2025-12-04T22:54:21.494Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:30549fcd5bc81:0",
+      "id": "cointelegraph:6b4eecabfbc81:0",
       "index": 0,
+      "title": "O colapso das stablecoins: como o crash de outubro expôs a fragilidade do mercado cripto e levou a queda atual",
+      "link": "https://br.tradingview.com/news/cointelegraph:6b4eecabfbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-04T22:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 22:40:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 22:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O colapso das stablecoins: como o crash de outubro expôs a fragilidade do mercado cripto e levou a queda atual\" data-qa-id=\"news-headline-title\">O colapso das stablecoins: como o crash de outubro expôs a fragilidade do mercado cripto e levou a queda atual</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c03779724bc81:0",
+      "index": 1,
+      "title": "Ação de preço do Bitcoin e sentimento dos investidores apontam para dezembro de alta",
+      "link": "https://br.tradingview.com/news/cointelegraph:c03779724bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-04T22:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 22:20:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 22:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ação de preço do Bitcoin e sentimento dos investidores apontam para dezembro de alta\" data-qa-id=\"news-headline-title\">Ação de preço do Bitcoin e sentimento dos investidores apontam para dezembro de alta</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:30549fcd5bc81:0",
+      "index": 2,
       "title": "Twenty One Capital planeja estreia na terça-feira após fusão com a Cantor Equity Partners",
       "link": "https://br.tradingview.com/news/cointelegraph:30549fcd5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:cd940c831bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Web2 e Web 3 juntas: Bitget Wallet é a primeira carteira descentralizada a integrar login via Google e Apple",
       "link": "https://br.tradingview.com/news/cointelegraph:cd940c831bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:2d505d70cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "FMI apresenta diretrizes para lidar com riscos das stablecoins além das regulamentações",
       "link": "https://br.tradingview.com/news/cointelegraph:2d505d70cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4579fd6d8bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Carteiras cripto sem frase-semente podem impulsionar a autocustódia em massa? Especialista opina",
       "link": "https://br.tradingview.com/news/cointelegraph:4579fd6d8bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:295200c73bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ripple injeta US$ 4 bilhões e acelera disputa pela infraestrutura global de pagamentos",
       "link": "https://br.tradingview.com/news/beincrypto:295200c73bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0a999c2cbbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Solmate vai além do modelo de tesouraria do Sol com a aquisição da RockawayX",
       "link": "https://br.tradingview.com/news/cointelegraph:0a999c2cbbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a8455d60abc81:0",
-      "index": 6,
+      "index": 8,
       "title": "CFTC autoriza negociação spot de criptomoedas em exchanges dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:a8455d60abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:8dbc4a96bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin recua em US$ 93,5 mil enquanto apostas em cortes de juros do Fed encontram um 'forte' caso de baixa",
       "link": "https://br.tradingview.com/news/cointelegraph:8dbc4a96bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:ac30d934bbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Tom Lee dispara compras de ETH e aciona alerta de alta de 55% nas ações da BMNR",
       "link": "https://br.tradingview.com/news/beincrypto:ac30d934bbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:de5ad3bedbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Site da memecoin Pepe é explorado e redireciona usuários para malware, diz Blockaid",
       "link": "https://br.tradingview.com/news/cointelegraph:de5ad3bedbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a89be1c53bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Gigante estatal argentina de energia avalia aceitar pagamentos em cripto por combustível, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:a89be1c53bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:caef3739abc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin está cada vez mais parecido com 2022: como o preço do BTC pode evitar US$ 68 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:caef3739abc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin está cada vez mais parecido com 2022: como o preço do BTC pode evitar US$ 68 mil\" data-qa-id=\"news-headline-title\">Bitcoin está cada vez mais parecido com 2022: como o preço do BTC pode evitar US$ 68 mil</div></div></article>"
-    },
-    {
-      "id": "beincrypto:0fedc36babc81:0",
-      "index": 12,
-      "title": "CEO da Ripple prevê preço do Bitcoin a US$ 180 mil e revela data-chave",
-      "link": "https://br.tradingview.com/news/beincrypto:0fedc36babc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-04T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da Ripple prevê preço do Bitcoin a US$ 180 mil e revela data-chave\" data-qa-id=\"news-headline-title\">CEO da Ripple prevê preço do Bitcoin a US$ 180 mil e revela data-chave</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:000d0ab1ebc81:0",
-      "index": 13,
-      "title": "Plano da UE aumenta poderes da ESMA sobre cripto e mercados de capitais",
-      "link": "https://br.tradingview.com/news/cointelegraph:000d0ab1ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-04T18:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Plano da UE aumenta poderes da ESMA sobre cripto e mercados de capitais\" data-qa-id=\"news-headline-title\">Plano da UE aumenta poderes da ESMA sobre cripto e mercados de capitais</div></div></article>"
     }
   ]
 }
