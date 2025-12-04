@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-04T14:59:55.552Z",
+  "updated_at": "2025-12-04T15:22:37.214Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:977bc4471bc81:0",
+      "id": "cointelegraph:664ef953abc81:0",
       "index": 0,
+      "title": "YZi de CZ aumenta aposta em mercados de previsão enquanto Opinion conquista 40% do setor",
+      "link": "https://br.tradingview.com/news/cointelegraph:664ef953abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-04T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"YZi de CZ aumenta aposta em mercados de previsão enquanto Opinion conquista 40% do setor\" data-qa-id=\"news-headline-title\">YZi de CZ aumenta aposta em mercados de previsão enquanto Opinion conquista 40% do setor</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:977bc4471bc81:0",
+      "index": 1,
       "title": "Instituto de Políticas do Bitcoin pede perdão para a Samourai enquanto petição ultrapassa 3.200 assinaturas",
       "link": "https://br.tradingview.com/news/cointelegraph:977bc4471bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:68b0b9182bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Citadel causa revolta ao pedir que a SEC regule ações tokenizadas em DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:68b0b9182bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d174635a3bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin pode ter 'repique de alívio' conforme surgem sinais de estabilização, dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:d174635a3bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:8c3b0c27fbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Uma métrica otimista do XRP atinge máxima de 3 meses: por que o preço não dispara?",
       "link": "https://br.tradingview.com/news/beincrypto:8c3b0c27fbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:dac55c65cbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Compras de Bitcoin da Strategy desabam, empresa se prepara para mercado de baixa, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:dac55c65cbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d705f7f43bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin a US$ 100 mil pode catapultar o Ethereum, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:d705f7f43bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bf206d116bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Criptomoedas se recuperam, mas dados macro fracos dos EUA e incerteza em IA ameaçam recuperação",
       "link": "https://br.tradingview.com/news/cointelegraph:bf206d116bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:b6220c426bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Larry Fink, da BlackRock, chama o Bitcoin de 'ativo do medo' e suaviza postura sobre cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:b6220c426bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:4afdb4a43bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "XRP enfrenta momento de 'agora ou nunca' enquanto traders miram rali até US$ 2,50",
       "link": "https://br.tradingview.com/news/cointelegraph:4afdb4a43bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:5874551eebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Por que o mercado de criptomoedas está em alta hoje 04/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:5874551eebc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f540e8cd7bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin mantém suporte de US$ 93 mil e criptomoedas sobem até 50%",
       "link": "https://br.tradingview.com/news/cointelegraph:f540e8cd7bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f6b397683bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Preço do Bitcoin hoje, 04/12/2025: BTC luta para manter US$ 90 mil e iniciar recuperação",
       "link": "https://br.tradingview.com/news/cointelegraph:f6b397683bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:eb51e93cabc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Muitas empresas cripto vão falir ou fundir: Banco Central lança calculadora de capital mínimo para exchanges de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:eb51e93cabc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 00:38:45 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 00:38 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Muitas empresas cripto vão falir ou fundir: Banco Central lança calculadora de capital mínimo para exchanges de criptomoedas\" data-qa-id=\"news-headline-title\">Muitas empresas cripto vão falir ou fundir: Banco Central lança calculadora de capital mínimo para exchanges de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:baa373375bc81:0",
-      "index": 13,
-      "title": "Bitcoin fará os homens mais ricos da história, pois Saylor está fazendo para o BTC o que Rockefeller fez com o petróleo",
-      "link": "https://br.tradingview.com/news/cointelegraph:baa373375bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-04T00:22:55.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 00:22:55 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 00:22 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin fará os homens mais ricos da história, pois Saylor está fazendo para o BTC o que Rockefeller fez com o petróleo\" data-qa-id=\"news-headline-title\">Bitcoin fará os homens mais ricos da história, pois Saylor está fazendo para o BTC o que Rockefeller fez com o petróleo</div></div></article>"
     }
   ]
 }
