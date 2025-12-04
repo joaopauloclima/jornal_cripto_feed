@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-04T19:26:32.705Z",
+  "updated_at": "2025-12-04T19:53:04.443Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:a89be1c53bc81:0",
+      "id": "cointelegraph:de5ad3bedbc81:0",
       "index": 0,
+      "title": "Site da memecoin Pepe é explorado e redireciona usuários para malware, diz Blockaid",
+      "link": "https://br.tradingview.com/news/cointelegraph:de5ad3bedbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-04T19:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCPEPE.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCPEPE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Site da memecoin Pepe é explorado e redireciona usuários para malware, diz Blockaid\" data-qa-id=\"news-headline-title\">Site da memecoin Pepe é explorado e redireciona usuários para malware, diz Blockaid</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:a89be1c53bc81:0",
+      "index": 1,
       "title": "Gigante estatal argentina de energia avalia aceitar pagamentos em cripto por combustível, segundo reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:a89be1c53bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:caef3739abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin está cada vez mais parecido com 2022: como o preço do BTC pode evitar US$ 68 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:caef3739abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:000d0ab1ebc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Plano da UE aumenta poderes da ESMA sobre cripto e mercados de capitais",
       "link": "https://br.tradingview.com/news/cointelegraph:000d0ab1ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b39d6aea8bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Estado norte-americano ordena que Robinhood, Crypto.com, Kalshi interrompam mercados de previsão",
       "link": "https://br.tradingview.com/news/cointelegraph:b39d6aea8bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:5d38e1e19bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ledger diz que chip usado em telefones Solana é vulnerável a ataque",
       "link": "https://br.tradingview.com/news/cointelegraph:5d38e1e19bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:77cb44212bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Deutsche Börse junta-se à Kraken em ambiciosa iniciativa para unificar mercados digitais",
       "link": "https://br.tradingview.com/news/cointelegraph:77cb44212bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b7f2005e4bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Investidor cripto faz doação recorde de US$ 12M para Reform UK em eleição",
       "link": "https://br.tradingview.com/news/cointelegraph:b7f2005e4bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:77bfd5409bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Peter Schiff para CZ: ‘Pagamentos em Bitcoin? São apenas apostas liquidadas’",
       "link": "https://br.tradingview.com/news/beincrypto:77bfd5409bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:25eaf194cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "3 criptomoedas miram até 350%: ‘você vai se arrepender de não ter comprado’",
       "link": "https://br.tradingview.com/news/cointelegraph:25eaf194cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c1f12df34bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Preço do XRP começa a mostrar potencial acima de US$ 2,15: veja por quê",
       "link": "https://br.tradingview.com/news/cointelegraph:c1f12df34bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4d527f80cbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Padrão técnico 'unicórnio' da Strategy coloca alta de 50% nas ações da MSTR em jogo",
       "link": "https://br.tradingview.com/news/cointelegraph:4d527f80cbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e954fe2a5bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Embraer anuncia parceria de IA com o Google e lança ferramenta de análise baseada na tecnologia",
       "link": "https://br.tradingview.com/news/cointelegraph:e954fe2a5bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Embraer anuncia parceria de IA com o Google e lança ferramenta de análise baseada na tecnologia\" data-qa-id=\"news-headline-title\">Embraer anuncia parceria de IA com o Google e lança ferramenta de análise baseada na tecnologia</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c36cdbdc0bc81:0",
-      "index": 12,
-      "title": "ETF de Chainlink da Grayscale estreia com US$ 41 milhões, mas não é um 'fenômeno'",
-      "link": "https://br.tradingview.com/news/cointelegraph:c36cdbdc0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-04T15:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETF de Chainlink da Grayscale estreia com US$ 41 milhões, mas não é um 'fenômeno'\" data-qa-id=\"news-headline-title\">ETF de Chainlink da Grayscale estreia com US$ 41 milhões, mas não é um 'fenômeno'</div></div></article>"
     }
   ]
 }
