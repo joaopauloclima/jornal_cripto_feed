@@ -1,10 +1,43 @@
 {
-  "updated_at": "2025-12-04T17:56:54.590Z",
+  "updated_at": "2025-12-04T19:03:39.027Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:77cb44212bc81:0",
+      "id": "cointelegraph:000d0ab1ebc81:0",
       "index": 0,
+      "title": "Plano da UE aumenta poderes da ESMA sobre cripto e mercados de capitais",
+      "link": "https://br.tradingview.com/news/cointelegraph:000d0ab1ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-04T18:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Plano da UE aumenta poderes da ESMA sobre cripto e mercados de capitais\" data-qa-id=\"news-headline-title\">Plano da UE aumenta poderes da ESMA sobre cripto e mercados de capitais</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b39d6aea8bc81:0",
+      "index": 1,
+      "title": "Estado norte-americano ordena que Robinhood, Crypto.com, Kalshi interrompam mercados de previsão",
+      "link": "https://br.tradingview.com/news/cointelegraph:b39d6aea8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-04T18:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Estado norte-americano ordena que Robinhood, Crypto.com, Kalshi interrompam mercados de previsão\" data-qa-id=\"news-headline-title\">Estado norte-americano ordena que Robinhood, Crypto.com, Kalshi interrompam mercados de previsão</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5d38e1e19bc81:0",
+      "index": 2,
+      "title": "Ledger diz que chip usado em telefones Solana é vulnerável a ataque",
+      "link": "https://br.tradingview.com/news/cointelegraph:5d38e1e19bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-04T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ledger diz que chip usado em telefones Solana é vulnerável a ataque\" data-qa-id=\"news-headline-title\">Ledger diz que chip usado em telefones Solana é vulnerável a ataque</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:77cb44212bc81:0",
+      "index": 3,
       "title": "Deutsche Börse junta-se à Kraken em ambiciosa iniciativa para unificar mercados digitais",
       "link": "https://br.tradingview.com/news/cointelegraph:77cb44212bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b7f2005e4bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Investidor cripto faz doação recorde de US$ 12M para Reform UK em eleição",
       "link": "https://br.tradingview.com/news/cointelegraph:b7f2005e4bc81:0/",
       "source": "Cointelegraph",
@@ -25,8 +58,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Investidor cripto faz doação recorde de US$ 12M para Reform UK em eleição\" data-qa-id=\"news-headline-title\">Investidor cripto faz doação recorde de US$ 12M para Reform UK em eleição</div></div></article>"
     },
     {
+      "id": "beincrypto:77bfd5409bc81:0",
+      "index": 5,
+      "title": "Peter Schiff para CZ: ‘Pagamentos em Bitcoin? São apenas apostas liquidadas’",
+      "link": "https://br.tradingview.com/news/beincrypto:77bfd5409bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-12-04T17:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Peter Schiff para CZ: ‘Pagamentos em Bitcoin? São apenas apostas liquidadas’\" data-qa-id=\"news-headline-title\">Peter Schiff para CZ: ‘Pagamentos em Bitcoin? São apenas apostas liquidadas’</div></div></article>"
+    },
+    {
       "id": "cointelegraph:25eaf194cbc81:0",
-      "index": 2,
+      "index": 6,
       "title": "3 criptomoedas miram até 350%: ‘você vai se arrepender de não ter comprado’",
       "link": "https://br.tradingview.com/news/cointelegraph:25eaf194cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c1f12df34bc81:0",
-      "index": 3,
+      "index": 7,
       "title": "Preço do XRP começa a mostrar potencial acima de US$ 2,15: veja por quê",
       "link": "https://br.tradingview.com/news/cointelegraph:c1f12df34bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +92,7 @@
     },
     {
       "id": "cointelegraph:4d527f80cbc81:0",
-      "index": 4,
+      "index": 8,
       "title": "Padrão técnico 'unicórnio' da Strategy coloca alta de 50% nas ações da MSTR em jogo",
       "link": "https://br.tradingview.com/news/cointelegraph:4d527f80cbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e954fe2a5bc81:0",
-      "index": 5,
+      "index": 9,
       "title": "Embraer anuncia parceria de IA com o Google e lança ferramenta de análise baseada na tecnologia",
       "link": "https://br.tradingview.com/news/cointelegraph:e954fe2a5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c36cdbdc0bc81:0",
-      "index": 6,
+      "index": 10,
       "title": "ETF de Chainlink da Grayscale estreia com US$ 41 milhões, mas não é um 'fenômeno'",
       "link": "https://br.tradingview.com/news/cointelegraph:c36cdbdc0bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +125,7 @@
     },
     {
       "id": "beincrypto:7de525cc6bc81:0",
-      "index": 7,
+      "index": 11,
       "title": "Bitcoin tenta romper padrão, mas grupo pode impedir rali de 15%",
       "link": "https://br.tradingview.com/news/beincrypto:7de525cc6bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +136,7 @@
     },
     {
       "id": "cointelegraph:664ef953abc81:0",
-      "index": 8,
+      "index": 12,
       "title": "YZi de CZ aumenta aposta em mercados de previsão enquanto Opinion conquista 40% do setor",
       "link": "https://br.tradingview.com/news/cointelegraph:664ef953abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +147,7 @@
     },
     {
       "id": "cointelegraph:977bc4471bc81:0",
-      "index": 9,
+      "index": 13,
       "title": "Instituto de Políticas do Bitcoin pede perdão para a Samourai enquanto petição ultrapassa 3.200 assinaturas",
       "link": "https://br.tradingview.com/news/cointelegraph:977bc4471bc81:0/",
       "source": "Cointelegraph",
@@ -111,50 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Instituto de Políticas do Bitcoin pede perdão para a Samourai enquanto petição ultrapassa 3.200 assinaturas\" data-qa-id=\"news-headline-title\">Instituto de Políticas do Bitcoin pede perdão para a Samourai enquanto petição ultrapassa 3.200 assinaturas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:68b0b9182bc81:0",
-      "index": 10,
-      "title": "Citadel causa revolta ao pedir que a SEC regule ações tokenizadas em DeFi",
-      "link": "https://br.tradingview.com/news/cointelegraph:68b0b9182bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-04T14:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Citadel causa revolta ao pedir que a SEC regule ações tokenizadas em DeFi\" data-qa-id=\"news-headline-title\">Citadel causa revolta ao pedir que a SEC regule ações tokenizadas em DeFi</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d174635a3bc81:0",
-      "index": 11,
-      "title": "Bitcoin pode ter 'repique de alívio' conforme surgem sinais de estabilização, dizem analistas",
-      "link": "https://br.tradingview.com/news/cointelegraph:d174635a3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-04T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode ter 'repique de alívio' conforme surgem sinais de estabilização, dizem analistas\" data-qa-id=\"news-headline-title\">Bitcoin pode ter 'repique de alívio' conforme surgem sinais de estabilização, dizem analistas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:8c3b0c27fbc81:0",
-      "index": 12,
-      "title": "Uma métrica otimista do XRP atinge máxima de 3 meses: por que o preço não dispara?",
-      "link": "https://br.tradingview.com/news/beincrypto:8c3b0c27fbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-04T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Uma métrica otimista do XRP atinge máxima de 3 meses: por que o preço não dispara?\" data-qa-id=\"news-headline-title\">Uma métrica otimista do XRP atinge máxima de 3 meses: por que o preço não dispara?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:dac55c65cbc81:0",
-      "index": 13,
-      "title": "Compras de Bitcoin da Strategy desabam, empresa se prepara para mercado de baixa, diz analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:dac55c65cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-04T13:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 04 Dec 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de dez. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Compras de Bitcoin da Strategy desabam, empresa se prepara para mercado de baixa, diz analista\" data-qa-id=\"news-headline-title\">Compras de Bitcoin da Strategy desabam, empresa se prepara para mercado de baixa, diz analista</div></div></article>"
     }
   ]
 }
