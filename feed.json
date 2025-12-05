@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-05T16:24:46.748Z",
+  "updated_at": "2025-12-05T17:00:31.219Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3c002fabfbc81:0",
+      "id": "cointelegraph:81dd48a28bc81:0",
       "index": 0,
+      "title": "'Momentum' do Bitcoin está se acendendo — mas estes são os níveis de preço do BTC a observar",
+      "link": "https://br.tradingview.com/news/cointelegraph:81dd48a28bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-05T16:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Momentum' do Bitcoin está se acendendo — mas estes são os níveis de preço do BTC a observar\" data-qa-id=\"news-headline-title\">'Momentum' do Bitcoin está se acendendo — mas estes são os níveis de preço do BTC a observar</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:63e2829a9bc81:0",
+      "index": 1,
+      "title": "Ether vs. Bitcoin aponta ganhos de 170% à medida que preço do ETH rompe tendência de baixa de 5 meses",
+      "link": "https://br.tradingview.com/news/cointelegraph:63e2829a9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-05T16:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ether vs. Bitcoin aponta ganhos de 170% à medida que preço do ETH rompe tendência de baixa de 5 meses\" data-qa-id=\"news-headline-title\">Ether vs. Bitcoin aponta ganhos de 170% à medida que preço do ETH rompe tendência de baixa de 5 meses</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3c002fabfbc81:0",
+      "index": 2,
       "title": "Cantor reduz preço-alvo da Strategy em 60%, mas diz que temores de venda forçada são exagerados",
       "link": "https://br.tradingview.com/news/cointelegraph:3c002fabfbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:fdd30354fbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin dificilmente repetirá a alta de janeiro, diz fundadora da 21Shares",
       "link": "https://br.tradingview.com/news/cointelegraph:fdd30354fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:1a0c7bb66bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Sentimento sobre XRP despenca — e isso pode preparar o terreno para uma alta, diz Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:1a0c7bb66bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:318b5adfabc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Mergulho em 2026 pode levar o Bitcoin a US$ 60 mil, sugerem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:318b5adfabc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9503335abbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Solana e Base da Coinbase se conectam usando Chainlink",
       "link": "https://br.tradingview.com/news/cointelegraph:9503335abbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e12ab2fe3bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Preço do SOL fica limitado a US$ 140 enquanto ETFs rivais de altcoins remodelam a demanda por cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:e12ab2fe3bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:211772120bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Ações da Meta sobem após relatório sobre possível corte de 30% no orçamento do metaverso",
       "link": "https://br.tradingview.com/news/cointelegraph:211772120bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:de869e8ffbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Almaviva abre vagas de emprego e de trainee, Ufal e Uece lançam cursos de IA grátis",
       "link": "https://br.tradingview.com/news/cointelegraph:de869e8ffbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:6c55d06b5bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Strategy não será forçada a vender Bitcoin se as ações caírem, diz CIO da Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:6c55d06b5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6cf5f67b2bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "CNBC fecha parceria com a Kalshi para incorporar dados de previsão em tempo real à cobertura financeira",
       "link": "https://br.tradingview.com/news/cointelegraph:6cf5f67b2bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:edb94b928bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "O que realmente mudou com a atualização Fusaka do Ethereum?",
       "link": "https://br.tradingview.com/news/beincrypto:edb94b928bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:22eb65cbebc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Após o colapso da alavancagem nas criptos, SEC aprova ETF 'SUI turbinado'",
       "link": "https://br.tradingview.com/news/cointelegraph:22eb65cbebc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 12:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Após o colapso da alavancagem nas criptos, SEC aprova ETF 'SUI turbinado'\" data-qa-id=\"news-headline-title\">Após o colapso da alavancagem nas criptos, SEC aprova ETF 'SUI turbinado'</div></div></article>"
-    },
-    {
-      "id": "beincrypto:628ec4f10bc81:0",
-      "index": 12,
-      "title": "Compra de US$ 2 bilhões leva oferta de Bitcoin ao menor nível em 5 anos",
-      "link": "https://br.tradingview.com/news/beincrypto:628ec4f10bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-05T12:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Compra de US$ 2 bilhões leva oferta de Bitcoin ao menor nível em 5 anos\" data-qa-id=\"news-headline-title\">Compra de US$ 2 bilhões leva oferta de Bitcoin ao menor nível em 5 anos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:feb8323aebc81:0",
-      "index": 13,
-      "title": "Peter Schiff falha ao autenticar barra de ouro durante teste no palco com CZ",
-      "link": "https://br.tradingview.com/news/cointelegraph:feb8323aebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-05T12:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 12:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 12:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Peter Schiff falha ao autenticar barra de ouro durante teste no palco com CZ\" data-qa-id=\"news-headline-title\">Peter Schiff falha ao autenticar barra de ouro durante teste no palco com CZ</div></div></article>"
     }
   ]
 }
