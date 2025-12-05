@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-05T19:17:20.771Z",
+  "updated_at": "2025-12-05T19:53:24.824Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:03c61a6ccbc81:0",
+      "id": "cointelegraph:8a5af20b6bc81:0",
       "index": 0,
+      "title": "Como a recente compra de Bitcoin pelo Texas sinaliza para o restante dos EUA em meio à queda do mercado",
+      "link": "https://br.tradingview.com/news/cointelegraph:8a5af20b6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-05T19:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Como a recente compra de Bitcoin pelo Texas sinaliza para o restante dos EUA em meio à queda do mercado\" data-qa-id=\"news-headline-title\">Como a recente compra de Bitcoin pelo Texas sinaliza para o restante dos EUA em meio à queda do mercado</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2f00fdcfbbc81:0",
+      "index": 1,
+      "title": "Bitcoin pode voltar para a faixa dos US$ 80 mil, diz trader ao afirmar que a queda 'faz sentido'",
+      "link": "https://br.tradingview.com/news/cointelegraph:2f00fdcfbbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-05T19:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode voltar para a faixa dos US$ 80 mil, diz trader ao afirmar que a queda 'faz sentido'\" data-qa-id=\"news-headline-title\">Bitcoin pode voltar para a faixa dos US$ 80 mil, diz trader ao afirmar que a queda 'faz sentido'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:03c61a6ccbc81:0",
+      "index": 2,
       "title": "Promotores dos EUA pedem 12 anos de prisão para Do Kwon, da Terraform",
       "link": "https://br.tradingview.com/news/cointelegraph:03c61a6ccbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c553a3e4cbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Acúmulo de Bitcoin ganha força enquanto perdas realizadas se aproximam de US$ 5,8 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:c553a3e4cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:70b6b511cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "De DOGE ao Bitcoin: Como o sistema fiduciário 'pôs Elon Musk no caminho do BTC' por acidente",
       "link": "https://br.tradingview.com/news/cointelegraph:70b6b511cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:0d1d80a46bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço do XRP aguarda explosão de volatilidade que pode salvá-lo de cair abaixo de US$ 2",
       "link": "https://br.tradingview.com/news/beincrypto:0d1d80a46bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:7a43b0091bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Pré-venda do WET na Solana é tomada por carteiras Sybil enquanto a HumidiFi redefine o lançamento",
       "link": "https://br.tradingview.com/news/cointelegraph:7a43b0091bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b1d6dd09fbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Comprar todas as quedas? Como detentores profissionais unem DCA cirúrgico e compras de cripto baseadas em regras",
       "link": "https://br.tradingview.com/news/cointelegraph:b1d6dd09fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:baf690b2dbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "84% dos jovens brasileiros apontam IA como chave para o emprego, revela pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:baf690b2dbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:3e3a2f7e0bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "FMI alerta que stablecoins superam Bitcoin e Ethereum e elevam riscos financeiros",
       "link": "https://br.tradingview.com/news/beincrypto:3e3a2f7e0bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:81dd48a28bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "'Momentum' do Bitcoin está se acendendo — mas estes são os níveis de preço do BTC a observar",
       "link": "https://br.tradingview.com/news/cointelegraph:81dd48a28bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:63e2829a9bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Ether vs. Bitcoin aponta ganhos de 170% à medida que preço do ETH rompe tendência de baixa de 5 meses",
       "link": "https://br.tradingview.com/news/cointelegraph:63e2829a9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:3c002fabfbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Cantor reduz preço-alvo da Strategy em 60%, mas diz que temores de venda forçada são exagerados",
       "link": "https://br.tradingview.com/news/cointelegraph:3c002fabfbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:fdd30354fbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin dificilmente repetirá a alta de janeiro, diz fundadora da 21Shares",
       "link": "https://br.tradingview.com/news/cointelegraph:fdd30354fbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin dificilmente repetirá a alta de janeiro, diz fundadora da 21Shares\" data-qa-id=\"news-headline-title\">Bitcoin dificilmente repetirá a alta de janeiro, diz fundadora da 21Shares</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1a0c7bb66bc81:0",
-      "index": 12,
-      "title": "Sentimento sobre XRP despenca — e isso pode preparar o terreno para uma alta, diz Santiment",
-      "link": "https://br.tradingview.com/news/cointelegraph:1a0c7bb66bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-05T15:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Sentimento sobre XRP despenca — e isso pode preparar o terreno para uma alta, diz Santiment\" data-qa-id=\"news-headline-title\">Sentimento sobre XRP despenca — e isso pode preparar o terreno para uma alta, diz Santiment</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:318b5adfabc81:0",
-      "index": 13,
-      "title": "Mergulho em 2026 pode levar o Bitcoin a US$ 60 mil, sugerem especialistas",
-      "link": "https://br.tradingview.com/news/cointelegraph:318b5adfabc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-05T15:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mergulho em 2026 pode levar o Bitcoin a US$ 60 mil, sugerem especialistas\" data-qa-id=\"news-headline-title\">Mergulho em 2026 pode levar o Bitcoin a US$ 60 mil, sugerem especialistas</div></div></article>"
     }
   ]
 }
