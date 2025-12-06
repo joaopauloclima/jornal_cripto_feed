@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-06T17:17:21.611Z",
+  "updated_at": "2025-12-06T17:53:26.969Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b47e112f1bc81:0",
+      "id": "cointelegraph:06cf875eebc81:0",
       "index": 0,
+      "title": "Bitcoin emite sinais de 'risk-off' apesar da visão dos traders de que o BTC abaixo de US$ 100 mil é um desconto",
+      "link": "https://br.tradingview.com/news/cointelegraph:06cf875eebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-06T17:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 06 Dec 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de dez. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin emite sinais de 'risk-off' apesar da visão dos traders de que o BTC abaixo de US$ 100 mil é um desconto\" data-qa-id=\"news-headline-title\">Bitcoin emite sinais de 'risk-off' apesar da visão dos traders de que o BTC abaixo de US$ 100 mil é um desconto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b47e112f1bc81:0",
+      "index": 1,
       "title": "Notícias Cripto: Rayls e AmFi fecham parceria, bilionária brasileira escolha a Solana e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:b47e112f1bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:37df70bc0bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "O avanço das stablecoins ganha força e reposiciona o Brasil no centro da inovação financeira global",
       "link": "https://br.tradingview.com/news/cointelegraph:37df70bc0bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:ab9a3a930bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Coinbase faz ousada previsão para o Bitcoin em dezembro, apesar da queda do mercado",
       "link": "https://br.tradingview.com/news/beincrypto:ab9a3a930bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f42b094bcbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Banco Central do Brasil acelera compras de ouro enquanto Reserva de Bitcoin permanece estagnada no Congresso",
       "link": "https://br.tradingview.com/news/cointelegraph:f42b094bcbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:946f3bda4bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Tribunal de Contas da União revela futuro do blockchain no setor público, com aplicações reais já em operação",
       "link": "https://br.tradingview.com/news/cointelegraph:946f3bda4bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:b8e64de24bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin passa a ter um ciclo de 2 anos?",
       "link": "https://br.tradingview.com/news/cointelegraph:b8e64de24bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a382d256ebc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Trades de LUNC disparam 3.021% e cripto sobe 130% com possível condenação de Do Kwon",
       "link": "https://br.tradingview.com/news/cointelegraph:a382d256ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:12f5b7131bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Polymarket planeja usar market maker próprio para operar contra usuários, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:12f5b7131bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:bea48b914bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "União Europeia pode consolidar regras cripto e FMI alerta para risco das stablecoins: Global Express",
       "link": "https://br.tradingview.com/news/cointelegraph:bea48b914bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:695fcf35fbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Títulos do Flamengo do Brasileiro e Libertadores fazem token subir 33%, mas cripto ainda acumula queda de 76%",
       "link": "https://br.tradingview.com/news/cointelegraph:695fcf35fbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:93791d917bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Parlamentares poloneses falham em retomar projeto de lei controverso sobre cripto após veto presidencial",
       "link": "https://br.tradingview.com/news/cointelegraph:93791d917bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8a5af20b6bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Como a recente compra de Bitcoin pelo Texas sinaliza para o restante dos EUA em meio à queda do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:8a5af20b6bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:541e176a2bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Brasileira da Kalshi escolhe Solana para tokenizar mercados",
       "link": "https://br.tradingview.com/news/beincrypto:541e176a2bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 19:28:58 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 19:28 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasileira da Kalshi escolhe Solana para tokenizar mercados\" data-qa-id=\"news-headline-title\">Brasileira da Kalshi escolhe Solana para tokenizar mercados</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2f00fdcfbbc81:0",
-      "index": 13,
-      "title": "Bitcoin pode voltar para a faixa dos US$ 80 mil, diz trader ao afirmar que a queda 'faz sentido'",
-      "link": "https://br.tradingview.com/news/cointelegraph:2f00fdcfbbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-05T19:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 05 Dec 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de dez. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode voltar para a faixa dos US$ 80 mil, diz trader ao afirmar que a queda 'faz sentido'\" data-qa-id=\"news-headline-title\">Bitcoin pode voltar para a faixa dos US$ 80 mil, diz trader ao afirmar que a queda 'faz sentido'</div></div></article>"
     }
   ]
 }
