@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-08T20:57:32.226Z",
+  "updated_at": "2025-12-08T21:18:27.790Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:aba3d15d8bc81:0",
+      "id": "cointelegraph:e1889cadebc81:0",
       "index": 0,
+      "title": "Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas de 35.000 Bitcoins em duas semanas das exchanges",
+      "link": "https://br.tradingview.com/news/cointelegraph:e1889cadebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-08T21:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas de 35.000 Bitcoins em duas semanas das exchanges\" data-qa-id=\"news-headline-title\">Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas de 35.000 Bitcoins em duas semanas das exchanges</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:aba3d15d8bc81:0",
+      "index": 1,
       "title": "Wall Street entra na jogada: como a mudança discreta da Ripple levou a uma avaliação de US$ 40 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:aba3d15d8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fd8e4c82cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "BlackRock entra com pedido de listagem de ETF de Ether em staking",
       "link": "https://br.tradingview.com/news/cointelegraph:fd8e4c82cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:728b9a59cbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "CEO da Mantra pede que detentores de OM retirem fundos da OKX por plano de migração 'impreciso'",
       "link": "https://br.tradingview.com/news/cointelegraph:728b9a59cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3623f4e10bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Touros do XRP ganham força: o que vai impulsionar o rompimento rumo a US$ 2,65",
       "link": "https://br.tradingview.com/news/cointelegraph:3623f4e10bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9ac07d975bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Tesouraria de Bitcoin da Strategy supera 660.000 BTC após nova compra de US$ 962 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:9ac07d975bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:529498798bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "SEC encerra investigação da era Biden sobre a plataforma de ações tokenizadas Ondo Finance",
       "link": "https://br.tradingview.com/news/cointelegraph:529498798bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:2e5eaa012bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Strategy compra mais Bitcoin apesar de preocupações dos acionistas",
       "link": "https://br.tradingview.com/news/beincrypto:2e5eaa012bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:afadb63cdbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Binance suspende funcionário por uso de informação privilegiada para ganho pessoal",
       "link": "https://br.tradingview.com/news/cointelegraph:afadb63cdbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:91a13d660bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "'Ralis do Bitcoin são para vender': três principais argumentos dos ursos do mercado de BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:91a13d660bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:bb74222a3bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Mercados de previsão surgem como 'arena de arbitragem' especulativa para traders de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:bb74222a3bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:7d6281428bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Fundos de criptomoedas registram segunda semana de fluxos após venda massiva de US$ 5,5 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:7d6281428bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:cb4349ee0bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Argentina avalia permitir que bancos tradicionais negociem criptomoedas, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:cb4349ee0bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Argentina avalia permitir que bancos tradicionais negociem criptomoedas, diz reportagem\" data-qa-id=\"news-headline-title\">Argentina avalia permitir que bancos tradicionais negociem criptomoedas, diz reportagem</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0bf41096dbc81:0",
-      "index": 12,
-      "title": "MB e Ancord  anunciam qualificação em criptomoedas a assessores de investimento",
-      "link": "https://br.tradingview.com/news/cointelegraph:0bf41096dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-08T17:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 17:10:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 17:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"MB e Ancord  anunciam qualificação em criptomoedas a assessores de investimento\" data-qa-id=\"news-headline-title\">MB e Ancord  anunciam qualificação em criptomoedas a assessores de investimento</div></div></article>"
-    },
-    {
-      "id": "beincrypto:ee35c339cbc81:0",
-      "index": 13,
-      "title": "Ripple XRP trava em faixa crítica entre US$ 2,00 e US$ 2,20 e mercado já teme movimento brusco",
-      "link": "https://br.tradingview.com/news/beincrypto:ee35c339cbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-08T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ripple XRP trava em faixa crítica entre US$ 2,00 e US$ 2,20 e mercado já teme movimento brusco\" data-qa-id=\"news-headline-title\">Ripple XRP trava em faixa crítica entre US$ 2,00 e US$ 2,20 e mercado já teme movimento brusco</div></div></article>"
     }
   ]
 }
