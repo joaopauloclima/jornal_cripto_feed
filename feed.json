@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-08T18:28:30.518Z",
+  "updated_at": "2025-12-08T19:00:03.292Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:bb74222a3bc81:0",
+      "id": "cointelegraph:afadb63cdbc81:0",
       "index": 0,
+      "title": "Binance suspende funcionário por uso de informação privilegiada para ganho pessoal",
+      "link": "https://br.tradingview.com/news/cointelegraph:afadb63cdbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-08T18:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 18:50:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 18:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance suspende funcionário por uso de informação privilegiada para ganho pessoal\" data-qa-id=\"news-headline-title\">Binance suspende funcionário por uso de informação privilegiada para ganho pessoal</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:91a13d660bc81:0",
+      "index": 1,
+      "title": "'Ralis do Bitcoin são para vender': três principais argumentos dos ursos do mercado de BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:91a13d660bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-08T18:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Ralis do Bitcoin são para vender': três principais argumentos dos ursos do mercado de BTC\" data-qa-id=\"news-headline-title\">'Ralis do Bitcoin são para vender': três principais argumentos dos ursos do mercado de BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bb74222a3bc81:0",
+      "index": 2,
       "title": "Mercados de previsão surgem como 'arena de arbitragem' especulativa para traders de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:bb74222a3bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:7d6281428bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Fundos de criptomoedas registram segunda semana de fluxos após venda massiva de US$ 5,5 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:7d6281428bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:cb4349ee0bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Argentina avalia permitir que bancos tradicionais negociem criptomoedas, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:cb4349ee0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:0bf41096dbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "MB e Ancord  anunciam qualificação em criptomoedas a assessores de investimento",
       "link": "https://br.tradingview.com/news/cointelegraph:0bf41096dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:ee35c339cbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ripple XRP trava em faixa crítica entre US$ 2,00 e US$ 2,20 e mercado já teme movimento brusco",
       "link": "https://br.tradingview.com/news/beincrypto:ee35c339cbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6ca6cdaaebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Rali de Natal do Bitcoin começou em US$ 89 mil? 5 coisas que você precisa saber sobre o Bitcoin esta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:6ca6cdaaebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:620d8362fbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Baleias 'inteligentes' da Ethereum abrem posições compradas de US$ 426 milhões enquanto gráfico do ETH mira US$ 4.000",
       "link": "https://br.tradingview.com/news/cointelegraph:620d8362fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1517ece0abc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Ursos estão no controle para derrubar o Bitcoin a US$ 88 mil, dizem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:1517ece0abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:4a54c67f0bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "‘O ponto laranja’ de Saylor impulsiona o Bitcoin para US$ 91 mil",
       "link": "https://br.tradingview.com/news/beincrypto:4a54c67f0bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ebdcdb800bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Circle e Bybit aprofundam parceria do USDC à medida que stablecoin se aproxima de US$ 80 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:ebdcdb800bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:b6a2bf7e2bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Títulos do Tesouro dos EUA lideram onda de tokenização enquanto CoinShares prevê crescimento em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:b6a2bf7e2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:b9ada74b7bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Coinbase faz retorno cauteloso à Índia dois anos após saída",
       "link": "https://br.tradingview.com/news/cointelegraph:b9ada74b7bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase faz retorno cauteloso à Índia dois anos após saída\" data-qa-id=\"news-headline-title\">Coinbase faz retorno cauteloso à Índia dois anos após saída</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:37f65c7e9bc81:0",
-      "index": 12,
-      "title": "Bitcoin em alerta: se romper US$ 116 Mil, mercado pode entrar em modo FOMO e impulsionar 5 criptos em dezembro",
-      "link": "https://br.tradingview.com/news/cointelegraph:37f65c7e9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-08T14:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin em alerta: se romper US$ 116 Mil, mercado pode entrar em modo FOMO e impulsionar 5 criptos em dezembro\" data-qa-id=\"news-headline-title\">Bitcoin em alerta: se romper US$ 116 Mil, mercado pode entrar em modo FOMO e impulsionar 5 criptos em dezembro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d137a7edbbc81:0",
-      "index": 13,
-      "title": "Brasil aporta US$ 40 milhões e mantém otimismo com fundos de criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:d137a7edbbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-08T14:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil aporta US$ 40 milhões e mantém otimismo com fundos de criptomoedas\" data-qa-id=\"news-headline-title\">Brasil aporta US$ 40 milhões e mantém otimismo com fundos de criptomoedas</div></div></article>"
     }
   ]
 }
