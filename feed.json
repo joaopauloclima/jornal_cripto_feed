@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-09T04:58:46.611Z",
+  "updated_at": "2025-12-09T05:20:39.935Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:895290ef6bc81:0",
+      "id": "tag:reuters.com,2025:newsml_L1N3XF04W:0",
       "index": 0,
+      "title": "A montanha-russa do Bitcoin em 2025 pode terminar em baixa.",
+      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XF04W:0/",
+      "source": "Reuters",
+      "published_at": "2025-12-09T05:03:07.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/indices/s-and-p-500.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/indices/nasdaq-100.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/palantir.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Dec 2025 05:03:07 GMT\" class=\"apply-common-tooltip\" title=\"9 de dez. de 2025, 05:03 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A montanha-russa do Bitcoin em 2025 pode terminar em baixa.\" data-qa-id=\"news-headline-title\">A montanha-russa do Bitcoin em 2025 pode terminar em baixa.</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:895290ef6bc81:0",
+      "index": 1,
       "title": "Regulamentação do Banco Central faz primeira vítima: fintech cripto fecha as portas no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:895290ef6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:3908068d2bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Liqi lança carteira para tokens RWA com rendimento em dólar e liquidação em stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:3908068d2bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0b34b47babc81:0",
-      "index": 2,
+      "index": 3,
       "title": "XRP precisa de estratégia no estilo da Solana para se manter competitivo, diz executivo da Ripple",
       "link": "https://br.tradingview.com/news/cointelegraph:0b34b47babc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8f05301e6bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin limitado a US$ 100 mil? Analista prevê novas quedas em meio a riscos macroeconômicos",
       "link": "https://br.tradingview.com/news/cointelegraph:8f05301e6bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:7f78e6b93bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Órgão de fiscalização pede feedback do setor cripto sobre reformas no Reino Unido",
       "link": "https://br.tradingview.com/news/cointelegraph:7f78e6b93bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1815bcd08bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "USDt da Tether conquista status regulatório importante em Abu Dhabi",
       "link": "https://br.tradingview.com/news/cointelegraph:1815bcd08bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f47081fa1bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Por que a Grayscale acredita que o Bitcoin vai romper o ciclo de quatro anos desta vez",
       "link": "https://br.tradingview.com/news/cointelegraph:f47081fa1bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e1889cadebc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin perde os US$ 90.000 na abertura dos EUA com saídas de 35.000 Bitcoins em duas semanas das exchanges",
       "link": "https://br.tradingview.com/news/cointelegraph:e1889cadebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:aba3d15d8bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Wall Street entra na jogada: como a mudança discreta da Ripple levou a uma avaliação de US$ 40 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:aba3d15d8bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:fd8e4c82cbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "BlackRock entra com pedido de listagem de ETF de Ether em staking",
       "link": "https://br.tradingview.com/news/cointelegraph:fd8e4c82cbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:728b9a59cbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "CEO da Mantra pede que detentores de OM retirem fundos da OKX por plano de migração 'impreciso'",
       "link": "https://br.tradingview.com/news/cointelegraph:728b9a59cbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:3623f4e10bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Touros do XRP ganham força: o que vai impulsionar o rompimento rumo a US$ 2,65",
       "link": "https://br.tradingview.com/news/cointelegraph:3623f4e10bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:9ac07d975bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Tesouraria de Bitcoin da Strategy supera 660.000 BTC após nova compra de US$ 962 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:9ac07d975bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 19:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tesouraria de Bitcoin da Strategy supera 660.000 BTC após nova compra de US$ 962 milhões\" data-qa-id=\"news-headline-title\">Tesouraria de Bitcoin da Strategy supera 660.000 BTC após nova compra de US$ 962 milhões</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:529498798bc81:0",
-      "index": 13,
-      "title": "SEC encerra investigação da era Biden sobre a plataforma de ações tokenizadas Ondo Finance",
-      "link": "https://br.tradingview.com/news/cointelegraph:529498798bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-08T19:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 08 Dec 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de dez. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SEC encerra investigação da era Biden sobre a plataforma de ações tokenizadas Ondo Finance\" data-qa-id=\"news-headline-title\">SEC encerra investigação da era Biden sobre a plataforma de ações tokenizadas Ondo Finance</div></div></article>"
     }
   ]
 }
