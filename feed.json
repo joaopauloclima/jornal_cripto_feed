@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-09T16:26:17.786Z",
+  "updated_at": "2025-12-09T17:02:43.585Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:710c2e9d5bc81:0",
+      "id": "cointelegraph:26699084cbc81:0",
       "index": 0,
+      "title": "Inverno dos NFTs se aprofunda: vendas mensais atingem o ponto mais baixo do ano",
+      "link": "https://br.tradingview.com/news/cointelegraph:26699084cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-09T16:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Dec 2025 16:50:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de dez. de 2025, 16:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Inverno dos NFTs se aprofunda: vendas mensais atingem o ponto mais baixo do ano\" data-qa-id=\"news-headline-title\">Inverno dos NFTs se aprofunda: vendas mensais atingem o ponto mais baixo do ano</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:717d1337cbc81:0",
+      "index": 1,
+      "title": "Governo Lula abre 600 vagas em curso de Web3 e metaverso que vai pagar R$ 3 mil por mês para alunos",
+      "link": "https://br.tradingview.com/news/cointelegraph:717d1337cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-09T16:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Dec 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de dez. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Governo Lula abre 600 vagas em curso de Web3 e metaverso que vai pagar R$ 3 mil por mês para alunos\" data-qa-id=\"news-headline-title\">Governo Lula abre 600 vagas em curso de Web3 e metaverso que vai pagar R$ 3 mil por mês para alunos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:710c2e9d5bc81:0",
+      "index": 2,
       "title": "Volume de negociação da Polymarket está sendo contado em dobro, afirma Paradigm",
       "link": "https://br.tradingview.com/news/cointelegraph:710c2e9d5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:31085f785bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Campo Grande se torna um polo de inovação em blockchain e economia digital",
       "link": "https://br.tradingview.com/news/cointelegraph:31085f785bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:64d27c484bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "VC que apoiou Coinbase, Uniswap e Kalshi anuncia investimento em startup brasileira de stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:64d27c484bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:1df0481c0bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "PF deflagra operação contra ‘discípulos do Faraó dos Bitcoins’",
       "link": "https://br.tradingview.com/news/cointelegraph:1df0481c0bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:190b40ea5bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Fundos de índice cripto serão 'um grande negócio' à medida que o mercado se torna mais complexo, diz CIO da Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:190b40ea5bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:4ec437c62bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Rali do XRP enfrenta obstáculos após baleia vender US$ 143 milhões",
       "link": "https://br.tradingview.com/news/beincrypto:4ec437c62bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:0b619e277bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Tether amplia aposta em IA e financia robôs humanoides de empresa italiana",
       "link": "https://br.tradingview.com/news/cointelegraph:0b619e277bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9ced77408bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "400 mil Bitcoins saíram das corretoras desde o ano passado, aponta Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:9ced77408bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:4955530abbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoin, Ethereum e stablecoins movimentam R$ 16,7 bi em novembro no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:4955530abbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5e205dfd3bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Fitch alerta para risco em bancos dos EUA com alta exposição a cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:5e205dfd3bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7734dd5bdbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Programa-piloto da CFTC abre caminho para uso de cripto como garantia em mercados de derivativos",
       "link": "https://br.tradingview.com/news/cointelegraph:7734dd5bdbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:3f44fb6f5bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Índice Russell 2000 rompe resistência e acende alerta para Bitcoin e altcoins",
       "link": "https://br.tradingview.com/news/beincrypto:3f44fb6f5bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Índice Russell 2000 rompe resistência e acende alerta para Bitcoin e altcoins\" data-qa-id=\"news-headline-title\">Índice Russell 2000 rompe resistência e acende alerta para Bitcoin e altcoins</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0130211c6bc81:0",
-      "index": 12,
-      "title": "Bitcoin mostra reação, mas dados revelam ceticismo de traders profissionais acima de US$ 92 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:0130211c6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-09T12:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Dec 2025 12:50:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de dez. de 2025, 12:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin mostra reação, mas dados revelam ceticismo de traders profissionais acima de US$ 92 mil\" data-qa-id=\"news-headline-title\">Bitcoin mostra reação, mas dados revelam ceticismo de traders profissionais acima de US$ 92 mil</div></div></article>"
-    },
-    {
-      "id": "beincrypto:40b912f3cbc81:0",
-      "index": 13,
-      "title": "Fundador da Cardano diz que ameaça quântica à cripto é exagerada",
-      "link": "https://br.tradingview.com/news/beincrypto:40b912f3cbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-09T12:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Dec 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de dez. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundador da Cardano diz que ameaça quântica à cripto é exagerada\" data-qa-id=\"news-headline-title\">Fundador da Cardano diz que ameaça quântica à cripto é exagerada</div></div></article>"
     }
   ]
 }
