@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-10T19:02:38.706Z",
+  "updated_at": "2025-12-10T19:23:34.453Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1440c2692bc81:0",
+      "id": "cointelegraph:9ffd21babbc81:0",
       "index": 0,
+      "title": "Japão planeja mudança com a migração das criptomoedas da lei de pagamentos para a de valores mobiliários",
+      "link": "https://br.tradingview.com/news/cointelegraph:9ffd21babbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-10T19:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Dec 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de dez. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Japão planeja mudança com a migração das criptomoedas da lei de pagamentos para a de valores mobiliários\" data-qa-id=\"news-headline-title\">Japão planeja mudança com a migração das criptomoedas da lei de pagamentos para a de valores mobiliários</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1440c2692bc81:0",
+      "index": 1,
       "title": "Carteiras de Bitcoin ligadas à Silk Road movimentam US$ 3 milhões para novo endereço",
       "link": "https://br.tradingview.com/news/cointelegraph:1440c2692bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:ea3dd0071bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Vitalik Buterin afirma que o Ethereum pode lidar com a perda temporária de finalidade",
       "link": "https://br.tradingview.com/news/cointelegraph:ea3dd0071bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1198902bfbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Stablecoin do real BBRL chega à BNB Chain",
       "link": "https://br.tradingview.com/news/cointelegraph:1198902bfbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:69e7350bbbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ethereum vai superar o Bitcoin? Entenda a previsão de Michaël van de Poppe",
       "link": "https://br.tradingview.com/news/beincrypto:69e7350bbbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d314d7fa8bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Co-CEO da Binance, Yi He, sofre invasão no WeChat em meio a riscos crescentes da Web2 para executivos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:d314d7fa8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:97ee212ecbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Preço do XRP pode subir de 'US$ 2 para US$ 10' em menos de um ano, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:97ee212ecbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:42cffc8d8bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Movimento de 350 milhões de XRP altera o mercado durante a queda",
       "link": "https://br.tradingview.com/news/beincrypto:42cffc8d8bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:1ac2c9743bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Marco legal para o Sistema de Pagamentos Brasileiro avança no Senado",
       "link": "https://br.tradingview.com/news/cointelegraph:1ac2c9743bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d9a984d41bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Principais níveis de preço do Bitcoin para observar antes da última reunião do FOMC de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:d9a984d41bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:2449d42eabc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Connecticut não pode agir contra a Kalshi por enquanto, decide juiz",
       "link": "https://br.tradingview.com/news/cointelegraph:2449d42eabc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:89291f27ebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Altseason em espera enquanto capital migra para Bitcoin e Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:89291f27ebc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8d8874d8abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Tornar os jogos cripto grandes novamente? ‘Trump Billionaires Club’ será lançado ainda este mês",
       "link": "https://br.tradingview.com/news/cointelegraph:8d8874d8abc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:dee2cb4dfbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Grandes empresas no Brasil investem R$ 77 milhões por ano em IA e têm ROI de 16%, revela pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:dee2cb4dfbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Dec 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de dez. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Grandes empresas no Brasil investem R$ 77 milhões por ano em IA e têm ROI de 16%, revela pesquisa\" data-qa-id=\"news-headline-title\">Grandes empresas no Brasil investem R$ 77 milhões por ano em IA e têm ROI de 16%, revela pesquisa</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:db5c49b51bc81:0",
-      "index": 13,
-      "title": "FOMO do Bitcoin retorna em US$ 94 mil, mas o Fed pode estragar a festa",
-      "link": "https://br.tradingview.com/news/cointelegraph:db5c49b51bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-10T15:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Dec 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de dez. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"FOMO do Bitcoin retorna em US$ 94 mil, mas o Fed pode estragar a festa\" data-qa-id=\"news-headline-title\">FOMO do Bitcoin retorna em US$ 94 mil, mas o Fed pode estragar a festa</div></div></article>"
     }
   ]
 }
