@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-10T14:31:08.402Z",
+  "updated_at": "2025-12-10T15:01:18.316Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2b9baec95bc81:0",
+      "id": "cointelegraph:efffd6a00bc81:0",
       "index": 0,
+      "title": "Trump iniciará entrevistas com finalistas para presidência do Fed nesta semana, segundo a Financial Times",
+      "link": "https://br.tradingview.com/news/cointelegraph:efffd6a00bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-10T14:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Dec 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de dez. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump iniciará entrevistas com finalistas para presidência do Fed nesta semana, segundo a Financial Times\" data-qa-id=\"news-headline-title\">Trump iniciará entrevistas com finalistas para presidência do Fed nesta semana, segundo a Financial Times</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2b9baec95bc81:0",
+      "index": 1,
       "title": "Blockchain de stablecoins da Stripe, Tempo, lança testnet pública",
       "link": "https://br.tradingview.com/news/cointelegraph:2b9baec95bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:54cfb0234bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ações da Twenty One Capital caem 20% no primeiro dia de negociação",
       "link": "https://br.tradingview.com/news/cointelegraph:54cfb0234bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:503a46000bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Trump ignora ‘Bitcoin a US$ 70 mil’ e compra US$ 38 milhões em BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:503a46000bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:efbdc0740bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Rede Ethereum registra queda de 62% nas taxas: o preço do ETH está em risco?",
       "link": "https://br.tradingview.com/news/cointelegraph:efbdc0740bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:0cd157d49bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Avanço do Bitcoin para US$ 108.500 falha por dois motivos; entenda",
       "link": "https://br.tradingview.com/news/beincrypto:0cd157d49bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:31eb7a309bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Notícias Cripto: OKX e Lando Norris, atualizações na MEXC, NovaDAX, BingX  e Tokeniza",
       "link": "https://br.tradingview.com/news/cointelegraph:31eb7a309bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:64c4d6f2cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Nova proposta de ETF aposta que os retornos do Bitcoin ocorrem fora do horário de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:64c4d6f2cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6c4c06a61bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Regulador bancário dos EUA autoriza bancos nacionais a facilitar transações com criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:6c4c06a61bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a4d564bebbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Exclusivo: Bitcoin Core estuda mudar a criptografia do Bitcoin para se proteger da computação quântica",
       "link": "https://br.tradingview.com/news/cointelegraph:a4d564bebbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:b0c591cd8bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Por que o mercado de criptomoedas está em alta hoje 10/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:b0c591cd8bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ab1a09b88bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Criptomoedas sobem até 170% enquanto o Bitcoin luta por US$ 93 mil de olho no Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:ab1a09b88bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:40f0a1021bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Preço do Ethereum pode chegar a US$ 3.700?",
       "link": "https://br.tradingview.com/news/beincrypto:40f0a1021bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:54bcebecabc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preço do Bitcoin hoje, 10/12/2025: BTC acima de US$ 92 mil com chances de alta em corte de juros do FED",
       "link": "https://br.tradingview.com/news/cointelegraph:54bcebecabc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 10 Dec 2025 10:48:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de dez. de 2025, 10:48 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 10/12/2025: BTC acima de US$ 92 mil com chances de alta em corte de juros do FED\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 10/12/2025: BTC acima de US$ 92 mil com chances de alta em corte de juros do FED</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4bdcea9b3bc81:0",
-      "index": 13,
-      "title": "MSCI pode derrubar gigante do Bitcoin e provocar US$ 2,8 bi em vendas forçadas",
-      "link": "https://br.tradingview.com/news/cointelegraph:4bdcea9b3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-09T23:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 09 Dec 2025 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de dez. de 2025, 23:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"MSCI pode derrubar gigante do Bitcoin e provocar US$ 2,8 bi em vendas forçadas\" data-qa-id=\"news-headline-title\">MSCI pode derrubar gigante do Bitcoin e provocar US$ 2,8 bi em vendas forçadas</div></div></article>"
     }
   ]
 }
