@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-11T16:27:40.123Z",
+  "updated_at": "2025-12-11T17:06:46.216Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:98f9d35d8bc81:0",
+      "id": "cointelegraph:7cfb5f063bc81:0",
       "index": 0,
+      "title": "Finanças e tecnologia favorecem novas vagas no Jeitto, SysMap e Sami",
+      "link": "https://br.tradingview.com/news/cointelegraph:7cfb5f063bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-11T16:41:16.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 16:41:16 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 16:41 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Finanças e tecnologia favorecem novas vagas no Jeitto, SysMap e Sami\" data-qa-id=\"news-headline-title\">Finanças e tecnologia favorecem novas vagas no Jeitto, SysMap e Sami</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:98f9d35d8bc81:0",
+      "index": 1,
       "title": "Tesourarias de Bitcoin desaceleram no quarto trimestre, mas maiores detentores continuam acumulando sats",
       "link": "https://br.tradingview.com/news/cointelegraph:98f9d35d8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:022d49333bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Brasileiros acusam IA de ‘roubar identidade’, mas ‘pensam através de chatbots’, diz pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:022d49333bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:abb506de2bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Ethereum vs. Bitcoin: preço do ETH pode subir 80% em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:abb506de2bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:9da0fba70bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Taxas de transação do XRP caem 89%: preço pode cair abaixo de US$ 1,75?",
       "link": "https://br.tradingview.com/news/cointelegraph:9da0fba70bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:91f75039fbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin pode retomar tendência de alta? Veja o que é preciso",
       "link": "https://br.tradingview.com/news/beincrypto:91f75039fbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:32d875137bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Estátua de Satoshi Nakamoto é instalada na Bolsa de Nova York em sinal dos novos tempos",
       "link": "https://br.tradingview.com/news/cointelegraph:32d875137bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8cde6c3bfbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin perde força e pode recuar a US$ 85 mil: ‘é melhor ter paciência’",
       "link": "https://br.tradingview.com/news/cointelegraph:8cde6c3bfbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:0afe49859bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Recusa do MSCI ao Bitcoin é como penalizar a Chevron por ter petróleo, diz CEO da Strategy",
       "link": "https://br.tradingview.com/news/cointelegraph:0afe49859bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9525f1815bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Ações da Gemini disparam 14% após nova licença abrir caminho para mercados de previsão nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:9525f1815bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5b7aa027bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Criptomoedas estão entre os setores 'desbancarizados' por 9 grandes bancos, diz regulador dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:5b7aa027bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9c4838cf2bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "IOF sobre stablecoins pode chegar a R$ 5 bi em operações cambiais, estimam economistas",
       "link": "https://br.tradingview.com/news/cointelegraph:9c4838cf2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c82504539bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Corte de juros do Fed pode impulsionar ações, mas opções de Bitcoin apontam menos chances de superar US$ 100 mil em janeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:c82504539bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:7ec1043abbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "XRP dá sinais de recuperação com 3 pistas que podem antecipar a virada",
       "link": "https://br.tradingview.com/news/beincrypto:7ec1043abbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP dá sinais de recuperação com 3 pistas que podem antecipar a virada\" data-qa-id=\"news-headline-title\">XRP dá sinais de recuperação com 3 pistas que podem antecipar a virada</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e643de513bc81:0",
-      "index": 13,
-      "title": "Fed corta taxas de juros, mas apresenta orientação mista para o futuro",
-      "link": "https://br.tradingview.com/news/cointelegraph:e643de513bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-11T12:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 12:40:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fed corta taxas de juros, mas apresenta orientação mista para o futuro\" data-qa-id=\"news-headline-title\">Fed corta taxas de juros, mas apresenta orientação mista para o futuro</div></div></article>"
     }
   ]
 }
