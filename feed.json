@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-11T19:04:07.053Z",
+  "updated_at": "2025-12-11T19:28:49.697Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:5a81c1112bc81:0",
+      "id": "cointelegraph:811963198bc81:0",
       "index": 0,
+      "title": "Rede elétrica do Texas volta a aquecer e desta vez por causa da IA, não das mineradoras de Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:811963198bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-11T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rede elétrica do Texas volta a aquecer e desta vez por causa da IA, não das mineradoras de Bitcoin\" data-qa-id=\"news-headline-title\">Rede elétrica do Texas volta a aquecer e desta vez por causa da IA, não das mineradoras de Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:02a7af509bc81:0",
+      "index": 1,
+      "title": "SEC dos EUA: Crenshaw mira no setor cripto em suas semanas finais na agência",
+      "link": "https://br.tradingview.com/news/cointelegraph:02a7af509bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-11T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SEC dos EUA: Crenshaw mira no setor cripto em suas semanas finais na agência\" data-qa-id=\"news-headline-title\">SEC dos EUA: Crenshaw mira no setor cripto em suas semanas finais na agência</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5a81c1112bc81:0",
+      "index": 2,
       "title": "Mercados de previsão apostam que o Bitcoin não atingirá US$ 100 mil antes do fim do ano",
       "link": "https://br.tradingview.com/news/cointelegraph:5a81c1112bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:06abea239bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Belarus bloqueia ByBit, Bitget e OKX enquanto a Rússia aperta o cerco à zona cinzenta das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:06abea239bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:aa77e169fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin deve atingir fundo apenas em 2026 à medida que volumes nas exchanges diminuem, diz análise",
       "link": "https://br.tradingview.com/news/cointelegraph:aa77e169fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:45d437d7ebc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Trust Wallet recorre ao Revolut para compras de criptomoedas na Europa",
       "link": "https://br.tradingview.com/news/cointelegraph:45d437d7ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:42088060dbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "FCA do Reino Unido torna os pagamentos com stablecoins em libra uma prioridade para 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:42088060dbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:158eb1679bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Prata atinge nova máxima histórica: o que isso significa para o Bitcoin?",
       "link": "https://br.tradingview.com/news/beincrypto:158eb1679bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:7cfb5f063bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Finanças e tecnologia favorecem novas vagas no Jeitto, SysMap e Sami",
       "link": "https://br.tradingview.com/news/cointelegraph:7cfb5f063bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:98f9d35d8bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Tesourarias de Bitcoin desaceleram no quarto trimestre, mas maiores detentores continuam acumulando sats",
       "link": "https://br.tradingview.com/news/cointelegraph:98f9d35d8bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:022d49333bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Brasileiros acusam IA de ‘roubar identidade’, mas ‘pensam através de chatbots’, diz pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:022d49333bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:abb506de2bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Ethereum vs. Bitcoin: preço do ETH pode subir 80% em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:abb506de2bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9da0fba70bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Taxas de transação do XRP caem 89%: preço pode cair abaixo de US$ 1,75?",
       "link": "https://br.tradingview.com/news/cointelegraph:9da0fba70bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:91f75039fbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin pode retomar tendência de alta? Veja o que é preciso",
       "link": "https://br.tradingview.com/news/beincrypto:91f75039fbc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode retomar tendência de alta? Veja o que é preciso\" data-qa-id=\"news-headline-title\">Bitcoin pode retomar tendência de alta? Veja o que é preciso</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:32d875137bc81:0",
-      "index": 12,
-      "title": "Estátua de Satoshi Nakamoto é instalada na Bolsa de Nova York em sinal dos novos tempos",
-      "link": "https://br.tradingview.com/news/cointelegraph:32d875137bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-11T15:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Estátua de Satoshi Nakamoto é instalada na Bolsa de Nova York em sinal dos novos tempos\" data-qa-id=\"news-headline-title\">Estátua de Satoshi Nakamoto é instalada na Bolsa de Nova York em sinal dos novos tempos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8cde6c3bfbc81:0",
-      "index": 13,
-      "title": "Bitcoin perde força e pode recuar a US$ 85 mil: ‘é melhor ter paciência’",
-      "link": "https://br.tradingview.com/news/cointelegraph:8cde6c3bfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-11T14:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin perde força e pode recuar a US$ 85 mil: ‘é melhor ter paciência’\" data-qa-id=\"news-headline-title\">Bitcoin perde força e pode recuar a US$ 85 mil: ‘é melhor ter paciência’</div></div></article>"
     }
   ]
 }
