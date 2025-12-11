@@ -1,10 +1,43 @@
 {
-  "updated_at": "2025-12-11T17:06:46.216Z",
+  "updated_at": "2025-12-11T18:02:29.133Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7cfb5f063bc81:0",
+      "id": "cointelegraph:45d437d7ebc81:0",
       "index": 0,
+      "title": "Trust Wallet recorre ao Revolut para compras de criptomoedas na Europa",
+      "link": "https://br.tradingview.com/news/cointelegraph:45d437d7ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-11T17:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trust Wallet recorre ao Revolut para compras de criptomoedas na Europa\" data-qa-id=\"news-headline-title\">Trust Wallet recorre ao Revolut para compras de criptomoedas na Europa</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:42088060dbc81:0",
+      "index": 1,
+      "title": "FCA do Reino Unido torna os pagamentos com stablecoins em libra uma prioridade para 2026",
+      "link": "https://br.tradingview.com/news/cointelegraph:42088060dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-11T17:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"FCA do Reino Unido torna os pagamentos com stablecoins em libra uma prioridade para 2026\" data-qa-id=\"news-headline-title\">FCA do Reino Unido torna os pagamentos com stablecoins em libra uma prioridade para 2026</div></div></article>"
+    },
+    {
+      "id": "beincrypto:158eb1679bc81:0",
+      "index": 2,
+      "title": "Prata atinge nova máxima histórica: o que isso significa para o Bitcoin?",
+      "link": "https://br.tradingview.com/news/beincrypto:158eb1679bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-12-11T17:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Prata atinge nova máxima histórica: o que isso significa para o Bitcoin?\" data-qa-id=\"news-headline-title\">Prata atinge nova máxima histórica: o que isso significa para o Bitcoin?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7cfb5f063bc81:0",
+      "index": 3,
       "title": "Finanças e tecnologia favorecem novas vagas no Jeitto, SysMap e Sami",
       "link": "https://br.tradingview.com/news/cointelegraph:7cfb5f063bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:98f9d35d8bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Tesourarias de Bitcoin desaceleram no quarto trimestre, mas maiores detentores continuam acumulando sats",
       "link": "https://br.tradingview.com/news/cointelegraph:98f9d35d8bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:022d49333bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Brasileiros acusam IA de ‘roubar identidade’, mas ‘pensam através de chatbots’, diz pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:022d49333bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:abb506de2bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Ethereum vs. Bitcoin: preço do ETH pode subir 80% em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:abb506de2bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:9da0fba70bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Taxas de transação do XRP caem 89%: preço pode cair abaixo de US$ 1,75?",
       "link": "https://br.tradingview.com/news/cointelegraph:9da0fba70bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "beincrypto:91f75039fbc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Bitcoin pode retomar tendência de alta? Veja o que é preciso",
       "link": "https://br.tradingview.com/news/beincrypto:91f75039fbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:32d875137bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Estátua de Satoshi Nakamoto é instalada na Bolsa de Nova York em sinal dos novos tempos",
       "link": "https://br.tradingview.com/news/cointelegraph:32d875137bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8cde6c3bfbc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Bitcoin perde força e pode recuar a US$ 85 mil: ‘é melhor ter paciência’",
       "link": "https://br.tradingview.com/news/cointelegraph:8cde6c3bfbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:0afe49859bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Recusa do MSCI ao Bitcoin é como penalizar a Chevron por ter petróleo, diz CEO da Strategy",
       "link": "https://br.tradingview.com/news/cointelegraph:0afe49859bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9525f1815bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Ações da Gemini disparam 14% após nova licença abrir caminho para mercados de previsão nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:9525f1815bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5b7aa027bbc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Criptomoedas estão entre os setores 'desbancarizados' por 9 grandes bancos, diz regulador dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:5b7aa027bbc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas estão entre os setores 'desbancarizados' por 9 grandes bancos, diz regulador dos EUA\" data-qa-id=\"news-headline-title\">Criptomoedas estão entre os setores 'desbancarizados' por 9 grandes bancos, diz regulador dos EUA</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9c4838cf2bc81:0",
-      "index": 11,
-      "title": "IOF sobre stablecoins pode chegar a R$ 5 bi em operações cambiais, estimam economistas",
-      "link": "https://br.tradingview.com/news/cointelegraph:9c4838cf2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-11T13:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"IOF sobre stablecoins pode chegar a R$ 5 bi em operações cambiais, estimam economistas\" data-qa-id=\"news-headline-title\">IOF sobre stablecoins pode chegar a R$ 5 bi em operações cambiais, estimam economistas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c82504539bc81:0",
-      "index": 12,
-      "title": "Corte de juros do Fed pode impulsionar ações, mas opções de Bitcoin apontam menos chances de superar US$ 100 mil em janeiro",
-      "link": "https://br.tradingview.com/news/cointelegraph:c82504539bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-11T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Corte de juros do Fed pode impulsionar ações, mas opções de Bitcoin apontam menos chances de superar US$ 100 mil em janeiro\" data-qa-id=\"news-headline-title\">Corte de juros do Fed pode impulsionar ações, mas opções de Bitcoin apontam menos chances de superar US$ 100 mil em janeiro</div></div></article>"
-    },
-    {
-      "id": "beincrypto:7ec1043abbc81:0",
-      "index": 13,
-      "title": "XRP dá sinais de recuperação com 3 pistas que podem antecipar a virada",
-      "link": "https://br.tradingview.com/news/beincrypto:7ec1043abbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-11T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP dá sinais de recuperação com 3 pistas que podem antecipar a virada\" data-qa-id=\"news-headline-title\">XRP dá sinais de recuperação com 3 pistas que podem antecipar a virada</div></div></article>"
     }
   ]
 }
