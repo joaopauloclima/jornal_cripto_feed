@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-12T20:22:11.246Z",
+  "updated_at": "2025-12-12T20:57:25.509Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d2f748e10bc81:0",
+      "id": "cointelegraph:d1915287bbc81:0",
       "index": 0,
+      "title": "Tether pode tokenizar ações para garantir liquidez aos investidores, segundo reportagem",
+      "link": "https://br.tradingview.com/news/cointelegraph:d1915287bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-12T20:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tether pode tokenizar ações para garantir liquidez aos investidores, segundo reportagem\" data-qa-id=\"news-headline-title\">Tether pode tokenizar ações para garantir liquidez aos investidores, segundo reportagem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:04295f966bc81:0",
+      "index": 1,
+      "title": "Análise de preços em 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e LINK",
+      "link": "https://br.tradingview.com/news/cointelegraph:04295f966bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-12T20:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e LINK\" data-qa-id=\"news-headline-title\">Análise de preços em 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e LINK</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d2f748e10bc81:0",
+      "index": 2,
       "title": "Figure Technology entra com 'segundo IPO' para levar emissão nativa de ações à rede Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:d2f748e10bc81:0/",
       "source": "Cointelegraph",
@@ -14,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 20:10:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 20:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Figure Technology entra com 'segundo IPO' para levar emissão nativa de ações à rede Solana\" data-qa-id=\"news-headline-title\">Figure Technology entra com 'segundo IPO' para levar emissão nativa de ações à rede Solana</div></div></article>"
     },
     {
+      "id": "beincrypto:23a2d9e1fbc81:0",
+      "index": 3,
+      "title": "Jane Street derrubou o preço do Bitcoin às 10h de hoje?",
+      "link": "https://br.tradingview.com/news/beincrypto:23a2d9e1fbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-12-12T20:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Jane Street derrubou o preço do Bitcoin às 10h de hoje?\" data-qa-id=\"news-headline-title\">Jane Street derrubou o preço do Bitcoin às 10h de hoje?</div></div></article>"
+    },
+    {
       "id": "cointelegraph:0f65d0759bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Paxos, Fidelity, Ripple, BitGo e Circle garantem aprovações como bancos fiduciários nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:0f65d0759bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:94ffcb688bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Bitcoin oscila em US$ 92 mil e trader aposta no fim da queda 'manipulativa' do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:94ffcb688bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:dd8039043bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Europa reconsidera supervisão cripto à medida que a centralização na ESMA ganha força",
       "link": "https://br.tradingview.com/news/cointelegraph:dd8039043bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6d77ff5a1bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Preço do Ether subiu 260% da última vez que isso aconteceu: ETH pode chegar a US$ 5 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:6d77ff5a1bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "beincrypto:3728017f3bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Bitcoin se consolida como hedge global em 2026, diz 21shares",
       "link": "https://br.tradingview.com/news/beincrypto:3728017f3bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e322f9127bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Especulação cripto atinge mínima de 2024 enquanto ETFs alavancados da TradFi alcançam recorde de US$ 239 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:e322f9127bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:91039c600bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Ripple amplia presença na Europa com parceria com a AMINA para pagamentos com stablecoin",
       "link": "https://br.tradingview.com/news/cointelegraph:91039c600bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:618853e2bbc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Mercados financeiros dos EUA 'prontos para migrar para o on-chain' após sinal verde da DTCC para a tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:618853e2bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "beincrypto:2c8fbe609bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Ripple se tornando um banco: isso é bom ou ruim para o XRP?",
       "link": "https://br.tradingview.com/news/beincrypto:2c8fbe609bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2f9365e6abc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Hack da Upbit coloca política de congelamento emergencial da Binance sob fiscalização",
       "link": "https://br.tradingview.com/news/cointelegraph:2f9365e6abc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Hack da Upbit coloca política de congelamento emergencial da Binance sob fiscalização\" data-qa-id=\"news-headline-title\">Hack da Upbit coloca política de congelamento emergencial da Binance sob fiscalização</div></div></article>"
-    },
-    {
-      "id": "beincrypto:5922a3d3bbc81:0",
-      "index": 11,
-      "title": "Preço do Ethereum salta e desperta esperança no mercado",
-      "link": "https://br.tradingview.com/news/beincrypto:5922a3d3bbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-12T17:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Ethereum salta e desperta esperança no mercado\" data-qa-id=\"news-headline-title\">Preço do Ethereum salta e desperta esperança no mercado</div></div></article>"
-    },
-    {
-      "id": "beincrypto:a5424e1dabc81:0",
-      "index": 12,
-      "title": "3 altcoins para acompanhar neste fim de semana",
-      "link": "https://br.tradingview.com/news/beincrypto:a5424e1dabc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-12T16:37:10.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 16:37:10 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 16:37 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"3 altcoins para acompanhar neste fim de semana\" data-qa-id=\"news-headline-title\">3 altcoins para acompanhar neste fim de semana</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:81dfda102bc81:0",
-      "index": 13,
-      "title": "Binance sugere futuros perpétuos de ações em nova investida na corrida global por ações tokenizadas",
-      "link": "https://br.tradingview.com/news/cointelegraph:81dfda102bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-12T16:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance sugere futuros perpétuos de ações em nova investida na corrida global por ações tokenizadas\" data-qa-id=\"news-headline-title\">Binance sugere futuros perpétuos de ações em nova investida na corrida global por ações tokenizadas</div></div></article>"
     }
   ]
 }
