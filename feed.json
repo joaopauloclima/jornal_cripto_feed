@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-12T22:20:12.463Z",
+  "updated_at": "2025-12-12T22:55:29.280Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:785123e7abc81:0",
+      "id": "cointelegraph:6c329c60ebc81:0",
       "index": 0,
+      "title": "Retomada da alta ou inverno cripto? Mercado de opções aponta preço-alvo do Bitcoin no final de 2025",
+      "link": "https://br.tradingview.com/news/cointelegraph:6c329c60ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-12T22:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 22:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 22:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Retomada da alta ou inverno cripto? Mercado de opções aponta preço-alvo do Bitcoin no final de 2025\" data-qa-id=\"news-headline-title\">Retomada da alta ou inverno cripto? Mercado de opções aponta preço-alvo do Bitcoin no final de 2025</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:785123e7abc81:0",
+      "index": 1,
       "title": "Binance se aproxima da plataforma cripto de Trump ao integrar a stablecoin USD1",
       "link": "https://br.tradingview.com/news/cointelegraph:785123e7abc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f9f27c868bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Jogos Web3 migram para sustentabilidade com retorno da confiança, diz a BGA",
       "link": "https://br.tradingview.com/news/cointelegraph:f9f27c868bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c6ad699fabc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Tools for Humanity expande o app World em direção a um modelo de superapp",
       "link": "https://br.tradingview.com/news/cointelegraph:c6ad699fabc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:24e2fc322bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Pyth lança reserva com recompras de fundos do tesouro da DAO",
       "link": "https://br.tradingview.com/news/cointelegraph:24e2fc322bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d1915287bbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Tether pode tokenizar ações para garantir liquidez aos investidores, segundo reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:d1915287bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:27e5c58c1bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Tether avança para comprar a Juventus em um acordo histórico de cripto e esportes",
       "link": "https://br.tradingview.com/news/beincrypto:27e5c58c1bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:04295f966bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Análise de preços em 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:04295f966bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d2f748e10bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Figure Technology entra com 'segundo IPO' para levar emissão nativa de ações à rede Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:d2f748e10bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:23a2d9e1fbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Jane Street derrubou o preço do Bitcoin às 10h de hoje?",
       "link": "https://br.tradingview.com/news/beincrypto:23a2d9e1fbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:0f65d0759bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Paxos, Fidelity, Ripple, BitGo e Circle garantem aprovações como bancos fiduciários nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:0f65d0759bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:94ffcb688bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin oscila em US$ 92 mil e trader aposta no fim da queda 'manipulativa' do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:94ffcb688bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:dd8039043bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Europa reconsidera supervisão cripto à medida que a centralização na ESMA ganha força",
       "link": "https://br.tradingview.com/news/cointelegraph:dd8039043bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:6d77ff5a1bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preço do Ether subiu 260% da última vez que isso aconteceu: ETH pode chegar a US$ 5 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:6d77ff5a1bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 18:50:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 18:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Ether subiu 260% da última vez que isso aconteceu: ETH pode chegar a US$ 5 mil?\" data-qa-id=\"news-headline-title\">Preço do Ether subiu 260% da última vez que isso aconteceu: ETH pode chegar a US$ 5 mil?</div></div></article>"
-    },
-    {
-      "id": "beincrypto:3728017f3bc81:0",
-      "index": 13,
-      "title": "Bitcoin se consolida como hedge global em 2026, diz 21shares",
-      "link": "https://br.tradingview.com/news/beincrypto:3728017f3bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-12T18:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 18:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin se consolida como hedge global em 2026, diz 21shares\" data-qa-id=\"news-headline-title\">Bitcoin se consolida como hedge global em 2026, diz 21shares</div></div></article>"
     }
   ]
 }
