@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-12T14:54:59.366Z",
+  "updated_at": "2025-12-12T15:22:22.477Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b91bc167abc81:0",
+      "id": "cointelegraph:402d0937dbc81:0",
       "index": 0,
+      "title": "Nova bandeira de baixa do Bitcoin projeta alvo de US$ 76 mil para o BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:402d0937dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-12T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nova bandeira de baixa do Bitcoin projeta alvo de US$ 76 mil para o BTC\" data-qa-id=\"news-headline-title\">Nova bandeira de baixa do Bitcoin projeta alvo de US$ 76 mil para o BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b91bc167abc81:0",
+      "index": 1,
       "title": "Bitcoin reage a corte de juros do Fed, e analistas preveem rali maior à frente",
       "link": "https://br.tradingview.com/news/cointelegraph:b91bc167abc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XI0GH:0",
-      "index": 1,
+      "index": 2,
       "title": "Interactive Brokers permite que contas sejam financiadas com stablecoins - Bloomberg News",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XI0GH:0/",
       "source": "Reuters",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b4063f5f1bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Mineradores de Bitcoin podem impulsionar adoção corporativa à medida que compras de tesourarias cripto desaceleram",
       "link": "https://br.tradingview.com/news/cointelegraph:b4063f5f1bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e80991c54bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin e blockchain devem formar o novo sistema financeiro do Paquistão, diz ministro",
       "link": "https://br.tradingview.com/news/cointelegraph:e80991c54bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f7b765d86bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Sinal de compra do XRP pisca enquanto taxa de financiamento fica profundamente negativa: os touros vão agir?",
       "link": "https://br.tradingview.com/news/cointelegraph:f7b765d86bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:79e7a9821bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Netflix anuncia comédia sobre senha perdida de US$ 35 milhões em criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:79e7a9821bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:be9ebec5abc81:0",
-      "index": 6,
+      "index": 7,
       "title": "World Chat chega para substituir o WhatsApp? Criador do ChatGPT lança novo app de mensagens que funciona no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:be9ebec5abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:cf9f17d1dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "J.P. Morgan usa Solana na emissão tokenizada de títulos corporativos da Galaxy",
       "link": "https://br.tradingview.com/news/cointelegraph:cf9f17d1dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d8d0112d5bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Xiaomi vai pré-instalar carteira cripto da Sei em milhões de celulares em lançamento global",
       "link": "https://br.tradingview.com/news/cointelegraph:d8d0112d5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:74d356e53bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Tendência do preço do Ether projeta alta de três dígitos com retomada dos fluxos para ETFs de ETH",
       "link": "https://br.tradingview.com/news/cointelegraph:74d356e53bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:43b272ccebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Mercado Bitcoin lança primeiro ‘FIDC cripto’ do Brasil e introduz tokenização em mercado de R$ 700 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:43b272ccebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e263332bcbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Preço do Bitcoin hoje, 12/12/2025: BTC mantém movimento lateral preso entre US$ 90 mil e US$ 93 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:e263332bcbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XI087:0",
-      "index": 12,
+      "index": 13,
       "title": "Analistas alertam para riscos para a Strategy em reformulação do índice Nasdaq 100",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XI087:0/",
       "source": "Reuters",
