@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-12T11:20:17.647Z",
+  "updated_at": "2025-12-12T11:54:12.880Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:43b272ccebc81:0",
+      "id": "cointelegraph:74d356e53bc81:0",
       "index": 0,
+      "title": "Tendência do preço do Ether projeta alta de três dígitos com retomada dos fluxos para ETFs de ETH",
+      "link": "https://br.tradingview.com/news/cointelegraph:74d356e53bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-12T11:42:45.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 11:42:45 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 11:42 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tendência do preço do Ether projeta alta de três dígitos com retomada dos fluxos para ETFs de ETH\" data-qa-id=\"news-headline-title\">Tendência do preço do Ether projeta alta de três dígitos com retomada dos fluxos para ETFs de ETH</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:43b272ccebc81:0",
+      "index": 1,
       "title": "Mercado Bitcoin lança primeiro ‘FIDC cripto’ do Brasil e introduz tokenização em mercado de R$ 700 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:43b272ccebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:e263332bcbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do Bitcoin hoje, 12/12/2025: BTC mantém movimento lateral preso entre US$ 90 mil e US$ 93 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:e263332bcbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XI087:0",
-      "index": 2,
+      "index": 3,
       "title": "Analistas alertam para riscos para a Strategy em reformulação do índice Nasdaq 100",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XI087:0/",
       "source": "Reuters",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6fe6d5571bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Itaú recomenda alocação de até 3% em Bitcoin: maior risco é não ter BTC no portfólio",
       "link": "https://br.tradingview.com/news/cointelegraph:6fe6d5571bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a0050811bbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Efeito Banco Central: exchanges e empresas cripto no Brasil já procuram compradores para evitar falência",
       "link": "https://br.tradingview.com/news/cointelegraph:a0050811bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f91eaaabebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Comprar BTC no banco: Santander Brasil anuncia ampliação das negociações com Bitcoin e criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:f91eaaabebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f20014c1abc81:0",
-      "index": 6,
+      "index": 7,
       "title": "De olho em 2026 ABToken pede que Banco Central crie sandbox para criptomoedas no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:f20014c1abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:cab67420fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Gigante de pagamentos Stripe adquire equipe do app de carteira cripto Valora",
       "link": "https://br.tradingview.com/news/cointelegraph:cab67420fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9d9c58543bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Coinbase amplia acesso a DEX da Solana enquanto CeFi e DeFi convergem",
       "link": "https://br.tradingview.com/news/cointelegraph:9d9c58543bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:da3a7ecb0bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Votação sobre indicado de Trump para presidir a CFTC pode ocorrer hoje, diz senador dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:da3a7ecb0bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5230a579dbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Banco do México alerta que regras globais fragmentadas expõem as stablecoins a estresse e arbitragem",
       "link": "https://br.tradingview.com/news/cointelegraph:5230a579dbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:47aec6222bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Butão aposta no ouro e anuncia token RWA lastreado pelo Estado",
       "link": "https://br.tradingview.com/news/cointelegraph:47aec6222bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:1a3844f6cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin falha em sustentar ralis acima de US$ 94 mil mesmo com mudança na política do Fed: entenda o motivo",
       "link": "https://br.tradingview.com/news/cointelegraph:1a3844f6cbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin falha em sustentar ralis acima de US$ 94 mil mesmo com mudança na política do Fed: entenda o motivo\" data-qa-id=\"news-headline-title\">Bitcoin falha em sustentar ralis acima de US$ 94 mil mesmo com mudança na política do Fed: entenda o motivo</div></div></article>"
-    },
-    {
-      "id": "beincrypto:3d3ed71d6bc81:0",
-      "index": 13,
-      "title": "Arthur Hayes faz previsão sobre o Ethereum para 2026",
-      "link": "https://br.tradingview.com/news/beincrypto:3d3ed71d6bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-11T19:20:26.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 11 Dec 2025 19:20:26 GMT\" class=\"apply-common-tooltip\" title=\"11 de dez. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Arthur Hayes faz previsão sobre o Ethereum para 2026\" data-qa-id=\"news-headline-title\">Arthur Hayes faz previsão sobre o Ethereum para 2026</div></div></article>"
     }
   ]
 }
