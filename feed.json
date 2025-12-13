@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-13T13:19:28.678Z",
+  "updated_at": "2025-12-13T13:54:04.768Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -69,8 +69,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Dec 2025 09:49:05 GMT\" class=\"apply-common-tooltip\" title=\"13 de dez. de 2025, 09:49 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Banco Central do Brasil comenta sobre nova regulação das criptomoedas no país\" data-qa-id=\"news-headline-title\">Banco Central do Brasil comenta sobre nova regulação das criptomoedas no país</div></div></article>"
     },
     {
-      "id": "tag:reuters.com,2025:newsml_L1N3XJ01A:0",
+      "id": "cointelegraph:f8b402437bc81:0",
       "index": 6,
+      "title": "Analista sênior da Vanguard afirma que o Bitcoin não passa de um brinquedo de pelúcia",
+      "link": "https://br.tradingview.com/news/cointelegraph:f8b402437bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-13T07:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Dec 2025 07:30:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de dez. de 2025, 07:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Analista sênior da Vanguard afirma que o Bitcoin não passa de um brinquedo de pelúcia\" data-qa-id=\"news-headline-title\">Analista sênior da Vanguard afirma que o Bitcoin não passa de um brinquedo de pelúcia</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L1N3XJ01A:0",
+      "index": 7,
       "title": "A Strategy, empresa que acumula bitcoin, permanece no índice Nasdaq 100.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ01A:0/",
       "source": "Reuters",
@@ -81,7 +92,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XJ00O:0",
-      "index": 7,
+      "index": 8,
       "title": "A Strategy, empresa acumuladora de Bitcoins, permanece no índice Nasdaq 100.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ00O:0/",
       "source": "Reuters",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:17537d306bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "2026 será decisivo para o cripto: o recado direto da Binance aos investidores",
       "link": "https://br.tradingview.com/news/cointelegraph:17537d306bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:6c329c60ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Retomada da alta ou inverno cripto? Mercado de opções aponta preço-alvo do Bitcoin no final de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:6c329c60ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:785123e7abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Binance se aproxima da plataforma cripto de Trump ao integrar a stablecoin USD1",
       "link": "https://br.tradingview.com/news/cointelegraph:785123e7abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f9f27c868bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Jogos Web3 migram para sustentabilidade com retorno da confiança, diz a BGA",
       "link": "https://br.tradingview.com/news/cointelegraph:f9f27c868bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c6ad699fabc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Tools for Humanity expande o app World em direção a um modelo de superapp",
       "link": "https://br.tradingview.com/news/cointelegraph:c6ad699fabc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tools for Humanity expande o app World em direção a um modelo de superapp\" data-qa-id=\"news-headline-title\">Tools for Humanity expande o app World em direção a um modelo de superapp</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:24e2fc322bc81:0",
-      "index": 13,
-      "title": "Pyth lança reserva com recompras de fundos do tesouro da DAO",
-      "link": "https://br.tradingview.com/news/cointelegraph:24e2fc322bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-12T21:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pyth lança reserva com recompras de fundos do tesouro da DAO\" data-qa-id=\"news-headline-title\">Pyth lança reserva com recompras de fundos do tesouro da DAO</div></div></article>"
     }
   ]
 }
