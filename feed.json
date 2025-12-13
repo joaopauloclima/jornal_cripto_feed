@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-13T10:19:16.790Z",
+  "updated_at": "2025-12-13T10:53:48.327Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:181463d75bc81:0",
+      "id": "cointelegraph:5aa92357cbc81:0",
       "index": 0,
+      "title": "Notícias Cripto: Binance lança plataforma para crianças, Crypto.com vence prêmio, B2BINPAY, Conduit e outras novidades",
+      "link": "https://br.tradingview.com/news/cointelegraph:5aa92357cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-13T10:22:07.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Dec 2025 10:22:07 GMT\" class=\"apply-common-tooltip\" title=\"13 de dez. de 2025, 10:22 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias Cripto: Binance lança plataforma para crianças, Crypto.com vence prêmio, B2BINPAY, Conduit e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: Binance lança plataforma para crianças, Crypto.com vence prêmio, B2BINPAY, Conduit e outras novidades</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:181463d75bc81:0",
+      "index": 1,
       "title": "Banco Central do Brasil comenta sobre nova regulação das criptomoedas no país",
       "link": "https://br.tradingview.com/news/cointelegraph:181463d75bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XJ01A:0",
-      "index": 1,
+      "index": 2,
       "title": "A Strategy, empresa que acumula bitcoin, permanece no índice Nasdaq 100.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ01A:0/",
       "source": "Reuters",
@@ -26,7 +37,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XJ00O:0",
-      "index": 2,
+      "index": 3,
       "title": "A Strategy, empresa acumuladora de Bitcoins, permanece no índice Nasdaq 100.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ00O:0/",
       "source": "Reuters",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:17537d306bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "2026 será decisivo para o cripto: o recado direto da Binance aos investidores",
       "link": "https://br.tradingview.com/news/cointelegraph:17537d306bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6c329c60ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Retomada da alta ou inverno cripto? Mercado de opções aponta preço-alvo do Bitcoin no final de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:6c329c60ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:785123e7abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Binance se aproxima da plataforma cripto de Trump ao integrar a stablecoin USD1",
       "link": "https://br.tradingview.com/news/cointelegraph:785123e7abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f9f27c868bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Jogos Web3 migram para sustentabilidade com retorno da confiança, diz a BGA",
       "link": "https://br.tradingview.com/news/cointelegraph:f9f27c868bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c6ad699fabc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Tools for Humanity expande o app World em direção a um modelo de superapp",
       "link": "https://br.tradingview.com/news/cointelegraph:c6ad699fabc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:24e2fc322bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Pyth lança reserva com recompras de fundos do tesouro da DAO",
       "link": "https://br.tradingview.com/news/cointelegraph:24e2fc322bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:d1915287bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Tether pode tokenizar ações para garantir liquidez aos investidores, segundo reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:d1915287bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:27e5c58c1bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Tether avança para comprar a Juventus em um acordo histórico de cripto e esportes",
       "link": "https://br.tradingview.com/news/beincrypto:27e5c58c1bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:04295f966bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Análise de preços em 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:04295f966bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e LINK\" data-qa-id=\"news-headline-title\">Análise de preços em 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e LINK</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d2f748e10bc81:0",
-      "index": 12,
-      "title": "Figure Technology entra com 'segundo IPO' para levar emissão nativa de ações à rede Solana",
-      "link": "https://br.tradingview.com/news/cointelegraph:d2f748e10bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-12T20:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 20:10:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 20:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Figure Technology entra com 'segundo IPO' para levar emissão nativa de ações à rede Solana\" data-qa-id=\"news-headline-title\">Figure Technology entra com 'segundo IPO' para levar emissão nativa de ações à rede Solana</div></div></article>"
-    },
-    {
-      "id": "beincrypto:23a2d9e1fbc81:0",
-      "index": 13,
-      "title": "Jane Street derrubou o preço do Bitcoin às 10h de hoje?",
-      "link": "https://br.tradingview.com/news/beincrypto:23a2d9e1fbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-12T20:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Jane Street derrubou o preço do Bitcoin às 10h de hoje?\" data-qa-id=\"news-headline-title\">Jane Street derrubou o preço do Bitcoin às 10h de hoje?</div></div></article>"
     }
   ]
 }
