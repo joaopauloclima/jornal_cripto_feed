@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-13T16:23:08.804Z",
+  "updated_at": "2025-12-13T16:57:39.930Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d11988914bc81:0",
+      "id": "cointelegraph:f73e08610bc81:0",
       "index": 0,
+      "title": "Negociação à vista cai 66% em calmaria frequente antes de novo ciclo, diz Bitfinex",
+      "link": "https://br.tradingview.com/news/cointelegraph:f73e08610bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-13T16:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Dec 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de dez. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Negociação à vista cai 66% em calmaria frequente antes de novo ciclo, diz Bitfinex\" data-qa-id=\"news-headline-title\">Negociação à vista cai 66% em calmaria frequente antes de novo ciclo, diz Bitfinex</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d11988914bc81:0",
+      "index": 1,
       "title": "Gigante das stablecoins Tether faz oferta de US$ 1 bi para comprar a Juventus FC",
       "link": "https://br.tradingview.com/news/cointelegraph:d11988914bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:c7a9296d5bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Mineradores de Bitcoin recorrem a energia renovável em meio à redução da margem de lucro",
       "link": "https://br.tradingview.com/news/cointelegraph:c7a9296d5bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2c9056135bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Strategy sobrevive à primeira reestruturação do Nasdaq 100 desde que entrou no índice",
       "link": "https://br.tradingview.com/news/cointelegraph:2c9056135bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:dc1d09272bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin (BTC) reage pouco na semana após decisão do Fed",
       "link": "https://br.tradingview.com/news/beincrypto:dc1d09272bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:c8bfb2cfdbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 13/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:c8bfb2cfdbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6d00a407cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Odeia a Ticketmaster? Tickets RWA on-chain podem ter sucesso onde os reguladores falharam",
       "link": "https://br.tradingview.com/news/cointelegraph:6d00a407cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:5aa92357cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Notícias Cripto: Binance lança plataforma para crianças, Crypto.com vence prêmio, B2BINPAY, Conduit e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:5aa92357cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:181463d75bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Banco Central do Brasil comenta sobre nova regulação das criptomoedas no país",
       "link": "https://br.tradingview.com/news/cointelegraph:181463d75bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f8b402437bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Analista sênior da Vanguard afirma que o Bitcoin não passa de um brinquedo de pelúcia",
       "link": "https://br.tradingview.com/news/cointelegraph:f8b402437bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XJ01A:0",
-      "index": 9,
+      "index": 10,
       "title": "A Strategy, empresa que acumula bitcoin, permanece no índice Nasdaq 100.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ01A:0/",
       "source": "Reuters",
@@ -114,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XJ00O:0",
-      "index": 10,
+      "index": 11,
       "title": "A Strategy, empresa acumuladora de Bitcoins, permanece no índice Nasdaq 100.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ00O:0/",
       "source": "Reuters",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:17537d306bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "2026 será decisivo para o cripto: o recado direto da Binance aos investidores",
       "link": "https://br.tradingview.com/news/cointelegraph:17537d306bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:6c329c60ebc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Retomada da alta ou inverno cripto? Mercado de opções aponta preço-alvo do Bitcoin no final de 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:6c329c60ebc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 22:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 22:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Retomada da alta ou inverno cripto? Mercado de opções aponta preço-alvo do Bitcoin no final de 2025\" data-qa-id=\"news-headline-title\">Retomada da alta ou inverno cripto? Mercado de opções aponta preço-alvo do Bitcoin no final de 2025</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:785123e7abc81:0",
-      "index": 13,
-      "title": "Binance se aproxima da plataforma cripto de Trump ao integrar a stablecoin USD1",
-      "link": "https://br.tradingview.com/news/cointelegraph:785123e7abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-12T22:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 12 Dec 2025 22:10:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de dez. de 2025, 22:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance se aproxima da plataforma cripto de Trump ao integrar a stablecoin USD1\" data-qa-id=\"news-headline-title\">Binance se aproxima da plataforma cripto de Trump ao integrar a stablecoin USD1</div></div></article>"
     }
   ]
 }
