@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-14T11:53:34.489Z",
+  "updated_at": "2025-12-14T12:33:40.510Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:186b6642abc81:0",
+      "id": "cointelegraph:2709d9be4bc81:0",
       "index": 0,
+      "title": "ETFs de Solana registram sete dias consecutivos de entrada de capital, apesar da queda nos preços",
+      "link": "https://br.tradingview.com/news/cointelegraph:2709d9be4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-14T12:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Dec 2025 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de dez. de 2025, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Solana registram sete dias consecutivos de entrada de capital, apesar da queda nos preços\" data-qa-id=\"news-headline-title\">ETFs de Solana registram sete dias consecutivos de entrada de capital, apesar da queda nos preços</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:186b6642abc81:0",
+      "index": 1,
       "title": "SOL enfrenta dificuldades com queda do TVL da Solana e de demanda por memecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:186b6642abc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f1428829cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Grupos cripto criticam Citadel por defender regras mais rígidas para tokenização de DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:f1428829cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:f73e08610bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Negociação à vista cai 66% em calmaria frequente antes de novo ciclo, diz Bitfinex",
       "link": "https://br.tradingview.com/news/cointelegraph:f73e08610bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d11988914bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Gigante das stablecoins Tether faz oferta de US$ 1 bi para comprar a Juventus FC",
       "link": "https://br.tradingview.com/news/cointelegraph:d11988914bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c7a9296d5bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Mineradores de Bitcoin recorrem a energia renovável em meio à redução da margem de lucro",
       "link": "https://br.tradingview.com/news/cointelegraph:c7a9296d5bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:2c9056135bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Strategy sobrevive à primeira reestruturação do Nasdaq 100 desde que entrou no índice",
       "link": "https://br.tradingview.com/news/cointelegraph:2c9056135bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:dc1d09272bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin (BTC) reage pouco na semana após decisão do Fed",
       "link": "https://br.tradingview.com/news/beincrypto:dc1d09272bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:c8bfb2cfdbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 13/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:c8bfb2cfdbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:6d00a407cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Odeia a Ticketmaster? Tickets RWA on-chain podem ter sucesso onde os reguladores falharam",
       "link": "https://br.tradingview.com/news/cointelegraph:6d00a407cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5aa92357cbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Notícias Cripto: Binance lança plataforma para crianças, Crypto.com vence prêmio, B2BINPAY, Conduit e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:5aa92357cbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:181463d75bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Banco Central do Brasil comenta sobre nova regulação das criptomoedas no país",
       "link": "https://br.tradingview.com/news/cointelegraph:181463d75bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f8b402437bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Analista sênior da Vanguard afirma que o Bitcoin não passa de um brinquedo de pelúcia",
       "link": "https://br.tradingview.com/news/cointelegraph:f8b402437bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XJ01A:0",
-      "index": 12,
+      "index": 13,
       "title": "A Strategy, empresa que acumula bitcoin, permanece no índice Nasdaq 100.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ01A:0/",
       "source": "Reuters",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/indices/nasdaq-100.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/biogen.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/cdw.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Dec 2025 01:59:16 GMT\" class=\"apply-common-tooltip\" title=\"13 de dez. de 2025, 01:59 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A Strategy, empresa que acumula bitcoin, permanece no índice Nasdaq 100.\" data-qa-id=\"news-headline-title\">A Strategy, empresa que acumula bitcoin, permanece no índice Nasdaq 100.</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L1N3XJ00O:0",
-      "index": 13,
-      "title": "A Strategy, empresa acumuladora de Bitcoins, permanece no índice Nasdaq 100.",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XJ00O:0/",
-      "source": "Reuters",
-      "published_at": "2025-12-13T01:15:30.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/indices/nasdaq-100.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Dec 2025 01:15:30 GMT\" class=\"apply-common-tooltip\" title=\"13 de dez. de 2025, 01:15 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A Strategy, empresa acumuladora de Bitcoins, permanece no índice Nasdaq 100.\" data-qa-id=\"news-headline-title\">A Strategy, empresa acumuladora de Bitcoins, permanece no índice Nasdaq 100.</div></div></article>"
     }
   ]
 }
