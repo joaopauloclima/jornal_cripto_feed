@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-14T16:58:11.403Z",
+  "updated_at": "2025-12-14T17:18:00.911Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e1eb1a815bc81:0",
+      "id": "cointelegraph:5c3627ac2bc81:0",
       "index": 0,
+      "title": "Standard Chartered e Coinbase aprofundam aliança para construir infraestrutura institucional de criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:5c3627ac2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-14T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Standard Chartered e Coinbase aprofundam aliança para construir infraestrutura institucional de criptomoedas\" data-qa-id=\"news-headline-title\">Standard Chartered e Coinbase aprofundam aliança para construir infraestrutura institucional de criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e1eb1a815bc81:0",
+      "index": 1,
       "title": "Bitcoin 'cairá abaixo de US$ 70 mil' devido à postura agressiva do Japão, dizem analistas macroeconômicos",
       "link": "https://br.tradingview.com/news/cointelegraph:e1eb1a815bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:39d1e8f5dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Touros do XRP ganham terreno dos ursos nas redes sociais em meio às entradas em ETFs",
       "link": "https://br.tradingview.com/news/cointelegraph:39d1e8f5dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c733fe8c6bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Ciclo de quatro anos do Bitcoin continua, mas é influenciado por fatores políticos e de liquidez, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:c733fe8c6bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:72bc74df9bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "SEC publica guia de custódia de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:72bc74df9bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:d8545d38cbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Previsões otimistas do Bitcoin seguem válidas por estes 3 motivos",
       "link": "https://br.tradingview.com/news/beincrypto:d8545d38cbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4128e0a9fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Uso de stablecoins na Venezuela de manter crescimento em meio à instabilidade econômica",
       "link": "https://br.tradingview.com/news/cointelegraph:4128e0a9fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:2709d9be4bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETFs de Solana registram sete dias consecutivos de entrada de capital, apesar da queda nos preços",
       "link": "https://br.tradingview.com/news/cointelegraph:2709d9be4bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:186b6642abc81:0",
-      "index": 7,
+      "index": 8,
       "title": "SOL enfrenta dificuldades com queda do TVL da Solana e de demanda por memecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:186b6642abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f1428829cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Grupos cripto criticam Citadel por defender regras mais rígidas para tokenização de DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:f1428829cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f73e08610bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Negociação à vista cai 66% em calmaria frequente antes de novo ciclo, diz Bitfinex",
       "link": "https://br.tradingview.com/news/cointelegraph:f73e08610bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d11988914bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Gigante das stablecoins Tether faz oferta de US$ 1 bi para comprar a Juventus FC",
       "link": "https://br.tradingview.com/news/cointelegraph:d11988914bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c7a9296d5bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Mineradores de Bitcoin recorrem a energia renovável em meio à redução da margem de lucro",
       "link": "https://br.tradingview.com/news/cointelegraph:c7a9296d5bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2c9056135bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Strategy sobrevive à primeira reestruturação do Nasdaq 100 desde que entrou no índice",
       "link": "https://br.tradingview.com/news/cointelegraph:2c9056135bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Strategy sobrevive à primeira reestruturação do Nasdaq 100 desde que entrou no índice\" data-qa-id=\"news-headline-title\">Strategy sobrevive à primeira reestruturação do Nasdaq 100 desde que entrou no índice</div></div></article>"
-    },
-    {
-      "id": "beincrypto:dc1d09272bc81:0",
-      "index": 13,
-      "title": "Bitcoin (BTC) reage pouco na semana após decisão do Fed",
-      "link": "https://br.tradingview.com/news/beincrypto:dc1d09272bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-13T12:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 13 Dec 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de dez. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin (BTC) reage pouco na semana após decisão do Fed\" data-qa-id=\"news-headline-title\">Bitcoin (BTC) reage pouco na semana após decisão do Fed</div></div></article>"
     }
   ]
 }
