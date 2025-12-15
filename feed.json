@@ -1,10 +1,43 @@
 {
-  "updated_at": "2025-12-15T15:03:36.747Z",
+  "updated_at": "2025-12-15T15:33:49.354Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:9d5a0dba1bc81:0",
+      "id": "cointelegraph:106eb2118bc81:0",
       "index": 0,
+      "title": "Bitcoin a US$ 40 mil? Analista macro Luke Gromen adota visão pessimista sobre o BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:106eb2118bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-15T14:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin a US$ 40 mil? Analista macro Luke Gromen adota visão pessimista sobre o BTC\" data-qa-id=\"news-headline-title\">Bitcoin a US$ 40 mil? Analista macro Luke Gromen adota visão pessimista sobre o BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:70773d3d4bc81:0",
+      "index": 1,
+      "title": "Vitalik Buterin propõe uso de provas ZK para auditar algoritmo e rankings do X",
+      "link": "https://br.tradingview.com/news/cointelegraph:70773d3d4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-15T14:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik Buterin propõe uso de provas ZK para auditar algoritmo e rankings do X\" data-qa-id=\"news-headline-title\">Vitalik Buterin propõe uso de provas ZK para auditar algoritmo e rankings do X</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ce10c31debc81:0",
+      "index": 2,
+      "title": "Hackers exploram biblioteca JavaScript para inserir crypto drainers",
+      "link": "https://br.tradingview.com/news/cointelegraph:ce10c31debc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-15T14:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 14:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Hackers exploram biblioteca JavaScript para inserir crypto drainers\" data-qa-id=\"news-headline-title\">Hackers exploram biblioteca JavaScript para inserir crypto drainers</div></div></article>"
+    },
+    {
+      "id": "beincrypto:9d5a0dba1bc81:0",
+      "index": 3,
       "title": "Aposentadoria com 0,21 BTC na América Latina: plano gera reações mistas",
       "link": "https://br.tradingview.com/news/beincrypto:9d5a0dba1bc81:0/",
       "source": "Beincrypto",
@@ -14,8 +47,30 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Aposentadoria com 0,21 BTC na América Latina: plano gera reações mistas\" data-qa-id=\"news-headline-title\">Aposentadoria com 0,21 BTC na América Latina: plano gera reações mistas</div></div></article>"
     },
     {
+      "id": "cointelegraph:8633ac3d0bc81:0",
+      "index": 4,
+      "title": "Michael Saylor indica nova compra de Bitcoin enquanto BTC cai abaixo de US$ 88 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:8633ac3d0bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-15T13:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 13:50:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 13:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Michael Saylor indica nova compra de Bitcoin enquanto BTC cai abaixo de US$ 88 mil\" data-qa-id=\"news-headline-title\">Michael Saylor indica nova compra de Bitcoin enquanto BTC cai abaixo de US$ 88 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:98faab730bc81:0",
+      "index": 5,
+      "title": "Opiniões de Trump sobre taxas de juros 'não terão peso' no Fed, diz Hassett",
+      "link": "https://br.tradingview.com/news/cointelegraph:98faab730bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-15T13:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Opiniões de Trump sobre taxas de juros 'não terão peso' no Fed, diz Hassett\" data-qa-id=\"news-headline-title\">Opiniões de Trump sobre taxas de juros 'não terão peso' no Fed, diz Hassett</div></div></article>"
+    },
+    {
       "id": "beincrypto:454bd5873bc81:0",
-      "index": 1,
+      "index": 6,
       "title": "Indicador aponta nova máxima histórica e acende alerta no Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:454bd5873bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +81,7 @@
     },
     {
       "id": "beincrypto:962be7301bc81:0",
-      "index": 2,
+      "index": 7,
       "title": "Bitcoin (BTC) perde apoio das baleias e agora?",
       "link": "https://br.tradingview.com/news/beincrypto:962be7301bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +92,7 @@
     },
     {
       "id": "beincrypto:dc4c2543dbc81:0",
-      "index": 3,
+      "index": 8,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 15/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:dc4c2543dbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +103,7 @@
     },
     {
       "id": "beincrypto:fd06c1c17bc81:0",
-      "index": 4,
+      "index": 9,
       "title": "O que é o padrão “Bart Simpson” e como seu retorno pode impactar o Bitcoin?",
       "link": "https://br.tradingview.com/news/beincrypto:fd06c1c17bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ee53bdc4bbc81:0",
-      "index": 5,
+      "index": 10,
       "title": "Volatilidade extremamente baixa do Bitcoin deve terminar em meio à nova meta de US$ 50 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:ee53bdc4bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +125,7 @@
     },
     {
       "id": "cointelegraph:cefd1df43bc81:0",
-      "index": 6,
+      "index": 11,
       "title": "Como a HashKey planeja se tornar a primeira IPO de criptomoedas de Hong Kong",
       "link": "https://br.tradingview.com/news/cointelegraph:cefd1df43bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +136,7 @@
     },
     {
       "id": "cointelegraph:73a1fb84fbc81:0",
-      "index": 7,
+      "index": 12,
       "title": "Vendas call cobertas por veteranos são a principal causa da queda do Bitcoin, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:73a1fb84fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5c3627ac2bc81:0",
-      "index": 8,
+      "index": 13,
       "title": "Standard Chartered e Coinbase aprofundam aliança para construir infraestrutura institucional de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:5c3627ac2bc81:0/",
       "source": "Cointelegraph",
@@ -100,61 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Standard Chartered e Coinbase aprofundam aliança para construir infraestrutura institucional de criptomoedas\" data-qa-id=\"news-headline-title\">Standard Chartered e Coinbase aprofundam aliança para construir infraestrutura institucional de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e1eb1a815bc81:0",
-      "index": 9,
-      "title": "Bitcoin 'cairá abaixo de US$ 70 mil' devido à postura agressiva do Japão, dizem analistas macroeconômicos",
-      "link": "https://br.tradingview.com/news/cointelegraph:e1eb1a815bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-14T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Dec 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de dez. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin 'cairá abaixo de US$ 70 mil' devido à postura agressiva do Japão, dizem analistas macroeconômicos\" data-qa-id=\"news-headline-title\">Bitcoin 'cairá abaixo de US$ 70 mil' devido à postura agressiva do Japão, dizem analistas macroeconômicos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:39d1e8f5dbc81:0",
-      "index": 10,
-      "title": "Touros do XRP ganham terreno dos ursos nas redes sociais em meio às entradas em ETFs",
-      "link": "https://br.tradingview.com/news/cointelegraph:39d1e8f5dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-14T15:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Dec 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de dez. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Touros do XRP ganham terreno dos ursos nas redes sociais em meio às entradas em ETFs\" data-qa-id=\"news-headline-title\">Touros do XRP ganham terreno dos ursos nas redes sociais em meio às entradas em ETFs</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c733fe8c6bc81:0",
-      "index": 11,
-      "title": "Ciclo de quatro anos do Bitcoin continua, mas é influenciado por fatores políticos e de liquidez, diz analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:c733fe8c6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-14T13:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ciclo de quatro anos do Bitcoin continua, mas é influenciado por fatores políticos e de liquidez, diz analista\" data-qa-id=\"news-headline-title\">Ciclo de quatro anos do Bitcoin continua, mas é influenciado por fatores políticos e de liquidez, diz analista</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:72bc74df9bc81:0",
-      "index": 12,
-      "title": "SEC publica guia de custódia de criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:72bc74df9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-14T13:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SEC publica guia de custódia de criptomoedas\" data-qa-id=\"news-headline-title\">SEC publica guia de custódia de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:d8545d38cbc81:0",
-      "index": 13,
-      "title": "Previsões otimistas do Bitcoin seguem válidas por estes 3 motivos",
-      "link": "https://br.tradingview.com/news/beincrypto:d8545d38cbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-14T13:18:46.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Dec 2025 13:18:46 GMT\" class=\"apply-common-tooltip\" title=\"14 de dez. de 2025, 13:18 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Previsões otimistas do Bitcoin seguem válidas por estes 3 motivos\" data-qa-id=\"news-headline-title\">Previsões otimistas do Bitcoin seguem válidas por estes 3 motivos</div></div></article>"
     }
   ]
 }
