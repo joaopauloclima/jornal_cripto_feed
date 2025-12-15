@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-15T20:23:08.154Z",
+  "updated_at": "2025-12-15T20:58:44.834Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:40a5c1e9dbc81:0",
+      "id": "cointelegraph:58fd1150abc81:0",
       "index": 0,
+      "title": "Análise de preços em 15/12: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH",
+      "link": "https://br.tradingview.com/news/cointelegraph:58fd1150abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-15T20:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 15/12: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH\" data-qa-id=\"news-headline-title\">Análise de preços em 15/12: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:453c88b64bc81:0",
+      "index": 1,
+      "title": "Investidor de Bitcoin perde fundo de aposentadoria em golpe romântico impulsionado por IA",
+      "link": "https://br.tradingview.com/news/cointelegraph:453c88b64bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-15T20:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Investidor de Bitcoin perde fundo de aposentadoria em golpe romântico impulsionado por IA\" data-qa-id=\"news-headline-title\">Investidor de Bitcoin perde fundo de aposentadoria em golpe romântico impulsionado por IA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:40a5c1e9dbc81:0",
+      "index": 2,
       "title": "Como as baleias de Bitcoin movem os mercados e quais sinais ignorar",
       "link": "https://br.tradingview.com/news/cointelegraph:40a5c1e9dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c17965535bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin vê 'manipulação pura' enquanto venda nos EUA liquida US$ 200 milhões em uma hora",
       "link": "https://br.tradingview.com/news/cointelegraph:c17965535bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a0cb617a5bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "ETPs de ativos digitais registram a terceira semana consecutiva de entradas líquidas, lideradas pela demanda dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:a0cb617a5bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6b8ef0b3fbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Quebra do movimento parabólico do Bitcoin aumenta a chance de correção de 80%, diz trader veterano",
       "link": "https://br.tradingview.com/news/cointelegraph:6b8ef0b3fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:e9f258f98bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Essas altcoins correm risco elevado de liquidação nos próximos dias",
       "link": "https://br.tradingview.com/news/beincrypto:e9f258f98bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:9214aeb90bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Strategy adiciona quase US$ 1 bilhão em Bitcoin em meio à queda do mercado que pressiona as ações da MSTR",
       "link": "https://br.tradingview.com/news/cointelegraph:9214aeb90bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:03d72a62fbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Operadora de caixas eletrônicos de criptomoedas planeja expansão no Texas e cita regulamentação favorável",
       "link": "https://br.tradingview.com/news/cointelegraph:03d72a62fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e3b9e7711bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "XRP cai abaixo de US$ 2 apesar de US$ 1 bilhão de entradas em ETFs: até onde o preço pode cair",
       "link": "https://br.tradingview.com/news/cointelegraph:e3b9e7711bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:46ae3d9d9bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Como as criptomoedas são usadas em 2025: YouTube, cartas de Pokémon e mais",
       "link": "https://br.tradingview.com/news/cointelegraph:46ae3d9d9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:983c85a4ebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "XRP testa nível decisivo e pode subir 9% se segurar o preço",
       "link": "https://br.tradingview.com/news/beincrypto:983c85a4ebc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:3e2cf16cfbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "JPMorgan aposta no Ethereum com fundo monetário tokenizado",
       "link": "https://br.tradingview.com/news/beincrypto:3e2cf16cfbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:106eb2118bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin a US$ 40 mil? Analista macro Luke Gromen adota visão pessimista sobre o BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:106eb2118bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin a US$ 40 mil? Analista macro Luke Gromen adota visão pessimista sobre o BTC\" data-qa-id=\"news-headline-title\">Bitcoin a US$ 40 mil? Analista macro Luke Gromen adota visão pessimista sobre o BTC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:70773d3d4bc81:0",
-      "index": 12,
-      "title": "Vitalik Buterin propõe uso de provas ZK para auditar algoritmo e rankings do X",
-      "link": "https://br.tradingview.com/news/cointelegraph:70773d3d4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-15T14:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik Buterin propõe uso de provas ZK para auditar algoritmo e rankings do X\" data-qa-id=\"news-headline-title\">Vitalik Buterin propõe uso de provas ZK para auditar algoritmo e rankings do X</div></div></article>"
     }
   ]
 }
