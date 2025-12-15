@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-15T17:58:39.786Z",
+  "updated_at": "2025-12-15T18:29:11.342Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:46ae3d9d9bc81:0",
+      "id": "cointelegraph:e3b9e7711bc81:0",
       "index": 0,
+      "title": "XRP cai abaixo de US$ 2 apesar de US$ 1 bilhão de entradas em ETFs: até onde o preço pode cair",
+      "link": "https://br.tradingview.com/news/cointelegraph:e3b9e7711bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-15T18:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP cai abaixo de US$ 2 apesar de US$ 1 bilhão de entradas em ETFs: até onde o preço pode cair\" data-qa-id=\"news-headline-title\">XRP cai abaixo de US$ 2 apesar de US$ 1 bilhão de entradas em ETFs: até onde o preço pode cair</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:46ae3d9d9bc81:0",
+      "index": 1,
       "title": "Como as criptomoedas são usadas em 2025: YouTube, cartas de Pokémon e mais",
       "link": "https://br.tradingview.com/news/cointelegraph:46ae3d9d9bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:983c85a4ebc81:0",
-      "index": 1,
+      "index": 2,
       "title": "XRP testa nível decisivo e pode subir 9% se segurar o preço",
       "link": "https://br.tradingview.com/news/beincrypto:983c85a4ebc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:3e2cf16cfbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "JPMorgan aposta no Ethereum com fundo monetário tokenizado",
       "link": "https://br.tradingview.com/news/beincrypto:3e2cf16cfbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:106eb2118bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin a US$ 40 mil? Analista macro Luke Gromen adota visão pessimista sobre o BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:106eb2118bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:70773d3d4bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Vitalik Buterin propõe uso de provas ZK para auditar algoritmo e rankings do X",
       "link": "https://br.tradingview.com/news/cointelegraph:70773d3d4bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ce10c31debc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Hackers exploram biblioteca JavaScript para inserir crypto drainers",
       "link": "https://br.tradingview.com/news/cointelegraph:ce10c31debc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:9d5a0dba1bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Aposentadoria com 0,21 BTC na América Latina: plano gera reações mistas",
       "link": "https://br.tradingview.com/news/beincrypto:9d5a0dba1bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8633ac3d0bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Michael Saylor indica nova compra de Bitcoin enquanto BTC cai abaixo de US$ 88 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:8633ac3d0bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:98faab730bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Opiniões de Trump sobre taxas de juros 'não terão peso' no Fed, diz Hassett",
       "link": "https://br.tradingview.com/news/cointelegraph:98faab730bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:454bd5873bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Indicador aponta nova máxima histórica e acende alerta no Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:454bd5873bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:962be7301bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin (BTC) perde apoio das baleias e agora?",
       "link": "https://br.tradingview.com/news/beincrypto:962be7301bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:dc4c2543dbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 15/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:dc4c2543dbc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:fd06c1c17bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "O que é o padrão “Bart Simpson” e como seu retorno pode impactar o Bitcoin?",
       "link": "https://br.tradingview.com/news/beincrypto:fd06c1c17bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O que é o padrão “Bart Simpson” e como seu retorno pode impactar o Bitcoin?\" data-qa-id=\"news-headline-title\">O que é o padrão “Bart Simpson” e como seu retorno pode impactar o Bitcoin?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ee53bdc4bbc81:0",
-      "index": 13,
-      "title": "Volatilidade extremamente baixa do Bitcoin deve terminar em meio à nova meta de US$ 50 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:ee53bdc4bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-14T21:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 14 Dec 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de dez. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Volatilidade extremamente baixa do Bitcoin deve terminar em meio à nova meta de US$ 50 mil\" data-qa-id=\"news-headline-title\">Volatilidade extremamente baixa do Bitcoin deve terminar em meio à nova meta de US$ 50 mil</div></div></article>"
     }
   ]
 }
