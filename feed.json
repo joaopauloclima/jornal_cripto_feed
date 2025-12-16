@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-16T18:29:04.389Z",
+  "updated_at": "2025-12-16T19:04:04.112Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8237f0fb6bc81:0",
+      "id": "cointelegraph:bd17a636fbc81:0",
       "index": 0,
+      "title": "Regulador da Espanha define regras de transição do MiCA para plataformas de criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:bd17a636fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-16T18:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Regulador da Espanha define regras de transição do MiCA para plataformas de criptomoedas\" data-qa-id=\"news-headline-title\">Regulador da Espanha define regras de transição do MiCA para plataformas de criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8237f0fb6bc81:0",
+      "index": 1,
       "title": "Regulador do Reino Unido consulta sobre regras de criptomoedas para exchanges, empréstimos e DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:8237f0fb6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:83ecfb606bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Solana enfrenta ataque DDoS em 'escala industrial' e cofundador diz que isso é um 'bom sinal'",
       "link": "https://br.tradingview.com/news/cointelegraph:83ecfb606bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:83e282589bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Buena Vista lança primeiro ETF de Ethereum no Brasil que paga dividendos sem ser staking",
       "link": "https://br.tradingview.com/news/cointelegraph:83e282589bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:36b978cbcbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Pix de sugar daddies a sugar babies chega a R$ 6 milhões em 2025, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:36b978cbcbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9ee8bc1ecbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Oferta de Bitcoin em posse de holders de longo prazo atinge mínimas de 8 meses: altista ou baixista?",
       "link": "https://br.tradingview.com/news/cointelegraph:9ee8bc1ecbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:469ac7f5cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Gemini, liderada pelos Winklevoss, lança mercados de previsão nos 50 estados dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:469ac7f5cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:50426cc81bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Maioria dos setores cripto ficou atrás do Bitcoin nos últimos 3 meses, segundo a Glassnode",
       "link": "https://br.tradingview.com/news/cointelegraph:50426cc81bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9dc5afdcebc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Marco regulatório da IA no Brasil pode ser votado ainda este ano",
       "link": "https://br.tradingview.com/news/cointelegraph:9dc5afdcebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b85c9af8ebc81:0",
-      "index": 8,
+      "index": 9,
       "title": "'Sharks' de Bitcoin acumulam no ritmo mais rápido em 13 anos, com BTC em queda de 30%",
       "link": "https://br.tradingview.com/news/cointelegraph:b85c9af8ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:422689614bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "MetaMask adiciona suporte ao Bitcoin após provocação feita há 10 meses",
       "link": "https://br.tradingview.com/news/cointelegraph:422689614bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5dde51779bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin mira US$ 78 mil enquanto prepara capote no ouro, dizem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:5dde51779bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:26f2112abbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Mais de 1 em cada 20 e-mails é malicioso, alerta gigante da internet Cloudflare",
       "link": "https://br.tradingview.com/news/cointelegraph:26f2112abbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:99f118deabc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin pode cair 15% se perder este nível-chave antes do fim de 2025",
       "link": "https://br.tradingview.com/news/beincrypto:99f118deabc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode cair 15% se perder este nível-chave antes do fim de 2025\" data-qa-id=\"news-headline-title\">Bitcoin pode cair 15% se perder este nível-chave antes do fim de 2025</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f8ffb876fbc81:0",
-      "index": 13,
-      "title": "Ripple testa RLUSD em L2s da Ethereum em estratégia multichain",
-      "link": "https://br.tradingview.com/news/cointelegraph:f8ffb876fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-16T13:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ripple testa RLUSD em L2s da Ethereum em estratégia multichain\" data-qa-id=\"news-headline-title\">Ripple testa RLUSD em L2s da Ethereum em estratégia multichain</div></div></article>"
     }
   ]
 }
