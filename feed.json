@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-16T11:57:49.039Z",
+  "updated_at": "2025-12-16T12:39:10.224Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2a7f0112fbc81:0",
+      "id": "cointelegraph:849772648bc81:0",
       "index": 0,
+      "title": "Bitcoin deve atingir nova máxima histórica em até 6 meses, afirma Grayscale",
+      "link": "https://br.tradingview.com/news/cointelegraph:849772648bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-16T12:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 12:20:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 12:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin deve atingir nova máxima histórica em até 6 meses, afirma Grayscale\" data-qa-id=\"news-headline-title\">Bitcoin deve atingir nova máxima histórica em até 6 meses, afirma Grayscale</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6997eea49bc81:0",
+      "index": 1,
+      "title": "Bitcoin e altcoins caem com troca no comando do Fed e temores de bolha em IA assustando os mercados",
+      "link": "https://br.tradingview.com/news/cointelegraph:6997eea49bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-16T12:08:39.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 12:08:39 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 12:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin e altcoins caem com troca no comando do Fed e temores de bolha em IA assustando os mercados\" data-qa-id=\"news-headline-title\">Bitcoin e altcoins caem com troca no comando do Fed e temores de bolha em IA assustando os mercados</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2a7f0112fbc81:0",
+      "index": 2,
       "title": "Criptomoedas recuam em dia de tombo do Bitcoin com IA e empregos nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:2a7f0112fbc81:0/",
       "source": "Cointelegraph",
@@ -14,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 11:40:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 11:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas recuam em dia de tombo do Bitcoin com IA e empregos nos EUA\" data-qa-id=\"news-headline-title\">Criptomoedas recuam em dia de tombo do Bitcoin com IA e empregos nos EUA</div></div></article>"
     },
     {
+      "id": "beincrypto:d6ada2a99bc81:0",
+      "index": 3,
+      "title": "Por que o mercado de criptomoedas está em baixa hoje 16/12/2025?",
+      "link": "https://br.tradingview.com/news/beincrypto:d6ada2a99bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-12-16T11:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em baixa hoje 16/12/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em baixa hoje 16/12/2025?</div></div></article>"
+    },
+    {
       "id": "cointelegraph:fc6bff976bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "TCE-SP realiza o primeiro leilão publico com documentos 100% registrados em blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:fc6bff976bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:fa5429026bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "₿itUSP: Maior universidade pública do Brasil, USP avalia lançamento de  própria",
       "link": "https://br.tradingview.com/news/cointelegraph:fa5429026bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f06026d8fbc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Preço do Bitcoin hoje, 16/12/2025: Por que o BTC caiu hoje? Cripto volta para US$ 86 mil com baixa de 4%",
       "link": "https://br.tradingview.com/news/cointelegraph:f06026d8fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4bbacd7fbbc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Preocupado com a queda do Bitcoin para US$ 85 mil? 21shares e Bitfinex cravam 'o halving já era' e indicam o futuro do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:4bbacd7fbbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:1f3c37d26bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Autocustódia vira câmbio: a regra brasileira que não existe em nenhum outro país",
       "link": "https://br.tradingview.com/news/cointelegraph:1f3c37d26bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a37686ef7bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Ciclo de 4 anos do Bitcoin não é mais o mesmo: o que isso significa para os investidores, segundo a Hashdex",
       "link": "https://br.tradingview.com/news/cointelegraph:a37686ef7bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:1c008689ebc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Bitcoin em 2026: Analista diz que fechamento de dezembro será decisivo e aponta nível-chave a ser observado",
       "link": "https://br.tradingview.com/news/cointelegraph:1c008689ebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:826884a46bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Anchorage Digital aprofunda avanço no mercado de RIAs ao adquirir unidade da Securitize",
       "link": "https://br.tradingview.com/news/cointelegraph:826884a46bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:663deef08bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Bitget testa negociação TradFi com derivativos de forex, ouro e ações via USDt",
       "link": "https://br.tradingview.com/news/cointelegraph:663deef08bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:fd54730bbbc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Bitcoin cai abaixo de US$ 86 mil sob pressão de vendas de baleias de US$ 2,78 bilhões que superam compradores de quedas",
       "link": "https://br.tradingview.com/news/cointelegraph:fd54730bbbc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin cai abaixo de US$ 86 mil sob pressão de vendas de baleias de US$ 2,78 bilhões que superam compradores de quedas\" data-qa-id=\"news-headline-title\">Bitcoin cai abaixo de US$ 86 mil sob pressão de vendas de baleias de US$ 2,78 bilhões que superam compradores de quedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c7f3d7b1cbc81:0",
-      "index": 11,
-      "title": "American Bitcoin apoiada por Trump ultrapassa a ProCap na corrida das tesourarias corporativas de BTC",
-      "link": "https://br.tradingview.com/news/cointelegraph:c7f3d7b1cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-15T21:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 21:10:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 21:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"American Bitcoin apoiada por Trump ultrapassa a ProCap na corrida das tesourarias corporativas de BTC\" data-qa-id=\"news-headline-title\">American Bitcoin apoiada por Trump ultrapassa a ProCap na corrida das tesourarias corporativas de BTC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:58fd1150abc81:0",
-      "index": 12,
-      "title": "Análise de preços em 15/12: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH",
-      "link": "https://br.tradingview.com/news/cointelegraph:58fd1150abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-15T20:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 15/12: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH\" data-qa-id=\"news-headline-title\">Análise de preços em 15/12: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:453c88b64bc81:0",
-      "index": 13,
-      "title": "Investidor de Bitcoin perde fundo de aposentadoria em golpe romântico impulsionado por IA",
-      "link": "https://br.tradingview.com/news/cointelegraph:453c88b64bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-15T20:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 15 Dec 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de dez. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Investidor de Bitcoin perde fundo de aposentadoria em golpe romântico impulsionado por IA\" data-qa-id=\"news-headline-title\">Investidor de Bitcoin perde fundo de aposentadoria em golpe romântico impulsionado por IA</div></div></article>"
     }
   ]
 }
