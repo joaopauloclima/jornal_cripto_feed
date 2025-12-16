@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-16T20:58:12.697Z",
+  "updated_at": "2025-12-16T21:20:45.788Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d663f6f27bc81:0",
+      "id": "cointelegraph:7f858f27dbc81:0",
       "index": 0,
+      "title": "'Batalha' de liquidez do Bitcoin se intensifica enquanto cenário de alta vê caminho livre até US$ 95 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:7f858f27dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-16T21:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Batalha' de liquidez do Bitcoin se intensifica enquanto cenário de alta vê caminho livre até US$ 95 mil\" data-qa-id=\"news-headline-title\">'Batalha' de liquidez do Bitcoin se intensifica enquanto cenário de alta vê caminho livre até US$ 95 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d663f6f27bc81:0",
+      "index": 1,
       "title": "Por que o Ether não consegue sustentar US$ 3 mil? Dados indicam queda e colocam a recuperação do ETH em dúvida",
       "link": "https://br.tradingview.com/news/cointelegraph:d663f6f27bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:5cbb3a189bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Corrida pelo 'super app' cripto começa à medida que o setor entra na era da agregação, diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:5cbb3a189bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:5842a6153bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Visa lança liquidação em USDC para bancos dos EUA na blockchain Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:5842a6153bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d778f4bb5bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Tokens políticos tiveram papel importante no boom e colapso das memecoins, diz CoinGecko",
       "link": "https://br.tradingview.com/news/cointelegraph:d778f4bb5bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:0d49f37d8bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Alexander Ray, nosso parceiro na iniciativa CTDG, empreendedor da Web3 e cofundador do Albus Protocol e da JPool, faleceu",
       "link": "https://br.tradingview.com/news/cointelegraph:0d49f37d8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:83108e28cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Custodia renova pedido por conta-mestra do Fed em pedido de reexame no Décimo Circuito",
       "link": "https://br.tradingview.com/news/cointelegraph:83108e28cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bd17a636fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Regulador da Espanha define regras de transição do MiCA para plataformas de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:bd17a636fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8237f0fb6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Regulador do Reino Unido consulta sobre regras de criptomoedas para exchanges, empréstimos e DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:8237f0fb6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:83ecfb606bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Solana enfrenta ataque DDoS em 'escala industrial' e cofundador diz que isso é um 'bom sinal'",
       "link": "https://br.tradingview.com/news/cointelegraph:83ecfb606bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:83e282589bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Buena Vista lança primeiro ETF de Ethereum no Brasil que paga dividendos sem ser staking",
       "link": "https://br.tradingview.com/news/cointelegraph:83e282589bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:36b978cbcbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Pix de sugar daddies a sugar babies chega a R$ 6 milhões em 2025, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:36b978cbcbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9ee8bc1ecbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Oferta de Bitcoin em posse de holders de longo prazo atinge mínimas de 8 meses: altista ou baixista?",
       "link": "https://br.tradingview.com/news/cointelegraph:9ee8bc1ecbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:469ac7f5cbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Gemini, liderada pelos Winklevoss, lança mercados de previsão nos 50 estados dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:469ac7f5cbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Gemini, liderada pelos Winklevoss, lança mercados de previsão nos 50 estados dos EUA\" data-qa-id=\"news-headline-title\">Gemini, liderada pelos Winklevoss, lança mercados de previsão nos 50 estados dos EUA</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:50426cc81bc81:0",
-      "index": 13,
-      "title": "Maioria dos setores cripto ficou atrás do Bitcoin nos últimos 3 meses, segundo a Glassnode",
-      "link": "https://br.tradingview.com/news/cointelegraph:50426cc81bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-16T15:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 16 Dec 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de dez. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Maioria dos setores cripto ficou atrás do Bitcoin nos últimos 3 meses, segundo a Glassnode\" data-qa-id=\"news-headline-title\">Maioria dos setores cripto ficou atrás do Bitcoin nos últimos 3 meses, segundo a Glassnode</div></div></article>"
     }
   ]
 }
