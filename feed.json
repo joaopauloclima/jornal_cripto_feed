@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-17T19:04:12.275Z",
+  "updated_at": "2025-12-17T19:28:55.724Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7bab2c1a6bc81:0",
+      "id": "cointelegraph:b661aeb7bbc81:0",
       "index": 0,
+      "title": "Mineradora de Bitcoin Hut 8 fecha contrato de data center de IA de US$ 7 bilhões com apoio do Google",
+      "link": "https://br.tradingview.com/news/cointelegraph:b661aeb7bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-17T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Dec 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de dez. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mineradora de Bitcoin Hut 8 fecha contrato de data center de IA de US$ 7 bilhões com apoio do Google\" data-qa-id=\"news-headline-title\">Mineradora de Bitcoin Hut 8 fecha contrato de data center de IA de US$ 7 bilhões com apoio do Google</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:728f42142bc81:0",
+      "index": 1,
+      "title": "Preço do Bitcoin em ponto 'crítico' após baleia mover US$ 348 milhões em BTC para exchanges",
+      "link": "https://br.tradingview.com/news/cointelegraph:728f42142bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-17T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Dec 2025 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de dez. de 2025, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin em ponto 'crítico' após baleia mover US$ 348 milhões em BTC para exchanges\" data-qa-id=\"news-headline-title\">Preço do Bitcoin em ponto 'crítico' após baleia mover US$ 348 milhões em BTC para exchanges</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7bab2c1a6bc81:0",
+      "index": 2,
       "title": "Binance alega existência de agentes de listagem falsos e oferece recompensa de até US$ 5 milhões a denunciantes",
       "link": "https://br.tradingview.com/news/cointelegraph:7bab2c1a6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:68a2f50d5bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Novo relatório da Coinbase aponta sistema financeiro tradicional 'quebrado', diz Armstrong",
       "link": "https://br.tradingview.com/news/cointelegraph:68a2f50d5bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3ac7f5460bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Ofensiva cripto da República Centro-Africana alimentou 'captura do Estado' por elites e redes criminosas, diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:3ac7f5460bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:e85f9a089bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Solana testa transações resistentes à computação quântica em novo piloto do Project Eleven",
       "link": "https://br.tradingview.com/news/cointelegraph:e85f9a089bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:573fd324abc81:0",
-      "index": 4,
+      "index": 6,
       "title": "5 criptomoedas mais procuradas do Brasil sobem até 1.350% em 30 dias",
       "link": "https://br.tradingview.com/news/cointelegraph:573fd324abc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7050a11dbbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Compras institucionais de Bitcoin superam nova oferta pela primeira vez em 6 semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:7050a11dbbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:12f7d7c75bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Solana dá passo histórico com atualização contra ameaça quântica",
       "link": "https://br.tradingview.com/news/beincrypto:12f7d7c75bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b21ee5f41bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Polymarket mostra retenção mais forte do que a maioria dos apps DeFi, carteiras e exchanges",
       "link": "https://br.tradingview.com/news/cointelegraph:b21ee5f41bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c56948bc1bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Votação de governança da Hyperliquid busca retirar permanentemente de circulação Fundo de Assistência de US$ 1 bilhão",
       "link": "https://br.tradingview.com/news/cointelegraph:c56948bc1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:a567be4d3bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Estoque de Bitcoin de Saylor será muito difícil de igualar, afirma Pomp",
       "link": "https://br.tradingview.com/news/cointelegraph:a567be4d3bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:19eef5f5ebc81:0",
-      "index": 10,
+      "index": 12,
       "title": "70% dos brasileiros 'compram com IA' e 66% estão de olho nas stablecoins, revela Visa",
       "link": "https://br.tradingview.com/news/cointelegraph:19eef5f5ebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:a147b2c03bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Preço do Ethereum cai abaixo de US$ 3 mil e acende alerta no mercado",
       "link": "https://br.tradingview.com/news/beincrypto:a147b2c03bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Dec 2025 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de dez. de 2025, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Ethereum cai abaixo de US$ 3 mil e acende alerta no mercado\" data-qa-id=\"news-headline-title\">Preço do Ethereum cai abaixo de US$ 3 mil e acende alerta no mercado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:510d14caabc81:0",
-      "index": 12,
-      "title": "Lightning Network atinge capacidade recorde com adoção por exchanges cripto",
-      "link": "https://br.tradingview.com/news/cointelegraph:510d14caabc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-17T15:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Dec 2025 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de dez. de 2025, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Lightning Network atinge capacidade recorde com adoção por exchanges cripto\" data-qa-id=\"news-headline-title\">Lightning Network atinge capacidade recorde com adoção por exchanges cripto</div></div></article>"
     }
   ]
 }
