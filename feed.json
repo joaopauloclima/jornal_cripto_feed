@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-17T20:58:24.397Z",
+  "updated_at": "2025-12-17T21:20:16.180Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:cd0c9b46ebc81:0",
+      "id": "cointelegraph:406aec89cbc81:0",
       "index": 0,
+      "title": "Binance avalia nova estratégia nos EUA e CZ pode reduzir participação, segundo reportagem",
+      "link": "https://br.tradingview.com/news/cointelegraph:406aec89cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-17T21:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Dec 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de dez. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance avalia nova estratégia nos EUA e CZ pode reduzir participação, segundo reportagem\" data-qa-id=\"news-headline-title\">Binance avalia nova estratégia nos EUA e CZ pode reduzir participação, segundo reportagem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:cd0c9b46ebc81:0",
+      "index": 1,
       "title": "Bitcoin atinge US$ 90 mil após alta do mercado cripto liquidar US$ 120 milhões em posições vendidas",
       "link": "https://br.tradingview.com/news/cointelegraph:cd0c9b46ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:60c3c76a3bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Como os pagamentos em stablecoins do YouTube podem mudar a monetização de criadores",
       "link": "https://br.tradingview.com/news/cointelegraph:60c3c76a3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:8c2dae763bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "65% dos principais bancos dos EUA apostam no Bitcoin: o que isso significa?",
       "link": "https://br.tradingview.com/news/beincrypto:8c2dae763bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c37eadaf9bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "TVL da Solana cai para mínima de seis meses em US$ 8,6 bilhões: SOL pode chegar a US$ 80?",
       "link": "https://br.tradingview.com/news/cointelegraph:c37eadaf9bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c34a95867bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Securitize anuncia ações tokenizadas 'reais' e destaca integração com DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:c34a95867bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:b661aeb7bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Mineradora de Bitcoin Hut 8 fecha contrato de data center de IA de US$ 7 bilhões com apoio do Google",
       "link": "https://br.tradingview.com/news/cointelegraph:b661aeb7bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:728f42142bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do Bitcoin em ponto 'crítico' após baleia mover US$ 348 milhões em BTC para exchanges",
       "link": "https://br.tradingview.com/news/cointelegraph:728f42142bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:7bab2c1a6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Binance alega existência de agentes de listagem falsos e oferece recompensa de até US$ 5 milhões a denunciantes",
       "link": "https://br.tradingview.com/news/cointelegraph:7bab2c1a6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:68a2f50d5bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Novo relatório da Coinbase aponta sistema financeiro tradicional 'quebrado', diz Armstrong",
       "link": "https://br.tradingview.com/news/cointelegraph:68a2f50d5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:3ac7f5460bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ofensiva cripto da República Centro-Africana alimentou 'captura do Estado' por elites e redes criminosas, diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:3ac7f5460bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e85f9a089bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Solana testa transações resistentes à computação quântica em novo piloto do Project Eleven",
       "link": "https://br.tradingview.com/news/cointelegraph:e85f9a089bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:573fd324abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "5 criptomoedas mais procuradas do Brasil sobem até 1.350% em 30 dias",
       "link": "https://br.tradingview.com/news/cointelegraph:573fd324abc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:7050a11dbbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Compras institucionais de Bitcoin superam nova oferta pela primeira vez em 6 semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:7050a11dbbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Compras institucionais de Bitcoin superam nova oferta pela primeira vez em 6 semanas\" data-qa-id=\"news-headline-title\">Compras institucionais de Bitcoin superam nova oferta pela primeira vez em 6 semanas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:12f7d7c75bc81:0",
-      "index": 13,
-      "title": "Solana dá passo histórico com atualização contra ameaça quântica",
-      "link": "https://br.tradingview.com/news/beincrypto:12f7d7c75bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-17T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana dá passo histórico com atualização contra ameaça quântica\" data-qa-id=\"news-headline-title\">Solana dá passo histórico com atualização contra ameaça quântica</div></div></article>"
     }
   ]
 }
