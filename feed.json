@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-18T21:18:55.612Z",
+  "updated_at": "2025-12-18T21:53:48.889Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:cc782ccdbbc81:0",
+      "id": "cointelegraph:493575a26bc81:0",
       "index": 0,
+      "title": "Por que a 'grande repressão chinesa à mineração de Bitcoin' ficou aquém das alegações iniciais",
+      "link": "https://br.tradingview.com/news/cointelegraph:493575a26bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-18T21:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que a 'grande repressão chinesa à mineração de Bitcoin' ficou aquém das alegações iniciais\" data-qa-id=\"news-headline-title\">Por que a 'grande repressão chinesa à mineração de Bitcoin' ficou aquém das alegações iniciais</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:cc782ccdbbc81:0",
+      "index": 1,
       "title": "Intuit vai usar a stablecoin da Circle em plataformas financeiras",
       "link": "https://br.tradingview.com/news/cointelegraph:cc782ccdbbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:968aab28fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "ETH se aproxima de US$ 3 mil após CPI mais fraco, mas saída de US$ 553 milhões de ETFs de Ether acende alerta",
       "link": "https://br.tradingview.com/news/cointelegraph:968aab28fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1bc04d686bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Aptos introduz assinaturas pós-quânticas antes que se tornem urgentes",
       "link": "https://br.tradingview.com/news/cointelegraph:1bc04d686bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8827fe86bbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin busca liquidez enquanto a inflação do CPI dos EUA cai ao menor nível desde 2021",
       "link": "https://br.tradingview.com/news/cointelegraph:8827fe86bbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:06719b655bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ethereum cai 42% desde a máxima histórica: onde o preço do ETH vai encontrar fundo?",
       "link": "https://br.tradingview.com/news/cointelegraph:06719b655bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:78a8d5f1bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "CEO da Tether diz que a bolha de IA é o maior risco do Bitcoin em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:78a8d5f1bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e4d371c01bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Invasor assume controle de multisig minutos após criação e drena até US$ 40 milhões gradualmente",
       "link": "https://br.tradingview.com/news/cointelegraph:e4d371c01bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:22a2677c7bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "XStocks, apoiada pela Kraken, é lançada na TON Wallet em 'quase todos os mercados'",
       "link": "https://br.tradingview.com/news/cointelegraph:22a2677c7bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b486f29c4bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoiners pressionam por atualização BIP-360 resistente à computação quântica à medida que o debate esquenta",
       "link": "https://br.tradingview.com/news/cointelegraph:b486f29c4bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:cf8ef5668bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Coinbase se expande na Polônia com integração de pagamentos móveis Blik",
       "link": "https://br.tradingview.com/news/cointelegraph:cf8ef5668bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:e45d76b21bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Desequilíbrio na oferta de Bitcoin e Ethereum acende alerta para os preços",
       "link": "https://br.tradingview.com/news/beincrypto:e45d76b21bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:659aa4d43bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Configuração de 'baixa' do XRP pode derrubar o preço abaixo de US$ 1, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:659aa4d43bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:59dbb154bbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Jovens lideram avanço das criptomoedas no Brasil em 2025, revela MB",
       "link": "https://br.tradingview.com/news/cointelegraph:59dbb154bbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 17:00:21 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Jovens lideram avanço das criptomoedas no Brasil em 2025, revela MB\" data-qa-id=\"news-headline-title\">Jovens lideram avanço das criptomoedas no Brasil em 2025, revela MB</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:78adec0d3bc81:0",
-      "index": 13,
-      "title": "Ações tokenizadas podem estar on chain, mas a SEC ainda quer as chaves",
-      "link": "https://br.tradingview.com/news/cointelegraph:78adec0d3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-18T16:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações tokenizadas podem estar on chain, mas a SEC ainda quer as chaves\" data-qa-id=\"news-headline-title\">Ações tokenizadas podem estar on chain, mas a SEC ainda quer as chaves</div></div></article>"
     }
   ]
 }
