@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-18T14:03:06.266Z",
+  "updated_at": "2025-12-18T14:31:36.456Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6c3b3ed79bc81:0",
+      "id": "cointelegraph:8403991f9bc81:0",
       "index": 0,
+      "title": "Especialistas apontam próximo alvo do LINK, FARTCOIN, ENA, PEPE e XMR",
+      "link": "https://br.tradingview.com/news/cointelegraph:8403991f9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-18T14:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCPEPE.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXMR.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 14:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Especialistas apontam próximo alvo do LINK, FARTCOIN, ENA, PEPE e XMR\" data-qa-id=\"news-headline-title\">Especialistas apontam próximo alvo do LINK, FARTCOIN, ENA, PEPE e XMR</div></div></article>"
+    },
+    {
+      "id": "beincrypto:fd43b0e13bc81:0",
+      "index": 1,
+      "title": "Trader ignora avanço multichain da Ripple e aposta em queda do XRP",
+      "link": "https://br.tradingview.com/news/beincrypto:fd43b0e13bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-12-18T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trader ignora avanço multichain da Ripple e aposta em queda do XRP\" data-qa-id=\"news-headline-title\">Trader ignora avanço multichain da Ripple e aposta em queda do XRP</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6c3b3ed79bc81:0",
+      "index": 2,
       "title": "ETPs de cripto podem enfrentar uma onda de liquidações até 2027, afirma analista",
       "link": "https://br.tradingview.com/news/cointelegraph:6c3b3ed79bc81:0/",
       "source": "Cointelegraph",
@@ -15,18 +37,18 @@
     },
     {
       "id": "cointelegraph:7f4f80adbbc81:0",
-      "index": 1,
-      "title": "Fed dos EUA retira diretriz que bloqueava bancos de se envolverem com cripto",
+      "index": 3,
+      "title": "Fed dos EUA retira diretriz que proibia bancos de se envolverem com cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:7f4f80adbbc81:0/",
       "source": "Cointelegraph",
       "published_at": "2025-12-18T13:30:00.000Z",
       "snippet": "",
       "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fed dos EUA retira diretriz que bloqueava bancos de se envolverem com cripto\" data-qa-id=\"news-headline-title\">Fed dos EUA retira diretriz que bloqueava bancos de se envolverem com cripto</div></div></article>"
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fed dos EUA retira diretriz que proibia bancos de se envolverem com cripto\" data-qa-id=\"news-headline-title\">Fed dos EUA retira diretriz que proibia bancos de se envolverem com cripto</div></div></article>"
     },
     {
       "id": "cointelegraph:0bbdfec59bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "World Liberty propõe usar 5% do tesouro para impulsionar sua stablecoin",
       "link": "https://br.tradingview.com/news/cointelegraph:0bbdfec59bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f51784d04bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Mais de US$ 3,4 bilhões em criptoativos foram roubados em 2025, aponta Chainalysis",
       "link": "https://br.tradingview.com/news/cointelegraph:f51784d04bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:00a7472e2bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 18/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:00a7472e2bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:5c7efacf7bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Robô-cosultores, stablecoins personalizadas: 8 coisas que a Coinbase está preparando",
       "link": "https://br.tradingview.com/news/cointelegraph:5c7efacf7bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3e6a8ab45bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Ethereum pode ficar mais rápida em janeiro com aumento do gas limit para 80 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:3e6a8ab45bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:380e285b0bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Coinbase adiciona negociação de ações e mercados de previsão em movimento para virar 'everything app'",
       "link": "https://br.tradingview.com/news/cointelegraph:380e285b0bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c32a348d5bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Volatilidade ronda criptomoedas com inflação e pulo de gato morto do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:c32a348d5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:dc31e9956bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Oscilação de 5% do Bitcoin revela que a queda não foi aleatória",
       "link": "https://br.tradingview.com/news/beincrypto:dc31e9956bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XO0BE:0",
-      "index": 10,
+      "index": 12,
       "title": "Coinbase avança para a negociação de ações e contratos de eventos em meio à acirrada disputa no varejo.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XO0BE:0/",
       "source": "Reuters",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:503a4e94ebc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Preço do Bitcoin hoje, 18/12/2025: BTC volta a US$ 87 mil mas touros não parecem ter forças para nova alta",
       "link": "https://br.tradingview.com/news/cointelegraph:503a4e94ebc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 10:59:10 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 10:59 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 18/12/2025: BTC volta a US$ 87 mil mas touros não parecem ter forças para nova alta\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 18/12/2025: BTC volta a US$ 87 mil mas touros não parecem ter forças para nova alta</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:92c10b2f1bc81:0",
-      "index": 12,
-      "title": "ETFs spot de Bitcoin registram saída de US$ 358 milhões: investidores estão realmente abandonando o BTC?",
-      "link": "https://br.tradingview.com/news/cointelegraph:92c10b2f1bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-18T01:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 01:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 01:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs spot de Bitcoin registram saída de US$ 358 milhões: investidores estão realmente abandonando o BTC?\" data-qa-id=\"news-headline-title\">ETFs spot de Bitcoin registram saída de US$ 358 milhões: investidores estão realmente abandonando o BTC?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:db53030f4bc81:0",
-      "index": 13,
-      "title": "DeFi no futebol: Protocolo na Chiliz usa tokens RWA para criar novos modelos de financiamento esportivo",
-      "link": "https://br.tradingview.com/news/cointelegraph:db53030f4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-17T23:08:34.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 17 Dec 2025 23:08:34 GMT\" class=\"apply-common-tooltip\" title=\"17 de dez. de 2025, 23:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"DeFi no futebol: Protocolo na Chiliz usa tokens RWA para criar novos modelos de financiamento esportivo\" data-qa-id=\"news-headline-title\">DeFi no futebol: Protocolo na Chiliz usa tokens RWA para criar novos modelos de financiamento esportivo</div></div></article>"
     }
   ]
 }
