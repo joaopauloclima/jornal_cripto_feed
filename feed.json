@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-18T17:04:26.953Z",
+  "updated_at": "2025-12-18T17:33:12.975Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:78adec0d3bc81:0",
+      "id": "cointelegraph:59dbb154bbc81:0",
       "index": 0,
+      "title": "Jovens lideram avanço das criptomoedas no Brasil em 2025, revela MB",
+      "link": "https://br.tradingview.com/news/cointelegraph:59dbb154bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-18T17:00:21.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 17:00:21 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Jovens lideram avanço das criptomoedas no Brasil em 2025, revela MB\" data-qa-id=\"news-headline-title\">Jovens lideram avanço das criptomoedas no Brasil em 2025, revela MB</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:78adec0d3bc81:0",
+      "index": 1,
       "title": "Ações tokenizadas podem estar on chain, mas a SEC ainda quer as chaves",
       "link": "https://br.tradingview.com/news/cointelegraph:78adec0d3bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f703dd266bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Fed e BoJ colocam Bitcoin entre US$ 80 mil e US$ 100 mil, sugerem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:f703dd266bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:9ddc02292bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "ETFs spot de Bitcoin registram entradas de US$ 457 milhões em movimento de 'posicionamento inicial'",
       "link": "https://br.tradingview.com/news/cointelegraph:9ddc02292bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b451968fdbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ethereum precisa se tornar mais simples para alcançar verdadeira ausência de confiança, afirma Buterin",
       "link": "https://br.tradingview.com/news/cointelegraph:b451968fdbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:5bf60adf8bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Comissão aprova PL e abre caminho para bancos como Itaú competirem com a Binance usando stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:5bf60adf8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f0b8d4eadbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Regras de tesouraria cripto da MSCI podem provocar US$ 15 bilhões em vendas forçadas",
       "link": "https://br.tradingview.com/news/cointelegraph:f0b8d4eadbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e4d15e590bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Volatilidade do Bitcoin fica abaixo da Nvidia em 2025 com crescimento da base de investidores, afirma Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:e4d15e590bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8403991f9bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Especialistas apontam próximo alvo do LINK, FARTCOIN, ENA, PEPE e XMR",
       "link": "https://br.tradingview.com/news/cointelegraph:8403991f9bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:fd43b0e13bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Trader ignora avanço multichain da Ripple e aposta em queda do XRP",
       "link": "https://br.tradingview.com/news/beincrypto:fd43b0e13bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:6c3b3ed79bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "ETPs de cripto podem enfrentar uma onda de liquidações até 2027, afirma analista",
       "link": "https://br.tradingview.com/news/cointelegraph:6c3b3ed79bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:7f4f80adbbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Fed dos EUA retira diretriz que proibia bancos de se envolverem com cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:7f4f80adbbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:0bbdfec59bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "World Liberty propõe usar 5% do tesouro para impulsionar sua stablecoin",
       "link": "https://br.tradingview.com/news/cointelegraph:0bbdfec59bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:f51784d04bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Mais de US$ 3,4 bilhões em criptoativos foram roubados em 2025, aponta Chainalysis",
       "link": "https://br.tradingview.com/news/cointelegraph:f51784d04bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mais de US$ 3,4 bilhões em criptoativos foram roubados em 2025, aponta Chainalysis\" data-qa-id=\"news-headline-title\">Mais de US$ 3,4 bilhões em criptoativos foram roubados em 2025, aponta Chainalysis</div></div></article>"
-    },
-    {
-      "id": "beincrypto:00a7472e2bc81:0",
-      "index": 13,
-      "title": "Por que o mercado de criptomoedas está em baixa hoje 18/12/2025?",
-      "link": "https://br.tradingview.com/news/beincrypto:00a7472e2bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-18T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em baixa hoje 18/12/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em baixa hoje 18/12/2025?</div></div></article>"
     }
   ]
 }
