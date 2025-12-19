@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-19T11:54:00.945Z",
+  "updated_at": "2025-12-19T12:36:27.815Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:28a0177cbbc81:0",
+      "id": "cointelegraph:63115797bbc81:0",
       "index": 0,
+      "title": "Notícias cripto: BingX chega a 40 milhões de usuários, atualizações no RWA Monitor, expansão da OKTO e outras novidades",
+      "link": "https://br.tradingview.com/news/cointelegraph:63115797bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-19T12:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Dec 2025 12:20:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de dez. de 2025, 12:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias cripto: BingX chega a 40 milhões de usuários, atualizações no RWA Monitor, expansão da OKTO e outras novidades\" data-qa-id=\"news-headline-title\">Notícias cripto: BingX chega a 40 milhões de usuários, atualizações no RWA Monitor, expansão da OKTO e outras novidades</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:28a0177cbbc81:0",
+      "index": 1,
       "title": "CPI dos EUA favorece reação do Bitcoin e compra de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:28a0177cbbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:6b4ca30c9bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Pressão de venda do XRP despenca 39% mas este nível ainda decide o preço",
       "link": "https://br.tradingview.com/news/beincrypto:6b4ca30c9bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c93c45c17bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Com Bitcoin em baixa, criptomoedas caem para o último lugar na preferência do investidor brasileiro",
       "link": "https://br.tradingview.com/news/cointelegraph:c93c45c17bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:009a277b4bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Preço do Bitcoin hoje, 19/12/2025: BTC tenta recuperação, mas touros mostram fragilidade",
       "link": "https://br.tradingview.com/news/cointelegraph:009a277b4bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XP09U:0",
-      "index": 4,
+      "index": 5,
       "title": "Ações de criptomoedas sobem após alta nos preços do bitcoin e do ether",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XP09U:0/",
       "source": "Reuters",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:afdbbabbfbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "De graça pra sempre: Bitfinex lança sistema taxa zero na compra de criptomoedas e em todos os trades em spot, futuros e OTC",
       "link": "https://br.tradingview.com/news/cointelegraph:afdbbabbfbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bb85ec8afbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "‘CriptoGPT’: Infinit adota agentes de IA para automatizar operações estruturadas em DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:bb85ec8afbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:2e1c58c57bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Mercado de US$ 300 bilhões em foco: Moody's cria modelo para avaliar risco e liquidez de stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:2e1c58c57bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:4de75b3bfbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "SoFi lança stablecoin em dólar americano emitida por subsidiária bancária",
       "link": "https://br.tradingview.com/news/cointelegraph:4de75b3bfbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:493575a26bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Por que a 'grande repressão chinesa à mineração de Bitcoin' ficou aquém das alegações iniciais",
       "link": "https://br.tradingview.com/news/cointelegraph:493575a26bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:cc782ccdbbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Intuit vai usar a stablecoin da Circle em plataformas financeiras",
       "link": "https://br.tradingview.com/news/cointelegraph:cc782ccdbbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:968aab28fbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "ETH se aproxima de US$ 3 mil após CPI mais fraco, mas saída de US$ 553 milhões de ETFs de Ether acende alerta",
       "link": "https://br.tradingview.com/news/cointelegraph:968aab28fbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETH se aproxima de US$ 3 mil após CPI mais fraco, mas saída de US$ 553 milhões de ETFs de Ether acende alerta\" data-qa-id=\"news-headline-title\">ETH se aproxima de US$ 3 mil após CPI mais fraco, mas saída de US$ 553 milhões de ETFs de Ether acende alerta</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1bc04d686bc81:0",
-      "index": 12,
-      "title": "Aptos introduz assinaturas pós-quânticas antes que se tornem urgentes",
-      "link": "https://br.tradingview.com/news/cointelegraph:1bc04d686bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-18T20:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Aptos introduz assinaturas pós-quânticas antes que se tornem urgentes\" data-qa-id=\"news-headline-title\">Aptos introduz assinaturas pós-quânticas antes que se tornem urgentes</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8827fe86bbc81:0",
-      "index": 13,
-      "title": "Bitcoin busca liquidez enquanto a inflação do CPI dos EUA cai ao menor nível desde 2021",
-      "link": "https://br.tradingview.com/news/cointelegraph:8827fe86bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-18T20:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 20:10:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 20:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin busca liquidez enquanto a inflação do CPI dos EUA cai ao menor nível desde 2021\" data-qa-id=\"news-headline-title\">Bitcoin busca liquidez enquanto a inflação do CPI dos EUA cai ao menor nível desde 2021</div></div></article>"
     }
   ]
 }
