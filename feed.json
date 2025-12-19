@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-19T09:31:35.795Z",
+  "updated_at": "2025-12-19T09:57:25.712Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:afdbbabbfbc81:0",
+      "id": "tag:reuters.com,2025:newsml_L1N3XP09U:0",
       "index": 0,
+      "title": "Ações de criptomoedas sobem após alta nos preços do bitcoin e do ether",
+      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XP09U:0/",
+      "source": "Reuters",
+      "published_at": "2025-12-19T09:53:53.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/bitfarms.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Dec 2025 09:53:53 GMT\" class=\"apply-common-tooltip\" title=\"19 de dez. de 2025, 09:53 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações de criptomoedas sobem após alta nos preços do bitcoin e do ether\" data-qa-id=\"news-headline-title\">Ações de criptomoedas sobem após alta nos preços do bitcoin e do ether</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:afdbbabbfbc81:0",
+      "index": 1,
       "title": "De graça pra sempre: Bitfinex lança sistema taxa zero na compra de criptomoedas e em todos os trades em spot, futuros e OTC",
       "link": "https://br.tradingview.com/news/cointelegraph:afdbbabbfbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:bb85ec8afbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "‘CriptoGPT’: Infinit adota agentes de IA para automatizar operações estruturadas em DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:bb85ec8afbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2e1c58c57bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Mercado de US$ 300 bilhões em foco: Moody's cria modelo para avaliar risco e liquidez de stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:2e1c58c57bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:4de75b3bfbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "SoFi lança stablecoin em dólar americano emitida por subsidiária bancária",
       "link": "https://br.tradingview.com/news/cointelegraph:4de75b3bfbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:493575a26bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Por que a 'grande repressão chinesa à mineração de Bitcoin' ficou aquém das alegações iniciais",
       "link": "https://br.tradingview.com/news/cointelegraph:493575a26bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:cc782ccdbbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Intuit vai usar a stablecoin da Circle em plataformas financeiras",
       "link": "https://br.tradingview.com/news/cointelegraph:cc782ccdbbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:968aab28fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETH se aproxima de US$ 3 mil após CPI mais fraco, mas saída de US$ 553 milhões de ETFs de Ether acende alerta",
       "link": "https://br.tradingview.com/news/cointelegraph:968aab28fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:1bc04d686bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Aptos introduz assinaturas pós-quânticas antes que se tornem urgentes",
       "link": "https://br.tradingview.com/news/cointelegraph:1bc04d686bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:8827fe86bbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin busca liquidez enquanto a inflação do CPI dos EUA cai ao menor nível desde 2021",
       "link": "https://br.tradingview.com/news/cointelegraph:8827fe86bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:06719b655bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ethereum cai 42% desde a máxima histórica: onde o preço do ETH vai encontrar fundo?",
       "link": "https://br.tradingview.com/news/cointelegraph:06719b655bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:78a8d5f1bbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "CEO da Tether diz que a bolha de IA é o maior risco do Bitcoin em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:78a8d5f1bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e4d371c01bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Invasor assume controle de multisig minutos após criação e drena até US$ 40 milhões gradualmente",
       "link": "https://br.tradingview.com/news/cointelegraph:e4d371c01bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Invasor assume controle de multisig minutos após criação e drena até US$ 40 milhões gradualmente\" data-qa-id=\"news-headline-title\">Invasor assume controle de multisig minutos após criação e drena até US$ 40 milhões gradualmente</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:22a2677c7bc81:0",
-      "index": 12,
-      "title": "XStocks, apoiada pela Kraken, é lançada na TON Wallet em 'quase todos os mercados'",
-      "link": "https://br.tradingview.com/news/cointelegraph:22a2677c7bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-18T18:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 18 Dec 2025 18:50:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de dez. de 2025, 18:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XStocks, apoiada pela Kraken, é lançada na TON Wallet em 'quase todos os mercados'\" data-qa-id=\"news-headline-title\">XStocks, apoiada pela Kraken, é lançada na TON Wallet em 'quase todos os mercados'</div></div></article>"
     }
   ]
 }
