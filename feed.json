@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-19T20:22:15.373Z",
+  "updated_at": "2025-12-19T20:57:04.870Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:bd417e1d1bc81:0",
+      "id": "cointelegraph:cae0144b8bc81:0",
       "index": 0,
+      "title": "Bitcoin cai abaixo de US$ 85 mil enquanto DATs enfrentam 'montanha-russa do mNAV': Finance Redefined",
+      "link": "https://br.tradingview.com/news/cointelegraph:cae0144b8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-19T20:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Dec 2025 20:50:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de dez. de 2025, 20:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin cai abaixo de US$ 85 mil enquanto DATs enfrentam 'montanha-russa do mNAV': Finance Redefined\" data-qa-id=\"news-headline-title\">Bitcoin cai abaixo de US$ 85 mil enquanto DATs enfrentam 'montanha-russa do mNAV': Finance Redefined</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:aa0282155bc81:0",
+      "index": 1,
+      "title": "Token de IA da Solana Ava sofre sniping no lançamento ligado ao deployer, afirma a Bubblemaps",
+      "link": "https://br.tradingview.com/news/cointelegraph:aa0282155bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-19T20:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Dec 2025 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de dez. de 2025, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Token de IA da Solana Ava sofre sniping no lançamento ligado ao deployer, afirma a Bubblemaps\" data-qa-id=\"news-headline-title\">Token de IA da Solana Ava sofre sniping no lançamento ligado ao deployer, afirma a Bubblemaps</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bd417e1d1bc81:0",
+      "index": 2,
       "title": "Diretor de macroeconomia da Fidelity aponta US$ 65 mil como fundo do Bitcoin em 2026 e fim do ciclo de alta",
       "link": "https://br.tradingview.com/news/cointelegraph:bd417e1d1bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:67218efabbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "BCE avalia liquidações on-chain no próximo ano enquanto legisladores analisam a privacidade do euro digital",
       "link": "https://br.tradingview.com/news/cointelegraph:67218efabbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:0102b6363bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Jump Trading é alvo de processo de US$ 4 bilhões ligado ao colapso de US$ 50 bilhões da Terra, diz WSJ",
       "link": "https://br.tradingview.com/news/cointelegraph:0102b6363bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:2d2752deabc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Arthur Hayes vendeu US$ 1,5 milhão em Ethereum?",
       "link": "https://br.tradingview.com/news/beincrypto:2d2752deabc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d1079742dbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Trump, tarifas e tokens de utilidade: Yat Siu, da Animoca, diz que as criptomoedas finalmente precisam amadurecer",
       "link": "https://br.tradingview.com/news/cointelegraph:d1079742dbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "invezz:1c79bafcebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Resumo da noite: Entradas de ETFs de Bitcoin disparam, BOJ aumenta as taxas, FTC Aprova Acordo Nvidia-Intel",
       "link": "https://br.tradingview.com/news/invezz:1c79bafcebc81:0/",
       "source": "Invezz",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:953963027bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin se recupera após a alta de juros no Japão e Arthur Hayes projeta o dólar a 200 ienes",
       "link": "https://br.tradingview.com/news/cointelegraph:953963027bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:adbb5f710bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Coinbase adota o manual da Kalshi e processa três estados por mercados de previsão",
       "link": "https://br.tradingview.com/news/cointelegraph:adbb5f710bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9e66667e8bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "RSI semanal do Bitcoin cai para os níveis mais sobrevendidos desde o preço do BTC em US$ 15 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:9e66667e8bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:c17469176bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bradesco inicia testes de identidade via blockchain com foco na jornada de crédito",
       "link": "https://br.tradingview.com/news/cointelegraph:c17469176bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:738700614bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "O que um indicador histórico 100% preciso sinaliza para o Bitcoin em dezembro?",
       "link": "https://br.tradingview.com/news/beincrypto:738700614bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:467fdd0d3bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "'Proibir criptos como ZCash é uma ação brusca, as pessoas têm direito de autonomia', defende ShapeShift",
       "link": "https://br.tradingview.com/news/cointelegraph:467fdd0d3bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Dec 2025 16:44:57 GMT\" class=\"apply-common-tooltip\" title=\"19 de dez. de 2025, 16:44 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Proibir criptos como ZCash é uma ação brusca, as pessoas têm direito de autonomia', defende ShapeShift\" data-qa-id=\"news-headline-title\">'Proibir criptos como ZCash é uma ação brusca, as pessoas têm direito de autonomia', defende ShapeShift</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2ad7b3b5bbc81:0",
-      "index": 12,
-      "title": "Capitalização do mercado cripto cai para mínima de 8 meses, e analistas veem mais dor pela frente",
-      "link": "https://br.tradingview.com/news/cointelegraph:2ad7b3b5bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-19T16:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Dec 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de dez. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Capitalização do mercado cripto cai para mínima de 8 meses, e analistas veem mais dor pela frente\" data-qa-id=\"news-headline-title\">Capitalização do mercado cripto cai para mínima de 8 meses, e analistas veem mais dor pela frente</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8d6577103bc81:0",
-      "index": 13,
-      "title": "Cripto tem tudo para um bull market — então por que o mercado está em queda?",
-      "link": "https://br.tradingview.com/news/cointelegraph:8d6577103bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-19T16:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Dec 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de dez. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Cripto tem tudo para um bull market — então por que o mercado está em queda?\" data-qa-id=\"news-headline-title\">Cripto tem tudo para um bull market — então por que o mercado está em queda?</div></div></article>"
     }
   ]
 }
