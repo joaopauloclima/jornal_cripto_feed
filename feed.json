@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-20T16:57:34.819Z",
+  "updated_at": "2025-12-20T17:17:49.258Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1fdfd6b04bc81:0",
+      "id": "cointelegraph:54918e43dbc81:0",
       "index": 0,
+      "title": "Novos investidores estão remodelando a estrutura de mercado do Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:54918e43dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-20T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 20 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Novos investidores estão remodelando a estrutura de mercado do Bitcoin\" data-qa-id=\"news-headline-title\">Novos investidores estão remodelando a estrutura de mercado do Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1fdfd6b04bc81:0",
+      "index": 1,
       "title": "Clarity Act dos EUA provavelmente não terá um impacto 'revolucionário' no preço do Bitcoin, diz Peter Brandt",
       "link": "https://br.tradingview.com/news/cointelegraph:1fdfd6b04bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:b3396392bbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Regulamentação das criptomoedas no Reino Unido está a caminho: o que significa a nova consulta da FCA?",
       "link": "https://br.tradingview.com/news/cointelegraph:b3396392bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:6d5115374bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Senadora pró-cripto Cynthia Lummis não tentará reeleição em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:6d5115374bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:172ffa33fbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Cofundador da Samourai alega ter sido vítima da Justiça na era Biden ao pedir perdão de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:172ffa33fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9d880390cbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Blockchain Association rejeita ampliação da proibição de stablecoins de rendimento",
       "link": "https://br.tradingview.com/news/cointelegraph:9d880390cbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4365b4048bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "SEC dos EUA confirma que ex-executivos da Alameda e da FTX estão proibidos de ocuparem cargos de liderança",
       "link": "https://br.tradingview.com/news/cointelegraph:4365b4048bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0eab9b73cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Galaxy prevê que stablecoins ultrapassarão o volume de transações Câmara de Compensação dos EUA em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:0eab9b73cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:0f97495c0bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Por que o mercado de criptomoedas está em alta hoje 20/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:0f97495c0bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:19ebf237dbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Crédito digital lastreado em Bitcoin desafia bancos e desencadeia disputa pelo futuro das finanças",
       "link": "https://br.tradingview.com/news/cointelegraph:19ebf237dbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:af85a17efbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitget revela a tendência que pode mudar tudo no próximo ciclo do mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:af85a17efbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:513b206d5bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Análise de preços em 19/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:513b206d5bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e1cab0ad1bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Arthur Hayes argumenta que nova ferramenta de liquidez do Fed, 'RMP', mascara a retomada da impressão de dinheiro",
       "link": "https://br.tradingview.com/news/cointelegraph:e1cab0ad1bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3c950db1dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "ETFs de criptomoedas devem disparar em 2026, dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:3c950db1dbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Dec 2025 21:50:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de dez. de 2025, 21:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de criptomoedas devem disparar em 2026, dizem analistas\" data-qa-id=\"news-headline-title\">ETFs de criptomoedas devem disparar em 2026, dizem analistas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:eff88804bbc81:0",
-      "index": 13,
-      "title": "Coinbase está 'cautelosamente otimista' para 2026, enquanto as criptomoedas se aproximam de um ponto de inflexão institucional",
-      "link": "https://br.tradingview.com/news/cointelegraph:eff88804bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-19T21:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 19 Dec 2025 21:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de dez. de 2025, 21:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase está 'cautelosamente otimista' para 2026, enquanto as criptomoedas se aproximam de um ponto de inflexão institucional\" data-qa-id=\"news-headline-title\">Coinbase está 'cautelosamente otimista' para 2026, enquanto as criptomoedas se aproximam de um ponto de inflexão institucional</div></div></article>"
     }
   ]
 }
