@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-21T17:53:34.256Z",
+  "updated_at": "2025-12-21T18:25:54.276Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2e8d10d39bc81:0",
+      "id": "cointelegraph:c8bfb72dbbc81:0",
       "index": 0,
+      "title": "Parlamentares dos EUA propõem isenção fiscal para pequenos pagamentos com stablecoins e recompensas de staking",
+      "link": "https://br.tradingview.com/news/cointelegraph:c8bfb72dbbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-21T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 21 Dec 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de dez. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Parlamentares dos EUA propõem isenção fiscal para pequenos pagamentos com stablecoins e recompensas de staking\" data-qa-id=\"news-headline-title\">Parlamentares dos EUA propõem isenção fiscal para pequenos pagamentos com stablecoins e recompensas de staking</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2e8d10d39bc81:0",
+      "index": 1,
       "title": "Comunidade cripto 'lamenta profundamente' a decisão da senadora Lummis de não tentar reeleição",
       "link": "https://br.tradingview.com/news/cointelegraph:2e8d10d39bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:dfd1e857abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Mercado de criptomoedas 'ainda não está assustado o suficiente' para marcar o fundo, diz Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:dfd1e857abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c1d8d9dbabc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Aparente queda na demanda sinaliza um novo mercado de baixa para o Bitcoin, dizem analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:c1d8d9dbabc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:54737c033bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Trocar Bitcoin por ouro? Não tão depressa, diz um analista",
       "link": "https://br.tradingview.com/news/cointelegraph:54737c033bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:67b1ddcb0bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Blockchain e ferramentas no-code desafiam o domínio da AWS, diz executivo do setor de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:67b1ddcb0bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:2ce6a1c4bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "RSI do Bitcoin se aproxima de mínimas de três anos em relação ao ouro, enquanto analista prevê recuperação",
       "link": "https://br.tradingview.com/news/cointelegraph:2ce6a1c4bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:079ce24c8bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Como um simples erro de copiar e colar custou a um trader US$ 50 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:079ce24c8bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d82cbc127bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Rali do Bitcoin foi frustrado pela diminuição das chances de corte de juros nos EUA e pelo enfraquecimento do cenário macroeconômico",
       "link": "https://br.tradingview.com/news/cointelegraph:d82cbc127bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:458e9cfdabc81:0",
-      "index": 8,
+      "index": 9,
       "title": "IBIT na 6ª posição do ranking de fluxos de ETFs em 2025, apesar dos retornos negativos, é um 'sinal muito positivo'",
       "link": "https://br.tradingview.com/news/cointelegraph:458e9cfdabc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9f08ed723bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Previsão da Fundstrat para criptomoedas em 2026 alerta para uma possível correção, em oposição à visão de Tom Lee",
       "link": "https://br.tradingview.com/news/cointelegraph:9f08ed723bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8637fb7fabc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Altseason nunca acabou: os investidores simplesmente não enxergaram os vencedores, diz Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:8637fb7fabc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:5d13f4a5ebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Adam Back critica VC por \"ruído desinformado\" sobre ameaça quântica ao Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:5d13f4a5ebc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 20 Dec 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de dez. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Adam Back critica VC por &quot;ruído desinformado&quot; sobre ameaça quântica ao Bitcoin\" data-qa-id=\"news-headline-title\">Adam Back critica VC por \"ruído desinformado\" sobre ameaça quântica ao Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:54918e43dbc81:0",
-      "index": 12,
-      "title": "Novos investidores estão remodelando a estrutura de mercado do Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:54918e43dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-20T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 20 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Novos investidores estão remodelando a estrutura de mercado do Bitcoin\" data-qa-id=\"news-headline-title\">Novos investidores estão remodelando a estrutura de mercado do Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1fdfd6b04bc81:0",
-      "index": 13,
-      "title": "Clarity Act dos EUA provavelmente não terá um impacto 'revolucionário' no preço do Bitcoin, diz Peter Brandt",
-      "link": "https://br.tradingview.com/news/cointelegraph:1fdfd6b04bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-20T16:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 20 Dec 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de dez. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Clarity Act dos EUA provavelmente não terá um impacto 'revolucionário' no preço do Bitcoin, diz Peter Brandt\" data-qa-id=\"news-headline-title\">Clarity Act dos EUA provavelmente não terá um impacto 'revolucionário' no preço do Bitcoin, diz Peter Brandt</div></div></article>"
     }
   ]
 }
