@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-22T13:26:42.394Z",
+  "updated_at": "2025-12-22T13:59:31.335Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:42554e778bc81:0",
+      "id": "cointelegraph:8ffe76f14bc81:0",
       "index": 0,
+      "title": "Tokenização vai revolucionar as finanças mais rápido do que o digital revolucionou a mídia, diz executivo cripto",
+      "link": "https://br.tradingview.com/news/cointelegraph:8ffe76f14bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-22T13:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 22 Dec 2025 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de dez. de 2025, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tokenização vai revolucionar as finanças mais rápido do que o digital revolucionou a mídia, diz executivo cripto\" data-qa-id=\"news-headline-title\">Tokenização vai revolucionar as finanças mais rápido do que o digital revolucionou a mídia, diz executivo cripto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:42554e778bc81:0",
+      "index": 1,
       "title": "Migração do Bitcoin para padrões pós-quânticos pode levar 'facilmente' de 5 a 10 anos, diz executivo cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:42554e778bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:d478887dbbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Hipotecas lastreadas em Bitcoin vão crescer em 2026, diz cofundador da Ledn",
       "link": "https://br.tradingview.com/news/cointelegraph:d478887dbbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e5d25ff12bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Brasil aporta R$ 10 milhões e ignora semana pessimista dos fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:e5d25ff12bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:25dcb9c25bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Por que o mercado de criptomoedas está em alta hoje 22/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:25dcb9c25bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6bd7ac621bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin mira US$ 90 mil e criptomoedas buscam catalisadores para rali do Papai Noel",
       "link": "https://br.tradingview.com/news/cointelegraph:6bd7ac621bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c59972b86bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Preço do Bitcoin hoje, 22/12/2025: BTC busca romper com US$ 90 mil, mas alta pode ser 'pulo de gato morto'",
       "link": "https://br.tradingview.com/news/cointelegraph:c59972b86bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:34bad7724bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "XRP cai abaixo de US$ 2 e deixa quase 50% da oferta no prejuízo",
       "link": "https://br.tradingview.com/news/beincrypto:34bad7724bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XS04N:0",
-      "index": 7,
+      "index": 8,
       "title": "Empresas de estratégia e de compra de bitcoins enfrentam maior exclusão dos índices de ações.",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XS04N:0/",
       "source": "Reuters",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:ea0182de5bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Tether investe US$ 8 milhões em startup para acelerar adoção do USDT na blockchain do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:ea0182de5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5b2db07a7bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Traders de Bitcoin estão divididos entre queda para US$ 70 mil e 'recuperação imediata'",
       "link": "https://br.tradingview.com/news/cointelegraph:5b2db07a7bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:1813115d3bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Klarna fecha parceria com a Coinbase para viabilizar financiamento institucional com stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:1813115d3bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c8bfb72dbbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Parlamentares dos EUA propõem isenção fiscal para pequenos pagamentos com stablecoins e recompensas de staking",
       "link": "https://br.tradingview.com/news/cointelegraph:c8bfb72dbbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2e8d10d39bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Comunidade cripto 'lamenta profundamente' a decisão da senadora Lummis de não tentar reeleição",
       "link": "https://br.tradingview.com/news/cointelegraph:2e8d10d39bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 21 Dec 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de dez. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Comunidade cripto 'lamenta profundamente' a decisão da senadora Lummis de não tentar reeleição\" data-qa-id=\"news-headline-title\">Comunidade cripto 'lamenta profundamente' a decisão da senadora Lummis de não tentar reeleição</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:dfd1e857abc81:0",
-      "index": 13,
-      "title": "Mercado de criptomoedas 'ainda não está assustado o suficiente' para marcar o fundo, diz Santiment",
-      "link": "https://br.tradingview.com/news/cointelegraph:dfd1e857abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-21T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 21 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado de criptomoedas 'ainda não está assustado o suficiente' para marcar o fundo, diz Santiment\" data-qa-id=\"news-headline-title\">Mercado de criptomoedas 'ainda não está assustado o suficiente' para marcar o fundo, diz Santiment</div></div></article>"
     }
   ]
 }
