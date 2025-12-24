@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-24T19:00:42.217Z",
+  "updated_at": "2025-12-24T19:18:23.862Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f35feeab6bc81:0",
+      "id": "cointelegraph:21385f9b9bc81:0",
       "index": 0,
+      "title": "Bitcoin pode subir após vencimento recorde de US$ 24 bilhões em opções 'retirar a tampa' do preço do BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:21385f9b9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-24T19:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 19:10:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 19:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode subir após vencimento recorde de US$ 24 bilhões em opções 'retirar a tampa' do preço do BTC\" data-qa-id=\"news-headline-title\">Bitcoin pode subir após vencimento recorde de US$ 24 bilhões em opções 'retirar a tampa' do preço do BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f35feeab6bc81:0",
+      "index": 1,
       "title": "Queda do mercado cripto revela lacuna entre valuations de VCs e valor de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:f35feeab6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:d8d8d462bbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin 'nunca ultrapassou' US$ 100 mil quando ajustado pela inflação, diz Alex Thorn",
       "link": "https://br.tradingview.com/news/cointelegraph:d8d8d462bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:6f2a28ad3bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Falta de preço 'insano' do Bitcoin no fim do ano reduz chance de crash forte no 1º trimestre, afirma Pomp",
       "link": "https://br.tradingview.com/news/cointelegraph:6f2a28ad3bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3a192e093bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Saídas prolongadas de ETFs cripto mostram desengajamento institucional, aponta Glassnode",
       "link": "https://br.tradingview.com/news/cointelegraph:3a192e093bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:eb448f5f2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Tesouraria de Bitcoin da Matador tem venda de ações de US$ 58 milhões aprovada para expandir reservas",
       "link": "https://br.tradingview.com/news/cointelegraph:eb448f5f2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:2e8a289e2bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "De colapso da FTX a novo capital: ex-chefe dos EUA capta US$ 35 milhões para nova exchange",
       "link": "https://br.tradingview.com/news/cointelegraph:2e8a289e2bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0255ae500bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Orquestra ao vivo do Brasil vai transformar movimentos do preço do Bitcoin em música",
       "link": "https://br.tradingview.com/news/cointelegraph:0255ae500bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:096737d1cbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Gnosis anuncia hard fork para recuperar fundos de exploit da Balancer",
       "link": "https://br.tradingview.com/news/cointelegraph:096737d1cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:76af05b7dbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin está estagnado e desdenhado, mas prestes ‘dar capote no ouro’, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:76af05b7dbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:3563340ecbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Crypto.com afirma que market maker aumenta liquidez e nega vantagem de negociação sobre clientes",
       "link": "https://br.tradingview.com/news/cointelegraph:3563340ecbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e3ccca628bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "FMI diz que El Salvador negocia venda da carteira estatal de Bitcoin Chivo",
       "link": "https://br.tradingview.com/news/cointelegraph:e3ccca628bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9e9b851febc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Como o Butão está construindo uma economia verde de Bitcoin desde a base",
       "link": "https://br.tradingview.com/news/cointelegraph:9e9b851febc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:639ad804bbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preço do XRP deve encerrar sequência de 2 anos",
       "link": "https://br.tradingview.com/news/beincrypto:639ad804bbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do XRP deve encerrar sequência de 2 anos\" data-qa-id=\"news-headline-title\">Preço do XRP deve encerrar sequência de 2 anos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:481466045bc81:0",
-      "index": 13,
-      "title": "Brasileiros acreditam que IA reduz riscos financeiros, mas ameaça privacidade, diz pesquisa",
-      "link": "https://br.tradingview.com/news/cointelegraph:481466045bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-24T14:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasileiros acreditam que IA reduz riscos financeiros, mas ameaça privacidade, diz pesquisa\" data-qa-id=\"news-headline-title\">Brasileiros acreditam que IA reduz riscos financeiros, mas ameaça privacidade, diz pesquisa</div></div></article>"
     }
   ]
 }
