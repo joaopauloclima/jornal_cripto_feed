@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-24T17:18:16.652Z",
+  "updated_at": "2025-12-24T17:53:35.304Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2e8a289e2bc81:0",
+      "id": "cointelegraph:3a192e093bc81:0",
       "index": 0,
+      "title": "Saídas prolongadas de ETFs cripto mostram desengajamento institucional, aponta Glassnode",
+      "link": "https://br.tradingview.com/news/cointelegraph:3a192e093bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-24T17:40:24.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 17:40:24 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Saídas prolongadas de ETFs cripto mostram desengajamento institucional, aponta Glassnode\" data-qa-id=\"news-headline-title\">Saídas prolongadas de ETFs cripto mostram desengajamento institucional, aponta Glassnode</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:eb448f5f2bc81:0",
+      "index": 1,
+      "title": "Tesouraria de Bitcoin da Matador tem venda de ações de US$ 58 milhões aprovada para expandir reservas",
+      "link": "https://br.tradingview.com/news/cointelegraph:eb448f5f2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-24T17:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tesouraria de Bitcoin da Matador tem venda de ações de US$ 58 milhões aprovada para expandir reservas\" data-qa-id=\"news-headline-title\">Tesouraria de Bitcoin da Matador tem venda de ações de US$ 58 milhões aprovada para expandir reservas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2e8a289e2bc81:0",
+      "index": 2,
       "title": "De colapso da FTX a novo capital: ex-chefe dos EUA capta US$ 35 milhões para nova exchange",
       "link": "https://br.tradingview.com/news/cointelegraph:2e8a289e2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0255ae500bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Orquestra ao vivo do Brasil vai transformar movimentos do preço do Bitcoin em música",
       "link": "https://br.tradingview.com/news/cointelegraph:0255ae500bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:096737d1cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Gnosis anuncia hard fork para recuperar fundos de exploit da Balancer",
       "link": "https://br.tradingview.com/news/cointelegraph:096737d1cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:76af05b7dbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin está estagnado e desdenhado, mas prestes ‘dar capote no ouro’, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:76af05b7dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3563340ecbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Crypto.com afirma que market maker aumenta liquidez e nega vantagem de negociação sobre clientes",
       "link": "https://br.tradingview.com/news/cointelegraph:3563340ecbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e3ccca628bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "FMI diz que El Salvador negocia venda da carteira estatal de Bitcoin Chivo",
       "link": "https://br.tradingview.com/news/cointelegraph:e3ccca628bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9e9b851febc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Como o Butão está construindo uma economia verde de Bitcoin desde a base",
       "link": "https://br.tradingview.com/news/cointelegraph:9e9b851febc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:639ad804bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Preço do XRP deve encerrar sequência de 2 anos",
       "link": "https://br.tradingview.com/news/beincrypto:639ad804bbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:481466045bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Brasileiros acreditam que IA reduz riscos financeiros, mas ameaça privacidade, diz pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:481466045bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9f7ba3e5abc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Divergências de alta no Bitcoin se formam enquanto o ouro se prepara para novo recorde de US$ 4.500",
       "link": "https://br.tradingview.com/news/cointelegraph:9f7ba3e5abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ad63f63b3bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "USDe da Ethena perde US$ 8,3 bilhões desde crash de outubro em meio a 'perda de confiança'",
       "link": "https://br.tradingview.com/news/cointelegraph:ad63f63b3bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:9e6647362bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Como Wall Street está usando a Ethereum sem falar em Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:9e6647362bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 13:50:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 13:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Como Wall Street está usando a Ethereum sem falar em Ethereum\" data-qa-id=\"news-headline-title\">Como Wall Street está usando a Ethereum sem falar em Ethereum</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bba4c3e85bc81:0",
-      "index": 12,
-      "title": "Bitcoin fica preso abaixo de US$ 90 mil até que estas condições de mercado melhorem",
-      "link": "https://br.tradingview.com/news/cointelegraph:bba4c3e85bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-24T13:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin fica preso abaixo de US$ 90 mil até que estas condições de mercado melhorem\" data-qa-id=\"news-headline-title\">Bitcoin fica preso abaixo de US$ 90 mil até que estas condições de mercado melhorem</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:029d2e59fbc81:0",
-      "index": 13,
-      "title": "Binance anuncia programa de cashback para compras através de criptomoedas no Brasil",
-      "link": "https://br.tradingview.com/news/cointelegraph:029d2e59fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-24T13:14:37.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 13:14:37 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 13:14 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance anuncia programa de cashback para compras através de criptomoedas no Brasil\" data-qa-id=\"news-headline-title\">Binance anuncia programa de cashback para compras através de criptomoedas no Brasil</div></div></article>"
     }
   ]
 }
