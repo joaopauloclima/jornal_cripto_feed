@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-24T11:19:26.262Z",
+  "updated_at": "2025-12-24T11:53:43.508Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -14,8 +14,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 11:14:32 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 11:14 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 24/12/2025: Papai Noel esqueceu dos touros e BTC não se move ficando em US$ 87 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 24/12/2025: Papai Noel esqueceu dos touros e BTC não se move ficando em US$ 87 mil</div></div></article>"
     },
     {
-      "id": "beincrypto:f0b11eeabbc81:0",
+      "id": "beincrypto:4fda26d93bc81:0",
       "index": 1,
+      "title": "Bitcoin caminha para seu pior trimestre desde 2018: o que pode acontecer a seguir?",
+      "link": "https://br.tradingview.com/news/beincrypto:4fda26d93bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-12-24T11:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin caminha para seu pior trimestre desde 2018: o que pode acontecer a seguir?\" data-qa-id=\"news-headline-title\">Bitcoin caminha para seu pior trimestre desde 2018: o que pode acontecer a seguir?</div></div></article>"
+    },
+    {
+      "id": "beincrypto:f0b11eeabbc81:0",
+      "index": 2,
       "title": "BlackRock coloca ETF de Bitcoin entre os 3 principais investimentos",
       "link": "https://br.tradingview.com/news/beincrypto:f0b11eeabbc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:ddbdeff74bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Aposta de tesouraria em Bitcoin da ZOOZ enfrenta o relógio de deslistagem da Nasdaq",
       "link": "https://br.tradingview.com/news/cointelegraph:ddbdeff74bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:da17aa2c2bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Vídeo de Hageman alimenta burburinho no Senado dos EUA enquanto Lummis deixa vaga aberta em Wyoming",
       "link": "https://br.tradingview.com/news/cointelegraph:da17aa2c2bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:3aebc9fabbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "ETFs de Ether interrompem sequência de saídas enquanto produtos de XRP registram máximas de várias semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:3aebc9fabbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:587af192ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Altseason cripto é improvável em 2026, com 'sobreviventes blue chip' levando a melhor, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:587af192ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bf2dfe70abc81:0",
-      "index": 6,
+      "index": 7,
       "title": "CFTC muda de comando com Selig assumindo e Pham deixando o cargo",
       "link": "https://br.tradingview.com/news/cointelegraph:bf2dfe70abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:907b14d17bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Demanda por ETF de HBAR despenca e pode derrubar preço abaixo de US$ 0,10",
       "link": "https://br.tradingview.com/news/beincrypto:907b14d17bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:228ea5207bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Capitaneados pela IA, novos data centers devem elevar em 2.000 MW consumo de energia no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:228ea5207bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ce5bcfdccbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Juros abertos em perpétuos de Bitcoin sobem enquanto traders apostam em rali de fim de ano",
       "link": "https://br.tradingview.com/news/cointelegraph:ce5bcfdccbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f7e50c201bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "BlackRock destaca ETF de Bitcoin como tema principal ao lado de T-bills e ações de tecnologia",
       "link": "https://br.tradingview.com/news/cointelegraph:f7e50c201bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:086ff13ddbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Reserva da Bitmine ultrapassa 4 milhões de ETH após última compra de US$ 40 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:086ff13ddbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:880b99bfabc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Capitulação recente de mineradores de Bitcoin pode indicar que o fundo está próximo, afirma VanEck",
       "link": "https://br.tradingview.com/news/cointelegraph:880b99bfabc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Dec 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de dez. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Capitulação recente de mineradores de Bitcoin pode indicar que o fundo está próximo, afirma VanEck\" data-qa-id=\"news-headline-title\">Capitulação recente de mineradores de Bitcoin pode indicar que o fundo está próximo, afirma VanEck</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:20583ad09bc81:0",
-      "index": 13,
-      "title": "ETHZilla liquida US$ 74,5 milhões em Ether para resgatar dívida conversível",
-      "link": "https://br.tradingview.com/news/cointelegraph:20583ad09bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-23T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Dec 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de dez. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETHZilla liquida US$ 74,5 milhões em Ether para resgatar dívida conversível\" data-qa-id=\"news-headline-title\">ETHZilla liquida US$ 74,5 milhões em Ether para resgatar dívida conversível</div></div></article>"
     }
   ]
 }
