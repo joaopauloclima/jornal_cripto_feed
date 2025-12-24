@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-24T14:20:05.351Z",
+  "updated_at": "2025-12-24T14:56:52.936Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ad63f63b3bc81:0",
+      "id": "cointelegraph:481466045bc81:0",
       "index": 0,
+      "title": "Brasileiros acreditam que IA reduz riscos financeiros, mas ameaça privacidade, diz pesquisa",
+      "link": "https://br.tradingview.com/news/cointelegraph:481466045bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-24T14:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 14:50:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 14:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasileiros acreditam que IA reduz riscos financeiros, mas ameaça privacidade, diz pesquisa\" data-qa-id=\"news-headline-title\">Brasileiros acreditam que IA reduz riscos financeiros, mas ameaça privacidade, diz pesquisa</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9f7ba3e5abc81:0",
+      "index": 1,
+      "title": "Divergências de alta no Bitcoin se formam enquanto o ouro se prepara para novo recorde de US$ 4.500",
+      "link": "https://br.tradingview.com/news/cointelegraph:9f7ba3e5abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-24T14:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Divergências de alta no Bitcoin se formam enquanto o ouro se prepara para novo recorde de US$ 4.500\" data-qa-id=\"news-headline-title\">Divergências de alta no Bitcoin se formam enquanto o ouro se prepara para novo recorde de US$ 4.500</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ad63f63b3bc81:0",
+      "index": 2,
       "title": "USDe da Ethena perde US$ 8,3 bilhões desde crash de outubro em meio a 'perda de confiança'",
       "link": "https://br.tradingview.com/news/cointelegraph:ad63f63b3bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:9e6647362bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Como Wall Street está usando a Ethereum sem falar em Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:9e6647362bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:bba4c3e85bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin fica preso abaixo de US$ 90 mil até que estas condições de mercado melhorem",
       "link": "https://br.tradingview.com/news/cointelegraph:bba4c3e85bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:029d2e59fbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Binance anuncia programa de cashback para compras através de criptomoedas no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:029d2e59fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:38d2f4b38bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "5 gráficos sugerem que o Bitcoin pode entrar em mercado de baixa no início de 2026",
       "link": "https://br.tradingview.com/news/beincrypto:38d2f4b38bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8a1347ab4bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Rali de Natal do Bitcoin fica mais distante com saída de capital das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:8a1347ab4bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d94a006c8bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Preço do Bitcoin hoje, 24/12/2025: Papai Noel esqueceu dos touros e BTC não se move ficando em US$ 87 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d94a006c8bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:4fda26d93bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin caminha para seu pior trimestre desde 2018: o que pode acontecer a seguir?",
       "link": "https://br.tradingview.com/news/beincrypto:4fda26d93bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:f0b11eeabbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "BlackRock coloca ETF de Bitcoin entre os 3 principais investimentos",
       "link": "https://br.tradingview.com/news/beincrypto:f0b11eeabbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ddbdeff74bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Aposta de tesouraria em Bitcoin da ZOOZ enfrenta o relógio de deslistagem da Nasdaq",
       "link": "https://br.tradingview.com/news/cointelegraph:ddbdeff74bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:da17aa2c2bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Vídeo de Hageman alimenta burburinho no Senado dos EUA enquanto Lummis deixa vaga aberta em Wyoming",
       "link": "https://br.tradingview.com/news/cointelegraph:da17aa2c2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3aebc9fabbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "ETFs de Ether interrompem sequência de saídas enquanto produtos de XRP registram máximas de várias semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:3aebc9fabbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Dec 2025 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de dez. de 2025, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Ether interrompem sequência de saídas enquanto produtos de XRP registram máximas de várias semanas\" data-qa-id=\"news-headline-title\">ETFs de Ether interrompem sequência de saídas enquanto produtos de XRP registram máximas de várias semanas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:587af192ebc81:0",
-      "index": 12,
-      "title": "Altseason cripto é improvável em 2026, com 'sobreviventes blue chip' levando a melhor, diz analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:587af192ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-23T18:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Dec 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de dez. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Altseason cripto é improvável em 2026, com 'sobreviventes blue chip' levando a melhor, diz analista\" data-qa-id=\"news-headline-title\">Altseason cripto é improvável em 2026, com 'sobreviventes blue chip' levando a melhor, diz analista</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bf2dfe70abc81:0",
-      "index": 13,
-      "title": "CFTC muda de comando com Selig assumindo e Pham deixando o cargo",
-      "link": "https://br.tradingview.com/news/cointelegraph:bf2dfe70abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-23T18:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 23 Dec 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de dez. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CFTC muda de comando com Selig assumindo e Pham deixando o cargo\" data-qa-id=\"news-headline-title\">CFTC muda de comando com Selig assumindo e Pham deixando o cargo</div></div></article>"
     }
   ]
 }
