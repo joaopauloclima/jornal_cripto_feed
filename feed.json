@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-25T16:24:33.298Z",
+  "updated_at": "2025-12-25T17:00:18.114Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:5043d3bb6bc81:0",
+      "id": "cointelegraph:a3200cf98bc81:0",
       "index": 0,
+      "title": "Bitcoiners otimistas com Elon Musk sinalizando crescimento econômico de 'dois dígitos'",
+      "link": "https://br.tradingview.com/news/cointelegraph:a3200cf98bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-25T16:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Dec 2025 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de dez. de 2025, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoiners otimistas com Elon Musk sinalizando crescimento econômico de 'dois dígitos'\" data-qa-id=\"news-headline-title\">Bitcoiners otimistas com Elon Musk sinalizando crescimento econômico de 'dois dígitos'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:95eca3a3abc81:0",
+      "index": 1,
+      "title": "Polymarket diz que provedor terceirizado causou invasões relatadas em contas",
+      "link": "https://br.tradingview.com/news/cointelegraph:95eca3a3abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-25T16:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Dec 2025 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de dez. de 2025, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Polymarket diz que provedor terceirizado causou invasões relatadas em contas\" data-qa-id=\"news-headline-title\">Polymarket diz que provedor terceirizado causou invasões relatadas em contas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5043d3bb6bc81:0",
+      "index": 2,
       "title": "Tokenização deixou de significar apenas dinheiro fiduciário, afirma executivo da Kraken",
       "link": "https://br.tradingview.com/news/cointelegraph:5043d3bb6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:f8c2e75abbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "CNE prepara regras de IA para evitar que alunos virem 'robôs'",
       "link": "https://br.tradingview.com/news/cointelegraph:f8c2e75abbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d2a5f297dbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Solana e Ethereum podem coexistir na corrida pela tokenização, diz a Dragonfly VC",
       "link": "https://br.tradingview.com/news/cointelegraph:d2a5f297dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f65dc4140bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "De stablecoins a incumbentes, VCs mapeiam onde o mercado cripto criou valor em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:f65dc4140bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:986f3dbcbbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Offchain Labs aumenta participação em ARB enquanto Arbitrum ultrapassa marca de US$ 20 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:986f3dbcbbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f3b93aec9bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Feliz Natal, Caroline Ellison: aqui está uma liberação antecipada da custódia",
       "link": "https://br.tradingview.com/news/cointelegraph:f3b93aec9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ce964dc22bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Fundador da Aave é alvo de escrutínio após compra de US$ 10 milhões em tokens em meio a drama de governança",
       "link": "https://br.tradingview.com/news/cointelegraph:ce964dc22bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:4157fd4cbbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Fornecimento de USD1, ligado à família Trump, sobe US$ 150 milhões com lançamento de programa de rendimento da Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:4157fd4cbbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:fcc823342bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Preço do XRP abaixo de US$ 2: sentimento negativo sinaliza possível 'forte recuperação' à frente",
       "link": "https://br.tradingview.com/news/cointelegraph:fcc823342bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8091dd9d2bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "‘Aversão a Saylor’ pode encerrar marasmo e catapultar o Bitcoin, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:8091dd9d2bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f1bd16434bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Criptomoedas reagem, mas ursos impedem rali de Natal do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:f1bd16434bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:16edc22cabc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Preço do Bitcoin hoje, 25/12/2025: BTC enfrenta o marasmo sem catalisadores para alta",
       "link": "https://br.tradingview.com/news/cointelegraph:16edc22cabc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Dec 2025 11:16:38 GMT\" class=\"apply-common-tooltip\" title=\"25 de dez. de 2025, 11:16 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 25/12/2025: BTC enfrenta o marasmo sem catalisadores para alta\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 25/12/2025: BTC enfrenta o marasmo sem catalisadores para alta</div></div></article>"
-    },
-    {
-      "id": "beincrypto:d3b91b5c7bc81:0",
-      "index": 12,
-      "title": "Ouro, não o Bitcoin, conquista nova geração de investidores em 2025",
-      "link": "https://br.tradingview.com/news/beincrypto:d3b91b5c7bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-25T11:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 25 Dec 2025 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de dez. de 2025, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ouro, não o Bitcoin, conquista nova geração de investidores em 2025\" data-qa-id=\"news-headline-title\">Ouro, não o Bitcoin, conquista nova geração de investidores em 2025</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e6f3a7312bc81:0",
-      "index": 13,
-      "title": "Preço da Ethereum sob pressão à medida que se aproxima o vencimento de opções de US$ 6 bilhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:e6f3a7312bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-24T20:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 24 Dec 2025 20:10:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de dez. de 2025, 20:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço da Ethereum sob pressão à medida que se aproxima o vencimento de opções de US$ 6 bilhões\" data-qa-id=\"news-headline-title\">Preço da Ethereum sob pressão à medida que se aproxima o vencimento de opções de US$ 6 bilhões</div></div></article>"
     }
   ]
 }
