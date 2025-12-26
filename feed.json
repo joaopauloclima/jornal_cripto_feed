@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-26T16:58:58.135Z",
+  "updated_at": "2025-12-26T17:18:16.892Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6622717d6bc81:0",
+      "id": "cointelegraph:0d0701291bc81:0",
       "index": 0,
+      "title": "Votação de governança da Aave termina em rejeição após reação da comunidade",
+      "link": "https://br.tradingview.com/news/cointelegraph:0d0701291bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-26T17:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCAAVE.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCAAVE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Votação de governança da Aave termina em rejeição após reação da comunidade\" data-qa-id=\"news-headline-title\">Votação de governança da Aave termina em rejeição após reação da comunidade</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6622717d6bc81:0",
+      "index": 1,
       "title": "Sentimento cripto permanece em 'medo extremo' pelo 14º dia consecutivo",
       "link": "https://br.tradingview.com/news/cointelegraph:6622717d6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:55e629c2fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ethereum dificilmente atingirá novas máximas em 2026, afirma Ben Cowen",
       "link": "https://br.tradingview.com/news/cointelegraph:55e629c2fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a72cb72a0bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Dicas para novatos, veteranos e céticos em cripto de um Bitcoiner que enterrou US$ 700 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:a72cb72a0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:18624a63ebc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Vitalik diz que o Grok é 'indiscutivelmente uma melhoria líquida' para o X, apesar das falhas",
       "link": "https://br.tradingview.com/news/cointelegraph:18624a63ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:34e26eb87bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "IA está se transformando na ‘melhor amiga’ dos jovens brasileiros, revela pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:34e26eb87bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f6f585241bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Fundamentos do mercado de Bitcoin 'não poderiam estar melhores', diz CEO da Strategy",
       "link": "https://br.tradingview.com/news/cointelegraph:f6f585241bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:3d209d624bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Pudgy Penguins leva personagens NFTs à esfera de Las Vegas durante o Natal",
       "link": "https://br.tradingview.com/news/cointelegraph:3d209d624bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3XW08D:0",
-      "index": 7,
+      "index": 8,
       "title": "JPMorgan congela startups de stablecoins que operam na Venezuela - The Information",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3XW08D:0/",
       "source": "Reuters",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:0299ca0c7bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "O que o mercado de stablecoins de US$ 310 bilhões revela sobre a adoção cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:0299ca0c7bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:a1bd40121bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "40% do suprimento de Ethereum registra prejuízo",
       "link": "https://br.tradingview.com/news/beincrypto:a1bd40121bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8f1755db0bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Manual de investimentos em cripto para 2026: Bitcoin, infraestrutura de stablecoins e ativos tokenizados",
       "link": "https://br.tradingview.com/news/cointelegraph:8f1755db0bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:58efa6d65bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ursos abrem a porteira para os touros do Bitcoin, sugerem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:58efa6d65bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:99e0d8c65bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Por que o mercado de criptomoedas está em alta hoje 26/12/2025?",
       "link": "https://br.tradingview.com/news/beincrypto:99e0d8c65bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 26/12/2025?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 26/12/2025?</div></div></article>"
-    },
-    {
-      "id": "beincrypto:6ee0d459ebc81:0",
-      "index": 13,
-      "title": "Proposta polêmica do Bitcoin quer congelar milhões de satoshis para combater spam",
-      "link": "https://br.tradingview.com/news/beincrypto:6ee0d459ebc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-26T12:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Dec 2025 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de dez. de 2025, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Proposta polêmica do Bitcoin quer congelar milhões de satoshis para combater spam\" data-qa-id=\"news-headline-title\">Proposta polêmica do Bitcoin quer congelar milhões de satoshis para combater spam</div></div></article>"
     }
   ]
 }
