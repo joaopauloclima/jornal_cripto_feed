@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-27T15:19:39.025Z",
+  "updated_at": "2025-12-27T15:53:50.256Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:163caf907bc81:0",
+      "id": "cointelegraph:b0e12c75abc81:0",
       "index": 0,
+      "title": "TVL do Ethereum pode disparar '10 vezes' em 2026, afirma CEO da Sharplink",
+      "link": "https://br.tradingview.com/news/cointelegraph:b0e12c75abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-27T15:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Dec 2025 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de dez. de 2025, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"TVL do Ethereum pode disparar '10 vezes' em 2026, afirma CEO da Sharplink\" data-qa-id=\"news-headline-title\">TVL do Ethereum pode disparar '10 vezes' em 2026, afirma CEO da Sharplink</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:163caf907bc81:0",
+      "index": 1,
       "title": "Bitmain reduz drasticamente preços de ASICs em meio à turbulência na indústria de mineração",
       "link": "https://br.tradingview.com/news/cointelegraph:163caf907bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:5067cdc8fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin está em mercado de baixa, mas promete alta de uma década, diz Samson Mow",
       "link": "https://br.tradingview.com/news/cointelegraph:5067cdc8fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:7dc4f9f15bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "XRP pode “estagnar” em 2026? Analistas lançam alerta preocupante",
       "link": "https://br.tradingview.com/news/cointelegraph:7dc4f9f15bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f9129bc4fbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "JPMorgan congela contas de duas startups de stablecoins devido a preocupações com sanções",
       "link": "https://br.tradingview.com/news/cointelegraph:f9129bc4fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:4754cd009bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitmine surpreende e trava US$ 219 milhões em staking de ETH",
       "link": "https://br.tradingview.com/news/cointelegraph:4754cd009bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:7f8a191acbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Rotação de setores em Wall Street pode impulsionar criptomoedas em 2026",
       "link": "https://br.tradingview.com/news/beincrypto:7f8a191acbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:ba32b1c44bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "CEO da Coinbase explode: “GENIUS Act não será reaberto” e acusa lobby bancário",
       "link": "https://br.tradingview.com/news/cointelegraph:ba32b1c44bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f73c0310cbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin rasteja até US$ 88 mil enquanto Aave enfrenta drama de governança: Finance Redefined",
       "link": "https://br.tradingview.com/news/cointelegraph:f73c0310cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:aedc9dba1bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Commodities tokenizadas se aproximam de US$ 4 bilhões enquanto ouro estende rali histórico",
       "link": "https://br.tradingview.com/news/cointelegraph:aedc9dba1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:e5c1608c3bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Memecoins passam da alegria de Natal para a dura realidade e afundam 65% em um ano",
       "link": "https://br.tradingview.com/news/cointelegraph:e5c1608c3bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e3d519ecdbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Previsões de preço 26/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK, HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:e3d519ecdbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:42f6b7b23bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin mira US$ 90 mil com possível rompimento de tendência enquanto ouro e prata batem novos recordes",
       "link": "https://br.tradingview.com/news/cointelegraph:42f6b7b23bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:47469292ebc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Trust Wallet vai cobrir US$ 7 milhões perdidos em hack no dia de Natal, diz CZ",
       "link": "https://br.tradingview.com/news/cointelegraph:47469292ebc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Dec 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de dez. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trust Wallet vai cobrir US$ 7 milhões perdidos em hack no dia de Natal, diz CZ\" data-qa-id=\"news-headline-title\">Trust Wallet vai cobrir US$ 7 milhões perdidos em hack no dia de Natal, diz CZ</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0d0701291bc81:0",
-      "index": 13,
-      "title": "Votação de governança da Aave termina em rejeição após reação da comunidade",
-      "link": "https://br.tradingview.com/news/cointelegraph:0d0701291bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-26T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCAAVE.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCAAVE.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 26 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Votação de governança da Aave termina em rejeição após reação da comunidade\" data-qa-id=\"news-headline-title\">Votação de governança da Aave termina em rejeição após reação da comunidade</div></div></article>"
     }
   ]
 }
