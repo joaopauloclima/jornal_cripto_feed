@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-28T13:22:32.270Z",
+  "updated_at": "2025-12-28T13:56:11.647Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3a632be6dbc81:0",
+      "id": "cointelegraph:ad8f43d8abc81:0",
       "index": 0,
+      "title": "Bitcoin corre o risco de registrar sua primeira vela vermelha anual após o halving",
+      "link": "https://br.tradingview.com/news/cointelegraph:ad8f43d8abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-28T13:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 28 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin corre o risco de registrar sua primeira vela vermelha anual após o halving\" data-qa-id=\"news-headline-title\">Bitcoin corre o risco de registrar sua primeira vela vermelha anual após o halving</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:617949c54bc81:0",
+      "index": 1,
+      "title": "ETFs de Bitcoin perdem US$ 782 milhões durante a semana do Natal em meio a \"posicionamento para o feriado\".",
+      "link": "https://br.tradingview.com/news/cointelegraph:617949c54bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-28T13:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 28 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin perdem US$ 782 milhões durante a semana do Natal em meio a &quot;posicionamento para o feriado&quot;.\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin perdem US$ 782 milhões durante a semana do Natal em meio a \"posicionamento para o feriado\".</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3a632be6dbc81:0",
+      "index": 2,
       "title": "Gigante Mirae Asset mira compra de corretora cripto por US$ 100 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:3a632be6dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:5c081edadbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Fundador da Aave nega ter comprado tokens para influenciar a votação fracassada da DAO",
       "link": "https://br.tradingview.com/news/cointelegraph:5c081edadbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:07f06e2f0bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Tom Lee diz que Ethereum pode disparar para US$ 9 mil já em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:07f06e2f0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8be823dd1bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin não chegará a US$ 90 mil até o ano que vem",
       "link": "https://br.tradingview.com/news/cointelegraph:8be823dd1bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:22466b325bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "USX perde brevemente a paridade com o dólar antes que o suporte de liquidez restaurasse o preço",
       "link": "https://br.tradingview.com/news/cointelegraph:22466b325bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e180fb8cebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "A ativação do hard fork Fermi na BNB Chain vai ocorrer em janeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:e180fb8cebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:b0e12c75abc81:0",
-      "index": 6,
+      "index": 8,
       "title": "TVL do Ethereum pode disparar '10 vezes' em 2026, afirma CEO da Sharplink",
       "link": "https://br.tradingview.com/news/cointelegraph:b0e12c75abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:163caf907bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitmain reduz drasticamente preços de ASICs em meio à turbulência na indústria de mineração",
       "link": "https://br.tradingview.com/news/cointelegraph:163caf907bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5067cdc8fbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoin está em mercado de baixa, mas promete alta de uma década, diz Samson Mow",
       "link": "https://br.tradingview.com/news/cointelegraph:5067cdc8fbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:7dc4f9f15bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "XRP pode “estagnar” em 2026? Analistas lançam alerta preocupante",
       "link": "https://br.tradingview.com/news/cointelegraph:7dc4f9f15bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f9129bc4fbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "JPMorgan congela contas de duas startups de stablecoins devido a preocupações com sanções",
       "link": "https://br.tradingview.com/news/cointelegraph:f9129bc4fbc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Dec 2025 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de dez. de 2025, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"JPMorgan congela contas de duas startups de stablecoins devido a preocupações com sanções\" data-qa-id=\"news-headline-title\">JPMorgan congela contas de duas startups de stablecoins devido a preocupações com sanções</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4754cd009bc81:0",
-      "index": 11,
-      "title": "Bitmine surpreende e trava US$ 219 milhões em staking de ETH",
-      "link": "https://br.tradingview.com/news/cointelegraph:4754cd009bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-27T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitmine surpreende e trava US$ 219 milhões em staking de ETH\" data-qa-id=\"news-headline-title\">Bitmine surpreende e trava US$ 219 milhões em staking de ETH</div></div></article>"
-    },
-    {
-      "id": "beincrypto:7f8a191acbc81:0",
-      "index": 12,
-      "title": "Rotação de setores em Wall Street pode impulsionar criptomoedas em 2026",
-      "link": "https://br.tradingview.com/news/beincrypto:7f8a191acbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-27T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Dec 2025 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de dez. de 2025, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rotação de setores em Wall Street pode impulsionar criptomoedas em 2026\" data-qa-id=\"news-headline-title\">Rotação de setores em Wall Street pode impulsionar criptomoedas em 2026</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ba32b1c44bc81:0",
-      "index": 13,
-      "title": "CEO da Coinbase explode: “GENIUS Act não será reaberto” e acusa lobby bancário",
-      "link": "https://br.tradingview.com/news/cointelegraph:ba32b1c44bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-27T12:40:43.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Dec 2025 12:40:43 GMT\" class=\"apply-common-tooltip\" title=\"27 de dez. de 2025, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da Coinbase explode: “GENIUS Act não será reaberto” e acusa lobby bancário\" data-qa-id=\"news-headline-title\">CEO da Coinbase explode: “GENIUS Act não será reaberto” e acusa lobby bancário</div></div></article>"
     }
   ]
 }
