@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-28T16:23:39.390Z",
+  "updated_at": "2025-12-28T16:58:47.468Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:815aa5021bc81:0",
+      "id": "cointelegraph:ca02c130cbc81:0",
       "index": 0,
+      "title": "Analistas afirmam que o Bitcoin não precisa de ouro e prata para \"desacelerar\".",
+      "link": "https://br.tradingview.com/news/cointelegraph:ca02c130cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-28T16:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 28 Dec 2025 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de dez. de 2025, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Analistas afirmam que o Bitcoin não precisa de ouro e prata para &quot;desacelerar&quot;.\" data-qa-id=\"news-headline-title\">Analistas afirmam que o Bitcoin não precisa de ouro e prata para \"desacelerar\".</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:815aa5021bc81:0",
+      "index": 1,
       "title": "Países emergentes devem liderar corrida global da tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:815aa5021bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:9ea2444ecbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "O volume de buscas no Google por 'criptomoedas' despenca no final de 2025.",
       "link": "https://br.tradingview.com/news/cointelegraph:9ea2444ecbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:fb61c0187bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Golpe final? Senadora diz que nova regra do Fed destrói a Chokepoint 2.0",
       "link": "https://br.tradingview.com/news/cointelegraph:fb61c0187bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3db6d3e67bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "A alta do Bitcoin será forte, mas 'não espetacular' na próxima década",
       "link": "https://br.tradingview.com/news/cointelegraph:3db6d3e67bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:aee62b7c4bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Uniswap queima 100 milhões de UNI após aprovação da governança",
       "link": "https://br.tradingview.com/news/cointelegraph:aee62b7c4bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ad8f43d8abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin corre o risco de registrar sua primeira vela vermelha anual após o halving",
       "link": "https://br.tradingview.com/news/cointelegraph:ad8f43d8abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:617949c54bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETFs de Bitcoin perdem US$ 782 milhões durante a semana do Natal em meio a \"posicionamento para o feriado\".",
       "link": "https://br.tradingview.com/news/cointelegraph:617949c54bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3a632be6dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Gigante Mirae Asset mira compra de corretora cripto por US$ 100 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:3a632be6dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:5c081edadbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Fundador da Aave nega ter comprado tokens para influenciar a votação fracassada da DAO",
       "link": "https://br.tradingview.com/news/cointelegraph:5c081edadbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:07f06e2f0bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Tom Lee diz que Ethereum pode disparar para US$ 9 mil já em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:07f06e2f0bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8be823dd1bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin não chegará a US$ 90 mil até o ano que vem",
       "link": "https://br.tradingview.com/news/cointelegraph:8be823dd1bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:22466b325bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "USX perde brevemente a paridade com o dólar antes que o suporte de liquidez restaurasse o preço",
       "link": "https://br.tradingview.com/news/cointelegraph:22466b325bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e180fb8cebc81:0",
-      "index": 12,
+      "index": 13,
       "title": "A ativação do hard fork Fermi na BNB Chain vai ocorrer em janeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:e180fb8cebc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Dec 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de dez. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A ativação do hard fork Fermi na BNB Chain vai ocorrer em janeiro\" data-qa-id=\"news-headline-title\">A ativação do hard fork Fermi na BNB Chain vai ocorrer em janeiro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b0e12c75abc81:0",
-      "index": 13,
-      "title": "TVL do Ethereum pode disparar '10 vezes' em 2026, afirma CEO da Sharplink",
-      "link": "https://br.tradingview.com/news/cointelegraph:b0e12c75abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-27T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 27 Dec 2025 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de dez. de 2025, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"TVL do Ethereum pode disparar '10 vezes' em 2026, afirma CEO da Sharplink\" data-qa-id=\"news-headline-title\">TVL do Ethereum pode disparar '10 vezes' em 2026, afirma CEO da Sharplink</div></div></article>"
     }
   ]
 }
