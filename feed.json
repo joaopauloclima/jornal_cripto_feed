@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-29T20:57:31.360Z",
+  "updated_at": "2025-12-29T21:19:22.473Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:c9900f81ebc81:0",
+      "id": "cointelegraph:f27bb2587bc81:0",
       "index": 0,
+      "title": "2025 já era, e analista indica 10 criptos para 2026",
+      "link": "https://br.tradingview.com/news/cointelegraph:f27bb2587bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-29T21:16:11.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Dec 2025 21:16:11 GMT\" class=\"apply-common-tooltip\" title=\"29 de dez. de 2025, 21:16 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"2025 já era, e analista indica 10 criptos para 2026\" data-qa-id=\"news-headline-title\">2025 já era, e analista indica 10 criptos para 2026</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c9900f81ebc81:0",
+      "index": 1,
       "title": "Análise de preços em 29/12: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH",
       "link": "https://br.tradingview.com/news/cointelegraph:c9900f81ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:149d98417bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do ETH pode chegar a US$ 5 mil? Ether subiu 120% da última vez que isso aconteceu",
       "link": "https://br.tradingview.com/news/cointelegraph:149d98417bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:29bbc0a98bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Roubos ligados à Coreia do Norte e falhas na segurança de chaves dominam as perdas da Web3, diz a Hacken",
       "link": "https://br.tradingview.com/news/cointelegraph:29bbc0a98bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:29b857057bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Hack da Trust Wallet entra em fase de verificação em meio a aumento de alegações falsas",
       "link": "https://br.tradingview.com/news/cointelegraph:29b857057bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8b711a41ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "China permitirá que bancos paguem juros em carteiras de yuan digital a partir de janeiro de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:8b711a41ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4c4ef24e5bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Ativos do mundo real superam DEXs e se tornam a 5ª maior categoria do DeFi por TVL",
       "link": "https://br.tradingview.com/news/cointelegraph:4c4ef24e5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b39230495bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do Bitcoin pausa em US$ 90 mil: o que pode desencadear um rali no novo ano?",
       "link": "https://br.tradingview.com/news/cointelegraph:b39230495bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:584224d8dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Baleias da Bitfinex apostam em posições compradas em BTC para 2026: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:584224d8dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:495e6e58bbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Trend Research eleva participações em ETH para US$ 1,8 bilhão com compra de US$ 35 milhões e está otimista para 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:495e6e58bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5af804143bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Maior atividade e taxas mais baixas: veja o que os dados on-chain de dezembro mostram",
       "link": "https://br.tradingview.com/news/cointelegraph:5af804143bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8766fb282bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Brasileiros sacam US$ 1 milhão de fundos de criptomoedas e consolidam saldo negativo em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:8766fb282bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:4998e661abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Fila de entrada de validadores de ETH fica repentinamente quase o dobro da fila de saída",
       "link": "https://br.tradingview.com/news/cointelegraph:4998e661abc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c258ef078bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Disparo de 6% no preço da prata e queda de 10% refletem a volatilidade das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:c258ef078bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Dec 2025 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de dez. de 2025, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Disparo de 6% no preço da prata e queda de 10% refletem a volatilidade das criptomoedas\" data-qa-id=\"news-headline-title\">Disparo de 6% no preço da prata e queda de 10% refletem a volatilidade das criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:408cbfa6fbc81:0",
-      "index": 13,
-      "title": "Gigantes do setor cripto criticam proposta de imposto de 5% sobre grandes fortunas na Califórnia",
-      "link": "https://br.tradingview.com/news/cointelegraph:408cbfa6fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-29T15:10:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Dec 2025 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de dez. de 2025, 15:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Gigantes do setor cripto criticam proposta de imposto de 5% sobre grandes fortunas na Califórnia\" data-qa-id=\"news-headline-title\">Gigantes do setor cripto criticam proposta de imposto de 5% sobre grandes fortunas na Califórnia</div></div></article>"
     }
   ]
 }
