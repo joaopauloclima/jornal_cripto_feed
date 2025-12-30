@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-30T17:02:38.362Z",
+  "updated_at": "2025-12-30T17:26:18.895Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6acdf7339bc81:0",
+      "id": "cointelegraph:9971d62eabc81:0",
       "index": 0,
+      "title": "Metaplanet adiciona US$ 450 milhões em compras no fim de dezembro e encerra 2025 acima de 35.000 BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:9971d62eabc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-30T17:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Metaplanet adiciona US$ 450 milhões em compras no fim de dezembro e encerra 2025 acima de 35.000 BTC\" data-qa-id=\"news-headline-title\">Metaplanet adiciona US$ 450 milhões em compras no fim de dezembro e encerra 2025 acima de 35.000 BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:513e5cc4ebc81:0",
+      "index": 1,
+      "title": "Demanda por reserva de valor e clareza regulatória devem impulsionar o mercado de alta em 2026, diz a Grayscale",
+      "link": "https://br.tradingview.com/news/cointelegraph:513e5cc4ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-30T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Demanda por reserva de valor e clareza regulatória devem impulsionar o mercado de alta em 2026, diz a Grayscale\" data-qa-id=\"news-headline-title\">Demanda por reserva de valor e clareza regulatória devem impulsionar o mercado de alta em 2026, diz a Grayscale</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6acdf7339bc81:0",
+      "index": 2,
       "title": "Protestos no Irã contra o colapso da moeda mostram por que o Bitcoin é necessário, diz CEO da Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:6acdf7339bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:db909f242bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Detentores de longo prazo de Bitcoin finalmente interrompem vendas enquanto baleias de ETH acumulam",
       "link": "https://br.tradingview.com/news/cointelegraph:db909f242bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:d99614d72bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Indicadores técnicos sugerem que Bitcoin pode iniciar tendência de alta em 2026",
       "link": "https://br.tradingview.com/news/beincrypto:d99614d72bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:110adc120bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Rejeição do Bitcoin em US$ 90 mil: narrativa de ouro digital do BTC perde para títulos do Tesouro?",
       "link": "https://br.tradingview.com/news/cointelegraph:110adc120bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f8f61678abc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Gigante de tecnologia vai lançar carteira cripto e L1s de fintechs devem fracassar, diz executivo da Dragonfly",
       "link": "https://br.tradingview.com/news/cointelegraph:f8f61678abc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d05c577bdbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Futuros perpétuos on-chain impulsionam aumento da atividade de derivativos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:d05c577bdbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:96349697dbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Ações tokenizadas vivem 'momento das stablecoins' com valor de mercado de US$ 1,2 bilhão",
       "link": "https://br.tradingview.com/news/cointelegraph:96349697dbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:05cd50cd9bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "BUIDL da BlackRock atinge US$ 100 milhões em pagamentos e mostra finanças tokenizadas em escala",
       "link": "https://br.tradingview.com/news/cointelegraph:05cd50cd9bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:29109b263bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Última compra de Bitcoin da Strategy em 2025 encerra ano ativo de acumulação",
       "link": "https://br.tradingview.com/news/cointelegraph:29109b263bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6465ea742bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bolsa de Valores do Brasil, B3, agora permite investir nas maiores mineradoras de Bitcoin do mundo",
       "link": "https://br.tradingview.com/news/cointelegraph:6465ea742bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:dc2285373bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Fábio Araújo do Banco Central: 'o futuro financeiro será em camadas, com stablecoins e ativos reais tokenizados'",
       "link": "https://br.tradingview.com/news/cointelegraph:dc2285373bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:0d4dcd950bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Preço do Bitcoin hoje, 30/12/2025: BTC 'dorme', quase não se move e fica em US$ 87 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:0d4dcd950bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 11:51:13 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 11:51 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 30/12/2025: BTC 'dorme', quase não se move e fica em US$ 87 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 30/12/2025: BTC 'dorme', quase não se move e fica em US$ 87 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0e1772ed7bc81:0",
-      "index": 12,
-      "title": "Criptomoedas que mais valorizaram em 2025 revelam narrativas emergentes e setores em crise",
-      "link": "https://br.tradingview.com/news/cointelegraph:0e1772ed7bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-30T10:23:36.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 10:23:36 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 10:23 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas que mais valorizaram em 2025 revelam narrativas emergentes e setores em crise\" data-qa-id=\"news-headline-title\">Criptomoedas que mais valorizaram em 2025 revelam narrativas emergentes e setores em crise</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f27bb2587bc81:0",
-      "index": 13,
-      "title": "2025 já era, e analista indica 10 criptos para 2026",
-      "link": "https://br.tradingview.com/news/cointelegraph:f27bb2587bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-29T21:16:11.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 29 Dec 2025 21:16:11 GMT\" class=\"apply-common-tooltip\" title=\"29 de dez. de 2025, 21:16 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"2025 já era, e analista indica 10 criptos para 2026\" data-qa-id=\"news-headline-title\">2025 já era, e analista indica 10 criptos para 2026</div></div></article>"
     }
   ]
 }
