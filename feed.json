@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-30T19:53:36.646Z",
+  "updated_at": "2025-12-30T20:22:31.754Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:75b6d93b9bc81:0",
+      "id": "cointelegraph:b59f3d324bc81:0",
       "index": 0,
+      "title": "Brasil atrai mineradoras de Bitcoin com isenções fiscais, energia renovável e brechas na legislação",
+      "link": "https://br.tradingview.com/news/cointelegraph:b59f3d324bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-30T20:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil atrai mineradoras de Bitcoin com isenções fiscais, energia renovável e brechas na legislação\" data-qa-id=\"news-headline-title\">Brasil atrai mineradoras de Bitcoin com isenções fiscais, energia renovável e brechas na legislação</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:75b6d93b9bc81:0",
+      "index": 1,
       "title": "Como a Strategy mantém compras de Bitcoin durante quedas do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:75b6d93b9bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f1601f660bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Rússia mira mineradores de criptomoedas não registrados com novas penalidades criminais",
       "link": "https://br.tradingview.com/news/cointelegraph:f1601f660bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:23434dd18bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Binance confirma a suspensão de saques via Visa e Mastercard para usuários ucranianos",
       "link": "https://br.tradingview.com/news/cointelegraph:23434dd18bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:57c89c8cebc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Cenário de alta do Bitcoin em 2026: traders veem 'sinais fortes' para preço do BTC em seis dígitos",
       "link": "https://br.tradingview.com/news/cointelegraph:57c89c8cebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d52328c9fbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "ETFs de XRP spot mantêm sequência de 29 dias de fluxos de entrada apesar de dezembro turbulento",
       "link": "https://br.tradingview.com/news/cointelegraph:d52328c9fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:a9deb1cdcbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Índice de prêmio do Bitcoin na Coinbase atinge menor nível desde fevereiro",
       "link": "https://br.tradingview.com/news/beincrypto:a9deb1cdcbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:50715350bbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Baleia de Bitcoin de US$ 11 bilhões vende US$ 330 milhões em ETH e abre US$ 748 milhões em posições compradas",
       "link": "https://br.tradingview.com/news/cointelegraph:50715350bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9971d62eabc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Metaplanet adiciona US$ 450 milhões em compras no fim de dezembro e encerra 2025 acima de 35.000 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:9971d62eabc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:513e5cc4ebc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Demanda por reserva de valor e clareza regulatória devem impulsionar o mercado de alta em 2026, diz a Grayscale",
       "link": "https://br.tradingview.com/news/cointelegraph:513e5cc4ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:6acdf7339bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Protestos no Irã contra o colapso da moeda mostram por que o Bitcoin é necessário, diz CEO da Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:6acdf7339bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:db909f242bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Detentores de longo prazo de Bitcoin finalmente interrompem vendas enquanto baleias de ETH acumulam",
       "link": "https://br.tradingview.com/news/cointelegraph:db909f242bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:d99614d72bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Indicadores técnicos sugerem que Bitcoin pode iniciar tendência de alta em 2026",
       "link": "https://br.tradingview.com/news/beincrypto:d99614d72bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:110adc120bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Rejeição do Bitcoin em US$ 90 mil: narrativa de ouro digital do BTC perde para títulos do Tesouro?",
       "link": "https://br.tradingview.com/news/cointelegraph:110adc120bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rejeição do Bitcoin em US$ 90 mil: narrativa de ouro digital do BTC perde para títulos do Tesouro?\" data-qa-id=\"news-headline-title\">Rejeição do Bitcoin em US$ 90 mil: narrativa de ouro digital do BTC perde para títulos do Tesouro?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f8f61678abc81:0",
-      "index": 13,
-      "title": "Gigante de tecnologia vai lançar carteira cripto e L1s de fintechs devem fracassar, diz executivo da Dragonfly",
-      "link": "https://br.tradingview.com/news/cointelegraph:f8f61678abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-30T15:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Gigante de tecnologia vai lançar carteira cripto e L1s de fintechs devem fracassar, diz executivo da Dragonfly\" data-qa-id=\"news-headline-title\">Gigante de tecnologia vai lançar carteira cripto e L1s de fintechs devem fracassar, diz executivo da Dragonfly</div></div></article>"
     }
   ]
 }
