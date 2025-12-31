@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-31T21:18:56.999Z",
+  "updated_at": "2025-12-31T21:53:04.667Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ee6c053b1bc81:0",
+      "id": "beincrypto:d6a54a4debc81:0",
       "index": 0,
+      "title": "Por que 2025 se tornou o ano em que a cripto deixou de perseguir hype?",
+      "link": "https://br.tradingview.com/news/beincrypto:d6a54a4debc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-12-31T21:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que 2025 se tornou o ano em que a cripto deixou de perseguir hype?\" data-qa-id=\"news-headline-title\">Por que 2025 se tornou o ano em que a cripto deixou de perseguir hype?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ee6c053b1bc81:0",
+      "index": 1,
       "title": "2026 deve ser um ano vermelho para o Bitcoin mas a tecnologia de pagamentos deve melhorar, dizem OGs do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:ee6c053b1bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:025dd9f94bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Análise de preços em 31/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK e HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:025dd9f94bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b09e81795bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "ETFs de Bitcoin spot encerram sequência de 7 dias de saídas com US$ 355 milhões e melhora da liquidez",
       "link": "https://br.tradingview.com/news/cointelegraph:b09e81795bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:37f473cfebc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitwise protocola na SEC dos EUA pedido para 11 ETFs cripto de 'estratégia' de token único",
       "link": "https://br.tradingview.com/news/cointelegraph:37f473cfebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d919b8fe2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Executivo da Coinbase alerta que erro do Senado sobre stablecoins pode dar vantagem global à China",
       "link": "https://br.tradingview.com/news/cointelegraph:d919b8fe2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:b3661974cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Transações da L1 do Ethereum atingem 2,2 milhões por dia com custo médio de cerca de US$ 0,17",
       "link": "https://br.tradingview.com/news/cointelegraph:b3661974cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:1838d9418bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "2026 deve marcar uma nova fase do mercado cripto, guiada por liquidez",
       "link": "https://br.tradingview.com/news/beincrypto:1838d9418bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:53ea6ecf6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Criptomoedas ficaram atrás do ouro e das ações, mas 2026 oferece chance de 'recuperação'",
       "link": "https://br.tradingview.com/news/cointelegraph:53ea6ecf6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3Y10D5:0",
-      "index": 8,
+      "index": 9,
       "title": "Apollo venderá Coinstar para comprador no Alasca; títulos serão pagos - Bloomberg News",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3Y10D5:0/",
       "source": "Reuters",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c9edf9c4bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Carteiras ligadas à equipe da memecoin TRUMP movimentam US$ 94 milhões em USDC para a Coinbase em dezembro",
       "link": "https://br.tradingview.com/news/cointelegraph:c9edf9c4bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:67cc24c5abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Cortes do Fed em 2026 podem ser o 'catalisador-chave' para o retorno do varejo às criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:67cc24c5abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:fb4638584bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Prenetics abandona estratégia de Bitcoin para focar em marca de nutrição apoiada por Beckham",
       "link": "https://br.tradingview.com/news/cointelegraph:fb4638584bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Prenetics abandona estratégia de Bitcoin para focar em marca de nutrição apoiada por Beckham\" data-qa-id=\"news-headline-title\">Prenetics abandona estratégia de Bitcoin para focar em marca de nutrição apoiada por Beckham</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L1N3Y109N:0",
-      "index": 12,
-      "title": "Trump Media distribuirá um novo token digital aos acionistas",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3Y109N:0/",
-      "source": "Reuters",
-      "published_at": "2025-12-31T14:56:21.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/digital-world-acquisition-corp.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/digital-world-acquisition-corp.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 14:56:21 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 14:56 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump Media distribuirá um novo token digital aos acionistas\" data-qa-id=\"news-headline-title\">Trump Media distribuirá um novo token digital aos acionistas</div></div></article>"
     }
   ]
 }
