@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-31T19:19:08.099Z",
+  "updated_at": "2025-12-31T19:53:41.084Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:37f473cfebc81:0",
+      "id": "cointelegraph:025dd9f94bc81:0",
       "index": 0,
+      "title": "Análise de preços em 31/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK e HYPE",
+      "link": "https://br.tradingview.com/news/cointelegraph:025dd9f94bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-31T19:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 31/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK e HYPE\" data-qa-id=\"news-headline-title\">Análise de preços em 31/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK e HYPE</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b09e81795bc81:0",
+      "index": 1,
+      "title": "ETFs de Bitcoin spot encerram sequência de 7 dias de saídas com US$ 355 milhões e melhora da liquidez",
+      "link": "https://br.tradingview.com/news/cointelegraph:b09e81795bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-31T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin spot encerram sequência de 7 dias de saídas com US$ 355 milhões e melhora da liquidez\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin spot encerram sequência de 7 dias de saídas com US$ 355 milhões e melhora da liquidez</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:37f473cfebc81:0",
+      "index": 2,
       "title": "Bitwise protocola na SEC dos EUA pedido para 11 ETFs cripto de 'estratégia' de token único",
       "link": "https://br.tradingview.com/news/cointelegraph:37f473cfebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d919b8fe2bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Executivo da Coinbase alerta que erro do Senado sobre stablecoins pode dar vantagem global à China",
       "link": "https://br.tradingview.com/news/cointelegraph:d919b8fe2bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b3661974cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Transações da L1 do Ethereum atingem 2,2 milhões por dia com custo médio de cerca de US$ 0,17",
       "link": "https://br.tradingview.com/news/cointelegraph:b3661974cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:1838d9418bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "2026 deve marcar uma nova fase do mercado cripto, guiada por liquidez",
       "link": "https://br.tradingview.com/news/beincrypto:1838d9418bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:53ea6ecf6bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Criptomoedas ficaram atrás do ouro e das ações, mas 2026 oferece chance de 'recuperação'",
       "link": "https://br.tradingview.com/news/cointelegraph:53ea6ecf6bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3Y10D5:0",
-      "index": 5,
+      "index": 7,
       "title": "Apollo venderá Coinstar para comprador no Alasca; títulos serão pagos - Bloomberg News",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3Y10D5:0/",
       "source": "Reuters",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c9edf9c4bbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Carteiras ligadas à equipe da memecoin TRUMP movimentam US$ 94 milhões em USDC para a Coinbase em dezembro",
       "link": "https://br.tradingview.com/news/cointelegraph:c9edf9c4bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:67cc24c5abc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Cortes do Fed em 2026 podem ser o 'catalisador-chave' para o retorno do varejo às criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:67cc24c5abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:fb4638584bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Prenetics abandona estratégia de Bitcoin para focar em marca de nutrição apoiada por Beckham",
       "link": "https://br.tradingview.com/news/cointelegraph:fb4638584bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2025:newsml_L1N3Y109N:0",
-      "index": 9,
+      "index": 11,
       "title": "Trump Media distribuirá um novo token digital aos acionistas",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3Y109N:0/",
       "source": "Reuters",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:0dedd0607bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "O que esperar do Bitcoin e criptomoedas em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:0dedd0607bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e19623058bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Previsão para 2026: tokens RWA abrem caminho para um mercado global trilionário",
       "link": "https://br.tradingview.com/news/cointelegraph:e19623058bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 14:37:44 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 14:37 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Previsão para 2026: tokens RWA abrem caminho para um mercado global trilionário\" data-qa-id=\"news-headline-title\">Previsão para 2026: tokens RWA abrem caminho para um mercado global trilionário</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2025:newsml_L1N3Y1088:0",
-      "index": 12,
-      "title": "Trump Media sobe com planos de distribuir novo token digital",
-      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3Y1088:0/",
-      "source": "Reuters",
-      "published_at": "2025-12-31T13:52:24.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/digital-world-acquisition-corp.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/digital-world-acquisition-corp.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 13:52:24 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 13:52 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump Media sobe com planos de distribuir novo token digital\" data-qa-id=\"news-headline-title\">Trump Media sobe com planos de distribuir novo token digital</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:10f6e4851bc81:0",
-      "index": 13,
-      "title": "Rocelo Lopes expõe bastidores da regulação cripto e alerta: ‘Vai matar startups’”",
-      "link": "https://br.tradingview.com/news/cointelegraph:10f6e4851bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-31T13:17:54.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 13:17:54 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 13:17 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Rocelo Lopes expõe bastidores da regulação cripto e alerta: ‘Vai matar startups’”\" data-qa-id=\"news-headline-title\">Rocelo Lopes expõe bastidores da regulação cripto e alerta: ‘Vai matar startups’”</div></div></article>"
     }
   ]
 }
