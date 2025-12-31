@@ -1,10 +1,32 @@
 {
-  "updated_at": "2025-12-31T14:20:08.158Z",
+  "updated_at": "2025-12-31T14:56:55.058Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2025:newsml_L1N3Y1088:0",
+      "id": "tag:reuters.com,2025:newsml_L1N3Y109N:0",
       "index": 0,
+      "title": "Trump Media distribuirá um novo token digital aos acionistas",
+      "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3Y109N:0/",
+      "source": "Reuters",
+      "published_at": "2025-12-31T14:56:21.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/digital-world-acquisition-corp.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/digital-world-acquisition-corp.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 14:56:21 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 14:56 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump Media distribuirá um novo token digital aos acionistas\" data-qa-id=\"news-headline-title\">Trump Media distribuirá um novo token digital aos acionistas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e19623058bc81:0",
+      "index": 1,
+      "title": "Previsão para 2026: tokens RWA abrem caminho para um mercado global trilionário",
+      "link": "https://br.tradingview.com/news/cointelegraph:e19623058bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2025-12-31T14:37:44.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 14:37:44 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 14:37 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Previsão para 2026: tokens RWA abrem caminho para um mercado global trilionário\" data-qa-id=\"news-headline-title\">Previsão para 2026: tokens RWA abrem caminho para um mercado global trilionário</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2025:newsml_L1N3Y1088:0",
+      "index": 2,
       "title": "Trump Media sobe com planos de distribuir novo token digital",
       "link": "https://br.tradingview.com/news/reuters.com,2025:newsml_L1N3Y1088:0/",
       "source": "Reuters",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:10f6e4851bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Rocelo Lopes expõe bastidores da regulação cripto e alerta: ‘Vai matar startups’”",
       "link": "https://br.tradingview.com/news/cointelegraph:10f6e4851bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:bf723b551bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Previsão de preço do Ethereum: o que esperar do ETH em 2026",
       "link": "https://br.tradingview.com/news/beincrypto:bf723b551bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9d6c7061ebc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço do Bitcoin hoje, 31/12/2025: BTC termina o ano em US$ 88 mil, esperando novos catalisadores de alta",
       "link": "https://br.tradingview.com/news/cointelegraph:9d6c7061ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:a0b4a78fbbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ethereum bate recorde de 10 anos em transações: o que isso signfica?",
       "link": "https://br.tradingview.com/news/beincrypto:a0b4a78fbbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:1afe6bb9abc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Ascensão e declínio dos magnatas cripto: Quem são os novos bilionários e quem perdeu dinheiro em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:1afe6bb9abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:dca82e3c3bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin em baixa em 2025: Previsões de alta falham e instituições reduzem metas de preço para 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:dca82e3c3bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:5d0d90290bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Banco Central do Brasil vai acabar com os cartões cripto \"sem IOF\"",
       "link": "https://br.tradingview.com/news/cointelegraph:5d0d90290bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:a1780f278bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Como a privacidade prevaleceu em um 4º trimestre desanimador para as criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:a1780f278bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5d2d64648bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Ethereum estabelece recorde discreto com 8,7 milhões de contratos implantados em um trimestre",
       "link": "https://br.tradingview.com/news/cointelegraph:5d2d64648bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:695e66cfabc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Cypherpunk reforça a tesouraria cripto com compra de US$ 29 milhões em Zcash",
       "link": "https://br.tradingview.com/news/cointelegraph:695e66cfabc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:09b642a8cbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Grayscale avança rumo à listagem em bolsa do trust de TAO nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:09b642a8cbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Grayscale avança rumo à listagem em bolsa do trust de TAO nos EUA\" data-qa-id=\"news-headline-title\">Grayscale avança rumo à listagem em bolsa do trust de TAO nos EUA</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c513d6040bc81:0",
-      "index": 12,
-      "title": "Oferta de XRP nas exchanges atinge mínimas de 8 anos: isso pode impulsionar uma alta de preços em 2026?",
-      "link": "https://br.tradingview.com/news/cointelegraph:c513d6040bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-30T20:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 20:20:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 20:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Oferta de XRP nas exchanges atinge mínimas de 8 anos: isso pode impulsionar uma alta de preços em 2026?\" data-qa-id=\"news-headline-title\">Oferta de XRP nas exchanges atinge mínimas de 8 anos: isso pode impulsionar uma alta de preços em 2026?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b59f3d324bc81:0",
-      "index": 13,
-      "title": "Brasil atrai mineradoras de Bitcoin com isenções fiscais, energia renovável e brechas na legislação",
-      "link": "https://br.tradingview.com/news/cointelegraph:b59f3d324bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-30T20:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil atrai mineradoras de Bitcoin com isenções fiscais, energia renovável e brechas na legislação\" data-qa-id=\"news-headline-title\">Brasil atrai mineradoras de Bitcoin com isenções fiscais, energia renovável e brechas na legislação</div></div></article>"
     }
   ]
 }
