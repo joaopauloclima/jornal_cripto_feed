@@ -1,10 +1,21 @@
 {
-  "updated_at": "2025-12-31T11:53:07.492Z",
+  "updated_at": "2025-12-31T12:36:49.478Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1afe6bb9abc81:0",
+      "id": "beincrypto:a0b4a78fbbc81:0",
       "index": 0,
+      "title": "Ethereum bate recorde de 10 anos em transações: o que isso signfica?",
+      "link": "https://br.tradingview.com/news/beincrypto:a0b4a78fbbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2025-12-31T11:49:25.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 31 Dec 2025 11:49:25 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 11:49 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum bate recorde de 10 anos em transações: o que isso signfica?\" data-qa-id=\"news-headline-title\">Ethereum bate recorde de 10 anos em transações: o que isso signfica?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1afe6bb9abc81:0",
+      "index": 1,
       "title": "Ascensão e declínio dos magnatas cripto: Quem são os novos bilionários e quem perdeu dinheiro em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:1afe6bb9abc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:dca82e3c3bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin em baixa em 2025: Previsões de alta falham e instituições reduzem metas de preço para 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:dca82e3c3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:5d0d90290bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Banco Central do Brasil vai acabar com os cartões cripto \"sem IOF\"",
       "link": "https://br.tradingview.com/news/cointelegraph:5d0d90290bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a1780f278bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Como a privacidade prevaleceu em um 4º trimestre desanimador para as criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:a1780f278bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:5d2d64648bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ethereum estabelece recorde discreto com 8,7 milhões de contratos implantados em um trimestre",
       "link": "https://br.tradingview.com/news/cointelegraph:5d2d64648bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:695e66cfabc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Cypherpunk reforça a tesouraria cripto com compra de US$ 29 milhões em Zcash",
       "link": "https://br.tradingview.com/news/cointelegraph:695e66cfabc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:09b642a8cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Grayscale avança rumo à listagem em bolsa do trust de TAO nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:09b642a8cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c513d6040bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Oferta de XRP nas exchanges atinge mínimas de 8 anos: isso pode impulsionar uma alta de preços em 2026?",
       "link": "https://br.tradingview.com/news/cointelegraph:c513d6040bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b59f3d324bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Brasil atrai mineradoras de Bitcoin com isenções fiscais, energia renovável e brechas na legislação",
       "link": "https://br.tradingview.com/news/cointelegraph:b59f3d324bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:75b6d93b9bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Como a Strategy mantém compras de Bitcoin durante quedas do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:75b6d93b9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f1601f660bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Rússia mira mineradores de criptomoedas não registrados com novas penalidades criminais",
       "link": "https://br.tradingview.com/news/cointelegraph:f1601f660bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:23434dd18bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Binance confirma a suspensão de saques via Visa e Mastercard para usuários ucranianos",
       "link": "https://br.tradingview.com/news/cointelegraph:23434dd18bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:57c89c8cebc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Cenário de alta do Bitcoin em 2026: traders veem 'sinais fortes' para preço do BTC em seis dígitos",
       "link": "https://br.tradingview.com/news/cointelegraph:57c89c8cebc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Cenário de alta do Bitcoin em 2026: traders veem 'sinais fortes' para preço do BTC em seis dígitos\" data-qa-id=\"news-headline-title\">Cenário de alta do Bitcoin em 2026: traders veem 'sinais fortes' para preço do BTC em seis dígitos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d52328c9fbc81:0",
-      "index": 13,
-      "title": "ETFs de XRP spot mantêm sequência de 29 dias de fluxos de entrada apesar de dezembro turbulento",
-      "link": "https://br.tradingview.com/news/cointelegraph:d52328c9fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-30T18:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 30 Dec 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de dez. de 2025, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de XRP spot mantêm sequência de 29 dias de fluxos de entrada apesar de dezembro turbulento\" data-qa-id=\"news-headline-title\">ETFs de XRP spot mantêm sequência de 29 dias de fluxos de entrada apesar de dezembro turbulento</div></div></article>"
     }
   ]
 }
