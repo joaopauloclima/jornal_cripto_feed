@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-01T20:57:36.768Z",
+  "updated_at": "2026-01-01T21:19:26.334Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:311ecc612bc81:0",
+      "id": "cointelegraph:f5dc88d01bc81:0",
       "index": 0,
+      "title": "Bithumb identifica US$ 200 milhões em criptoativos inativos em 2,6 milhões de contas sem atividade",
+      "link": "https://br.tradingview.com/news/cointelegraph:f5dc88d01bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-01T21:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 01 Jan 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de jan. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bithumb identifica US$ 200 milhões em criptoativos inativos em 2,6 milhões de contas sem atividade\" data-qa-id=\"news-headline-title\">Bithumb identifica US$ 200 milhões em criptoativos inativos em 2,6 milhões de contas sem atividade</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:311ecc612bc81:0",
+      "index": 1,
       "title": "Tether compra mais 8.888 BTC e se torna a quinta maior carteira de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:311ecc612bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fa8f9eefdbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Quatro recuperações cripto de 2025 que podem ajudar a moldar o próximo ano",
       "link": "https://br.tradingview.com/news/cointelegraph:fa8f9eefdbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d43514d91bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Polícia Federal oficializa contrato e governo brasileiro inicia monitoramento de transações com Bitcoin e criptoativos",
       "link": "https://br.tradingview.com/news/cointelegraph:d43514d91bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:100b749e4bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Golpe final no ciclo de quatro anos? BTC termina o ano no vermelho no pós-halving",
       "link": "https://br.tradingview.com/news/cointelegraph:100b749e4bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:376c91d3bbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Investidores direcionam US$ 32 bilhões para ETFs cripto dos EUA apesar do recuo no fim do ano",
       "link": "https://br.tradingview.com/news/cointelegraph:376c91d3bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6efc2d3e9bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Forças do mercado cripto devem se intensificar em 2026 e acelerar a adoção, diz a Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:6efc2d3e9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e35488236bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Diretor da CFTC que viabilizou os futuros de Bitcoin retorna como chefe de gabinete",
       "link": "https://br.tradingview.com/news/cointelegraph:e35488236bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:50ac7426cbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "ID digital e CBDCs correm o risco de transformar os EUA em um 'Estado de vigilância', diz parlamentar",
       "link": "https://br.tradingview.com/news/cointelegraph:50ac7426cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:cab54d5a1bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Injeções 'massivas' de liquidez devem impulsionar o preço do BTC em 2026, diz executivo cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:cab54d5a1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:7c1482495bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Parlamentares dos EUA devem abordar a marcação da estrutura de mercado em janeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:7c1482495bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e30c2bc6bbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Trump Media planeja recompensas em tokens de blockchain na proporção de 1:1 para acionistas",
       "link": "https://br.tradingview.com/news/cointelegraph:e30c2bc6bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ee8cf2d55bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Banco dos EUA eleva o preço-alvo da TeraWulf e faz previsão de alta para a mineração",
       "link": "https://br.tradingview.com/news/cointelegraph:ee8cf2d55bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:39f4132f6bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin, prata e ouro: previsão de preço para 2026",
       "link": "https://br.tradingview.com/news/beincrypto:39f4132f6bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 01 Jan 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de jan. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin, prata e ouro: previsão de preço para 2026\" data-qa-id=\"news-headline-title\">Bitcoin, prata e ouro: previsão de preço para 2026</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c98d2494cbc81:0",
-      "index": 13,
-      "title": "Preço do Bitcoin hoje, 01/01/2026: BTC começa o ano em queda de 1%, mas mantém movimento lateral em US$ 87 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:c98d2494cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-01T13:22:46.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 01 Jan 2026 13:22:46 GMT\" class=\"apply-common-tooltip\" title=\"1 de jan. de 2026, 13:22 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 01/01/2026: BTC começa o ano em queda de 1%, mas mantém movimento lateral em US$ 87 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 01/01/2026: BTC começa o ano em queda de 1%, mas mantém movimento lateral em US$ 87 mil</div></div></article>"
     }
   ]
 }
