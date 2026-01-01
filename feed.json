@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-01T17:23:04.602Z",
+  "updated_at": "2026-01-01T17:55:47.767Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ee8cf2d55bc81:0",
+      "id": "cointelegraph:7c1482495bc81:0",
       "index": 0,
+      "title": "Parlamentares dos EUA devem abordar a marcação da estrutura de mercado em janeiro",
+      "link": "https://br.tradingview.com/news/cointelegraph:7c1482495bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-01T17:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 01 Jan 2026 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de jan. de 2026, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Parlamentares dos EUA devem abordar a marcação da estrutura de mercado em janeiro\" data-qa-id=\"news-headline-title\">Parlamentares dos EUA devem abordar a marcação da estrutura de mercado em janeiro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e30c2bc6bbc81:0",
+      "index": 1,
+      "title": "Trump Media planeja recompensas em tokens de blockchain na proporção de 1:1 para acionistas",
+      "link": "https://br.tradingview.com/news/cointelegraph:e30c2bc6bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-01T17:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 01 Jan 2026 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de jan. de 2026, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump Media planeja recompensas em tokens de blockchain na proporção de 1:1 para acionistas\" data-qa-id=\"news-headline-title\">Trump Media planeja recompensas em tokens de blockchain na proporção de 1:1 para acionistas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ee8cf2d55bc81:0",
+      "index": 2,
       "title": "Banco dos EUA eleva o preço-alvo da TeraWulf e faz previsão de alta para a mineração",
       "link": "https://br.tradingview.com/news/cointelegraph:ee8cf2d55bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "beincrypto:39f4132f6bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin, prata e ouro: previsão de preço para 2026",
       "link": "https://br.tradingview.com/news/beincrypto:39f4132f6bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c98d2494cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Preço do Bitcoin hoje, 01/01/2026: BTC começa o ano em queda de 1%, mas mantém movimento lateral em US$ 87 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:c98d2494cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a963d8d70bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Além da Binance: CZ revela seus planos para 2026 no mercado de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:a963d8d70bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:d6a54a4debc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Por que 2025 se tornou o ano em que a cripto deixou de perseguir hype?",
       "link": "https://br.tradingview.com/news/beincrypto:d6a54a4debc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:ee6c053b1bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "2026 deve ser um ano vermelho para o Bitcoin mas a tecnologia de pagamentos deve melhorar, dizem OGs do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:ee6c053b1bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:025dd9f94bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Análise de preços em 31/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK e HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:025dd9f94bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b09e81795bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "ETFs de Bitcoin spot encerram sequência de 7 dias de saídas com US$ 355 milhões e melhora da liquidez",
       "link": "https://br.tradingview.com/news/cointelegraph:b09e81795bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:37f473cfebc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitwise protocola na SEC dos EUA pedido para 11 ETFs cripto de 'estratégia' de token único",
       "link": "https://br.tradingview.com/news/cointelegraph:37f473cfebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d919b8fe2bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Executivo da Coinbase alerta que erro do Senado sobre stablecoins pode dar vantagem global à China",
       "link": "https://br.tradingview.com/news/cointelegraph:d919b8fe2bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "invezz:9d0d4d989bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Resumo da noite: Alta da Nvidia na China, impulso de Trump sobre criptomoedas, Observação de quebra do Bitcoin",
       "link": "https://br.tradingview.com/news/invezz:9d0d4d989bc81:0/",
       "source": "Invezz",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:b3661974cbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Transações da L1 do Ethereum atingem 2,2 milhões por dia com custo médio de cerca de US$ 0,17",
       "link": "https://br.tradingview.com/news/cointelegraph:b3661974cbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><time datetime=\"Wed, 31 Dec 2025 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 18:20 UTC\">31 de dez. de 2025</time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Transações da L1 do Ethereum atingem 2,2 milhões por dia com custo médio de cerca de US$ 0,17\" data-qa-id=\"news-headline-title\">Transações da L1 do Ethereum atingem 2,2 milhões por dia com custo médio de cerca de US$ 0,17</div></div></article>"
-    },
-    {
-      "id": "beincrypto:1838d9418bc81:0",
-      "index": 12,
-      "title": "2026 deve marcar uma nova fase do mercado cripto, guiada por liquidez",
-      "link": "https://br.tradingview.com/news/beincrypto:1838d9418bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2025-12-31T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><time datetime=\"Wed, 31 Dec 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 18:00 UTC\">31 de dez. de 2025</time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"2026 deve marcar uma nova fase do mercado cripto, guiada por liquidez\" data-qa-id=\"news-headline-title\">2026 deve marcar uma nova fase do mercado cripto, guiada por liquidez</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:53ea6ecf6bc81:0",
-      "index": 13,
-      "title": "Criptomoedas ficaram atrás do ouro e das ações, mas 2026 oferece chance de 'recuperação'",
-      "link": "https://br.tradingview.com/news/cointelegraph:53ea6ecf6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2025-12-31T18:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><time datetime=\"Wed, 31 Dec 2025 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de dez. de 2025, 18:00 UTC\">31 de dez. de 2025</time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas ficaram atrás do ouro e das ações, mas 2026 oferece chance de 'recuperação'\" data-qa-id=\"news-headline-title\">Criptomoedas ficaram atrás do ouro e das ações, mas 2026 oferece chance de 'recuperação'</div></div></article>"
     }
   ]
 }
