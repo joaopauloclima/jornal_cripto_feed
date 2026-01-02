@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-02T15:21:19.262Z",
+  "updated_at": "2026-01-02T15:56:35.938Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:fc86b6830bc81:0",
+      "id": "cointelegraph:f696634e1bc81:0",
       "index": 0,
+      "title": "Sentimento do mercado cripto sai do medo extremo, mas 'emoções mistas' persistem",
+      "link": "https://br.tradingview.com/news/cointelegraph:f696634e1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-02T15:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 02 Jan 2026 15:50:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de jan. de 2026, 15:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Sentimento do mercado cripto sai do medo extremo, mas 'emoções mistas' persistem\" data-qa-id=\"news-headline-title\">Sentimento do mercado cripto sai do medo extremo, mas 'emoções mistas' persistem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:98f839fd7bc81:0",
+      "index": 1,
+      "title": "Métrica sugere que o Bitcoin está em mercado de baixa há dois meses",
+      "link": "https://br.tradingview.com/news/cointelegraph:98f839fd7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-02T15:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 02 Jan 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de jan. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Métrica sugere que o Bitcoin está em mercado de baixa há dois meses\" data-qa-id=\"news-headline-title\">Métrica sugere que o Bitcoin está em mercado de baixa há dois meses</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fc86b6830bc81:0",
+      "index": 2,
       "title": "Traders da Polymarket veem apenas 21% de chance do Bitcoin atingir US$ 150 mil neste ano",
       "link": "https://br.tradingview.com/news/cointelegraph:fc86b6830bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:f5a3da8f3bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Perdas com hacks de criptomoedas caem 60% em dezembro, diz PeckShield",
       "link": "https://br.tradingview.com/news/cointelegraph:f5a3da8f3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:de2f22d2abc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Mercado de tokens RWA no Brasil projeta crescimento de R$ 7 trilhões em 2026 com 'apoio' do Banco Central",
       "link": "https://br.tradingview.com/news/cointelegraph:de2f22d2abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a51911e30bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Flow avança plano de recuperação e levanta preocupações sobre exchanges após exploração de US$ 3,9 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:a51911e30bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:7534accb7bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Cofundador do Ethereum propõe DApps como solução para a falha da Cloudflare em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:7534accb7bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a066b6ce8bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Extensão do navegador da Trust Wallet fica fora do ar por 'bug' da Chrome Web Store, diz CEO",
       "link": "https://br.tradingview.com/news/cointelegraph:a066b6ce8bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8328c29efbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Economista brasileiro crava alerta contra o Bitcoin: 'aposta complementar, não plano de aposentadoria'",
       "link": "https://br.tradingview.com/news/cointelegraph:8328c29efbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:ca9f1eb5cbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Brasil faz história no hackathon global da Solana",
       "link": "https://br.tradingview.com/news/cointelegraph:ca9f1eb5cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:23b344b4cbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Notícias Cripto: Crypto.com fecha com a Galapagos, Visa e stablecoins, Binance com nova certificação, e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:23b344b4cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2a457bc82bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "2026 chegou e agora, para onde vai o preço do Bitcoin e o mercado cripto? CoinShares aponta os caminhos",
       "link": "https://br.tradingview.com/news/cointelegraph:2a457bc82bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a84c842a6bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Stablecoins na América Latina: Messari aponta tendências em alta e em baixa para 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:a84c842a6bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:1a323c619bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Preço do Bitcoin hoje, 02/01/2026: Por que o BTC subiu 3% hoje? Criptomoeda volta a testar US$ 90 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:1a323c619bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 02 Jan 2026 10:38:29 GMT\" class=\"apply-common-tooltip\" title=\"2 de jan. de 2026, 10:38 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 02/01/2026: Por que o BTC subiu 3% hoje? Criptomoeda volta a testar US$ 90 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 02/01/2026: Por que o BTC subiu 3% hoje? Criptomoeda volta a testar US$ 90 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c25c82711bc81:0",
-      "index": 12,
-      "title": "RSI do Bitcoin exige rompimento enquanto executivo declara o 'fim' do ciclo de preços do BTC de quatro anos",
-      "link": "https://br.tradingview.com/news/cointelegraph:c25c82711bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-01T22:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 01 Jan 2026 22:20:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de jan. de 2026, 22:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"RSI do Bitcoin exige rompimento enquanto executivo declara o 'fim' do ciclo de preços do BTC de quatro anos\" data-qa-id=\"news-headline-title\">RSI do Bitcoin exige rompimento enquanto executivo declara o 'fim' do ciclo de preços do BTC de quatro anos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:71cacac0ebc81:0",
-      "index": 13,
-      "title": "Feliz Ano Novo, Mark Cuban: juiz rejeita processo sobre a Voyager Digital",
-      "link": "https://br.tradingview.com/news/cointelegraph:71cacac0ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-01T22:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 01 Jan 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de jan. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Feliz Ano Novo, Mark Cuban: juiz rejeita processo sobre a Voyager Digital\" data-qa-id=\"news-headline-title\">Feliz Ano Novo, Mark Cuban: juiz rejeita processo sobre a Voyager Digital</div></div></article>"
     }
   ]
 }
