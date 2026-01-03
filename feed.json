@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-03T17:53:47.374Z",
+  "updated_at": "2026-01-03T18:26:37.195Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:09933cb59bc81:0",
+      "id": "cointelegraph:6d5e630febc81:0",
       "index": 0,
+      "title": "Hut 8 encerra 2025 em alta apesar de ano difícil para mineradoras de Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:6d5e630febc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-03T18:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 03 Jan 2026 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de jan. de 2026, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Hut 8 encerra 2025 em alta apesar de ano difícil para mineradoras de Bitcoin\" data-qa-id=\"news-headline-title\">Hut 8 encerra 2025 em alta apesar de ano difícil para mineradoras de Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3eda7de65bc81:0",
+      "index": 1,
+      "title": "Perdas com phishing cripto caíram 83% em 2025, mas ecossistema de 'drainers' segue ativo",
+      "link": "https://br.tradingview.com/news/cointelegraph:3eda7de65bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-03T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 03 Jan 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de jan. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Perdas com phishing cripto caíram 83% em 2025, mas ecossistema de 'drainers' segue ativo\" data-qa-id=\"news-headline-title\">Perdas com phishing cripto caíram 83% em 2025, mas ecossistema de 'drainers' segue ativo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:09933cb59bc81:0",
+      "index": 2,
       "title": "Preço do Bitcoin em US$ 90 mil fica por um fio enquanto EUA atacam a Venezuela",
       "link": "https://br.tradingview.com/news/cointelegraph:09933cb59bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e75fcd2bebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "BitMine faz staking de mais US$ 259 milhões em ETH e empurra fila de entrada de validadores para perto de 1 milhão de Ether",
       "link": "https://br.tradingview.com/news/cointelegraph:e75fcd2bebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:93a4207ebbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Hacker de Bitcoin de bilhões de dólares, Ilya Lichtenstein, é libertado antes do prazo e agradece a Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:93a4207ebbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ac3414188bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço do Bitcoin de volta a US$ 90 mil: o mercado de baixa ficou para trás?",
       "link": "https://br.tradingview.com/news/cointelegraph:ac3414188bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ecc35a6e6bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Conversas cripto nas redes sociais começam 2026 de forma 'muito positiva', afirma Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:ecc35a6e6bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:85623db17bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Executivo da Coinbase defende atraso do CLARITY Act: 'eu entendo completamente'",
       "link": "https://br.tradingview.com/news/cointelegraph:85623db17bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9bbe50795bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Após votação amarga, fundador da Aave projeta um futuro maior para a gigante de empréstimos DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:9bbe50795bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:10e2b2ef3bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Presidente da BitMine propõe aumento de 1.000x no número de ações autorizadas da empresa, para 50 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:10e2b2ef3bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:b46440eb9bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Binance remove par FLOW/BTC e coloca token sob monitoramento após exploit",
       "link": "https://br.tradingview.com/news/cointelegraph:b46440eb9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:65fc29c62bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Não, baleias não estão acumulando grandes quantidades de Bitcoin, afirma CryptoQuant",
       "link": "https://br.tradingview.com/news/cointelegraph:65fc29c62bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8c799e425bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Centenas de carteiras EVM são esvaziadas em ataque misterioso, afirma ZachXBT",
       "link": "https://br.tradingview.com/news/cointelegraph:8c799e425bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:8d6d6fd8abc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Notícias Cripto: ABToken chega a 80 associadas, BingX copy trading de ouro, Bitso Business e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:8d6d6fd8abc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 03 Jan 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de jan. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias Cripto: ABToken chega a 80 associadas, BingX copy trading de ouro, Bitso Business e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: ABToken chega a 80 associadas, BingX copy trading de ouro, Bitso Business e outras novidades</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0c08f9481bc81:0",
-      "index": 12,
-      "title": "O despertar do gigante: liderança em RWA e preço 'descontado’ sinalizam novo ciclo de alta do Ethereum em 2026",
-      "link": "https://br.tradingview.com/news/cointelegraph:0c08f9481bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-02T23:22:24.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 02 Jan 2026 23:22:24 GMT\" class=\"apply-common-tooltip\" title=\"2 de jan. de 2026, 23:22 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"O despertar do gigante: liderança em RWA e preço 'descontado’ sinalizam novo ciclo de alta do Ethereum em 2026\" data-qa-id=\"news-headline-title\">O despertar do gigante: liderança em RWA e preço 'descontado’ sinalizam novo ciclo de alta do Ethereum em 2026</div></div></article>"
     }
   ]
 }
