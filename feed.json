@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-03T14:19:11.568Z",
+  "updated_at": "2026-01-03T14:55:11.944Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8c799e425bc81:0",
+      "id": "cointelegraph:65fc29c62bc81:0",
       "index": 0,
+      "title": "Não, baleias não estão acumulando grandes quantidades de Bitcoin, afirma CryptoQuant",
+      "link": "https://br.tradingview.com/news/cointelegraph:65fc29c62bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-03T14:42:28.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 03 Jan 2026 14:42:28 GMT\" class=\"apply-common-tooltip\" title=\"3 de jan. de 2026, 14:42 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Não, baleias não estão acumulando grandes quantidades de Bitcoin, afirma CryptoQuant\" data-qa-id=\"news-headline-title\">Não, baleias não estão acumulando grandes quantidades de Bitcoin, afirma CryptoQuant</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8c799e425bc81:0",
+      "index": 1,
       "title": "Centenas de carteiras EVM são esvaziadas em ataque misterioso, afirma ZachXBT",
       "link": "https://br.tradingview.com/news/cointelegraph:8c799e425bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:8d6d6fd8abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Notícias Cripto: ABToken chega a 80 associadas, BingX copy trading de ouro, Bitso Business e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:8d6d6fd8abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0c08f9481bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "O despertar do gigante: liderança em RWA e preço 'descontado’ sinalizam novo ciclo de alta do Ethereum em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:0c08f9481bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e9fa46c34bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Perspectivas para o mercado de criptomoedas: o que aprendemos em 2025 e o que esperar de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:e9fa46c34bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:bbfae3787bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Tom Lee projeta alta das ações e BitMine observa o Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:bbfae3787bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:7f45f3541bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "2026 terá um mercado de baixa extremo em cripto? Especialistas analisam",
       "link": "https://br.tradingview.com/news/beincrypto:7f45f3541bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:3bffa57ecbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "BitVentures faz seu primeiro movimento na mineração de criptomoedas semanas após rebranding na Nasdaq",
       "link": "https://br.tradingview.com/news/cointelegraph:3bffa57ecbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:15dace4bdbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitfarms encerra operações na América Latina com venda de instalação por US$ 30 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:15dace4bdbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:99b002818bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Análise de preços em 02/01: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, LINK e ZEC",
       "link": "https://br.tradingview.com/news/cointelegraph:99b002818bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:d3ee9e26dbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ricos das criptomoedas ameaçam deixar a Califórnia após novo imposto: é blefe?",
       "link": "https://br.tradingview.com/news/cointelegraph:d3ee9e26dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5d34984e5bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Touros do Bitcoin avançam sobre US$ 90 mil enquanto traders observam o gap da CME para queda do preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:5d34984e5bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:90fec3169bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "5 blockchains mais movimentadas de 2025 e os fatores que impulsionaram seu crescimento",
       "link": "https://br.tradingview.com/news/cointelegraph:90fec3169bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:9ac2fb0abbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Privacidade semelhante ao dinheiro físico está entre os 'compromissos políticos mais difíceis' do euro digital",
       "link": "https://br.tradingview.com/news/cointelegraph:9ac2fb0abbc81:0/",
       "source": "Cointelegraph",
