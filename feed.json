@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-04T21:18:47.862Z",
+  "updated_at": "2026-01-04T21:53:47.192Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:bd6d3eca5bc81:0",
+      "id": "cointelegraph:7a4131c65bc81:0",
       "index": 0,
+      "title": "Metaplanet tem vantagem-chave sobre tesourarias de Bitcoin dos EUA, diz analista",
+      "link": "https://br.tradingview.com/news/cointelegraph:7a4131c65bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-04T21:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 04 Jan 2026 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de jan. de 2026, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Metaplanet tem vantagem-chave sobre tesourarias de Bitcoin dos EUA, diz analista\" data-qa-id=\"news-headline-title\">Metaplanet tem vantagem-chave sobre tesourarias de Bitcoin dos EUA, diz analista</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bd6d3eca5bc81:0",
+      "index": 1,
       "title": "Bitcoin 'deve se mover' quando TradFi reagir à Venezuela, com o BTC perto de US$ 92 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:bd6d3eca5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:208d211ecbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ataques com chave inglesa contra detentores de criptomoedas ficam 'mais frequentes e violentos'",
       "link": "https://br.tradingview.com/news/cointelegraph:208d211ecbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:534911708bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Coinbase suspende operações fiduciárias na Argentina menos de um ano após sua chegada",
       "link": "https://br.tradingview.com/news/cointelegraph:534911708bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6604c359abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Deputado Torres quer combater o insider trading em mercados de previsão após aposta em Maduro",
       "link": "https://br.tradingview.com/news/cointelegraph:6604c359abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:b34d0e238bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Correção generalizada do Bitcoin é improvável após ataque dos EUA à Venezuela, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:b34d0e238bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:79672df8cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "ETFs de Bitcoin e Ether atraem US$ 646 milhões no primeiro dia de negociações de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:79672df8cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6b3f1b353bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do Bitcoin permanece resiliente em meio ao ataque dos EUA à Venezuela",
       "link": "https://br.tradingview.com/news/cointelegraph:6b3f1b353bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9df4b4cecbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Notícia Cripto: RACA conclui airdrop, integrações na Bitget Wallet e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:9df4b4cecbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:6f2fd3779bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Dívida nacional dos EUA ultrapassa US$ 38,5 trilhões enquanto bitcoiners celebram o 'Genesis Day'",
       "link": "https://br.tradingview.com/news/cointelegraph:6f2fd3779bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:6d5e630febc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Hut 8 encerra 2025 em alta apesar de ano difícil para mineradoras de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:6d5e630febc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:3eda7de65bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Perdas com phishing cripto caíram 83% em 2025, mas ecossistema de 'drainers' segue ativo",
       "link": "https://br.tradingview.com/news/cointelegraph:3eda7de65bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:09933cb59bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Preço do Bitcoin em US$ 90 mil fica por um fio enquanto EUA atacam a Venezuela",
       "link": "https://br.tradingview.com/news/cointelegraph:09933cb59bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e75fcd2bebc81:0",
-      "index": 12,
+      "index": 13,
       "title": "BitMine faz staking de mais US$ 259 milhões em ETH e empurra fila de entrada de validadores para perto de 1 milhão de Ether",
       "link": "https://br.tradingview.com/news/cointelegraph:e75fcd2bebc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 03 Jan 2026 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de jan. de 2026, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BitMine faz staking de mais US$ 259 milhões em ETH e empurra fila de entrada de validadores para perto de 1 milhão de Ether\" data-qa-id=\"news-headline-title\">BitMine faz staking de mais US$ 259 milhões em ETH e empurra fila de entrada de validadores para perto de 1 milhão de Ether</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:93a4207ebbc81:0",
-      "index": 13,
-      "title": "Hacker de Bitcoin de bilhões de dólares, Ilya Lichtenstein, é libertado antes do prazo e agradece a Trump",
-      "link": "https://br.tradingview.com/news/cointelegraph:93a4207ebbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-03T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 03 Jan 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de jan. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Hacker de Bitcoin de bilhões de dólares, Ilya Lichtenstein, é libertado antes do prazo e agradece a Trump\" data-qa-id=\"news-headline-title\">Hacker de Bitcoin de bilhões de dólares, Ilya Lichtenstein, é libertado antes do prazo e agradece a Trump</div></div></article>"
     }
   ]
 }
