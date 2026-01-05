@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-05T21:55:48.886Z",
+  "updated_at": "2026-01-05T22:20:50.391Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:ab8db4ba2bc81:0",
+      "id": "cointelegraph:80598c526bc81:0",
       "index": 0,
+      "title": "Bitcoin a US$ 100.000 em janeiro? Analista aponta resistência-chave a ser vencida",
+      "link": "https://br.tradingview.com/news/cointelegraph:80598c526bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-05T22:04:20.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 22:04:20 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 22:04 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin a US$ 100.000 em janeiro? Analista aponta resistência-chave a ser vencida\" data-qa-id=\"news-headline-title\">Bitcoin a US$ 100.000 em janeiro? Analista aponta resistência-chave a ser vencida</div></div></article>"
+    },
+    {
+      "id": "beincrypto:ab8db4ba2bc81:0",
+      "index": 1,
       "title": "Bitcoin dispara e recupera US$ 94 mil enquanto Wall Street sobe forte após choque na Venezuela",
       "link": "https://br.tradingview.com/news/beincrypto:ab8db4ba2bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:ff14b0952bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do Bitcoin atinge US$ 94 mil enquanto volume cripto cai ao menor nível desde o final de 2023",
       "link": "https://br.tradingview.com/news/cointelegraph:ff14b0952bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0d71dc247bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Strategy inicia 2026 com compra de US$ 116 milhões em Bitcoin e registra perda de US$ 17 bilhões no 4º trimestre",
       "link": "https://br.tradingview.com/news/cointelegraph:0d71dc247bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6b2cefb26bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ledger afirma que incidente da Global-e não comprometeu carteiras de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:6b2cefb26bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:46fa19fe2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin entra em fase de 'força', mas debate sobre os US$ 100 mil esquenta entre traders",
       "link": "https://br.tradingview.com/news/cointelegraph:46fa19fe2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:35fc7d461bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Strategy usa ação preferencial para levantar US$ 100 milhões e comprar mais Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:35fc7d461bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:cede02c7bbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Mainnet da Starknet sofre nova interrupção e equipe investiga a causa",
       "link": "https://br.tradingview.com/news/cointelegraph:cede02c7bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:4ba9b2becbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Falsas verificações de segurança 2FA do MetaMask atraem usuários a compartilhar frases-semente",
       "link": "https://br.tradingview.com/news/cointelegraph:4ba9b2becbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:8ddf1cec1bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Líder venezuelana propõe Bitcoin como reserva nacional para reconstruir economia do país",
       "link": "https://br.tradingview.com/news/beincrypto:8ddf1cec1bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:75e59c5f2bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ministro das Finanças do Japão apoia exchanges como porta de entrada para ativos digitais",
       "link": "https://br.tradingview.com/news/cointelegraph:75e59c5f2bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:da0f98694bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Fundos cripto registraram US$ 47 bilhões em entradas em 2025, abaixo do recorde de 2024, lideradas pelas altcoins",
       "link": "https://br.tradingview.com/news/cointelegraph:da0f98694bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:74c98f750bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Três gráficos de alta do XRP para acompanhar com alta superior a 18% em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:74c98f750bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3Y60OI:0",
-      "index": 12,
+      "index": 13,
       "title": "As ações da Coinbase disparam após o Goldman Sachs elevar a recomendação para \"compra\".",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3Y60OI:0/",
       "source": "Reuters",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/coinbase.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 18:15:26 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 18:15 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"As ações da Coinbase disparam após o Goldman Sachs elevar a recomendação para &quot;compra&quot;.\" data-qa-id=\"news-headline-title\">As ações da Coinbase disparam após o Goldman Sachs elevar a recomendação para \"compra\".</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:7561109dfbc81:0",
-      "index": 13,
-      "title": "Bank of America agora permite que consultores de patrimônio recomendem ETFs de Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:7561109dfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-05T18:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bank of America agora permite que consultores de patrimônio recomendem ETFs de Bitcoin\" data-qa-id=\"news-headline-title\">Bank of America agora permite que consultores de patrimônio recomendem ETFs de Bitcoin</div></div></article>"
     }
   ]
 }
