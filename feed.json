@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-05T18:30:28.096Z",
+  "updated_at": "2026-01-05T19:05:09.293Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:74c98f750bc81:0",
+      "id": "cointelegraph:75e59c5f2bc81:0",
       "index": 0,
+      "title": "Ministro das Finanças do Japão apoia exchanges como porta de entrada para ativos digitais",
+      "link": "https://br.tradingview.com/news/cointelegraph:75e59c5f2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-05T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ministro das Finanças do Japão apoia exchanges como porta de entrada para ativos digitais\" data-qa-id=\"news-headline-title\">Ministro das Finanças do Japão apoia exchanges como porta de entrada para ativos digitais</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:da0f98694bc81:0",
+      "index": 1,
+      "title": "Fundos cripto registraram US$ 47 bilhões em entradas em 2025, abaixo do recorde de 2024, lideradas pelas altcoins",
+      "link": "https://br.tradingview.com/news/cointelegraph:da0f98694bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-05T18:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundos cripto registraram US$ 47 bilhões em entradas em 2025, abaixo do recorde de 2024, lideradas pelas altcoins\" data-qa-id=\"news-headline-title\">Fundos cripto registraram US$ 47 bilhões em entradas em 2025, abaixo do recorde de 2024, lideradas pelas altcoins</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:74c98f750bc81:0",
+      "index": 2,
       "title": "Três gráficos de alta do XRP para acompanhar com alta superior a 18% em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:74c98f750bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3Y60OI:0",
-      "index": 1,
+      "index": 3,
       "title": "As ações da Coinbase disparam após o Goldman Sachs elevar a recomendação para \"compra\".",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3Y60OI:0/",
       "source": "Reuters",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:7561109dfbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bank of America agora permite que consultores de patrimônio recomendem ETFs de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:7561109dfbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a8cb72305bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Cainvest, Liqi e Foxbit se unem e lançam token RWA com rendimento de exploração de petróleo",
       "link": "https://br.tradingview.com/news/cointelegraph:a8cb72305bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3392da282bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "TRUMP, ONDO, BGB e HYPE lideram US$ 5,5 bilhões em desbloqueios de tokens em janeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:3392da282bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:85b66947fbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Nove mitos sobre o uso de energia do Bitcoin são contestados por dados, diz especialista em ESG",
       "link": "https://br.tradingview.com/news/cointelegraph:85b66947fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f22c92a70bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Gastos com cartões cripto da Visa disparam 525% em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:f22c92a70bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:90e4d080ebc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Colombiano é preso na Amazônia por lavagem de dinheiro através de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:90e4d080ebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:61a5be413bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "BTC consegue evitar uma bull trap em US$ 93 mil? 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:61a5be413bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6cdff7642bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Baleias movem cripto para a Binance, mas compradores estão ausentes, aponta analista",
       "link": "https://br.tradingview.com/news/cointelegraph:6cdff7642bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:614e31696bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Ethereum movimenta US$ 8 trilhões em transferências de stablecoins no 4º trimestre, batendo recorde",
       "link": "https://br.tradingview.com/news/cointelegraph:614e31696bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:dfe183fb0bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Alta do Bitcoin pode ser armadilha de touro, alertam especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:dfe183fb0bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Alta do Bitcoin pode ser armadilha de touro, alertam especialistas\" data-qa-id=\"news-headline-title\">Alta do Bitcoin pode ser armadilha de touro, alertam especialistas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:0ba516258bc81:0",
-      "index": 12,
-      "title": "Preço do Ethereum rompe tendência de baixa e enfrenta teste crítico de 10%",
-      "link": "https://br.tradingview.com/news/beincrypto:0ba516258bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-05T14:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Ethereum rompe tendência de baixa e enfrenta teste crítico de 10%\" data-qa-id=\"news-headline-title\">Preço do Ethereum rompe tendência de baixa e enfrenta teste crítico de 10%</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:535d9f20abc81:0",
-      "index": 13,
-      "title": "Trump sugere ação contra a Colômbia enquanto Bitcoin sobe em direção a US$ 93 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:535d9f20abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-05T14:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump sugere ação contra a Colômbia enquanto Bitcoin sobe em direção a US$ 93 mil\" data-qa-id=\"news-headline-title\">Trump sugere ação contra a Colômbia enquanto Bitcoin sobe em direção a US$ 93 mil</div></div></article>"
     }
   ]
 }
