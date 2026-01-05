@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-05T14:04:48.107Z",
+  "updated_at": "2026-01-05T14:37:22.088Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b67576238bc81:0",
+      "id": "cointelegraph:535d9f20abc81:0",
       "index": 0,
+      "title": "Trump sugere ação contra a Colômbia enquanto Bitcoin sobe em direção a US$ 93 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:535d9f20abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-05T14:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump sugere ação contra a Colômbia enquanto Bitcoin sobe em direção a US$ 93 mil\" data-qa-id=\"news-headline-title\">Trump sugere ação contra a Colômbia enquanto Bitcoin sobe em direção a US$ 93 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:412f76090bc81:0",
+      "index": 1,
+      "title": "Defensora do Bitcoin, Machado entra na disputa para substituir Maduro na Venezuela",
+      "link": "https://br.tradingview.com/news/cointelegraph:412f76090bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-05T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Defensora do Bitcoin, Machado entra na disputa para substituir Maduro na Venezuela\" data-qa-id=\"news-headline-title\">Defensora do Bitcoin, Machado entra na disputa para substituir Maduro na Venezuela</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b67576238bc81:0",
+      "index": 2,
       "title": "Ethereum está pronta para resolver o trilema da blockchain, diz Vitalik Buterin",
       "link": "https://br.tradingview.com/news/cointelegraph:b67576238bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:cb534c0ebbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Brasil caminha de lado em fundos de criptomoedas em 2025, revela relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:cb534c0ebbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e8e152526bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Memecoins disparam em 2026 com alta de 23% no valor de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:e8e152526bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:eaf0262d8bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Por que o mercado de criptomoedas está em alta hoje 05/01/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:eaf0262d8bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:93e65b804bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Desenvolvedores de Bitcoin voltaram com força ao trabalho em um grande ano para cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:93e65b804bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:725a8c758bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Investidores miram além do Bitcoin no início de 2026",
       "link": "https://br.tradingview.com/news/beincrypto:725a8c758bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8219c82f6bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Índice de Medo e Ganância Cripto vira para 'neutro' pela primeira vez desde outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:8219c82f6bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:fde2b0689bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Altcoins seguram suporte 'crucial' e se preparam para 'grande pernada' de alta, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:fde2b0689bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:18b11154bbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "EUA avançam sobre petróleo da Venezuela e impacto pode chegar ao Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:18b11154bbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5c96998d6bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Decripto: Receita Federal vai divulgar novas regras dia 09 de janeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:5c96998d6bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:ff7b7b776bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin pode romper US$ 104 mil apesar da pressão dos ursos",
       "link": "https://br.tradingview.com/news/beincrypto:ff7b7b776bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3d541e097bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Solana supera Coinbase, Bybit e Bitget: DEXs da rede movimentam US$ 1,7 trilhão em volume spot em 2025",
       "link": "https://br.tradingview.com/news/cointelegraph:3d541e097bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 11:01:22 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 11:01 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana supera Coinbase, Bybit e Bitget: DEXs da rede movimentam US$ 1,7 trilhão em volume spot em 2025\" data-qa-id=\"news-headline-title\">Solana supera Coinbase, Bybit e Bitget: DEXs da rede movimentam US$ 1,7 trilhão em volume spot em 2025</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2e96ff3d5bc81:0",
-      "index": 12,
-      "title": "Compra de criptomoedas e Bitcoin em alta marcam início de semana após prisão de Maduro",
-      "link": "https://br.tradingview.com/news/cointelegraph:2e96ff3d5bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-05T10:51:41.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 10:51:41 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 10:51 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Compra de criptomoedas e Bitcoin em alta marcam início de semana após prisão de Maduro\" data-qa-id=\"news-headline-title\">Compra de criptomoedas e Bitcoin em alta marcam início de semana após prisão de Maduro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e22fb2778bc81:0",
-      "index": 13,
-      "title": "Preço do Bitcoin hoje, 05/01/2026: Por que o BTC subiu hoje? Criptomoeda chega a US$ 92 mil e anima traders",
-      "link": "https://br.tradingview.com/news/cointelegraph:e22fb2778bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-05T10:39:57.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 05 Jan 2026 10:39:57 GMT\" class=\"apply-common-tooltip\" title=\"5 de jan. de 2026, 10:39 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 05/01/2026: Por que o BTC subiu hoje? Criptomoeda chega a US$ 92 mil e anima traders\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 05/01/2026: Por que o BTC subiu hoje? Criptomoeda chega a US$ 92 mil e anima traders</div></div></article>"
     }
   ]
 }
