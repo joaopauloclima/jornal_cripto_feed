@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-06T20:23:13.585Z",
+  "updated_at": "2026-01-06T20:56:34.466Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:4db6733fabc81:0",
+      "id": "cointelegraph:0e073ca22bc81:0",
       "index": 0,
+      "title": "Projeto de lei sobre a estrutura do mercado de criptomoedas nos EUA pode ser adiado até 2027, diz relatório",
+      "link": "https://br.tradingview.com/news/cointelegraph:0e073ca22bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-06T20:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 06 Jan 2026 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de jan. de 2026, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Projeto de lei sobre a estrutura do mercado de criptomoedas nos EUA pode ser adiado até 2027, diz relatório\" data-qa-id=\"news-headline-title\">Projeto de lei sobre a estrutura do mercado de criptomoedas nos EUA pode ser adiado até 2027, diz relatório</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:396205e2ebc81:0",
+      "index": 1,
+      "title": "Grayscale declara primeiro pagamento de staking de Ethereum para ETF listado nos EUA",
+      "link": "https://br.tradingview.com/news/cointelegraph:396205e2ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-06T20:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 06 Jan 2026 20:20:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de jan. de 2026, 20:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Grayscale declara primeiro pagamento de staking de Ethereum para ETF listado nos EUA\" data-qa-id=\"news-headline-title\">Grayscale declara primeiro pagamento de staking de Ethereum para ETF listado nos EUA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:4db6733fabc81:0",
+      "index": 2,
       "title": "Associações financeiras da China reclassificam RWAs como 'arriscados', diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:4db6733fabc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3558823bebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "MarketVector e Amplify lançam benchmarks de stablecoins e tokenização e ETFs",
       "link": "https://br.tradingview.com/news/cointelegraph:3558823bebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:7669cf6efbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Morgan Stanley registra formulários S-1 para ETFs de Bitcoin e Solana em mais um avanço no setor cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:7669cf6efbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f648ae054bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Receita do Telegram sobe para US$ 870 milhões no 1º semestre de 2025 e mira US$ 2 bilhões no ano, diz Financial Times",
       "link": "https://br.tradingview.com/news/cointelegraph:f648ae054bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8e020c254bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "BitMEX avança em perpétuos de ações 24/7 à medida que ações tokenizadas ganham força",
       "link": "https://br.tradingview.com/news/cointelegraph:8e020c254bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:abbc2e299bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Polymarket introduz discretamente taxas de taker em mercados cripto de 15 minutos",
       "link": "https://br.tradingview.com/news/cointelegraph:abbc2e299bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:2ee9338ffbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ETFs de Bitcoin atraem US$ 697 milhões no segundo dia de negociação de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:2ee9338ffbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:bf428a46ebc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bug do Bitcoin Core v30 pode causar perda de fundos durante atualizações de carteiras legadas",
       "link": "https://br.tradingview.com/news/cointelegraph:bf428a46ebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:67ea2a39abc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Métrica de compra de Bitcoin com ganho médio de 109% vira positiva em US$ 88 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:67ea2a39abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:889ae71febc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Perspectiva do Bitcoin é de alta enquanto baleias e 'sharks' compram na venda do varejo, afirma Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:889ae71febc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:90d9e69b6bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Pré-candidato à Presidência defende reserva de Bitcoin no Brasil",
       "link": "https://br.tradingview.com/news/beincrypto:90d9e69b6bc81:0/",
       "source": "Beincrypto",
@@ -122,39 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 06 Jan 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de jan. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pré-candidato à Presidência defende reserva de Bitcoin no Brasil\" data-qa-id=\"news-headline-title\">Pré-candidato à Presidência defende reserva de Bitcoin no Brasil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4f78b633bbc81:0",
-      "index": 11,
-      "title": "CEO da Nvidia diz que a demanda por recursos de computação está 'disparando'",
-      "link": "https://br.tradingview.com/news/cointelegraph:4f78b633bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-06T16:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 06 Jan 2026 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de jan. de 2026, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da Nvidia diz que a demanda por recursos de computação está 'disparando'\" data-qa-id=\"news-headline-title\">CEO da Nvidia diz que a demanda por recursos de computação está 'disparando'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:688e96871bc81:0",
-      "index": 12,
-      "title": "Gestor Bill Miller IV diz que o Bitcoin 'parece pronto para subir de novo'",
-      "link": "https://br.tradingview.com/news/cointelegraph:688e96871bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-06T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 06 Jan 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de jan. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Gestor Bill Miller IV diz que o Bitcoin 'parece pronto para subir de novo'\" data-qa-id=\"news-headline-title\">Gestor Bill Miller IV diz que o Bitcoin 'parece pronto para subir de novo'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f9b10695ebc81:0",
-      "index": 13,
-      "title": "10 startups de IA podem captar até US$ 100 milhões no Brasil em 2026, revela pesquisa",
-      "link": "https://br.tradingview.com/news/cointelegraph:f9b10695ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-06T15:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 06 Jan 2026 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de jan. de 2026, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"10 startups de IA podem captar até US$ 100 milhões no Brasil em 2026, revela pesquisa\" data-qa-id=\"news-headline-title\">10 startups de IA podem captar até US$ 100 milhões no Brasil em 2026, revela pesquisa</div></div></article>"
     }
   ]
 }
