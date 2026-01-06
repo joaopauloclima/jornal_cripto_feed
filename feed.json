@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-06T15:25:41.876Z",
+  "updated_at": "2026-01-06T15:59:09.919Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7c4b22da2bc81:0",
+      "id": "cointelegraph:f9b10695ebc81:0",
       "index": 0,
+      "title": "10 startups de IA podem captar até US$ 100 milhões no Brasil em 2026, revela pesquisa",
+      "link": "https://br.tradingview.com/news/cointelegraph:f9b10695ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-06T15:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 06 Jan 2026 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de jan. de 2026, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"10 startups de IA podem captar até US$ 100 milhões no Brasil em 2026, revela pesquisa\" data-qa-id=\"news-headline-title\">10 startups de IA podem captar até US$ 100 milhões no Brasil em 2026, revela pesquisa</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7c4b22da2bc81:0",
+      "index": 1,
       "title": "Staking de Ethereum passa por virada com fila de saída de validadores praticamente zerada",
       "link": "https://br.tradingview.com/news/cointelegraph:7c4b22da2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:06f6d6c40bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Coinbase sobe 8% após Goldman Sachs elevar ação para 'compra'",
       "link": "https://br.tradingview.com/news/cointelegraph:06f6d6c40bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:830d0c358bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "'Ano misto para IPOs' à medida que cripto puxa para baixo o desempenho dos IPOs nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:830d0c358bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:acd63b931bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ações cripto dos EUA disparam em dois dígitos com rali dos principais tokens",
       "link": "https://br.tradingview.com/news/cointelegraph:acd63b931bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f01904928bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Acesso dos EUA ao petróleo da Venezuela pode reduzir custos de mineração de Bitcoin no longo prazo, diz Bitfinex",
       "link": "https://br.tradingview.com/news/cointelegraph:f01904928bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:fda4298b8bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Mercado vai bancar o Bitcoin da Strategy sem prêmio?",
       "link": "https://br.tradingview.com/news/beincrypto:fda4298b8bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b600ca29abc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Flávio Bolsonaro x Lula: como as eleições de 2026 podem impactar o Ibovespa e as criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:b600ca29abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e17a2aadcbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "PicPay solicita autorização da SEC para IPO na Nasdaq",
       "link": "https://br.tradingview.com/news/cointelegraph:e17a2aadcbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:dd6ea3f79bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "NFT Paris cancela conferências: 'O colapso do mercado nos atingiu em cheio'",
       "link": "https://br.tradingview.com/news/cointelegraph:dd6ea3f79bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5eb7cc2f7bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Mercados de previsão entram no setor imobiliário com parceria entre Polymarket e Parcl",
       "link": "https://br.tradingview.com/news/cointelegraph:5eb7cc2f7bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:48bea336ebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço do Bitcoin dispara após ETFs à vista captarem US$ 700 mi",
       "link": "https://br.tradingview.com/news/beincrypto:48bea336ebc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7caa801a9bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Criptomoedas se movem em ‘montanha-russa’ da geopolítica, diz análise",
       "link": "https://br.tradingview.com/news/cointelegraph:7caa801a9bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:aae3a9d3ebc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Por que o mercado de criptomoedas está em alta hoje 06/01/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:aae3a9d3ebc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 06 Jan 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de jan. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 06/01/2026?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 06/01/2026?</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2026:newsml_L1N3Y708E:0",
-      "index": 13,
-      "title": "Morgan Stanley solicita ETFs de bitcoin e solana em sua investida em ativos digitais",
-      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3Y708E:0/",
-      "source": "Reuters",
-      "published_at": "2026-01-06T11:18:55.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/morgan-stanley.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/morgan-stanley.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/bank-of-america.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 06 Jan 2026 11:18:55 GMT\" class=\"apply-common-tooltip\" title=\"6 de jan. de 2026, 11:18 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Morgan Stanley solicita ETFs de bitcoin e solana em sua investida em ativos digitais\" data-qa-id=\"news-headline-title\">Morgan Stanley solicita ETFs de bitcoin e solana em sua investida em ativos digitais</div></div></article>"
     }
   ]
 }
