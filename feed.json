@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-07T21:55:38.934Z",
+  "updated_at": "2026-01-07T22:20:54.324Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ab104188abc81:0",
+      "id": "cointelegraph:749dfc150bc81:0",
       "index": 0,
+      "title": "Ray Dalio diz que as eleições de meio de mandato dos EUA em 2026 podem reverter políticas de Trump",
+      "link": "https://br.tradingview.com/news/cointelegraph:749dfc150bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-07T22:10:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 07 Jan 2026 22:10:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de jan. de 2026, 22:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ray Dalio diz que as eleições de meio de mandato dos EUA em 2026 podem reverter políticas de Trump\" data-qa-id=\"news-headline-title\">Ray Dalio diz que as eleições de meio de mandato dos EUA em 2026 podem reverter políticas de Trump</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ab104188abc81:0",
+      "index": 1,
       "title": "Análise de preços em 07/01: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK e HYPE",
       "link": "https://br.tradingview.com/news/cointelegraph:ab104188abc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:a70a11b54bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin 'não deve' alcançar nova máxima histórica em 2026, diz nova pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:a70a11b54bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:cfa4e0d71bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Tether e a plataforma de vídeos Rumble lançam carteira cripto não custodial",
       "link": "https://br.tradingview.com/news/cointelegraph:cfa4e0d71bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:afbffeb8cbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Riot Platforms vende US$ 161 milhões em Bitcoin em dezembro em meio a mudança de estratégia",
       "link": "https://br.tradingview.com/news/cointelegraph:afbffeb8cbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:e3e03aa63bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Morgan Stanley adiciona pedido de ETF de staking de Ethereum à crescente oferta cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:e3e03aa63bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6cbd56ef1bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "SEC dos EUA agora totalmente republicana deve avançar com regras pró-cripto em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:6cbd56ef1bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:382557701bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Mercado de baixa das criptomoedas em 2025 foi um ano de 'reprecificação' para o capital institucional, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:382557701bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9ab78e48abc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Nike se desfaz da RTFKT meses após processo de investidores, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:9ab78e48abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:49d6a042fbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Rentabilidade da XRP dispara 83% mesmo com forte pressão de venda",
       "link": "https://br.tradingview.com/news/beincrypto:49d6a042fbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:901f85658bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Preço do Bitcoin cai apesar de atualização 'realmente otimista' da MSCI: o que deu errado?",
       "link": "https://br.tradingview.com/news/cointelegraph:901f85658bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:fb96f8619bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Stablecoins se tornam infraestrutura central do mercado na perspectiva da Moody’s para 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:fb96f8619bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6927dfe9cbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Otto Lobo, novo presidente da CVM indicado por Lula, deve acelerar tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:6927dfe9cbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5463cac8bbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Barclays faz primeiro investimento em stablecoin ao adquirir participação na Ubyx",
       "link": "https://br.tradingview.com/news/cointelegraph:5463cac8bbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 07 Jan 2026 18:10:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de jan. de 2026, 18:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Barclays faz primeiro investimento em stablecoin ao adquirir participação na Ubyx\" data-qa-id=\"news-headline-title\">Barclays faz primeiro investimento em stablecoin ao adquirir participação na Ubyx</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ec90ffb06bc81:0",
-      "index": 13,
-      "title": "Ethereum e Solana divergem sobre o que a resiliência da blockchain realmente significa",
-      "link": "https://br.tradingview.com/news/cointelegraph:ec90ffb06bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-07T17:50:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 07 Jan 2026 17:50:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de jan. de 2026, 17:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum e Solana divergem sobre o que a resiliência da blockchain realmente significa\" data-qa-id=\"news-headline-title\">Ethereum e Solana divergem sobre o que a resiliência da blockchain realmente significa</div></div></article>"
     }
   ]
 }
