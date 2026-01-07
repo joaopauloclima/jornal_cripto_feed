@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-07T18:29:41.791Z",
+  "updated_at": "2026-01-07T19:05:05.095Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6927dfe9cbc81:0",
+      "id": "cointelegraph:fb96f8619bc81:0",
       "index": 0,
+      "title": "Stablecoins se tornam infraestrutura central do mercado na perspectiva da Moody’s para 2026",
+      "link": "https://br.tradingview.com/news/cointelegraph:fb96f8619bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-07T18:50:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 07 Jan 2026 18:50:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de jan. de 2026, 18:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stablecoins se tornam infraestrutura central do mercado na perspectiva da Moody’s para 2026\" data-qa-id=\"news-headline-title\">Stablecoins se tornam infraestrutura central do mercado na perspectiva da Moody’s para 2026</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6927dfe9cbc81:0",
+      "index": 1,
       "title": "Otto Lobo, novo presidente da CVM indicado por Lula, deve acelerar tokenização",
       "link": "https://br.tradingview.com/news/cointelegraph:6927dfe9cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:5463cac8bbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Barclays faz primeiro investimento em stablecoin ao adquirir participação na Ubyx",
       "link": "https://br.tradingview.com/news/cointelegraph:5463cac8bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:ec90ffb06bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Ethereum e Solana divergem sobre o que a resiliência da blockchain realmente significa",
       "link": "https://br.tradingview.com/news/cointelegraph:ec90ffb06bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:245af0e40bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Corrida por stablecoins do dirham nos Emirados Árabes Unidos se amplia após aprovação do RAKBank",
       "link": "https://br.tradingview.com/news/cointelegraph:245af0e40bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:cfb59f206bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Banco ABC Brasil adota protocolo da Liqi e lança R$ 300 milhões em tokens de recebíveis",
       "link": "https://br.tradingview.com/news/cointelegraph:cfb59f206bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:972d4915abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Peter Schiff dispara contra Bitcoin e recomenda troca por ouro em meio à crise na Venezuela",
       "link": "https://br.tradingview.com/news/beincrypto:972d4915abc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:208403c81bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Por que o XRP está superando Bitcoin e Ether no início de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:208403c81bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9e3863cb3bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Transferência de riqueza pode impulsionar a adoção cripto entre investidores mais jovens, afirma executivo da Galaxy",
       "link": "https://br.tradingview.com/news/cointelegraph:9e3863cb3bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:5bf0589b4bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Trump diz que sofrerá impeachment se republicanos perderem as eleições de meio de mandato",
       "link": "https://br.tradingview.com/news/cointelegraph:5bf0589b4bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c02b5bf3abc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Limite de blobs da Ethereum sobe para 21, impulsionando a escalabilidade da rede",
       "link": "https://br.tradingview.com/news/cointelegraph:c02b5bf3abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:89bdc056fbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Cripto no poder? Brasil pode ter primeiro candidato à Presidência pró-Bitcoin nas eleições de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:89bdc056fbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:011245e18bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Pagamentos e gestão de liquidez devem marcar avanço das stablecoins em 2026, diz Moody's",
       "link": "https://br.tradingview.com/news/cointelegraph:011245e18bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:54a583b00bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Trump pode confiscar a reserva de Bitcoin de US$ 60 bilhões da Venezuela, se ela existir?",
       "link": "https://br.tradingview.com/news/beincrypto:54a583b00bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 07 Jan 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de jan. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump pode confiscar a reserva de Bitcoin de US$ 60 bilhões da Venezuela, se ela existir?\" data-qa-id=\"news-headline-title\">Trump pode confiscar a reserva de Bitcoin de US$ 60 bilhões da Venezuela, se ela existir?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:3a791f0e4bc81:0",
-      "index": 13,
-      "title": "Ameaça quântica ao Bitcoin vai além de hacks de carteira, diz analista da Coinbase",
-      "link": "https://br.tradingview.com/news/cointelegraph:3a791f0e4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-07T14:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 07 Jan 2026 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de jan. de 2026, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ameaça quântica ao Bitcoin vai além de hacks de carteira, diz analista da Coinbase\" data-qa-id=\"news-headline-title\">Ameaça quântica ao Bitcoin vai além de hacks de carteira, diz analista da Coinbase</div></div></article>"
     }
   ]
 }
