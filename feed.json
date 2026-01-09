@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-09T15:25:49.862Z",
+  "updated_at": "2026-01-09T15:59:05.157Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:38123d8a9bc81:0",
+      "id": "cointelegraph:36c6efe7abc81:0",
       "index": 0,
+      "title": "Bitcoin agora é 56,7% verde: veja como pode ficar ainda mais limpo",
+      "link": "https://br.tradingview.com/news/cointelegraph:36c6efe7abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-09T15:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 09 Jan 2026 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de jan. de 2026, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin agora é 56,7% verde: veja como pode ficar ainda mais limpo\" data-qa-id=\"news-headline-title\">Bitcoin agora é 56,7% verde: veja como pode ficar ainda mais limpo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:38123d8a9bc81:0",
+      "index": 1,
       "title": "Queda do mercado cripto em outubro marcou o fim da era do 'rendimento fácil', segundo a BitMEX",
       "link": "https://br.tradingview.com/news/cointelegraph:38123d8a9bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:ddf3caa1fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Fluxos de stablecoins podem chegar a US$ 56 trilhões até 2030, segundo a Bloomberg",
       "link": "https://br.tradingview.com/news/cointelegraph:ddf3caa1fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3ae7f24d1bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Desenvolvedores do Zcash revelam a carteira ‘cashZ’ após saída da Electric Coin Co",
       "link": "https://br.tradingview.com/news/cointelegraph:3ae7f24d1bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:2930cdf81bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "ETFs de Bitcoin anulam quase todos os aportes do início de 2026",
       "link": "https://br.tradingview.com/news/beincrypto:2930cdf81bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:3bab0dbe9bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "IA aumenta riscos de roubo de criptomoedas e de ‘alucinações’ em tomadas de decisão, revelam análises",
       "link": "https://br.tradingview.com/news/cointelegraph:3bab0dbe9bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:eca34f299bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin lidera alta da semana enquanto Ethereum e XRP desafiam expectativas",
       "link": "https://br.tradingview.com/news/beincrypto:eca34f299bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f406c7156bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin pode chegar a US$ 2,9 milhões até 2050 ao se inserir no comércio global, afirma VanEck",
       "link": "https://br.tradingview.com/news/cointelegraph:f406c7156bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:fded708e4bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Sanções globais são ligadas a fluxos recordes para endereços cripto ilícitos",
       "link": "https://br.tradingview.com/news/cointelegraph:fded708e4bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:81de03644bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Ripple conquista aprovação regulatória no Reino Unido e XRP sobe mais de 10%",
       "link": "https://br.tradingview.com/news/beincrypto:81de03644bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:720ce0507bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Optimism propõe recompra de OP usando receita da Superchain",
       "link": "https://br.tradingview.com/news/cointelegraph:720ce0507bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:06a0f23bbbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Coinbase recebe 2ª recomendação de 'compra' na semana, com o BofA vendo alta de 38%",
       "link": "https://br.tradingview.com/news/cointelegraph:06a0f23bbbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YA0FM:0",
-      "index": 11,
+      "index": 12,
       "title": "A empresa de stablecoin Rain foi avaliada em US$ 1,95 bilhão em sua mais recente rodada de financiamento.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YA0FM:0/",
       "source": "Reuters",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:bc0beabb2bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Itaú, B3 e iFood começam 2026 com novas vagas de emprego",
       "link": "https://br.tradingview.com/news/cointelegraph:bc0beabb2bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 09 Jan 2026 12:40:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de jan. de 2026, 12:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Itaú, B3 e iFood começam 2026 com novas vagas de emprego\" data-qa-id=\"news-headline-title\">Itaú, B3 e iFood começam 2026 com novas vagas de emprego</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:513940933bc81:0",
-      "index": 13,
-      "title": "Nexo oferecerá empréstimos cripto sem juros para detentores de BTC e ETH",
-      "link": "https://br.tradingview.com/news/cointelegraph:513940933bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-09T12:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 09 Jan 2026 12:20:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de jan. de 2026, 12:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nexo oferecerá empréstimos cripto sem juros para detentores de BTC e ETH\" data-qa-id=\"news-headline-title\">Nexo oferecerá empréstimos cripto sem juros para detentores de BTC e ETH</div></div></article>"
     }
   ]
 }
