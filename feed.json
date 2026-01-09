@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-09T17:04:41.218Z",
+  "updated_at": "2026-01-09T17:33:42.334Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:12d910d85bc81:0",
+      "id": "cointelegraph:c930f873ebc81:0",
       "index": 0,
+      "title": "Suprema Corte da Coreia do Sul decide que Bitcoin mantido por exchanges pode ser apreendido",
+      "link": "https://br.tradingview.com/news/cointelegraph:c930f873ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-09T17:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 09 Jan 2026 17:20:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de jan. de 2026, 17:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Suprema Corte da Coreia do Sul decide que Bitcoin mantido por exchanges pode ser apreendido\" data-qa-id=\"news-headline-title\">Suprema Corte da Coreia do Sul decide que Bitcoin mantido por exchanges pode ser apreendido</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:87f037c02bc81:0",
+      "index": 1,
+      "title": "FCA define setembro de 2026 como início das solicitações de licenciamento cripto no Reino Unido",
+      "link": "https://br.tradingview.com/news/cointelegraph:87f037c02bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-09T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 09 Jan 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de jan. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"FCA define setembro de 2026 como início das solicitações de licenciamento cripto no Reino Unido\" data-qa-id=\"news-headline-title\">FCA define setembro de 2026 como início das solicitações de licenciamento cripto no Reino Unido</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:12d910d85bc81:0",
+      "index": 2,
       "title": "Especialistas miram explosão de volatilidade do Bitcoin: ‘nenhum interesse em 5%’",
       "link": "https://br.tradingview.com/news/cointelegraph:12d910d85bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:361d81fdabc81:0",
-      "index": 1,
+      "index": 3,
       "title": "ETFs de Bitcoin e Ether perdem mais de US$ 1 bilhão à medida que entradas do início de 2026 se revertem",
       "link": "https://br.tradingview.com/news/cointelegraph:361d81fdabc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:a39dbbff2bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Circle supera Tether: veja como a Solana e Trump viabilizaram essa mudança",
       "link": "https://br.tradingview.com/news/beincrypto:a39dbbff2bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:bc4a57dcdbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Irã está sem internet: veja como o cripto ainda poderia funcionar",
       "link": "https://br.tradingview.com/news/cointelegraph:bc4a57dcdbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:36c6efe7abc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin agora é 56,7% verde: veja como pode ficar ainda mais limpo",
       "link": "https://br.tradingview.com/news/cointelegraph:36c6efe7abc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:38123d8a9bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Queda do mercado cripto em outubro marcou o fim da era do 'rendimento fácil', segundo a BitMEX",
       "link": "https://br.tradingview.com/news/cointelegraph:38123d8a9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ddf3caa1fbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Fluxos de stablecoins podem chegar a US$ 56 trilhões até 2030, segundo a Bloomberg",
       "link": "https://br.tradingview.com/news/cointelegraph:ddf3caa1fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:2607de3f0bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Solana bate recordes em 2025 com US$ 2,39 bilhões em receita de aplicativos",
       "link": "https://br.tradingview.com/news/beincrypto:2607de3f0bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:3ae7f24d1bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Desenvolvedores do Zcash revelam a carteira ‘cashZ’ após saída da Electric Coin Co",
       "link": "https://br.tradingview.com/news/cointelegraph:3ae7f24d1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:2930cdf81bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "ETFs de Bitcoin anulam quase todos os aportes do início de 2026",
       "link": "https://br.tradingview.com/news/beincrypto:2930cdf81bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:3bab0dbe9bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "IA aumenta riscos de roubo de criptomoedas e de ‘alucinações’ em tomadas de decisão, revelam análises",
       "link": "https://br.tradingview.com/news/cointelegraph:3bab0dbe9bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:eca34f299bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Bitcoin lidera alta da semana enquanto Ethereum e XRP desafiam expectativas",
       "link": "https://br.tradingview.com/news/beincrypto:eca34f299bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 09 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin lidera alta da semana enquanto Ethereum e XRP desafiam expectativas\" data-qa-id=\"news-headline-title\">Bitcoin lidera alta da semana enquanto Ethereum e XRP desafiam expectativas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f406c7156bc81:0",
-      "index": 12,
-      "title": "Bitcoin pode chegar a US$ 2,9 milhões até 2050 ao se inserir no comércio global, afirma VanEck",
-      "link": "https://br.tradingview.com/news/cointelegraph:f406c7156bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-09T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 09 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode chegar a US$ 2,9 milhões até 2050 ao se inserir no comércio global, afirma VanEck\" data-qa-id=\"news-headline-title\">Bitcoin pode chegar a US$ 2,9 milhões até 2050 ao se inserir no comércio global, afirma VanEck</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:fded708e4bc81:0",
-      "index": 13,
-      "title": "Sanções globais são ligadas a fluxos recordes para endereços cripto ilícitos",
-      "link": "https://br.tradingview.com/news/cointelegraph:fded708e4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-09T13:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 09 Jan 2026 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de jan. de 2026, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Sanções globais são ligadas a fluxos recordes para endereços cripto ilícitos\" data-qa-id=\"news-headline-title\">Sanções globais são ligadas a fluxos recordes para endereços cripto ilícitos</div></div></article>"
     }
   ]
 }
