@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-11T19:16:54.579Z",
+  "updated_at": "2026-01-11T19:53:33.599Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:959b5d33abc81:0",
+      "id": "tag:reuters.com,2026:newsml_L1N3YC061:0",
       "index": 0,
+      "title": "Coinbase aumenta a pressão enquanto projeto de lei sobre criptomoedas avança para debate no Senado dos EUA - Bloomberg News",
+      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YC061:0/",
+      "source": "Reuters",
+      "published_at": "2026-01-11T19:52:09.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/coinbase.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 11 Jan 2026 19:52:09 GMT\" class=\"apply-common-tooltip\" title=\"11 de jan. de 2026, 19:52 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Coinbase aumenta a pressão enquanto projeto de lei sobre criptomoedas avança para debate no Senado dos EUA - Bloomberg News\" data-qa-id=\"news-headline-title\">Coinbase aumenta a pressão enquanto projeto de lei sobre criptomoedas avança para debate no Senado dos EUA - Bloomberg News</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1bf2008d6bc81:0",
+      "index": 1,
+      "title": "Samson Mow prevê que Elon Musk investirá pesado em Bitcoin em 2026",
+      "link": "https://br.tradingview.com/news/cointelegraph:1bf2008d6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-11T19:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 11 Jan 2026 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de jan. de 2026, 19:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Samson Mow prevê que Elon Musk investirá pesado em Bitcoin em 2026\" data-qa-id=\"news-headline-title\">Samson Mow prevê que Elon Musk investirá pesado em Bitcoin em 2026</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:959b5d33abc81:0",
+      "index": 2,
       "title": "Sentimento em relação ao Ethereum reflete os níveis vistos antes da \"grande alta\", diz Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:959b5d33abc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:35501d206bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Dificuldade de mineração de Bitcoin cai no primeiro ajuste de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:35501d206bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:39e45723abc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Debate cripto em Wall Street termina com bancos apostando tudo em Bitcoin, stablecoins e dinheiro tokenizado",
       "link": "https://br.tradingview.com/news/cointelegraph:39e45723abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:1c8247a7bbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Betterment recomenda aos usuários que ignorem mensagens de promoção de criptomoedas \"não autorizadas\"",
       "link": "https://br.tradingview.com/news/cointelegraph:1c8247a7bbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:f13cece3bbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Mercado de alta do Bitcoin começa com uma variação de 4,5%?",
       "link": "https://br.tradingview.com/news/beincrypto:f13cece3bbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8dfd6b556bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Russos questionam governo se pensões podem ser pagas em criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:8dfd6b556bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:9111c651abc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Solana lança correção urgente enquanto adoção por validadores avança lentamente",
       "link": "https://br.tradingview.com/news/beincrypto:9111c651abc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:616c3a918bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Starknet publica relatório após interrupção temporária da rede",
       "link": "https://br.tradingview.com/news/cointelegraph:616c3a918bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:57fae14d5bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Fundador da CryptoQuant critica X por penalizar conteúdo sobre criptomoedas em vez de bots",
       "link": "https://br.tradingview.com/news/cointelegraph:57fae14d5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2403d4d74bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoiners comemoram 17º aniversário da publicação de Hal Finney sobre o Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:2403d4d74bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:b270d7eaebc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Baleias da Bitfinex deixam posições compradas em BTC com o ressurgimento da meta de US$ 135 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:b270d7eaebc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 10 Jan 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de jan. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias da Bitfinex deixam posições compradas em BTC com o ressurgimento da meta de US$ 135 mil\" data-qa-id=\"news-headline-title\">Baleias da Bitfinex deixam posições compradas em BTC com o ressurgimento da meta de US$ 135 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9f1751b2ebc81:0",
-      "index": 11,
-      "title": "ETFs de Bitcoin à vista perdem US$ 681 milhões na primeira semana de 2026, à medida que o apetite por risco diminui",
-      "link": "https://br.tradingview.com/news/cointelegraph:9f1751b2ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-10T20:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 10 Jan 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de jan. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin à vista perdem US$ 681 milhões na primeira semana de 2026, à medida que o apetite por risco diminui\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin à vista perdem US$ 681 milhões na primeira semana de 2026, à medida que o apetite por risco diminui</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c19ee71afbc81:0",
-      "index": 12,
-      "title": "Pump.fun afirma que taxas cobradas dos criadores \"podem ter distorcido\" os incentivos e planeja reformulá-las",
-      "link": "https://br.tradingview.com/news/cointelegraph:c19ee71afbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-10T19:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 10 Jan 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de jan. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pump.fun afirma que taxas cobradas dos criadores &quot;podem ter distorcido&quot; os incentivos e planeja reformulá-las\" data-qa-id=\"news-headline-title\">Pump.fun afirma que taxas cobradas dos criadores \"podem ter distorcido\" os incentivos e planeja reformulá-las</div></div></article>"
     }
   ]
 }
