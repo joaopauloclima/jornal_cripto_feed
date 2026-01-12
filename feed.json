@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-12T17:35:29.655Z",
+  "updated_at": "2026-01-12T17:56:03.455Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1928f23f5bc81:0",
+      "id": "cointelegraph:eb4d87653bc81:0",
       "index": 0,
+      "title": "Empresa de tesouraria de Bitcoin Future Holdings, apoiada por Adam Back, deve ser adquirida pela H100",
+      "link": "https://br.tradingview.com/news/cointelegraph:eb4d87653bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-12T17:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 12 Jan 2026 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de jan. de 2026, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Empresa de tesouraria de Bitcoin Future Holdings, apoiada por Adam Back, deve ser adquirida pela H100\" data-qa-id=\"news-headline-title\">Empresa de tesouraria de Bitcoin Future Holdings, apoiada por Adam Back, deve ser adquirida pela H100</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1928f23f5bc81:0",
+      "index": 1,
       "title": "O fim dos Bancos? Stablecoins iniciam a revolução que o sistema financeiro temia",
       "link": "https://br.tradingview.com/news/cointelegraph:1928f23f5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:dae97a5f7bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Polícia de Alagoas desarticula mineradora clandestina de Bitcoin suspeita de furtar R$ 750 mil em energia",
       "link": "https://br.tradingview.com/news/cointelegraph:dae97a5f7bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:c349210f8bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Investigação sobre Powell pode introduzir 'prêmio de risco' para o Bitcoin, apontam analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:c349210f8bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6e55502e1bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Cortes de juros do Fed sob ataque: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:6e55502e1bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:23edd824fbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Por que o Bitcoin não consegue romper os US$ 95 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:23edd824fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:dc0b57f72bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Maioria dos casos de desbancarização nos EUA vem de pressão do governo, diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:dc0b57f72bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e3ef2e42bbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Visualizações de cripto no YouTube caem ao menor nível desde o início de 2021: 'não é só o X'",
       "link": "https://br.tradingview.com/news/cointelegraph:e3ef2e42bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5616c9e7cbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ethereum precisa de stablecoins descentralizadas melhores, afirma Vitalik Buterin",
       "link": "https://br.tradingview.com/news/cointelegraph:5616c9e7cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:ada07222fbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Coinbase pode retirar apoio ao CLARITY Act por causa de proibição de recompensas em stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:ada07222fbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:37ae1f8cebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin mira US$ 94 mil de olho na liquidez global: ‘não se empolgue demais’",
       "link": "https://br.tradingview.com/news/cointelegraph:37ae1f8cebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:527a5d36abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Powell, do Fed, diz que investigação do DOJ reflete 'pressão' sobre a independência da política de juros",
       "link": "https://br.tradingview.com/news/cointelegraph:527a5d36abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a128a3a77bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Papel da Tether na Venezuela e no Irã destaca a dualidade das stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:a128a3a77bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e1945f3dfbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Memecoins foram as mais afetadas em um ano difícil que viu 11,6 milhões de tokens fracassarem",
       "link": "https://br.tradingview.com/news/cointelegraph:e1945f3dfbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 12 Jan 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de jan. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Memecoins foram as mais afetadas em um ano difícil que viu 11,6 milhões de tokens fracassarem\" data-qa-id=\"news-headline-title\">Memecoins foram as mais afetadas em um ano difícil que viu 11,6 milhões de tokens fracassarem</div></div></article>"
-    },
-    {
-      "id": "beincrypto:34c5715babc81:0",
-      "index": 13,
-      "title": "XRP supera o Bitcoin desde 2024 e analista projeta cenário para 2026",
-      "link": "https://br.tradingview.com/news/beincrypto:34c5715babc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-12T13:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 12 Jan 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de jan. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP supera o Bitcoin desde 2024 e analista projeta cenário para 2026\" data-qa-id=\"news-headline-title\">XRP supera o Bitcoin desde 2024 e analista projeta cenário para 2026</div></div></article>"
     }
   ]
 }
