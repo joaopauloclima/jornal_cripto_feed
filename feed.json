@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-13T19:04:14.869Z",
+  "updated_at": "2026-01-13T19:31:06.201Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:11001e3cfbc81:0",
+      "id": "cointelegraph:d8914aea2bc81:0",
       "index": 0,
+      "title": "Solana Policy Institute pede à SEC que isente desenvolvedores de DeFi das regras para exchanges",
+      "link": "https://br.tradingview.com/news/cointelegraph:d8914aea2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-13T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana Policy Institute pede à SEC que isente desenvolvedores de DeFi das regras para exchanges\" data-qa-id=\"news-headline-title\">Solana Policy Institute pede à SEC que isente desenvolvedores de DeFi das regras para exchanges</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fbf21abcfbc81:0",
+      "index": 1,
+      "title": "SPAC ligada à Kraken protocola IPO de US$ 250 milhões e mira infraestrutura cripto",
+      "link": "https://br.tradingview.com/news/cointelegraph:fbf21abcfbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-13T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SPAC ligada à Kraken protocola IPO de US$ 250 milhões e mira infraestrutura cripto\" data-qa-id=\"news-headline-title\">SPAC ligada à Kraken protocola IPO de US$ 250 milhões e mira infraestrutura cripto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:11001e3cfbc81:0",
+      "index": 2,
       "title": "YZi Labs, de CZ, investe em terminal de trading à medida que a execução DeFi ganha prioridade",
       "link": "https://br.tradingview.com/news/cointelegraph:11001e3cfbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2cadadc6abc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin tenta romper US$ 92 mil e ações atingem novo recorde com CPI baixo nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:2cadadc6abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:259016d3bbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Banco da Itália alerta para risco de colapso do Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:259016d3bbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ebda96d1fbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Correlação entre Bitcoin e ouro sinaliza alta de pelo menos 50% no preço do BTC até março",
       "link": "https://br.tradingview.com/news/cointelegraph:ebda96d1fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:1593254adbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Monero sobe para nova máxima de US$ 687 à medida que a fiscalização cripto se intensifica",
       "link": "https://br.tradingview.com/news/cointelegraph:1593254adbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f384269a2bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bancos centrais mundiais se unem em apoio a Powell e reforçam a independência do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:f384269a2bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d1a533914bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ZKsync define roteiro para 2026 com foco em privacidade e adoção institucional",
       "link": "https://br.tradingview.com/news/cointelegraph:d1a533914bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:ea658c55dbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Ucrânia bloqueia Polymarket e classifica mercados de previsão como jogo de azar",
       "link": "https://br.tradingview.com/news/cointelegraph:ea658c55dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:af7874667bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Presidente da SEC diz que projeto de estrutura de mercado cripto pode chegar à mesa de Trump neste ano",
       "link": "https://br.tradingview.com/news/cointelegraph:af7874667bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5e70350e3bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoin tem chance de recuperar perdas para o ouro, diz Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:5e70350e3bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:abc598907bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Preocupações dos bancos com stablecoins são 'mitos infundados', afirma professor",
       "link": "https://br.tradingview.com/news/cointelegraph:abc598907bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:9901c3bd3bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Preço da prata bate recorde após inflação nos EUA vir abaixo do esperado",
       "link": "https://br.tradingview.com/news/beincrypto:9901c3bd3bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 15:30:08 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço da prata bate recorde após inflação nos EUA vir abaixo do esperado\" data-qa-id=\"news-headline-title\">Preço da prata bate recorde após inflação nos EUA vir abaixo do esperado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5ec6c986fbc81:0",
-      "index": 12,
-      "title": "Trump quer que empresas de tecnologia 'paguem a própria conta' à medida que a demanda por energia dispara",
-      "link": "https://br.tradingview.com/news/cointelegraph:5ec6c986fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-13T15:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump quer que empresas de tecnologia 'paguem a própria conta' à medida que a demanda por energia dispara\" data-qa-id=\"news-headline-title\">Trump quer que empresas de tecnologia 'paguem a própria conta' à medida que a demanda por energia dispara</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:01e9ac6b9bc81:0",
-      "index": 13,
-      "title": "Ethereum precisa passar no 'teste do abandono' para durar 100 anos, afirma Buterin",
-      "link": "https://br.tradingview.com/news/cointelegraph:01e9ac6b9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-13T15:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum precisa passar no 'teste do abandono' para durar 100 anos, afirma Buterin\" data-qa-id=\"news-headline-title\">Ethereum precisa passar no 'teste do abandono' para durar 100 anos, afirma Buterin</div></div></article>"
     }
   ]
 }
