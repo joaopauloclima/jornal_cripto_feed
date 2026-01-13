@@ -1,10 +1,54 @@
 {
-  "updated_at": "2026-01-13T13:32:57.372Z",
+  "updated_at": "2026-01-13T14:05:41.918Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:4ec17d0e2bc81:0",
+      "id": "tag:reuters.com,2026:newsml_L1N3YE0JZ:0",
       "index": 0,
+      "title": "Polygon mira em pagamentos com stablecoins com acordos avaliados em US$ 250 milhões.",
+      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YE0JZ:0/",
+      "source": "Reuters",
+      "published_at": "2026-01-13T14:00:27.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/mastercard.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/mastercard.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/circle-internet-group-inc.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 14:00:27 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Polygon mira em pagamentos com stablecoins com acordos avaliados em US$ 250 milhões.\" data-qa-id=\"news-headline-title\">Polygon mira em pagamentos com stablecoins com acordos avaliados em US$ 250 milhões.</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:93ed510b2bc81:0",
+      "index": 1,
+      "title": "Bitcoin mostra resiliência em meio à investigação do DOJ sobre Powell: o preço do BTC vai se sustentar?",
+      "link": "https://br.tradingview.com/news/cointelegraph:93ed510b2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-13T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin mostra resiliência em meio à investigação do DOJ sobre Powell: o preço do BTC vai se sustentar?\" data-qa-id=\"news-headline-title\">Bitcoin mostra resiliência em meio à investigação do DOJ sobre Powell: o preço do BTC vai se sustentar?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bea6e5712bc81:0",
+      "index": 2,
+      "title": "Presidente da SEC: 'Ainda resta saber' se os EUA irão apreender o suposto Bitcoin da Venezuela",
+      "link": "https://br.tradingview.com/news/cointelegraph:bea6e5712bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-13T13:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Presidente da SEC: 'Ainda resta saber' se os EUA irão apreender o suposto Bitcoin da Venezuela\" data-qa-id=\"news-headline-title\">Presidente da SEC: 'Ainda resta saber' se os EUA irão apreender o suposto Bitcoin da Venezuela</div></div></article>"
+    },
+    {
+      "id": "beincrypto:a2da52097bc81:0",
+      "index": 3,
+      "title": "Lucros da Shiba Inu caem 62% após queda do preço da SHIB nesta semana",
+      "link": "https://br.tradingview.com/news/beincrypto:a2da52097bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-01-13T13:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSHIB.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSHIB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Lucros da Shiba Inu caem 62% após queda do preço da SHIB nesta semana\" data-qa-id=\"news-headline-title\">Lucros da Shiba Inu caem 62% após queda do preço da SHIB nesta semana</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:4ec17d0e2bc81:0",
+      "index": 4,
       "title": "Participações em Ether da Bitmine chegam a 4,17 milhões enquanto presidente defende estratégia cripto ampliada",
       "link": "https://br.tradingview.com/news/cointelegraph:4ec17d0e2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +59,7 @@
     },
     {
       "id": "cointelegraph:fd80b6204bc81:0",
-      "index": 1,
+      "index": 5,
       "title": "Fitch Ratings sinaliza títulos lastreados em Bitcoin como de 'alto risco de valor de mercado'",
       "link": "https://br.tradingview.com/news/cointelegraph:fd80b6204bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d32d70027bc81:0",
-      "index": 2,
+      "index": 6,
       "title": "OGs abrem caminho para o Bitcoin a US$ 100 mil, mas ursos estão no jogo, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:d32d70027bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b231dc0edbc81:0",
-      "index": 3,
+      "index": 7,
       "title": "Três gráficos de preço do ETH sugerem que um movimento rumo a US$ 4 mil pode estar se formando",
       "link": "https://br.tradingview.com/news/cointelegraph:b231dc0edbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +92,7 @@
     },
     {
       "id": "beincrypto:7c8c2e8dbbc81:0",
-      "index": 4,
+      "index": 8,
       "title": "Bitcoin volta a se aproximar de US$ 95 mil com queda da tensão no mercado",
       "link": "https://br.tradingview.com/news/beincrypto:7c8c2e8dbbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d430cbd32bc81:0",
-      "index": 5,
+      "index": 9,
       "title": "Preço do Bitcoin hoje, 13/01/2026: Por que o BTC subiu hoje? Cripto volta para US$ 92 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d430cbd32bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +114,7 @@
     },
     {
       "id": "cointelegraph:23fc4cd66bc81:0",
-      "index": 6,
+      "index": 10,
       "title": "Criptomoedas reagem enquanto o Bitcoin ignora embate de Trump e Powell",
       "link": "https://br.tradingview.com/news/cointelegraph:23fc4cd66bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +125,7 @@
     },
     {
       "id": "cointelegraph:24ee961d9bc81:0",
-      "index": 7,
+      "index": 11,
       "title": "Lewandowski deixa Ministério da Justiça sem aprovar leis de combate à lavagem de dinheiro com criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:24ee961d9bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a7e54315abc81:0",
-      "index": 8,
+      "index": 12,
       "title": "Quem vai controlar o dinheiro? Stablecoins e Pix entram em rota de colisão na América Latina",
       "link": "https://br.tradingview.com/news/cointelegraph:a7e54315abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +147,7 @@
     },
     {
       "id": "cointelegraph:b8a69812fbc81:0",
-      "index": 9,
+      "index": 13,
       "title": "Analista que antecipou queda do Bitcoin para US$ 80.000 prevê 'explosão de volatilidade' no preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:b8a69812fbc81:0/",
       "source": "Cointelegraph",
@@ -111,50 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 12 Jan 2026 22:53:49 GMT\" class=\"apply-common-tooltip\" title=\"12 de jan. de 2026, 22:53 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Analista que antecipou queda do Bitcoin para US$ 80.000 prevê 'explosão de volatilidade' no preço do BTC\" data-qa-id=\"news-headline-title\">Analista que antecipou queda do Bitcoin para US$ 80.000 prevê 'explosão de volatilidade' no preço do BTC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:297c1cdffbc81:0",
-      "index": 10,
-      "title": "Criptomoedas entram na segunda fase de adoção institucional liderada pelo Morgan Stanley, diz a Binance",
-      "link": "https://br.tradingview.com/news/cointelegraph:297c1cdffbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-12T22:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 12 Jan 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de jan. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas entram na segunda fase de adoção institucional liderada pelo Morgan Stanley, diz a Binance\" data-qa-id=\"news-headline-title\">Criptomoedas entram na segunda fase de adoção institucional liderada pelo Morgan Stanley, diz a Binance</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1f7acaebfbc81:0",
-      "index": 11,
-      "title": "Análise de preços em 12/01: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e BCH",
-      "link": "https://br.tradingview.com/news/cointelegraph:1f7acaebfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-12T21:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 12 Jan 2026 21:40:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de jan. de 2026, 21:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 12/01: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e BCH\" data-qa-id=\"news-headline-title\">Análise de preços em 12/01: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e BCH</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:33d3087ffbc81:0",
-      "index": 12,
-      "title": "Bitcoin perde para o ouro na aposta contra a desvalorização, com o BTC em mínimas de dois anos, aponta análise",
-      "link": "https://br.tradingview.com/news/cointelegraph:33d3087ffbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-12T21:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 12 Jan 2026 21:20:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de jan. de 2026, 21:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin perde para o ouro na aposta contra a desvalorização, com o BTC em mínimas de dois anos, aponta análise\" data-qa-id=\"news-headline-title\">Bitcoin perde para o ouro na aposta contra a desvalorização, com o BTC em mínimas de dois anos, aponta análise</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f62904082bc81:0",
-      "index": 13,
-      "title": "World Liberty ligada a Trump leva stablecoin de US$ 3,4 bilhões aos mercados de empréstimos cripto",
-      "link": "https://br.tradingview.com/news/cointelegraph:f62904082bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-12T21:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 12 Jan 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de jan. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"World Liberty ligada a Trump leva stablecoin de US$ 3,4 bilhões aos mercados de empréstimos cripto\" data-qa-id=\"news-headline-title\">World Liberty ligada a Trump leva stablecoin de US$ 3,4 bilhões aos mercados de empréstimos cripto</div></div></article>"
     }
   ]
 }
