@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-13T16:38:23.808Z",
+  "updated_at": "2026-01-13T17:07:14.505Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:af7874667bc81:0",
+      "id": "cointelegraph:d1a533914bc81:0",
       "index": 0,
+      "title": "ZKsync define roteiro para 2026 com foco em privacidade e adoção institucional",
+      "link": "https://br.tradingview.com/news/cointelegraph:d1a533914bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-13T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ZKsync define roteiro para 2026 com foco em privacidade e adoção institucional\" data-qa-id=\"news-headline-title\">ZKsync define roteiro para 2026 com foco em privacidade e adoção institucional</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ea658c55dbc81:0",
+      "index": 1,
+      "title": "Ucrânia bloqueia Polymarket e classifica mercados de previsão como jogo de azar",
+      "link": "https://br.tradingview.com/news/cointelegraph:ea658c55dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-13T16:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ucrânia bloqueia Polymarket e classifica mercados de previsão como jogo de azar\" data-qa-id=\"news-headline-title\">Ucrânia bloqueia Polymarket e classifica mercados de previsão como jogo de azar</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:af7874667bc81:0",
+      "index": 2,
       "title": "Presidente da SEC diz que projeto de estrutura de mercado cripto pode chegar à mesa de Trump neste ano",
       "link": "https://br.tradingview.com/news/cointelegraph:af7874667bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:5e70350e3bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin tem chance de recuperar perdas para o ouro, diz Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:5e70350e3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:abc598907bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Preocupações dos bancos com stablecoins são 'mitos infundados', afirma professor",
       "link": "https://br.tradingview.com/news/cointelegraph:abc598907bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:9901c3bd3bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço da prata bate recorde com núcleo do CPI dos EUA abaixo do esperado",
       "link": "https://br.tradingview.com/news/beincrypto:9901c3bd3bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5ec6c986fbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Trump quer que empresas de tecnologia 'paguem a própria conta' à medida que a demanda por energia dispara",
       "link": "https://br.tradingview.com/news/cointelegraph:5ec6c986fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:01e9ac6b9bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Ethereum precisa passar no 'teste do abandono' para durar 100 anos, afirma Buterin",
       "link": "https://br.tradingview.com/news/cointelegraph:01e9ac6b9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8b3c15febbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Cade investiga Meta por barrar IA de concorrentes no WhatsApp",
       "link": "https://br.tradingview.com/news/cointelegraph:8b3c15febbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YE0LA:0",
-      "index": 7,
+      "index": 9,
       "title": "Wall Street dá de ombros enquanto a Strategy de Saylor continua a acumular bitcoin.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YE0LA:0/",
       "source": "Reuters",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:7ffc728dcbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Meta vai cortar 10% da divisão de metaverso nesta semana em meio a aposta em IA, afirma reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:7ffc728dcbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YE0JZ:0",
-      "index": 9,
+      "index": 11,
       "title": "Polygon mira em pagamentos com stablecoins com acordos avaliados em US$ 250 milhões.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YE0JZ:0/",
       "source": "Reuters",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:93ed510b2bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin mostra resiliência em meio à investigação do DOJ sobre Powell: o preço do BTC vai se sustentar?",
       "link": "https://br.tradingview.com/news/cointelegraph:93ed510b2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:782b27c41bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Perspectiva de curto prazo da Strategy depende deste nível de preço do Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:782b27c41bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Perspectiva de curto prazo da Strategy depende deste nível de preço do Bitcoin\" data-qa-id=\"news-headline-title\">Perspectiva de curto prazo da Strategy depende deste nível de preço do Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bea6e5712bc81:0",
-      "index": 12,
-      "title": "Presidente da SEC: 'Ainda resta saber' se os EUA irão apreender o suposto Bitcoin da Venezuela",
-      "link": "https://br.tradingview.com/news/cointelegraph:bea6e5712bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-13T13:40:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Presidente da SEC: 'Ainda resta saber' se os EUA irão apreender o suposto Bitcoin da Venezuela\" data-qa-id=\"news-headline-title\">Presidente da SEC: 'Ainda resta saber' se os EUA irão apreender o suposto Bitcoin da Venezuela</div></div></article>"
-    },
-    {
-      "id": "beincrypto:a2da52097bc81:0",
-      "index": 13,
-      "title": "Lucros da Shiba Inu caem 62% após queda do preço da SHIB nesta semana",
-      "link": "https://br.tradingview.com/news/beincrypto:a2da52097bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-13T13:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSHIB.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSHIB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Lucros da Shiba Inu caem 62% após queda do preço da SHIB nesta semana\" data-qa-id=\"news-headline-title\">Lucros da Shiba Inu caem 62% após queda do preço da SHIB nesta semana</div></div></article>"
     }
   ]
 }
