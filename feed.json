@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-13T15:03:10.877Z",
+  "updated_at": "2026-01-13T15:35:09.925Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8b3c15febbc81:0",
+      "id": "cointelegraph:5ec6c986fbc81:0",
       "index": 0,
+      "title": "Trump quer que empresas de tecnologia 'paguem a própria conta' à medida que a demanda por energia dispara",
+      "link": "https://br.tradingview.com/news/cointelegraph:5ec6c986fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-13T15:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump quer que empresas de tecnologia 'paguem a própria conta' à medida que a demanda por energia dispara\" data-qa-id=\"news-headline-title\">Trump quer que empresas de tecnologia 'paguem a própria conta' à medida que a demanda por energia dispara</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:01e9ac6b9bc81:0",
+      "index": 1,
+      "title": "Ethereum precisa passar no 'teste do abandono' para durar 100 anos, afirma Buterin",
+      "link": "https://br.tradingview.com/news/cointelegraph:01e9ac6b9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-13T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum precisa passar no 'teste do abandono' para durar 100 anos, afirma Buterin\" data-qa-id=\"news-headline-title\">Ethereum precisa passar no 'teste do abandono' para durar 100 anos, afirma Buterin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8b3c15febbc81:0",
+      "index": 2,
       "title": "Cade investiga Meta por barrar IA de concorrentes no WhatsApp",
       "link": "https://br.tradingview.com/news/cointelegraph:8b3c15febbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YE0LA:0",
-      "index": 1,
+      "index": 3,
       "title": "Wall Street dá de ombros enquanto a Strategy de Saylor continua a acumular bitcoin.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YE0LA:0/",
       "source": "Reuters",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:7ffc728dcbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Meta vai cortar 10% da divisão de metaverso nesta semana em meio a aposta em IA, afirma reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:7ffc728dcbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YE0JZ:0",
-      "index": 3,
+      "index": 5,
       "title": "Polygon mira em pagamentos com stablecoins com acordos avaliados em US$ 250 milhões.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YE0JZ:0/",
       "source": "Reuters",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:93ed510b2bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin mostra resiliência em meio à investigação do DOJ sobre Powell: o preço do BTC vai se sustentar?",
       "link": "https://br.tradingview.com/news/cointelegraph:93ed510b2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:782b27c41bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Perspectiva de curto prazo da Strategy depende deste nível de preço do Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:782b27c41bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:bea6e5712bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Presidente da SEC: 'Ainda resta saber' se os EUA irão apreender o suposto Bitcoin da Venezuela",
       "link": "https://br.tradingview.com/news/cointelegraph:bea6e5712bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:a2da52097bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Lucros da Shiba Inu caem 62% após queda do preço da SHIB nesta semana",
       "link": "https://br.tradingview.com/news/beincrypto:a2da52097bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:4ec17d0e2bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Participações em Ether da Bitmine chegam a 4,17 milhões enquanto presidente defende estratégia cripto ampliada",
       "link": "https://br.tradingview.com/news/cointelegraph:4ec17d0e2bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:fd80b6204bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Fitch Ratings sinaliza títulos lastreados em Bitcoin como de 'alto risco de valor de mercado'",
       "link": "https://br.tradingview.com/news/cointelegraph:fd80b6204bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:d32d70027bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "OGs abrem caminho para o Bitcoin a US$ 100 mil, mas ursos estão no jogo, sugerem análises",
       "link": "https://br.tradingview.com/news/cointelegraph:d32d70027bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:b231dc0edbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Três gráficos de preço do ETH sugerem que um movimento rumo a US$ 4 mil pode estar se formando",
       "link": "https://br.tradingview.com/news/cointelegraph:b231dc0edbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 12:20:42 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 12:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Três gráficos de preço do ETH sugerem que um movimento rumo a US$ 4 mil pode estar se formando\" data-qa-id=\"news-headline-title\">Três gráficos de preço do ETH sugerem que um movimento rumo a US$ 4 mil pode estar se formando</div></div></article>"
-    },
-    {
-      "id": "beincrypto:7c8c2e8dbbc81:0",
-      "index": 12,
-      "title": "Bitcoin volta a se aproximar de US$ 95 mil com queda da tensão no mercado",
-      "link": "https://br.tradingview.com/news/beincrypto:7c8c2e8dbbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-13T11:28:48.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 11:28:48 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 11:28 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin volta a se aproximar de US$ 95 mil com queda da tensão no mercado\" data-qa-id=\"news-headline-title\">Bitcoin volta a se aproximar de US$ 95 mil com queda da tensão no mercado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d430cbd32bc81:0",
-      "index": 13,
-      "title": "Preço do Bitcoin hoje, 13/01/2026: Por que o BTC subiu hoje? Cripto volta para US$ 92 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:d430cbd32bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-13T10:59:22.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 10:59:22 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 10:59 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 13/01/2026: Por que o BTC subiu hoje? Cripto volta para US$ 92 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 13/01/2026: Por que o BTC subiu hoje? Cripto volta para US$ 92 mil</div></div></article>"
     }
   ]
 }
