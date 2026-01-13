@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-13T19:31:06.201Z",
+  "updated_at": "2026-01-13T19:54:31.059Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d8914aea2bc81:0",
+      "id": "cointelegraph:b5ad79a8bbc81:0",
       "index": 0,
+      "title": "CONSOB, da Itália, alerta 'finfluencers' em meio a avisos da ESMA sobre riscos cripto",
+      "link": "https://br.tradingview.com/news/cointelegraph:b5ad79a8bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-13T19:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CONSOB, da Itália, alerta 'finfluencers' em meio a avisos da ESMA sobre riscos cripto\" data-qa-id=\"news-headline-title\">CONSOB, da Itália, alerta 'finfluencers' em meio a avisos da ESMA sobre riscos cripto</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d8914aea2bc81:0",
+      "index": 1,
       "title": "Solana Policy Institute pede à SEC que isente desenvolvedores de DeFi das regras para exchanges",
       "link": "https://br.tradingview.com/news/cointelegraph:d8914aea2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fbf21abcfbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "SPAC ligada à Kraken protocola IPO de US$ 250 milhões e mira infraestrutura cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:fbf21abcfbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:11001e3cfbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "YZi Labs, de CZ, investe em terminal de trading à medida que a execução DeFi ganha prioridade",
       "link": "https://br.tradingview.com/news/cointelegraph:11001e3cfbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:2cadadc6abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin tenta romper US$ 92 mil e ações atingem novo recorde com CPI baixo nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:2cadadc6abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:259016d3bbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Banco da Itália alerta para risco de colapso do Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:259016d3bbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ebda96d1fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Correlação entre Bitcoin e ouro sinaliza alta de pelo menos 50% no preço do BTC até março",
       "link": "https://br.tradingview.com/news/cointelegraph:ebda96d1fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:1593254adbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Monero sobe para nova máxima de US$ 687 à medida que a fiscalização cripto se intensifica",
       "link": "https://br.tradingview.com/news/cointelegraph:1593254adbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f384269a2bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bancos centrais mundiais se unem em apoio a Powell e reforçam a independência do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:f384269a2bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d1a533914bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "ZKsync define roteiro para 2026 com foco em privacidade e adoção institucional",
       "link": "https://br.tradingview.com/news/cointelegraph:d1a533914bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ea658c55dbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ucrânia bloqueia Polymarket e classifica mercados de previsão como jogo de azar",
       "link": "https://br.tradingview.com/news/cointelegraph:ea658c55dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:af7874667bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Presidente da SEC diz que projeto de estrutura de mercado cripto pode chegar à mesa de Trump neste ano",
       "link": "https://br.tradingview.com/news/cointelegraph:af7874667bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:5e70350e3bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin tem chance de recuperar perdas para o ouro, diz Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:5e70350e3bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:abc598907bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preocupações dos bancos com stablecoins são 'mitos infundados', afirma professor",
       "link": "https://br.tradingview.com/news/cointelegraph:abc598907bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preocupações dos bancos com stablecoins são 'mitos infundados', afirma professor\" data-qa-id=\"news-headline-title\">Preocupações dos bancos com stablecoins são 'mitos infundados', afirma professor</div></div></article>"
-    },
-    {
-      "id": "beincrypto:9901c3bd3bc81:0",
-      "index": 13,
-      "title": "Preço da prata bate recorde após inflação nos EUA vir abaixo do esperado",
-      "link": "https://br.tradingview.com/news/beincrypto:9901c3bd3bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-13T15:30:08.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 15:30:08 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço da prata bate recorde após inflação nos EUA vir abaixo do esperado\" data-qa-id=\"news-headline-title\">Preço da prata bate recorde após inflação nos EUA vir abaixo do esperado</div></div></article>"
     }
   ]
 }
