@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-14T21:57:22.905Z",
+  "updated_at": "2026-01-14T22:22:10.983Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2e50ee325bc81:0",
+      "id": "cointelegraph:8336404efbc81:0",
       "index": 0,
+      "title": "Crise na AAVE ameaça o futuro do DeFi, aponta analista brasileiro",
+      "link": "https://br.tradingview.com/news/cointelegraph:8336404efbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-14T22:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Crise na AAVE ameaça o futuro do DeFi, aponta analista brasileiro\" data-qa-id=\"news-headline-title\">Crise na AAVE ameaça o futuro do DeFi, aponta analista brasileiro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2e50ee325bc81:0",
+      "index": 1,
       "title": "Bitcoin atinge máxima de 2026 acima de US$ 97.000 e dados indicam força para preços mais altos",
       "link": "https://br.tradingview.com/news/cointelegraph:2e50ee325bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fa22ee6b2bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Tokens RWA bombam no Brasil com mais de R$ 3,1 bilhões negociados, mas CVM pode 'matar' tokenização de recebíveis",
       "link": "https://br.tradingview.com/news/cointelegraph:fa22ee6b2bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:70e9ca5ecbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin mira US$ 100 mil, mas um padrão de 2021 pode mudar tudo",
       "link": "https://br.tradingview.com/news/beincrypto:70e9ca5ecbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b7424fc11bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "ETFs de Bitcoin oscilam enquanto fundos tradicionais captam US$ 46 bilhões em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:b7424fc11bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:0ee1e405abc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ouro tokenizado representa 25% do crescimento líquido de RWAs em 2025 após alta de 177% na capitalização de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:0ee1e405abc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3717053f5bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Mantra se reestrutura após colapso do token OM e ano difícil",
       "link": "https://br.tradingview.com/news/cointelegraph:3717053f5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0477a7814bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Visa recorre à BVNK para viabilizar pagamentos com stablecoins no Visa Direct",
       "link": "https://br.tradingview.com/news/cointelegraph:0477a7814bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e4f5340f6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "DEXs perp vão 'devorar' a TradFi cara em 2026, diz a Delphi Digital",
       "link": "https://br.tradingview.com/news/cointelegraph:e4f5340f6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:083a1b9d2bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Galaxy diz que projeto de lei cripto no Senado pode ampliar a autoridade de vigilância do Tesouro",
       "link": "https://br.tradingview.com/news/cointelegraph:083a1b9d2bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:b3af01091bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Animoca compra a Somo em meio à recuperação do mercado de NFTs no início de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:b3af01091bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5229afedcbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço do Dash dispara 125% com boom das moedas de privacidade e rali pode estar superaquecido?",
       "link": "https://br.tradingview.com/news/cointelegraph:5229afedcbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1e9b4a75cbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Paquistão firma acordo com empresa de criptomoedas ligada a Trump para pagamentos com stablecoin, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:1e9b4a75cbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Paquistão firma acordo com empresa de criptomoedas ligada a Trump para pagamentos com stablecoin, diz reportagem\" data-qa-id=\"news-headline-title\">Paquistão firma acordo com empresa de criptomoedas ligada a Trump para pagamentos com stablecoin, diz reportagem</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5101826edbc81:0",
-      "index": 12,
-      "title": "Ether em staking da BitMine chega a 1,5 milhão, equivalente a 4% do total em staking",
-      "link": "https://br.tradingview.com/news/cointelegraph:5101826edbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-14T18:00:16.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 18:00:16 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ether em staking da BitMine chega a 1,5 milhão, equivalente a 4% do total em staking\" data-qa-id=\"news-headline-title\">Ether em staking da BitMine chega a 1,5 milhão, equivalente a 4% do total em staking</div></div></article>"
     }
   ]
 }
