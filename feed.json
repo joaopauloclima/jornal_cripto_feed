@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-01-14T17:59:35.522Z",
+  "updated_at": "2026-01-14T18:31:05.354Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:18f8df64cbc81:0",
+      "id": "cointelegraph:1e9b4a75cbc81:0",
       "index": 0,
+      "title": "Paquistão firma acordo com empresa de criptomoedas ligada a Trump para pagamentos com stablecoin, diz reportagem",
+      "link": "https://br.tradingview.com/news/cointelegraph:1e9b4a75cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-14T18:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Paquistão firma acordo com empresa de criptomoedas ligada a Trump para pagamentos com stablecoin, diz reportagem\" data-qa-id=\"news-headline-title\">Paquistão firma acordo com empresa de criptomoedas ligada a Trump para pagamentos com stablecoin, diz reportagem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5101826edbc81:0",
+      "index": 1,
+      "title": "Ether em staking da BitMine chega a 1,5 milhão, equivalente a 4% do total em staking",
+      "link": "https://br.tradingview.com/news/cointelegraph:5101826edbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-14T18:00:16.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 18:00:16 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ether em staking da BitMine chega a 1,5 milhão, equivalente a 4% do total em staking\" data-qa-id=\"news-headline-title\">Ether em staking da BitMine chega a 1,5 milhão, equivalente a 4% do total em staking</div></div></article>"
+    },
+    {
+      "id": "beincrypto:652a8a5c8bc81:0",
+      "index": 2,
+      "title": "XRP se aproxima de US$ 2 enquanto sinais de sobrevenda indicam possível rally",
+      "link": "https://br.tradingview.com/news/beincrypto:652a8a5c8bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-01-14T17:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP se aproxima de US$ 2 enquanto sinais de sobrevenda indicam possível rally\" data-qa-id=\"news-headline-title\">XRP se aproxima de US$ 2 enquanto sinais de sobrevenda indicam possível rally</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:18f8df64cbc81:0",
+      "index": 3,
       "title": "Consumo energético de data centers de IA deve chegar a 600 terawatts em 2026, revela Moody's",
       "link": "https://br.tradingview.com/news/cointelegraph:18f8df64cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:45d0d1cd0bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Golpistas aproveitam ressarcimento a clientes do Banco Master para roubar criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:45d0d1cd0bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YF0RX:0",
-      "index": 2,
+      "index": 5,
       "title": "Ações ligadas a criptomoedas disparam com bitcoin atingindo máxima de dois meses",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YF0RX:0/",
       "source": "Reuters",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:84c006232bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Bitcoin esfria perto de US$ 96,5 mil enquanto mercados ignoram incerteza sobre tarifas nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:84c006232bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bb64543e3bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Compras de tesourarias cripto superam oferta de Bitcoin em 3 para 1",
       "link": "https://br.tradingview.com/news/cointelegraph:bb64543e3bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e56d7bec7bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Volume de mercados de previsão atinge recorde de US$ 702 milhões apesar do escrutínio recente",
       "link": "https://br.tradingview.com/news/cointelegraph:e56d7bec7bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:662676afbbc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Varejo recua para Bitcoin e Ether após o crash de outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:662676afbbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "beincrypto:8ee6240afbc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Padrão do Ethereum indica possibilidade de retorno aos US$ 4 mil",
       "link": "https://br.tradingview.com/news/beincrypto:8ee6240afbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:b1b832d1fbc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Volumes de pagamentos com stablecoins no Revolut dispararam 156% em 2025, estima pesquisador",
       "link": "https://br.tradingview.com/news/cointelegraph:b1b832d1fbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a5decd495bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Fluxos spot impulsionam alta do Bitcoin enquanto analistas apontam corrida para US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:a5decd495bc81:0/",
       "source": "Cointelegraph",
@@ -111,50 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 14:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fluxos spot impulsionam alta do Bitcoin enquanto analistas apontam corrida para US$ 100 mil\" data-qa-id=\"news-headline-title\">Fluxos spot impulsionam alta do Bitcoin enquanto analistas apontam corrida para US$ 100 mil</div></div></article>"
-    },
-    {
-      "id": "beincrypto:4c7cb8f63bc81:0",
-      "index": 10,
-      "title": "US$ 6 bilhões em compras de Bitcoin movimentam exchanges",
-      "link": "https://br.tradingview.com/news/beincrypto:4c7cb8f63bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-14T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"US$ 6 bilhões em compras de Bitcoin movimentam exchanges\" data-qa-id=\"news-headline-title\">US$ 6 bilhões em compras de Bitcoin movimentam exchanges</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0a20462b4bc81:0",
-      "index": 11,
-      "title": "Bitcoin forma liquidez para US$ 100 mil com chance de nova máxima em fevereiro, apontam análises",
-      "link": "https://br.tradingview.com/news/cointelegraph:0a20462b4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-14T13:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 13:50:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 13:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin forma liquidez para US$ 100 mil com chance de nova máxima em fevereiro, apontam análises\" data-qa-id=\"news-headline-title\">Bitcoin forma liquidez para US$ 100 mil com chance de nova máxima em fevereiro, apontam análises</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9e9cc1233bc81:0",
-      "index": 12,
-      "title": "Warren busca adiar pedido de banco da World Liberty até Trump cortar vínculos",
-      "link": "https://br.tradingview.com/news/cointelegraph:9e9cc1233bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-14T13:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Warren busca adiar pedido de banco da World Liberty até Trump cortar vínculos\" data-qa-id=\"news-headline-title\">Warren busca adiar pedido de banco da World Liberty até Trump cortar vínculos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:57efe099fbc81:0",
-      "index": 13,
-      "title": "Tempestade perfeita de atividade impulsiona alta recorde em novas carteiras Ethereum",
-      "link": "https://br.tradingview.com/news/cointelegraph:57efe099fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-14T13:10:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 13:10 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tempestade perfeita de atividade impulsiona alta recorde em novas carteiras Ethereum\" data-qa-id=\"news-headline-title\">Tempestade perfeita de atividade impulsiona alta recorde em novas carteiras Ethereum</div></div></article>"
     }
   ]
 }
