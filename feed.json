@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-14T10:00:27.872Z",
+  "updated_at": "2026-01-14T10:25:19.312Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8c0288bbabc81:0",
+      "id": "cointelegraph:86183a360bc81:0",
       "index": 0,
+      "title": "Gestora ícone da Faria Lima liquida investimentos em criptomoedas após queda de 30% do Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:86183a360bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-14T10:06:16.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 10:06:16 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 10:06 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Gestora ícone da Faria Lima liquida investimentos em criptomoedas após queda de 30% do Bitcoin\" data-qa-id=\"news-headline-title\">Gestora ícone da Faria Lima liquida investimentos em criptomoedas após queda de 30% do Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8c0288bbabc81:0",
+      "index": 1,
       "title": "Preço do Bitcoin hoje, 14/01/2026: Por que o BTC subiu hoje? Cripto rompe com US$ 95 mil com dados positivos do CPI",
       "link": "https://br.tradingview.com/news/cointelegraph:8c0288bbabc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:5da539a0dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin atinge maior valor em 50 dias com escalada das tensões entre EUA e Irã",
       "link": "https://br.tradingview.com/news/beincrypto:5da539a0dbc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b29cbfedcbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin sobe 5% e dispara acima de US$ 95 mil após dados do CPI nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:b29cbfedcbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:ebc4a35a2bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Traders de cripto no Brasil trocam o XRP por Ouro e abandonam a criptomoeda",
       "link": "https://br.tradingview.com/news/cointelegraph:ebc4a35a2bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:910164b9ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "5 estratégias do Banco Inter para 'sobreviver' no mercado de criptomoedas em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:910164b9ebc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6435d439cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Recuperação das criptomoedas em 2026 depende de três fatores, diz a Wintermute",
       "link": "https://br.tradingview.com/news/cointelegraph:6435d439cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:75bc0149dbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Gráfico do SOL mostra configuração 'obra-prima' para US$ 190 após tendência-chave virar de alta",
       "link": "https://br.tradingview.com/news/cointelegraph:75bc0149dbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:bb5ee7cc5bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Notícias Cripto: Mova, Binance alcança US$ 34 trilhões, Altside com autorização da CVM e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:bb5ee7cc5bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1f23dd8b8bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Polygon fecha acordo de US$ 250 milhões por Coinme e Sequence para impulsionar pagamentos com stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:1f23dd8b8bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:01aef4f1abc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin ignora atraso da Lei CLARITY e sobe acima de US$ 93 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:01aef4f1abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:159e2be37bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Monero se aproxima de US$ 700, mas risco de queda aumenta",
       "link": "https://br.tradingview.com/news/beincrypto:159e2be37bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:242e6164fbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "VanEck diz que clareza regulatória pode tornar o 1º trimestre um período 'risk-on'",
       "link": "https://br.tradingview.com/news/cointelegraph:242e6164fbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 20:40:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 20:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"VanEck diz que clareza regulatória pode tornar o 1º trimestre um período 'risk-on'\" data-qa-id=\"news-headline-title\">VanEck diz que clareza regulatória pode tornar o 1º trimestre um período 'risk-on'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8918d2172bc81:0",
-      "index": 12,
-      "title": "Franklin Templeton adapta fundos do mercado monetário às regras dos EUA para stablecoins",
-      "link": "https://br.tradingview.com/news/cointelegraph:8918d2172bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-13T20:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 13 Jan 2026 20:20:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de jan. de 2026, 20:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Franklin Templeton adapta fundos do mercado monetário às regras dos EUA para stablecoins\" data-qa-id=\"news-headline-title\">Franklin Templeton adapta fundos do mercado monetário às regras dos EUA para stablecoins</div></div></article>"
     }
   ]
 }
