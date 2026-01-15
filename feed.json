@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-15T22:58:33.963Z",
+  "updated_at": "2026-01-15T23:20:47.324Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:09dca09b7bc81:0",
+      "id": "cointelegraph:de378a123bc81:0",
       "index": 0,
+      "title": "‘Bitcoin Quantum’: Fork pioneiro testa soluções para proteger o BTC de ataques quânticos",
+      "link": "https://br.tradingview.com/news/cointelegraph:de378a123bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-15T23:09:27.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 23:09:27 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 23:09 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"‘Bitcoin Quantum’: Fork pioneiro testa soluções para proteger o BTC de ataques quânticos\" data-qa-id=\"news-headline-title\">‘Bitcoin Quantum’: Fork pioneiro testa soluções para proteger o BTC de ataques quânticos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:09dca09b7bc81:0",
+      "index": 1,
       "title": "Virada 'bancária' das criptomoedas deixa o JPMorgan em alerta",
       "link": "https://br.tradingview.com/news/cointelegraph:09dca09b7bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:bd4bda50abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Nova arrancada do Bitcoin rumo a US$ 100 mil é impulsionada por demanda institucional renovada",
       "link": "https://br.tradingview.com/news/cointelegraph:bd4bda50abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:61c62d7e6bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin precisa se manter acima de US$ 94 mil, diz trader, enquanto o BTC recua na abertura do mercado dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:61c62d7e6bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:be1bd90cdbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Esses três gráficos do XRP indicam uma alta de preço até US$ 2,80",
       "link": "https://br.tradingview.com/news/cointelegraph:be1bd90cdbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:b05cc62a2bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Por que a BitMine colocou US$ 200 mi em MrBeast e o que isso tem a ver com Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:b05cc62a2bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d931e610cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Reino Unido avalia banir redes sociais para menores de 16 anos em meio ao avanço da identificação online",
       "link": "https://br.tradingview.com/news/cointelegraph:d931e610cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:00215720abc81:0",
-      "index": 6,
+      "index": 7,
       "title": "BitMine vai investir US$ 200 milhões na Beast Industries, do youtuber MrBeast",
       "link": "https://br.tradingview.com/news/cointelegraph:00215720abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:376c94964bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Galaxy fecha seu primeiro acordo de empréstimo de US$ 75 milhões baseado em blockchain na Avalanche",
       "link": "https://br.tradingview.com/news/cointelegraph:376c94964bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:b8ca1bb3dbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Litecoin cai 46% desde o pico de 2025, mas baleias indicam virada",
       "link": "https://br.tradingview.com/news/beincrypto:b8ca1bb3dbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9f4eb0e8bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Projeto de lei de estrutura do mercado cripto dos EUA fica no limbo após setor retirar apoio",
       "link": "https://br.tradingview.com/news/cointelegraph:9f4eb0e8bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8eac5e080bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin exibe sinais clássicos de fundo enquanto o BTC se aproxima de retomar os US$ 101 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:8eac5e080bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:4a94724d0bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Polygon corta cerca de 30% dos funcionários em demissão em massa",
       "link": "https://br.tradingview.com/news/beincrypto:4a94724d0bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:8dafdb4c1bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Retomada do Bitcoin aos US$ 100 mil depende de rompimento dos US$ 98 mil e demanda à vista",
       "link": "https://br.tradingview.com/news/cointelegraph:8dafdb4c1bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Retomada do Bitcoin aos US$ 100 mil depende de rompimento dos US$ 98 mil e demanda à vista\" data-qa-id=\"news-headline-title\">Retomada do Bitcoin aos US$ 100 mil depende de rompimento dos US$ 98 mil e demanda à vista</div></div></article>"
-    },
-    {
-      "id": "beincrypto:3fa7bd616bc81:0",
-      "index": 13,
-      "title": "Atividade de staking do Ethereum atinge níveis históricos e quebra vários recordes",
-      "link": "https://br.tradingview.com/news/beincrypto:3fa7bd616bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-15T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">S</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Atividade de staking do Ethereum atinge níveis históricos e quebra vários recordes\" data-qa-id=\"news-headline-title\">Atividade de staking do Ethereum atinge níveis históricos e quebra vários recordes</div></div></article>"
     }
   ]
 }
