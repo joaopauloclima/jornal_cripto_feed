@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-15T13:31:48.440Z",
+  "updated_at": "2026-01-15T14:05:17.032Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:82157e096bc81:0",
+      "id": "cointelegraph:43758dab7bc81:0",
       "index": 0,
+      "title": "Índice de Medo e Ganância Cripto vira para 'ganância' pela primeira vez desde outubro",
+      "link": "https://br.tradingview.com/news/cointelegraph:43758dab7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-15T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Índice de Medo e Ganância Cripto vira para 'ganância' pela primeira vez desde outubro\" data-qa-id=\"news-headline-title\">Índice de Medo e Ganância Cripto vira para 'ganância' pela primeira vez desde outubro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:69d2742b5bc81:0",
+      "index": 1,
+      "title": "Ex-prefeito de Nova York, Eric Adams, nega ter retirado dinheiro de token controverso",
+      "link": "https://br.tradingview.com/news/cointelegraph:69d2742b5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-15T13:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 13:40:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ex-prefeito de Nova York, Eric Adams, nega ter retirado dinheiro de token controverso\" data-qa-id=\"news-headline-title\">Ex-prefeito de Nova York, Eric Adams, nega ter retirado dinheiro de token controverso</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:82157e096bc81:0",
+      "index": 2,
       "title": "Senadora Lummis espera adiamento do markup sobre estrutura de mercado cripto, afirma Bloomberg",
       "link": "https://br.tradingview.com/news/cointelegraph:82157e096bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:f396598c9bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin busca liquidez para US$ 105 mil, apontam análises",
       "link": "https://br.tradingview.com/news/cointelegraph:f396598c9bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d543d51ddbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Coinbase retira apoio a projeto de lei cripto: 'nenhum projeto' é melhor do que 'projeto ruim'",
       "link": "https://br.tradingview.com/news/cointelegraph:d543d51ddbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:673ba5f56bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Baleias ampliam acumulação de Chainlink após ETF de LINK",
       "link": "https://br.tradingview.com/news/beincrypto:673ba5f56bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:78bbebdcdbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Republicanos do Senado dos EUA dizem que projeto de estrutura de mercado não 'serve aos interesses da indústria'",
       "link": "https://br.tradingview.com/news/cointelegraph:78bbebdcdbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:79f3311c6bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin sobe com disparada de entradas em ETFs à vista, mas US$ 105 mil parece fora de alcance",
       "link": "https://br.tradingview.com/news/cointelegraph:79f3311c6bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:0e786dc95bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 15/01/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:0e786dc95bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:6980d3a61bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "3 criptomoedas acumulam até 314% enquanto o Bitcoin mira US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:6980d3a61bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:d0dc54ad6bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Na contramão global, grandes fortunas no Brasil ignoram Bitcoin e criptoativos em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:d0dc54ad6bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:003a61e7cbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do Bitcoin hoje, 15/01/2026: BTC sobe para US$ 97 mil e touros querem testar um rompimento em US$ 100 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:003a61e7cbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:4daf9a9efbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin está perdendo status de ‘ouro digital’ – e isso é ótimo, afirmam analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:4daf9a9efbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:9c99dc54ebc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Fundação Zcash diz que a SEC encerrou investigação de 2023 sobre criptomoeda de privacidade",
       "link": "https://br.tradingview.com/news/cointelegraph:9c99dc54ebc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCZEC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 23:40:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 23:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundação Zcash diz que a SEC encerrou investigação de 2023 sobre criptomoeda de privacidade\" data-qa-id=\"news-headline-title\">Fundação Zcash diz que a SEC encerrou investigação de 2023 sobre criptomoeda de privacidade</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2413d9b87bc81:0",
-      "index": 12,
-      "title": "Bitwise lista ETPs de Bitcoin, Ether e Solana na Nasdaq Estocolmo",
-      "link": "https://br.tradingview.com/news/cointelegraph:2413d9b87bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-14T23:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 23:20:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 23:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitwise lista ETPs de Bitcoin, Ether e Solana na Nasdaq Estocolmo\" data-qa-id=\"news-headline-title\">Bitwise lista ETPs de Bitcoin, Ether e Solana na Nasdaq Estocolmo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:af0108290bc81:0",
-      "index": 13,
-      "title": "CZ crava 'Bitcoin vai chegar a US$ 200 mil'",
-      "link": "https://br.tradingview.com/news/cointelegraph:af0108290bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-14T23:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 14 Jan 2026 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de jan. de 2026, 23:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CZ crava 'Bitcoin vai chegar a US$ 200 mil'\" data-qa-id=\"news-headline-title\">CZ crava 'Bitcoin vai chegar a US$ 200 mil'</div></div></article>"
     }
   ]
 }
