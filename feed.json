@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-15T19:58:51.081Z",
+  "updated_at": "2026-01-15T20:23:52.510Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8eac5e080bc81:0",
+      "id": "cointelegraph:376c94964bc81:0",
       "index": 0,
+      "title": "Galaxy fecha seu primeiro acordo de empréstimo de US$ 75 milhões baseado em blockchain na Avalanche",
+      "link": "https://br.tradingview.com/news/cointelegraph:376c94964bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-15T20:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 20:20:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 20:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Galaxy fecha seu primeiro acordo de empréstimo de US$ 75 milhões baseado em blockchain na Avalanche\" data-qa-id=\"news-headline-title\">Galaxy fecha seu primeiro acordo de empréstimo de US$ 75 milhões baseado em blockchain na Avalanche</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9f4eb0e8bbc81:0",
+      "index": 1,
+      "title": "Projeto de lei de estrutura do mercado cripto dos EUA fica no limbo após setor retirar apoio",
+      "link": "https://br.tradingview.com/news/cointelegraph:9f4eb0e8bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-15T20:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Projeto de lei de estrutura do mercado cripto dos EUA fica no limbo após setor retirar apoio\" data-qa-id=\"news-headline-title\">Projeto de lei de estrutura do mercado cripto dos EUA fica no limbo após setor retirar apoio</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8eac5e080bc81:0",
+      "index": 2,
       "title": "Bitcoin exibe sinais clássicos de fundo enquanto o BTC se aproxima de retomar os US$ 101 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:8eac5e080bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "beincrypto:4a94724d0bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Polygon corta cerca de 30% dos funcionários em demissão em massa",
       "link": "https://br.tradingview.com/news/beincrypto:4a94724d0bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8dafdb4c1bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Retomada do Bitcoin aos US$ 100 mil depende de rompimento dos US$ 98 mil e demanda à vista",
       "link": "https://br.tradingview.com/news/cointelegraph:8dafdb4c1bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:3fa7bd616bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Atividade de staking do Ethereum atinge níveis históricos e quebra vários recordes",
       "link": "https://br.tradingview.com/news/beincrypto:3fa7bd616bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:a206be1ecbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Lemon lança cartão de crédito lastreado em Bitcoin na Argentina, onde guardam dinheiro em espécie",
       "link": "https://br.tradingview.com/news/cointelegraph:a206be1ecbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d36844fb6bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Quem 'manda' no preço do Bitcoin? Relatório da Binance tem a resposta para 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:d36844fb6bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ac6932db2bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Queda das criptomoedas pressiona ETFs da ARK no 4º trimestre, e Coinbase lidera impacto negativo",
       "link": "https://br.tradingview.com/news/cointelegraph:ac6932db2bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:62886ee0abc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Atualização no Ethereum vai 'impedir' hackers de roubar ETH da sua carteira",
       "link": "https://br.tradingview.com/news/cointelegraph:62886ee0abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:3b71554b6bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "SWIFT testa stablecoin de euro em pagamentos de títulos tokenizados com a SG-Forge",
       "link": "https://br.tradingview.com/news/cointelegraph:3b71554b6bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:b5be95322bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Short squeeze atinge as 500 principais criptomoedas enquanto traders desfazem apostas de queda",
       "link": "https://br.tradingview.com/news/cointelegraph:b5be95322bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a74a2aa0bbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "ETFs de Bitcoin registram maiores entradas de 2026 até agora enquanto o BTC sobe acima de US$ 97 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:a74a2aa0bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YG0WJ:0",
-      "index": 11,
+      "index": 13,
       "title": "Interactive Brokers atinge recorde histórico após permitir financiamento 24 horas por dia, 7 dias por semana com stablecoins",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YG0WJ:0/",
       "source": "Reuters",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/interactive-brokers-group.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/interactive-brokers-group.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/indices/nasdaq-composite.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 16:36:35 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 16:36 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Interactive Brokers atinge recorde histórico após permitir financiamento 24 horas por dia, 7 dias por semana com stablecoins\" data-qa-id=\"news-headline-title\">Interactive Brokers atinge recorde histórico após permitir financiamento 24 horas por dia, 7 dias por semana com stablecoins</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f4fd88df7bc81:0",
-      "index": 12,
-      "title": "DeFi se afasta silenciosamente do Discord enquanto golpes inundam canais públicos",
-      "link": "https://br.tradingview.com/news/cointelegraph:f4fd88df7bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-15T16:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"DeFi se afasta silenciosamente do Discord enquanto golpes inundam canais públicos\" data-qa-id=\"news-headline-title\">DeFi se afasta silenciosamente do Discord enquanto golpes inundam canais públicos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1af71d8bebc81:0",
-      "index": 13,
-      "title": "'Groove' do Bitcoin deve voltar apesar de ouro e Nasdaq em destaque, segundo Arthur Hayes",
-      "link": "https://br.tradingview.com/news/cointelegraph:1af71d8bebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-15T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 15 Jan 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de jan. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Groove' do Bitcoin deve voltar apesar de ouro e Nasdaq em destaque, segundo Arthur Hayes\" data-qa-id=\"news-headline-title\">'Groove' do Bitcoin deve voltar apesar de ouro e Nasdaq em destaque, segundo Arthur Hayes</div></div></article>"
     }
   ]
 }
