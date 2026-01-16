@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-16T17:34:51.767Z",
+  "updated_at": "2026-01-16T17:58:47.703Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7c84b91debc81:0",
+      "id": "cointelegraph:7db7abfefbc81:0",
       "index": 0,
+      "title": "Trump diz que 'vazador da Venezuela' foi preso enquanto contas do Polymarket ficam em silêncio",
+      "link": "https://br.tradingview.com/news/cointelegraph:7db7abfefbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-16T17:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump diz que 'vazador da Venezuela' foi preso enquanto contas do Polymarket ficam em silêncio\" data-qa-id=\"news-headline-title\">Trump diz que 'vazador da Venezuela' foi preso enquanto contas do Polymarket ficam em silêncio</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7c84b91debc81:0",
+      "index": 1,
       "title": "Traders de Bitcoin preveem 'forte disparada' enquanto padrão clássico aponta US$ 113 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:7c84b91debc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f90e25cbfbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "De memecoins a máquinas: por que a narrativa da 'economia real' da Web3 é relevante em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:f90e25cbfbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a94cc0ba2bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Enem: governo anuncia ferramenta de IA para ajudar estudantes no Sisu",
       "link": "https://br.tradingview.com/news/cointelegraph:a94cc0ba2bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d7bbc7b58bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Sentimento cripto cai em meio a incertezas sobre projeto de lei de estrutura de mercado nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:d7bbc7b58bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8d15a87aabc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Atividade na Ethereum dobra com entrada de novos usuários, segundo a Glassnode",
       "link": "https://br.tradingview.com/news/cointelegraph:8d15a87aabc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:917bb7c07bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Infraestrutura e políticas cripto melhoraram em 2025, mas os preços 'não cooperaram', afirma Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:917bb7c07bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c71e91553bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "‘Só criptomoedas’: OnilX nega alerta da CVM de oferta de valores mobiliários",
       "link": "https://br.tradingview.com/news/cointelegraph:c71e91553bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c3b1ab4a1bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ecossistema cripto do Irã dispara para US$ 7,8 bilhões em meio a protestos em massa, afirma Chainalysis",
       "link": "https://br.tradingview.com/news/cointelegraph:c3b1ab4a1bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:67aaf2df7bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Stablecoin da Ripple atinge recorde em meio à estratégia institucional",
       "link": "https://br.tradingview.com/news/beincrypto:67aaf2df7bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ecff0e3ccbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Pix + blockchain + IA + cripto: a fusão que vai mudar o Sistema Financeiro em 2026, segundo analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:ecff0e3ccbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:a88558752bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Kaito encerra os 'Yaps' lastreados em cripto após o X banir pagamentos por 'AI slop'",
       "link": "https://br.tradingview.com/news/cointelegraph:a88558752bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:fe7c79632bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Rali do Bitcoin desmorona em US$ 97 mil enquanto funding rate estagna e traders de varejo ficam de fora",
       "link": "https://br.tradingview.com/news/cointelegraph:fe7c79632bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5ca0d60b3bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Trader transforma US$ 12 em mais de US$ 104 mil no Polymarket",
       "link": "https://br.tradingview.com/news/cointelegraph:5ca0d60b3bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 13:29:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 13:29 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trader transforma US$ 12 em mais de US$ 104 mil no Polymarket\" data-qa-id=\"news-headline-title\">Trader transforma US$ 12 em mais de US$ 104 mil no Polymarket</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:fe8f4bd90bc81:0",
-      "index": 13,
-      "title": "Contabilizei, Ligga Telecom, Santa Helena, Unico, TIVIT, QuintoAndar e Omni&Co divulgam novas vagas",
-      "link": "https://br.tradingview.com/news/cointelegraph:fe8f4bd90bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-16T13:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 13:20:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 13:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Contabilizei, Ligga Telecom, Santa Helena, Unico, TIVIT, QuintoAndar e Omni&amp;Co divulgam novas vagas\" data-qa-id=\"news-headline-title\">Contabilizei, Ligga Telecom, Santa Helena, Unico, TIVIT, QuintoAndar e Omni&amp;Co divulgam novas vagas</div></div></article>"
     }
   ]
 }
