@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-16T19:05:09.252Z",
+  "updated_at": "2026-01-16T19:53:41.536Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3d68c36ebbc81:0",
+      "id": "cointelegraph:5839149b0bc81:0",
       "index": 0,
+      "title": "Tudou Guarantee, ligada à Huione, encerra atividades após reembolsar US$ 130 milhões em USDT, diz a Bitrace",
+      "link": "https://br.tradingview.com/news/cointelegraph:5839149b0bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-16T19:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tudou Guarantee, ligada à Huione, encerra atividades após reembolsar US$ 130 milhões em USDT, diz a Bitrace\" data-qa-id=\"news-headline-title\">Tudou Guarantee, ligada à Huione, encerra atividades após reembolsar US$ 130 milhões em USDT, diz a Bitrace</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:db32ce935bc81:0",
+      "index": 1,
+      "title": "Receita da Web3 migra das blockchains para carteiras e apps de DeFi",
+      "link": "https://br.tradingview.com/news/cointelegraph:db32ce935bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-16T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Receita da Web3 migra das blockchains para carteiras e apps de DeFi\" data-qa-id=\"news-headline-title\">Receita da Web3 migra das blockchains para carteiras e apps de DeFi</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3d68c36ebbc81:0",
+      "index": 2,
       "title": "Quem fica com o rendimento? CLARITY Act vira disputa sobre dólares on-chain",
       "link": "https://br.tradingview.com/news/cointelegraph:3d68c36ebbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:6b0adf1bebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Belarus cria estrutura legal para 'criptobancos' em novo decreto presidencial",
       "link": "https://br.tradingview.com/news/cointelegraph:6b0adf1bebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:03c881e4fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Compras de ETFs de Ethereum superam nova oferta: isso levará o preço do ETH a US$ 4,5 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:03c881e4fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:5c0b28032bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Estrategista 'Greed & Fear' da Jefferies zera alocação em Bitcoin por risco quântico",
       "link": "https://br.tradingview.com/news/cointelegraph:5c0b28032bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:e1656352cbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Trump prepara leilão emergencial de energia e pode mexer com a mineração de Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:e1656352cbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7db7abfefbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Trump diz que 'vazador da Venezuela' foi preso enquanto contas do Polymarket ficam em silêncio",
       "link": "https://br.tradingview.com/news/cointelegraph:7db7abfefbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:7c84b91debc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Traders de Bitcoin preveem 'forte disparada' enquanto padrão clássico aponta US$ 113 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:7c84b91debc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f90e25cbfbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "De memecoins a máquinas: por que a narrativa da 'economia real' da Web3 é relevante em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:f90e25cbfbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:a94cc0ba2bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Enem: governo anuncia ferramenta de IA para ajudar estudantes no Sisu",
       "link": "https://br.tradingview.com/news/cointelegraph:a94cc0ba2bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d7bbc7b58bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Sentimento cripto cai em meio a incertezas sobre projeto de lei de estrutura de mercado nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:d7bbc7b58bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8d15a87aabc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Atividade na Ethereum dobra com entrada de novos usuários, segundo a Glassnode",
       "link": "https://br.tradingview.com/news/cointelegraph:8d15a87aabc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:917bb7c07bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Infraestrutura e políticas cripto melhoraram em 2025, mas os preços 'não cooperaram', afirma Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:917bb7c07bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Infraestrutura e políticas cripto melhoraram em 2025, mas os preços 'não cooperaram', afirma Binance\" data-qa-id=\"news-headline-title\">Infraestrutura e políticas cripto melhoraram em 2025, mas os preços 'não cooperaram', afirma Binance</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c71e91553bc81:0",
-      "index": 12,
-      "title": "‘Só criptomoedas’: OnilX nega alerta da CVM de oferta de valores mobiliários",
-      "link": "https://br.tradingview.com/news/cointelegraph:c71e91553bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-16T15:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"‘Só criptomoedas’: OnilX nega alerta da CVM de oferta de valores mobiliários\" data-qa-id=\"news-headline-title\">‘Só criptomoedas’: OnilX nega alerta da CVM de oferta de valores mobiliários</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c3b1ab4a1bc81:0",
-      "index": 13,
-      "title": "Ecossistema cripto do Irã dispara para US$ 7,8 bilhões em meio a protestos em massa, afirma Chainalysis",
-      "link": "https://br.tradingview.com/news/cointelegraph:c3b1ab4a1bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-16T15:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ecossistema cripto do Irã dispara para US$ 7,8 bilhões em meio a protestos em massa, afirma Chainalysis\" data-qa-id=\"news-headline-title\">Ecossistema cripto do Irã dispara para US$ 7,8 bilhões em meio a protestos em massa, afirma Chainalysis</div></div></article>"
     }
   ]
 }
