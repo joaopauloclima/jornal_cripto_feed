@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-16T20:57:06.644Z",
+  "updated_at": "2026-01-16T21:20:47.040Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:cf683d896bc81:0",
+      "id": "cointelegraph:8d6f2a0b2bc81:0",
       "index": 0,
+      "title": "Interactive Brokers vai permitir stablecoins para depósito em contas",
+      "link": "https://br.tradingview.com/news/cointelegraph:8d6f2a0b2bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-16T21:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Interactive Brokers vai permitir stablecoins para depósito em contas\" data-qa-id=\"news-headline-title\">Interactive Brokers vai permitir stablecoins para depósito em contas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:cf683d896bc81:0",
+      "index": 1,
       "title": "Bitcoin repete rali de 'mercado de baixa' de 2022 apesar de alta de 21% no preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:cf683d896bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:83b64736fbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin está no maior desconto em relação ao ouro: o preço do BTC vai se recuperar?",
       "link": "https://br.tradingview.com/news/cointelegraph:83b64736fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:8cf4da208bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin dispara e fluxos de ETFs se recuperam enquanto política cripto dos EUA trava: Finance Redefined",
       "link": "https://br.tradingview.com/news/cointelegraph:8cf4da208bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5839149b0bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Tudou Guarantee, ligada à Huione, encerra atividades após reembolsar US$ 130 milhões em USDT, diz a Bitrace",
       "link": "https://br.tradingview.com/news/cointelegraph:5839149b0bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:db32ce935bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Receita da Web3 migra das blockchains para carteiras e apps de DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:db32ce935bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3d68c36ebbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Quem fica com o rendimento? CLARITY Act vira disputa sobre dólares on-chain",
       "link": "https://br.tradingview.com/news/cointelegraph:3d68c36ebbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6b0adf1bebc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Belarus cria estrutura legal para 'criptobancos' em novo decreto presidencial",
       "link": "https://br.tradingview.com/news/cointelegraph:6b0adf1bebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:03c881e4fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Compras de ETFs de Ethereum superam nova oferta: isso levará o preço do ETH a US$ 4,5 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:03c881e4fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:5c0b28032bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Estrategista 'Greed & Fear' da Jefferies zera alocação em Bitcoin por risco quântico",
       "link": "https://br.tradingview.com/news/cointelegraph:5c0b28032bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:e1656352cbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Trump prepara leilão emergencial de energia e pode mexer com a mineração de Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:e1656352cbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:7db7abfefbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Trump diz que 'vazador da Venezuela' foi preso enquanto contas do Polymarket ficam em silêncio",
       "link": "https://br.tradingview.com/news/cointelegraph:7db7abfefbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7c84b91debc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Traders de Bitcoin preveem 'forte disparada' enquanto padrão clássico aponta US$ 113 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:7c84b91debc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:f90e25cbfbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "De memecoins a máquinas: por que a narrativa da 'economia real' da Web3 é relevante em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:f90e25cbfbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"De memecoins a máquinas: por que a narrativa da 'economia real' da Web3 é relevante em 2026\" data-qa-id=\"news-headline-title\">De memecoins a máquinas: por que a narrativa da 'economia real' da Web3 é relevante em 2026</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:a94cc0ba2bc81:0",
-      "index": 13,
-      "title": "Enem: governo anuncia ferramenta de IA para ajudar estudantes no Sisu",
-      "link": "https://br.tradingview.com/news/cointelegraph:a94cc0ba2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-16T16:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 16 Jan 2026 16:40:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de jan. de 2026, 16:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Enem: governo anuncia ferramenta de IA para ajudar estudantes no Sisu\" data-qa-id=\"news-headline-title\">Enem: governo anuncia ferramenta de IA para ajudar estudantes no Sisu</div></div></article>"
     }
   ]
 }
