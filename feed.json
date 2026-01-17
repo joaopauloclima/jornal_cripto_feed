@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-17T16:22:19.521Z",
+  "updated_at": "2026-01-17T16:57:42.694Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3a693ce1fbc81:0",
+      "id": "cointelegraph:04893adb6bc81:0",
       "index": 0,
+      "title": "Sacrifício dos valores da Ethereum em prol da adoção em massa deve parar agora, diz Vitalik Buterin",
+      "link": "https://br.tradingview.com/news/cointelegraph:04893adb6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-17T16:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 17 Jan 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de jan. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Sacrifício dos valores da Ethereum em prol da adoção em massa deve parar agora, diz Vitalik Buterin\" data-qa-id=\"news-headline-title\">Sacrifício dos valores da Ethereum em prol da adoção em massa deve parar agora, diz Vitalik Buterin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3a693ce1fbc81:0",
+      "index": 1,
       "title": "Banco cripto Anchorage Digital planeja captar US$ 400 milhões com IPO",
       "link": "https://br.tradingview.com/news/cointelegraph:3a693ce1fbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:4a3b8e6ebbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do ETH atinge US$ 3,4 mil, mas traders profissionais ainda não estão otimistas: veja por quê",
       "link": "https://br.tradingview.com/news/cointelegraph:4a3b8e6ebbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2466f64c6bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Departamento de Justiça dos EUA não vendeu os Bitcoins confiscados no caso Samourai, afirma assessor da Casa Branca",
       "link": "https://br.tradingview.com/news/cointelegraph:2466f64c6bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:16b27be26bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin pode enfrentar colapso em 7 a 11 anos, alerta fundador",
       "link": "https://br.tradingview.com/news/beincrypto:16b27be26bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:2d545725bbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Michael Saylor rebate críticas às empresas de tesouraria de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:2d545725bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f32bcbe7abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Traders de Bitcoin perdem terreno enquanto ursos do BTC defendem US$ 98 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:f32bcbe7abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fa362bd33bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETFs spot de Bitcoin atraem US$ 1,42 bilhão em melhor semana desde o início de outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:fa362bd33bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:842ce4607bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Vitalik Buterin admite que Ethereum teve retrocesso nos últimos 10 anos",
       "link": "https://br.tradingview.com/news/beincrypto:842ce4607bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c2da2c9fdbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "CEO do Goldman Sachs afirma que a Lei CLARITY 'ainda tem um longo caminho a percorrer'",
       "link": "https://br.tradingview.com/news/cointelegraph:c2da2c9fdbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f1eef7cd9bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Como usar Bitcoin e DeFi para antecipar a aposentadoria no Brasil, segundo especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:f1eef7cd9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9f2616f3bbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Mega baleia bilionária vai lançar fundo que combina imóveis e Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:9f2616f3bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:d351f17bbbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Fluxos de entrada em ETFs de Bitcoin ultrapassam US$ 1,8 bilhão: BTC vai reagir com um rali para US$ 100 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:d351f17bbbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:635333db0bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Credora americana Newrez vai aceitar criptomoedas como patrimônio na aprovação de hipotecas",
       "link": "https://br.tradingview.com/news/cointelegraph:635333db0bc81:0/",
       "source": "Cointelegraph",
