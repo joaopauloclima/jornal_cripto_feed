@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-18T15:54:08.521Z",
+  "updated_at": "2026-01-18T16:23:03.134Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9fb59297cbc81:0",
+      "id": "cointelegraph:36bfb1636bc81:0",
       "index": 0,
+      "title": "CEO da Coinbase nega conflito com a Casa Branca e afirma que negociações estão em andamento",
+      "link": "https://br.tradingview.com/news/cointelegraph:36bfb1636bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-18T16:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 18 Jan 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de jan. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO da Coinbase nega conflito com a Casa Branca e afirma que negociações estão em andamento\" data-qa-id=\"news-headline-title\">CEO da Coinbase nega conflito com a Casa Branca e afirma que negociações estão em andamento</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9fb59297cbc81:0",
+      "index": 1,
       "title": "Fila de saída dos validadores da Ethereum cai para zero com o aumento da demanda por staking",
       "link": "https://br.tradingview.com/news/cointelegraph:9fb59297cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:5e67f2da6bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Axie Infinity dispara mais de 100% e reacende interesse por GameFi; OWB, SAND e RON acompanham alta",
       "link": "https://br.tradingview.com/news/cointelegraph:5e67f2da6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:a981ab408bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Adapte-se ou morra: CEO da Solana Labs se opõe a Vitalik Buterin em relação à longevidade da blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:a981ab408bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:c43d7e0c6bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ouro tokenizado supera XRP em volume na América Latina, segundo Bitget",
       "link": "https://br.tradingview.com/news/beincrypto:c43d7e0c6bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:7e9e2ce0abc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Leis 'obscuras' paralisam reserva de Bitcoin nos EUA, diz diretor do Conselho de Criptomoedas da Casa Branca",
       "link": "https://br.tradingview.com/news/cointelegraph:7e9e2ce0abc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:0138e794ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "ETFs de Bitcoin registram entrada de US$ 1,4 bilhão nesta semana",
       "link": "https://br.tradingview.com/news/beincrypto:0138e794ebc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:5a8b73803bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Vitalik defende função de 'coleta de lixo' para reduzir 'peso' da Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:5a8b73803bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f05c1faebbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Notícias Cripto: Bitso conquista certificação, Nearx lança pós de Blockchain, BingX fecha com a Ferrari e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:f05c1faebbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:290e143fcbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "3 razões pelas quais o 'verdadeiro rompimento' do Bitcoin rumo aos US$ 107 mil começou",
       "link": "https://br.tradingview.com/news/cointelegraph:290e143fcbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:1e1893814bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Usuário perde US$ 282 milhões em um dos maiores roubos de criptomoedas por engenharia social",
       "link": "https://br.tradingview.com/news/cointelegraph:1e1893814bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8b7596526bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Casa Branca ameaça retirar apoio a projeto de lei cripto após impasse com a Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:8b7596526bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:04893adb6bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Sacrifício dos valores da Ethereum em prol da adoção em massa deve parar agora, diz Vitalik Buterin",
       "link": "https://br.tradingview.com/news/cointelegraph:04893adb6bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3a693ce1fbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Banco cripto Anchorage Digital planeja captar US$ 400 milhões com IPO",
       "link": "https://br.tradingview.com/news/cointelegraph:3a693ce1fbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 17 Jan 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de jan. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Banco cripto Anchorage Digital planeja captar US$ 400 milhões com IPO\" data-qa-id=\"news-headline-title\">Banco cripto Anchorage Digital planeja captar US$ 400 milhões com IPO</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4a3b8e6ebbc81:0",
-      "index": 13,
-      "title": "Preço do ETH atinge US$ 3,4 mil, mas traders profissionais ainda não estão otimistas: veja por quê",
-      "link": "https://br.tradingview.com/news/cointelegraph:4a3b8e6ebbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-17T15:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 17 Jan 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de jan. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do ETH atinge US$ 3,4 mil, mas traders profissionais ainda não estão otimistas: veja por quê\" data-qa-id=\"news-headline-title\">Preço do ETH atinge US$ 3,4 mil, mas traders profissionais ainda não estão otimistas: veja por quê</div></div></article>"
     }
   ]
 }
