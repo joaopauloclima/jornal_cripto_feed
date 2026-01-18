@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-18T12:34:52.899Z",
+  "updated_at": "2026-01-18T13:22:42.393Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f05c1faebbc81:0",
+      "id": "cointelegraph:5a8b73803bc81:0",
       "index": 0,
+      "title": "Vitalik defende função de 'coleta de lixo' para reduzir 'peso' da Ethereum",
+      "link": "https://br.tradingview.com/news/cointelegraph:5a8b73803bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-18T12:56:49.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 18 Jan 2026 12:56:49 GMT\" class=\"apply-common-tooltip\" title=\"18 de jan. de 2026, 12:56 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik defende função de 'coleta de lixo' para reduzir 'peso' da Ethereum\" data-qa-id=\"news-headline-title\">Vitalik defende função de 'coleta de lixo' para reduzir 'peso' da Ethereum</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f05c1faebbc81:0",
+      "index": 1,
       "title": "Notícias Cripto: Bitso conquista certificação, Nearx lança pós de Blockchain, BingX fecha com a Ferrari e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:f05c1faebbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:290e143fcbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "3 razões pelas quais o 'verdadeiro rompimento' do Bitcoin rumo aos US$ 107 mil começou",
       "link": "https://br.tradingview.com/news/cointelegraph:290e143fcbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1e1893814bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Usuário perde US$ 282 milhões em um dos maiores roubos de criptomoedas por engenharia social",
       "link": "https://br.tradingview.com/news/cointelegraph:1e1893814bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8b7596526bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Casa Branca ameaça retirar apoio a projeto de lei cripto após impasse com a Coinbase",
       "link": "https://br.tradingview.com/news/cointelegraph:8b7596526bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:04893adb6bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Sacrifício dos valores da Ethereum em prol da adoção em massa deve parar agora, diz Vitalik Buterin",
       "link": "https://br.tradingview.com/news/cointelegraph:04893adb6bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3a693ce1fbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Banco cripto Anchorage Digital planeja captar US$ 400 milhões com IPO",
       "link": "https://br.tradingview.com/news/cointelegraph:3a693ce1fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4a3b8e6ebbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do ETH atinge US$ 3,4 mil, mas traders profissionais ainda não estão otimistas: veja por quê",
       "link": "https://br.tradingview.com/news/cointelegraph:4a3b8e6ebbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:2466f64c6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Departamento de Justiça dos EUA não vendeu os Bitcoins confiscados no caso Samourai, afirma assessor da Casa Branca",
       "link": "https://br.tradingview.com/news/cointelegraph:2466f64c6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:16b27be26bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin pode enfrentar colapso em 7 a 11 anos, alerta fundador",
       "link": "https://br.tradingview.com/news/beincrypto:16b27be26bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:2d545725bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Michael Saylor rebate críticas às empresas de tesouraria de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:2d545725bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f32bcbe7abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Traders de Bitcoin perdem terreno enquanto ursos do BTC defendem US$ 98 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:f32bcbe7abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:fa362bd33bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "ETFs spot de Bitcoin atraem US$ 1,42 bilhão em melhor semana desde o início de outubro",
       "link": "https://br.tradingview.com/news/cointelegraph:fa362bd33bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 17 Jan 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de jan. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs spot de Bitcoin atraem US$ 1,42 bilhão em melhor semana desde o início de outubro\" data-qa-id=\"news-headline-title\">ETFs spot de Bitcoin atraem US$ 1,42 bilhão em melhor semana desde o início de outubro</div></div></article>"
-    },
-    {
-      "id": "beincrypto:842ce4607bc81:0",
-      "index": 12,
-      "title": "Vitalik Buterin admite que Ethereum teve retrocesso nos últimos 10 anos",
-      "link": "https://br.tradingview.com/news/beincrypto:842ce4607bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-17T13:08:50.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 17 Jan 2026 13:08:50 GMT\" class=\"apply-common-tooltip\" title=\"17 de jan. de 2026, 13:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik Buterin admite que Ethereum teve retrocesso nos últimos 10 anos\" data-qa-id=\"news-headline-title\">Vitalik Buterin admite que Ethereum teve retrocesso nos últimos 10 anos</div></div></article>"
     }
   ]
 }
