@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-18T18:25:59.492Z",
+  "updated_at": "2026-01-18T18:59:11.817Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:0db1b8557bc81:0",
+      "id": "cointelegraph:d3145174cbc81:0",
       "index": 0,
+      "title": "Paralisação da Lei CLARITY é positiva para o setor de criptomoedas, afirma analista",
+      "link": "https://br.tradingview.com/news/cointelegraph:d3145174cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-18T18:48:06.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 18 Jan 2026 18:48:06 GMT\" class=\"apply-common-tooltip\" title=\"18 de jan. de 2026, 18:48 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Paralisação da Lei CLARITY é positiva para o setor de criptomoedas, afirma analista\" data-qa-id=\"news-headline-title\">Paralisação da Lei CLARITY é positiva para o setor de criptomoedas, afirma analista</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0db1b8557bc81:0",
+      "index": 1,
       "title": "Steak 'n Shake anuncia aumento de US$ 10 milhões em suas reservas de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:0db1b8557bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f240ee289bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Especialista alerta que 80% dos projetos de criptomoedas hackeados nunca se recuperam totalmente",
       "link": "https://br.tradingview.com/news/cointelegraph:f240ee289bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:63f7ff2c7bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "mBridge, projeto de moeda digital de banco central (CBDC) liderado pela China, ultrapassa US$ 55 bilhões em transações internacionais",
       "link": "https://br.tradingview.com/news/cointelegraph:63f7ff2c7bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:36bfb1636bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "CEO da Coinbase nega conflito com a Casa Branca e afirma que negociações estão em andamento",
       "link": "https://br.tradingview.com/news/cointelegraph:36bfb1636bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9fb59297cbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Fila de saída dos validadores da Ethereum cai para zero com o aumento da demanda por staking",
       "link": "https://br.tradingview.com/news/cointelegraph:9fb59297cbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5e67f2da6bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Axie Infinity dispara mais de 100% e reacende interesse por GameFi; OWB, SAND e RON acompanham alta",
       "link": "https://br.tradingview.com/news/cointelegraph:5e67f2da6bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a981ab408bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Adapte-se ou morra: CEO da Solana Labs se opõe a Vitalik Buterin em relação à longevidade da blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:a981ab408bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:c43d7e0c6bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ouro tokenizado supera XRP em volume na América Latina, segundo Bitget",
       "link": "https://br.tradingview.com/news/beincrypto:c43d7e0c6bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:7e9e2ce0abc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Leis 'obscuras' paralisam reserva de Bitcoin nos EUA, diz diretor do Conselho de Criptomoedas da Casa Branca",
       "link": "https://br.tradingview.com/news/cointelegraph:7e9e2ce0abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:0138e794ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "ETFs de Bitcoin registram entrada de US$ 1,4 bilhão nesta semana",
       "link": "https://br.tradingview.com/news/beincrypto:0138e794ebc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5a8b73803bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Vitalik defende função de 'coleta de lixo' para reduzir 'peso' da Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:5a8b73803bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:f05c1faebbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Notícias Cripto: Bitso conquista certificação, Nearx lança pós de Blockchain, BingX fecha com a Ferrari e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:f05c1faebbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:290e143fcbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "3 razões pelas quais o 'verdadeiro rompimento' do Bitcoin rumo aos US$ 107 mil começou",
       "link": "https://br.tradingview.com/news/cointelegraph:290e143fcbc81:0/",
       "source": "Cointelegraph",
