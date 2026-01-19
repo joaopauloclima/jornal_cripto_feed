@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-19T17:35:20.299Z",
+  "updated_at": "2026-01-19T17:58:40.072Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:8d2a759dabc81:0",
+      "id": "cointelegraph:e344eeb95bc81:0",
       "index": 0,
+      "title": "ETPs de criptomoedas ganham força com US$ 2,2 bilhões em fluxos e Bitcoin lidera os ganhos",
+      "link": "https://br.tradingview.com/news/cointelegraph:e344eeb95bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-19T17:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 19 Jan 2026 17:40:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de jan. de 2026, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETPs de criptomoedas ganham força com US$ 2,2 bilhões em fluxos e Bitcoin lidera os ganhos\" data-qa-id=\"news-headline-title\">ETPs de criptomoedas ganham força com US$ 2,2 bilhões em fluxos e Bitcoin lidera os ganhos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:8d2a759dabc81:0",
+      "index": 1,
       "title": "Exchange de derivativos de criptomoedas Paradex relata interrupção e cancela ordens em aberto",
       "link": "https://br.tradingview.com/news/cointelegraph:8d2a759dabc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:3d478f321bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "CertiK vincula depósitos de US$ 63 milhões no Tornado Cash a comprometimento de carteira de US$ 282 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:3d478f321bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:f47f8b44dbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "US$ 3.050 vira nível crítico e ameaça pico do Ethereum em janeiro",
       "link": "https://br.tradingview.com/news/beincrypto:f47f8b44dbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:1c057e78ebc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Traders de Bitcoin nos EUA ficam pessimistas: o preço do BTC corre risco de perder os US$ 90 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:1c057e78ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8ea16b129bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Três razões pelas quais o preço da Ethereum permanece otimista acima de US$ 3.000",
       "link": "https://br.tradingview.com/news/cointelegraph:8ea16b129bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6dfb7df39bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Brics: Brasil quer criptomoeda própria, Índia defende CBDCs",
       "link": "https://br.tradingview.com/news/cointelegraph:6dfb7df39bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:81ed2761cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço da Monero mira US$ 1.150, mas alavancagem amplia risco",
       "link": "https://br.tradingview.com/news/beincrypto:81ed2761cbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:aedb5f0bcbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Vitalik Buterin pede um novo design de DAO para disputas onchain e governança",
       "link": "https://br.tradingview.com/news/cointelegraph:aedb5f0bcbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:03b128bd1bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "BTC vs. nova 'caça à liquidez' em US$ 80 mil: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:03b128bd1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:79113789ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Por que o 'walkaway test' da Ethereum e a prontidão quântica importam mais do que nunca",
       "link": "https://br.tradingview.com/news/cointelegraph:79113789ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:b9defe6a9bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Por que ataques de 'chave inglesa' estão se tornando uma das formas mais violentas de crimes cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:b9defe6a9bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:146065d6fbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin pode reagir a 4 eventos econômicos dos EUA esta semana",
       "link": "https://br.tradingview.com/news/beincrypto:146065d6fbc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3ac6eadfcbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Groenlândia adia, mas não esfria Bitcoin a US$ 100 mil, sugerem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:3ac6eadfcbc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 19 Jan 2026 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de jan. de 2026, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Groenlândia adia, mas não esfria Bitcoin a US$ 100 mil, sugerem especialistas\" data-qa-id=\"news-headline-title\">Groenlândia adia, mas não esfria Bitcoin a US$ 100 mil, sugerem especialistas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d99084906bc81:0",
-      "index": 13,
-      "title": "Open interest de futuros de Bitcoin se recupera 13% enquanto analistas veem retorno cauteloso do apetite por risco",
-      "link": "https://br.tradingview.com/news/cointelegraph:d99084906bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-19T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 19 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Open interest de futuros de Bitcoin se recupera 13% enquanto analistas veem retorno cauteloso do apetite por risco\" data-qa-id=\"news-headline-title\">Open interest de futuros de Bitcoin se recupera 13% enquanto analistas veem retorno cauteloso do apetite por risco</div></div></article>"
     }
   ]
 }
