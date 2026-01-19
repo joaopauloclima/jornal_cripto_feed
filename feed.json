@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-19T19:04:33.580Z",
+  "updated_at": "2026-01-19T19:28:58.100Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:5b2626425bc81:0",
+      "id": "cointelegraph:f7748d1c5bc81:0",
       "index": 0,
+      "title": "Mercado Bitcoin anuncia parceria com a Ativa e vai conectar cripto com ações, CDB, LCI, LCA, LC, debêntures e outros",
+      "link": "https://br.tradingview.com/news/cointelegraph:f7748d1c5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-19T19:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 19 Jan 2026 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de jan. de 2026, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado Bitcoin anuncia parceria com a Ativa e vai conectar cripto com ações, CDB, LCI, LCA, LC, debêntures e outros\" data-qa-id=\"news-headline-title\">Mercado Bitcoin anuncia parceria com a Ativa e vai conectar cripto com ações, CDB, LCI, LCA, LC, debêntures e outros</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5b2626425bc81:0",
+      "index": 1,
       "title": "Preço do XRP cai abaixo de US$ 2 apesar da demanda por ETFs e da rede robusta",
       "link": "https://br.tradingview.com/news/cointelegraph:5b2626425bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:c4fc20448bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "NYSE desenvolve plataforma de negociação 24/7 em blockchain para ações e ETFs tokenizados",
       "link": "https://br.tradingview.com/news/cointelegraph:c4fc20448bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0220805adbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Coreia do Sul desmantela esquema de remessas de US$ 100 milhões com WeChat e cripto, diz reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:0220805adbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:23f24b867bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Banco central da Índia propõe vincular moedas digitais do BRICS para comércio, diz Reuters",
       "link": "https://br.tradingview.com/news/cointelegraph:23f24b867bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:cad80d96abc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Fundos de cripto captam US$ 2,17 bi em meio a tensões geopolíticas e tarifas",
       "link": "https://br.tradingview.com/news/beincrypto:cad80d96abc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e344eeb95bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "ETPs de criptomoedas ganham força com US$ 2,2 bilhões em fluxos e Bitcoin lidera os ganhos",
       "link": "https://br.tradingview.com/news/cointelegraph:e344eeb95bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8d2a759dabc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Exchange de derivativos de criptomoedas Paradex relata interrupção e cancela ordens em aberto",
       "link": "https://br.tradingview.com/news/cointelegraph:8d2a759dabc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3d478f321bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "CertiK vincula depósitos de US$ 63 milhões no Tornado Cash a comprometimento de carteira de US$ 282 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:3d478f321bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:f47f8b44dbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "US$ 3.050 vira nível crítico e ameaça pico do Ethereum em janeiro",
       "link": "https://br.tradingview.com/news/beincrypto:f47f8b44dbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:1c057e78ebc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Traders de Bitcoin nos EUA ficam pessimistas: o preço do BTC corre risco de perder os US$ 90 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:1c057e78ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8ea16b129bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Três razões pelas quais o preço da Ethereum permanece otimista acima de US$ 3.000",
       "link": "https://br.tradingview.com/news/cointelegraph:8ea16b129bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6dfb7df39bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Brics: Brasil quer criptomoeda própria, Índia defende CBDCs",
       "link": "https://br.tradingview.com/news/cointelegraph:6dfb7df39bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 19 Jan 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de jan. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brics: Brasil quer criptomoeda própria, Índia defende CBDCs\" data-qa-id=\"news-headline-title\">Brics: Brasil quer criptomoeda própria, Índia defende CBDCs</div></div></article>"
-    },
-    {
-      "id": "beincrypto:81ed2761cbc81:0",
-      "index": 12,
-      "title": "Preço da Monero mira US$ 1.150, mas alavancagem amplia risco",
-      "link": "https://br.tradingview.com/news/beincrypto:81ed2761cbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-19T16:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 19 Jan 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de jan. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço da Monero mira US$ 1.150, mas alavancagem amplia risco\" data-qa-id=\"news-headline-title\">Preço da Monero mira US$ 1.150, mas alavancagem amplia risco</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:aedb5f0bcbc81:0",
-      "index": 13,
-      "title": "Vitalik Buterin pede um novo design de DAO para disputas onchain e governança",
-      "link": "https://br.tradingview.com/news/cointelegraph:aedb5f0bcbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-19T15:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 19 Jan 2026 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de jan. de 2026, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik Buterin pede um novo design de DAO para disputas onchain e governança\" data-qa-id=\"news-headline-title\">Vitalik Buterin pede um novo design de DAO para disputas onchain e governança</div></div></article>"
     }
   ]
 }
