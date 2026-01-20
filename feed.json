@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-20T18:03:26.387Z",
+  "updated_at": "2026-01-20T18:48:14.879Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:16c131c9cbc81:0",
+      "id": "cointelegraph:4de5f2a2cbc81:0",
       "index": 0,
+      "title": "Hipotecas com criptomoedas nos EUA enfrentam riscos de avaliação e incerteza regulatória",
+      "link": "https://br.tradingview.com/news/cointelegraph:4de5f2a2cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-20T18:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 20 Jan 2026 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de jan. de 2026, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Hipotecas com criptomoedas nos EUA enfrentam riscos de avaliação e incerteza regulatória\" data-qa-id=\"news-headline-title\">Hipotecas com criptomoedas nos EUA enfrentam riscos de avaliação e incerteza regulatória</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:4e72f5037bc81:0",
+      "index": 1,
+      "title": "WLFI enfrenta críticas após 'carteiras da equipe' aprovarem proposta de crescimento do USD1",
+      "link": "https://br.tradingview.com/news/cointelegraph:4e72f5037bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-20T18:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 20 Jan 2026 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de jan. de 2026, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"WLFI enfrenta críticas após 'carteiras da equipe' aprovarem proposta de crescimento do USD1\" data-qa-id=\"news-headline-title\">WLFI enfrenta críticas após 'carteiras da equipe' aprovarem proposta de crescimento do USD1</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:16c131c9cbc81:0",
+      "index": 2,
       "title": "Polymarket sofre novas repressões na Europa após Hungria e Portugal bloquearem o acesso",
       "link": "https://br.tradingview.com/news/cointelegraph:16c131c9cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:561b18d28bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin pisca sinais de compra enquanto US$ 90 mil se torna suporte-chave",
       "link": "https://br.tradingview.com/news/cointelegraph:561b18d28bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YL0WK:0",
-      "index": 2,
+      "index": 4,
       "title": "Armstrong, da Coinbase, está otimista em relação à legislação sobre criptomoedas, apesar de ter retirado o apoio anteriormente - Bloomberg News",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YL0WK:0/",
       "source": "Reuters",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6352e9f1ebc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Alvos de preço do Bitcoin se estendem até US$ 58 mil após BTC imprimir nova 'death cross'",
       "link": "https://br.tradingview.com/news/cointelegraph:6352e9f1ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YL0VZ:0",
-      "index": 4,
+      "index": 6,
       "title": "A Mastercard estaria avaliando um investimento na Zerohash após a empresa de criptomoedas encerrar as negociações de aquisição - CoinDesk",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YL0VZ:0/",
       "source": "Reuters",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4c63e29e8bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Apenas KYC pode impedir insider trading em mercados de previsão, diz Messari",
       "link": "https://br.tradingview.com/news/cointelegraph:4c63e29e8bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e95787cc5bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Detentores de Bitcoin veem primeira sequência de 30 dias de perdas realizadas desde o fim de 2023",
       "link": "https://br.tradingview.com/news/cointelegraph:e95787cc5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YL0TS:0",
-      "index": 7,
+      "index": 9,
       "title": "Acumulador de Bitcoin: Estratégia compra US$ 2,13 bilhões em Bitcoin em oito dias",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YL0TS:0/",
       "source": "Reuters",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:d3f1f7810bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Lupa da Receita no Pix mira lavagem de dinheiro e não a taxação, diz Haddad",
       "link": "https://br.tradingview.com/news/cointelegraph:d3f1f7810bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4633ce5c7bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Baleia da era Satoshi movimenta US$ 85 milhões em Bitcoin após 13 anos",
       "link": "https://br.tradingview.com/news/cointelegraph:4633ce5c7bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ad208d310bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Demanda institucional por Bitcoin permanece forte, afirma CryptoQuant",
       "link": "https://br.tradingview.com/news/cointelegraph:ad208d310bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:2fbcea4e5bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Pico de atividade na Ethereum pode estar ligado a ataques de dusting, diz pesquisador",
       "link": "https://br.tradingview.com/news/cointelegraph:2fbcea4e5bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 20 Jan 2026 15:20:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de jan. de 2026, 15:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pico de atividade na Ethereum pode estar ligado a ataques de dusting, diz pesquisador\" data-qa-id=\"news-headline-title\">Pico de atividade na Ethereum pode estar ligado a ataques de dusting, diz pesquisador</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:01f02af58bc81:0",
-      "index": 12,
-      "title": "'Condições internas' do Bitcoin estão melhorando, diz a Glassnode",
-      "link": "https://br.tradingview.com/news/cointelegraph:01f02af58bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-20T15:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 20 Jan 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de jan. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Condições internas' do Bitcoin estão melhorando, diz a Glassnode\" data-qa-id=\"news-headline-title\">'Condições internas' do Bitcoin estão melhorando, diz a Glassnode</div></div></article>"
     }
   ]
 }
