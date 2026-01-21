@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-21T17:45:59.434Z",
+  "updated_at": "2026-01-21T18:28:35.652Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3a93ee838bc81:0",
+      "id": "cointelegraph:2fb442a4ebc81:0",
       "index": 0,
+      "title": "SlowMist alerta para ataque na Snap Store do Linux que mira frases-semente de criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:2fb442a4ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-21T18:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SlowMist alerta para ataque na Snap Store do Linux que mira frases-semente de criptomoedas\" data-qa-id=\"news-headline-title\">SlowMist alerta para ataque na Snap Store do Linux que mira frases-semente de criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9d512ff7dbc81:0",
+      "index": 1,
+      "title": "Nansen lança ferramentas de trading cripto com IA na Base e Solana",
+      "link": "https://br.tradingview.com/news/cointelegraph:9d512ff7dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-21T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nansen lança ferramentas de trading cripto com IA na Base e Solana\" data-qa-id=\"news-headline-title\">Nansen lança ferramentas de trading cripto com IA na Base e Solana</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3a93ee838bc81:0",
+      "index": 2,
       "title": "Bitcoin preenche novo gap da CME de início de ano com queda abaixo de US$ 88 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:3a93ee838bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:094863cadbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Quase 80% dos brasileiros usam IA no trabalho ou no estudo, revela Google",
       "link": "https://br.tradingview.com/news/cointelegraph:094863cadbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:85449075dbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin consegue recuperar US$ 90 mil? Touros em risco com aumento das vendas por holders de longo prazo",
       "link": "https://br.tradingview.com/news/cointelegraph:85449075dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c39a18406bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Conselheiro cripto de Trump pede concessões para aprovar projeto de lei sobre cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:c39a18406bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:b70d0b01fbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "16 criptomoedas do Top 100 escapam da 'sangria' e sobem até 128% em 90 dias",
       "link": "https://br.tradingview.com/news/cointelegraph:b70d0b01fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bcdc316debc81:0",
-      "index": 5,
+      "index": 7,
       "title": "US$ 1,8 bilhão liquidado em 48 horas enquanto Bitcoin apaga ganhos de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:bcdc316debc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:89fa291ecbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Buscas e conversas sobre Bitcoin caíram em 2025 apesar de preços recordes",
       "link": "https://br.tradingview.com/news/cointelegraph:89fa291ecbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:8b365873cbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Trump Media avança em direção a airdrop inédito de token para acionistas",
       "link": "https://br.tradingview.com/news/cointelegraph:8b365873cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:78ee6eb98bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Cripto deve alcançar 50% da Fortune 500 em 2026, diz presidente da Ripple",
       "link": "https://br.tradingview.com/news/cointelegraph:78ee6eb98bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5f0eec72ebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Queda do mercado cripto se aprofunda enquanto investidores digerem ameaça de tarifas de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:5f0eec72ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:627481a8fbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "US$ 100 mil ainda é possível para o Bitcoin?",
       "link": "https://br.tradingview.com/news/beincrypto:627481a8fbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:15c7502fabc81:0",
-      "index": 11,
+      "index": 13,
       "title": "‘Smart money’ alocou US$ 3,2 bilhões em Bitcoin em 9 dias, afirma Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:15c7502fabc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"‘Smart money’ alocou US$ 3,2 bilhões em Bitcoin em 9 dias, afirma Santiment\" data-qa-id=\"news-headline-title\">‘Smart money’ alocou US$ 3,2 bilhões em Bitcoin em 9 dias, afirma Santiment</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bc5b2b1d4bc81:0",
-      "index": 12,
-      "title": "Governo brasileiro reage a nudes do Grok e abre nova frente de batalha contra Elon Musk",
-      "link": "https://br.tradingview.com/news/cointelegraph:bc5b2b1d4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-21T14:00:59.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 14:00:59 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Governo brasileiro reage a nudes do Grok e abre nova frente de batalha contra Elon Musk\" data-qa-id=\"news-headline-title\">Governo brasileiro reage a nudes do Grok e abre nova frente de batalha contra Elon Musk</div></div></article>"
-    },
-    {
-      "id": "beincrypto:51cc3203ebc81:0",
-      "index": 13,
-      "title": "Tesourarias de ativos digitais da Solana pausam compras de SOL com prejuízos crescentes",
-      "link": "https://br.tradingview.com/news/beincrypto:51cc3203ebc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-21T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">U</span></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tesourarias de ativos digitais da Solana pausam compras de SOL com prejuízos crescentes\" data-qa-id=\"news-headline-title\">Tesourarias de ativos digitais da Solana pausam compras de SOL com prejuízos crescentes</div></div></article>"
     }
   ]
 }
