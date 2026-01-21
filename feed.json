@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-21T22:02:09.767Z",
+  "updated_at": "2026-01-21T22:28:01.176Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e33e44cbabc81:0",
+      "id": "cointelegraph:5345c7772bc81:0",
       "index": 0,
+      "title": "Trump: EUA precisam 'garantir que a China não assuma o controle' das criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:5345c7772bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-21T22:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 22:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 22:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump: EUA precisam 'garantir que a China não assuma o controle' das criptomoedas\" data-qa-id=\"news-headline-title\">Trump: EUA precisam 'garantir que a China não assuma o controle' das criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c225bc3f5bc81:0",
+      "index": 1,
+      "title": "Tubarões do Bitcoin acumulam BTC como em 2013, apesar de 'bull trap perfeito'",
+      "link": "https://br.tradingview.com/news/cointelegraph:c225bc3f5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-21T22:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tubarões do Bitcoin acumulam BTC como em 2013, apesar de 'bull trap perfeito'\" data-qa-id=\"news-headline-title\">Tubarões do Bitcoin acumulam BTC como em 2013, apesar de 'bull trap perfeito'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e33e44cbabc81:0",
+      "index": 2,
       "title": "Bitcoin mira US$ 90 mil à medida que Trump prevê assinatura de lei cripto 'muito em breve'",
       "link": "https://br.tradingview.com/news/cointelegraph:e33e44cbabc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:fb3c536fcbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Relação Bitcoin-ouro cai para nova mínima, mas analistas dizem que 'oportunidades com desconto' do BTC são raras",
       "link": "https://br.tradingview.com/news/cointelegraph:fb3c536fcbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:82093118cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Empresa brasileira libera tokens RWA de imóveis no Brasil para investidores americanos",
       "link": "https://br.tradingview.com/news/cointelegraph:82093118cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d5d757847bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Próxima batalha das criptomoedas é a privacidade, mas reguladores enfrentam dilema do 'ovo e da galinha'",
       "link": "https://br.tradingview.com/news/cointelegraph:d5d757847bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:cdb52daefbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "ETFs de Bitcoin e Ether spot registram fortes saídas à medida que cresce a 'cautela institucional'",
       "link": "https://br.tradingview.com/news/cointelegraph:cdb52daefbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:751dce04cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Presidente do Banco da Itália diz que bancos, e não stablecoins, sustentam o dinheiro digital",
       "link": "https://br.tradingview.com/news/cointelegraph:751dce04cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:0c39cc641bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Preço da Monero cai 20%: sinal de alerta ou recuo estratégico?",
       "link": "https://br.tradingview.com/news/beincrypto:0c39cc641bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:08e9c3182bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Exchange argentina Ripio aposta em stablecoins de peso em meio a uma perspectiva cautelosa para 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:08e9c3182bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f8ade0443bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bancos centrais vs. Bitcoin: quem merece a confiança do público?",
       "link": "https://br.tradingview.com/news/cointelegraph:f8ade0443bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5467ab07dbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitpanda expande para ações e ETFs com aposta em uma exchange universal",
       "link": "https://br.tradingview.com/news/cointelegraph:5467ab07dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:8c86cea63bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Por que a cripto ainda não virou meio de pagamento no dia a dia?",
       "link": "https://br.tradingview.com/news/beincrypto:8c86cea63bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:f8ee2c443bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Jovens americanos apoiam as criptomoedas, enquanto baby boomers preferem bancos tradicionais, aponta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:f8ee2c443bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Jovens americanos apoiam as criptomoedas, enquanto baby boomers preferem bancos tradicionais, aponta pesquisa\" data-qa-id=\"news-headline-title\">Jovens americanos apoiam as criptomoedas, enquanto baby boomers preferem bancos tradicionais, aponta pesquisa</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2fb442a4ebc81:0",
-      "index": 12,
-      "title": "SlowMist alerta para ataque na Snap Store do Linux que mira frases-semente de criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:2fb442a4ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-21T18:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"SlowMist alerta para ataque na Snap Store do Linux que mira frases-semente de criptomoedas\" data-qa-id=\"news-headline-title\">SlowMist alerta para ataque na Snap Store do Linux que mira frases-semente de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:4e6dae346bc81:0",
-      "index": 13,
-      "title": "Computação quântica já impacta o Bitcoin: veja como",
-      "link": "https://br.tradingview.com/news/beincrypto:4e6dae346bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-21T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Computação quântica já impacta o Bitcoin: veja como\" data-qa-id=\"news-headline-title\">Computação quântica já impacta o Bitcoin: veja como</div></div></article>"
     }
   ]
 }
