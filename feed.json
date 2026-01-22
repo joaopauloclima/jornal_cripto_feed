@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-22T09:08:41.179Z",
+  "updated_at": "2026-01-22T10:02:56.616Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:55e8ed0f6bc81:0",
+      "id": "cointelegraph:cb2f454eabc81:0",
       "index": 0,
+      "title": "Taxas da Ethereum atingem mínimas de US$ 0,16 e golpes de ‘envenenamento de endereços’ disparam",
+      "link": "https://br.tradingview.com/news/cointelegraph:cb2f454eabc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-22T10:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 10:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 10:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Taxas da Ethereum atingem mínimas de US$ 0,16 e golpes de ‘envenenamento de endereços’ disparam\" data-qa-id=\"news-headline-title\">Taxas da Ethereum atingem mínimas de US$ 0,16 e golpes de ‘envenenamento de endereços’ disparam</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:55e8ed0f6bc81:0",
+      "index": 1,
       "title": "Depois do boom das stablecoins, Ark Invest indica setor cripto que vai atingir US$ 11 trilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:55e8ed0f6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:21629870ebc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Análise de preços em 21/01: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, XMR e LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:21629870ebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b431b8f74bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Steak ’n Shake adota programa de bônus em Bitcoin para funcionários pagos por hora",
       "link": "https://br.tradingview.com/news/cointelegraph:b431b8f74bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5345c7772bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Trump: EUA precisam 'garantir que a China não assuma o controle' das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:5345c7772bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c225bc3f5bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Tubarões do Bitcoin acumulam BTC como em 2013, apesar de 'bull trap perfeito'",
       "link": "https://br.tradingview.com/news/cointelegraph:c225bc3f5bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e33e44cbabc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin mira US$ 90 mil à medida que Trump prevê assinatura de lei cripto 'muito em breve'",
       "link": "https://br.tradingview.com/news/cointelegraph:e33e44cbabc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fb3c536fcbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Relação Bitcoin-ouro cai para nova mínima, mas analistas dizem que 'oportunidades com desconto' do BTC são raras",
       "link": "https://br.tradingview.com/news/cointelegraph:fb3c536fcbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:82093118cbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Empresa brasileira libera tokens RWA de imóveis no Brasil para investidores americanos",
       "link": "https://br.tradingview.com/news/cointelegraph:82093118cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d5d757847bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Próxima batalha das criptomoedas é a privacidade, mas reguladores enfrentam dilema do 'ovo e da galinha'",
       "link": "https://br.tradingview.com/news/cointelegraph:d5d757847bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:cdb52daefbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "ETFs de Bitcoin e Ether spot registram fortes saídas à medida que cresce a 'cautela institucional'",
       "link": "https://br.tradingview.com/news/cointelegraph:cdb52daefbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:751dce04cbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Presidente do Banco da Itália diz que bancos, e não stablecoins, sustentam o dinheiro digital",
       "link": "https://br.tradingview.com/news/cointelegraph:751dce04cbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:0c39cc641bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Preço da Monero cai 20%: sinal de alerta ou recuo estratégico?",
       "link": "https://br.tradingview.com/news/beincrypto:0c39cc641bc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:08e9c3182bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Exchange argentina Ripio aposta em stablecoins de peso em meio a uma perspectiva cautelosa para 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:08e9c3182bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 19:40:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 19:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Exchange argentina Ripio aposta em stablecoins de peso em meio a uma perspectiva cautelosa para 2026\" data-qa-id=\"news-headline-title\">Exchange argentina Ripio aposta em stablecoins de peso em meio a uma perspectiva cautelosa para 2026</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f8ade0443bc81:0",
-      "index": 13,
-      "title": "Bancos centrais vs. Bitcoin: quem merece a confiança do público?",
-      "link": "https://br.tradingview.com/news/cointelegraph:f8ade0443bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-21T19:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 21 Jan 2026 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de jan. de 2026, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bancos centrais vs. Bitcoin: quem merece a confiança do público?\" data-qa-id=\"news-headline-title\">Bancos centrais vs. Bitcoin: quem merece a confiança do público?</div></div></article>"
     }
   ]
 }
