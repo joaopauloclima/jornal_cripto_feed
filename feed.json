@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-22T18:03:19.065Z",
+  "updated_at": "2026-01-22T18:42:43.016Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:2ff29e4b0bc81:0",
+      "id": "cointelegraph:675c7d203bc81:0",
       "index": 0,
+      "title": "BitGo define preço do IPO em US$ 18 e ações começam a ser negociadas na NYSE",
+      "link": "https://br.tradingview.com/news/cointelegraph:675c7d203bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-22T18:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 18:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 18:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BitGo define preço do IPO em US$ 18 e ações começam a ser negociadas na NYSE\" data-qa-id=\"news-headline-title\">BitGo define preço do IPO em US$ 18 e ações começam a ser negociadas na NYSE</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:66ad9ff34bc81:0",
+      "index": 1,
+      "title": "Professor de Columbia diz que plano de tokenização da NYSE soa como 'vaporware'",
+      "link": "https://br.tradingview.com/news/cointelegraph:66ad9ff34bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-22T18:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 18:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 18:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Professor de Columbia diz que plano de tokenização da NYSE soa como 'vaporware'\" data-qa-id=\"news-headline-title\">Professor de Columbia diz que plano de tokenização da NYSE soa como 'vaporware'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2ff29e4b0bc81:0",
+      "index": 2,
       "title": "Ainda não há acordo com democratas sobre projeto cripto, confirma senador Boozman",
       "link": "https://br.tradingview.com/news/cointelegraph:2ff29e4b0bc81:0/",
       "source": "Cointelegraph",
@@ -14,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ainda não há acordo com democratas sobre projeto cripto, confirma senador Boozman\" data-qa-id=\"news-headline-title\">Ainda não há acordo com democratas sobre projeto cripto, confirma senador Boozman</div></div></article>"
     },
     {
+      "id": "tag:reuters.com,2026:newsml_L1N3YN104:0",
+      "index": 3,
+      "title": "BitGo estreia na bolsa com avaliação de US$ 2,59 bilhões, reabrindo a janela de IPOs de criptomoedas.",
+      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YN104:0/",
+      "source": "Reuters",
+      "published_at": "2026-01-22T17:43:53.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/bitgo.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/bitgo.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 17:43:53 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 17:43 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"BitGo estreia na bolsa com avaliação de US$ 2,59 bilhões, reabrindo a janela de IPOs de criptomoedas.\" data-qa-id=\"news-headline-title\">BitGo estreia na bolsa com avaliação de US$ 2,59 bilhões, reabrindo a janela de IPOs de criptomoedas.</div></div></article>"
+    },
+    {
       "id": "cointelegraph:c1f112d31bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Não aposte que investidores institucionais vão levar o Bitcoin a US$ 150 mil, aponta pesquisador",
       "link": "https://br.tradingview.com/news/cointelegraph:c1f112d31bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ef860cc2dbc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Binance lança ferramentas de IA para auxiliarem decisões dos investidores de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:ef860cc2dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:2244aef96bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Mercado cripto pode chegar a US$ 28 trilhões até 2030 com Bitcoin, DeFi e tokenização, aponta ARK",
       "link": "https://br.tradingview.com/news/cointelegraph:2244aef96bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4e98e1999bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Ações dos EUA e criptomoedas sobem após Trump pausar tarifas planejadas contra a Europa",
       "link": "https://br.tradingview.com/news/cointelegraph:4e98e1999bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5ae8493dcbc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Buterin sugere validadores distribuídos para simplificar o staking da Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:5ae8493dcbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:57e8e1376bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "PF mira grupo suspeito de lavar R$ 15,4 milhões em criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:57e8e1376bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "beincrypto:2439ed1a7bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Stablecoin USDT perde tração em janeiro e acende alerta de saída de capital",
       "link": "https://br.tradingview.com/news/beincrypto:2439ed1a7bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e786a3fadbc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Bitwise diz que o 4º trimestre mostrou sinais de fundo do mercado de baixa",
       "link": "https://br.tradingview.com/news/cointelegraph:e786a3fadbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:d647784f5bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Bitget Wallet lança staking de HYPE e amplia integração com a Hyperliquid para usuários do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:d647784f5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5d01f2d2fbc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Taxa de financiamento do ETH fica negativa, mas os touros do Ether vão cair na armadilha?",
       "link": "https://br.tradingview.com/news/cointelegraph:5d01f2d2fbc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Taxa de financiamento do ETH fica negativa, mas os touros do Ether vão cair na armadilha?\" data-qa-id=\"news-headline-title\">Taxa de financiamento do ETH fica negativa, mas os touros do Ether vão cair na armadilha?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:97a33e30fbc81:0",
-      "index": 11,
-      "title": "Vitalik Buterin torna as redes sociais descentralizadas uma prioridade máxima para 2026",
-      "link": "https://br.tradingview.com/news/cointelegraph:97a33e30fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-22T14:40:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik Buterin torna as redes sociais descentralizadas uma prioridade máxima para 2026\" data-qa-id=\"news-headline-title\">Vitalik Buterin torna as redes sociais descentralizadas uma prioridade máxima para 2026</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:06d38ca2ebc81:0",
-      "index": 12,
-      "title": "Comitê de Agricultura do Senado dos EUA deve divulgar versão atualizada do projeto de lei de estrutura de mercado",
-      "link": "https://br.tradingview.com/news/cointelegraph:06d38ca2ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-22T14:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Comitê de Agricultura do Senado dos EUA deve divulgar versão atualizada do projeto de lei de estrutura de mercado\" data-qa-id=\"news-headline-title\">Comitê de Agricultura do Senado dos EUA deve divulgar versão atualizada do projeto de lei de estrutura de mercado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9b8dfbd00bc81:0",
-      "index": 13,
-      "title": "Czar cripto dos EUA, Sacks, diz que bancos e cripto vão se fundir em 'uma única indústria de ativos digitais'",
-      "link": "https://br.tradingview.com/news/cointelegraph:9b8dfbd00bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-22T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Czar cripto dos EUA, Sacks, diz que bancos e cripto vão se fundir em 'uma única indústria de ativos digitais'\" data-qa-id=\"news-headline-title\">Czar cripto dos EUA, Sacks, diz que bancos e cripto vão se fundir em 'uma única indústria de ativos digitais'</div></div></article>"
     }
   ]
 }
