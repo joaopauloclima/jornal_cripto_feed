@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-22T23:21:37.712Z",
+  "updated_at": "2026-01-22T23:56:35.275Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:60a99198fbc81:0",
+      "id": "cointelegraph:7011823f5bc81:0",
       "index": 0,
+      "title": "Ex-CEO da Binance diz que mantém conversas com 'provavelmente uma dúzia de governos' sobre tokenização",
+      "link": "https://br.tradingview.com/news/cointelegraph:7011823f5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-22T23:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 23:40:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 23:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ex-CEO da Binance diz que mantém conversas com 'provavelmente uma dúzia de governos' sobre tokenização\" data-qa-id=\"news-headline-title\">Ex-CEO da Binance diz que mantém conversas com 'provavelmente uma dúzia de governos' sobre tokenização</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:735143136bc81:0",
+      "index": 1,
+      "title": "Entrada de 17 mil BTC em exchanges acende alerta: venda de BTC vai se aprofundar?",
+      "link": "https://br.tradingview.com/news/cointelegraph:735143136bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-22T23:20:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 23:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 23:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Entrada de 17 mil BTC em exchanges acende alerta: venda de BTC vai se aprofundar?\" data-qa-id=\"news-headline-title\">Entrada de 17 mil BTC em exchanges acende alerta: venda de BTC vai se aprofundar?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:60a99198fbc81:0",
+      "index": 2,
       "title": "Bitcoin não oferece 'refúgio' dos planos de Trump para a Groenlândia",
       "link": "https://br.tradingview.com/news/cointelegraph:60a99198fbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:54b0657f1bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Venda de BTC por 'mãos de diamante' do Bitcoin não deve ser uma 'repetição de 2017 e 2021', alerta pesquisa",
       "link": "https://br.tradingview.com/news/cointelegraph:54b0657f1bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:69651726cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Pantera Capital vê 'poda brutal' para tesourarias de criptomoedas em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:69651726cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:75fdfc156bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Maple leva o syrupUSDC para a Base e mira listagem na Aave V3",
       "link": "https://br.tradingview.com/news/cointelegraph:75fdfc156bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c25d9fe66bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ursos do Ethereum miram preço do ETH abaixo de US$ 2.000?",
       "link": "https://br.tradingview.com/news/cointelegraph:c25d9fe66bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c5b0549cabc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Stablecoin A7A5 ligada à Rússia movimentou US$ 100 bilhões antes das sanções, diz Elliptic",
       "link": "https://br.tradingview.com/news/cointelegraph:c5b0549cabc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:295c88c21bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "'Totalmente absurdo': CEO da Circle rejeita temores de corrida bancária por causa de rendimentos em stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:295c88c21bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L6N3YN1AO:0",
-      "index": 7,
+      "index": 9,
       "title": "BitGo estreia nos EUA valendo US$2,59 bi com a reabertura de IPOs de criptomoedas",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L6N3YN1AO:0/",
       "source": "Reuters",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:0d91ef425bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Liqi lança 7 tokens RWA de recebíveis com pagamento de até 163,26% do CDI",
       "link": "https://br.tradingview.com/news/cointelegraph:0d91ef425bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:1b5601cfebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "F/m, gestora de US$ 18 bilhões, busca aprovação da SEC para tokenizar ETF de títulos do Tesouro dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:1b5601cfebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ce17b511bbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Exchange lança plataforma com cursos gratuitos em inglês, como se tornar um influenciador e outros",
       "link": "https://br.tradingview.com/news/cointelegraph:ce17b511bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:c9116fa3ebc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Banco Central define regras para que bancos, como Itaú e Nubank, possam vender Bitcoin e cripto no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:c9116fa3ebc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 19:21:53 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 19:21 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Banco Central define regras para que bancos, como Itaú e Nubank, possam vender Bitcoin e cripto no Brasil\" data-qa-id=\"news-headline-title\">Banco Central define regras para que bancos, como Itaú e Nubank, possam vender Bitcoin e cripto no Brasil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9cf697630bc81:0",
-      "index": 12,
-      "title": "Analistas de Bitcoin preveem 'consolidação prolongada' para o preço do BTC",
-      "link": "https://br.tradingview.com/news/cointelegraph:9cf697630bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-22T19:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 19:20:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 19:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Analistas de Bitcoin preveem 'consolidação prolongada' para o preço do BTC\" data-qa-id=\"news-headline-title\">Analistas de Bitcoin preveem 'consolidação prolongada' para o preço do BTC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c33b92437bc81:0",
-      "index": 13,
-      "title": "Bitcoin Policy Institute, Fedi e Cornell estudarão a visão dos americanos sobre privacidade financeira",
-      "link": "https://br.tradingview.com/news/cointelegraph:c33b92437bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-22T19:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 22 Jan 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de jan. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin Policy Institute, Fedi e Cornell estudarão a visão dos americanos sobre privacidade financeira\" data-qa-id=\"news-headline-title\">Bitcoin Policy Institute, Fedi e Cornell estudarão a visão dos americanos sobre privacidade financeira</div></div></article>"
     }
   ]
 }
