@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-23T15:33:18.133Z",
+  "updated_at": "2026-01-23T16:01:31.379Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1545acc58bc81:0",
+      "id": "cointelegraph:13716ec2ebc81:0",
       "index": 0,
+      "title": "Endereços ativos diários da mainnet Ethereum superam todas as layer-2",
+      "link": "https://br.tradingview.com/news/cointelegraph:13716ec2ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-23T15:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 15:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Endereços ativos diários da mainnet Ethereum superam todas as layer-2\" data-qa-id=\"news-headline-title\">Endereços ativos diários da mainnet Ethereum superam todas as layer-2</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1545acc58bc81:0",
+      "index": 1,
       "title": "Opções de Bitcoin mostram que traders profissionais esperam mais queda, mas também planejam acumular",
       "link": "https://br.tradingview.com/news/cointelegraph:1545acc58bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:e7ff6708cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoiners rejeitam temores sobre computação quântica como causa da queda de preço",
       "link": "https://br.tradingview.com/news/cointelegraph:e7ff6708cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:5dff7465cbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Banco Capital One compra fintech de stablecoins Brex por US$ 5,15 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:5dff7465cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:1f092c164bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "'Literalmente bilhões' de agentes de IA usarão stablecoins em 5 anos, afirma CEO da Circle",
       "link": "https://br.tradingview.com/news/cointelegraph:1f092c164bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:151ccc2a4bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "US$ 2,3 bi em opções de Bitcoin e Ethereum vão expirar; volatilidade à vista?",
       "link": "https://br.tradingview.com/news/beincrypto:151ccc2a4bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ee153d47dbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Nasdaq pede remoção de limites de posição em opções de ETFs de Bitcoin e Ether",
       "link": "https://br.tradingview.com/news/cointelegraph:ee153d47dbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:b18c1d2a1bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Por que o mercado de criptomoedas está em alta hoje 23/01/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:b18c1d2a1bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:21cb935c2bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Trump processa o JPMorgan em tribunal da Flórida por US$ 5 bilhões por alegações de debanking, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:21cb935c2bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:bacfa19cbbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Appmax, Tecnofit e Asaas oferecem novas vagas home office e híbridas",
       "link": "https://br.tradingview.com/news/cointelegraph:bacfa19cbbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:acd106076bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "XRP pode cair 18% se perder suporte de US$ 1,80; investidores de curto prazo pressionam",
       "link": "https://br.tradingview.com/news/beincrypto:acd106076bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ab908e3c7bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Coinbase forma conselho para avaliar riscos da computação quântica à blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:ab908e3c7bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:91e4773e2bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Crescimento da oferta de stablecoins estagna à medida que regulação e rendimentos do Tesouro pressionam",
       "link": "https://br.tradingview.com/news/cointelegraph:91e4773e2bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:6b4e92be9bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Monero mantém US$ 500, mas risco crescente surge enquanto traders recuam",
       "link": "https://br.tradingview.com/news/beincrypto:6b4e92be9bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Monero mantém US$ 500, mas risco crescente surge enquanto traders recuam\" data-qa-id=\"news-headline-title\">Monero mantém US$ 500, mas risco crescente surge enquanto traders recuam</div></div></article>"
-    },
-    {
-      "id": "beincrypto:25b6acc47bc81:0",
-      "index": 13,
-      "title": "Onde está o fundo do Ethereum? Analistas avaliam",
-      "link": "https://br.tradingview.com/news/beincrypto:25b6acc47bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-23T12:30:14.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 12:30:14 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Onde está o fundo do Ethereum? Analistas avaliam\" data-qa-id=\"news-headline-title\">Onde está o fundo do Ethereum? Analistas avaliam</div></div></article>"
     }
   ]
 }
