@@ -1,10 +1,76 @@
 {
-  "updated_at": "2026-01-23T14:06:29.984Z",
+  "updated_at": "2026-01-23T15:02:48.761Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:21cb935c2bc81:0",
+      "id": "cointelegraph:e7ff6708cbc81:0",
       "index": 0,
+      "title": "Bitcoiners rejeitam temores sobre computação quântica como causa da queda de preço",
+      "link": "https://br.tradingview.com/news/cointelegraph:e7ff6708cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-23T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoiners rejeitam temores sobre computação quântica como causa da queda de preço\" data-qa-id=\"news-headline-title\">Bitcoiners rejeitam temores sobre computação quântica como causa da queda de preço</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5dff7465cbc81:0",
+      "index": 1,
+      "title": "Banco Capital One compra fintech de stablecoins Brex por US$ 5,15 bilhões",
+      "link": "https://br.tradingview.com/news/cointelegraph:5dff7465cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-23T14:57:47.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 14:57:47 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 14:57 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Banco Capital One compra fintech de stablecoins Brex por US$ 5,15 bilhões\" data-qa-id=\"news-headline-title\">Banco Capital One compra fintech de stablecoins Brex por US$ 5,15 bilhões</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1f092c164bc81:0",
+      "index": 2,
+      "title": "'Literalmente bilhões' de agentes de IA usarão stablecoins em 5 anos, afirma CEO da Circle",
+      "link": "https://br.tradingview.com/news/cointelegraph:1f092c164bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-23T14:40:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 14:40:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 14:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Literalmente bilhões' de agentes de IA usarão stablecoins em 5 anos, afirma CEO da Circle\" data-qa-id=\"news-headline-title\">'Literalmente bilhões' de agentes de IA usarão stablecoins em 5 anos, afirma CEO da Circle</div></div></article>"
+    },
+    {
+      "id": "beincrypto:151ccc2a4bc81:0",
+      "index": 3,
+      "title": "US$ 2,3 bi em opções de Bitcoin e Ethereum vão expirar; volatilidade à vista?",
+      "link": "https://br.tradingview.com/news/beincrypto:151ccc2a4bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-01-23T14:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"US$ 2,3 bi em opções de Bitcoin e Ethereum vão expirar; volatilidade à vista?\" data-qa-id=\"news-headline-title\">US$ 2,3 bi em opções de Bitcoin e Ethereum vão expirar; volatilidade à vista?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ee153d47dbc81:0",
+      "index": 4,
+      "title": "Nasdaq pede remoção de limites de posição em opções de ETFs de Bitcoin e Ether",
+      "link": "https://br.tradingview.com/news/cointelegraph:ee153d47dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-23T14:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 14:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nasdaq pede remoção de limites de posição em opções de ETFs de Bitcoin e Ether\" data-qa-id=\"news-headline-title\">Nasdaq pede remoção de limites de posição em opções de ETFs de Bitcoin e Ether</div></div></article>"
+    },
+    {
+      "id": "beincrypto:b18c1d2a1bc81:0",
+      "index": 5,
+      "title": "Por que o mercado de criptomoedas está em alta hoje 23/01/2026?",
+      "link": "https://br.tradingview.com/news/beincrypto:b18c1d2a1bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-01-23T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 23/01/2026?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 23/01/2026?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:21cb935c2bc81:0",
+      "index": 6,
       "title": "Trump processa o JPMorgan em tribunal da Flórida por US$ 5 bilhões por alegações de debanking, aponta reportagem",
       "link": "https://br.tradingview.com/news/cointelegraph:21cb935c2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +81,7 @@
     },
     {
       "id": "cointelegraph:bacfa19cbbc81:0",
-      "index": 1,
+      "index": 7,
       "title": "Appmax, Tecnofit e Asaas oferecem novas vagas home office e híbridas",
       "link": "https://br.tradingview.com/news/cointelegraph:bacfa19cbbc81:0/",
       "source": "Cointelegraph",
@@ -26,18 +92,18 @@
     },
     {
       "id": "beincrypto:acd106076bc81:0",
-      "index": 2,
-      "title": "Convicção dos investidores de XRP supera risco de queda de 18%?",
+      "index": 8,
+      "title": "XRP pode cair 18% se perder suporte de US$ 1,80; investidores de curto prazo pressionam",
       "link": "https://br.tradingview.com/news/beincrypto:acd106076bc81:0/",
       "source": "Beincrypto",
       "published_at": "2026-01-23T13:30:55.000Z",
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 13:30:55 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Convicção dos investidores de XRP supera risco de queda de 18%?\" data-qa-id=\"news-headline-title\">Convicção dos investidores de XRP supera risco de queda de 18%?</div></div></article>"
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 13:30:55 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP pode cair 18% se perder suporte de US$ 1,80; investidores de curto prazo pressionam\" data-qa-id=\"news-headline-title\">XRP pode cair 18% se perder suporte de US$ 1,80; investidores de curto prazo pressionam</div></div></article>"
     },
     {
       "id": "cointelegraph:ab908e3c7bc81:0",
-      "index": 3,
+      "index": 9,
       "title": "Coinbase forma conselho para avaliar riscos da computação quântica à blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:ab908e3c7bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +114,7 @@
     },
     {
       "id": "cointelegraph:91e4773e2bc81:0",
-      "index": 4,
+      "index": 10,
       "title": "Crescimento da oferta de stablecoins estagna à medida que regulação e rendimentos do Tesouro pressionam",
       "link": "https://br.tradingview.com/news/cointelegraph:91e4773e2bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +125,7 @@
     },
     {
       "id": "beincrypto:6b4e92be9bc81:0",
-      "index": 5,
+      "index": 11,
       "title": "Monero mantém US$ 500, mas risco crescente surge enquanto traders recuam",
       "link": "https://br.tradingview.com/news/beincrypto:6b4e92be9bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +136,7 @@
     },
     {
       "id": "beincrypto:25b6acc47bc81:0",
-      "index": 6,
+      "index": 12,
       "title": "Onde está o fundo do Ethereum? Analistas avaliam",
       "link": "https://br.tradingview.com/news/beincrypto:25b6acc47bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +147,7 @@
     },
     {
       "id": "cointelegraph:417702b8ebc81:0",
-      "index": 7,
+      "index": 13,
       "title": "Corregedoria Geral da Justiça proíbe oficialmente registro de tokens RWA de imóveis em SP",
       "link": "https://br.tradingview.com/news/cointelegraph:417702b8ebc81:0/",
       "source": "Cointelegraph",
@@ -89,61 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 12:21:31 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 12:21 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Corregedoria Geral da Justiça proíbe oficialmente registro de tokens RWA de imóveis em SP\" data-qa-id=\"news-headline-title\">Corregedoria Geral da Justiça proíbe oficialmente registro de tokens RWA de imóveis em SP</div></div></article>"
-    },
-    {
-      "id": "beincrypto:4b058148abc81:0",
-      "index": 8,
-      "title": "Pressão de venda do Bitcoin dispara 61% em um dia",
-      "link": "https://br.tradingview.com/news/beincrypto:4b058148abc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-23T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pressão de venda do Bitcoin dispara 61% em um dia\" data-qa-id=\"news-headline-title\">Pressão de venda do Bitcoin dispara 61% em um dia</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:746b9cc75bc81:0",
-      "index": 9,
-      "title": "Bitcoin elimina ganhos de 2026 e ameaça suporte de US$ 3 tri das criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:746b9cc75bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-23T11:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 11:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin elimina ganhos de 2026 e ameaça suporte de US$ 3 tri das criptomoedas\" data-qa-id=\"news-headline-title\">Bitcoin elimina ganhos de 2026 e ameaça suporte de US$ 3 tri das criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4b51f692dbc81:0",
-      "index": 10,
-      "title": "Pressão sobre mineradores de Bitcoin atinge nível do inverno cripto de 2022 e sinaliza capitulação",
-      "link": "https://br.tradingview.com/news/cointelegraph:4b51f692dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-23T10:51:51.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 10:51:51 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 10:51 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Pressão sobre mineradores de Bitcoin atinge nível do inverno cripto de 2022 e sinaliza capitulação\" data-qa-id=\"news-headline-title\">Pressão sobre mineradores de Bitcoin atinge nível do inverno cripto de 2022 e sinaliza capitulação</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f69ac8692bc81:0",
-      "index": 11,
-      "title": "Preço do Bitcoin hoje, 23/01/2026: BTC 'trava' abaixo de US$ 90 mil e pode cair ainda mais",
-      "link": "https://br.tradingview.com/news/cointelegraph:f69ac8692bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-23T10:04:30.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 10:04:30 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 10:04 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 23/01/2026: BTC 'trava' abaixo de US$ 90 mil e pode cair ainda mais\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 23/01/2026: BTC 'trava' abaixo de US$ 90 mil e pode cair ainda mais</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:436f77cccbc81:0",
-      "index": 12,
-      "title": "Por que ações tokenizadas ainda não decolaram no Brasil apesar do protagonismo do país em RWA?",
-      "link": "https://br.tradingview.com/news/cointelegraph:436f77cccbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-23T00:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 23 Jan 2026 00:20:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de jan. de 2026, 00:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que ações tokenizadas ainda não decolaram no Brasil apesar do protagonismo do país em RWA?\" data-qa-id=\"news-headline-title\">Por que ações tokenizadas ainda não decolaram no Brasil apesar do protagonismo do país em RWA?</div></div></article>"
     }
   ]
 }
