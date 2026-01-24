@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-24T20:56:15.952Z",
+  "updated_at": "2026-01-24T21:18:57.482Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7f1b25836bc81:0",
+      "id": "cointelegraph:f908b8a04bc81:0",
       "index": 0,
+      "title": "Memecoin PENGUIN dispara 564% após publicação da Casa Branca nas redes sociais",
+      "link": "https://br.tradingview.com/news/cointelegraph:f908b8a04bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-24T20:58:40.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 24 Jan 2026 20:58:40 GMT\" class=\"apply-common-tooltip\" title=\"24 de jan. de 2026, 20:58 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Memecoin PENGUIN dispara 564% após publicação da Casa Branca nas redes sociais\" data-qa-id=\"news-headline-title\">Memecoin PENGUIN dispara 564% após publicação da Casa Branca nas redes sociais</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7f1b25836bc81:0",
+      "index": 1,
       "title": "Nós do Bitcoin executando o protocolo BIP-110 ultrapassa 2% em meio à intensificação da guerra contra o spam",
       "link": "https://br.tradingview.com/news/cointelegraph:7f1b25836bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f59b737d2bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Democratas apresentam emendas com foco em ética ao projeto de lei sobre a estrutura do mercado de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:f59b737d2bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0dc27708bbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Regulador dos EUA ignora pressão de Elizabeth Warren e mantém licença bancária cripto ligada a Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:0dc27708bbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:4c7191210bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "A SEC rejeita ação civil contra a Gemini",
       "link": "https://br.tradingview.com/news/cointelegraph:4c7191210bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:38d8b1e53bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Binance confirma que deseja começar a vender ações tokenizadas e tokens RWA",
       "link": "https://br.tradingview.com/news/cointelegraph:38d8b1e53bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9ac4fc3c8bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Países da África estão adotando stablecoins para fugir da inflação",
       "link": "https://br.tradingview.com/news/cointelegraph:9ac4fc3c8bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:ec46e1183bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "CertiK mantém IPO em aberto mesmo com avaliação de mercado atingindo US$ 2 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:ec46e1183bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:b11696495bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ações da BitGo despencam após valorização no lançamento do IPO",
       "link": "https://br.tradingview.com/news/cointelegraph:b11696495bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:7b8202104bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Paradex reembolsou US$ 650 mil a 200 usuários após falha de manutenção causar liquidações",
       "link": "https://br.tradingview.com/news/cointelegraph:7b8202104bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8ad1b1bd0bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Proibir stablecoins de pagar juros aos holders pode levar o capital para paraísos fiscais",
       "link": "https://br.tradingview.com/news/cointelegraph:8ad1b1bd0bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:c782dcb07bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "GameStop movimenta todos os seus Bitcoins, sinalizando uma possível venda",
       "link": "https://br.tradingview.com/news/cointelegraph:c782dcb07bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:294b9c2a4bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ethereum se prepara para a era quântica com nova equipe de segurança e financiamento",
       "link": "https://br.tradingview.com/news/cointelegraph:294b9c2a4bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 24 Jan 2026 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de jan. de 2026, 12:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ethereum se prepara para a era quântica com nova equipe de segurança e financiamento\" data-qa-id=\"news-headline-title\">Ethereum se prepara para a era quântica com nova equipe de segurança e financiamento</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4dc624689bc81:0",
-      "index": 12,
-      "title": "Imposto polêmico na Holanda pode empurrar bilhões para fora do país",
-      "link": "https://br.tradingview.com/news/cointelegraph:4dc624689bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-24T12:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 24 Jan 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de jan. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Imposto polêmico na Holanda pode empurrar bilhões para fora do país\" data-qa-id=\"news-headline-title\">Imposto polêmico na Holanda pode empurrar bilhões para fora do país</div></div></article>"
     }
   ]
 }
