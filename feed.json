@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-27T11:34:34.575Z",
+  "updated_at": "2026-01-27T11:58:55.736Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:f428f4754bc81:0",
+      "id": "cointelegraph:5ff8d2bbcbc81:0",
       "index": 0,
+      "title": "Criptomoedas tentam reação enquanto Bitcoin espreita Fed e shutdown",
+      "link": "https://br.tradingview.com/news/cointelegraph:5ff8d2bbcbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-27T11:50:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 27 Jan 2026 11:50:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de jan. de 2026, 11:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas tentam reação enquanto Bitcoin espreita Fed e shutdown\" data-qa-id=\"news-headline-title\">Criptomoedas tentam reação enquanto Bitcoin espreita Fed e shutdown</div></div></article>"
+    },
+    {
+      "id": "beincrypto:f428f4754bc81:0",
+      "index": 1,
       "title": "Bitcoin pode despencar com risco de shutdown nos EUA nesta quinta-feira",
       "link": "https://br.tradingview.com/news/beincrypto:f428f4754bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:45ad16e49bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do Bitcoin hoje, 27/01/2026: BTC permanece travado abaixo de US$ 90 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:45ad16e49bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3eccb8396bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Com o Bitcoin abaixo de US$ 90 mil, o bull market acabou?",
       "link": "https://br.tradingview.com/news/cointelegraph:3eccb8396bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:402c25a27bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Strategy, de Michael Saylor, compra 2.932 Bitcoins em meio à venda generalizada do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:402c25a27bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8c7508d74bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Análise de preços em 26/01: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA e BCH",
       "link": "https://br.tradingview.com/news/cointelegraph:8c7508d74bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:22937a99abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin pode estar perto de um fundo macro impulsionado pelo dólar, e traders descartam repique para US$ 88 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:22937a99abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a8a66c46cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço do XRP pode 'decolar' até US$ 10, mas levará tempo, dizem traders",
       "link": "https://br.tradingview.com/news/cointelegraph:a8a66c46cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:ab2020302bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "26% das instituições apontam mercado de baixa, o que isso pode representar?",
       "link": "https://br.tradingview.com/news/beincrypto:ab2020302bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f6e91b4b6bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Empreender não é mais opção: Banco Central está empurrando o mercado cripto para bancos e grandes grupos",
       "link": "https://br.tradingview.com/news/cointelegraph:f6e91b4b6bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8ec56ceedbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Prêmio do Bitcoin na Coinbase segue profundamente negativo: preço do BTC em US$ 66 mil é o próximo?",
       "link": "https://br.tradingview.com/news/cointelegraph:8ec56ceedbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:2fd308be0bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "BlackRock avança no mercado cripto e solicita novo ETF de Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:2fd308be0bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c1a48bd96bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Fase de 'formação de fundo' do preço do BTC chega ao fim: cinco coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:c1a48bd96bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:d03375d5abc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Bitcoin e cripto ajudam Nubank a atingir 112 milhões de clientes e ser o maior banco do Brasil em usuários",
       "link": "https://br.tradingview.com/news/cointelegraph:d03375d5abc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 26 Jan 2026 16:04:03 GMT\" class=\"apply-common-tooltip\" title=\"26 de jan. de 2026, 16:04 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin e cripto ajudam Nubank a atingir 112 milhões de clientes e ser o maior banco do Brasil em usuários\" data-qa-id=\"news-headline-title\">Bitcoin e cripto ajudam Nubank a atingir 112 milhões de clientes e ser o maior banco do Brasil em usuários</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4f7b77f99bc81:0",
-      "index": 13,
-      "title": "Metaplanet eleva projeções para 2026 enquanto baixa contábil de Bitcoin supera US$ 680 milhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:4f7b77f99bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-26T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 26 Jan 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de jan. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Metaplanet eleva projeções para 2026 enquanto baixa contábil de Bitcoin supera US$ 680 milhões\" data-qa-id=\"news-headline-title\">Metaplanet eleva projeções para 2026 enquanto baixa contábil de Bitcoin supera US$ 680 milhões</div></div></article>"
     }
   ]
 }
