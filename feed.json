@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-28T12:42:45.270Z",
+  "updated_at": "2026-01-28T13:39:20.902Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:dad2154ecbc81:0",
+      "id": "cointelegraph:8990e935dbc81:0",
       "index": 0,
+      "title": "Detran-PR já tem 1.000 veículos registrados em blockchain com novo sistema de \"RG digital tokenizado\"",
+      "link": "https://br.tradingview.com/news/cointelegraph:8990e935dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-28T13:09:23.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 28 Jan 2026 13:09:23 GMT\" class=\"apply-common-tooltip\" title=\"28 de jan. de 2026, 13:09 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Detran-PR já tem 1.000 veículos registrados em blockchain com novo sistema de &quot;RG digital tokenizado&quot;\" data-qa-id=\"news-headline-title\">Detran-PR já tem 1.000 veículos registrados em blockchain com novo sistema de \"RG digital tokenizado\"</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:376aa828ebc81:0",
+      "index": 1,
+      "title": "Empresas públicas aumentam holdings de Bitcoin apesar de preços lateralizados",
+      "link": "https://br.tradingview.com/news/cointelegraph:376aa828ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-28T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 28 Jan 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de jan. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Empresas públicas aumentam holdings de Bitcoin apesar de preços lateralizados\" data-qa-id=\"news-headline-title\">Empresas públicas aumentam holdings de Bitcoin apesar de preços lateralizados</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:dad2154ecbc81:0",
+      "index": 2,
       "title": "Tribunal Superior Eleitoral pode rever lei que proíbe Bitcoin, stablecoins e criptomoedas nas eleições 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:dad2154ecbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:fa551a5b3bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Novos fluxos de capital podem impulsionar 6 criptomoedas em fevereiro, aponta análise",
       "link": "https://br.tradingview.com/news/cointelegraph:fa551a5b3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:078387d5fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Preço do Bitcoin hoje, 28/01/2026: BTC em alta de 1,8%, mas ainda 'dormindo' em negociação lateral",
       "link": "https://br.tradingview.com/news/cointelegraph:078387d5fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8be3b0ab7bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Tucker Carlson pressiona Peter Schiff sobre o Bitcoin como nova moeda de reserva global",
       "link": "https://br.tradingview.com/news/cointelegraph:8be3b0ab7bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:324233be8bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Stablecoins são uma ameaça real aos depósitos bancários, diz o Standard Chartered",
       "link": "https://br.tradingview.com/news/cointelegraph:324233be8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:aad5aed58bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Preço do Bitcoin pode buscar fundo abaixo de US$ 80.000 nesta semana, indica nova previsão de Wyckoff",
       "link": "https://br.tradingview.com/news/cointelegraph:aad5aed58bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c69f59665bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Gráfico do Bitcoin frente ao ouro está completamente quebrado?",
       "link": "https://br.tradingview.com/news/cointelegraph:c69f59665bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b1170ae0fbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Veja por que traders dizem que o preço do Ethereum em US$ 10.000 ainda está no radar",
       "link": "https://br.tradingview.com/news/cointelegraph:b1170ae0fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:957b8f5c0bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Cruz de baixa da linha de tendência do Bitcoin imita 2022 em meio a ruptura 'insana' do BTC frente à prata",
       "link": "https://br.tradingview.com/news/cointelegraph:957b8f5c0bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5bfe6b3a8bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Sinal de alta 'mais preciso' do Bitcoin sugere reversão no preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:5bfe6b3a8bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:0b3abeddebc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Hashrate do Bitcoin cai temporariamente a níveis de meados de 2025 em meio a tempestade de inverno nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:0b3abeddebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:70d52b18fbc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Brasil cede ao pessimismo do Bitcoin e retira R$ 9 milhões de fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:70d52b18fbc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 27 Jan 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de jan. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil cede ao pessimismo do Bitcoin e retira R$ 9 milhões de fundos de criptomoedas\" data-qa-id=\"news-headline-title\">Brasil cede ao pessimismo do Bitcoin e retira R$ 9 milhões de fundos de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:8141ac4b5bc81:0",
-      "index": 12,
-      "title": "Empresa compra 40 mil Ethereum em uma semana e já controla 3,5% de todo o fornecimento",
-      "link": "https://br.tradingview.com/news/beincrypto:8141ac4b5bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-01-27T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">B</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 27 Jan 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de jan. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Empresa compra 40 mil Ethereum em uma semana e já controla 3,5% de todo o fornecimento\" data-qa-id=\"news-headline-title\">Empresa compra 40 mil Ethereum em uma semana e já controla 3,5% de todo o fornecimento</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e51fe2b41bc81:0",
-      "index": 13,
-      "title": "Lee, da Fundstrat, vê retomada cripto quando os metais preciosos esfriarem",
-      "link": "https://br.tradingview.com/news/cointelegraph:e51fe2b41bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-27T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 27 Jan 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de jan. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Lee, da Fundstrat, vê retomada cripto quando os metais preciosos esfriarem\" data-qa-id=\"news-headline-title\">Lee, da Fundstrat, vê retomada cripto quando os metais preciosos esfriarem</div></div></article>"
     }
   ]
 }
