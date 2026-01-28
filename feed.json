@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-28T20:30:59.934Z",
+  "updated_at": "2026-01-28T21:07:07.640Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:de8a5feccbc81:0",
+      "id": "cointelegraph:4cacbc178bc81:0",
       "index": 0,
+      "title": "Preço do HYPE dispara 58% em meio à explosão da negociação de commodities na Hyperliquid",
+      "link": "https://br.tradingview.com/news/cointelegraph:4cacbc178bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-28T21:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 28 Jan 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de jan. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do HYPE dispara 58% em meio à explosão da negociação de commodities na Hyperliquid\" data-qa-id=\"news-headline-title\">Preço do HYPE dispara 58% em meio à explosão da negociação de commodities na Hyperliquid</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:de8a5feccbc81:0",
+      "index": 1,
       "title": "Nível de equilíbrio de US$ 86.000 dos ETFs de Bitcoin entra em foco com fluxos de grandes corretoras dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:de8a5feccbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:0aabf590dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ouro supera US$ 5.300 enquanto a Tether acumula ouro em barras e a Coinbase promove futuros",
       "link": "https://br.tradingview.com/news/cointelegraph:0aabf590dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d95e29cadbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Avanço das finanças digitais no Brasil inclui ESG, desbancarizados e mercados de previsão, dizem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:d95e29cadbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5eab86b48bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin mira US$ 90 mil antes do FOMC: acompanhe estes próximos níveis de preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:5eab86b48bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:8cd5d7b67bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "O que esperar do preço da Solana em fevereiro de 2026?",
       "link": "https://br.tradingview.com/news/beincrypto:8cd5d7b67bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f351d5ddcbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Uma intervenção do Fed para sustentar os títulos do Japão pode impulsionar o Bitcoin, afirma Arthur Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:f351d5ddcbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fed802f67bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "US$ 10,8 bilhões em opções de Bitcoin expiram nesta semana: touros vão perseguir US$ 95 mil após o vencimento?",
       "link": "https://br.tradingview.com/news/cointelegraph:fed802f67bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:9bac30f4abc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin e Ethereum iniciam 2026 com menor risco, apontam analistas",
       "link": "https://br.tradingview.com/news/beincrypto:9bac30f4abc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:87e3eeac7bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Hype de prata e ouro supera cripto nas redes sociais, afirma Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:87e3eeac7bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:ed5a0a01fbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Hackers exigem US$ 5 mil em Bitcoin após ataque a prefeitura na Espanha",
       "link": "https://br.tradingview.com/news/beincrypto:ed5a0a01fbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:13ebe76ecbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Fraqueza do mercado cripto persiste, mas métricas da Ethereum indicam rali até US$ 3.300",
       "link": "https://br.tradingview.com/news/cointelegraph:13ebe76ecbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:81c1f88dcbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin testa US$ 90 mil antes de decisão do Fed, mas analistas veem alívio temporário",
       "link": "https://br.tradingview.com/news/beincrypto:81c1f88dcbc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:8990e935dbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Detran-PR já tem 1.000 veículos registrados em blockchain com novo sistema de \"RG digital tokenizado\"",
       "link": "https://br.tradingview.com/news/cointelegraph:8990e935dbc81:0/",
       "source": "Cointelegraph",
