@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-01-31T18:00:41.181Z",
+  "updated_at": "2026-01-31T18:31:42.702Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:ece1de417bc81:0",
+      "id": "beincrypto:9c7082d96bc81:0",
       "index": 0,
+      "title": "Bitcoin perde US$ 80 mil após queda de 5% em 24 horas: US$ 1,6 bilhão é liquidado",
+      "link": "https://br.tradingview.com/news/beincrypto:9c7082d96bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-01-31T17:40:31.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 31 Jan 2026 17:40:31 GMT\" class=\"apply-common-tooltip\" title=\"31 de jan. de 2026, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin perde US$ 80 mil após queda de 5% em 24 horas: US$ 1,6 bilhão é liquidado\" data-qa-id=\"news-headline-title\">Bitcoin perde US$ 80 mil após queda de 5% em 24 horas: US$ 1,6 bilhão é liquidado</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ece1de417bc81:0",
+      "index": 1,
       "title": "Medo extremo persistente no mercado cripto é um sinal 'fortemente altista', afirma Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:ece1de417bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:19fe5926cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Participações da Tether em títulos do Tesouro dos EUA atingem recordes; lucros caem 23% ano a ano",
       "link": "https://br.tradingview.com/news/cointelegraph:19fe5926cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:eefb82a90bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin a US$ 81 mil é fundo do bear market ou caminho para US$ 32 mil? Analistas divergem",
       "link": "https://br.tradingview.com/news/beincrypto:eefb82a90bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:82d7c6834bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Opções de Bitcoin ficam pessimistas enquanto BTC flerta com queda abaixo de US$ 80 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:82d7c6834bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:38f079ca8bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Com o mercado em queda, analistas indicam 5 criptomoedas para comprar em fevereiro",
       "link": "https://br.tradingview.com/news/cointelegraph:38f079ca8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3c2e3ef11bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Notícias Cripto: lançamento do Bitpedia, Trexx Vault, agente de IA gera US$ 100 mil, RACA, OutsetPR e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:3c2e3ef11bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:24d1a1540bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Liquidações derrubam o Bitcoin do top 10 dos maiores ativos do mundo",
       "link": "https://br.tradingview.com/news/cointelegraph:24d1a1540bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:946a007ebbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Análise de preços em 30/01: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e XMR",
       "link": "https://br.tradingview.com/news/cointelegraph:946a007ebbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:8ee9ea013bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Nubank obtém aprovação condicional nos EUA para formar um banco nacional",
       "link": "https://br.tradingview.com/news/cointelegraph:8ee9ea013bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9572443debc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Trump escolhe Kevin Warsh, favorável às criptomoedas, como novo presidente do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:9572443debc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4c540331bbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Ethereum perde suporte de US$ 2.800 e gráficos apontam possível queda de 22%",
       "link": "https://br.tradingview.com/news/cointelegraph:4c540331bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:d2461ca2abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Notícias Cripto: Henrique Giron na Obsidiam, Bloomberg com campeonato de investimentos, BingX e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:d2461ca2abc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:668f66ef4bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Mercado de baixa do Bitcoin está perto do fim? Métrica de preço do BTC supera o fundo de 2022",
       "link": "https://br.tradingview.com/news/cointelegraph:668f66ef4bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 30 Jan 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de jan. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado de baixa do Bitcoin está perto do fim? Métrica de preço do BTC supera o fundo de 2022\" data-qa-id=\"news-headline-title\">Mercado de baixa do Bitcoin está perto do fim? Métrica de preço do BTC supera o fundo de 2022</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:eb57b8e1abc81:0",
-      "index": 13,
-      "title": "Tokens RWA crescem 2.249% em um ano no Brasil e mercado já movimentou R$ 6 bilhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:eb57b8e1abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-30T19:44:39.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 30 Jan 2026 19:44:39 GMT\" class=\"apply-common-tooltip\" title=\"30 de jan. de 2026, 19:44 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tokens RWA crescem 2.249% em um ano no Brasil e mercado já movimentou R$ 6 bilhões\" data-qa-id=\"news-headline-title\">Tokens RWA crescem 2.249% em um ano no Brasil e mercado já movimentou R$ 6 bilhões</div></div></article>"
     }
   ]
 }
