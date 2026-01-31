@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-01-31T11:56:43.393Z",
+  "updated_at": "2026-01-31T12:40:20.413Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:24d1a1540bc81:0",
+      "id": "cointelegraph:38f079ca8bc81:0",
       "index": 0,
+      "title": "Com o mercado em queda, analistas indicam 5 criptomoedas para comprar em fevereiro",
+      "link": "https://br.tradingview.com/news/cointelegraph:38f079ca8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-31T12:27:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 31 Jan 2026 12:27:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de jan. de 2026, 12:27 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Com o mercado em queda, analistas indicam 5 criptomoedas para comprar em fevereiro\" data-qa-id=\"news-headline-title\">Com o mercado em queda, analistas indicam 5 criptomoedas para comprar em fevereiro</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3c2e3ef11bc81:0",
+      "index": 1,
+      "title": "Notícias Cripto: lançamento do Bitpedia, Trexx Vault, agente de IA gera US$ 100 mil, RACA, OutsetPR e outras novidades",
+      "link": "https://br.tradingview.com/news/cointelegraph:3c2e3ef11bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-01-31T12:26:30.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 31 Jan 2026 12:26:30 GMT\" class=\"apply-common-tooltip\" title=\"31 de jan. de 2026, 12:26 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Notícias Cripto: lançamento do Bitpedia, Trexx Vault, agente de IA gera US$ 100 mil, RACA, OutsetPR e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: lançamento do Bitpedia, Trexx Vault, agente de IA gera US$ 100 mil, RACA, OutsetPR e outras novidades</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:24d1a1540bc81:0",
+      "index": 2,
       "title": "Liquidações derrubam o Bitcoin do top 10 dos maiores ativos do mundo",
       "link": "https://br.tradingview.com/news/cointelegraph:24d1a1540bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:946a007ebbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Análise de preços em 30/01: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e XMR",
       "link": "https://br.tradingview.com/news/cointelegraph:946a007ebbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:8ee9ea013bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Nubank obtém aprovação condicional nos EUA para formar um banco nacional",
       "link": "https://br.tradingview.com/news/cointelegraph:8ee9ea013bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9572443debc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Trump escolhe Kevin Warsh, favorável às criptomoedas, como novo presidente do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:9572443debc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4c540331bbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ethereum perde suporte de US$ 2.800 e gráficos apontam possível queda de 22%",
       "link": "https://br.tradingview.com/news/cointelegraph:4c540331bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d2461ca2abc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Notícias Cripto: Henrique Giron na Obsidiam, Bloomberg com campeonato de investimentos, BingX e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:d2461ca2abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:668f66ef4bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Mercado de baixa do Bitcoin está perto do fim? Métrica de preço do BTC supera o fundo de 2022",
       "link": "https://br.tradingview.com/news/cointelegraph:668f66ef4bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:eb57b8e1abc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Tokens RWA crescem 2.249% em um ano no Brasil e mercado já movimentou R$ 6 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:eb57b8e1abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:072207b12bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Vitalik Buterin destina US$ 45 milhões em ETH para privacidade e infraestrutura de código aberto",
       "link": "https://br.tradingview.com/news/cointelegraph:072207b12bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2c8ce9d19bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Nubank quer oferecer custódia de Bitcoin e criptomoedas nos EUA e recebe aprovação para lançar um banco em solo americano",
       "link": "https://br.tradingview.com/news/cointelegraph:2c8ce9d19bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:95d1e01c8bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Trump diz que acordo para evitar shutdown está próximo, mas mercados seguem em alerta",
       "link": "https://br.tradingview.com/news/cointelegraph:95d1e01c8bc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 30 Jan 2026 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de jan. de 2026, 17:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump diz que acordo para evitar shutdown está próximo, mas mercados seguem em alerta\" data-qa-id=\"news-headline-title\">Trump diz que acordo para evitar shutdown está próximo, mas mercados seguem em alerta</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1c6f75619bc81:0",
-      "index": 11,
-      "title": "Bitcoin perde suporte crucial de US$ 84 mil: até onde o preço do BTC pode cair?",
-      "link": "https://br.tradingview.com/news/cointelegraph:1c6f75619bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-30T16:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 30 Jan 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de jan. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin perde suporte crucial de US$ 84 mil: até onde o preço do BTC pode cair?\" data-qa-id=\"news-headline-title\">Bitcoin perde suporte crucial de US$ 84 mil: até onde o preço do BTC pode cair?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bfce6970bbc81:0",
-      "index": 12,
-      "title": "Bitcoin tenta reagir com Kevin Warsh no Fed enquanto baleias fazem jogo dos ursos",
-      "link": "https://br.tradingview.com/news/cointelegraph:bfce6970bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-30T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 30 Jan 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de jan. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin tenta reagir com Kevin Warsh no Fed enquanto baleias fazem jogo dos ursos\" data-qa-id=\"news-headline-title\">Bitcoin tenta reagir com Kevin Warsh no Fed enquanto baleias fazem jogo dos ursos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1f883e590bc81:0",
-      "index": 13,
-      "title": "'Êxodo de mineradores' do Bitcoin pode empurrar o preço do BTC abaixo de US$ 60 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:1f883e590bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-01-30T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 30 Jan 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de jan. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"'Êxodo de mineradores' do Bitcoin pode empurrar o preço do BTC abaixo de US$ 60 mil\" data-qa-id=\"news-headline-title\">'Êxodo de mineradores' do Bitcoin pode empurrar o preço do BTC abaixo de US$ 60 mil</div></div></article>"
     }
   ]
 }
