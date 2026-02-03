@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-03T00:03:20.558Z",
+  "updated_at": "2026-02-03T02:37:16.353Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:5303ec0dfbc81:0",
+      "id": "cointelegraph:ad1a23b02bc81:0",
       "index": 0,
+      "title": "Análise de preços em 02/02: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH",
+      "link": "https://br.tradingview.com/news/cointelegraph:ad1a23b02bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-03T01:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 01:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 01:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Análise de preços em 02/02: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH\" data-qa-id=\"news-headline-title\">Análise de preços em 02/02: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c11eefeb0bc81:0",
+      "index": 1,
+      "title": "Mercado de alta do Bitcoin 'chegou ao fim?' Preço do BTC registra o 4º mês consecutivo de queda",
+      "link": "https://br.tradingview.com/news/cointelegraph:c11eefeb0bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-03T00:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 00:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 00:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mercado de alta do Bitcoin 'chegou ao fim?' Preço do BTC registra o 4º mês consecutivo de queda\" data-qa-id=\"news-headline-title\">Mercado de alta do Bitcoin 'chegou ao fim?' Preço do BTC registra o 4º mês consecutivo de queda</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5303ec0dfbc81:0",
+      "index": 2,
       "title": "Indicação de Trump para o Fed é um sinal 'misto' para o Bitcoin e a liquidez dos EUA, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:5303ec0dfbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:dfbeea4f7bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Com RWA movimentando R$ 6 bilhões, Liqi mira expansão e quer captar US$ 10 milhões no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:dfbeea4f7bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:017862f8dbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Preço do XRP corre risco de repetir queda de 2022 à medida que novos compradores ficam no prejuízo",
       "link": "https://br.tradingview.com/news/cointelegraph:017862f8dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:5479a1015bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Binance compra a queda com a primeira compra de US$ 100 milhões em Bitcoin do fundo SAFU de US$ 1 bilhão",
       "link": "https://br.tradingview.com/news/cointelegraph:5479a1015bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YY116:0",
-      "index": 4,
+      "index": 6,
       "title": "Robinhood cai com Bitcoin próximo da mínima de 10 meses",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YY116:0/",
       "source": "Reuters",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:67261a717bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Galinha dos ovos de blockchain: Brasil rastreia produção de ovos e farelo de soja com a tecnologia do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:67261a717bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YY10O:0",
-      "index": 6,
+      "index": 8,
       "title": "A volatilidade do mercado de criptomoedas desencadeia liquidações de bitcoin no valor de US$ 2,5 bilhões",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YY10O:0/",
       "source": "Reuters",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:ef2c7b17dbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Probabilidade do Bitcoin cair abaixo de US$ 65 mil sobe para 72% no Polymarket",
       "link": "https://br.tradingview.com/news/cointelegraph:ef2c7b17dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:1c51dbc82bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Brasil compra a queda do Bitcoin e investe R$ 8,9 milhões em fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:1c51dbc82bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:b90f53c4ebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do BTC volta ao patamar de 2021: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:b90f53c4ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:167588e0abc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Empresa que emite 100% dos boletos no Brasil anuncia lançamento de stablecoin própria lastreada em Reais",
       "link": "https://br.tradingview.com/news/cointelegraph:167588e0abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "beincrypto:8e4a698b2bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Ripple libera 1 bi de XRP enquanto fraqueza do preço se estende em fevereiro",
       "link": "https://br.tradingview.com/news/beincrypto:8e4a698b2bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Feb 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de fev. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ripple libera 1 bi de XRP enquanto fraqueza do preço se estende em fevereiro\" data-qa-id=\"news-headline-title\">Ripple libera 1 bi de XRP enquanto fraqueza do preço se estende em fevereiro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:64e2d2499bc81:0",
-      "index": 12,
-      "title": "Liquidação cripto provavelmente se deve à seca de liquidez nos EUA, afirma analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:64e2d2499bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-02T16:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Feb 2026 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de fev. de 2026, 16:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Liquidação cripto provavelmente se deve à seca de liquidez nos EUA, afirma analista\" data-qa-id=\"news-headline-title\">Liquidação cripto provavelmente se deve à seca de liquidez nos EUA, afirma analista</div></div></article>"
-    },
-    {
-      "id": "beincrypto:e2afa7e89bc81:0",
-      "index": 13,
-      "title": "Bitcoin pode cair para US$ 63 mil? Análise preocupa invesitdores",
-      "link": "https://br.tradingview.com/news/beincrypto:e2afa7e89bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-02T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Feb 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de fev. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin pode cair para US$ 63 mil? Análise preocupa invesitdores\" data-qa-id=\"news-headline-title\">Bitcoin pode cair para US$ 63 mil? Análise preocupa invesitdores</div></div></article>"
     }
   ]
 }
