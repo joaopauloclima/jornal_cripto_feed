@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-03T18:39:25.341Z",
+  "updated_at": "2026-02-03T20:09:42.791Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:391c734e9bc81:0",
+      "id": "tag:reuters.com,2026:newsml_L1N3YZ15Q:0",
       "index": 0,
+      "title": "Ações ligadas a criptomoedas despencam com o bitcoin atingindo a menor cotação desde a eleição de Trump.",
+      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YZ15Q:0/",
+      "source": "Reuters",
+      "published_at": "2026-02-03T19:36:07.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 19:36:07 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 19:36 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações ligadas a criptomoedas despencam com o bitcoin atingindo a menor cotação desde a eleição de Trump.\" data-qa-id=\"news-headline-title\">Ações ligadas a criptomoedas despencam com o bitcoin atingindo a menor cotação desde a eleição de Trump.</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:133390c27bc81:0",
+      "index": 1,
+      "title": "Bitcoin cai para US$ 73 mil em nova onda de baixa de 6% e ursos podem derrubar preço para US$ 58 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:133390c27bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-03T19:23:12.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 19:23:12 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 19:23 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin cai para US$ 73 mil em nova onda de baixa de 6% e ursos podem derrubar preço para US$ 58 mil\" data-qa-id=\"news-headline-title\">Bitcoin cai para US$ 73 mil em nova onda de baixa de 6% e ursos podem derrubar preço para US$ 58 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:391c734e9bc81:0",
+      "index": 2,
       "title": "Volumes à vista de cripto despencam para mínimas de 2024 à medida que a demanda dos investidores enfraquece",
       "link": "https://br.tradingview.com/news/cointelegraph:391c734e9bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2d691f44bbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin pode cair para US$ 56 mil enquanto razões para alta 'seguem difíceis de encontrar', afirma Galaxy",
       "link": "https://br.tradingview.com/news/cointelegraph:2d691f44bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:34e093275bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "HYPE dispara 20% após equipe da Hyperliquid sinalizar plano para mercados de previsão",
       "link": "https://br.tradingview.com/news/cointelegraph:34e093275bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:efe2fb33abc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Litecoin (LTC) retorna a níveis historicamente baixos",
       "link": "https://br.tradingview.com/news/beincrypto:efe2fb33abc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:87da718b1bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Stablecoins se combinam com Pix em remessas e movimentam R$ 9 bi no Brasil em janeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:87da718b1bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:662593df7bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Anaeel libera o uso de blockchain no setor elétrico do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:662593df7bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e16037d8ebc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Tom Lee aponta falta de alavancagem e 'vórtice' do ouro para a queda de 21% do Ether",
       "link": "https://br.tradingview.com/news/cointelegraph:e16037d8ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:d9a614fbabc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em alta hoje 03/02/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:d9a614fbabc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:abf9856d9bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Preço do Bitcoin hoje, 03/02/2026: BTC tenta recuperação, mas touros não tem forças",
       "link": "https://br.tradingview.com/news/cointelegraph:abf9856d9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:be88e8edbbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "4 razões pelas quais US$ 75 mil podem marcar o piso de preço do Bitcoin em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:be88e8edbbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:d2fa44761bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "XRP avança 3% após Ripple alcançar importante avanço regulatório",
       "link": "https://br.tradingview.com/news/beincrypto:d2fa44761bc81:0/",
       "source": "Beincrypto",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">F</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP avança 3% após Ripple alcançar importante avanço regulatório\" data-qa-id=\"news-headline-title\">XRP avança 3% após Ripple alcançar importante avanço regulatório</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:dfd339d57bc81:0",
-      "index": 11,
-      "title": "Bitcoin atinge valor de 'liquidação total' enquanto saídas de ETFs disparam, afirma Bitwise",
-      "link": "https://br.tradingview.com/news/cointelegraph:dfd339d57bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-03T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin atinge valor de 'liquidação total' enquanto saídas de ETFs disparam, afirma Bitwise\" data-qa-id=\"news-headline-title\">Bitcoin atinge valor de 'liquidação total' enquanto saídas de ETFs disparam, afirma Bitwise</div></div></article>"
-    },
-    {
-      "id": "beincrypto:571afb6f0bc81:0",
-      "index": 12,
-      "title": "Por que Vitalik Buterin vendeu mais de 700 Ethereum agora?",
-      "link": "https://br.tradingview.com/news/beincrypto:571afb6f0bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-03T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que Vitalik Buterin vendeu mais de 700 Ethereum agora?\" data-qa-id=\"news-headline-title\">Por que Vitalik Buterin vendeu mais de 700 Ethereum agora?</div></div></article>"
     }
   ]
 }
