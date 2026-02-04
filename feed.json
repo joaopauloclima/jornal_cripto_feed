@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-03T23:06:15.139Z",
+  "updated_at": "2026-02-04T00:02:39.442Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d68b6c1d5bc81:0",
+      "id": "cointelegraph:73792bea4bc81:0",
       "index": 0,
+      "title": "Apostas na 'reflação' do Bitcoin divergem após o PMI dos EUA romper a resistência de três anos",
+      "link": "https://br.tradingview.com/news/cointelegraph:73792bea4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-03T23:20:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 23:20:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 23:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Apostas na 'reflação' do Bitcoin divergem após o PMI dos EUA romper a resistência de três anos\" data-qa-id=\"news-headline-title\">Apostas na 'reflação' do Bitcoin divergem após o PMI dos EUA romper a resistência de três anos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d68b6c1d5bc81:0",
+      "index": 1,
       "title": "Traders explicam por que o preço do Bitcoin pode se recuperar em direção a US$ 85.000",
       "link": "https://br.tradingview.com/news/cointelegraph:d68b6c1d5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:2ae65912abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Inverno do Bitcoin e das criptomoedas deve acabar em breve, diz executivo da Bitwise, enquanto o ouro mira US$ 5.000",
       "link": "https://br.tradingview.com/news/cointelegraph:2ae65912abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:bec8612dfbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Solana formou fundo em US$ 100? Gráficos de preço do SOL indicam alta de 150%",
       "link": "https://br.tradingview.com/news/cointelegraph:bec8612dfbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3YZ15Q:0",
-      "index": 3,
+      "index": 4,
       "title": "Ações ligadas a criptomoedas despencam com o bitcoin atingindo a menor cotação desde a eleição de Trump.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3YZ15Q:0/",
       "source": "Reuters",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:6fbd3ef33bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ethereum em alerta com risco de US$ 1.500 após métrica otimista cair 90%",
       "link": "https://br.tradingview.com/news/beincrypto:6fbd3ef33bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:133390c27bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin cai para US$ 73 mil em nova onda de baixa de 6% e ursos podem derrubar preço para US$ 58 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:133390c27bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:1f965b37fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Primo Rico aponta duplo fundo do Bitcoin e vê oportunidade para brasileiros",
       "link": "https://br.tradingview.com/news/beincrypto:1f965b37fbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:391c734e9bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Volumes à vista de cripto despencam para mínimas de 2024 à medida que a demanda dos investidores enfraquece",
       "link": "https://br.tradingview.com/news/cointelegraph:391c734e9bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:2d691f44bbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin pode cair para US$ 56 mil enquanto razões para alta 'seguem difíceis de encontrar', afirma Galaxy",
       "link": "https://br.tradingview.com/news/cointelegraph:2d691f44bbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:34e093275bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "HYPE dispara 20% após equipe da Hyperliquid sinalizar plano para mercados de previsão",
       "link": "https://br.tradingview.com/news/cointelegraph:34e093275bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:efe2fb33abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Litecoin (LTC) retorna a níveis historicamente baixos",
       "link": "https://br.tradingview.com/news/beincrypto:efe2fb33abc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:87da718b1bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Stablecoins se combinam com Pix em remessas e movimentam R$ 9 bi no Brasil em janeiro",
       "link": "https://br.tradingview.com/news/cointelegraph:87da718b1bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stablecoins se combinam com Pix em remessas e movimentam R$ 9 bi no Brasil em janeiro\" data-qa-id=\"news-headline-title\">Stablecoins se combinam com Pix em remessas e movimentam R$ 9 bi no Brasil em janeiro</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:662593df7bc81:0",
-      "index": 12,
-      "title": "Anaeel libera o uso de blockchain no setor elétrico do Brasil",
-      "link": "https://br.tradingview.com/news/cointelegraph:662593df7bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-03T15:01:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 15:01:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 15:01 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Anaeel libera o uso de blockchain no setor elétrico do Brasil\" data-qa-id=\"news-headline-title\">Anaeel libera o uso de blockchain no setor elétrico do Brasil</div></div></article>"
     }
   ]
 }
