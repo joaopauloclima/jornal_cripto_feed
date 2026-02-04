@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-04T15:31:08.786Z",
+  "updated_at": "2026-02-04T16:31:46.732Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2026:newsml_L1N3Z00W1:0",
+      "id": "cointelegraph:fb8027cd5bc81:0",
       "index": 0,
+      "title": "Preço da Ethereum: padrão clássico de gráfico coloca ETH abaixo de US$ 2 mil em foco",
+      "link": "https://br.tradingview.com/news/cointelegraph:fb8027cd5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-04T16:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Feb 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de fev. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço da Ethereum: padrão clássico de gráfico coloca ETH abaixo de US$ 2 mil em foco\" data-qa-id=\"news-headline-title\">Preço da Ethereum: padrão clássico de gráfico coloca ETH abaixo de US$ 2 mil em foco</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:96ed101c4bc81:0",
+      "index": 1,
+      "title": "Ativos de ETFs de Bitcoin caem abaixo de US$ 100 bilhões com novas saídas de US$ 272 milhões",
+      "link": "https://br.tradingview.com/news/cointelegraph:96ed101c4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-04T15:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Feb 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de fev. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ativos de ETFs de Bitcoin caem abaixo de US$ 100 bilhões com novas saídas de US$ 272 milhões\" data-qa-id=\"news-headline-title\">Ativos de ETFs de Bitcoin caem abaixo de US$ 100 bilhões com novas saídas de US$ 272 milhões</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2026:newsml_L1N3Z00W1:0",
+      "index": 2,
       "title": "Por que a recente queda do bitcoin parece diferente?",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3Z00W1:0/",
       "source": "Reuters",
@@ -14,8 +36,19 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/indices/dow-30.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Feb 2026 15:12:42 GMT\" class=\"apply-common-tooltip\" title=\"4 de fev. de 2026, 15:12 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Por que a recente queda do bitcoin parece diferente?\" data-qa-id=\"news-headline-title\">Por que a recente queda do bitcoin parece diferente?</div></div></article>"
     },
     {
+      "id": "beincrypto:28260dababc81:0",
+      "index": 3,
+      "title": "El Salvador já soma mais de 7.550 Bitcoins e segue confiante",
+      "link": "https://br.tradingview.com/news/beincrypto:28260dababc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-02-04T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Feb 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de fev. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"El Salvador já soma mais de 7.550 Bitcoins e segue confiante\" data-qa-id=\"news-headline-title\">El Salvador já soma mais de 7.550 Bitcoins e segue confiante</div></div></article>"
+    },
+    {
       "id": "cointelegraph:c83e302c9bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Taxa de funding do ETH fica negativa, mas condições macro dos EUA anulam sinal de compra",
       "link": "https://br.tradingview.com/news/cointelegraph:c83e302c9bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ce5a97a33bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Bitcoin perde US$ 73 mil enquanto ações dos EUA despencam; analista diz que a ação de preço do BTC não é 'anormal'",
       "link": "https://br.tradingview.com/news/cointelegraph:ce5a97a33bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9bf6804babc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Mercado Bitcoin emite R$ 105 milhões em tokens RWA pela Rootstock",
       "link": "https://br.tradingview.com/news/cointelegraph:9bf6804babc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "beincrypto:21d7b02ccbc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Recuo da Tether em US$ 500 bilhões reacende rumores de IPO",
       "link": "https://br.tradingview.com/news/beincrypto:21d7b02ccbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:ae90ddfd1bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Trump deve assinar projeto de lei para encerrar shutdown parcial do governo dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:ae90ddfd1bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "beincrypto:c1d422488bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "XRP da Ripple mira US$ 1,70 mesmo com indicador ainda baixista",
       "link": "https://br.tradingview.com/news/beincrypto:c1d422488bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:95d4524c6bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "21Shares revela ‘próxima onda do Bitcoin’ enquanto criptomoedas queridinhas do Brasil recuam até 34%",
       "link": "https://br.tradingview.com/news/cointelegraph:95d4524c6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "beincrypto:5e189c82fbc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Bitcoin confirma alta de 5%, mas sinais preocupam",
       "link": "https://br.tradingview.com/news/beincrypto:5e189c82fbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:87a27ae67bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Preço do Bitcoin hoje, 04/02/2026: após cair para US$ 72 mil, BTC tenta 'sobreviver' e volta para US$ 76 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:87a27ae67bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:3ca89836abc81:0",
-      "index": 10,
+      "index": 13,
       "title": "ETFs de Bitcoin recuperam US$ 562 milhões após liquidação de US$ 1,5 bilhão, com ventos contrários persistentes",
       "link": "https://br.tradingview.com/news/cointelegraph:3ca89836abc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Feb 2026 01:20:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de fev. de 2026, 01:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin recuperam US$ 562 milhões após liquidação de US$ 1,5 bilhão, com ventos contrários persistentes\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin recuperam US$ 562 milhões após liquidação de US$ 1,5 bilhão, com ventos contrários persistentes</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:92dff5c3abc81:0",
-      "index": 11,
-      "title": "E-mails divulgados pelo DOJ dos EUA sugerem que Epstein investiu US$ 3,2 milhões na Coinbase em 2014",
-      "link": "https://br.tradingview.com/news/cointelegraph:92dff5c3abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-04T00:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Feb 2026 00:20:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de fev. de 2026, 00:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"E-mails divulgados pelo DOJ dos EUA sugerem que Epstein investiu US$ 3,2 milhões na Coinbase em 2014\" data-qa-id=\"news-headline-title\">E-mails divulgados pelo DOJ dos EUA sugerem que Epstein investiu US$ 3,2 milhões na Coinbase em 2014</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:73792bea4bc81:0",
-      "index": 12,
-      "title": "Apostas na 'reflação' do Bitcoin divergem após o PMI dos EUA romper a resistência de três anos",
-      "link": "https://br.tradingview.com/news/cointelegraph:73792bea4bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-03T23:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 23:20:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 23:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Apostas na 'reflação' do Bitcoin divergem após o PMI dos EUA romper a resistência de três anos\" data-qa-id=\"news-headline-title\">Apostas na 'reflação' do Bitcoin divergem após o PMI dos EUA romper a resistência de três anos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d68b6c1d5bc81:0",
-      "index": 13,
-      "title": "Traders explicam por que o preço do Bitcoin pode se recuperar em direção a US$ 85.000",
-      "link": "https://br.tradingview.com/news/cointelegraph:d68b6c1d5bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-03T22:20:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 03 Feb 2026 22:20:00 GMT\" class=\"apply-common-tooltip\" title=\"3 de fev. de 2026, 22:20 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders explicam por que o preço do Bitcoin pode se recuperar em direção a US$ 85.000\" data-qa-id=\"news-headline-title\">Traders explicam por que o preço do Bitcoin pode se recuperar em direção a US$ 85.000</div></div></article>"
     }
   ]
 }
