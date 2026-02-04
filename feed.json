@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-04T20:07:38.882Z",
+  "updated_at": "2026-02-04T21:09:59.909Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:699989751bc81:0",
+      "id": "cointelegraph:c681c7030bc81:0",
       "index": 0,
+      "title": "Linha de tendência de US$ 68.000 do Bitcoin é vista como possível piso do preço do BTC, dizem traders",
+      "link": "https://br.tradingview.com/news/cointelegraph:c681c7030bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-04T20:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Feb 2026 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de fev. de 2026, 20:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Linha de tendência de US$ 68.000 do Bitcoin é vista como possível piso do preço do BTC, dizem traders\" data-qa-id=\"news-headline-title\">Linha de tendência de US$ 68.000 do Bitcoin é vista como possível piso do preço do BTC, dizem traders</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:699989751bc81:0",
+      "index": 1,
       "title": "Reservas da Binance seguem estáveis apesar da propagação online de alegações de 'FTX 2.0'",
       "link": "https://br.tradingview.com/news/cointelegraph:699989751bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:d20458234bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Stellar (XLM) cai para menos de US$ 0,20",
       "link": "https://br.tradingview.com/news/beincrypto:d20458234bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:24bd0dd08bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin recupera para US$ 76.000, mas dados on-chain e técnicos sinalizam queda mais profunda",
       "link": "https://br.tradingview.com/news/cointelegraph:24bd0dd08bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:bdcf494cbbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Desempenho da Solana (SOL) salta 150%",
       "link": "https://br.tradingview.com/news/beincrypto:bdcf494cbbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:35d119316bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Venda de US$ 9 bilhões em Bitcoin por baleia não foi motivada por preocupações quânticas, afirma Galaxy Digital",
       "link": "https://br.tradingview.com/news/cointelegraph:35d119316bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L6N3Z015H:0",
-      "index": 5,
+      "index": 6,
       "title": "Por que o tombo do bitcoin parece diferente agora?",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L6N3Z015H:0/",
       "source": "Reuters",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fb8027cd5bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Preço da Ethereum: padrão clássico de gráfico coloca ETH abaixo de US$ 2 mil em foco",
       "link": "https://br.tradingview.com/news/cointelegraph:fb8027cd5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:96ed101c4bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ativos de ETFs de Bitcoin caem abaixo de US$ 100 bilhões com novas saídas de US$ 272 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:96ed101c4bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:28260dababc81:0",
-      "index": 8,
+      "index": 9,
       "title": "El Salvador já soma mais de 7.550 Bitcoins e segue confiante",
       "link": "https://br.tradingview.com/news/beincrypto:28260dababc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c83e302c9bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Taxa de funding do ETH fica negativa, mas condições macro dos EUA anulam sinal de compra",
       "link": "https://br.tradingview.com/news/cointelegraph:c83e302c9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ce5a97a33bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin perde US$ 73 mil enquanto ações dos EUA despencam; analista diz que a ação de preço do BTC não é 'anormal'",
       "link": "https://br.tradingview.com/news/cointelegraph:ce5a97a33bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9bf6804babc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Mercado Bitcoin emite R$ 105 milhões em tokens RWA pela Rootstock",
       "link": "https://br.tradingview.com/news/cointelegraph:9bf6804babc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:21d7b02ccbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Recuo da Tether em US$ 500 bilhões reacende rumores de IPO",
       "link": "https://br.tradingview.com/news/beincrypto:21d7b02ccbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Feb 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de fev. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Recuo da Tether em US$ 500 bilhões reacende rumores de IPO\" data-qa-id=\"news-headline-title\">Recuo da Tether em US$ 500 bilhões reacende rumores de IPO</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ae90ddfd1bc81:0",
-      "index": 13,
-      "title": "Trump deve assinar projeto de lei para encerrar shutdown parcial do governo dos EUA",
-      "link": "https://br.tradingview.com/news/cointelegraph:ae90ddfd1bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-04T12:35:31.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Feb 2026 12:35:31 GMT\" class=\"apply-common-tooltip\" title=\"4 de fev. de 2026, 12:35 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Trump deve assinar projeto de lei para encerrar shutdown parcial do governo dos EUA\" data-qa-id=\"news-headline-title\">Trump deve assinar projeto de lei para encerrar shutdown parcial do governo dos EUA</div></div></article>"
     }
   ]
 }
