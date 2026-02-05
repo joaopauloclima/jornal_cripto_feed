@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-05T20:06:39.387Z",
+  "updated_at": "2026-02-05T21:08:32.139Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9dcac5b2dbc81:0",
+      "id": "cointelegraph:a2c691fadbc81:0",
       "index": 0,
+      "title": "Vitalik Buterin vende US$ 6,6 milhões em ETH após sinalizar saques planejados",
+      "link": "https://br.tradingview.com/news/cointelegraph:a2c691fadbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-05T21:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik Buterin vende US$ 6,6 milhões em ETH após sinalizar saques planejados\" data-qa-id=\"news-headline-title\">Vitalik Buterin vende US$ 6,6 milhões em ETH após sinalizar saques planejados</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2026:newsml_L6N3Z11CJ:0",
+      "index": 1,
+      "title": "Queda do bitcoin abala empresas que aderiram à onda de acumulação de criptomoedas",
+      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L6N3Z11CJ:0/",
+      "source": "Reuters",
+      "published_at": "2026-02-05T20:22:22.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/kindly-md.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/metaplanet.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/meliuz.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 20:22:22 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 20:22 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Queda do bitcoin abala empresas que aderiram à onda de acumulação de criptomoedas\" data-qa-id=\"news-headline-title\">Queda do bitcoin abala empresas que aderiram à onda de acumulação de criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9dcac5b2dbc81:0",
+      "index": 2,
       "title": "USDt da Tether atinge recorde de US$ 187 bilhões em valor de mercado no 4º trimestre, apesar da retração do mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:9dcac5b2dbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d2f0191d0bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "ETFs de Bitcoin ampliam perdas com saídas de US$ 545 milhões, enquanto o BTC se aproxima de US$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d2f0191d0bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:68855fe55bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Preço da BNB atinge mínima em 7 meses",
       "link": "https://br.tradingview.com/news/beincrypto:68855fe55bc81:0/",
       "source": "Beincrypto",
@@ -36,19 +58,8 @@
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBNB.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço da BNB atinge mínima em 7 meses\" data-qa-id=\"news-headline-title\">Preço da BNB atinge mínima em 7 meses</div></div></article>"
     },
     {
-      "id": "tag:reuters.com,2026:newsml_L1N3Z119T:0",
-      "index": 3,
-      "title": "A queda do Bitcoin abala empresas que embarcaram na onda de acumulação de criptomoedas.",
-      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3Z119T:0/",
-      "source": "Reuters",
-      "published_at": "2026-02-05T18:16:17.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/kindly-md.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/metaplanet.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 18:16:17 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 18:16 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A queda do Bitcoin abala empresas que embarcaram na onda de acumulação de criptomoedas.\" data-qa-id=\"news-headline-title\">A queda do Bitcoin abala empresas que embarcaram na onda de acumulação de criptomoedas.</div></div></article>"
-    },
-    {
       "id": "beincrypto:67b8f585dbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Atividade da rede Ethereum dispara, mas isso não garante alta no preço",
       "link": "https://br.tradingview.com/news/beincrypto:67b8f585dbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e3d3c49dbbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Preço do Bitcoin apaga 15 meses de ganhos do bull market com queda para US$ 69 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:e3d3c49dbbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0028c7771bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Prêmio da Coinbase atinge mínima anual, sugerindo venda institucional",
       "link": "https://br.tradingview.com/news/cointelegraph:0028c7771bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:288ed6b96bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Solana perto de US$ 90 não afasta investidores de longo prazo",
       "link": "https://br.tradingview.com/news/beincrypto:288ed6b96bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:69f2981d3bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "ETFs de Bitcoin 'seguem firmes' apesar do tombo do BTC, afirma analista",
       "link": "https://br.tradingview.com/news/cointelegraph:69f2981d3bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:fed9dafe5bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin mira US$ 66 mil com 5,8% de chance de reação: ‘negociamos probabilidades’",
       "link": "https://br.tradingview.com/news/cointelegraph:fed9dafe5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:0a6490efbbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin abaixo de US$ 70 mil enfrenta risco de queda de 37%",
       "link": "https://br.tradingview.com/news/beincrypto:0a6490efbbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a5ceda910bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Traders de XRP mais otimistas enquanto o humor em BTC e ETH azeda, afirma Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:a5ceda910bc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders de XRP mais otimistas enquanto o humor em BTC e ETH azeda, afirma Santiment\" data-qa-id=\"news-headline-title\">Traders de XRP mais otimistas enquanto o humor em BTC e ETH azeda, afirma Santiment</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2026:newsml_L1N3Z10SC:0",
-      "index": 12,
-      "title": "Ações de criptomoedas caem com queda do bitcoin abaixo da marca de US$ 70.000",
-      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3Z10SC:0/",
-      "source": "Reuters",
-      "published_at": "2026-02-05T13:48:53.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/bitfarms.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/bit-digital.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 13:48:53 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 13:48 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ações de criptomoedas caem com queda do bitcoin abaixo da marca de US$ 70.000\" data-qa-id=\"news-headline-title\">Ações de criptomoedas caem com queda do bitcoin abaixo da marca de US$ 70.000</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4fa67a84cbc81:0",
-      "index": 13,
-      "title": "Bitcoin cai para US$ 69 mil e analistas cravam: 'Não vai subir mais em 2026'",
-      "link": "https://br.tradingview.com/news/cointelegraph:4fa67a84cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-05T13:40:31.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 13:40:31 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 13:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin cai para US$ 69 mil e analistas cravam: 'Não vai subir mais em 2026'\" data-qa-id=\"news-headline-title\">Bitcoin cai para US$ 69 mil e analistas cravam: 'Não vai subir mais em 2026'</div></div></article>"
     }
   ]
 }
