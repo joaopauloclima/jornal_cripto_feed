@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-05T23:04:47.515Z",
+  "updated_at": "2026-02-06T00:01:20.839Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1463cd190bc81:0",
+      "id": "tag:reuters.com,2026:newsml_L1N3Z11QN:0",
       "index": 0,
+      "title": "As perdas trimestrais da Strategy, liderada por Saylor, aumentam à medida que o bitcoin enfrenta mais um ajuste de contas.",
+      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3Z11QN:0/",
+      "source": "Reuters",
+      "published_at": "2026-02-05T23:53:15.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 23:53:15 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 23:53 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"As perdas trimestrais da Strategy, liderada por Saylor, aumentam à medida que o bitcoin enfrenta mais um ajuste de contas.\" data-qa-id=\"news-headline-title\">As perdas trimestrais da Strategy, liderada por Saylor, aumentam à medida que o bitcoin enfrenta mais um ajuste de contas.</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:006c174c8bc81:0",
+      "index": 1,
+      "title": "Stablecoins, capital mínimo e fiscalização: o pacote do Banco Central que muda tudo no mercado cripto do Brasil",
+      "link": "https://br.tradingview.com/news/cointelegraph:006c174c8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-05T23:27:02.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 23:27:02 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 23:27 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Stablecoins, capital mínimo e fiscalização: o pacote do Banco Central que muda tudo no mercado cripto do Brasil\" data-qa-id=\"news-headline-title\">Stablecoins, capital mínimo e fiscalização: o pacote do Banco Central que muda tudo no mercado cripto do Brasil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1463cd190bc81:0",
+      "index": 2,
       "title": "Ether cai abaixo de US$ 2.000 e a confiança dos detentores de ETH passa por um grande teste de estresse",
       "link": "https://br.tradingview.com/news/cointelegraph:1463cd190bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:9859344a6bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Transferência recorde de US$ 1 milhão na Lightning testa pagamentos em Bitcoin para instituições",
       "link": "https://br.tradingview.com/news/cointelegraph:9859344a6bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3Z11J7:0",
-      "index": 2,
+      "index": 4,
       "title": "Perdas trimestrais da Strategy, liderada por Saylor, aumentam à medida que o bitcoin enfrenta um novo ajuste de contas",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3Z11J7:0/",
       "source": "Reuters",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a2c691fadbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Vitalik Buterin vende US$ 6,6 milhões em ETH após sinalizar saques planejados",
       "link": "https://br.tradingview.com/news/cointelegraph:a2c691fadbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L6N3Z11CJ:0",
-      "index": 4,
+      "index": 6,
       "title": "Queda do bitcoin abala empresas que aderiram à onda de acumulação de criptomoedas",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L6N3Z11CJ:0/",
       "source": "Reuters",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:9dcac5b2dbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "USDt da Tether atinge recorde de US$ 187 bilhões em valor de mercado no 4º trimestre, apesar da retração do mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:9dcac5b2dbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d2f0191d0bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ETFs de Bitcoin ampliam perdas com saídas de US$ 545 milhões, enquanto o BTC se aproxima de US$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:d2f0191d0bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:68855fe55bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Preço da BNB atinge mínima em 7 meses",
       "link": "https://br.tradingview.com/news/beincrypto:68855fe55bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:67b8f585dbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Atividade da rede Ethereum dispara, mas isso não garante alta no preço",
       "link": "https://br.tradingview.com/news/beincrypto:67b8f585dbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e3d3c49dbbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do Bitcoin apaga 15 meses de ganhos do bull market com queda para US$ 69 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:e3d3c49dbbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:0028c7771bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Prêmio da Coinbase atinge mínima anual, sugerindo venda institucional",
       "link": "https://br.tradingview.com/news/cointelegraph:0028c7771bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Prêmio da Coinbase atinge mínima anual, sugerindo venda institucional\" data-qa-id=\"news-headline-title\">Prêmio da Coinbase atinge mínima anual, sugerindo venda institucional</div></div></article>"
-    },
-    {
-      "id": "beincrypto:288ed6b96bc81:0",
-      "index": 11,
-      "title": "Solana perto de US$ 90 não afasta investidores de longo prazo",
-      "link": "https://br.tradingview.com/news/beincrypto:288ed6b96bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-05T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solana perto de US$ 90 não afasta investidores de longo prazo\" data-qa-id=\"news-headline-title\">Solana perto de US$ 90 não afasta investidores de longo prazo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:69f2981d3bc81:0",
-      "index": 12,
-      "title": "ETFs de Bitcoin 'seguem firmes' apesar do tombo do BTC, afirma analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:69f2981d3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-05T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Feb 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"5 de fev. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin 'seguem firmes' apesar do tombo do BTC, afirma analista\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin 'seguem firmes' apesar do tombo do BTC, afirma analista</div></div></article>"
     }
   ]
 }
