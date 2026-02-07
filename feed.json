@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-07T20:25:18.859Z",
+  "updated_at": "2026-02-07T21:03:36.539Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d30736b69bc81:0",
+      "id": "cointelegraph:d2e56dbbdbc81:0",
       "index": 0,
+      "title": "Dificuldade de mineração de Bitcoin cai mais de 11%, maior queda desde a proibição na China em 2021",
+      "link": "https://br.tradingview.com/news/cointelegraph:d2e56dbbdbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-07T21:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 07 Feb 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de fev. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Dificuldade de mineração de Bitcoin cai mais de 11%, maior queda desde a proibição na China em 2021\" data-qa-id=\"news-headline-title\">Dificuldade de mineração de Bitcoin cai mais de 11%, maior queda desde a proibição na China em 2021</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d30736b69bc81:0",
+      "index": 1,
       "title": "Bitcoin mira lacuna de US$ 84 mil nos contratos futuros após BTC rejeitar máxima de 2021",
       "link": "https://br.tradingview.com/news/cointelegraph:d30736b69bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:e6eaa9aafbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Próximo mercado de alta do Bitcoin pode não vir de mais 'políticas acomodativas'",
       "link": "https://br.tradingview.com/news/cointelegraph:e6eaa9aafbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:193a43ef4bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Preço do XRP dispara quase 20% com compra agressiva de grandes investidores",
       "link": "https://br.tradingview.com/news/beincrypto:193a43ef4bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:71f25e19fbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Novas regras para criptomoedas no Brasil: Banco Central vai explicar tudo na segunda-feria, 09 de fevereiro",
       "link": "https://br.tradingview.com/news/cointelegraph:71f25e19fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ad11d092bbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Brasileiros desenvolvem protocolo para infraestrutura global de IA com aplicações em blockchains",
       "link": "https://br.tradingview.com/news/cointelegraph:ad11d092bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:2cd2f94cdbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "China proíbe a emissão de stablecoins e RWAs por empresas estrangeiras e nacionais",
       "link": "https://br.tradingview.com/news/cointelegraph:2cd2f94cdbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:10869f138bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin supera quedas da FTX e da COVID-19 com mergulho recorde abaixo da linha de tendência de 200 dias",
       "link": "https://br.tradingview.com/news/cointelegraph:10869f138bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:33ecdb3c0bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Ether lidera perdas do mercado cripto com queda de 30%: onde está o fundo?",
       "link": "https://br.tradingview.com/news/cointelegraph:33ecdb3c0bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:8ed58f8c6bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Preço do Bitcoin se recupera 11% acima de US$ 65 mil: quem compra na queda?",
       "link": "https://br.tradingview.com/news/cointelegraph:8ed58f8c6bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:f40018415bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Binance explica queda do Bitcoin e alerta sobre temores de liquidez",
       "link": "https://br.tradingview.com/news/beincrypto:f40018415bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2d0fa063dbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin registra queda recorde de US$ 10 mil e modelo projeta retorno aos US$ 93,5 mil só em 2028",
       "link": "https://br.tradingview.com/news/cointelegraph:2d0fa063dbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:94d1c36fbbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin despenca mais de 10% e arrasta big techs em pânico generalizado",
       "link": "https://br.tradingview.com/news/beincrypto:94d1c36fbbc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "cointelegraph:380562045bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Metaplanet promete continuar comprando Bitcoin enquanto o sentimento despenca",
       "link": "https://br.tradingview.com/news/cointelegraph:380562045bc81:0/",
       "source": "Cointelegraph",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Feb 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de fev. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Metaplanet promete continuar comprando Bitcoin enquanto o sentimento despenca\" data-qa-id=\"news-headline-title\">Metaplanet promete continuar comprando Bitcoin enquanto o sentimento despenca</div></div></article>"
-    },
-    {
-      "id": "beincrypto:2757e73a1bc81:0",
-      "index": 13,
-      "title": "Bitwise solicita ETF de Uniswap à vista enquanto queima diária de UNI atinge recorde",
-      "link": "https://br.tradingview.com/news/beincrypto:2757e73a1bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-06T16:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">U</span></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Feb 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de fev. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitwise solicita ETF de Uniswap à vista enquanto queima diária de UNI atinge recorde\" data-qa-id=\"news-headline-title\">Bitwise solicita ETF de Uniswap à vista enquanto queima diária de UNI atinge recorde</div></div></article>"
     }
   ]
 }
