@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-09T21:28:51.304Z",
+  "updated_at": "2026-02-09T22:11:45.861Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:39a41f8b8bc81:0",
+      "id": "cointelegraph:11351ecc8bc81:0",
       "index": 0,
+      "title": "Bernstein diz que a liquidação do Bitcoin é o 'caso de baixa mais fraco' já registrado e mantém alvo de US$ 150 mil para 2026",
+      "link": "https://br.tradingview.com/news/cointelegraph:11351ecc8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-09T22:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Feb 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de fev. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bernstein diz que a liquidação do Bitcoin é o 'caso de baixa mais fraco' já registrado e mantém alvo de US$ 150 mil para 2026\" data-qa-id=\"news-headline-title\">Bernstein diz que a liquidação do Bitcoin é o 'caso de baixa mais fraco' já registrado e mantém alvo de US$ 150 mil para 2026</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:39a41f8b8bc81:0",
+      "index": 1,
       "title": "Análise de preços em 09/02: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH",
       "link": "https://br.tradingview.com/news/cointelegraph:39a41f8b8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:71e952b0bbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "BitMine compra 40.613 ETH durante liquidação enquanto estratégia com Ether enfrenta forte queda",
       "link": "https://br.tradingview.com/news/cointelegraph:71e952b0bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:10e9b11fabc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Relatório da Câmara dos Deputados pede fim total do imposto de renda sobre lucro com Bitcoin e determina que Brasil compre 1 milhão de BTCs",
       "link": "https://br.tradingview.com/news/cointelegraph:10e9b11fabc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:94496cba1bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Mercado cripto: queda recente não reflete saúde do ecossistema, diz executivo da Binance",
       "link": "https://br.tradingview.com/news/beincrypto:94496cba1bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:997bba7f1bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Solana caminha para US$ 50? Estes três gráficos mostram um padrão clássico de baixa",
       "link": "https://br.tradingview.com/news/cointelegraph:997bba7f1bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:3af8202f6bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Preço do Ethereum atinge alvo de queda e mercado teme recuo até US$ 1 mil",
       "link": "https://br.tradingview.com/news/beincrypto:3af8202f6bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:61f5eb6e6bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Baleias de Bitcoin aproveitaram a queda a US$ 60 mil e acumularam 40 mil BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:61f5eb6e6bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:6e304e7f0bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "XRP atinge mínima de 15 meses e investidores partem para compras",
       "link": "https://br.tradingview.com/news/beincrypto:6e304e7f0bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:7698710b1bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Traders de BTC aguardam fundo em US$ 50 mil: cinco coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:7698710b1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:106121353bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Índice Sharpe do Bitcoin cai para níveis vistos em fundos de mercado anteriores",
       "link": "https://br.tradingview.com/news/cointelegraph:106121353bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:592220478bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Apenas 10 mil Bitcoins estão em risco quântico e valeriam um ataque, diz a CoinShares",
       "link": "https://br.tradingview.com/news/cointelegraph:592220478bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1b530bb25bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Federal Reserve entra em modo de 'impressão gradual', diz Lyn Alden",
       "link": "https://br.tradingview.com/news/cointelegraph:1b530bb25bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Feb 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de fev. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Federal Reserve entra em modo de 'impressão gradual', diz Lyn Alden\" data-qa-id=\"news-headline-title\">Federal Reserve entra em modo de 'impressão gradual', diz Lyn Alden</div></div></article>"
-    },
-    {
-      "id": "beincrypto:5b914c021bc81:0",
-      "index": 12,
-      "title": "De bilhões para US$ 187 milhões venda intensa de cripto chega ao limite?",
-      "link": "https://br.tradingview.com/news/beincrypto:5b914c021bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-09T14:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Feb 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de fev. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"De bilhões para US$ 187 milhões venda intensa de cripto chega ao limite?\" data-qa-id=\"news-headline-title\">De bilhões para US$ 187 milhões venda intensa de cripto chega ao limite?</div></div></article>"
     }
   ]
 }
