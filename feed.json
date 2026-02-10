@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-10T22:27:55.390Z",
+  "updated_at": "2026-02-10T23:28:40.796Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3b845ffd6bc81:0",
+      "id": "beincrypto:0d96969dfbc81:0",
       "index": 0,
+      "title": "Goldman Sachs revela investimento de US$ 2,3 bilhões em cripto, incluindo Bitcoin e XRP",
+      "link": "https://br.tradingview.com/news/beincrypto:0d96969dfbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-02-10T21:31:27.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Feb 2026 21:31:27 GMT\" class=\"apply-common-tooltip\" title=\"10 de fev. de 2026, 21:31 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Goldman Sachs revela investimento de US$ 2,3 bilhões em cripto, incluindo Bitcoin e XRP\" data-qa-id=\"news-headline-title\">Goldman Sachs revela investimento de US$ 2,3 bilhões em cripto, incluindo Bitcoin e XRP</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3b845ffd6bc81:0",
+      "index": 1,
       "title": "Preço do Bitcoin pune traders enquanto liquidações cripto em 24 horas superam US$ 250 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:3b845ffd6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:82d307254bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Grupo Deutsche Börse, maior organização de bolsas de valores do mundo, chega ao Brasil com foco em Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:82d307254bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0bba13a5dbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Queda do Bitcoin para US$ 60 mil pode marcar o meio do mercado de baixa, diz a Kaiko",
       "link": "https://br.tradingview.com/news/cointelegraph:0bba13a5dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:9adbba43dbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Narrativa do “ouro digital” estremecida: novo estudo da USP com a PUC-Rio revela fragilidade do Bitcoin em momentos críticos",
       "link": "https://br.tradingview.com/news/cointelegraph:9adbba43dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:916762a2dbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Mayer Multiple do Bitcoin atinge níveis de 2022: onde está o fundo do preço do BTC?",
       "link": "https://br.tradingview.com/news/cointelegraph:916762a2dbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:8bfce08c0bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Solana atinge menor nível em 2 anos, e histórico indica possível recuperação para US$ 100",
       "link": "https://br.tradingview.com/news/beincrypto:8bfce08c0bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:dbabf8948bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Analistas debatem se o Ether já capitulou ou ainda pode cair mais",
       "link": "https://br.tradingview.com/news/cointelegraph:dbabf8948bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:0f4193e74bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "ETFs de Bitcoin ampliam recuperação com US$ 145 milhões em novos fluxos no mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:0f4193e74bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:cfbd8573cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Ethereum mantém suporte em US$ 2 mil com acumulação sustentando recuperação",
       "link": "https://br.tradingview.com/news/beincrypto:cfbd8573cbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:d8eb99627bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Cofundador da Chainlink aponta 2 razões pelas quais este bear market parece diferente",
       "link": "https://br.tradingview.com/news/cointelegraph:d8eb99627bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:4818d0f29bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Deputado propõe reserva de Bitcoin no Brasil e fim de imposto sobre criptomoedas",
       "link": "https://br.tradingview.com/news/beincrypto:4818d0f29bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ec71ec296bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "CBDCs 'sem privacidade' vão surgir, alerta o bilionário Ray Dalio",
       "link": "https://br.tradingview.com/news/cointelegraph:ec71ec296bc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:ca41370ddbc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Preço do XRP reage em meio a forte liquidez de saída dos investidores",
       "link": "https://br.tradingview.com/news/beincrypto:ca41370ddbc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">E</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Feb 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de fev. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do XRP reage em meio a forte liquidez de saída dos investidores\" data-qa-id=\"news-headline-title\">Preço do XRP reage em meio a forte liquidez de saída dos investidores</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:12d94f866bc81:0",
-      "index": 13,
-      "title": "Vitalik Buterin detalha como a Ethereum pode funcionar junto com a IA",
-      "link": "https://br.tradingview.com/news/cointelegraph:12d94f866bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-10T15:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Feb 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de fev. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Vitalik Buterin detalha como a Ethereum pode funcionar junto com a IA\" data-qa-id=\"news-headline-title\">Vitalik Buterin detalha como a Ethereum pode funcionar junto com a IA</div></div></article>"
     }
   ]
 }
