@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-12T16:46:12.839Z",
+  "updated_at": "2026-02-12T17:47:59.096Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:7ea8d6388bc81:0",
+      "id": "cointelegraph:736430135bc81:0",
       "index": 0,
+      "title": "Musk afirma que a versão 'beta externa' do X Money será lançada em 1 a 2 meses",
+      "link": "https://br.tradingview.com/news/cointelegraph:736430135bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-12T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Feb 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de fev. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Musk afirma que a versão 'beta externa' do X Money será lançada em 1 a 2 meses\" data-qa-id=\"news-headline-title\">Musk afirma que a versão 'beta externa' do X Money será lançada em 1 a 2 meses</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:dde8625f7bc81:0",
+      "index": 1,
+      "title": "Brasileiros usam carry trade com stablecoin na Solana para oferecer rendimento aos holders",
+      "link": "https://br.tradingview.com/news/cointelegraph:dde8625f7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-12T16:52:22.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Feb 2026 16:52:22 GMT\" class=\"apply-common-tooltip\" title=\"12 de fev. de 2026, 16:52 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasileiros usam carry trade com stablecoin na Solana para oferecer rendimento aos holders\" data-qa-id=\"news-headline-title\">Brasileiros usam carry trade com stablecoin na Solana para oferecer rendimento aos holders</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7ea8d6388bc81:0",
+      "index": 2,
       "title": "ARK Invest adiciona US$ 34 milhões em ações da Robinhood enquanto Bitcoin cai abaixo de US$ 66 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:7ea8d6388bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:bc42f781cbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Binance conclui conversão de US$ 1 bilhão em Bitcoin para fundo emergencial SAFU",
       "link": "https://br.tradingview.com/news/cointelegraph:bc42f781cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:899b1ccf1bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "CEO da Strategy mira mais ações preferenciais para financiar compras de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:899b1ccf1bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:458bd1195bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Solana tem maior capitulação em 3 anos com preço perto de US$ 80",
       "link": "https://br.tradingview.com/news/beincrypto:458bd1195bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9cfb2863abc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Instituições estão perto de ‘dar o golpe de misericórdia’ no Bitcoin, alerta especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:9cfb2863abc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:6a877c58cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin dá 4 sinais de início de mercado de baixa e levanta dúvida sobre duração do ciclo",
       "link": "https://br.tradingview.com/news/beincrypto:6a877c58cbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3d8bd342abc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Desenvolvedores da Ethereum sugerem usar tecnologia ZK para anonimizar o uso de IA",
       "link": "https://br.tradingview.com/news/cointelegraph:3d8bd342abc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:da7ef084bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Feeds da Chainlink entram no ar para ações americanas tokenizadas da Ondo na Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:da7ef084bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:0df4d9075bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 12/02/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:0df4d9075bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:3bd24f08fbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Dados de futuros de Bitcoin mostram ursos se preparando para ataque aos US$ 60 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:3bd24f08fbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:44fdc204bbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Strategy planeja novas ações preferenciais perpétuas e impacto pode atingir MSTR",
       "link": "https://br.tradingview.com/news/beincrypto:44fdc204bbc81:0/",
       "source": "Beincrypto",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Feb 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de fev. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Strategy planeja novas ações preferenciais perpétuas e impacto pode atingir MSTR\" data-qa-id=\"news-headline-title\">Strategy planeja novas ações preferenciais perpétuas e impacto pode atingir MSTR</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:641c69dedbc81:0",
-      "index": 11,
-      "title": "4 criptomoedas queridinhas do Brasil acumulam até 160% enquanto o Bitcoin enfrenta baleia",
-      "link": "https://br.tradingview.com/news/cointelegraph:641c69dedbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-12T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Feb 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de fev. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"4 criptomoedas queridinhas do Brasil acumulam até 160% enquanto o Bitcoin enfrenta baleia\" data-qa-id=\"news-headline-title\">4 criptomoedas queridinhas do Brasil acumulam até 160% enquanto o Bitcoin enfrenta baleia</div></div></article>"
-    },
-    {
-      "id": "beincrypto:c0485bbf1bc81:0",
-      "index": 12,
-      "title": "Baleias acumulam Bitcoin como em 2022 e reacendem debate sobre recuperação do BTC",
-      "link": "https://br.tradingview.com/news/beincrypto:c0485bbf1bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-12T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Feb 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de fev. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Baleias acumulam Bitcoin como em 2022 e reacendem debate sobre recuperação do BTC\" data-qa-id=\"news-headline-title\">Baleias acumulam Bitcoin como em 2022 e reacendem debate sobre recuperação do BTC</div></div></article>"
     }
   ]
 }
