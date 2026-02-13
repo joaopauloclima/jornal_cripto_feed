@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-13T10:28:33.428Z",
+  "updated_at": "2026-02-13T11:24:06.109Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:a00e376f6bc81:0",
+      "id": "cointelegraph:6743edb3fbc81:0",
       "index": 0,
+      "title": "Tribunal de Contas da União faz análise exclusiva sobre o DREX e aponta recomendações ao Banco Central do Brasil",
+      "link": "https://br.tradingview.com/news/cointelegraph:6743edb3fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-13T10:26:44.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Feb 2026 10:26:44 GMT\" class=\"apply-common-tooltip\" title=\"13 de fev. de 2026, 10:26 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Tribunal de Contas da União faz análise exclusiva sobre o DREX e aponta recomendações ao Banco Central do Brasil\" data-qa-id=\"news-headline-title\">Tribunal de Contas da União faz análise exclusiva sobre o DREX e aponta recomendações ao Banco Central do Brasil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:a00e376f6bc81:0",
+      "index": 1,
       "title": "Preço do Bitcoin hoje, 13/02/2026: BTC em US$ 66 mil com SMA apontando armadilha dos touros",
       "link": "https://br.tradingview.com/news/cointelegraph:a00e376f6bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:ef3df2218bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin precisa fechar a semana em US$ 68,3 mil para evitar 'aceleração de baixa', diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:ef3df2218bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:212328260bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Este inverno cripto é diferente? Principais analistas reavaliam o Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:212328260bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e52649fffbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Binance sinaliza possível 'mudança' de alta no Bitcoin enquanto o sentimento cripto atinge mínima histórica",
       "link": "https://br.tradingview.com/news/cointelegraph:e52649fffbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:113c776ddbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Saídas de mineradores de Bitcoin disparam em janeiro, mas vendas de empresas de capital aberto permanecem limitadas",
       "link": "https://br.tradingview.com/news/cointelegraph:113c776ddbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L6N3Z819G:0",
-      "index": 5,
+      "index": 6,
       "title": "Standard Chartered prevê bitcoin a US$50 mil e Ethereum a US$1.400",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L6N3Z819G:0/",
       "source": "Reuters",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:da4c95a6cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Anbima pede que Banco Central mude regra para ajudar empresas que querem manter Bitcoin no caixa",
       "link": "https://br.tradingview.com/news/cointelegraph:da4c95a6cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:aabe2535abc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Rússia bloqueia WhatsApp para promover aplicativo de 'vigilância', diz empresa",
       "link": "https://br.tradingview.com/news/cointelegraph:aabe2535abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:736430135bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Musk afirma que a versão 'beta externa' do X Money será lançada em 1 a 2 meses",
       "link": "https://br.tradingview.com/news/cointelegraph:736430135bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:376d08882bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Vitalik Buterin propõe reforma política baseada em cripto para guerra entre Rússia e Ucrânia",
       "link": "https://br.tradingview.com/news/beincrypto:376d08882bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:dde8625f7bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Brasileiros usam carry trade com stablecoin na Solana para oferecer rendimento aos holders",
       "link": "https://br.tradingview.com/news/cointelegraph:dde8625f7bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:7ea8d6388bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "ARK Invest adiciona US$ 34 milhões em ações da Robinhood enquanto Bitcoin cai abaixo de US$ 66 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:7ea8d6388bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Feb 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de fev. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ARK Invest adiciona US$ 34 milhões em ações da Robinhood enquanto Bitcoin cai abaixo de US$ 66 mil\" data-qa-id=\"news-headline-title\">ARK Invest adiciona US$ 34 milhões em ações da Robinhood enquanto Bitcoin cai abaixo de US$ 66 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bc42f781cbc81:0",
-      "index": 12,
-      "title": "Binance conclui conversão de US$ 1 bilhão em Bitcoin para fundo emergencial SAFU",
-      "link": "https://br.tradingview.com/news/cointelegraph:bc42f781cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-12T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Feb 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de fev. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance conclui conversão de US$ 1 bilhão em Bitcoin para fundo emergencial SAFU\" data-qa-id=\"news-headline-title\">Binance conclui conversão de US$ 1 bilhão em Bitcoin para fundo emergencial SAFU</div></div></article>"
     }
   ]
 }
