@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-13T14:42:19.378Z",
+  "updated_at": "2026-02-13T15:30:52.822Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:bbfc912ccbc81:0",
+      "id": "cointelegraph:d9f4f2e35bc81:0",
       "index": 0,
+      "title": "Taxas de financiamento negativas no Bitcoin por vários dias indicam short 'lotado': vem reversão?",
+      "link": "https://br.tradingview.com/news/cointelegraph:d9f4f2e35bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-13T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Feb 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de fev. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Taxas de financiamento negativas no Bitcoin por vários dias indicam short 'lotado': vem reversão?\" data-qa-id=\"news-headline-title\">Taxas de financiamento negativas no Bitcoin por vários dias indicam short 'lotado': vem reversão?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bbfc912ccbc81:0",
+      "index": 1,
       "title": "Analistas de Bitcoin preveem fase 'prolongada' de consolidação para o preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:bbfc912ccbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:69f62930dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Nomad, QuintoAndar e Neogrid anunciam novas vagas de emprego",
       "link": "https://br.tradingview.com/news/cointelegraph:69f62930dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:313b8cd0ebc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Convicção de El Salvador no Bitcoin agora tem custo de US$ 300 milhões",
       "link": "https://br.tradingview.com/news/beincrypto:313b8cd0ebc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:bf4cdf687bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Detentores de ETF de ETH estão em 'posição pior' do que pares de ETF de BTC enquanto mercado cripto busca fundo",
       "link": "https://br.tradingview.com/news/cointelegraph:bf4cdf687bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:c6c374768bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ouro registra volatilidade maior que Bitcoin e reabre debate sobre reserva de valor",
       "link": "https://br.tradingview.com/news/beincrypto:c6c374768bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:6051b4e26bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "IA estremece o Bitcoin com o Brasil de olho em 3 criptomoedas em alta de até 180%",
       "link": "https://br.tradingview.com/news/cointelegraph:6051b4e26bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:1d27bdbb4bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Previsão do Standard Chartered para o Bitcoin ainda aponta US$ 50 mil como preço adequado",
       "link": "https://br.tradingview.com/news/beincrypto:1d27bdbb4bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6743edb3fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Tribunal de Contas da União faz análise exclusiva sobre o DREX e aponta recomendações ao Banco Central do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:6743edb3fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a00e376f6bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Preço do Bitcoin hoje, 13/02/2026: BTC em US$ 66 mil com SMA apontando armadilha dos touros",
       "link": "https://br.tradingview.com/news/cointelegraph:a00e376f6bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ef3df2218bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin precisa fechar a semana em US$ 68,3 mil para evitar 'aceleração de baixa', diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:ef3df2218bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:212328260bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Este inverno cripto é diferente? Principais analistas reavaliam o Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:212328260bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e52649fffbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Binance sinaliza possível 'mudança' de alta no Bitcoin enquanto o sentimento cripto atinge mínima histórica",
       "link": "https://br.tradingview.com/news/cointelegraph:e52649fffbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Feb 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de fev. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance sinaliza possível 'mudança' de alta no Bitcoin enquanto o sentimento cripto atinge mínima histórica\" data-qa-id=\"news-headline-title\">Binance sinaliza possível 'mudança' de alta no Bitcoin enquanto o sentimento cripto atinge mínima histórica</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:113c776ddbc81:0",
-      "index": 12,
-      "title": "Saídas de mineradores de Bitcoin disparam em janeiro, mas vendas de empresas de capital aberto permanecem limitadas",
-      "link": "https://br.tradingview.com/news/cointelegraph:113c776ddbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-12T19:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Feb 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de fev. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Saídas de mineradores de Bitcoin disparam em janeiro, mas vendas de empresas de capital aberto permanecem limitadas\" data-qa-id=\"news-headline-title\">Saídas de mineradores de Bitcoin disparam em janeiro, mas vendas de empresas de capital aberto permanecem limitadas</div></div></article>"
     }
   ]
 }
