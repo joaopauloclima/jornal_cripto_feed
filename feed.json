@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-02-14T16:35:36.216Z",
+  "updated_at": "2026-02-14T17:05:39.177Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9dc7653b0bc81:0",
+      "id": "cointelegraph:271dd48acbc81:0",
       "index": 0,
+      "title": "ARK volta a apostar na Coinbase e compra US$ 15 milhões em ações",
+      "link": "https://br.tradingview.com/news/cointelegraph:271dd48acbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-14T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 14 Feb 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de fev. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ARK volta a apostar na Coinbase e compra US$ 15 milhões em ações\" data-qa-id=\"news-headline-title\">ARK volta a apostar na Coinbase e compra US$ 15 milhões em ações</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9ea7b840cbc81:0",
+      "index": 1,
+      "title": "A Trump Media registra dois novos ETFs de criptomoedas atrelados a Bitcoin, Ether e Cronos",
+      "link": "https://br.tradingview.com/news/cointelegraph:9ea7b840cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-14T16:43:18.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 14 Feb 2026 16:43:18 GMT\" class=\"apply-common-tooltip\" title=\"14 de fev. de 2026, 16:43 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A Trump Media registra dois novos ETFs de criptomoedas atrelados a Bitcoin, Ether e Cronos\" data-qa-id=\"news-headline-title\">A Trump Media registra dois novos ETFs de criptomoedas atrelados a Bitcoin, Ether e Cronos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f01638cf3bc81:0",
+      "index": 2,
+      "title": "Figure Technology sofre ataque hacker que expôs informações pessoais de clientes",
+      "link": "https://br.tradingview.com/news/cointelegraph:f01638cf3bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-14T16:32:37.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 14 Feb 2026 16:32:37 GMT\" class=\"apply-common-tooltip\" title=\"14 de fev. de 2026, 16:32 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Figure Technology sofre ataque hacker que expôs informações pessoais de clientes\" data-qa-id=\"news-headline-title\">Figure Technology sofre ataque hacker que expôs informações pessoais de clientes</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9dc7653b0bc81:0",
+      "index": 3,
       "title": "Notícias cripto: Vert tokeniza debêntures, Paxos Gold na Mynt, Ledger e OKX, além de outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:9dc7653b0bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:56a79240cbc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Mais de 3.500 sites no Brasil foram usados para minerar criptomoedas ilegalmente",
       "link": "https://br.tradingview.com/news/cointelegraph:56a79240cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:2979bbb5abc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Criptomoedas mantêm otimismo mesmo após queda de 50%, mostra Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:2979bbb5abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8f4451510bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Binance confirma funcionário como alvo após prisão de três suspeitos por invasão na França",
       "link": "https://br.tradingview.com/news/cointelegraph:8f4451510bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:07715d52fbc81:0",
-      "index": 4,
+      "index": 7,
       "title": "CEO de criptomoeda é condenado a 20 anos por esquema Ponzi de US$ 200 milhões em Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:07715d52fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a9b88bba3bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Sentimento dos investidores em criptomoedas deve subir após aprovação do CLARITY Act, diz Bessent",
       "link": "https://br.tradingview.com/news/cointelegraph:a9b88bba3bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:6492b949bbc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Bitcoin supera US$ 69 mil com CPI mais fraco nos EUA, mas chances de corte de juros pelo Fed seguem baixas",
       "link": "https://br.tradingview.com/news/cointelegraph:6492b949bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:0f706bce5bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Meta de US$ 72 mil para o Bitcoin é possível se padrão de recuperação em V se confirmar",
       "link": "https://br.tradingview.com/news/cointelegraph:0f706bce5bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:671ecef7abc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Bitcoin registra maior 'subvalorização' desde março de 2023, quando estava em US$ 20 mil, mostra indicador",
       "link": "https://br.tradingview.com/news/cointelegraph:671ecef7abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:3f4ec7ff7bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "ETFs de Bitcoin perdem US$ 410 milhões enquanto o Standard Chartered reduz a meta de BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:3f4ec7ff7bc81:0/",
       "source": "Cointelegraph",
@@ -111,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Feb 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de fev. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin perdem US$ 410 milhões enquanto o Standard Chartered reduz a meta de BTC\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin perdem US$ 410 milhões enquanto o Standard Chartered reduz a meta de BTC</div></div></article>"
-    },
-    {
-      "id": "beincrypto:f555f3eb7bc81:0",
-      "index": 10,
-      "title": "Empresa gigante do crédito de US$ 3 bilhões testa uso de Bitcoin em sistema de hipotecas",
-      "link": "https://br.tradingview.com/news/beincrypto:f555f3eb7bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-13T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Feb 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de fev. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Empresa gigante do crédito de US$ 3 bilhões testa uso de Bitcoin em sistema de hipotecas\" data-qa-id=\"news-headline-title\">Empresa gigante do crédito de US$ 3 bilhões testa uso de Bitcoin em sistema de hipotecas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b1808a29fbc81:0",
-      "index": 11,
-      "title": "Bitcoin perde US$ 2,3 bilhões no maior crash desde 2021 à medida que a capitulação se intensifica, aponta analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:b1808a29fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-13T16:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Feb 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de fev. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin perde US$ 2,3 bilhões no maior crash desde 2021 à medida que a capitulação se intensifica, aponta analista\" data-qa-id=\"news-headline-title\">Bitcoin perde US$ 2,3 bilhões no maior crash desde 2021 à medida que a capitulação se intensifica, aponta analista</div></div></article>"
-    },
-    {
-      "id": "beincrypto:2954deeb1bc81:0",
-      "index": 12,
-      "title": "Preço do Ethereum (ETH) pode buscar alta de 10%?",
-      "link": "https://br.tradingview.com/news/beincrypto:2954deeb1bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-13T16:02:56.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Feb 2026 16:02:56 GMT\" class=\"apply-common-tooltip\" title=\"13 de fev. de 2026, 16:02 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Ethereum (ETH) pode buscar alta de 10%?\" data-qa-id=\"news-headline-title\">Preço do Ethereum (ETH) pode buscar alta de 10%?</div></div></article>"
     }
   ]
 }
