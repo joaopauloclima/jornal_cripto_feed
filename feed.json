@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-15T16:00:59.322Z",
+  "updated_at": "2026-02-15T16:31:42.239Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:528cc5f03bc81:0",
+      "id": "cointelegraph:cfa2fe231bc81:0",
       "index": 0,
+      "title": "Todos os benefícios de programas sociais podem ser distribuídos na blockchain",
+      "link": "https://br.tradingview.com/news/cointelegraph:cfa2fe231bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-15T16:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 15 Feb 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de fev. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Todos os benefícios de programas sociais podem ser distribuídos na blockchain\" data-qa-id=\"news-headline-title\">Todos os benefícios de programas sociais podem ser distribuídos na blockchain</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:528cc5f03bc81:0",
+      "index": 1,
       "title": "Nikita Bier, executiva da X, afirma que a negociação dentro do aplicativo estará disponível em algumas semanas",
       "link": "https://br.tradingview.com/news/cointelegraph:528cc5f03bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:26087a7f7bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Os mercados de previsão devem se tornar plataformas de proteção, afirma Buterin",
       "link": "https://br.tradingview.com/news/cointelegraph:26087a7f7bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:b0a495680bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Roundhill entra com pedido para lançar ETFs que apostam nos resultados da eleição nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:b0a495680bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:37cbc17f4bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Instituições podem se cansar e demitir desenvolvedores do Bitcoin por causa da falha em lidar com a computação quântica",
       "link": "https://br.tradingview.com/news/cointelegraph:37cbc17f4bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:2ed470794bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Notícias Cripto: Chiliz lança Manifesto 2030, TokenOne recebe autorização da CVM e outras novidades do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:2ed470794bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8ebac73c4bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Senadores querem investigação sobre aporte dos Emirados Árabes em empresa ligada a Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:8ebac73c4bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f51f2b98ebc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ouro digital ou ação de tecnologia? A crise de identidade do Bitcoin se aprofunda",
       "link": "https://br.tradingview.com/news/cointelegraph:f51f2b98ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d679bcc07bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Open interest no mercado de ETH cai para o menor nível em 3 anos: o que isso significa para o preço do Ether?",
       "link": "https://br.tradingview.com/news/cointelegraph:d679bcc07bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e59a3e9fcbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Deputados da Holanda aprovam projeto que coloca imposto de 36% para diversos ativos incluindo cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:e59a3e9fcbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:2bcd71a65bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "O Ether se mantém acima de US$ 2.000, mas será que a saída de US$ 242 milhões dos ETF spot pode manter a tendência de queda no preço?",
       "link": "https://br.tradingview.com/news/cointelegraph:2bcd71a65bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d40b14244bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Conselheiro da Casa Branca para criptomoedas afirma que bancos não devem temer o rendimento das stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:d40b14244bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:eb5b0987ebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Holders de Bitcoin estão sendo testados com a redução da inflação, diz Pompliano",
       "link": "https://br.tradingview.com/news/cointelegraph:eb5b0987ebc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 15 Feb 2026 07:36:01 GMT\" class=\"apply-common-tooltip\" title=\"15 de fev. de 2026, 07:36 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Holders de Bitcoin estão sendo testados com a redução da inflação, diz Pompliano\" data-qa-id=\"news-headline-title\">Holders de Bitcoin estão sendo testados com a redução da inflação, diz Pompliano</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:7f0bc0732bc81:0",
-      "index": 12,
-      "title": "Memecoins mostram 'sinal clássico de capitulação', diz Santiment",
-      "link": "https://br.tradingview.com/news/cointelegraph:7f0bc0732bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-14T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSHIB.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 14 Feb 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de fev. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Memecoins mostram 'sinal clássico de capitulação', diz Santiment\" data-qa-id=\"news-headline-title\">Memecoins mostram 'sinal clássico de capitulação', diz Santiment</div></div></article>"
     }
   ]
 }
