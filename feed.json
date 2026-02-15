@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-15T09:07:19.564Z",
+  "updated_at": "2026-02-15T10:03:36.377Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e59a3e9fcbc81:0",
+      "id": "cointelegraph:f51f2b98ebc81:0",
       "index": 0,
+      "title": "Ouro digital ou ação de tecnologia? A crise de identidade do Bitcoin se aprofunda",
+      "link": "https://br.tradingview.com/news/cointelegraph:f51f2b98ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-15T10:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 15 Feb 2026 10:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de fev. de 2026, 10:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ouro digital ou ação de tecnologia? A crise de identidade do Bitcoin se aprofunda\" data-qa-id=\"news-headline-title\">Ouro digital ou ação de tecnologia? A crise de identidade do Bitcoin se aprofunda</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d679bcc07bc81:0",
+      "index": 1,
+      "title": "Open interest no mercado de ETH cai para o menor nível em 3 anos: o que isso significa para o preço do Ether?",
+      "link": "https://br.tradingview.com/news/cointelegraph:d679bcc07bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-15T09:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 15 Feb 2026 09:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de fev. de 2026, 09:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Open interest no mercado de ETH cai para o menor nível em 3 anos: o que isso significa para o preço do Ether?\" data-qa-id=\"news-headline-title\">Open interest no mercado de ETH cai para o menor nível em 3 anos: o que isso significa para o preço do Ether?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e59a3e9fcbc81:0",
+      "index": 2,
       "title": "Deputados da Holanda aprovam projeto que coloca imposto de 36% para diversos ativos incluindo cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:e59a3e9fcbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2bcd71a65bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "O Ether se mantém acima de US$ 2.000, mas será que a saída de US$ 242 milhões dos ETF spot pode manter a tendência de queda no preço?",
       "link": "https://br.tradingview.com/news/cointelegraph:2bcd71a65bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:d40b14244bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Conselheiro da Casa Branca para criptomoedas afirma que bancos não devem temer o rendimento das stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:d40b14244bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:eb5b0987ebc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Holders de Bitcoin estão sendo testados com a redução da inflação, diz Pompliano",
       "link": "https://br.tradingview.com/news/cointelegraph:eb5b0987ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:7f0bc0732bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Memecoins mostram 'sinal clássico de capitulação', diz Santiment",
       "link": "https://br.tradingview.com/news/cointelegraph:7f0bc0732bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:271dd48acbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "ARK volta a apostar na Coinbase e compra US$ 15 milhões em ações",
       "link": "https://br.tradingview.com/news/cointelegraph:271dd48acbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:9ea7b840cbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "A Trump Media registra dois novos ETFs de criptomoedas atrelados a Bitcoin, Ether e Cronos",
       "link": "https://br.tradingview.com/news/cointelegraph:9ea7b840cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f01638cf3bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Figure Technology sofre ataque hacker que expôs informações pessoais de clientes",
       "link": "https://br.tradingview.com/news/cointelegraph:f01638cf3bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:9dc7653b0bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Notícias cripto: Vert tokeniza debêntures, Paxos Gold na Mynt, Ledger e OKX, além de outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:9dc7653b0bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:56a79240cbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Mais de 3.500 sites no Brasil foram usados para minerar criptomoedas ilegalmente",
       "link": "https://br.tradingview.com/news/cointelegraph:56a79240cbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:2979bbb5abc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Criptomoedas mantêm otimismo mesmo após queda de 50%, mostra Binance",
       "link": "https://br.tradingview.com/news/cointelegraph:2979bbb5abc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 14 Feb 2026 01:41:08 GMT\" class=\"apply-common-tooltip\" title=\"14 de fev. de 2026, 01:41 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas mantêm otimismo mesmo após queda de 50%, mostra Binance\" data-qa-id=\"news-headline-title\">Criptomoedas mantêm otimismo mesmo após queda de 50%, mostra Binance</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:8f4451510bc81:0",
-      "index": 11,
-      "title": "Binance confirma funcionário como alvo após prisão de três suspeitos por invasão na França",
-      "link": "https://br.tradingview.com/news/cointelegraph:8f4451510bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-14T01:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 14 Feb 2026 01:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de fev. de 2026, 01:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance confirma funcionário como alvo após prisão de três suspeitos por invasão na França\" data-qa-id=\"news-headline-title\">Binance confirma funcionário como alvo após prisão de três suspeitos por invasão na França</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:07715d52fbc81:0",
-      "index": 12,
-      "title": "CEO de criptomoeda é condenado a 20 anos por esquema Ponzi de US$ 200 milhões em Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:07715d52fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-14T00:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sat, 14 Feb 2026 00:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de fev. de 2026, 00:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"CEO de criptomoeda é condenado a 20 anos por esquema Ponzi de US$ 200 milhões em Bitcoin\" data-qa-id=\"news-headline-title\">CEO de criptomoeda é condenado a 20 anos por esquema Ponzi de US$ 200 milhões em Bitcoin</div></div></article>"
     }
   ]
 }
