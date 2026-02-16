@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-16T16:28:38.334Z",
+  "updated_at": "2026-02-16T17:29:15.535Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:dd457bf86bc81:0",
+      "id": "cointelegraph:d88feac42bc81:0",
       "index": 0,
+      "title": "Bitcoin recua 22% no acumulado do ano e caminha para o pior 1º trimestre em 8 anos",
+      "link": "https://br.tradingview.com/news/cointelegraph:d88feac42bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-16T16:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 16 Feb 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de fev. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin recua 22% no acumulado do ano e caminha para o pior 1º trimestre em 8 anos\" data-qa-id=\"news-headline-title\">Bitcoin recua 22% no acumulado do ano e caminha para o pior 1º trimestre em 8 anos</div></div></article>"
+    },
+    {
+      "id": "beincrypto:53eebd448bc81:0",
+      "index": 1,
+      "title": "Computação quântica pode estar impactando a Bitcoin; entenda",
+      "link": "https://br.tradingview.com/news/beincrypto:53eebd448bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-02-16T15:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 16 Feb 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de fev. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Computação quântica pode estar impactando a Bitcoin; entenda\" data-qa-id=\"news-headline-title\">Computação quântica pode estar impactando a Bitcoin; entenda</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:dd457bf86bc81:0",
+      "index": 2,
       "title": "Fundador da Aave propõe boom de US$ 50 trilhões em 'ativos de abundância' para impulsionar a DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:dd457bf86bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "beincrypto:045b965cabc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Alta no preço do Bitcoin (BTC) impulsiona lucro em 90%",
       "link": "https://br.tradingview.com/news/beincrypto:045b965cabc81:0/",
       "source": "Beincrypto",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:777a9f336bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Solução pior que o problema? Adam Back se opõe à proposta BIP-110 para corrigir os Ordinals",
       "link": "https://br.tradingview.com/news/cointelegraph:777a9f336bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:454202817bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Gigante mundial do Petróleo lança token de energia na XRP Ledger e pode vender o ativo no Brasil em breve",
       "link": "https://br.tradingview.com/news/cointelegraph:454202817bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:33975dfe9bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Dogecoin volta ao centro das atenções: mercado aposta em recuperação?",
       "link": "https://br.tradingview.com/news/beincrypto:33975dfe9bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:33f836312bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "3 altcoins para ficar de olho nesta semana de Carnaval",
       "link": "https://br.tradingview.com/news/beincrypto:33f836312bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:329456864bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Preço do Bitcoin hoje, 16/02/2026: BTC abre a semana em queda de 2% voltando para US$ 68 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:329456864bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:1bb2c25b8bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Coinbase enfrenta acusações de “rug pull” após Super Bowl; entenda",
       "link": "https://br.tradingview.com/news/beincrypto:1bb2c25b8bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:7c8625130bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "CZ afirma que a falta de privacidade on-chain está prejudicando os pagamentos em criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:7c8625130bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ee8ef5f6ebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Michael Saylor sinaliza mais uma compra de Bitcoin em meio à turbulência do mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:ee8ef5f6ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6ee103458bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Estudo sugere que WLFI pode funcionar como um \"sinal de alerta\" para prever o preço no mercado de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:6ee103458bc81:0/",
       "source": "Cointelegraph",
@@ -122,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 15 Feb 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de fev. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Estudo sugere que WLFI pode funcionar como um &quot;sinal de alerta&quot; para prever o preço no mercado de criptomoedas\" data-qa-id=\"news-headline-title\">Estudo sugere que WLFI pode funcionar como um \"sinal de alerta\" para prever o preço no mercado de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ecba2195ebc81:0",
-      "index": 11,
-      "title": "Mirae Asset vai comprar 92% da exchange cripto coreana Korbit por US$ 93 milhões",
-      "link": "https://br.tradingview.com/news/cointelegraph:ecba2195ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-15T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 15 Feb 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de fev. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Mirae Asset vai comprar 92% da exchange cripto coreana Korbit por US$ 93 milhões\" data-qa-id=\"news-headline-title\">Mirae Asset vai comprar 92% da exchange cripto coreana Korbit por US$ 93 milhões</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:cfa2fe231bc81:0",
-      "index": 12,
-      "title": "Todos os benefícios de programas sociais podem ser distribuídos na blockchain",
-      "link": "https://br.tradingview.com/news/cointelegraph:cfa2fe231bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-15T16:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 15 Feb 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de fev. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Todos os benefícios de programas sociais podem ser distribuídos na blockchain\" data-qa-id=\"news-headline-title\">Todos os benefícios de programas sociais podem ser distribuídos na blockchain</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:528cc5f03bc81:0",
-      "index": 13,
-      "title": "Nikita Bier, executiva da X, afirma que a negociação dentro do aplicativo estará disponível em algumas semanas",
-      "link": "https://br.tradingview.com/news/cointelegraph:528cc5f03bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-15T15:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Sun, 15 Feb 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de fev. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Nikita Bier, executiva da X, afirma que a negociação dentro do aplicativo estará disponível em algumas semanas\" data-qa-id=\"news-headline-title\">Nikita Bier, executiva da X, afirma que a negociação dentro do aplicativo estará disponível em algumas semanas</div></div></article>"
     }
   ]
 }
