@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-17T18:40:04.597Z",
+  "updated_at": "2026-02-17T19:39:51.744Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:cb58bbf37bc81:0",
+      "id": "cointelegraph:975491ce8bc81:0",
       "index": 0,
+      "title": "Binance detém 65% das reservas de stablecoins em CEXs enquanto saídas desaceleram, afirma CryptoQuant",
+      "link": "https://br.tradingview.com/news/cointelegraph:975491ce8bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-17T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Feb 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de fev. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance detém 65% das reservas de stablecoins em CEXs enquanto saídas desaceleram, afirma CryptoQuant\" data-qa-id=\"news-headline-title\">Binance detém 65% das reservas de stablecoins em CEXs enquanto saídas desaceleram, afirma CryptoQuant</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:cb58bbf37bc81:0",
+      "index": 1,
       "title": "Steak ‘n Shake diz que vendas nas mesmas lojas subiram 'dramaticamente' após adoção do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:cb58bbf37bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:22e41e3eebc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Uso do Monero se mantém apesar de deslistagens enquanto mercados da darknet migram para XMR",
       "link": "https://br.tradingview.com/news/cointelegraph:22e41e3eebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:fc5e7a89cbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Sentimento de cripto enfraquece em fevereiro enquanto Bitcoin enfrenta riscos",
       "link": "https://br.tradingview.com/news/beincrypto:fc5e7a89cbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b3a0a0813bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Taxas diárias da Polygon superam Ethereum em meio ao boom de mercados de previsão",
       "link": "https://br.tradingview.com/news/cointelegraph:b3a0a0813bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:1d716e5d3bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Sentimento cripto atinge medo extremo enquanto Matrixport aponta possível fundo",
       "link": "https://br.tradingview.com/news/cointelegraph:1d716e5d3bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:4a1f9aa61bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Metaplanet divulga resultados do ano fiscal de 2025",
       "link": "https://br.tradingview.com/news/beincrypto:4a1f9aa61bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f12616685bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Logan Paul vende carta Pokémon por US$ 16,5 milhões anos após polêmica com NFT fracionado",
       "link": "https://br.tradingview.com/news/cointelegraph:f12616685bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:609422564bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Paradigm reformula mineração de Bitcoin como ativo de rede elétrica, não como dreno de energia",
       "link": "https://br.tradingview.com/news/cointelegraph:609422564bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:aa64f19c4bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Padrão gráfico do ETH projeta rali até US$ 2,5 mil se condições-chave forem atendidas, apontam dados",
       "link": "https://br.tradingview.com/news/cointelegraph:aa64f19c4bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:c4c5da91fbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "XRP ganha força com investidor acumulando e mira rompimento acima de US$ 2",
       "link": "https://br.tradingview.com/news/beincrypto:c4c5da91fbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2d0d2f822bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "RWAs tokenizados sobem 13,5% apesar de queda de US$ 1 trilhão no mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:2d0d2f822bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:90e088be5bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Fundo patrimonial de Harvard reduz participação em ETF de Bitcoin e adiciona exposição a Ether",
       "link": "https://br.tradingview.com/news/cointelegraph:90e088be5bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Feb 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de fev. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Fundo patrimonial de Harvard reduz participação em ETF de Bitcoin e adiciona exposição a Ether\" data-qa-id=\"news-headline-title\">Fundo patrimonial de Harvard reduz participação em ETF de Bitcoin e adiciona exposição a Ether</div></div></article>"
-    },
-    {
-      "id": "beincrypto:53a379cf6bc81:0",
-      "index": 12,
-      "title": "Preço do Ethereum tenta 3 recuperações em 10 dias",
-      "link": "https://br.tradingview.com/news/beincrypto:53a379cf6bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-17T13:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Feb 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de fev. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Ethereum tenta 3 recuperações em 10 dias\" data-qa-id=\"news-headline-title\">Preço do Ethereum tenta 3 recuperações em 10 dias</div></div></article>"
     }
   ]
 }
