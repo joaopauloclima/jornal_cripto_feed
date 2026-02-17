@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-17T10:34:50.876Z",
+  "updated_at": "2026-02-17T11:31:42.812Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:df7a37bc1bc81:0",
+      "id": "cointelegraph:34260df4cbc81:0",
       "index": 0,
+      "title": "Carnaval das criptomoedas no Brasil tem PYTH e JUP no ‘grupo especial’ e o Bitcoin na luta contra o ‘rebaixamento’",
+      "link": "https://br.tradingview.com/news/cointelegraph:34260df4cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-17T11:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Feb 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de fev. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Carnaval das criptomoedas no Brasil tem PYTH e JUP no ‘grupo especial’ e o Bitcoin na luta contra o ‘rebaixamento’\" data-qa-id=\"news-headline-title\">Carnaval das criptomoedas no Brasil tem PYTH e JUP no ‘grupo especial’ e o Bitcoin na luta contra o ‘rebaixamento’</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:df7a37bc1bc81:0",
+      "index": 1,
       "title": "Onda de acumulação do Bitcoin coloca os US$ 80 mil novamente no radar, afirma analista",
       "link": "https://br.tradingview.com/news/cointelegraph:df7a37bc1bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:14fa0f991bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "RSI semanal do Bitcoin ecoa mercado de baixa de meados de 2022 enquanto o BTC testa a liquidez",
       "link": "https://br.tradingview.com/news/cointelegraph:14fa0f991bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0b6cd001abc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Alerta de Ray Dalio sobre a ordem mundial reacende tese do Bitcoin como dinheiro neutro",
       "link": "https://br.tradingview.com/news/cointelegraph:0b6cd001abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:66ecccb1fbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Receita da Metaplanet salta 738% e Bitcoin responde por 95% das vendas",
       "link": "https://br.tradingview.com/news/cointelegraph:66ecccb1fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:40b9c3396bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "US$ 75 mil ou mudança de regime de baixa? Cinco pontos para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:40b9c3396bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:75b418cdbbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Binance nega reportagem sobre violações de sanções ligadas ao Irã e demissões de investigadores",
       "link": "https://br.tradingview.com/news/cointelegraph:75b418cdbbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:37e289e4fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Willy Woo alerta que risco quântico corrói a vantagem do Bitcoin sobre o ouro",
       "link": "https://br.tradingview.com/news/cointelegraph:37e289e4fbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:da344d72abc81:0",
-      "index": 7,
+      "index": 8,
       "title": "OKX obtém licença de pagamentos na UE para expandir serviços com stablecoins",
       "link": "https://br.tradingview.com/news/cointelegraph:da344d72abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d88feac42bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin recua 22% no acumulado do ano e caminha para o pior 1º trimestre em 8 anos",
       "link": "https://br.tradingview.com/news/cointelegraph:d88feac42bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:53eebd448bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Computação quântica pode estar impactando a Bitcoin; entenda",
       "link": "https://br.tradingview.com/news/beincrypto:53eebd448bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:dd457bf86bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Fundador da Aave propõe boom de US$ 50 trilhões em 'ativos de abundância' para impulsionar a DeFi",
       "link": "https://br.tradingview.com/news/cointelegraph:dd457bf86bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:045b965cabc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Alta no preço do Bitcoin (BTC) impulsiona lucro em 90%",
       "link": "https://br.tradingview.com/news/beincrypto:045b965cabc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 16 Feb 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de fev. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Alta no preço do Bitcoin (BTC) impulsiona lucro em 90%\" data-qa-id=\"news-headline-title\">Alta no preço do Bitcoin (BTC) impulsiona lucro em 90%</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:777a9f336bc81:0",
-      "index": 12,
-      "title": "Solução pior que o problema? Adam Back se opõe à proposta BIP-110 para corrigir os Ordinals",
-      "link": "https://br.tradingview.com/news/cointelegraph:777a9f336bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-16T14:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 16 Feb 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de fev. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Solução pior que o problema? Adam Back se opõe à proposta BIP-110 para corrigir os Ordinals\" data-qa-id=\"news-headline-title\">Solução pior que o problema? Adam Back se opõe à proposta BIP-110 para corrigir os Ordinals</div></div></article>"
     }
   ]
 }
