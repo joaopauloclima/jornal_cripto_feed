@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-18T13:58:25.207Z",
+  "updated_at": "2026-02-18T14:44:39.337Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3fa123af4bc81:0",
+      "id": "cointelegraph:8a02d0ef0bc81:0",
       "index": 0,
+      "title": "Touros do Ether miram US$ 2,5 mil enquanto ETF com staking e crescimento de RWAs impulsionam otimismo",
+      "link": "https://br.tradingview.com/news/cointelegraph:8a02d0ef0bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-18T14:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Feb 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de fev. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Touros do Ether miram US$ 2,5 mil enquanto ETF com staking e crescimento de RWAs impulsionam otimismo\" data-qa-id=\"news-headline-title\">Touros do Ether miram US$ 2,5 mil enquanto ETF com staking e crescimento de RWAs impulsionam otimismo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:34fcaeaccbc81:0",
+      "index": 1,
+      "title": "Bitcoin permanece preso abaixo de US$ 70 mil enquanto funding negativo acende sinal de alerta",
+      "link": "https://br.tradingview.com/news/cointelegraph:34fcaeaccbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-18T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Feb 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de fev. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Bitcoin permanece preso abaixo de US$ 70 mil enquanto funding negativo acende sinal de alerta\" data-qa-id=\"news-headline-title\">Bitcoin permanece preso abaixo de US$ 70 mil enquanto funding negativo acende sinal de alerta</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3fa123af4bc81:0",
+      "index": 2,
       "title": "Padrão gráfico do Bitcoin e atividade de baleias alertam para outra queda de 20% no preço",
       "link": "https://br.tradingview.com/news/cointelegraph:3fa123af4bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:16295cc24bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Principais empresas de tesouraria cripto Strategy e BitMine ampliam posições em BTC e ETH",
       "link": "https://br.tradingview.com/news/cointelegraph:16295cc24bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:a195d2928bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Dinheiro inteligente retorna ao XRP e preço pode repetir alta de 30% em janeiro",
       "link": "https://br.tradingview.com/news/beincrypto:a195d2928bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:fb16631c7bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Novas baleias de Bitcoin estão presas no prejuízo, mas por quanto tempo?",
       "link": "https://br.tradingview.com/news/cointelegraph:fb16631c7bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:a8366428abc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Baleia do Bitcoin leva indicador ao maior nível do ano e mira US$ 60 mil",
       "link": "https://br.tradingview.com/news/beincrypto:a8366428abc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:38154c4a3bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Preço do Bitcoin ignora compra de US$ 168 milhões em BTC pela Strategy enquanto tensões com o Irã aumentam",
       "link": "https://br.tradingview.com/news/cointelegraph:38154c4a3bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:6cc78475ebc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Brasil espreita Dogecoin e criptomoedas sobem até 30% com o Bitcoin a US$ 68 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:6cc78475ebc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:289187114bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 18/02/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:289187114bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c7e820f2ebc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Preço do Bitcoin hoje, 18/02/2026: BTC continua em US$ 67 mil, mas sinais começam a indicar alta",
       "link": "https://br.tradingview.com/news/cointelegraph:c7e820f2ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:a09d4aca6bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Peter Thiel abandona empresa de Ethereum e vende 100% da participação",
       "link": "https://br.tradingview.com/news/beincrypto:a09d4aca6bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8f077dcebbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Traders apontam três alvos de preço para o Bitcoin se US$ 70 mil continuar como resistência",
       "link": "https://br.tradingview.com/news/cointelegraph:8f077dcebbc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Feb 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de fev. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Traders apontam três alvos de preço para o Bitcoin se US$ 70 mil continuar como resistência\" data-qa-id=\"news-headline-title\">Traders apontam três alvos de preço para o Bitcoin se US$ 70 mil continuar como resistência</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:cca892e37bc81:0",
-      "index": 11,
-      "title": "Ventos macroeconômicos contrários testam preço do Bitcoin enquanto US$ 70 mil desmorona em meio à volatilidade do mercado dos EUA",
-      "link": "https://br.tradingview.com/news/cointelegraph:cca892e37bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-17T19:43:55.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Feb 2026 19:43:55 GMT\" class=\"apply-common-tooltip\" title=\"17 de fev. de 2026, 19:43 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Ventos macroeconômicos contrários testam preço do Bitcoin enquanto US$ 70 mil desmorona em meio à volatilidade do mercado dos EUA\" data-qa-id=\"news-headline-title\">Ventos macroeconômicos contrários testam preço do Bitcoin enquanto US$ 70 mil desmorona em meio à volatilidade do mercado dos EUA</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:975491ce8bc81:0",
-      "index": 12,
-      "title": "Binance detém 65% das reservas de stablecoins em CEXs enquanto saídas desaceleram, afirma CryptoQuant",
-      "link": "https://br.tradingview.com/news/cointelegraph:975491ce8bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-17T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Feb 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de fev. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Binance detém 65% das reservas de stablecoins em CEXs enquanto saídas desaceleram, afirma CryptoQuant\" data-qa-id=\"news-headline-title\">Binance detém 65% das reservas de stablecoins em CEXs enquanto saídas desaceleram, afirma CryptoQuant</div></div></article>"
     }
   ]
 }
