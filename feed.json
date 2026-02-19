@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-19T18:38:01.104Z",
+  "updated_at": "2026-02-19T19:32:56.487Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f2e5f34d3bc81:0",
+      "id": "cointelegraph:ef0fbad98bc81:0",
       "index": 0,
+      "title": "ETFs de Bitcoin registram saídas de US$ 133 milhões e o sentimento permanece em 'medo extremo'",
+      "link": "https://br.tradingview.com/news/cointelegraph:ef0fbad98bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-19T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Feb 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de fev. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"ETFs de Bitcoin registram saídas de US$ 133 milhões e o sentimento permanece em 'medo extremo'\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin registram saídas de US$ 133 milhões e o sentimento permanece em 'medo extremo'</div></div></article>"
+    },
+    {
+      "id": "beincrypto:960893eaebc81:0",
+      "index": 1,
+      "title": "XRP está abaixo de US$ 1,51 e US$ 47 milhões em posições vendidas estão em jogo",
+      "link": "https://br.tradingview.com/news/beincrypto:960893eaebc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-02-19T18:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Feb 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de fev. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"XRP está abaixo de US$ 1,51 e US$ 47 milhões em posições vendidas estão em jogo\" data-qa-id=\"news-headline-title\">XRP está abaixo de US$ 1,51 e US$ 47 milhões em posições vendidas estão em jogo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f2e5f34d3bc81:0",
+      "index": 2,
       "title": "Bitcoin caminha para desalinhamento extremo, cenário visto somente quanto o BTC custava US$ 74",
       "link": "https://br.tradingview.com/news/cointelegraph:f2e5f34d3bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:5131077bdbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Banco Central do Brasil já prepara lei específica para empresas como Ripple, Fireblocks, BitGo, Paxos entre outras",
       "link": "https://br.tradingview.com/news/cointelegraph:5131077bdbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:70de5f42cbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Família Trump reúne líderes de Wall Street em fórum cripto em Mar-a-Lago",
       "link": "https://br.tradingview.com/news/cointelegraph:70de5f42cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:72b9a203fbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "HBAR sinaliza um alerta de 40%, mas posicionamento indica outro desfecho",
       "link": "https://br.tradingview.com/news/beincrypto:72b9a203fbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:38824a03abc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Lei CLARITY dos EUA pode ser aprovada 'esperamos até abril', diz senador Bernie Moreno",
       "link": "https://br.tradingview.com/news/cointelegraph:38824a03abc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:e35718b2ebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Derretimento pode levar o Bitcoin a US$ 60 mil e US$ 54,9 mil, apontam análises",
       "link": "https://br.tradingview.com/news/cointelegraph:e35718b2ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:b5400c685bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Ethereum define prioridades para 2026 e mercado avalia impacto no ETH",
       "link": "https://br.tradingview.com/news/beincrypto:b5400c685bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:d1f5c7c02bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Dados de futuros da Solana mostram touros em pânico: SOL vai segurar os US$ 80?",
       "link": "https://br.tradingview.com/news/cointelegraph:d1f5c7c02bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:673461009bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Caminho de menor resistência do SOL aponta para US$ 50, mas dados onchain sugerem fundo",
       "link": "https://br.tradingview.com/news/cointelegraph:673461009bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:5ee44fbbebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Títulos do Tesouro são vistos como principal motor do preço do Bitcoin, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:5ee44fbbebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:fb0e81331bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "‘Bandeira de baixa’ no Ether projeta alvo em US$ 1,1 mil: veja o motivo",
       "link": "https://br.tradingview.com/news/cointelegraph:fb0e81331bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Feb 2026 13:14:12 GMT\" class=\"apply-common-tooltip\" title=\"19 de fev. de 2026, 13:14 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"‘Bandeira de baixa’ no Ether projeta alvo em US$ 1,1 mil: veja o motivo\" data-qa-id=\"news-headline-title\">‘Bandeira de baixa’ no Ether projeta alvo em US$ 1,1 mil: veja o motivo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:589f6900abc81:0",
-      "index": 11,
-      "title": "Criptomoedas no radar do Brasil recuam enquanto EUA e Irã assombram o Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:589f6900abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-19T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Feb 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de fev. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Criptomoedas no radar do Brasil recuam enquanto EUA e Irã assombram o Bitcoin\" data-qa-id=\"news-headline-title\">Criptomoedas no radar do Brasil recuam enquanto EUA e Irã assombram o Bitcoin</div></div></article>"
-    },
-    {
-      "id": "beincrypto:545d20ea4bc81:0",
-      "index": 12,
-      "title": "Preço do Bitcoin entra em novo mercado de baixa? Veja por que métricas indicam que sim",
-      "link": "https://br.tradingview.com/news/beincrypto:545d20ea4bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-19T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Feb 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de fev. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin entra em novo mercado de baixa? Veja por que métricas indicam que sim\" data-qa-id=\"news-headline-title\">Preço do Bitcoin entra em novo mercado de baixa? Veja por que métricas indicam que sim</div></div></article>"
     }
   ]
 }
