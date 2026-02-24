@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-24T07:52:39.498Z",
+  "updated_at": "2026-02-24T10:36:21.074Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f4df3b228bc81:0",
+      "id": "cointelegraph:edab9ee55bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje, 24/02/2026: Por que o BTC caiu 3%? Criptomoeda perde suporte de US$ 65 mil e preocupa traders",
+      "link": "https://br.tradingview.com/news/cointelegraph:edab9ee55bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-24T09:15:19.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 24 Feb 2026 09:15:19 GMT\" class=\"apply-common-tooltip\" title=\"24 de fev. de 2026, 09:15 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 24/02/2026: Por que o BTC caiu 3%? Criptomoeda perde suporte de US$ 65 mil e preocupa traders\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 24/02/2026: Por que o BTC caiu 3%? Criptomoeda perde suporte de US$ 65 mil e preocupa traders</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f4df3b228bc81:0",
+      "index": 1,
       "title": "Tendência semanal crítica do Bitcoin é rompida pela primeira vez em mais de 2 anos: o BTC acabou?",
       "link": "https://br.tradingview.com/news/cointelegraph:f4df3b228bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:542057f62bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Banco Central do Brasil vai cruzar dados para liberar exchanges e exigir capital mínimo de R$ 8 milhões já na fase 1",
       "link": "https://br.tradingview.com/news/cointelegraph:542057f62bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:cffa9a44fbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Análise de preços em 23/02: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, BCH e ADA",
       "link": "https://br.tradingview.com/news/cointelegraph:cffa9a44fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5d84ebc28bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Traders de Bitcoin divergem sobre a força do preço do BTC com US$ 60 mil no radar",
       "link": "https://br.tradingview.com/news/cointelegraph:5d84ebc28bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9873aa0e4bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Gráfico de preço do XRP e atividade das baleias alertam para queda abaixo de US$ 1",
       "link": "https://br.tradingview.com/news/cointelegraph:9873aa0e4bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:3e2031759bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Tether sinaliza fundo do Bitcoin: BTC pode iniciar outra alta de 100%?",
       "link": "https://br.tradingview.com/news/cointelegraph:3e2031759bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3ZJ0Z3:0",
-      "index": 6,
+      "index": 7,
       "title": "Crypto.com obtém aprovação condicional nos EUA para licença bancária de confiança nacional.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3ZJ0Z3:0/",
       "source": "Reuters",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:06a4c8d84bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Standard Chartered mantém previsão de US$ 2 trilhões para stablecoins, mas reduz impacto nos títulos do Tesouro",
       "link": "https://br.tradingview.com/news/cointelegraph:06a4c8d84bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:cd0842b90bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Baleias de Cardano vendem US$ 30 milhões antes de queda",
       "link": "https://br.tradingview.com/news/beincrypto:cd0842b90bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8f55419d2bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Tesourarias de Bitcoin registram rara sequência de vendas com BTC negociado perto dos US$ 66 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:8f55419d2bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:14c40c1acbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Detentores 'desistiram' nos US$ 65 mil: cinco coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:14c40c1acbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:8ded96bfbbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Brasil fecha acordo com a Índia para impulsionar blockchain e computação quântica",
       "link": "https://br.tradingview.com/news/cointelegraph:8ded96bfbbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 23 Feb 2026 17:40:12 GMT\" class=\"apply-common-tooltip\" title=\"23 de fev. de 2026, 17:40 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Brasil fecha acordo com a Índia para impulsionar blockchain e computação quântica\" data-qa-id=\"news-headline-title\">Brasil fecha acordo com a Índia para impulsionar blockchain e computação quântica</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2026:newsml_L1N3ZJ0RD:0",
-      "index": 12,
-      "title": "A empresa de TREASURIES de Bitcoin ProCap recompra ações após queda nas criptomoedas.",
-      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3ZJ0RD:0/",
-      "source": "Reuters",
-      "published_at": "2026-02-23T17:08:59.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/procap-financial.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/procap-financial.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Mon, 23 Feb 2026 17:08:59 GMT\" class=\"apply-common-tooltip\" title=\"23 de fev. de 2026, 17:08 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"A empresa de TREASURIES de Bitcoin ProCap recompra ações após queda nas criptomoedas.\" data-qa-id=\"news-headline-title\">A empresa de TREASURIES de Bitcoin ProCap recompra ações após queda nas criptomoedas.</div></div></article>"
     }
   ]
 }
