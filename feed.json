@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-25T08:32:53.593Z",
+  "updated_at": "2026-02-25T09:41:26.611Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b64faa0d1bc81:0",
+      "id": "cointelegraph:5f861c049bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje, 25/02/2026: BTC ensaia recuperação com alta de 3,3% e volta para US$ 65 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:5f861c049bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-25T09:12:36.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Feb 2026 09:12:36 GMT\" class=\"apply-common-tooltip\" title=\"25 de fev. de 2026, 09:12 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 25/02/2026: BTC ensaia recuperação com alta de 3,3% e volta para US$ 65 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 25/02/2026: BTC ensaia recuperação com alta de 3,3% e volta para US$ 65 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b64faa0d1bc81:0",
+      "index": 1,
       "title": "Tokenização pode fazer brasileiro economizar até 38% e mudar o mercado financeiro no país",
       "link": "https://br.tradingview.com/news/cointelegraph:b64faa0d1bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:397b9bec4bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do Ethereum cai para US$ 1,8 mil e dados indicam que os ursos do ETH ainda não terminaram",
       "link": "https://br.tradingview.com/news/cointelegraph:397b9bec4bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:49757b168bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Petrobras usa Cardano e cartões NFC para rastrear atividade dos funcionários em sistema de 'Prova de Presença'",
       "link": "https://br.tradingview.com/news/cointelegraph:49757b168bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:04942a02ebc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Gap de 'valor justo' do Bitcoin define alvo em US$ 45 mil enquanto temores com IA pressionam ações e ouro",
       "link": "https://br.tradingview.com/news/cointelegraph:04942a02ebc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8ee227fe5bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Unimed usa blockchain, oráculos e contratos inteligentes para conservar biomas no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:8ee227fe5bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:0d8e13735bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "'Realização excessiva de perdas' de traders de Bitcoin pode levar o preço do BTC abaixo de US$ 44 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:0d8e13735bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d32ad37bcbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Minerador solo de Bitcoin recebe mais de US$ 200 mil em recompensa de bloco com hashrate alugado",
       "link": "https://br.tradingview.com/news/cointelegraph:d32ad37bcbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:b20be9822bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "CEO do Telegram enfrenta investigação na Rússia por alegações de facilitação de terrorismo",
       "link": "https://br.tradingview.com/news/cointelegraph:b20be9822bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:3cd6d1cd9bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Venda massiva de ETFs de Bitcoin é uma 'purificação' do cenário de alta, diz investidor",
       "link": "https://br.tradingview.com/news/cointelegraph:3cd6d1cd9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:a57be46fabc81:0",
-      "index": 9,
+      "index": 10,
       "title": "XRP Ledger atinge vários recordes importantes em fevereiro apesar da queda no preço",
       "link": "https://br.tradingview.com/news/beincrypto:a57be46fabc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:900b6a110bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Mercado de Bitcoin entra em capitulação total com preço abaixo de US$ 63 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:900b6a110bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1a1b61205bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Reservas de stablecoins da Binance caem 19% desde novembro",
       "link": "https://br.tradingview.com/news/cointelegraph:1a1b61205bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 24 Feb 2026 15:50:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de fev. de 2026, 15:50 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Reservas de stablecoins da Binance caem 19% desde novembro\" data-qa-id=\"news-headline-title\">Reservas de stablecoins da Binance caem 19% desde novembro</div></div></article>"
-    },
-    {
-      "id": "beincrypto:af5a8f6b5bc81:0",
-      "index": 12,
-      "title": "Preço das ações da Strategy enfrenta novo risco enquanto investidores institucionais recuam",
-      "link": "https://br.tradingview.com/news/beincrypto:af5a8f6b5bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-24T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-e0sK1tJv article-e7vDzPX4 article-DmjQR0Aa wrapper-DmjQR0Aa\" data-qa-id=\"news-headline-card\"><div class=\"container-e7vDzPX4 container-DmjQR0Aa\"><div class=\"header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV header-e7vDzPX4 header-DmjQR0Aa header-TUPxzdRV\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-e7vDzPX4 logo-TUPxzdRV apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">E</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-e7vDzPX4 date-TUPxzdRV doth-TUPxzdRV\"><relative-time locale=\"pt\" event-time=\"Tue, 24 Feb 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de fev. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-e7vDzPX4\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-bETdSLzM title-e7vDzPX4 title-DmjQR0Aa\" data-overflow-tooltip-text=\"Preço das ações da Strategy enfrenta novo risco enquanto investidores institucionais recuam\" data-qa-id=\"news-headline-title\">Preço das ações da Strategy enfrenta novo risco enquanto investidores institucionais recuam</div></div></article>"
     }
   ]
 }
