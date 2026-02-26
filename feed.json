@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-26T14:47:49.658Z",
+  "updated_at": "2026-02-26T16:42:47.204Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6da45d42bbc81:0",
+      "id": "cointelegraph:d0fe616a7bc81:0",
       "index": 0,
+      "title": "Efeito Jane Street pode levar o Bitcoin a US$ 79 mil, avaliam especialistas",
+      "link": "https://br.tradingview.com/news/cointelegraph:d0fe616a7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-26T15:40:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 15:40:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 15:40 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Efeito Jane Street pode levar o Bitcoin a US$ 79 mil, avaliam especialistas\" data-qa-id=\"news-headline-title\">Efeito Jane Street pode levar o Bitcoin a US$ 79 mil, avaliam especialistas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:434edcd72bc81:0",
+      "index": 1,
+      "title": "ETFs de Bitcoin retomam força com US$ 507 milhões em entradas enquanto BTC recupera US$ 68 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:434edcd72bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-26T15:10:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 15:10:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 15:10 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"ETFs de Bitcoin retomam força com US$ 507 milhões em entradas enquanto BTC recupera US$ 68 mil\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin retomam força com US$ 507 milhões em entradas enquanto BTC recupera US$ 68 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6da45d42bbc81:0",
+      "index": 2,
       "title": "Bitwise: Wall Street está otimista com cripto, investidores permanecem céticos",
       "link": "https://br.tradingview.com/news/cointelegraph:6da45d42bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:670cc311abc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Buterin apresenta roadmap de 4 anos para acelerar e tornar a Ethereum resistente a computação quântica",
       "link": "https://br.tradingview.com/news/cointelegraph:670cc311abc81:0/",
       "source": "Cointelegraph",
@@ -25,8 +47,19 @@
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 14:10:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 14:10 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Buterin apresenta roadmap de 4 anos para acelerar e tornar a Ethereum resistente a computação quântica\" data-qa-id=\"news-headline-title\">Buterin apresenta roadmap de 4 anos para acelerar e tornar a Ethereum resistente a computação quântica</div></div></article>"
     },
     {
+      "id": "beincrypto:0249534a4bc81:0",
+      "index": 4,
+      "title": "Recuperação do mercado cripto elimina quase US$ 500 milhões em posições vendidas",
+      "link": "https://br.tradingview.com/news/beincrypto:0249534a4bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-02-26T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSTETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Recuperação do mercado cripto elimina quase US$ 500 milhões em posições vendidas\" data-qa-id=\"news-headline-title\">Recuperação do mercado cripto elimina quase US$ 500 milhões em posições vendidas</div></div></article>"
+    },
+    {
       "id": "cointelegraph:5ba49d3b1bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Aave supera US$ 1 trilhão em volume de empréstimos em meio à expansão institucional",
       "link": "https://br.tradingview.com/news/cointelegraph:5ba49d3b1bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8455a5eb1bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Blockchains podem precisar de 1 bilhão de TPS para suportar o futuro dos agentes de IA, afirma Stripe",
       "link": "https://br.tradingview.com/news/cointelegraph:8455a5eb1bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:23e11fb3fbc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Próximo vencimento de US$ 10,5 bilhões em opções de Bitcoin pode encerrar o mercado de baixa: veja como",
       "link": "https://br.tradingview.com/news/cointelegraph:23e11fb3fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "beincrypto:5ed27ca75bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Ethereum supera US$ 2 mil: investidores retomam acumulação",
       "link": "https://br.tradingview.com/news/beincrypto:5ed27ca75bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3ZM0ME:0",
-      "index": 6,
+      "index": 9,
       "title": "A American Bitcoin, apoiada pelos irmãos Trump, registra prejuízo trimestral em meio à liquidação de criptomoedas.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3ZM0ME:0/",
       "source": "Reuters",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:6e0d8e0f7bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Stablecoin do real BBRL chega à rede Polygon",
       "link": "https://br.tradingview.com/news/cointelegraph:6e0d8e0f7bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "beincrypto:570982d0abc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Vitalik Buterin diz que Ethereum em breve terá resistência quântica",
       "link": "https://br.tradingview.com/news/beincrypto:570982d0abc81:0/",
       "source": "Beincrypto",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:42cd9fc56bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Preço do Bitcoin hoje, 26/02/2026: Por que o BTC subiu hoje? Criptomoeda supera US$ 68 mil, mas será que pode ir para US$ 70 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:42cd9fc56bc81:0/",
       "source": "Cointelegraph",
@@ -111,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 10:39:21 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 10:39 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 26/02/2026: Por que o BTC subiu hoje? Criptomoeda supera US$ 68 mil, mas será que pode ir para US$ 70 mil?\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 26/02/2026: Por que o BTC subiu hoje? Criptomoeda supera US$ 68 mil, mas será que pode ir para US$ 70 mil?</div></div></article>"
-    },
-    {
-      "id": "beincrypto:3a1a99e80bc81:0",
-      "index": 10,
-      "title": "Por que o mercado de criptomoedas está em alta hoje 26/02/2026?",
-      "link": "https://br.tradingview.com/news/beincrypto:3a1a99e80bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-26T10:27:08.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 10:27:08 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 10:27 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 26/02/2026?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 26/02/2026?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:717bcafa6bc81:0",
-      "index": 11,
-      "title": "O que está acontecendo com o Bitcoin e o que você precisa saber para março",
-      "link": "https://br.tradingview.com/news/cointelegraph:717bcafa6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-25T23:31:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Feb 2026 23:31:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de fev. de 2026, 23:31 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"O que está acontecendo com o Bitcoin e o que você precisa saber para março\" data-qa-id=\"news-headline-title\">O que está acontecendo com o Bitcoin e o que você precisa saber para março</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ba1bbc707bc81:0",
-      "index": 12,
-      "title": "Análise de preços em 25/02: BTC, ETH, XRP, BNB, SOL, DOGE, BCH, ADA, HYPE e XMR",
-      "link": "https://br.tradingview.com/news/cointelegraph:ba1bbc707bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-25T23:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Feb 2026 23:30:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de fev. de 2026, 23:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Análise de preços em 25/02: BTC, ETH, XRP, BNB, SOL, DOGE, BCH, ADA, HYPE e XMR\" data-qa-id=\"news-headline-title\">Análise de preços em 25/02: BTC, ETH, XRP, BNB, SOL, DOGE, BCH, ADA, HYPE e XMR</div></div></article>"
     }
   ]
 }
