@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-26T19:39:57.592Z",
+  "updated_at": "2026-02-26T21:22:30.567Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1c8b36b2cbc81:0",
+      "id": "cointelegraph:da1f08ce4bc81:0",
       "index": 0,
+      "title": "Como Trump influencia o preço do Bitcoin?",
+      "link": "https://br.tradingview.com/news/cointelegraph:da1f08ce4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-26T20:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 20:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Como Trump influencia o preço do Bitcoin?\" data-qa-id=\"news-headline-title\">Como Trump influencia o preço do Bitcoin?</div></div></article>"
+    },
+    {
+      "id": "beincrypto:b02d8fe9dbc81:0",
+      "index": 1,
+      "title": "Por que Cardano não disparou mesmo após compra de US$ 340 milhões por baleias?",
+      "link": "https://br.tradingview.com/news/beincrypto:b02d8fe9dbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-02-26T19:30:43.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 19:30:43 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 19:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Por que Cardano não disparou mesmo após compra de US$ 340 milhões por baleias?\" data-qa-id=\"news-headline-title\">Por que Cardano não disparou mesmo após compra de US$ 340 milhões por baleias?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1c8b36b2cbc81:0",
+      "index": 2,
       "title": "Tensões no Oriente Médio impulsionam o ouro com investidores em busca de ativos de proteção",
       "link": "https://br.tradingview.com/news/cointelegraph:1c8b36b2cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:392ba6f07bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Traders de Bitcoin explicam por que US$ 80 mil é o próximo alvo dos touros",
       "link": "https://br.tradingview.com/news/cointelegraph:392ba6f07bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:fc46096d1bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Baleia perde US$ 8,2 milhões em operação alavancada com ARC na Lighter",
       "link": "https://br.tradingview.com/news/cointelegraph:fc46096d1bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:7bd8e9123bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "XRP resiste à queda e investidores miram recuperação",
       "link": "https://br.tradingview.com/news/beincrypto:7bd8e9123bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:2697b3643bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ethereum sobe 11%, mas ainda não se recupera",
       "link": "https://br.tradingview.com/news/beincrypto:2697b3643bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d0fe616a7bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Efeito Jane Street pode levar o Bitcoin a US$ 79 mil, avaliam especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:d0fe616a7bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:434edcd72bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "ETFs de Bitcoin retomam força com US$ 507 milhões em entradas enquanto BTC recupera US$ 68 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:434edcd72bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:6da45d42bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitwise: Wall Street está otimista com cripto, investidores permanecem céticos",
       "link": "https://br.tradingview.com/news/cointelegraph:6da45d42bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:670cc311abc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Buterin apresenta roadmap de 4 anos para acelerar e tornar a Ethereum resistente a computação quântica",
       "link": "https://br.tradingview.com/news/cointelegraph:670cc311abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:0249534a4bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Recuperação do mercado cripto elimina quase US$ 500 milhões em posições vendidas",
       "link": "https://br.tradingview.com/news/beincrypto:0249534a4bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:5ba49d3b1bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Aave supera US$ 1 trilhão em volume de empréstimos em meio à expansão institucional",
       "link": "https://br.tradingview.com/news/cointelegraph:5ba49d3b1bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:8455a5eb1bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Blockchains podem precisar de 1 bilhão de TPS para suportar o futuro dos agentes de IA, afirma Stripe",
       "link": "https://br.tradingview.com/news/cointelegraph:8455a5eb1bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 13:10:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 13:10 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Blockchains podem precisar de 1 bilhão de TPS para suportar o futuro dos agentes de IA, afirma Stripe\" data-qa-id=\"news-headline-title\">Blockchains podem precisar de 1 bilhão de TPS para suportar o futuro dos agentes de IA, afirma Stripe</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:23e11fb3fbc81:0",
-      "index": 12,
-      "title": "Próximo vencimento de US$ 10,5 bilhões em opções de Bitcoin pode encerrar o mercado de baixa: veja como",
-      "link": "https://br.tradingview.com/news/cointelegraph:23e11fb3fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-26T12:45:14.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Feb 2026 12:45:14 GMT\" class=\"apply-common-tooltip\" title=\"26 de fev. de 2026, 12:45 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Próximo vencimento de US$ 10,5 bilhões em opções de Bitcoin pode encerrar o mercado de baixa: veja como\" data-qa-id=\"news-headline-title\">Próximo vencimento de US$ 10,5 bilhões em opções de Bitcoin pode encerrar o mercado de baixa: veja como</div></div></article>"
     }
   ]
 }
