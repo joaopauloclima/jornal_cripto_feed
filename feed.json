@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-02-27T17:23:20.275Z",
+  "updated_at": "2026-02-27T19:25:55.793Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:88410d0a2bc81:0",
+      "id": "cointelegraph:cf7a4d51ebc81:0",
       "index": 0,
+      "title": "Sequência de cinco meses de perdas do Bitcoin pode não terminar em março e US$ 70 mil limita o preço",
+      "link": "https://br.tradingview.com/news/cointelegraph:cf7a4d51ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-27T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Feb 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de fev. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Sequência de cinco meses de perdas do Bitcoin pode não terminar em março e US$ 70 mil limita o preço\" data-qa-id=\"news-headline-title\">Sequência de cinco meses de perdas do Bitcoin pode não terminar em março e US$ 70 mil limita o preço</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:db471e835bc81:0",
+      "index": 1,
+      "title": "B3, a bolsa de valores do Brasil, ganha R$ 131 milhões em receita com produtos de criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:db471e835bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-27T17:42:42.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Feb 2026 17:42:42 GMT\" class=\"apply-common-tooltip\" title=\"27 de fev. de 2026, 17:42 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"B3, a bolsa de valores do Brasil, ganha R$ 131 milhões em receita com produtos de criptomoedas\" data-qa-id=\"news-headline-title\">B3, a bolsa de valores do Brasil, ganha R$ 131 milhões em receita com produtos de criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:88410d0a2bc81:0",
+      "index": 2,
       "title": "Brasil equipara exchanges a bancos, impõe sigilo cadastral e comunicação de operações ilícitas com criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:88410d0a2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "beincrypto:cf7ad436bbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Ethereum pode subir? Mesmo com alerta, US$ 1 bilhão aposta na alta",
       "link": "https://br.tradingview.com/news/beincrypto:cf7ad436bbc81:0/",
       "source": "Beincrypto",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c9d9a030abc81:0",
-      "index": 2,
+      "index": 4,
       "title": "ETFs spot de Bitcoin recebem US$ 1 bilhão em três dias enquanto investidores compram a queda",
       "link": "https://br.tradingview.com/news/cointelegraph:c9d9a030abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d6ad53cc3bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Analista cripto diz que pressão vendedora do Bitcoin está quase esgotada",
       "link": "https://br.tradingview.com/news/cointelegraph:d6ad53cc3bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e1b921090bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Ether pode permanecer 'contido' nas próximas semanas, aponta analista",
       "link": "https://br.tradingview.com/news/cointelegraph:e1b921090bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:2b738b370bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Clube dos 100 BTC se aproxima de 20 mil carteiras em 'sinal de alta'",
       "link": "https://br.tradingview.com/news/cointelegraph:2b738b370bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:80d1c60e0bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Por que a Dogecoin (DOGE) pode estar se aproximando de sua “last dance”?",
       "link": "https://br.tradingview.com/news/beincrypto:80d1c60e0bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:ad236a061bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Mercados de futuros e opções de Bitcoin sinalizam cautela enquanto BTC mira US$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:ad236a061bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:69c05e347bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Próximo grande movimento do ETH depende de fechamento diário acima de US$ 2,1 mil, apontam dados",
       "link": "https://br.tradingview.com/news/cointelegraph:69c05e347bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:ae5f0ed2ebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 27/02/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:ae5f0ed2ebc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:3a4464194bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Oferta global monetária atinge recorde: por que o ouro está em alta e o Bitcoin não?",
       "link": "https://br.tradingview.com/news/beincrypto:3a4464194bc81:0/",
       "source": "Beincrypto",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Feb 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de fev. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Oferta global monetária atinge recorde: por que o ouro está em alta e o Bitcoin não?\" data-qa-id=\"news-headline-title\">Oferta global monetária atinge recorde: por que o ouro está em alta e o Bitcoin não?</div></div></article>"
-    },
-    {
-      "id": "beincrypto:ef9847e39bc81:0",
-      "index": 11,
-      "title": "Investidores acumulam US$ 12 bilhões em Bitcoin e sinalizam possível alta do BTC",
-      "link": "https://br.tradingview.com/news/beincrypto:ef9847e39bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-02-27T11:09:04.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Feb 2026 11:09:04 GMT\" class=\"apply-common-tooltip\" title=\"27 de fev. de 2026, 11:09 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Investidores acumulam US$ 12 bilhões em Bitcoin e sinalizam possível alta do BTC\" data-qa-id=\"news-headline-title\">Investidores acumulam US$ 12 bilhões em Bitcoin e sinalizam possível alta do BTC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0f6b44cdbbc81:0",
-      "index": 12,
-      "title": "Preço do Bitcoin hoje, 27/02/2026: criptomoeda perde forças em US$ 68 mil sem catalisadores para alta",
-      "link": "https://br.tradingview.com/news/cointelegraph:0f6b44cdbbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-27T09:29:31.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Feb 2026 09:29:31 GMT\" class=\"apply-common-tooltip\" title=\"27 de fev. de 2026, 09:29 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 27/02/2026: criptomoeda perde forças em US$ 68 mil sem catalisadores para alta\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 27/02/2026: criptomoeda perde forças em US$ 68 mil sem catalisadores para alta</div></div></article>"
     }
   ]
 }
