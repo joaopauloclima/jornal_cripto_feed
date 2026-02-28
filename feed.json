@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-02-28T13:28:46.871Z",
+  "updated_at": "2026-02-28T15:57:35.354Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:5077130f7bc81:0",
+      "id": "cointelegraph:b160f3744bc81:0",
       "index": 0,
+      "title": "Exclusivo: 3 grandes exchanges cripto vão deixar o Brasil por conta de novas regras do Banco Central e 1 estaria perto de falir",
+      "link": "https://br.tradingview.com/news/cointelegraph:b160f3744bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-02-28T14:22:19.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 28 Feb 2026 14:22:19 GMT\" class=\"apply-common-tooltip\" title=\"28 de fev. de 2026, 14:22 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Exclusivo: 3 grandes exchanges cripto vão deixar o Brasil por conta de novas regras do Banco Central e 1 estaria perto de falir\" data-qa-id=\"news-headline-title\">Exclusivo: 3 grandes exchanges cripto vão deixar o Brasil por conta de novas regras do Banco Central e 1 estaria perto de falir</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5077130f7bc81:0",
+      "index": 1,
       "title": "Ex-CEO da Mt. Gox propõe hard fork para recuperar 80 mil Bitcoins hackeados",
       "link": "https://br.tradingview.com/news/cointelegraph:5077130f7bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:94117c7d0bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin cai após EUA e Israel lançarem ataque militar contra o Irã",
       "link": "https://br.tradingview.com/news/beincrypto:94117c7d0bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:83cd93866bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "DOJ dos EUA apreende e bloqueia US$ 580 milhões em criptomoedas ligadas a 'criminosos transnacionais chineses'",
       "link": "https://br.tradingview.com/news/cointelegraph:83cd93866bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:c907edd1abc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Análise gráfica aponta que Bitcoin está próximo do fundo e vai iniciar alta em breve",
       "link": "https://br.tradingview.com/news/cointelegraph:c907edd1abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:8056e7132bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Análise de preços em 27/02: BTC, ETH, XRP, BNB, SOL, DOGE, BCH, ADA, HYPE e LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:8056e7132bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:cea54e8f8bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Juíza de Nova York rejeita tentativa da Binance de levar ações cripto nos EUA para arbitragem",
       "link": "https://br.tradingview.com/news/cointelegraph:cea54e8f8bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:fa4fd81c4bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Trump prestes a assumir Cuba, tensão de guerra com o Irã aumenta e Bitcoin cai novamente",
       "link": "https://br.tradingview.com/news/beincrypto:fa4fd81c4bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:619b350bcbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin vai a US$ 30 mil? Analistas debatem quando e em qual preço o BTC vai atingir o fundo",
       "link": "https://br.tradingview.com/news/cointelegraph:619b350bcbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:7145e5fa7bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bloxs aposta no blockchain para virar a nova infraestrutura do mercado financeiro brasileiro",
       "link": "https://br.tradingview.com/news/cointelegraph:7145e5fa7bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:94764fc49bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin ameaça nova queda enquanto PPI dos EUA leva o ouro à máxima de 1 mês",
       "link": "https://br.tradingview.com/news/cointelegraph:94764fc49bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:cf7a4d51ebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Sequência de cinco meses de perdas do Bitcoin pode não terminar em março e US$ 70 mil limita o preço",
       "link": "https://br.tradingview.com/news/cointelegraph:cf7a4d51ebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:db471e835bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "B3, a bolsa de valores do Brasil, ganha R$ 131 milhões em receita com produtos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:db471e835bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Feb 2026 17:42:42 GMT\" class=\"apply-common-tooltip\" title=\"27 de fev. de 2026, 17:42 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"B3, a bolsa de valores do Brasil, ganha R$ 131 milhões em receita com produtos de criptomoedas\" data-qa-id=\"news-headline-title\">B3, a bolsa de valores do Brasil, ganha R$ 131 milhões em receita com produtos de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:88410d0a2bc81:0",
-      "index": 12,
-      "title": "Brasil equipara exchanges a bancos, impõe sigilo cadastral e comunicação de operações ilícitas com criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:88410d0a2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-27T16:20:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Feb 2026 16:20:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de fev. de 2026, 16:20 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Brasil equipara exchanges a bancos, impõe sigilo cadastral e comunicação de operações ilícitas com criptomoedas\" data-qa-id=\"news-headline-title\">Brasil equipara exchanges a bancos, impõe sigilo cadastral e comunicação de operações ilícitas com criptomoedas</div></div></article>"
     }
   ]
 }
