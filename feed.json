@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-01T17:29:18.628Z",
+  "updated_at": "2026-03-01T19:10:05.422Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:355b4a7fbbc81:0",
+      "id": "cointelegraph:cbb5133f5bc81:0",
       "index": 0,
+      "title": "Notícias Cripto: XP lança Expert Trader, Ripple amplia soluções de custódia, Bitget Wallet com IA e outras novidades",
+      "link": "https://br.tradingview.com/news/cointelegraph:cbb5133f5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-01T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 01 Mar 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de mar. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Notícias Cripto: XP lança Expert Trader, Ripple amplia soluções de custódia, Bitget Wallet com IA e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: XP lança Expert Trader, Ripple amplia soluções de custódia, Bitget Wallet com IA e outras novidades</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:355b4a7fbbc81:0",
+      "index": 1,
       "title": "Ouro tokenizado lidera \"100% da descoberta de preços do fim de semana\" com fechamento da CME Futuros",
       "link": "https://br.tradingview.com/news/cointelegraph:355b4a7fbbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:7a4a10d51bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Brasileiro lança carteira cripto 100% sem taxa gas",
       "link": "https://br.tradingview.com/news/cointelegraph:7a4a10d51bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:206369802bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Notícias Cripto: Abracam lança selo PLD/FTP, Núclea e Destrava Aí, Oobit no Brasil e outras novidades do mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:206369802bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:52046eb51bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "EUA usaram Anthropic em ataque ao Irã apesar da ordem de proibição de Trump, diz WSJ",
       "link": "https://br.tradingview.com/news/cointelegraph:52046eb51bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:882d18c76bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Previsão de preço da Solana: o que esperar da SOL em março de 2026?",
       "link": "https://br.tradingview.com/news/beincrypto:882d18c76bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e0054fef7bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Exclusivo: Deputados se unem e criam a 'Bancada da Liberdade' para barrar qualquer iniciativa de IOF em criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:e0054fef7bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7f1e40d5dbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Tesourarias de criptomoedas devem se consolidar em 2026, diz executivo",
       "link": "https://br.tradingview.com/news/cointelegraph:7f1e40d5dbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a68014d6dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin cai para US$ 63 mil após EUA e Israel bombardearem o Irã",
       "link": "https://br.tradingview.com/news/cointelegraph:a68014d6dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b160f3744bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Exclusivo: 3 grandes exchanges cripto vão deixar o Brasil por conta de novas regras do Banco Central e 1 estaria perto de falir",
       "link": "https://br.tradingview.com/news/cointelegraph:b160f3744bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5077130f7bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Ex-CEO da Mt. Gox propõe hard fork para recuperar 80 mil Bitcoins hackeados",
       "link": "https://br.tradingview.com/news/cointelegraph:5077130f7bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:94117c7d0bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin cai após EUA e Israel lançarem ataque militar contra o Irã",
       "link": "https://br.tradingview.com/news/beincrypto:94117c7d0bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:83cd93866bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "DOJ dos EUA apreende e bloqueia US$ 580 milhões em criptomoedas ligadas a 'criminosos transnacionais chineses'",
       "link": "https://br.tradingview.com/news/cointelegraph:83cd93866bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 28 Feb 2026 01:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de fev. de 2026, 01:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"DOJ dos EUA apreende e bloqueia US$ 580 milhões em criptomoedas ligadas a 'criminosos transnacionais chineses'\" data-qa-id=\"news-headline-title\">DOJ dos EUA apreende e bloqueia US$ 580 milhões em criptomoedas ligadas a 'criminosos transnacionais chineses'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c907edd1abc81:0",
-      "index": 12,
-      "title": "Análise gráfica aponta que Bitcoin está próximo do fundo e vai iniciar alta em breve",
-      "link": "https://br.tradingview.com/news/cointelegraph:c907edd1abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-28T00:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 28 Feb 2026 00:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de fev. de 2026, 00:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Análise gráfica aponta que Bitcoin está próximo do fundo e vai iniciar alta em breve\" data-qa-id=\"news-headline-title\">Análise gráfica aponta que Bitcoin está próximo do fundo e vai iniciar alta em breve</div></div></article>"
     }
   ]
 }
