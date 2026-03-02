@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-03-02T18:30:01.064Z",
+  "updated_at": "2026-03-02T19:32:22.616Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:64deac7debc81:0",
+      "id": "cointelegraph:566264d22bc81:0",
       "index": 0,
+      "title": "Anonimato absoluto em criptomoedas se tornará cada vez mais difícil, admitem provedores de Swap",
+      "link": "https://br.tradingview.com/news/cointelegraph:566264d22bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-02T18:55:22.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 18:55:22 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 18:55 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Anonimato absoluto em criptomoedas se tornará cada vez mais difícil, admitem provedores de Swap\" data-qa-id=\"news-headline-title\">Anonimato absoluto em criptomoedas se tornará cada vez mais difícil, admitem provedores de Swap</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f6d47bf53bc81:0",
+      "index": 1,
+      "title": "ProCap amplia reservas para 5.457 BTC e busca reduzir desconto no NAV",
+      "link": "https://br.tradingview.com/news/cointelegraph:f6d47bf53bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-02T18:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 18:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"ProCap amplia reservas para 5.457 BTC e busca reduzir desconto no NAV\" data-qa-id=\"news-headline-title\">ProCap amplia reservas para 5.457 BTC e busca reduzir desconto no NAV</div></div></article>"
+    },
+    {
+      "id": "beincrypto:2ed1ea6d3bc81:0",
+      "index": 2,
+      "title": "XRP Ledger pode permitir compra e venda de opções se nova rede for aprovada",
+      "link": "https://br.tradingview.com/news/beincrypto:2ed1ea6d3bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-03-02T18:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"XRP Ledger pode permitir compra e venda de opções se nova rede for aprovada\" data-qa-id=\"news-headline-title\">XRP Ledger pode permitir compra e venda de opções se nova rede for aprovada</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:64deac7debc81:0",
+      "index": 3,
       "title": "Bitcoin vai despencar se o petróleo atingir US$ 100 por barril?",
       "link": "https://br.tradingview.com/news/cointelegraph:64deac7debc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:193cb2913bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Exclusivo: Ministério da Fazenda iniciou análise sobre regulamentação em relação ao Polymarket e Kalshi",
       "link": "https://br.tradingview.com/news/cointelegraph:193cb2913bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "beincrypto:bca1dec31bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Terceira Guerra Mundial vira tendência em cripto, mas mercados ignoram tensão global",
       "link": "https://br.tradingview.com/news/beincrypto:bca1dec31bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ed39ae89fbc81:0",
-      "index": 3,
+      "index": 6,
       "title": "‘Isso não é Terceira Guerra Mundial’: Cinco coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:ed39ae89fbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a7a55e977bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Bitcoin pode ganhar impulso se IA levar a política monetária mais frouxa, diz NYDIG",
       "link": "https://br.tradingview.com/news/cointelegraph:a7a55e977bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5a602bc1cbc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Fed pode imprimir dinheiro para apoiar conflito dos EUA com o Irã, diz Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:5a602bc1cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a462c39b5bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "‘Vibe coding’ com IA pode colocar roadmap da Ethereum à frente do cronograma, afirma Vitalik Buterin",
       "link": "https://br.tradingview.com/news/cointelegraph:a462c39b5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f11a24c20bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Strategy eleva dividendo mensal da preferencial STRC para 11,5% em março de 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:f11a24c20bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "beincrypto:b9dc80a3dbc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Strategy eleva dividendo para 11,50% enquanto queda do Bitcoin pressiona a MSTR",
       "link": "https://br.tradingview.com/news/beincrypto:b9dc80a3dbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:d5ef478f2bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Brasil aporta R$ 16,5 milhões em semana de reação dos fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:d5ef478f2bc81:0/",
       "source": "Cointelegraph",
@@ -111,39 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Brasil aporta R$ 16,5 milhões em semana de reação dos fundos de criptomoedas\" data-qa-id=\"news-headline-title\">Brasil aporta R$ 16,5 milhões em semana de reação dos fundos de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "beincrypto:b4d51efe4bc81:0",
-      "index": 10,
-      "title": "Preço da Solana se prepara para uma alta de 5%",
-      "link": "https://br.tradingview.com/news/beincrypto:b4d51efe4bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-03-02T13:14:41.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">E</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 13:14:41 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 13:14 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço da Solana se prepara para uma alta de 5%\" data-qa-id=\"news-headline-title\">Preço da Solana se prepara para uma alta de 5%</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:cb128967dbc81:0",
-      "index": 11,
-      "title": "Traders de Bitcoin observam reação do Irã enquanto disparada do petróleo eleva risco de inflação de 5% nos EUA",
-      "link": "https://br.tradingview.com/news/cointelegraph:cb128967dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-02T13:07:47.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 13:07:47 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 13:07 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Traders de Bitcoin observam reação do Irã enquanto disparada do petróleo eleva risco de inflação de 5% nos EUA\" data-qa-id=\"news-headline-title\">Traders de Bitcoin observam reação do Irã enquanto disparada do petróleo eleva risco de inflação de 5% nos EUA</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0b2997ddfbc81:0",
-      "index": 12,
-      "title": "Criptomoedas entram em campo com parceria entre blockchain e futebol feminino",
-      "link": "https://br.tradingview.com/news/cointelegraph:0b2997ddfbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-02T12:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Criptomoedas entram em campo com parceria entre blockchain e futebol feminino\" data-qa-id=\"news-headline-title\">Criptomoedas entram em campo com parceria entre blockchain e futebol feminino</div></div></article>"
     }
   ]
 }
