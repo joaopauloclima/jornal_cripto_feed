@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-02T12:03:23.943Z",
+  "updated_at": "2026-03-02T13:14:59.761Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
@@ -14,8 +14,30 @@
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Criptomoedas entram em campo com parceria entre blockchain e futebol feminino\" data-qa-id=\"news-headline-title\">Criptomoedas entram em campo com parceria entre blockchain e futebol feminino</div></div></article>"
     },
     {
-      "id": "beincrypto:cf6a9c566bc81:0",
+      "id": "beincrypto:5c97adf80bc81:0",
       "index": 1,
+      "title": "XRP enfrenta pressão de venda de US$ 650 milhões",
+      "link": "https://br.tradingview.com/news/beincrypto:5c97adf80bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-03-02T12:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"XRP enfrenta pressão de venda de US$ 650 milhões\" data-qa-id=\"news-headline-title\">XRP enfrenta pressão de venda de US$ 650 milhões</div></div></article>"
+    },
+    {
+      "id": "beincrypto:eb7efda75bc81:0",
+      "index": 2,
+      "title": "3 altcoins para acompanhar na primeira semana de março",
+      "link": "https://br.tradingview.com/news/beincrypto:eb7efda75bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-03-02T11:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCMATIC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCMATIC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 02 Mar 2026 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"2 de mar. de 2026, 11:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"3 altcoins para acompanhar na primeira semana de março\" data-qa-id=\"news-headline-title\">3 altcoins para acompanhar na primeira semana de março</div></div></article>"
+    },
+    {
+      "id": "beincrypto:cf6a9c566bc81:0",
+      "index": 3,
       "title": "Previsão de preço do Bitcoin: o que esperar do BTC em março de 2026?",
       "link": "https://br.tradingview.com/news/beincrypto:cf6a9c566bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:7af683474bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Stablecoins são um 'perigo' para o Brasil e podem retirar dinheiro de financiamentos e empréstimos, argumenta Campos Neto",
       "link": "https://br.tradingview.com/news/cointelegraph:7af683474bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c0a11f0d9bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço do Bitcoin hoje, 02/03/2026: apesar de movimento lateral, BTC mostra força e mantém US$ 66 mil com guerra no Irã",
       "link": "https://br.tradingview.com/news/cointelegraph:c0a11f0d9bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:744b6347cbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin subvalorizado em relação ao ouro sinaliza alta, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:744b6347cbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:cbb5133f5bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Notícias Cripto: XP lança Expert Trader, Ripple amplia soluções de custódia, Bitget Wallet com IA e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:cbb5133f5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:355b4a7fbbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Ouro tokenizado lidera \"100% da descoberta de preços do fim de semana\" com fechamento da CME Futuros",
       "link": "https://br.tradingview.com/news/cointelegraph:355b4a7fbbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:7a4a10d51bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Brasileiro lança carteira cripto 100% sem taxa gas",
       "link": "https://br.tradingview.com/news/cointelegraph:7a4a10d51bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:206369802bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Notícias Cripto: Abracam lança selo PLD/FTP, Núclea e Destrava Aí, Oobit no Brasil e outras novidades do mercado cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:206369802bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:52046eb51bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "EUA usaram Anthropic em ataque ao Irã apesar da ordem de proibição de Trump, diz WSJ",
       "link": "https://br.tradingview.com/news/cointelegraph:52046eb51bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:882d18c76bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Previsão de preço da Solana: o que esperar da SOL em março de 2026?",
       "link": "https://br.tradingview.com/news/beincrypto:882d18c76bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +147,7 @@
     },
     {
       "id": "cointelegraph:e0054fef7bc81:0",
-      "index": 11,
+      "index": 13,
       "title": "Exclusivo: Deputados se unem e criam a 'Bancada da Liberdade' para barrar qualquer iniciativa de IOF em criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:e0054fef7bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 28 Feb 2026 22:31:31 GMT\" class=\"apply-common-tooltip\" title=\"28 de fev. de 2026, 22:31 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Exclusivo: Deputados se unem e criam a 'Bancada da Liberdade' para barrar qualquer iniciativa de IOF em criptomoedas\" data-qa-id=\"news-headline-title\">Exclusivo: Deputados se unem e criam a 'Bancada da Liberdade' para barrar qualquer iniciativa de IOF em criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:7f1e40d5dbc81:0",
-      "index": 12,
-      "title": "Tesourarias de criptomoedas devem se consolidar em 2026, diz executivo",
-      "link": "https://br.tradingview.com/news/cointelegraph:7f1e40d5dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-02-28T21:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 28 Feb 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de fev. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Tesourarias de criptomoedas devem se consolidar em 2026, diz executivo\" data-qa-id=\"news-headline-title\">Tesourarias de criptomoedas devem se consolidar em 2026, diz executivo</div></div></article>"
     }
   ]
 }
