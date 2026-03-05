@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-05T06:39:02.966Z",
+  "updated_at": "2026-03-05T10:28:23.930Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:19a6cd215bc81:0",
+      "id": "cointelegraph:51cabdfd7bc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje, 05/03/2026: BTC sobe para US$ 72 mil, mas analistas ainda estão pessimistas e acreditam em nova queda",
+      "link": "https://br.tradingview.com/news/cointelegraph:51cabdfd7bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-05T09:24:23.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 05 Mar 2026 09:24:23 GMT\" class=\"apply-common-tooltip\" title=\"5 de mar. de 2026, 09:24 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 05/03/2026: BTC sobe para US$ 72 mil, mas analistas ainda estão pessimistas e acreditam em nova queda\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 05/03/2026: BTC sobe para US$ 72 mil, mas analistas ainda estão pessimistas e acreditam em nova queda</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:19a6cd215bc81:0",
+      "index": 1,
       "title": "Cartórios do Brasil já registraram mais de 9 milhões de documentos em blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:19a6cd215bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:13a8e8819bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Doações em stablecoins crescem à medida que a filantropia cripto amadurece, diz relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:13a8e8819bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:bb77d06b4bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Previsão de preços 3/4: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:bb77d06b4bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:773ae4046bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin é um indicador em tempo real do sentimento diante da escalada da guerra no fim de semana",
       "link": "https://br.tradingview.com/news/cointelegraph:773ae4046bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:def8e0a66bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Governo dos EUA precisa ir além de 'gostar do Bitcoin', afirma ex-assessor cripto de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:def8e0a66bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:cf63ab62cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "X suspende compartilhamento de receita por 90 dias para vídeos de guerra gerados por IA sem divulgação",
       "link": "https://br.tradingview.com/news/cointelegraph:cf63ab62cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:649b65f20bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Maior exchange de criptomoedas do Irã não mostra sinais claros de fuga de capital, diz TRM",
       "link": "https://br.tradingview.com/news/cointelegraph:649b65f20bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c9889d6dfbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Morgan Stanley escolhe Coinbase e BNY para custódia de ETF de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:c9889d6dfbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:9fcf7d5f9bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Vendedores a descoberto de Bitcoin são surpreendidos por medida da Casa Branca",
       "link": "https://br.tradingview.com/news/beincrypto:9fcf7d5f9bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:3a33243e5bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin ainda pode ter 'próxima perna de queda', com BTC a US$ 73 mil antes da cruz da morte",
       "link": "https://br.tradingview.com/news/cointelegraph:3a33243e5bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:76b6e9e42bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Rompimento do preço do XRP mira US$ 1,95 em meio a sequência de cinco dias de entradas em ETFs",
       "link": "https://br.tradingview.com/news/cointelegraph:76b6e9e42bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:40bb9d22abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Três sinais do Bitcoin indicam que US$ 80 mil é o próximo alvo de preço para os touros",
       "link": "https://br.tradingview.com/news/cointelegraph:40bb9d22abc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Mar 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de mar. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Três sinais do Bitcoin indicam que US$ 80 mil é o próximo alvo de preço para os touros\" data-qa-id=\"news-headline-title\">Três sinais do Bitcoin indicam que US$ 80 mil é o próximo alvo de preço para os touros</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c83b227b2bc81:0",
-      "index": 12,
-      "title": "Preço do Bitcoin se aproxima da máxima de um mês enquanto touros impulsionam BTC rumo aos US$ 72 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:c83b227b2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-04T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 04 Mar 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de mar. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin se aproxima da máxima de um mês enquanto touros impulsionam BTC rumo aos US$ 72 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin se aproxima da máxima de um mês enquanto touros impulsionam BTC rumo aos US$ 72 mil</div></div></article>"
     }
   ]
 }
