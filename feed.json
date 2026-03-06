@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-06T20:42:40.582Z",
+  "updated_at": "2026-03-06T22:34:02.803Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e182e4eedbc81:0",
+      "id": "cointelegraph:f11b4aa9cbc81:0",
       "index": 0,
+      "title": "Binance critica investigação do Senado dos EUA sobre o Irã por se basear em reportagens difamatórias",
+      "link": "https://br.tradingview.com/news/cointelegraph:f11b4aa9cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-06T22:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Mar 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de mar. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Binance critica investigação do Senado dos EUA sobre o Irã por se basear em reportagens difamatórias\" data-qa-id=\"news-headline-title\">Binance critica investigação do Senado dos EUA sobre o Irã por se basear em reportagens difamatórias</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:668bbb654bc81:0",
+      "index": 1,
+      "title": "Preço do Bitcoin cai para perto de US$ 68 mil e fraqueza do emprego nos EUA não salva os touros",
+      "link": "https://br.tradingview.com/news/cointelegraph:668bbb654bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-06T21:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin cai para perto de US$ 68 mil e fraqueza do emprego nos EUA não salva os touros\" data-qa-id=\"news-headline-title\">Preço do Bitcoin cai para perto de US$ 68 mil e fraqueza do emprego nos EUA não salva os touros</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e182e4eedbc81:0",
+      "index": 2,
       "title": "Exchanges de criptomoedas ganham espaço à medida que mercado de commodities tokenizadas chega a US$ 7,7 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:e182e4eedbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:56250ab20bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Saída 'atípica' de Bitcoin registra retirada de 32 mil BTC das exchanges em um único dia",
       "link": "https://br.tradingview.com/news/cointelegraph:56250ab20bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:534894659bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Rali de alívio do Bitcoin encontra resistência e ETFs spot registram saídas de US$ 228 milhões",
       "link": "https://br.tradingview.com/news/cointelegraph:534894659bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f1fdedf20bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Temporadas de altcoins acabaram, espere ciclos ‘não tradicionais’ daqui para frente, afirma executivo da Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:f1fdedf20bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:2dc0f84c8bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "ETFs de Solana ainda mantêm ‘números impressionantes’ mesmo com token caindo 57%",
       "link": "https://br.tradingview.com/news/cointelegraph:2dc0f84c8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:91af79ab9bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Lyn Alden aposta que Bitcoin superará o ouro nos próximos ‘dois a três anos’",
       "link": "https://br.tradingview.com/news/cointelegraph:91af79ab9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:e277ea88dbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Rali de alívio do Bitcoin enfrenta obstáculos enquanto mercado de baixa persiste, apontam analistas",
       "link": "https://br.tradingview.com/news/cointelegraph:e277ea88dbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:4ce1e61abbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Caminho do Ether para US$ 2,5 mil pode ser mais complicado do que o esperado: veja o motivo",
       "link": "https://br.tradingview.com/news/cointelegraph:4ce1e61abbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:90ae31445bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "CleanSpark vende 553 BTC por US$ 36,6 milhões em fevereiro enquanto mineradoras vendem Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:90ae31445bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:734d6735abc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Suporte de US$69 mil pode levar o Bitcoin a US$ 80 mil em março, dizem especialistas",
       "link": "https://br.tradingview.com/news/cointelegraph:734d6735abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:062e0c098bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Novas normas do BC ampliam controle sobre intermediadoras de criptomoedas, diz especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:062e0c098bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Mar 2026 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de mar. de 2026, 11:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Novas normas do BC ampliam controle sobre intermediadoras de criptomoedas, diz especialista\" data-qa-id=\"news-headline-title\">Novas normas do BC ampliam controle sobre intermediadoras de criptomoedas, diz especialista</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:39931078bbc81:0",
-      "index": 11,
-      "title": "Preço do Bitcoin hoje, 06/03/2026: BTC recua mais 2% e touros lutam para que US$ 70 mil seja o novo suporte",
-      "link": "https://br.tradingview.com/news/cointelegraph:39931078bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-06T09:19:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Mar 2026 09:19:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de mar. de 2026, 09:19 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 06/03/2026: BTC recua mais 2% e touros lutam para que US$ 70 mil seja o novo suporte\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 06/03/2026: BTC recua mais 2% e touros lutam para que US$ 70 mil seja o novo suporte</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e3b2e8f85bc81:0",
-      "index": 12,
-      "title": "Mineradores de Bitcoin vendem 15 mil BTC desde outubro; vendas devem continuar",
-      "link": "https://br.tradingview.com/news/cointelegraph:e3b2e8f85bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-06T01:35:26.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Mar 2026 01:35:26 GMT\" class=\"apply-common-tooltip\" title=\"6 de mar. de 2026, 01:35 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Mineradores de Bitcoin vendem 15 mil BTC desde outubro; vendas devem continuar\" data-qa-id=\"news-headline-title\">Mineradores de Bitcoin vendem 15 mil BTC desde outubro; vendas devem continuar</div></div></article>"
     }
   ]
 }
