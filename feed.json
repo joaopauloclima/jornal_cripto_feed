@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-07T17:58:48.202Z",
+  "updated_at": "2026-03-07T19:05:23.542Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d83394c27bc81:0",
+      "id": "cointelegraph:ac19adde1bc81:0",
       "index": 0,
+      "title": "Grok publica sátiras virais e vulgares contra Musk, Netanyahu e Starmer",
+      "link": "https://br.tradingview.com/news/cointelegraph:ac19adde1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-07T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 07 Mar 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de mar. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Grok publica sátiras virais e vulgares contra Musk, Netanyahu e Starmer\" data-qa-id=\"news-headline-title\">Grok publica sátiras virais e vulgares contra Musk, Netanyahu e Starmer</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d83394c27bc81:0",
+      "index": 1,
       "title": "Bancos comunitários e a indústria de criptomoedas não chegam a um acordo no debate sobre a Lei CLARITY",
       "link": "https://br.tradingview.com/news/cointelegraph:d83394c27bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:31872fd0cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Probabilidade do BTC cair para US$ 65.000 aumenta já que problemas de crédito e a guerra nos EUA abalam os mercados",
       "link": "https://br.tradingview.com/news/cointelegraph:31872fd0cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:37bcf5aa5bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Estratégia Nacional de Cibersegurança de Trump promete apoiar criptomoedas e blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:37bcf5aa5bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:1b6763521bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Queda do Bitcoin pode não ter acabado, já que investidores de varejo intensificam as compras abaixo de US$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:1b6763521bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:61991b10dbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Senado da Flórida aprova projeto de lei estadual sobre stablecoin e aguarda a assinatura de DeSantis",
       "link": "https://br.tradingview.com/news/cointelegraph:61991b10dbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8317a108bbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Senador dos EUA pede inclusão de medidas anticorrupção em projetos de lei sobre criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:8317a108bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4cf4bd606bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Paraguai sai na frente do Brasil e vai minerar Bitcoin com 30.000 ASICs apreendidas",
       "link": "https://br.tradingview.com/news/cointelegraph:4cf4bd606bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:516638e30bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "COAF do Brasil se encontra com FBI e Interpol para falar sobre rastreamento de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:516638e30bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:f4282fe7cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Mudança de postura cripto no Fed após Kraken obter conta e indicado de Trump ir ao Senado",
       "link": "https://br.tradingview.com/news/cointelegraph:f4282fe7cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f11b4aa9cbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Binance critica investigação do Senado dos EUA sobre o Irã por se basear em reportagens difamatórias",
       "link": "https://br.tradingview.com/news/cointelegraph:f11b4aa9cbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:668bbb654bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço do Bitcoin cai para perto de US$ 68 mil e fraqueza do emprego nos EUA não salva os touros",
       "link": "https://br.tradingview.com/news/cointelegraph:668bbb654bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e182e4eedbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Exchanges de criptomoedas ganham espaço à medida que mercado de commodities tokenizadas chega a US$ 7,7 bilhões",
       "link": "https://br.tradingview.com/news/cointelegraph:e182e4eedbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Mar 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de mar. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Exchanges de criptomoedas ganham espaço à medida que mercado de commodities tokenizadas chega a US$ 7,7 bilhões\" data-qa-id=\"news-headline-title\">Exchanges de criptomoedas ganham espaço à medida que mercado de commodities tokenizadas chega a US$ 7,7 bilhões</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:56250ab20bc81:0",
-      "index": 12,
-      "title": "Saída 'atípica' de Bitcoin registra retirada de 32 mil BTC das exchanges em um único dia",
-      "link": "https://br.tradingview.com/news/cointelegraph:56250ab20bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-06T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Mar 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de mar. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Saída 'atípica' de Bitcoin registra retirada de 32 mil BTC das exchanges em um único dia\" data-qa-id=\"news-headline-title\">Saída 'atípica' de Bitcoin registra retirada de 32 mil BTC das exchanges em um único dia</div></div></article>"
     }
   ]
 }
