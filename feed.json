@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-08T17:02:47.923Z",
+  "updated_at": "2026-03-08T21:59:32.489Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:4f83f2757bc81:0",
+      "id": "cointelegraph:ee100c0eebc81:0",
       "index": 0,
+      "title": "Notícias Cripto: Chain Timeline, Crypto.com, Token Nation com hackathon, Binance e outras novidades",
+      "link": "https://br.tradingview.com/news/cointelegraph:ee100c0eebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-08T20:49:16.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 08 Mar 2026 20:49:16 GMT\" class=\"apply-common-tooltip\" title=\"8 de mar. de 2026, 20:49 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Notícias Cripto: Chain Timeline, Crypto.com, Token Nation com hackathon, Binance e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: Chain Timeline, Crypto.com, Token Nation com hackathon, Binance e outras novidades</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:4f83f2757bc81:0",
+      "index": 1,
       "title": "CZ afirma que os CEXs não têm \"nenhum motivo\" para ajudar terroristas",
       "link": "https://br.tradingview.com/news/cointelegraph:4f83f2757bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:72f0cd3cdbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "ETFs de Bitcoin registram entrada de capital pela segunda semana consecutiva, algo que não acontecia há 5 meses",
       "link": "https://br.tradingview.com/news/cointelegraph:72f0cd3cdbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:ada3fcc7dbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Agente de IA tentou realizar mineração de criptomoedas não autorizada durante um treinamento",
       "link": "https://br.tradingview.com/news/cointelegraph:ada3fcc7dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:ac19adde1bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Grok publica sátiras virais e vulgares contra Musk, Netanyahu e Starmer",
       "link": "https://br.tradingview.com/news/cointelegraph:ac19adde1bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d83394c27bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bancos comunitários e a indústria de criptomoedas não chegam a um acordo no debate sobre a Lei CLARITY",
       "link": "https://br.tradingview.com/news/cointelegraph:d83394c27bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:31872fd0cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Probabilidade do BTC cair para US$ 65.000 aumenta já que problemas de crédito e a guerra nos EUA abalam os mercados",
       "link": "https://br.tradingview.com/news/cointelegraph:31872fd0cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:37bcf5aa5bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Estratégia Nacional de Cibersegurança de Trump promete apoiar criptomoedas e blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:37bcf5aa5bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:1b6763521bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Queda do Bitcoin pode não ter acabado, já que investidores de varejo intensificam as compras abaixo de US$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:1b6763521bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:61991b10dbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Senado da Flórida aprova projeto de lei estadual sobre stablecoin e aguarda a assinatura de DeSantis",
       "link": "https://br.tradingview.com/news/cointelegraph:61991b10dbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:8317a108bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Senador dos EUA pede inclusão de medidas anticorrupção em projetos de lei sobre criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:8317a108bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4cf4bd606bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Paraguai sai na frente do Brasil e vai minerar Bitcoin com 30.000 ASICs apreendidas",
       "link": "https://br.tradingview.com/news/cointelegraph:4cf4bd606bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:516638e30bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "COAF do Brasil se encontra com FBI e Interpol para falar sobre rastreamento de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:516638e30bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Mar 2026 23:19:22 GMT\" class=\"apply-common-tooltip\" title=\"6 de mar. de 2026, 23:19 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"COAF do Brasil se encontra com FBI e Interpol para falar sobre rastreamento de criptomoedas\" data-qa-id=\"news-headline-title\">COAF do Brasil se encontra com FBI e Interpol para falar sobre rastreamento de criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f4282fe7cbc81:0",
-      "index": 12,
-      "title": "Mudança de postura cripto no Fed após Kraken obter conta e indicado de Trump ir ao Senado",
-      "link": "https://br.tradingview.com/news/cointelegraph:f4282fe7cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-06T23:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 06 Mar 2026 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de mar. de 2026, 23:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Mudança de postura cripto no Fed após Kraken obter conta e indicado de Trump ir ao Senado\" data-qa-id=\"news-headline-title\">Mudança de postura cripto no Fed após Kraken obter conta e indicado de Trump ir ao Senado</div></div></article>"
     }
   ]
 }
