@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-09T17:36:46.467Z",
+  "updated_at": "2026-03-09T18:35:00.739Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e91b3af0ebc81:0",
+      "id": "tag:reuters.com,2026:newsml_L1N3ZX0XG:0",
       "index": 0,
+      "title": "Cboe planeja índice de volatilidade atrelado às opções do ETF de bitcoin da BlackRock",
+      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3ZX0XG:0/",
+      "source": "Reuters",
+      "published_at": "2026-03-09T17:41:51.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/cboe-global-markets.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/cboe-global-markets.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/blackrock.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Mar 2026 17:41:51 GMT\" class=\"apply-common-tooltip\" title=\"9 de mar. de 2026, 17:41 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Cboe planeja índice de volatilidade atrelado às opções do ETF de bitcoin da BlackRock\" data-qa-id=\"news-headline-title\">Cboe planeja índice de volatilidade atrelado às opções do ETF de bitcoin da BlackRock</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e91b3af0ebc81:0",
+      "index": 1,
       "title": "Bitcoin a US$ 67 mil apesar do choque do petróleo é o 'indicador mais forte' de que o fundo pode já ter sido formado",
       "link": "https://br.tradingview.com/news/cointelegraph:e91b3af0ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:2ae919ffebc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin se prepara para choque do petróleo e cruzes da morte: 5 coisas para saber esta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:2ae919ffebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:aee880a16bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Petróleo recua após disparada de 25% enquanto G7 avalia liberação emergencial de reservas",
       "link": "https://br.tradingview.com/news/cointelegraph:aee880a16bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a1a602f70bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Correlação do Bitcoin com ações de tecnologia é exagerada, afirma NYDIG",
       "link": "https://br.tradingview.com/news/cointelegraph:a1a602f70bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d0d4b5054bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin cai 2% enquanto preços do petróleo disparam com temores de escassez de energia",
       "link": "https://br.tradingview.com/news/cointelegraph:d0d4b5054bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:a4625feffbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Saylor sinaliza nova compra de Bitcoin enquanto BTC oscila perto de US$ 66 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:a4625feffbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a71102349bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Brasil desacelera, mas segue recuperação global dos fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:a71102349bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:10b3bbc4fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "XP anuncia parceria com a Kalshi e vai lançar mercado preditivo no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:10b3bbc4fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:6d318df21bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Especialista aponta catalisadores que podem levar o Bitcoin a US$ 80 mil em março",
       "link": "https://br.tradingview.com/news/cointelegraph:6d318df21bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:30852dccabc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Preço do Bitcoin hoje, 09/03/2026: BTC mantém movimento lateral sem perspectiva de reação",
       "link": "https://br.tradingview.com/news/cointelegraph:30852dccabc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ee100c0eebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Notícias Cripto: Chain Timeline, Crypto.com, Token Nation com hackathon, Binance e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:ee100c0eebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:4f83f2757bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "CZ afirma que os CEXs não têm \"nenhum motivo\" para ajudar terroristas",
       "link": "https://br.tradingview.com/news/cointelegraph:4f83f2757bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 08 Mar 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de mar. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"CZ afirma que os CEXs não têm &quot;nenhum motivo&quot; para ajudar terroristas\" data-qa-id=\"news-headline-title\">CZ afirma que os CEXs não têm \"nenhum motivo\" para ajudar terroristas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:72f0cd3cdbc81:0",
-      "index": 12,
-      "title": "ETFs de Bitcoin registram entrada de capital pela segunda semana consecutiva, algo que não acontecia há 5 meses",
-      "link": "https://br.tradingview.com/news/cointelegraph:72f0cd3cdbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-08T14:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 08 Mar 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de mar. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"ETFs de Bitcoin registram entrada de capital pela segunda semana consecutiva, algo que não acontecia há 5 meses\" data-qa-id=\"news-headline-title\">ETFs de Bitcoin registram entrada de capital pela segunda semana consecutiva, algo que não acontecia há 5 meses</div></div></article>"
     }
   ]
 }
