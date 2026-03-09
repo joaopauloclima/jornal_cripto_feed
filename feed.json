@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-09T18:35:00.739Z",
+  "updated_at": "2026-03-09T19:36:28.868Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2026:newsml_L1N3ZX0XG:0",
+      "id": "cointelegraph:40ad76e95bc81:0",
       "index": 0,
+      "title": "Strategy compra US$ 1,3 bilhão em Bitcoin e participações ultrapassam 738.000 BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:40ad76e95bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-09T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Mar 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de mar. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Strategy compra US$ 1,3 bilhão em Bitcoin e participações ultrapassam 738.000 BTC\" data-qa-id=\"news-headline-title\">Strategy compra US$ 1,3 bilhão em Bitcoin e participações ultrapassam 738.000 BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:73ae54abfbc81:0",
+      "index": 1,
+      "title": "Superior Tribunal de Justiça do Brasil torna obrigatório que novos juízes tenham conhecimento em cripto e blockchain",
+      "link": "https://br.tradingview.com/news/cointelegraph:73ae54abfbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-09T18:50:51.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Mar 2026 18:50:51 GMT\" class=\"apply-common-tooltip\" title=\"9 de mar. de 2026, 18:50 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Superior Tribunal de Justiça do Brasil torna obrigatório que novos juízes tenham conhecimento em cripto e blockchain\" data-qa-id=\"news-headline-title\">Superior Tribunal de Justiça do Brasil torna obrigatório que novos juízes tenham conhecimento em cripto e blockchain</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2026:newsml_L1N3ZX0XG:0",
+      "index": 2,
       "title": "Cboe planeja índice de volatilidade atrelado às opções do ETF de bitcoin da BlackRock",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3ZX0XG:0/",
       "source": "Reuters",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e91b3af0ebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin a US$ 67 mil apesar do choque do petróleo é o 'indicador mais forte' de que o fundo pode já ter sido formado",
       "link": "https://br.tradingview.com/news/cointelegraph:e91b3af0ebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:2ae919ffebc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin se prepara para choque do petróleo e cruzes da morte: 5 coisas para saber esta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:2ae919ffebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:aee880a16bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Petróleo recua após disparada de 25% enquanto G7 avalia liberação emergencial de reservas",
       "link": "https://br.tradingview.com/news/cointelegraph:aee880a16bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:a1a602f70bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Correlação do Bitcoin com ações de tecnologia é exagerada, afirma NYDIG",
       "link": "https://br.tradingview.com/news/cointelegraph:a1a602f70bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d0d4b5054bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin cai 2% enquanto preços do petróleo disparam com temores de escassez de energia",
       "link": "https://br.tradingview.com/news/cointelegraph:d0d4b5054bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a4625feffbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Saylor sinaliza nova compra de Bitcoin enquanto BTC oscila perto de US$ 66 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:a4625feffbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a71102349bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Brasil desacelera, mas segue recuperação global dos fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:a71102349bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:10b3bbc4fbc81:0",
-      "index": 8,
+      "index": 10,
       "title": "XP anuncia parceria com a Kalshi e vai lançar mercado preditivo no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:10b3bbc4fbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:6d318df21bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Especialista aponta catalisadores que podem levar o Bitcoin a US$ 80 mil em março",
       "link": "https://br.tradingview.com/news/cointelegraph:6d318df21bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:30852dccabc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Preço do Bitcoin hoje, 09/03/2026: BTC mantém movimento lateral sem perspectiva de reação",
       "link": "https://br.tradingview.com/news/cointelegraph:30852dccabc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Mar 2026 12:23:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de mar. de 2026, 12:23 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 09/03/2026: BTC mantém movimento lateral sem perspectiva de reação\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 09/03/2026: BTC mantém movimento lateral sem perspectiva de reação</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ee100c0eebc81:0",
-      "index": 11,
-      "title": "Notícias Cripto: Chain Timeline, Crypto.com, Token Nation com hackathon, Binance e outras novidades",
-      "link": "https://br.tradingview.com/news/cointelegraph:ee100c0eebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-08T20:49:16.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 08 Mar 2026 20:49:16 GMT\" class=\"apply-common-tooltip\" title=\"8 de mar. de 2026, 20:49 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Notícias Cripto: Chain Timeline, Crypto.com, Token Nation com hackathon, Binance e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: Chain Timeline, Crypto.com, Token Nation com hackathon, Binance e outras novidades</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4f83f2757bc81:0",
-      "index": 12,
-      "title": "CZ afirma que os CEXs não têm \"nenhum motivo\" para ajudar terroristas",
-      "link": "https://br.tradingview.com/news/cointelegraph:4f83f2757bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-08T15:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 08 Mar 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"8 de mar. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"CZ afirma que os CEXs não têm &quot;nenhum motivo&quot; para ajudar terroristas\" data-qa-id=\"news-headline-title\">CZ afirma que os CEXs não têm \"nenhum motivo\" para ajudar terroristas</div></div></article>"
     }
   ]
 }
