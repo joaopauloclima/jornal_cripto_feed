@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-10T06:33:17.462Z",
+  "updated_at": "2026-03-10T12:04:50.332Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:fb57b5271bc81:0",
+      "id": "cointelegraph:1d938a54dbc81:0",
       "index": 0,
+      "title": "Startup brasileira anuncia aporte de R$ 22 milhões voltado a IA para farmácias",
+      "link": "https://br.tradingview.com/news/cointelegraph:1d938a54dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-10T11:36:37.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 11:36:37 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 11:36 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Startup brasileira anuncia aporte de R$ 22 milhões voltado a IA para farmácias\" data-qa-id=\"news-headline-title\">Startup brasileira anuncia aporte de R$ 22 milhões voltado a IA para farmácias</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:93f109432bc81:0",
+      "index": 1,
+      "title": "Preço do Bitcoin hoje, 10/03/2026: Por que o preço do BTC subiu? Criptomoeda em alta de 5% volta a ficar acima de US$ 70 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:93f109432bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-10T09:26:10.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 09:26:10 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 09:26 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 10/03/2026: Por que o preço do BTC subiu? Criptomoeda em alta de 5% volta a ficar acima de US$ 70 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 10/03/2026: Por que o preço do BTC subiu? Criptomoeda em alta de 5% volta a ficar acima de US$ 70 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fb57b5271bc81:0",
+      "index": 2,
       "title": "Análise de preços em 09/03: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA e BCH",
       "link": "https://br.tradingview.com/news/cointelegraph:fb57b5271bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d90cafb2bbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Preço do Bitcoin retesta US$ 69 mil e plano de petróleo do G7 fica em aberto",
       "link": "https://br.tradingview.com/news/cointelegraph:d90cafb2bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f6b40bffcbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "PicPay lança agregador de investimentos que inclui dados de ETFs cripto, BDRs e fundos de investimento com criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:f6b40bffcbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:318d73b4dbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Ether mantém US$ 2 mil enquanto traders avançam em direção à liquidez de shorts acima do preço",
       "link": "https://br.tradingview.com/news/cointelegraph:318d73b4dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:5acfebb1bbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Detentores de XRP enfrentam US$ 50 bilhões em perdas não realizadas com preço abaixo de US$ 1,40",
       "link": "https://br.tradingview.com/news/cointelegraph:5acfebb1bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:40ad76e95bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Strategy compra US$ 1,3 bilhão em Bitcoin e participações ultrapassam 738.000 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:40ad76e95bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:73ae54abfbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Superior Tribunal de Justiça do Brasil torna obrigatório que novos juízes tenham conhecimento em cripto e blockchain",
       "link": "https://br.tradingview.com/news/cointelegraph:73ae54abfbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N3ZX0XG:0",
-      "index": 7,
+      "index": 9,
       "title": "Cboe planeja índice de volatilidade atrelado às opções do ETF de bitcoin da BlackRock",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N3ZX0XG:0/",
       "source": "Reuters",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:e91b3af0ebc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoin a US$ 67 mil apesar do choque do petróleo é o 'indicador mais forte' de que o fundo pode já ter sido formado",
       "link": "https://br.tradingview.com/news/cointelegraph:e91b3af0ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2ae919ffebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bitcoin se prepara para choque do petróleo e cruzes da morte: 5 coisas para saber esta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:2ae919ffebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:aee880a16bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Petróleo recua após disparada de 25% enquanto G7 avalia liberação emergencial de reservas",
       "link": "https://br.tradingview.com/news/cointelegraph:aee880a16bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Mar 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de mar. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Petróleo recua após disparada de 25% enquanto G7 avalia liberação emergencial de reservas\" data-qa-id=\"news-headline-title\">Petróleo recua após disparada de 25% enquanto G7 avalia liberação emergencial de reservas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:a1a602f70bc81:0",
-      "index": 11,
-      "title": "Correlação do Bitcoin com ações de tecnologia é exagerada, afirma NYDIG",
-      "link": "https://br.tradingview.com/news/cointelegraph:a1a602f70bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-09T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Mar 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de mar. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Correlação do Bitcoin com ações de tecnologia é exagerada, afirma NYDIG\" data-qa-id=\"news-headline-title\">Correlação do Bitcoin com ações de tecnologia é exagerada, afirma NYDIG</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d0d4b5054bc81:0",
-      "index": 12,
-      "title": "Bitcoin cai 2% enquanto preços do petróleo disparam com temores de escassez de energia",
-      "link": "https://br.tradingview.com/news/cointelegraph:d0d4b5054bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-09T15:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 09 Mar 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de mar. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin cai 2% enquanto preços do petróleo disparam com temores de escassez de energia\" data-qa-id=\"news-headline-title\">Bitcoin cai 2% enquanto preços do petróleo disparam com temores de escassez de energia</div></div></article>"
     }
   ]
 }
