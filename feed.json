@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-10T22:00:35.069Z",
+  "updated_at": "2026-03-10T23:38:18.018Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:832ef5404bc81:0",
+      "id": "cointelegraph:f07d238c4bc81:0",
       "index": 0,
+      "title": "Bitcoin lidera e indicadores das altcoins caem para níveis intrigantes: chegou a hora da altseason?",
+      "link": "https://br.tradingview.com/news/cointelegraph:f07d238c4bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-10T23:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 23:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 23:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin lidera e indicadores das altcoins caem para níveis intrigantes: chegou a hora da altseason?\" data-qa-id=\"news-headline-title\">Bitcoin lidera e indicadores das altcoins caem para níveis intrigantes: chegou a hora da altseason?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:929f12c1ebc81:0",
+      "index": 1,
+      "title": "Oposição republicana à CBDC pode atrasar projeto de lei sobre acessibilidade à moradia",
+      "link": "https://br.tradingview.com/news/cointelegraph:929f12c1ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-10T22:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 22:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 22:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Oposição republicana à CBDC pode atrasar projeto de lei sobre acessibilidade à moradia\" data-qa-id=\"news-headline-title\">Oposição republicana à CBDC pode atrasar projeto de lei sobre acessibilidade à moradia</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:832ef5404bc81:0",
+      "index": 2,
       "title": "Bitcoin atinge máxima local acima de US$ 71,5 mil e analista diz que ursos devem entrar em breve",
       "link": "https://br.tradingview.com/news/cointelegraph:832ef5404bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:03b261d63bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Livro de ordens do Bitcoin mostra desequilíbrio: US$ 70 mil vão se manter?",
       "link": "https://br.tradingview.com/news/cointelegraph:03b261d63bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f932aba09bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Preço do HYPE da Hyperliquid atingirá US$ 150 até agosto, prevê Arthur Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:f932aba09bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:2b724e46dbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Banco Central do Brasil libera sistema e vai rastrear operações com criptomoedas diariamente",
       "link": "https://br.tradingview.com/news/cointelegraph:2b724e46dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:012285876bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Parlamentares dos EUA investigam empresa ligada à família Trump por golpes com ações chinesas",
       "link": "https://br.tradingview.com/news/cointelegraph:012285876bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f3c1c0a57bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Sangue frio: 85% dos holders de Bitcoin não venderam durante a queda deste ano",
       "link": "https://br.tradingview.com/news/cointelegraph:f3c1c0a57bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:cce15b490bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "IOF em cripto é ilegal e associações brasileiras prometem 'lutar' contra a proposta de cobrança do goveno",
       "link": "https://br.tradingview.com/news/cointelegraph:cce15b490bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:c90cc53e5bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Presidente da CFTC apoia mercados de previsão baseados em blockchain como 'máquinas da verdade'",
       "link": "https://br.tradingview.com/news/cointelegraph:c90cc53e5bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5ee12a0f8bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Strategy registra maior emissão diária de STRC com compra estimada de 1.420 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:5ee12a0f8bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:11b8c3569bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Análise de preço do Bitcoin alerta para possível queda após varredura de liquidez em US$ 72 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:11b8c3569bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:3acd3186cbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Vitalik Buterin imagina staking de Ether com 'um clique' para instituições",
       "link": "https://br.tradingview.com/news/cointelegraph:3acd3186cbc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Vitalik Buterin imagina staking de Ether com 'um clique' para instituições\" data-qa-id=\"news-headline-title\">Vitalik Buterin imagina staking de Ether com 'um clique' para instituições</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:18891752dbc81:0",
-      "index": 11,
-      "title": "Especialistas revelam alvo para touros do Bitcoin não serem abatidos pelos ursos",
-      "link": "https://br.tradingview.com/news/cointelegraph:18891752dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-10T13:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Especialistas revelam alvo para touros do Bitcoin não serem abatidos pelos ursos\" data-qa-id=\"news-headline-title\">Especialistas revelam alvo para touros do Bitcoin não serem abatidos pelos ursos</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:eb99504e2bc81:0",
-      "index": 12,
-      "title": "Petróleo despenca, criptomoedas sobem após Trump enviar sinais mistos sobre guerra com o Irã",
-      "link": "https://br.tradingview.com/news/cointelegraph:eb99504e2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-10T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Petróleo despenca, criptomoedas sobem após Trump enviar sinais mistos sobre guerra com o Irã\" data-qa-id=\"news-headline-title\">Petróleo despenca, criptomoedas sobem após Trump enviar sinais mistos sobre guerra com o Irã</div></div></article>"
     }
   ]
 }
