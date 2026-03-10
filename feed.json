@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-10T20:07:01.438Z",
+  "updated_at": "2026-03-10T21:07:23.782Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:f932aba09bc81:0",
+      "id": "cointelegraph:03b261d63bc81:0",
       "index": 0,
+      "title": "Livro de ordens do Bitcoin mostra desequilíbrio: US$ 70 mil vão se manter?",
+      "link": "https://br.tradingview.com/news/cointelegraph:03b261d63bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-10T20:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 20:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Livro de ordens do Bitcoin mostra desequilíbrio: US$ 70 mil vão se manter?\" data-qa-id=\"news-headline-title\">Livro de ordens do Bitcoin mostra desequilíbrio: US$ 70 mil vão se manter?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f932aba09bc81:0",
+      "index": 1,
       "title": "Preço do HYPE da Hyperliquid atingirá US$ 150 até agosto, prevê Arthur Hayes",
       "link": "https://br.tradingview.com/news/cointelegraph:f932aba09bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:2b724e46dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Banco Central do Brasil libera sistema e vai rastrear operações com criptomoedas diariamente",
       "link": "https://br.tradingview.com/news/cointelegraph:2b724e46dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:012285876bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Parlamentares dos EUA investigam empresa ligada à família Trump por golpes com ações chinesas",
       "link": "https://br.tradingview.com/news/cointelegraph:012285876bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f3c1c0a57bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Sangue frio: 85% dos holders de Bitcoin não venderam durante a queda deste ano",
       "link": "https://br.tradingview.com/news/cointelegraph:f3c1c0a57bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:cce15b490bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "IOF em cripto é ilegal e associações brasileiras prometem 'lutar' contra a proposta de cobrança do goveno",
       "link": "https://br.tradingview.com/news/cointelegraph:cce15b490bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c90cc53e5bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Presidente da CFTC apoia mercados de previsão baseados em blockchain como 'máquinas da verdade'",
       "link": "https://br.tradingview.com/news/cointelegraph:c90cc53e5bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:5ee12a0f8bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Strategy registra maior emissão diária de STRC com compra estimada de 1.420 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:5ee12a0f8bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:11b8c3569bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Análise de preço do Bitcoin alerta para possível queda após varredura de liquidez em US$ 72 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:11b8c3569bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:3acd3186cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Vitalik Buterin imagina staking de Ether com 'um clique' para instituições",
       "link": "https://br.tradingview.com/news/cointelegraph:3acd3186cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:18891752dbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Especialistas revelam alvo para touros do Bitcoin não serem abatidos pelos ursos",
       "link": "https://br.tradingview.com/news/cointelegraph:18891752dbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:eb99504e2bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Petróleo despenca, criptomoedas sobem após Trump enviar sinais mistos sobre guerra com o Irã",
       "link": "https://br.tradingview.com/news/cointelegraph:eb99504e2bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:1d938a54dbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Startup brasileira anuncia aporte de R$ 22 milhões voltado a IA para farmácias",
       "link": "https://br.tradingview.com/news/cointelegraph:1d938a54dbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 11:36:37 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 11:36 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Startup brasileira anuncia aporte de R$ 22 milhões voltado a IA para farmácias\" data-qa-id=\"news-headline-title\">Startup brasileira anuncia aporte de R$ 22 milhões voltado a IA para farmácias</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:93f109432bc81:0",
-      "index": 12,
-      "title": "Preço do Bitcoin hoje, 10/03/2026: Por que o preço do BTC subiu? Criptomoeda em alta de 5% volta a ficar acima de US$ 70 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:93f109432bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-10T09:26:10.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 10 Mar 2026 09:26:10 GMT\" class=\"apply-common-tooltip\" title=\"10 de mar. de 2026, 09:26 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 10/03/2026: Por que o preço do BTC subiu? Criptomoeda em alta de 5% volta a ficar acima de US$ 70 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 10/03/2026: Por que o preço do BTC subiu? Criptomoeda em alta de 5% volta a ficar acima de US$ 70 mil</div></div></article>"
     }
   ]
 }
