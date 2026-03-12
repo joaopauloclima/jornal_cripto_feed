@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-11T23:01:27.970Z",
+  "updated_at": "2026-03-12T00:01:46.948Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:634c612c5bc81:0",
+      "id": "cointelegraph:e6a69ca9ebc81:0",
       "index": 0,
+      "title": "Bitcoin se recupera após CPI dos EUA estável e recuo do preço do petróleo com liberação de 400 milhões de barris",
+      "link": "https://br.tradingview.com/news/cointelegraph:e6a69ca9ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-11T23:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 11 Mar 2026 23:30:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de mar. de 2026, 23:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin se recupera após CPI dos EUA estável e recuo do preço do petróleo com liberação de 400 milhões de barris\" data-qa-id=\"news-headline-title\">Bitcoin se recupera após CPI dos EUA estável e recuo do preço do petróleo com liberação de 400 milhões de barris</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:634c612c5bc81:0",
+      "index": 1,
       "title": "Análise de preços em 11/03: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE e XMR",
       "link": "https://br.tradingview.com/news/cointelegraph:634c612c5bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:1e4dda3a7bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do Bitcoin entra na fase mais desafiadora após repetidas rejeições em US$ 72 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:1e4dda3a7bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:cc2c51103bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "STRC pode ajudar a Strategy a atingir marco de 1 milhão de Bitcoin antes da BlackRock",
       "link": "https://br.tradingview.com/news/cointelegraph:cc2c51103bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:531badf53bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Binance processa Wall Street Journal por reportagem sobre investigação do Departamento de Justiça dos EUA ligada ao Irã",
       "link": "https://br.tradingview.com/news/cointelegraph:531badf53bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:83960814fbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Mastercad lança programa global de parceiros cripto com a presença da brasileira Parfin",
       "link": "https://br.tradingview.com/news/cointelegraph:83960814fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:c8110d96abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Gráfico de preço do XRP replica padrão do rali de 1.500% de 2017, mas há um porém",
       "link": "https://br.tradingview.com/news/cointelegraph:c8110d96abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:9c340d5abbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETFs de Bitcoin registram entrada de US$ 251 milhões e Goldman Sachs lidera entre detentores de ETF de XRP",
       "link": "https://br.tradingview.com/news/cointelegraph:9c340d5abbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:8ede50f0fbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Blockchain pode ajudar CVM a evitar episódios como o do Banco Master, diz especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:8ede50f0fbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:01237cb0ebc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin enfrenta cenário 'altamente volátil' enquanto touros miram retorno a US$ 80 mil até o fim do mês",
       "link": "https://br.tradingview.com/news/cointelegraph:01237cb0ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:2f0bacd96bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin precisará de 17% do mercado de 'reserva de valor' para chegar a US$ 1 milhão, afirma Bitwise",
       "link": "https://br.tradingview.com/news/cointelegraph:2f0bacd96bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:99d690609bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Cripto e bancos precisarão ficar 'um pouco insatisfeitos' para projeto de lei avançar, afirma senadora",
       "link": "https://br.tradingview.com/news/cointelegraph:99d690609bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a290cf1d0bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "'Paradoxo da adoção' em efeito enquanto o Ether fica para trás apesar do aumento da atividade na rede",
       "link": "https://br.tradingview.com/news/cointelegraph:a290cf1d0bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 11 Mar 2026 14:20:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de mar. de 2026, 14:20 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"'Paradoxo da adoção' em efeito enquanto o Ether fica para trás apesar do aumento da atividade na rede\" data-qa-id=\"news-headline-title\">'Paradoxo da adoção' em efeito enquanto o Ether fica para trás apesar do aumento da atividade na rede</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:1190fb303bc81:0",
-      "index": 12,
-      "title": "Bitcoin volta ao 'território de FOMO' após ultrapassar US$ 70 mil, afirma Santiment",
-      "link": "https://br.tradingview.com/news/cointelegraph:1190fb303bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-11T13:50:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 11 Mar 2026 13:50:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de mar. de 2026, 13:50 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin volta ao 'território de FOMO' após ultrapassar US$ 70 mil, afirma Santiment\" data-qa-id=\"news-headline-title\">Bitcoin volta ao 'território de FOMO' após ultrapassar US$ 70 mil, afirma Santiment</div></div></article>"
     }
   ]
 }
