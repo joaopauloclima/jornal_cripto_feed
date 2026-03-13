@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-13T05:42:30.971Z",
+  "updated_at": "2026-03-13T11:23:51.993Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:a89dce12bbc81:0",
+      "id": "cointelegraph:ac090070bbc81:0",
       "index": 0,
+      "title": "Preço do Bitcoin hoje, 13/03/2026: Por que o BTC subiu hoje? Criptomoeda em alta de quase 4%",
+      "link": "https://br.tradingview.com/news/cointelegraph:ac090070bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-13T10:31:59.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Mar 2026 10:31:59 GMT\" class=\"apply-common-tooltip\" title=\"13 de mar. de 2026, 10:31 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 13/03/2026: Por que o BTC subiu hoje? Criptomoeda em alta de quase 4%\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 13/03/2026: Por que o BTC subiu hoje? Criptomoeda em alta de quase 4%</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:a89dce12bbc81:0",
+      "index": 1,
       "title": "Taxa de financiamento do Bitcoin fica negativa: os ursos estão confiantes demais?",
       "link": "https://br.tradingview.com/news/cointelegraph:a89dce12bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:212e662d3bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do Bitcoin corre risco se o crédito privado entrar em colapso?",
       "link": "https://br.tradingview.com/news/cointelegraph:212e662d3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:7b5fdd85cbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Ark Invest vê um terço da oferta de Bitcoin em risco devido à ameaça quântica",
       "link": "https://br.tradingview.com/news/cointelegraph:7b5fdd85cbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:47c30fb37bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin se mantém próximo de US$ 70 mil e chances de corte de juros do Fed em março caem abaixo de 1%",
       "link": "https://br.tradingview.com/news/cointelegraph:47c30fb37bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:6680fd5babc81:0",
-      "index": 4,
+      "index": 5,
       "title": "OkX anuncia programa de recompensas no cartão cripto sem IOF para o Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:6680fd5babc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9b0c9255ebc81:0",
-      "index": 5,
+      "index": 6,
       "title": "BlackRock lança ETF de Ethereum com staking e oferece exposição ao ETH e rendimento",
       "link": "https://br.tradingview.com/news/cointelegraph:9b0c9255ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:9d7562c56bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin se aproxima do ouro e indica uma 'oportunidade dentro do risco'",
       "link": "https://br.tradingview.com/news/cointelegraph:9d7562c56bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:cc89ad439bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Binance diz que eleições de meio de mandato nos EUA podem impulsionar Bitcoin e ações",
       "link": "https://br.tradingview.com/news/cointelegraph:cc89ad439bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:628d31e01bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Por que Ray Dalio diz que o Bitcoin não pode substituir o ouro?",
       "link": "https://br.tradingview.com/news/cointelegraph:628d31e01bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:524e1d471bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Compradores de Bitcoin estão 'no controle', mas tendência só muda se este nível for rompido",
       "link": "https://br.tradingview.com/news/cointelegraph:524e1d471bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:0722be98abc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Rendimentos de stablecoins trarão novo dinheiro para bancos dos EUA, afirma Witt, da Casa Branca",
       "link": "https://br.tradingview.com/news/cointelegraph:0722be98abc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:3aedf005dbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin a US$ 78 mil? Traders profissionais precificam menos de 17% de chance de rompimento",
       "link": "https://br.tradingview.com/news/cointelegraph:3aedf005dbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Mar 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de mar. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin a US$ 78 mil? Traders profissionais precificam menos de 17% de chance de rompimento\" data-qa-id=\"news-headline-title\">Bitcoin a US$ 78 mil? Traders profissionais precificam menos de 17% de chance de rompimento</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b4ec6eee6bc81:0",
-      "index": 12,
-      "title": "Mercado Bitcoin lança sistema de empréstimo cripto que não consulta o Serasa",
-      "link": "https://br.tradingview.com/news/cointelegraph:b4ec6eee6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-12T13:31:57.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 12 Mar 2026 13:31:57 GMT\" class=\"apply-common-tooltip\" title=\"12 de mar. de 2026, 13:31 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Mercado Bitcoin lança sistema de empréstimo cripto que não consulta o Serasa\" data-qa-id=\"news-headline-title\">Mercado Bitcoin lança sistema de empréstimo cripto que não consulta o Serasa</div></div></article>"
     }
   ]
 }
