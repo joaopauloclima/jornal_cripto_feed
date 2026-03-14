@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-14T17:06:35.584Z",
+  "updated_at": "2026-03-14T20:00:25.238Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:73b09e7cabc81:0",
+      "id": "cointelegraph:5db436c2ebc81:0",
       "index": 0,
+      "title": "Bitcoin supera ações enquanto STRC da Strategy indica potencial de compra de $776M em BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:5db436c2ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-14T18:06:08.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 14 Mar 2026 18:06:08 GMT\" class=\"apply-common-tooltip\" title=\"14 de mar. de 2026, 18:06 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin supera ações enquanto STRC da Strategy indica potencial de compra de $776M em BTC\" data-qa-id=\"news-headline-title\">Bitcoin supera ações enquanto STRC da Strategy indica potencial de compra de $776M em BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:27f7f9f8abc81:0",
+      "index": 1,
+      "title": "Stablecoins podem formar a espinha dorsal dos pagamentos globais em 10 anos, diz bilionário",
+      "link": "https://br.tradingview.com/news/cointelegraph:27f7f9f8abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-14T18:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 14 Mar 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de mar. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Stablecoins podem formar a espinha dorsal dos pagamentos globais em 10 anos, diz bilionário\" data-qa-id=\"news-headline-title\">Stablecoins podem formar a espinha dorsal dos pagamentos globais em 10 anos, diz bilionário</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:73b09e7cabc81:0",
+      "index": 2,
       "title": "Bitcoin quase atinge US$ 74 mil, enquanto dados sugerem que o mercado de baixa não terminou",
       "link": "https://br.tradingview.com/news/cointelegraph:73b09e7cabc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:f0c7a7e0abc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Dados de acumulação de ETH apontam alta para US$ 2,8 mil, mas há um porém",
       "link": "https://br.tradingview.com/news/cointelegraph:f0c7a7e0abc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:6e213185fbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Notícias Cripto: OMI da OutsetPR, avanço da Trexx, Mova Protocol e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:6e213185fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:43eb88a7abc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Metaverso na vida real: Cientistas conseguem fazer upload do cérebro de uma mosca para dentro da 'matrix'",
       "link": "https://br.tradingview.com/news/cointelegraph:43eb88a7abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:66935dbb0bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Reação cripto a IOF reacende debate sobre uso de stablecoins no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:66935dbb0bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:c4d02d50bbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Departamento de Justiça dos EUA e Europol derrubam rede SocksEscort ligada a fraude com criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:c4d02d50bbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:629045229bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Análise de preços em 13/03: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH e XMR",
       "link": "https://br.tradingview.com/news/cointelegraph:629045229bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b6fceb903bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Mineradoras de Bitcoin previram a escassez de energia da IA e o renascimento da energia nuclear",
       "link": "https://br.tradingview.com/news/cointelegraph:b6fceb903bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:c95334cf2bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Carteiras de acumulação de Ether sobem 30%: preço do ETH seguirá o movimento?",
       "link": "https://br.tradingview.com/news/cointelegraph:c95334cf2bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:abf395e1ebc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do Bitcoin mira novo teste de US$ 74 mil após inflação PCE dos EUA impulsionar criptomoedas e ações",
       "link": "https://br.tradingview.com/news/cointelegraph:abf395e1ebc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:d5accddc5bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin mostra força mesmo com pressões macroeconômicas e cenário de desalavancagem",
       "link": "https://br.tradingview.com/news/cointelegraph:d5accddc5bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Mar 2026 18:30:08 GMT\" class=\"apply-common-tooltip\" title=\"13 de mar. de 2026, 18:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin mostra força mesmo com pressões macroeconômicas e cenário de desalavancagem\" data-qa-id=\"news-headline-title\">Bitcoin mostra força mesmo com pressões macroeconômicas e cenário de desalavancagem</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c50547975bc81:0",
-      "index": 11,
-      "title": "Projeto em Nevis de milionário das criptomoedas oferece US$ 100 por mês a residentes, diz Financial Times",
-      "link": "https://br.tradingview.com/news/cointelegraph:c50547975bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-13T18:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Mar 2026 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de mar. de 2026, 18:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Projeto em Nevis de milionário das criptomoedas oferece US$ 100 por mês a residentes, diz Financial Times\" data-qa-id=\"news-headline-title\">Projeto em Nevis de milionário das criptomoedas oferece US$ 100 por mês a residentes, diz Financial Times</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:257e1eed3bc81:0",
-      "index": 12,
-      "title": "'Tokenização não é um mercado aberto e descentralizado, mas um jardim murado controlado de operações no back-office'",
-      "link": "https://br.tradingview.com/news/cointelegraph:257e1eed3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-13T18:28:42.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 13 Mar 2026 18:28:42 GMT\" class=\"apply-common-tooltip\" title=\"13 de mar. de 2026, 18:28 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"'Tokenização não é um mercado aberto e descentralizado, mas um jardim murado controlado de operações no back-office'\" data-qa-id=\"news-headline-title\">'Tokenização não é um mercado aberto e descentralizado, mas um jardim murado controlado de operações no back-office'</div></div></article>"
     }
   ]
 }
