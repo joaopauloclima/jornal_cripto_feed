@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-17T15:48:12.802Z",
+  "updated_at": "2026-03-17T16:49:15.070Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:3bf29bf75bc81:0",
+      "id": "cointelegraph:3e2081825bc81:0",
       "index": 0,
+      "title": "Nubank é o primeiro banco do Brasil a liberar staking de criptomoedas para os usuários",
+      "link": "https://br.tradingview.com/news/cointelegraph:3e2081825bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-17T16:36:12.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Mar 2026 16:36:12 GMT\" class=\"apply-common-tooltip\" title=\"17 de mar. de 2026, 16:36 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Nubank é o primeiro banco do Brasil a liberar staking de criptomoedas para os usuários\" data-qa-id=\"news-headline-title\">Nubank é o primeiro banco do Brasil a liberar staking de criptomoedas para os usuários</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2b483aad3bc81:0",
+      "index": 1,
+      "title": "Bitcoin gera alerta de 'bull trap' após rejeição do preço em US$ 76 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:2b483aad3bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-17T16:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Mar 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de mar. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin gera alerta de 'bull trap' após rejeição do preço em US$ 76 mil\" data-qa-id=\"news-headline-title\">Bitcoin gera alerta de 'bull trap' após rejeição do preço em US$ 76 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3bf29bf75bc81:0",
+      "index": 2,
       "title": "'Movimento poderoso' do Bitcoin se aproxima enquanto Bandas de Bollinger indicam volatilidade",
       "link": "https://br.tradingview.com/news/cointelegraph:3bf29bf75bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:1c0e342f7bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "ETFs de Bitcoin dos EUA registram seis dias consecutivos de entrada de capital com a alta das criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:1c0e342f7bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:5846f7fc0bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Trump aumenta pressão para que presidente do Fed, Powell, corte juros 'agora mesmo'",
       "link": "https://br.tradingview.com/news/cointelegraph:5846f7fc0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a78d34a25bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Ripple vai pedir ao Banco Central licença de VASP no Brasil e anuncia novos serviços de custódia no pais",
       "link": "https://br.tradingview.com/news/cointelegraph:a78d34a25bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:23fb863d6bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Nomad fecha parceria com a Ripple e começa a usar stablecoins para fluxo de pagamentos entre EUA e Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:23fb863d6bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:6ba63004ebc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin supera US$ 74,5 mil, mas traders profissionais voltaram a ficar otimistas?",
       "link": "https://br.tradingview.com/news/cointelegraph:6ba63004ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:14a8a3985bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Preço do Bitcoin hoje, 17/03/2026: BTC mantém movimento de alta em busca de romper US$ 75 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:14a8a3985bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N4050HI:0",
-      "index": 7,
+      "index": 9,
       "title": "Mastercard intensifica investida em stablecoins com aquisição da BVNK por até US$ 1,8 bilhão.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4050HI:0/",
       "source": "Reuters",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:6c244eaa0bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitmine acelera compras de Ethereum e eleva tesouraria para 4,6 milhões de ETH",
       "link": "https://br.tradingview.com/news/cointelegraph:6c244eaa0bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N4050FZ:0",
-      "index": 9,
+      "index": 11,
       "title": "PayPal expande acesso a stablecoins para mais 68 países - Fortune",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4050FZ:0/",
       "source": "Reuters",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:03bef1cadbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Criptomoedas sinalizam reação em meio ao avanço dos RWAs",
       "link": "https://br.tradingview.com/news/cointelegraph:03bef1cadbc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Mar 2026 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de mar. de 2026, 11:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Criptomoedas sinalizam reação em meio ao avanço dos RWAs\" data-qa-id=\"news-headline-title\">Criptomoedas sinalizam reação em meio ao avanço dos RWAs</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:42d1f20c9bc81:0",
-      "index": 11,
-      "title": "Como um erro de preço de 2,85% desencadeou US$ 27 milhões em liquidações na Aave",
-      "link": "https://br.tradingview.com/news/cointelegraph:42d1f20c9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-17T00:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 17 Mar 2026 00:00:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de mar. de 2026, 00:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Como um erro de preço de 2,85% desencadeou US$ 27 milhões em liquidações na Aave\" data-qa-id=\"news-headline-title\">Como um erro de preço de 2,85% desencadeou US$ 27 milhões em liquidações na Aave</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:130a0085dbc81:0",
-      "index": 12,
-      "title": "Avanço do Bitcoin rumo a US$ 75 mil reacende debate sobre o que impulsiona os fluxos de capital",
-      "link": "https://br.tradingview.com/news/cointelegraph:130a0085dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-16T23:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 16 Mar 2026 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de mar. de 2026, 23:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Avanço do Bitcoin rumo a US$ 75 mil reacende debate sobre o que impulsiona os fluxos de capital\" data-qa-id=\"news-headline-title\">Avanço do Bitcoin rumo a US$ 75 mil reacende debate sobre o que impulsiona os fluxos de capital</div></div></article>"
     }
   ]
 }
