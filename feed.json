@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-18T20:34:50.353Z",
+  "updated_at": "2026-03-19T06:56:55.519Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:64f8aab83bc81:0",
+      "id": "cointelegraph:5362f6937bc81:0",
       "index": 0,
+      "title": "'Muitas vezes a gente senta e chora', revela Ministério da Justiça sobre o desafio de rastrear criminosos que usam bridges e multichains",
+      "link": "https://br.tradingview.com/news/cointelegraph:5362f6937bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-18T21:01:05.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 21:01:05 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 21:01 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"'Muitas vezes a gente senta e chora', revela Ministério da Justiça sobre o desafio de rastrear criminosos que usam bridges e multichains\" data-qa-id=\"news-headline-title\">'Muitas vezes a gente senta e chora', revela Ministério da Justiça sobre o desafio de rastrear criminosos que usam bridges e multichains</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fabee1373bc81:0",
+      "index": 1,
+      "title": "Ethereum busca reduzir tempo de transferência entre redes em 98% para 13 segundos com nova regra",
+      "link": "https://br.tradingview.com/news/cointelegraph:fabee1373bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-18T21:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ethereum busca reduzir tempo de transferência entre redes em 98% para 13 segundos com nova regra\" data-qa-id=\"news-headline-title\">Ethereum busca reduzir tempo de transferência entre redes em 98% para 13 segundos com nova regra</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:64f8aab83bc81:0",
+      "index": 2,
       "title": "'Estamos muito perto desta vez', diz senadora Lummis sobre projeto de estrutura de mercado",
       "link": "https://br.tradingview.com/news/cointelegraph:64f8aab83bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:902659fd3bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Bitcoin recua para US$ 72 mil com PPI dos EUA elevado horas antes da reunião do FOMC do Fed",
       "link": "https://br.tradingview.com/news/cointelegraph:902659fd3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3bf49b607bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Bitcoin testa novo desacoplamento com a correlação com ações de tecnologia nos níveis mais baixos desde 2018",
       "link": "https://br.tradingview.com/news/cointelegraph:3bf49b607bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:2f0a2a727bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Rede Open Capital Markets da Anbima será a base para tokenização no Brasil, defendem Bradesco, Itaú, BTG e Santander",
       "link": "https://br.tradingview.com/news/cointelegraph:2f0a2a727bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N4060W3:0",
-      "index": 4,
+      "index": 6,
       "title": "Corretora de criptomoedas Kraken suspende seus planos de IPO, segundo reportagem da CoinDesk",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4060W3:0/",
       "source": "Reuters",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:4bc3945a9bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin trava nos US$ 76 mil: níveis-chave do BTC para observar antes do FOMC",
       "link": "https://br.tradingview.com/news/cointelegraph:4bc3945a9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N4060U9:0",
-      "index": 6,
+      "index": 8,
       "title": "A corretora de criptomoedas Kraken suspende seus planos de IPO, segundo reportagem da CoinDesk.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4060U9:0/",
       "source": "Reuters",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:e9dfed8f7bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Sequência de entradas em ETFs de Bitcoin se aproxima do ritmo de outubro, mas volumes ainda ficam atrás",
       "link": "https://br.tradingview.com/news/cointelegraph:e9dfed8f7bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:cfcf281e1bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Entradas de Bitcoin em exchanges disparam enquanto BTC encontra resistência em US$ 75 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:cfcf281e1bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:0be672124bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Senador dos EUA vê possível avanço para projeto cripto travado nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:0be672124bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:9bef29badbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Baleias da memecoin Trump acumulam antes de gala em Mar-a-Lago",
       "link": "https://br.tradingview.com/news/cointelegraph:9bef29badbc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Baleias da memecoin Trump acumulam antes de gala em Mar-a-Lago\" data-qa-id=\"news-headline-title\">Baleias da memecoin Trump acumulam antes de gala em Mar-a-Lago</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:08ff0c919bc81:0",
-      "index": 11,
-      "title": "OKX lança carteira que permite uso de IA para operações com criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:08ff0c919bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-18T13:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"OKX lança carteira que permite uso de IA para operações com criptomoedas\" data-qa-id=\"news-headline-title\">OKX lança carteira que permite uso de IA para operações com criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:4f6f0bc4bbc81:0",
-      "index": 12,
-      "title": "Presidente da SEC, Paul Atkins, propõe isenções de 'safe harbor' para cripto",
-      "link": "https://br.tradingview.com/news/cointelegraph:4f6f0bc4bbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-18T13:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Presidente da SEC, Paul Atkins, propõe isenções de 'safe harbor' para cripto\" data-qa-id=\"news-headline-title\">Presidente da SEC, Paul Atkins, propõe isenções de 'safe harbor' para cripto</div></div></article>"
     }
   ]
 }
