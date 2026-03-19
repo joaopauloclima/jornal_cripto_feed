@@ -1,10 +1,120 @@
 {
-  "updated_at": "2026-03-19T14:47:34.287Z",
+  "updated_at": "2026-03-19T22:04:04.918Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:fe8d7c97bbc81:0",
+      "id": "cointelegraph:05de7b377bc81:0",
       "index": 0,
+      "title": "Sinais de mercado de alta do Bitcoin surgem, mas falta confirmação, diz Glassnode",
+      "link": "https://br.tradingview.com/news/cointelegraph:05de7b377bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T22:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Sinais de mercado de alta do Bitcoin surgem, mas falta confirmação, diz Glassnode\" data-qa-id=\"news-headline-title\">Sinais de mercado de alta do Bitcoin surgem, mas falta confirmação, diz Glassnode</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:39e22276abc81:0",
+      "index": 1,
+      "title": "Protocolo financeiro de Bitcoin Hashi é lançado na Sui com apoio da BitGo e FalconX",
+      "link": "https://br.tradingview.com/news/cointelegraph:39e22276abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T21:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Protocolo financeiro de Bitcoin Hashi é lançado na Sui com apoio da BitGo e FalconX\" data-qa-id=\"news-headline-title\">Protocolo financeiro de Bitcoin Hashi é lançado na Sui com apoio da BitGo e FalconX</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f1ee04271bc81:0",
+      "index": 2,
+      "title": "Bitcoin cai 10% e ameaça novo reteste de suporte 'não confiável' do preço do BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:f1ee04271bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T20:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin cai 10% e ameaça novo reteste de suporte 'não confiável' do preço do BTC\" data-qa-id=\"news-headline-title\">Bitcoin cai 10% e ameaça novo reteste de suporte 'não confiável' do preço do BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bc15f0b2abc81:0",
+      "index": 3,
+      "title": "XRP sinaliza alta de 20% com retiradas recordes em exchanges coreanas",
+      "link": "https://br.tradingview.com/news/cointelegraph:bc15f0b2abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"XRP sinaliza alta de 20% com retiradas recordes em exchanges coreanas\" data-qa-id=\"news-headline-title\">XRP sinaliza alta de 20% com retiradas recordes em exchanges coreanas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0aab7b181bc81:0",
+      "index": 4,
+      "title": "Mercados de previsão do Bitcoin veem 70% de chance do preço do BTC cair para US$ 55 mil em 2026",
+      "link": "https://br.tradingview.com/news/cointelegraph:0aab7b181bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T18:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Mercados de previsão do Bitcoin veem 70% de chance do preço do BTC cair para US$ 55 mil em 2026\" data-qa-id=\"news-headline-title\">Mercados de previsão do Bitcoin veem 70% de chance do preço do BTC cair para US$ 55 mil em 2026</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:615f43ec6bc81:0",
+      "index": 5,
+      "title": "Novas regras para stablecoins devem mudar a dinâmica do mercado cripto no Brasil",
+      "link": "https://br.tradingview.com/news/cointelegraph:615f43ec6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T17:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 17:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Novas regras para stablecoins devem mudar a dinâmica do mercado cripto no Brasil\" data-qa-id=\"news-headline-title\">Novas regras para stablecoins devem mudar a dinâmica do mercado cripto no Brasil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:14863d9dabc81:0",
+      "index": 6,
+      "title": "Bitcoin ainda pode buscar US$ 75 mil apesar de perder o suporte de US$ 70 mil novamente",
+      "link": "https://br.tradingview.com/news/cointelegraph:14863d9dabc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin ainda pode buscar US$ 75 mil apesar de perder o suporte de US$ 70 mil novamente\" data-qa-id=\"news-headline-title\">Bitcoin ainda pode buscar US$ 75 mil apesar de perder o suporte de US$ 70 mil novamente</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3a02da81bbc81:0",
+      "index": 7,
+      "title": "Risco de long squeeze em Ethereum aumenta enquanto preço do ETH cai para US$ 2.100",
+      "link": "https://br.tradingview.com/news/cointelegraph:3a02da81bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T16:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Risco de long squeeze em Ethereum aumenta enquanto preço do ETH cai para US$ 2.100\" data-qa-id=\"news-headline-title\">Risco de long squeeze em Ethereum aumenta enquanto preço do ETH cai para US$ 2.100</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b03d77172bc81:0",
+      "index": 8,
+      "title": "Bitcoin testa topo de 2021 enquanto ouro cai para mínima de seis semanas abaixo de US$ 4,7 mil",
+      "link": "https://br.tradingview.com/news/cointelegraph:b03d77172bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T15:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin testa topo de 2021 enquanto ouro cai para mínima de seis semanas abaixo de US$ 4,7 mil\" data-qa-id=\"news-headline-title\">Bitcoin testa topo de 2021 enquanto ouro cai para mínima de seis semanas abaixo de US$ 4,7 mil</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9e1773f78bc81:0",
+      "index": 9,
+      "title": "Varejo triplicou compras de ouro nos últimos 6 meses enquanto Wall Street vende",
+      "link": "https://br.tradingview.com/news/cointelegraph:9e1773f78bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-19T15:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Varejo triplicou compras de ouro nos últimos 6 meses enquanto Wall Street vende\" data-qa-id=\"news-headline-title\">Varejo triplicou compras de ouro nos últimos 6 meses enquanto Wall Street vende</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fe8d7c97bbc81:0",
+      "index": 10,
       "title": "Traders cripto veem possível 'rali de alívio' após Fed manter juros estáveis",
       "link": "https://br.tradingview.com/news/cointelegraph:fe8d7c97bbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2e9d63af3bc81:0",
-      "index": 1,
+      "index": 11,
       "title": "Bitcoin cai abaixo de US$ 71 mil, mas dados mostram que o momentum de alta do BTC se mantém",
       "link": "https://br.tradingview.com/news/cointelegraph:2e9d63af3bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +136,7 @@
     },
     {
       "id": "cointelegraph:18aadde3fbc81:0",
-      "index": 2,
+      "index": 12,
       "title": "FTX Recovery Trust distribuirá US$ 2,2 bilhões a credores em março",
       "link": "https://br.tradingview.com/news/cointelegraph:18aadde3fbc81:0/",
       "source": "Cointelegraph",
@@ -34,116 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"FTX Recovery Trust distribuirá US$ 2,2 bilhões a credores em março\" data-qa-id=\"news-headline-title\">FTX Recovery Trust distribuirá US$ 2,2 bilhões a credores em março</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:32b634ecbbc81:0",
-      "index": 3,
-      "title": "Ripple exalta stablecoins no Brasil e diz que o país é a porta de entrada para América Latina",
-      "link": "https://br.tradingview.com/news/cointelegraph:32b634ecbbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-19T13:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ripple exalta stablecoins no Brasil e diz que o país é a porta de entrada para América Latina\" data-qa-id=\"news-headline-title\">Ripple exalta stablecoins no Brasil e diz que o país é a porta de entrada para América Latina</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ad95a6009bc81:0",
-      "index": 4,
-      "title": "KAST levanta US$ 80 milhões para stablecoins no Brasil e outros países",
-      "link": "https://br.tradingview.com/news/cointelegraph:ad95a6009bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-19T12:01:27.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 12:01:27 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 12:01 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"KAST levanta US$ 80 milhões para stablecoins no Brasil e outros países\" data-qa-id=\"news-headline-title\">KAST levanta US$ 80 milhões para stablecoins no Brasil e outros países</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5136c3ea3bc81:0",
-      "index": 5,
-      "title": "Recuo do Bitcoin pode chegar a US$ 60 mil antes de nova alta, sugerem especialistas",
-      "link": "https://br.tradingview.com/news/cointelegraph:5136c3ea3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-19T11:38:36.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 11:38:36 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 11:38 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Recuo do Bitcoin pode chegar a US$ 60 mil antes de nova alta, sugerem especialistas\" data-qa-id=\"news-headline-title\">Recuo do Bitcoin pode chegar a US$ 60 mil antes de nova alta, sugerem especialistas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5362f6937bc81:0",
-      "index": 6,
-      "title": "Ministério da Justiça fala sobre o desafio de rastrear criminosos que usam bridges e multichains",
-      "link": "https://br.tradingview.com/news/cointelegraph:5362f6937bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-18T21:01:05.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 21:01:05 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 21:01 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ministério da Justiça fala sobre o desafio de rastrear criminosos que usam bridges e multichains\" data-qa-id=\"news-headline-title\">Ministério da Justiça fala sobre o desafio de rastrear criminosos que usam bridges e multichains</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:fabee1373bc81:0",
-      "index": 7,
-      "title": "Ethereum busca reduzir tempo de transferência entre redes em 98% para 13 segundos com nova regra",
-      "link": "https://br.tradingview.com/news/cointelegraph:fabee1373bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-18T21:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ethereum busca reduzir tempo de transferência entre redes em 98% para 13 segundos com nova regra\" data-qa-id=\"news-headline-title\">Ethereum busca reduzir tempo de transferência entre redes em 98% para 13 segundos com nova regra</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:64f8aab83bc81:0",
-      "index": 8,
-      "title": "'Estamos muito perto desta vez', diz senadora Lummis sobre projeto de estrutura de mercado",
-      "link": "https://br.tradingview.com/news/cointelegraph:64f8aab83bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-18T20:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"'Estamos muito perto desta vez', diz senadora Lummis sobre projeto de estrutura de mercado\" data-qa-id=\"news-headline-title\">'Estamos muito perto desta vez', diz senadora Lummis sobre projeto de estrutura de mercado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:902659fd3bc81:0",
-      "index": 9,
-      "title": "Bitcoin recua para US$ 72 mil com PPI dos EUA elevado horas antes da reunião do FOMC do Fed",
-      "link": "https://br.tradingview.com/news/cointelegraph:902659fd3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-18T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin recua para US$ 72 mil com PPI dos EUA elevado horas antes da reunião do FOMC do Fed\" data-qa-id=\"news-headline-title\">Bitcoin recua para US$ 72 mil com PPI dos EUA elevado horas antes da reunião do FOMC do Fed</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:3bf49b607bc81:0",
-      "index": 10,
-      "title": "Bitcoin testa novo desacoplamento com a correlação com ações de tecnologia nos níveis mais baixos desde 2018",
-      "link": "https://br.tradingview.com/news/cointelegraph:3bf49b607bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-18T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin testa novo desacoplamento com a correlação com ações de tecnologia nos níveis mais baixos desde 2018\" data-qa-id=\"news-headline-title\">Bitcoin testa novo desacoplamento com a correlação com ações de tecnologia nos níveis mais baixos desde 2018</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2f0a2a727bc81:0",
-      "index": 11,
-      "title": "Rede Open Capital Markets da Anbima será a base para tokenização no Brasil, defendem Bradesco, Itaú, BTG e Santander",
-      "link": "https://br.tradingview.com/news/cointelegraph:2f0a2a727bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-18T16:46:22.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 16:46:22 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 16:46 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Rede Open Capital Markets da Anbima será a base para tokenização no Brasil, defendem Bradesco, Itaú, BTG e Santander\" data-qa-id=\"news-headline-title\">Rede Open Capital Markets da Anbima será a base para tokenização no Brasil, defendem Bradesco, Itaú, BTG e Santander</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2026:newsml_L1N4060W3:0",
-      "index": 12,
-      "title": "Corretora de criptomoedas Kraken suspende seus planos de IPO, segundo reportagem da CoinDesk",
-      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4060W3:0/",
-      "source": "Reuters",
-      "published_at": "2026-03-18T16:07:16.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 18 Mar 2026 16:07:16 GMT\" class=\"apply-common-tooltip\" title=\"18 de mar. de 2026, 16:07 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Corretora de criptomoedas Kraken suspende seus planos de IPO, segundo reportagem da CoinDesk\" data-qa-id=\"news-headline-title\">Corretora de criptomoedas Kraken suspende seus planos de IPO, segundo reportagem da CoinDesk</div></div></article>"
     }
   ]
 }
