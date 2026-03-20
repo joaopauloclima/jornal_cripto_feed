@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-20T16:28:37.192Z",
+  "updated_at": "2026-03-20T17:27:58.959Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:5a37a49e8bc81:0",
+      "id": "cointelegraph:d92a11190bc81:0",
       "index": 0,
+      "title": "Coinbase lança contratos perpétuos de ações 24/7 para traders fora dos EUA",
+      "link": "https://br.tradingview.com/news/cointelegraph:d92a11190bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-20T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Coinbase lança contratos perpétuos de ações 24/7 para traders fora dos EUA\" data-qa-id=\"news-headline-title\">Coinbase lança contratos perpétuos de ações 24/7 para traders fora dos EUA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:52fb8f200bc81:0",
+      "index": 1,
+      "title": "RSI do Bitcoin mira repetição de 2022 enquanto análise sugere 'hora de prestar atenção'",
+      "link": "https://br.tradingview.com/news/cointelegraph:52fb8f200bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-20T16:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"RSI do Bitcoin mira repetição de 2022 enquanto análise sugere 'hora de prestar atenção'\" data-qa-id=\"news-headline-title\">RSI do Bitcoin mira repetição de 2022 enquanto análise sugere 'hora de prestar atenção'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:5a37a49e8bc81:0",
+      "index": 2,
       "title": "Bitcoin vs ouro mostra possíveis sinais de fundo enquanto touros defendem US$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:5a37a49e8bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:362ad126cbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Pesquisa da Ripple mostra que 72% dos líderes financeiros veem ativos digitais como essenciais",
       "link": "https://br.tradingview.com/news/cointelegraph:362ad126cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:ccd4dc3cfbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Risco quântico é real, mas nem todas as carteiras cripto são igualmente vulneráveis, diz Galaxy",
       "link": "https://br.tradingview.com/news/cointelegraph:ccd4dc3cfbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:ec33c42acbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Receita de DApps na Solana cai para mínima de 18 meses enquanto preço do SOL corre risco de retestar US$ 80",
       "link": "https://br.tradingview.com/news/cointelegraph:ec33c42acbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:43cd9f8e3bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Interpretação da SEC sobre leis cripto é 'um começo, não um fim', diz Atkins",
       "link": "https://br.tradingview.com/news/cointelegraph:43cd9f8e3bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:11b2be9e9bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Tokenização de recebíveis reduz custo de crédito no Brasil, diz especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:11b2be9e9bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:3bfb98816bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Solana Brasil lança ‘pré-hackathon global’",
       "link": "https://br.tradingview.com/news/cointelegraph:3bfb98816bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:6feed5c4ebc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Preço do Bitcoin hoje, 20/03/2026: touros compram a queda com alta de 2% e querem defender o suporte de U$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:6feed5c4ebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f4b4bcaa9bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Banco Central do Brasil abre fase de testes para reporte mensal de cripto no mercado de câmbio",
       "link": "https://br.tradingview.com/news/cointelegraph:f4b4bcaa9bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:2852909f9bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bybit lança ouro tokenizado com rendimento e expande mercado de rendimento de RWAs",
       "link": "https://br.tradingview.com/news/cointelegraph:2852909f9bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:4f7c1a5c1bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Receita da Méliuz avança para R$ 460,2 milhões com aposta em tesouraria de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:4f7c1a5c1bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 22:36:45 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 22:36 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Receita da Méliuz avança para R$ 460,2 milhões com aposta em tesouraria de Bitcoin\" data-qa-id=\"news-headline-title\">Receita da Méliuz avança para R$ 460,2 milhões com aposta em tesouraria de Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:05de7b377bc81:0",
-      "index": 11,
-      "title": "Sinais de mercado de alta do Bitcoin surgem, mas falta confirmação, diz Glassnode",
-      "link": "https://br.tradingview.com/news/cointelegraph:05de7b377bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-19T22:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Sinais de mercado de alta do Bitcoin surgem, mas falta confirmação, diz Glassnode\" data-qa-id=\"news-headline-title\">Sinais de mercado de alta do Bitcoin surgem, mas falta confirmação, diz Glassnode</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:39e22276abc81:0",
-      "index": 12,
-      "title": "Protocolo financeiro de Bitcoin Hashi é lançado na Sui com apoio da BitGo e FalconX",
-      "link": "https://br.tradingview.com/news/cointelegraph:39e22276abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-19T21:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Protocolo financeiro de Bitcoin Hashi é lançado na Sui com apoio da BitGo e FalconX\" data-qa-id=\"news-headline-title\">Protocolo financeiro de Bitcoin Hashi é lançado na Sui com apoio da BitGo e FalconX</div></div></article>"
     }
   ]
 }
