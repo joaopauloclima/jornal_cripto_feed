@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-20T09:28:37.807Z",
+  "updated_at": "2026-03-20T12:03:52.376Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6feed5c4ebc81:0",
+      "id": "cointelegraph:3bfb98816bc81:0",
       "index": 0,
+      "title": "Superteam Brasil lança ‘pré-hackathon global da Solana’",
+      "link": "https://br.tradingview.com/news/cointelegraph:3bfb98816bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-20T12:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Superteam Brasil lança ‘pré-hackathon global da Solana’\" data-qa-id=\"news-headline-title\">Superteam Brasil lança ‘pré-hackathon global da Solana’</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6feed5c4ebc81:0",
+      "index": 1,
       "title": "Preço do Bitcoin hoje, 20/03/2026: touros compram a queda com alta de 2% e querem defender o suporte de U$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:6feed5c4ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:f4b4bcaa9bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Banco Central do Brasil abre fase de testes para reporte mensal de cripto no mercado de câmbio",
       "link": "https://br.tradingview.com/news/cointelegraph:f4b4bcaa9bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:2852909f9bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bybit lança ouro tokenizado com rendimento e expande mercado de rendimento de RWAs",
       "link": "https://br.tradingview.com/news/cointelegraph:2852909f9bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:4f7c1a5c1bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Receita da Méliuz avança para R$ 460,2 milhões com aposta em tesouraria de Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:4f7c1a5c1bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:05de7b377bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Sinais de mercado de alta do Bitcoin surgem, mas falta confirmação, diz Glassnode",
       "link": "https://br.tradingview.com/news/cointelegraph:05de7b377bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:39e22276abc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Protocolo financeiro de Bitcoin Hashi é lançado na Sui com apoio da BitGo e FalconX",
       "link": "https://br.tradingview.com/news/cointelegraph:39e22276abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:f1ee04271bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin cai 10% e ameaça novo reteste de suporte 'não confiável' do preço do BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:f1ee04271bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:bc15f0b2abc81:0",
-      "index": 7,
+      "index": 8,
       "title": "XRP sinaliza alta de 20% com retiradas recordes em exchanges coreanas",
       "link": "https://br.tradingview.com/news/cointelegraph:bc15f0b2abc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:0aab7b181bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Mercados de previsão do Bitcoin veem 70% de chance do preço do BTC cair para US$ 55 mil em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:0aab7b181bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:615f43ec6bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Novas regras para stablecoins devem mudar a dinâmica do mercado cripto no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:615f43ec6bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:14863d9dabc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin ainda pode buscar US$ 75 mil apesar de perder o suporte de US$ 70 mil novamente",
       "link": "https://br.tradingview.com/news/cointelegraph:14863d9dabc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:3a02da81bbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Risco de long squeeze em Ethereum aumenta enquanto preço do ETH cai para US$ 2.100",
       "link": "https://br.tradingview.com/news/cointelegraph:3a02da81bbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Risco de long squeeze em Ethereum aumenta enquanto preço do ETH cai para US$ 2.100\" data-qa-id=\"news-headline-title\">Risco de long squeeze em Ethereum aumenta enquanto preço do ETH cai para US$ 2.100</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:b03d77172bc81:0",
-      "index": 12,
-      "title": "Bitcoin testa topo de 2021 enquanto ouro cai para mínima de seis semanas abaixo de US$ 4,7 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:b03d77172bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-19T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin testa topo de 2021 enquanto ouro cai para mínima de seis semanas abaixo de US$ 4,7 mil\" data-qa-id=\"news-headline-title\">Bitcoin testa topo de 2021 enquanto ouro cai para mínima de seis semanas abaixo de US$ 4,7 mil</div></div></article>"
     }
   ]
 }
