@@ -1,21 +1,65 @@
 {
-  "updated_at": "2026-03-20T18:09:49.926Z",
+  "updated_at": "2026-03-20T20:05:26.067Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:9d9794dc6bc81:0",
+      "id": "cointelegraph:9d21a087dbc81:0",
       "index": 0,
-      "title": "Brasdeco fecha parceria com a Parfin para emissão e gestão de stablecoin voltado ao comércio exterior",
+      "title": "O que acontece com o Bitcoin se o preço do petróleo atingir US$ 180 por barril?",
+      "link": "https://br.tradingview.com/news/cointelegraph:9d21a087dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-20T20:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"O que acontece com o Bitcoin se o preço do petróleo atingir US$ 180 por barril?\" data-qa-id=\"news-headline-title\">O que acontece com o Bitcoin se o preço do petróleo atingir US$ 180 por barril?</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e0ae157abbc81:0",
+      "index": 1,
+      "title": "Bitcoin atraiu US$ 1,5 bi enquanto ETFs tradicionais caíram em meio à crise do petróleo",
+      "link": "https://br.tradingview.com/news/cointelegraph:e0ae157abbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-20T19:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 19:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin atraiu US$ 1,5 bi enquanto ETFs tradicionais caíram em meio à crise do petróleo\" data-qa-id=\"news-headline-title\">Bitcoin atraiu US$ 1,5 bi enquanto ETFs tradicionais caíram em meio à crise do petróleo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:2a0aa7870bc81:0",
+      "index": 2,
+      "title": "Mercado Bitcoin aposta em “ouro escondido” da renda fixa digital",
+      "link": "https://br.tradingview.com/news/cointelegraph:2a0aa7870bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-20T19:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 19:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Mercado Bitcoin aposta em “ouro escondido” da renda fixa digital\" data-qa-id=\"news-headline-title\">Mercado Bitcoin aposta em “ouro escondido” da renda fixa digital</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c62d325b1bc81:0",
+      "index": 3,
+      "title": "Criptomoedas fazem parte do sistema financeiro 'central' do Canadá, mas riscos permanecem",
+      "link": "https://br.tradingview.com/news/cointelegraph:c62d325b1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-20T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Criptomoedas fazem parte do sistema financeiro 'central' do Canadá, mas riscos permanecem\" data-qa-id=\"news-headline-title\">Criptomoedas fazem parte do sistema financeiro 'central' do Canadá, mas riscos permanecem</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:9d9794dc6bc81:0",
+      "index": 4,
+      "title": "Bradesco fecha parceria com a Parfin para emissão e gestão de stablecoin voltado ao comércio exterior",
       "link": "https://br.tradingview.com/news/cointelegraph:9d9794dc6bc81:0/",
       "source": "Cointelegraph",
       "published_at": "2026-03-20T18:01:58.000Z",
       "snippet": "",
       "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 18:01:58 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 18:01 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Brasdeco fecha parceria com a Parfin para emissão e gestão de stablecoin voltado ao comércio exterior\" data-qa-id=\"news-headline-title\">Brasdeco fecha parceria com a Parfin para emissão e gestão de stablecoin voltado ao comércio exterior</div></div></article>"
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 18:01:58 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 18:01 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bradesco fecha parceria com a Parfin para emissão e gestão de stablecoin voltado ao comércio exterior\" data-qa-id=\"news-headline-title\">Bradesco fecha parceria com a Parfin para emissão e gestão de stablecoin voltado ao comércio exterior</div></div></article>"
     },
     {
       "id": "cointelegraph:db8339409bc81:0",
-      "index": 1,
+      "index": 5,
       "title": "Morgan Stanley protocola S-1 atualizado para ETF de Bitcoin MSBT",
       "link": "https://br.tradingview.com/news/cointelegraph:db8339409bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d92a11190bc81:0",
-      "index": 2,
+      "index": 6,
       "title": "Coinbase lança contratos perpétuos de ações 24/7 para traders fora dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:d92a11190bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +81,7 @@
     },
     {
       "id": "cointelegraph:52fb8f200bc81:0",
-      "index": 3,
+      "index": 7,
       "title": "RSI do Bitcoin mira repetição de 2022 enquanto análise sugere 'hora de prestar atenção'",
       "link": "https://br.tradingview.com/news/cointelegraph:52fb8f200bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +92,7 @@
     },
     {
       "id": "cointelegraph:5a37a49e8bc81:0",
-      "index": 4,
+      "index": 8,
       "title": "Bitcoin vs ouro mostra possíveis sinais de fundo enquanto touros defendem US$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:5a37a49e8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +103,7 @@
     },
     {
       "id": "cointelegraph:362ad126cbc81:0",
-      "index": 5,
+      "index": 9,
       "title": "Pesquisa da Ripple mostra que 72% dos líderes financeiros veem ativos digitais como essenciais",
       "link": "https://br.tradingview.com/news/cointelegraph:362ad126cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ccd4dc3cfbc81:0",
-      "index": 6,
+      "index": 10,
       "title": "Risco quântico é real, mas nem todas as carteiras cripto são igualmente vulneráveis, diz Galaxy",
       "link": "https://br.tradingview.com/news/cointelegraph:ccd4dc3cfbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +125,7 @@
     },
     {
       "id": "cointelegraph:ec33c42acbc81:0",
-      "index": 7,
+      "index": 11,
       "title": "Receita de DApps na Solana cai para mínima de 18 meses enquanto preço do SOL corre risco de retestar US$ 80",
       "link": "https://br.tradingview.com/news/cointelegraph:ec33c42acbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +136,7 @@
     },
     {
       "id": "cointelegraph:43cd9f8e3bc81:0",
-      "index": 8,
+      "index": 12,
       "title": "Interpretação da SEC sobre leis cripto é 'um começo, não um fim', diz Atkins",
       "link": "https://br.tradingview.com/news/cointelegraph:43cd9f8e3bc81:0/",
       "source": "Cointelegraph",
@@ -100,50 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Interpretação da SEC sobre leis cripto é 'um começo, não um fim', diz Atkins\" data-qa-id=\"news-headline-title\">Interpretação da SEC sobre leis cripto é 'um começo, não um fim', diz Atkins</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:11b2be9e9bc81:0",
-      "index": 9,
-      "title": "Tokenização de recebíveis reduz custo de crédito no Brasil, diz especialista",
-      "link": "https://br.tradingview.com/news/cointelegraph:11b2be9e9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T13:43:10.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 13:43:10 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 13:43 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Tokenização de recebíveis reduz custo de crédito no Brasil, diz especialista\" data-qa-id=\"news-headline-title\">Tokenização de recebíveis reduz custo de crédito no Brasil, diz especialista</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:3bfb98816bc81:0",
-      "index": 10,
-      "title": "Solana Brasil lança ‘pré-hackathon global’",
-      "link": "https://br.tradingview.com/news/cointelegraph:3bfb98816bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T12:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Solana Brasil lança ‘pré-hackathon global’\" data-qa-id=\"news-headline-title\">Solana Brasil lança ‘pré-hackathon global’</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:6feed5c4ebc81:0",
-      "index": 11,
-      "title": "Preço do Bitcoin hoje, 20/03/2026: touros compram a queda com alta de 2% e querem defender o suporte de U$ 70 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:6feed5c4ebc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T09:10:54.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 09:10:54 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 09:10 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 20/03/2026: touros compram a queda com alta de 2% e querem defender o suporte de U$ 70 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 20/03/2026: touros compram a queda com alta de 2% e querem defender o suporte de U$ 70 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:f4b4bcaa9bc81:0",
-      "index": 12,
-      "title": "Banco Central do Brasil abre fase de testes para reporte mensal de cripto no mercado de câmbio",
-      "link": "https://br.tradingview.com/news/cointelegraph:f4b4bcaa9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-19T23:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 19 Mar 2026 23:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mar. de 2026, 23:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Banco Central do Brasil abre fase de testes para reporte mensal de cripto no mercado de câmbio\" data-qa-id=\"news-headline-title\">Banco Central do Brasil abre fase de testes para reporte mensal de cripto no mercado de câmbio</div></div></article>"
     }
   ]
 }
