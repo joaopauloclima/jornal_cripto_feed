@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-20T21:07:09.670Z",
+  "updated_at": "2026-03-20T22:35:46.869Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:b59c6e636bc81:0",
+      "id": "cointelegraph:01e1c1dbebc81:0",
       "index": 0,
+      "title": "Baleia de Bitcoin com US$ 147 milhões é reativada após 13 anos e faz pequena transferência de US$ 56",
+      "link": "https://br.tradingview.com/news/cointelegraph:01e1c1dbebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-20T22:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Baleia de Bitcoin com US$ 147 milhões é reativada após 13 anos e faz pequena transferência de US$ 56\" data-qa-id=\"news-headline-title\">Baleia de Bitcoin com US$ 147 milhões é reativada após 13 anos e faz pequena transferência de US$ 56</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b59c6e636bc81:0",
+      "index": 1,
       "title": "Analista de mercado vê mais queda para o Bitcoin e aponta US$ 60 mil como nível-chave",
       "link": "https://br.tradingview.com/news/cointelegraph:b59c6e636bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:9d21a087dbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "O que acontece com o Bitcoin se o preço do petróleo atingir US$ 180 por barril?",
       "link": "https://br.tradingview.com/news/cointelegraph:9d21a087dbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:e0ae157abbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin atraiu US$ 1,5 bi enquanto ETFs tradicionais caíram em meio à crise do petróleo",
       "link": "https://br.tradingview.com/news/cointelegraph:e0ae157abbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:2a0aa7870bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Mercado Bitcoin aposta em “ouro escondido” da renda fixa digital",
       "link": "https://br.tradingview.com/news/cointelegraph:2a0aa7870bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c62d325b1bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Criptomoedas fazem parte do sistema financeiro 'central' do Canadá, mas riscos permanecem",
       "link": "https://br.tradingview.com/news/cointelegraph:c62d325b1bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9d9794dc6bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bradesco fecha parceria com a Parfin para emissão e gestão de stablecoin voltado ao comércio exterior",
       "link": "https://br.tradingview.com/news/cointelegraph:9d9794dc6bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:db8339409bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Morgan Stanley protocola S-1 atualizado para ETF de Bitcoin MSBT",
       "link": "https://br.tradingview.com/news/cointelegraph:db8339409bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d92a11190bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Coinbase lança contratos perpétuos de ações 24/7 para traders fora dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:d92a11190bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:52fb8f200bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "RSI do Bitcoin mira repetição de 2022 enquanto análise sugere 'hora de prestar atenção'",
       "link": "https://br.tradingview.com/news/cointelegraph:52fb8f200bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:5a37a49e8bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin vs ouro mostra possíveis sinais de fundo enquanto touros defendem US$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:5a37a49e8bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:362ad126cbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Pesquisa da Ripple mostra que 72% dos líderes financeiros veem ativos digitais como essenciais",
       "link": "https://br.tradingview.com/news/cointelegraph:362ad126cbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ccd4dc3cfbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Risco quântico é real, mas nem todas as carteiras cripto são igualmente vulneráveis, diz Galaxy",
       "link": "https://br.tradingview.com/news/cointelegraph:ccd4dc3cfbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Risco quântico é real, mas nem todas as carteiras cripto são igualmente vulneráveis, diz Galaxy\" data-qa-id=\"news-headline-title\">Risco quântico é real, mas nem todas as carteiras cripto são igualmente vulneráveis, diz Galaxy</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:ec33c42acbc81:0",
-      "index": 12,
-      "title": "Receita de DApps na Solana cai para mínima de 18 meses enquanto preço do SOL corre risco de retestar US$ 80",
-      "link": "https://br.tradingview.com/news/cointelegraph:ec33c42acbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T14:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Receita de DApps na Solana cai para mínima de 18 meses enquanto preço do SOL corre risco de retestar US$ 80\" data-qa-id=\"news-headline-title\">Receita de DApps na Solana cai para mínima de 18 meses enquanto preço do SOL corre risco de retestar US$ 80</div></div></article>"
     }
   ]
 }
