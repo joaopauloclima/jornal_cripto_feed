@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-03-21T16:04:27.640Z",
+  "updated_at": "2026-03-21T18:37:09.399Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:43dd06bfabc81:0",
+      "id": "cointelegraph:56ad75e0ebc81:0",
       "index": 0,
+      "title": "Baleia antiga do Ethereum recompõe posição com compras de US$ 19,5 milhões em ETH",
+      "link": "https://br.tradingview.com/news/cointelegraph:56ad75e0ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-21T18:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 21 Mar 2026 18:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de mar. de 2026, 18:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Baleia antiga do Ethereum recompõe posição com compras de US$ 19,5 milhões em ETH\" data-qa-id=\"news-headline-title\">Baleia antiga do Ethereum recompõe posição com compras de US$ 19,5 milhões em ETH</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:ac951887dbc81:0",
+      "index": 1,
+      "title": "Fraqueza do Bitcoin se intensifica com a guerra e traders reduzem exposição ao BTC e às ações",
+      "link": "https://br.tradingview.com/news/cointelegraph:ac951887dbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-21T17:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 21 Mar 2026 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de mar. de 2026, 17:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Fraqueza do Bitcoin se intensifica com a guerra e traders reduzem exposição ao BTC e às ações\" data-qa-id=\"news-headline-title\">Fraqueza do Bitcoin se intensifica com a guerra e traders reduzem exposição ao BTC e às ações</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:53d661e3bbc81:0",
+      "index": 2,
+      "title": "Ouro registra sua maior queda semanal em 43 anos enquanto a guerra no Irã se intensifica",
+      "link": "https://br.tradingview.com/news/cointelegraph:53d661e3bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-21T16:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 21 Mar 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de mar. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ouro registra sua maior queda semanal em 43 anos enquanto a guerra no Irã se intensifica\" data-qa-id=\"news-headline-title\">Ouro registra sua maior queda semanal em 43 anos enquanto a guerra no Irã se intensifica</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:43dd06bfabc81:0",
+      "index": 3,
       "title": "Grayscale registra S-1 para ETF de Hyperliquid e se junta à Bitwise e 21Shares",
       "link": "https://br.tradingview.com/news/cointelegraph:43dd06bfabc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:525d617a8bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Rumores surgem sobre acordo da CLARITY Act entre Casa Branca e legisladores",
       "link": "https://br.tradingview.com/news/cointelegraph:525d617a8bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:d49727f6dbc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Preço do Bitcoin busca se manter em US$ 70 mil em meio a crescentes preocupações com a inflação",
       "link": "https://br.tradingview.com/news/cointelegraph:d49727f6dbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:9ad78a44abc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Exchange aposta em IA e reforça foco na América Latina enquanto avalia regulação no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:9ad78a44abc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:58a86bdfcbc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Notícias Cripto: Prossegur com ouro tokenizado, Ether ganha licença no exterior, Bitget no MotoGP e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:58a86bdfcbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:d64a85ae6bc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Receita Federal publica regras para o Imposto de Renda 2026 e esta 'de olho' nas criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:d64a85ae6bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:904e0f227bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Tokenização de tudo: 'Do que adianta tokenizar sem ninguém quer comprar o token'",
       "link": "https://br.tradingview.com/news/cointelegraph:904e0f227bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:23b802582bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Volume comprador do Ether atinge máxima de 3 anos: ETH evitará uma queda de 19%?",
       "link": "https://br.tradingview.com/news/cointelegraph:23b802582bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:01e1c1dbebc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Baleia de Bitcoin com US$ 147 milhões é reativada após 13 anos e faz pequena transferência de US$ 56",
       "link": "https://br.tradingview.com/news/cointelegraph:01e1c1dbebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:b59c6e636bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Analista de mercado vê mais queda para o Bitcoin e aponta US$ 60 mil como nível-chave",
       "link": "https://br.tradingview.com/news/cointelegraph:b59c6e636bc81:0/",
       "source": "Cointelegraph",
@@ -111,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Analista de mercado vê mais queda para o Bitcoin e aponta US$ 60 mil como nível-chave\" data-qa-id=\"news-headline-title\">Analista de mercado vê mais queda para o Bitcoin e aponta US$ 60 mil como nível-chave</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9d21a087dbc81:0",
-      "index": 10,
-      "title": "O que acontece com o Bitcoin se o preço do petróleo atingir US$ 180 por barril?",
-      "link": "https://br.tradingview.com/news/cointelegraph:9d21a087dbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T20:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"O que acontece com o Bitcoin se o preço do petróleo atingir US$ 180 por barril?\" data-qa-id=\"news-headline-title\">O que acontece com o Bitcoin se o preço do petróleo atingir US$ 180 por barril?</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:e0ae157abbc81:0",
-      "index": 11,
-      "title": "Bitcoin atraiu US$ 1,5 bi enquanto ETFs tradicionais caíram em meio à crise do petróleo",
-      "link": "https://br.tradingview.com/news/cointelegraph:e0ae157abbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T19:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 19:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin atraiu US$ 1,5 bi enquanto ETFs tradicionais caíram em meio à crise do petróleo\" data-qa-id=\"news-headline-title\">Bitcoin atraiu US$ 1,5 bi enquanto ETFs tradicionais caíram em meio à crise do petróleo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:2a0aa7870bc81:0",
-      "index": 12,
-      "title": "Mercado Bitcoin aposta em “ouro escondido” da renda fixa digital",
-      "link": "https://br.tradingview.com/news/cointelegraph:2a0aa7870bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T19:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 19:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 19:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Mercado Bitcoin aposta em “ouro escondido” da renda fixa digital\" data-qa-id=\"news-headline-title\">Mercado Bitcoin aposta em “ouro escondido” da renda fixa digital</div></div></article>"
     }
   ]
 }
