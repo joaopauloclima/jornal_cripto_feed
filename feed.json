@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-21T08:38:32.433Z",
+  "updated_at": "2026-03-21T10:34:39.730Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:23b802582bc81:0",
+      "id": "cointelegraph:d64a85ae6bc81:0",
       "index": 0,
+      "title": "Receita Federal publica regras para o Imposto de Renda 2026 e esta 'de olho' nas criptomoedas",
+      "link": "https://br.tradingview.com/news/cointelegraph:d64a85ae6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-21T10:05:37.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 21 Mar 2026 10:05:37 GMT\" class=\"apply-common-tooltip\" title=\"21 de mar. de 2026, 10:05 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Receita Federal publica regras para o Imposto de Renda 2026 e esta 'de olho' nas criptomoedas\" data-qa-id=\"news-headline-title\">Receita Federal publica regras para o Imposto de Renda 2026 e esta 'de olho' nas criptomoedas</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:904e0f227bc81:0",
+      "index": 1,
+      "title": "Tokenização de tudo: 'Do que adianta tokenizar sem ninguém quer comprar o token'",
+      "link": "https://br.tradingview.com/news/cointelegraph:904e0f227bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-21T09:25:03.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 21 Mar 2026 09:25:03 GMT\" class=\"apply-common-tooltip\" title=\"21 de mar. de 2026, 09:25 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Tokenização de tudo: 'Do que adianta tokenizar sem ninguém quer comprar o token'\" data-qa-id=\"news-headline-title\">Tokenização de tudo: 'Do que adianta tokenizar sem ninguém quer comprar o token'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:23b802582bc81:0",
+      "index": 2,
       "title": "Volume comprador do Ether atinge máxima de 3 anos: ETH evitará uma queda de 19%?",
       "link": "https://br.tradingview.com/news/cointelegraph:23b802582bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:01e1c1dbebc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Baleia de Bitcoin com US$ 147 milhões é reativada após 13 anos e faz pequena transferência de US$ 56",
       "link": "https://br.tradingview.com/news/cointelegraph:01e1c1dbebc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:b59c6e636bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Analista de mercado vê mais queda para o Bitcoin e aponta US$ 60 mil como nível-chave",
       "link": "https://br.tradingview.com/news/cointelegraph:b59c6e636bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9d21a087dbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "O que acontece com o Bitcoin se o preço do petróleo atingir US$ 180 por barril?",
       "link": "https://br.tradingview.com/news/cointelegraph:9d21a087dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:e0ae157abbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin atraiu US$ 1,5 bi enquanto ETFs tradicionais caíram em meio à crise do petróleo",
       "link": "https://br.tradingview.com/news/cointelegraph:e0ae157abbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:2a0aa7870bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Mercado Bitcoin aposta em “ouro escondido” da renda fixa digital",
       "link": "https://br.tradingview.com/news/cointelegraph:2a0aa7870bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:c62d325b1bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Criptomoedas fazem parte do sistema financeiro 'central' do Canadá, mas riscos permanecem",
       "link": "https://br.tradingview.com/news/cointelegraph:c62d325b1bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:9d9794dc6bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bradesco fecha parceria com a Parfin para emissão e gestão de stablecoin voltado ao comércio exterior",
       "link": "https://br.tradingview.com/news/cointelegraph:9d9794dc6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:db8339409bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Morgan Stanley protocola S-1 atualizado para ETF de Bitcoin MSBT",
       "link": "https://br.tradingview.com/news/cointelegraph:db8339409bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:d92a11190bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Coinbase lança contratos perpétuos de ações 24/7 para traders fora dos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:d92a11190bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:52fb8f200bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "RSI do Bitcoin mira repetição de 2022 enquanto análise sugere 'hora de prestar atenção'",
       "link": "https://br.tradingview.com/news/cointelegraph:52fb8f200bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"RSI do Bitcoin mira repetição de 2022 enquanto análise sugere 'hora de prestar atenção'\" data-qa-id=\"news-headline-title\">RSI do Bitcoin mira repetição de 2022 enquanto análise sugere 'hora de prestar atenção'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:5a37a49e8bc81:0",
-      "index": 11,
-      "title": "Bitcoin vs ouro mostra possíveis sinais de fundo enquanto touros defendem US$ 70 mil",
-      "link": "https://br.tradingview.com/news/cointelegraph:5a37a49e8bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin vs ouro mostra possíveis sinais de fundo enquanto touros defendem US$ 70 mil\" data-qa-id=\"news-headline-title\">Bitcoin vs ouro mostra possíveis sinais de fundo enquanto touros defendem US$ 70 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:362ad126cbc81:0",
-      "index": 12,
-      "title": "Pesquisa da Ripple mostra que 72% dos líderes financeiros veem ativos digitais como essenciais",
-      "link": "https://br.tradingview.com/news/cointelegraph:362ad126cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T15:30:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Pesquisa da Ripple mostra que 72% dos líderes financeiros veem ativos digitais como essenciais\" data-qa-id=\"news-headline-title\">Pesquisa da Ripple mostra que 72% dos líderes financeiros veem ativos digitais como essenciais</div></div></article>"
     }
   ]
 }
