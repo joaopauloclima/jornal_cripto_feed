@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-03-22T11:04:19.173Z",
+  "updated_at": "2026-03-22T14:08:16.671Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:89be8f2c1bc81:0",
+      "id": "cointelegraph:d01b97ed6bc81:0",
       "index": 0,
+      "title": "Funcionários da CFTC esclarecem expectativas sobre uso de cripto como colateral",
+      "link": "https://br.tradingview.com/news/cointelegraph:d01b97ed6bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-22T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 22 Mar 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de mar. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Funcionários da CFTC esclarecem expectativas sobre uso de cripto como colateral\" data-qa-id=\"news-headline-title\">Funcionários da CFTC esclarecem expectativas sobre uso de cripto como colateral</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:fdb7125abbc81:0",
+      "index": 1,
+      "title": "Diretrizes da SEC para cripto colocam o 'prego final' na era Gensler, diz analista",
+      "link": "https://br.tradingview.com/news/cointelegraph:fdb7125abbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-22T13:10:27.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 22 Mar 2026 13:10:27 GMT\" class=\"apply-common-tooltip\" title=\"22 de mar. de 2026, 13:10 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Diretrizes da SEC para cripto colocam o 'prego final' na era Gensler, diz analista\" data-qa-id=\"news-headline-title\">Diretrizes da SEC para cripto colocam o 'prego final' na era Gensler, diz analista</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:58ba922f9bc81:0",
+      "index": 2,
+      "title": "Notícias Cripto: 21Shares e Levante, RhoX e BitGo, novas regras na Binance e outras novidades",
+      "link": "https://br.tradingview.com/news/cointelegraph:58ba922f9bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-22T12:26:18.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 22 Mar 2026 12:26:18 GMT\" class=\"apply-common-tooltip\" title=\"22 de mar. de 2026, 12:26 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Notícias Cripto: 21Shares e Levante, RhoX e BitGo, novas regras na Binance e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: 21Shares e Levante, RhoX e BitGo, novas regras na Binance e outras novidades</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:89be8f2c1bc81:0",
+      "index": 3,
       "title": "Opções de Bitcoin sinalizam medo mesmo com saídas de ETFs de BTC relativamente baixas",
       "link": "https://br.tradingview.com/news/cointelegraph:89be8f2c1bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3230cf872bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Ethereum pode subir 25% à medida que maiores baleias de ETH retornam à 'zona de lucro'",
       "link": "https://br.tradingview.com/news/cointelegraph:3230cf872bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:56ad75e0ebc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Baleia antiga do Ethereum recompõe posição com compras de US$ 19,5 milhões em ETH",
       "link": "https://br.tradingview.com/news/cointelegraph:56ad75e0ebc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ac951887dbc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Fraqueza do Bitcoin se intensifica com a guerra e traders reduzem exposição ao BTC e às ações",
       "link": "https://br.tradingview.com/news/cointelegraph:ac951887dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:53d661e3bbc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Ouro registra sua maior queda semanal em 43 anos enquanto a guerra no Irã se intensifica",
       "link": "https://br.tradingview.com/news/cointelegraph:53d661e3bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:43dd06bfabc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Grayscale registra S-1 para ETF de Hyperliquid e se junta à Bitwise e 21Shares",
       "link": "https://br.tradingview.com/news/cointelegraph:43dd06bfabc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:525d617a8bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Rumores surgem sobre acordo da CLARITY Act entre Casa Branca e legisladores",
       "link": "https://br.tradingview.com/news/cointelegraph:525d617a8bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:d49727f6dbc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Preço do Bitcoin busca se manter em US$ 70 mil em meio a crescentes preocupações com a inflação",
       "link": "https://br.tradingview.com/news/cointelegraph:d49727f6dbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:9ad78a44abc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Exchange aposta em IA e reforça foco na América Latina enquanto avalia regulação no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:9ad78a44abc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:58a86bdfcbc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Notícias Cripto: Prossegur com ouro tokenizado, Ether ganha licença no exterior, Bitget no MotoGP e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:58a86bdfcbc81:0/",
       "source": "Cointelegraph",
@@ -111,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 21 Mar 2026 12:09:58 GMT\" class=\"apply-common-tooltip\" title=\"21 de mar. de 2026, 12:09 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Notícias Cripto: Prossegur com ouro tokenizado, Ether ganha licença no exterior, Bitget no MotoGP e outras novidades\" data-qa-id=\"news-headline-title\">Notícias Cripto: Prossegur com ouro tokenizado, Ether ganha licença no exterior, Bitget no MotoGP e outras novidades</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d64a85ae6bc81:0",
-      "index": 10,
-      "title": "Receita Federal publica regras para o Imposto de Renda 2026 e esta 'de olho' nas criptomoedas",
-      "link": "https://br.tradingview.com/news/cointelegraph:d64a85ae6bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-21T10:05:37.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 21 Mar 2026 10:05:37 GMT\" class=\"apply-common-tooltip\" title=\"21 de mar. de 2026, 10:05 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Receita Federal publica regras para o Imposto de Renda 2026 e esta 'de olho' nas criptomoedas\" data-qa-id=\"news-headline-title\">Receita Federal publica regras para o Imposto de Renda 2026 e esta 'de olho' nas criptomoedas</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:904e0f227bc81:0",
-      "index": 11,
-      "title": "Tokenização de tudo: 'Do que adianta tokenizar sem ninguém quer comprar o token'",
-      "link": "https://br.tradingview.com/news/cointelegraph:904e0f227bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-21T09:25:03.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 21 Mar 2026 09:25:03 GMT\" class=\"apply-common-tooltip\" title=\"21 de mar. de 2026, 09:25 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Tokenização de tudo: 'Do que adianta tokenizar sem ninguém quer comprar o token'\" data-qa-id=\"news-headline-title\">Tokenização de tudo: 'Do que adianta tokenizar sem ninguém quer comprar o token'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:23b802582bc81:0",
-      "index": 12,
-      "title": "Volume comprador do Ether atinge máxima de 3 anos: ETH evitará uma queda de 19%?",
-      "link": "https://br.tradingview.com/news/cointelegraph:23b802582bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-20T23:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 20 Mar 2026 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mar. de 2026, 23:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Volume comprador do Ether atinge máxima de 3 anos: ETH evitará uma queda de 19%?\" data-qa-id=\"news-headline-title\">Volume comprador do Ether atinge máxima de 3 anos: ETH evitará uma queda de 19%?</div></div></article>"
     }
   ]
 }
