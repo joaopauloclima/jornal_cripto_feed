@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-23T20:27:15.041Z",
+  "updated_at": "2026-03-23T21:24:54.250Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:78dbb2b8ebc81:0",
+      "id": "cointelegraph:32594af7ebc81:0",
       "index": 0,
+      "title": "Espanha prende suspeito de sequestro de cofundador da Ledger em 2025",
+      "link": "https://br.tradingview.com/news/cointelegraph:32594af7ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-23T21:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 23 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Espanha prende suspeito de sequestro de cofundador da Ledger em 2025\" data-qa-id=\"news-headline-title\">Espanha prende suspeito de sequestro de cofundador da Ledger em 2025</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:78dbb2b8ebc81:0",
+      "index": 1,
       "title": "Entradas em ETFs de criptomoedas desaceleram para US$ 230 milhões e cautela do Fed reduz o ritmo, diz CoinShares",
       "link": "https://br.tradingview.com/news/cointelegraph:78dbb2b8ebc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:e04b4d4fcbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Strategy adiciona 1.031 Bitcoins por US$ 77 milhões e participações superam 762.000 BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:e04b4d4fcbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:3a0946dbabc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin se recupera para US$ 71 mil com queda do petróleo após Trump sinalizar pausa em ataques ao Irã",
       "link": "https://br.tradingview.com/news/cointelegraph:3a0946dbabc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:97afc224dbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ouro cai enquanto traders miram BTC abaixo de US$ 50 mil: 5 coisas para saber sobre o Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:97afc224dbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:a06f9cb09bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Brasil investe R$ 6,9 milhões em semana de perda de apetite dos fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:a06f9cb09bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:06fe6aebcbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "B3 registra aumento de 24% em investidores em ETFs, incluindo cripto",
       "link": "https://br.tradingview.com/news/cointelegraph:06fe6aebcbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:d560fb245bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Michael Saylor sugere nova compra de Bitcoin enquanto posição da Strategy entra em prejuízo de 10%",
       "link": "https://br.tradingview.com/news/cointelegraph:d560fb245bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:98df33adabc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Turbulência global impulsiona adoção de mensageiros e redes sociais descentralizados",
       "link": "https://br.tradingview.com/news/cointelegraph:98df33adabc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:bfaf15ba5bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Comércio com IA agêntica pode significar o fim dos anúncios na Internet, afirma a16z Crypto",
       "link": "https://br.tradingview.com/news/cointelegraph:bfaf15ba5bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:aeee6344abc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Cripto e ações caem enquanto petróleo oscila após Irã prometer resposta à ameaça de Trump",
       "link": "https://br.tradingview.com/news/cointelegraph:aeee6344abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:e5fd5efbebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "'Staking' de ações via aluguel cresce 53% no Brasil, aponta B3",
       "link": "https://br.tradingview.com/news/cointelegraph:e5fd5efbebc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:82cf41711bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Mark Zuckerberg está construindo um agente de IA para ajudar a administrar a Meta",
       "link": "https://br.tradingview.com/news/cointelegraph:82cf41711bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 23 Mar 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de mar. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Mark Zuckerberg está construindo um agente de IA para ajudar a administrar a Meta\" data-qa-id=\"news-headline-title\">Mark Zuckerberg está construindo um agente de IA para ajudar a administrar a Meta</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0d0095424bc81:0",
-      "index": 12,
-      "title": "Divergência entre BTC e ouro reflete divisão entre varejo e bancos centrais, afirma analista",
-      "link": "https://br.tradingview.com/news/cointelegraph:0d0095424bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-23T12:37:33.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-ZLBf2Pm0 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 23 Mar 2026 12:37:33 GMT\" class=\"apply-common-tooltip\" title=\"23 de mar. de 2026, 12:37 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Divergência entre BTC e ouro reflete divisão entre varejo e bancos centrais, afirma analista\" data-qa-id=\"news-headline-title\">Divergência entre BTC e ouro reflete divisão entre varejo e bancos centrais, afirma analista</div></div></article>"
     }
   ]
 }
