@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-24T16:47:39.790Z",
+  "updated_at": "2026-03-24T17:43:18.084Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:d05a0d860bc81:0",
+      "id": "cointelegraph:5b13e5d83bc81:0",
       "index": 0,
+      "title": "Regulação federal nos EUA se aproxima e 11 estados avançam contra mercados de previsão",
+      "link": "https://br.tradingview.com/news/cointelegraph:5b13e5d83bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-24T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 24 Mar 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de mar. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Regulação federal nos EUA se aproxima e 11 estados avançam contra mercados de previsão\" data-qa-id=\"news-headline-title\">Regulação federal nos EUA se aproxima e 11 estados avançam contra mercados de previsão</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:d05a0d860bc81:0",
+      "index": 1,
       "title": "Brasil é protagonista em caminho sem volta das criptomoedas no sistema financeiro, diz PwC",
       "link": "https://br.tradingview.com/news/cointelegraph:d05a0d860bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:505bd3ab9bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "IA e stablecoins estão vencendo apesar da queda do mercado cripto em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:505bd3ab9bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:d2f267100bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Valor do Bitcoin está 'fora do gráfico' enquanto métrica atinge mínimas recordes em 2026",
       "link": "https://br.tradingview.com/news/cointelegraph:d2f267100bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:f8749e625bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Strategy revela capacidade de captação de US$ 44,1 bilhões para comprar mais Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:f8749e625bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:f00da7a93bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Batalha do Bitcoin pelos US$ 70 mil continua enquanto traders evitam posições otimistas",
       "link": "https://br.tradingview.com/news/cointelegraph:f00da7a93bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:4761e0701bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "MoonPay lança padrão open-source de carteira para agentes de IA",
       "link": "https://br.tradingview.com/news/cointelegraph:4761e0701bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:0d055d419bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Polymarket reforça regras para conter manipulação e insider trading",
       "link": "https://br.tradingview.com/news/cointelegraph:0d055d419bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:240b6f72ebc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Binance e ABToken avançam no Brasil em educação cripto e segurança Web3",
       "link": "https://br.tradingview.com/news/cointelegraph:240b6f72ebc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:a551ab065bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Preço do Bitcoin hoje, 24/03/2026: touros encontram liquidez em US$ 68 mil e preço sobre 3% voltando acima de US$ 70 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:a551ab065bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:7b120c129bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Volumes spot de Bitcoin caem para níveis de 2023 e alta do BTC segue impulsionada por notícias",
       "link": "https://br.tradingview.com/news/cointelegraph:7b120c129bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:72899767fbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Para onde vai o preço do Bitcoin na semana? Novadax e Bitfinex tem a resposta",
       "link": "https://br.tradingview.com/news/cointelegraph:72899767fbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:96693457dbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Traders afirmam que o Bitcoin ainda deve ter uma 'próxima queda', com alvo em US$ 46 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:96693457dbc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 23 Mar 2026 23:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de mar. de 2026, 23:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Traders afirmam que o Bitcoin ainda deve ter uma 'próxima queda', com alvo em US$ 46 mil\" data-qa-id=\"news-headline-title\">Traders afirmam que o Bitcoin ainda deve ter uma 'próxima queda', com alvo em US$ 46 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:6605e3f4fbc81:0",
-      "index": 12,
-      "title": "Projeto de lei do Senado mira proibição de apostas esportivas em mercados de previsão, diz WSJ",
-      "link": "https://br.tradingview.com/news/cointelegraph:6605e3f4fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-23T22:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 23 Mar 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de mar. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Projeto de lei do Senado mira proibição de apostas esportivas em mercados de previsão, diz WSJ\" data-qa-id=\"news-headline-title\">Projeto de lei do Senado mira proibição de apostas esportivas em mercados de previsão, diz WSJ</div></div></article>"
     }
   ]
 }
