@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-25T18:04:48.090Z",
+  "updated_at": "2026-03-25T19:04:28.007Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:dc3783eb2bc81:0",
+      "id": "cointelegraph:381de893abc81:0",
       "index": 0,
+      "title": "Revisão no Reino Unido recomenda suspender doações em criptomoedas por risco de interferência estrangeira",
+      "link": "https://br.tradingview.com/news/cointelegraph:381de893abc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-25T19:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Mar 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de mar. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Revisão no Reino Unido recomenda suspender doações em criptomoedas por risco de interferência estrangeira\" data-qa-id=\"news-headline-title\">Revisão no Reino Unido recomenda suspender doações em criptomoedas por risco de interferência estrangeira</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:dc3783eb2bc81:0",
+      "index": 1,
       "title": "Bitcoin se recupera durante a guerra no Irã, mas papel como porto seguro não está comprovado",
       "link": "https://br.tradingview.com/news/cointelegraph:dc3783eb2bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:c57544632bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Governo Lula 'ignora' reserva de Bitcoin e assina Lei que destina parte das criptos apreendidas para Segurança Pública",
       "link": "https://br.tradingview.com/news/cointelegraph:c57544632bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:f62deb8dcbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Nova rede de stablecoins em operação no Brasil conecta Ripple, Mastercard, Visa, Tether, Circle e MoonPay",
       "link": "https://br.tradingview.com/news/cointelegraph:f62deb8dcbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:62ee70382bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin salta a partir da média de 50 dias enquanto US$ 72 mil vira nível-chave para o BTC",
       "link": "https://br.tradingview.com/news/cointelegraph:62ee70382bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:0442bb143bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin recupera US$ 71 mil após EUA enviarem plano de cessar-fogo ao Irã",
       "link": "https://br.tradingview.com/news/cointelegraph:0442bb143bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:8adb53540bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Saídas de Bitcoin das exchanges mostram 'acumulação genuína por investidores', afirma analista",
       "link": "https://br.tradingview.com/news/cointelegraph:8adb53540bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:b7a9d2618bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "OpenAI encerra app de vídeo com IA Sora após 6 meses",
       "link": "https://br.tradingview.com/news/cointelegraph:b7a9d2618bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f31c3ffb5bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Desenvolvedores da Ethereum aumentam esforços de segurança com nova equipe 'Post-Quantum'",
       "link": "https://br.tradingview.com/news/cointelegraph:f31c3ffb5bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:b96537e0ebc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Alta dos rendimentos dos Treasuries dos EUA, guerra no Irã e risco inflacionário pressionam o preço do Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:b96537e0ebc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:3c385ad88bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Liqi lança agente de IA em securitização tokenizada",
       "link": "https://br.tradingview.com/news/cointelegraph:3c385ad88bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:4c8fd4d18bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Lavagem de dinheiro por criptomoedas é sofisticada e requer investigação digital eficiente, diz Fachin",
       "link": "https://br.tradingview.com/news/cointelegraph:4c8fd4d18bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:a61c35c51bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Preço do Bitcoin hoje, 25/03/2026: BTC sobe para US$ 71 mil e busca forças para testar resistência de US$ 75 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:a61c35c51bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Mar 2026 10:35:16 GMT\" class=\"apply-common-tooltip\" title=\"25 de mar. de 2026, 10:35 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Bitcoin hoje, 25/03/2026: BTC sobe para US$ 71 mil e busca forças para testar resistência de US$ 75 mil\" data-qa-id=\"news-headline-title\">Preço do Bitcoin hoje, 25/03/2026: BTC sobe para US$ 71 mil e busca forças para testar resistência de US$ 75 mil</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c3b723f10bc81:0",
-      "index": 12,
-      "title": "Detentores de Bitcoin passam do pânico a reservas em caixa à medida que a volatilidade se intensifica",
-      "link": "https://br.tradingview.com/news/cointelegraph:c3b723f10bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-24T22:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 24 Mar 2026 22:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de mar. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Detentores de Bitcoin passam do pânico a reservas em caixa à medida que a volatilidade se intensifica\" data-qa-id=\"news-headline-title\">Detentores de Bitcoin passam do pânico a reservas em caixa à medida que a volatilidade se intensifica</div></div></article>"
     }
   ]
 }
