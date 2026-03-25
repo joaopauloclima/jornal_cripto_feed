@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-03-25T12:37:47.330Z",
+  "updated_at": "2026-03-25T14:13:08.294Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:4c8fd4d18bc81:0",
+      "id": "cointelegraph:f31c3ffb5bc81:0",
       "index": 0,
+      "title": "Desenvolvedores da Ethereum aumentam esforços de segurança com nova equipe 'Post-Quantum'",
+      "link": "https://br.tradingview.com/news/cointelegraph:f31c3ffb5bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-25T14:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Mar 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de mar. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Desenvolvedores da Ethereum aumentam esforços de segurança com nova equipe 'Post-Quantum'\" data-qa-id=\"news-headline-title\">Desenvolvedores da Ethereum aumentam esforços de segurança com nova equipe 'Post-Quantum'</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:b96537e0ebc81:0",
+      "index": 1,
+      "title": "Alta dos rendimentos dos Treasuries dos EUA, guerra no Irã e risco inflacionário pressionam o preço do Bitcoin",
+      "link": "https://br.tradingview.com/news/cointelegraph:b96537e0ebc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-25T13:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Mar 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de mar. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Alta dos rendimentos dos Treasuries dos EUA, guerra no Irã e risco inflacionário pressionam o preço do Bitcoin\" data-qa-id=\"news-headline-title\">Alta dos rendimentos dos Treasuries dos EUA, guerra no Irã e risco inflacionário pressionam o preço do Bitcoin</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:3c385ad88bc81:0",
+      "index": 2,
+      "title": "Liqi lança agente de IA em securitização tokenizada",
+      "link": "https://br.tradingview.com/news/cointelegraph:3c385ad88bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-25T13:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Mar 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de mar. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Liqi lança agente de IA em securitização tokenizada\" data-qa-id=\"news-headline-title\">Liqi lança agente de IA em securitização tokenizada</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:4c8fd4d18bc81:0",
+      "index": 3,
       "title": "Lavagem de dinheiro por criptomoedas é sofisticada e requer investigação digital eficiente, diz Fachin",
       "link": "https://br.tradingview.com/news/cointelegraph:4c8fd4d18bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +48,7 @@
     },
     {
       "id": "cointelegraph:a61c35c51bc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Preço do Bitcoin hoje, 25/03/2026: BTC sobe para US$ 71 mil e busca forças para testar resistência de US$ 75 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:a61c35c51bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "cointelegraph:c3b723f10bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Detentores de Bitcoin passam do pânico a reservas em caixa à medida que a volatilidade se intensifica",
       "link": "https://br.tradingview.com/news/cointelegraph:c3b723f10bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:ae2d2a4b4bc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Visa já movimentou mais de US$ 4,5 bilhões em stablecoins, revela VP do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:ae2d2a4b4bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:a0c667f8bbc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Tether diz que empresa do 'Big Four' fará a primeira auditoria completa das reservas do USDT",
       "link": "https://br.tradingview.com/news/cointelegraph:a0c667f8bbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:39ceab84ebc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Sobreviver no mercado cripto se resume a uma coisa: ser proativo, e não reativo",
       "link": "https://br.tradingview.com/news/cointelegraph:39ceab84ebc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:2b8421aecbc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Bitcoin sinaliza 'mudança de regime' e preço do BTC cai para US$ 69,5 mil com tensões no Irã",
       "link": "https://br.tradingview.com/news/cointelegraph:2b8421aecbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:f5c624414bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Rali do Ether perde força em US$ 2,2 mil: o que pode impulsionar a ruptura?",
       "link": "https://br.tradingview.com/news/cointelegraph:f5c624414bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:f49c6edcfbc81:0",
-      "index": 8,
+      "index": 11,
       "title": "'Morte' do RG?: verificação sem documentos (Non-Doc Verification) avança no mercado cripto no Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:f49c6edcfbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:152821a1abc81:0",
-      "index": 9,
+      "index": 12,
       "title": "NYSE seleciona Securitize para plataforma de valores mobiliários tokenizados 24/7",
       "link": "https://br.tradingview.com/news/cointelegraph:152821a1abc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +147,7 @@
     },
     {
       "id": "cointelegraph:5b13e5d83bc81:0",
-      "index": 10,
+      "index": 13,
       "title": "Regulação federal nos EUA se aproxima e 11 estados avançam contra mercados de previsão",
       "link": "https://br.tradingview.com/news/cointelegraph:5b13e5d83bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +155,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 24 Mar 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de mar. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Regulação federal nos EUA se aproxima e 11 estados avançam contra mercados de previsão\" data-qa-id=\"news-headline-title\">Regulação federal nos EUA se aproxima e 11 estados avançam contra mercados de previsão</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d05a0d860bc81:0",
-      "index": 11,
-      "title": "Brasil é protagonista em caminho sem volta das criptomoedas no sistema financeiro, diz PwC",
-      "link": "https://br.tradingview.com/news/cointelegraph:d05a0d860bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-24T16:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 24 Mar 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de mar. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Brasil é protagonista em caminho sem volta das criptomoedas no sistema financeiro, diz PwC\" data-qa-id=\"news-headline-title\">Brasil é protagonista em caminho sem volta das criptomoedas no sistema financeiro, diz PwC</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:505bd3ab9bc81:0",
-      "index": 12,
-      "title": "IA e stablecoins estão vencendo apesar da queda do mercado cripto em 2026",
-      "link": "https://br.tradingview.com/news/cointelegraph:505bd3ab9bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-24T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 24 Mar 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"24 de mar. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"IA e stablecoins estão vencendo apesar da queda do mercado cripto em 2026\" data-qa-id=\"news-headline-title\">IA e stablecoins estão vencendo apesar da queda do mercado cripto em 2026</div></div></article>"
     }
   ]
 }
