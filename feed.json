@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-26T17:00:29.152Z",
+  "updated_at": "2026-03-26T18:02:43.963Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:bec94e317bc81:0",
+      "id": "cointelegraph:ef4b04cb1bc81:0",
       "index": 0,
+      "title": "Núclea passa a tokenizar unidades de recebíveis de cartão",
+      "link": "https://br.tradingview.com/news/cointelegraph:ef4b04cb1bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-26T17:04:01.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Mar 2026 17:04:01 GMT\" class=\"apply-common-tooltip\" title=\"26 de mar. de 2026, 17:04 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Núclea passa a tokenizar unidades de recebíveis de cartão\" data-qa-id=\"news-headline-title\">Núclea passa a tokenizar unidades de recebíveis de cartão</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:bec94e317bc81:0",
+      "index": 1,
       "title": "Bitcoin cai 3% enquanto análise diz que preço do BTC em US$ 70 mil 'não é obviamente pessimista'",
       "link": "https://br.tradingview.com/news/cointelegraph:bec94e317bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:917088649bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin entra nos 'estágios finais' do mercado de baixa, fique de olho nestes níveis",
       "link": "https://br.tradingview.com/news/cointelegraph:917088649bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:5cbcca42fbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Probabilidade de recessão nos EUA chega perto de 50%: Bitcoin pode repetir recuperação de 2020?",
       "link": "https://br.tradingview.com/news/cointelegraph:5cbcca42fbc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:58d2f9ee6bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Atraso do Bitcoin em resistência quântica pode virar case otimista para Ethereum, diz Nic Carter",
       "link": "https://br.tradingview.com/news/cointelegraph:58d2f9ee6bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:9e2d2bb47bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Strategy e o Bitcoin: David Battaglia afirma que Michael Saylor “entendeu o endgame”",
       "link": "https://br.tradingview.com/news/beincrypto:9e2d2bb47bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:2922d4337bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "US$ 18,6 bilhões em opções de Bitcoin vencem na sexta: traders devem esperar BTC em US$ 75 mil?",
       "link": "https://br.tradingview.com/news/cointelegraph:2922d4337bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:2f5cff48cbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "PF prende 7 e bloqueia quase R$ 1 bi de suspeitos de lavagem de dinheiro por criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:2f5cff48cbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a15eb1055bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "'Compressão' do Bitcoin pode levar BTC a US$ 80 mil, diz analista",
       "link": "https://br.tradingview.com/news/cointelegraph:a15eb1055bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:7062f1626bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "4 fatores positivos impulsionam a recuperação da Chainlink (LINK) em abril",
       "link": "https://br.tradingview.com/news/beincrypto:7062f1626bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40E0H4:0",
-      "index": 9,
+      "index": 10,
       "title": "Criptomoedas para comprar uma casa? A Coinbase traz pagamentos iniciais lastreados em tokens para o mercado imobiliário.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40E0H4:0/",
       "source": "Reuters",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:99893a5c5bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Preço do Ethereum (ETH) enfrenta resistência decisiva antes do sonho de US$ 3 mil",
       "link": "https://br.tradingview.com/news/beincrypto:99893a5c5bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:31bebe75fbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Fan tokens são mais associados ao sentimento dos torcedores do que às incertezas, diz executivo",
       "link": "https://br.tradingview.com/news/cointelegraph:31bebe75fbc81:0/",
       "source": "Cointelegraph",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:19ec802d3bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Por que o mercado de criptomoedas está em alta hoje 26/03/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:19ec802d3bc81:0/",
       "source": "Beincrypto",
