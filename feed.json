@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-26T12:43:44.383Z",
+  "updated_at": "2026-03-26T14:16:05.642Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2026:newsml_L1N40E0H4:0",
+      "id": "cointelegraph:a15eb1055bc81:0",
       "index": 0,
+      "title": "'Compressão' do Bitcoin pode levar BTC a US$ 80 mil, diz analista",
+      "link": "https://br.tradingview.com/news/cointelegraph:a15eb1055bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-26T13:35:29.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Mar 2026 13:35:29 GMT\" class=\"apply-common-tooltip\" title=\"26 de mar. de 2026, 13:35 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"'Compressão' do Bitcoin pode levar BTC a US$ 80 mil, diz analista\" data-qa-id=\"news-headline-title\">'Compressão' do Bitcoin pode levar BTC a US$ 80 mil, diz analista</div></div></article>"
+    },
+    {
+      "id": "beincrypto:7062f1626bc81:0",
+      "index": 1,
+      "title": "4 fatores positivos impulsionam a recuperação da Chainlink (LINK) em abril",
+      "link": "https://br.tradingview.com/news/beincrypto:7062f1626bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-03-26T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCLINK.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Mar 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de mar. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"4 fatores positivos impulsionam a recuperação da Chainlink (LINK) em abril\" data-qa-id=\"news-headline-title\">4 fatores positivos impulsionam a recuperação da Chainlink (LINK) em abril</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2026:newsml_L1N40E0H4:0",
+      "index": 2,
       "title": "Criptomoedas para comprar uma casa? A Coinbase traz pagamentos iniciais lastreados em tokens para o mercado imobiliário.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40E0H4:0/",
       "source": "Reuters",
@@ -14,8 +36,19 @@
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/better-home-and-finance-company.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Mar 2026 12:30:35 GMT\" class=\"apply-common-tooltip\" title=\"26 de mar. de 2026, 12:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Criptomoedas para comprar uma casa? A Coinbase traz pagamentos iniciais lastreados em tokens para o mercado imobiliário.\" data-qa-id=\"news-headline-title\">Criptomoedas para comprar uma casa? A Coinbase traz pagamentos iniciais lastreados em tokens para o mercado imobiliário.</div></div></article>"
     },
     {
+      "id": "beincrypto:99893a5c5bc81:0",
+      "index": 3,
+      "title": "Preço do Ethereum (ETH) enfrenta resistência decisiva antes do sonho de US$ 3 mil",
+      "link": "https://br.tradingview.com/news/beincrypto:99893a5c5bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-03-26T12:30:15.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Mar 2026 12:30:15 GMT\" class=\"apply-common-tooltip\" title=\"26 de mar. de 2026, 12:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Preço do Ethereum (ETH) enfrenta resistência decisiva antes do sonho de US$ 3 mil\" data-qa-id=\"news-headline-title\">Preço do Ethereum (ETH) enfrenta resistência decisiva antes do sonho de US$ 3 mil</div></div></article>"
+    },
+    {
       "id": "cointelegraph:31bebe75fbc81:0",
-      "index": 1,
+      "index": 4,
       "title": "Fan tokens são mais associados ao sentimento dos torcedores do que às incertezas, diz executivo",
       "link": "https://br.tradingview.com/news/cointelegraph:31bebe75fbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +59,7 @@
     },
     {
       "id": "beincrypto:19ec802d3bc81:0",
-      "index": 2,
+      "index": 5,
       "title": "Por que o mercado de criptomoedas está em alta hoje 26/03/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:19ec802d3bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +70,7 @@
     },
     {
       "id": "cointelegraph:890b8440bbc81:0",
-      "index": 3,
+      "index": 6,
       "title": "Preço do Bitcoin hoje, 26/03/2026: BTC cai para US$ 69 mil mas narrativa de alta melhora com lateralização em novos níveis",
       "link": "https://br.tradingview.com/news/cointelegraph:890b8440bbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +81,7 @@
     },
     {
       "id": "cointelegraph:827d7ecb8bc81:0",
-      "index": 4,
+      "index": 7,
       "title": "Conselho consultivo de Trump atrai cofundador da Coinbase e líderes de tecnologia",
       "link": "https://br.tradingview.com/news/cointelegraph:827d7ecb8bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +92,7 @@
     },
     {
       "id": "cointelegraph:a7d75ca6fbc81:0",
-      "index": 5,
+      "index": 8,
       "title": "Análise de preços em 25/03: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH e LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:a7d75ca6fbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1bd42ed11bc81:0",
-      "index": 6,
+      "index": 9,
       "title": "Bitmine lança plataforma institucional de staking de Ethereum",
       "link": "https://br.tradingview.com/news/cointelegraph:1bd42ed11bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +114,7 @@
     },
     {
       "id": "cointelegraph:07bb08eb6bc81:0",
-      "index": 7,
+      "index": 10,
       "title": "Bitcoin permanece abaixo de US$ 72 mil e quatro métricas da rede indicam 'demanda mais fraca'",
       "link": "https://br.tradingview.com/news/cointelegraph:07bb08eb6bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8f69ddd68bc81:0",
-      "index": 8,
+      "index": 11,
       "title": "Comissão da Camara dos Deputaddos aprova uso de blockchain para rastrear todo o ouro do Brasil",
       "link": "https://br.tradingview.com/news/cointelegraph:8f69ddd68bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +136,7 @@
     },
     {
       "id": "cointelegraph:c022249b6bc81:0",
-      "index": 9,
+      "index": 12,
       "title": "Por que a Argentina determinou o bloqueio da Polymarket apesar do crescimento global",
       "link": "https://br.tradingview.com/news/cointelegraph:c022249b6bc81:0/",
       "source": "Cointelegraph",
@@ -111,39 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Mar 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de mar. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Por que a Argentina determinou o bloqueio da Polymarket apesar do crescimento global\" data-qa-id=\"news-headline-title\">Por que a Argentina determinou o bloqueio da Polymarket apesar do crescimento global</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:381de893abc81:0",
-      "index": 10,
-      "title": "Revisão no Reino Unido recomenda suspender doações em criptomoedas por risco de interferência estrangeira",
-      "link": "https://br.tradingview.com/news/cointelegraph:381de893abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-25T19:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Mar 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de mar. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Revisão no Reino Unido recomenda suspender doações em criptomoedas por risco de interferência estrangeira\" data-qa-id=\"news-headline-title\">Revisão no Reino Unido recomenda suspender doações em criptomoedas por risco de interferência estrangeira</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:dc3783eb2bc81:0",
-      "index": 11,
-      "title": "Bitcoin se recupera durante a guerra no Irã, mas papel como porto seguro não está comprovado",
-      "link": "https://br.tradingview.com/news/cointelegraph:dc3783eb2bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-25T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Mar 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"25 de mar. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin se recupera durante a guerra no Irã, mas papel como porto seguro não está comprovado\" data-qa-id=\"news-headline-title\">Bitcoin se recupera durante a guerra no Irã, mas papel como porto seguro não está comprovado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:c57544632bc81:0",
-      "index": 12,
-      "title": "Governo Lula 'ignora' reserva de Bitcoin e assina Lei que destina parte das criptos apreendidas para Segurança Pública",
-      "link": "https://br.tradingview.com/news/cointelegraph:c57544632bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-25T17:13:53.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 25 Mar 2026 17:13:53 GMT\" class=\"apply-common-tooltip\" title=\"25 de mar. de 2026, 17:13 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Governo Lula 'ignora' reserva de Bitcoin e assina Lei que destina parte das criptos apreendidas para Segurança Pública\" data-qa-id=\"news-headline-title\">Governo Lula 'ignora' reserva de Bitcoin e assina Lei que destina parte das criptos apreendidas para Segurança Pública</div></div></article>"
     }
   ]
 }
