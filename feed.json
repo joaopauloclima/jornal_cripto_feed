@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-27T11:33:03.496Z",
+  "updated_at": "2026-03-27T12:32:26.782Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:1d1571833bc81:0",
+      "id": "afp:6d820f3cf9288:0",
       "index": 0,
+      "title": "Caixa-preta para o Estado, refúgio para investidores: uso das criptomoedas no Irã",
+      "link": "https://br.tradingview.com/news/afp:6d820f3cf9288:0/",
+      "source": "AFP",
+      "published_at": "2026-03-27T12:07:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 12:07:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 12:07 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">AFP</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Caixa-preta para o Estado, refúgio para investidores: uso das criptomoedas no Irã\" data-qa-id=\"news-headline-title\">Caixa-preta para o Estado, refúgio para investidores: uso das criptomoedas no Irã</div></div></article>"
+    },
+    {
+      "id": "beincrypto:e732c98d6bc81:0",
+      "index": 1,
+      "title": "Correção de 40% do Bitcoin pode ficar ainda mais grave: 4 motivos explicam",
+      "link": "https://br.tradingview.com/news/beincrypto:e732c98d6bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-03-27T12:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Correção de 40% do Bitcoin pode ficar ainda mais grave: 4 motivos explicam\" data-qa-id=\"news-headline-title\">Correção de 40% do Bitcoin pode ficar ainda mais grave: 4 motivos explicam</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:1d1571833bc81:0",
+      "index": 2,
       "title": "Preço do Bitcoin hoje, 27/03/2026: BTC volta a cair 2%, mas touros devem reagir",
       "link": "https://br.tradingview.com/news/cointelegraph:1d1571833bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:910146302bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Suporte do Bitcoin 'próximo de US$ 70 mil' com retorno do TradFi: guerra e inflação vão abalar essa visão?",
       "link": "https://br.tradingview.com/news/cointelegraph:910146302bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "cointelegraph:2fa566774bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Até US$ 50/mês: Projeto de Lei manda ChatGPT, Instagram, TikTok, WhatsApp, Facebook, Twitter e Kwai pagar usuários do Brasil para usar seus dados",
       "link": "https://br.tradingview.com/news/cointelegraph:2fa566774bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:05decde92bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Preço do TAO, do Bittensor, pode cair 40% em cinco semanas, apontam dados fractais",
       "link": "https://br.tradingview.com/news/cointelegraph:05decde92bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:d065748dfbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Coinbase lança entradas com garantia em criptomoedas para financiamentos imobiliários da Fannie Mae",
       "link": "https://br.tradingview.com/news/cointelegraph:d065748dfbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:7a366b746bc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Stablecoins em euro dominam mercado fora do dólar, aponta relatório apoiado pela Visa",
       "link": "https://br.tradingview.com/news/cointelegraph:7a366b746bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:eda99cadbbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "MARA vende US$ 1,1 bilhão em Bitcoin para recomprar dívida com desconto de 9%",
       "link": "https://br.tradingview.com/news/cointelegraph:eda99cadbbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:b2ab20794bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Preço da Cardano enfrenta ameaça de queda de 20% com realização de lucros",
       "link": "https://br.tradingview.com/news/beincrypto:b2ab20794bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "cointelegraph:25067b520bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Bitcoin perde espaço: stablecoins são a parte mais madura e economicamente funcional do universo cripto, diz 21Shares",
       "link": "https://br.tradingview.com/news/cointelegraph:25067b520bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +125,7 @@
     },
     {
       "id": "cointelegraph:36016954bbc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Preço do XRP pode cair 50% apesar da exposição de US$ 152 milhões em ETF da Goldman Sachs",
       "link": "https://br.tradingview.com/news/cointelegraph:36016954bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:ef4b04cb1bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Núclea passa a tokenizar unidades de recebíveis de cartão",
       "link": "https://br.tradingview.com/news/cointelegraph:ef4b04cb1bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Mar 2026 17:04:01 GMT\" class=\"apply-common-tooltip\" title=\"26 de mar. de 2026, 17:04 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Núclea passa a tokenizar unidades de recebíveis de cartão\" data-qa-id=\"news-headline-title\">Núclea passa a tokenizar unidades de recebíveis de cartão</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:bec94e317bc81:0",
-      "index": 11,
-      "title": "Bitcoin cai 3% enquanto análise diz que preço do BTC em US$ 70 mil 'não é obviamente pessimista'",
-      "link": "https://br.tradingview.com/news/cointelegraph:bec94e317bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-26T16:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Mar 2026 16:30:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de mar. de 2026, 16:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin cai 3% enquanto análise diz que preço do BTC em US$ 70 mil 'não é obviamente pessimista'\" data-qa-id=\"news-headline-title\">Bitcoin cai 3% enquanto análise diz que preço do BTC em US$ 70 mil 'não é obviamente pessimista'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:917088649bc81:0",
-      "index": 12,
-      "title": "Bitcoin entra nos 'estágios finais' do mercado de baixa, fique de olho nestes níveis",
-      "link": "https://br.tradingview.com/news/cointelegraph:917088649bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-26T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 26 Mar 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"26 de mar. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin entra nos 'estágios finais' do mercado de baixa, fique de olho nestes níveis\" data-qa-id=\"news-headline-title\">Bitcoin entra nos 'estágios finais' do mercado de baixa, fique de olho nestes níveis</div></div></article>"
     }
   ]
 }
