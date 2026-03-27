@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-03-27T16:51:51.402Z",
+  "updated_at": "2026-03-27T17:48:55.234Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:e28e2632cbc81:0",
+      "id": "cointelegraph:e7ed4b782bc81:0",
       "index": 0,
+      "title": "Minerar Bitcoin no Brasil é mais barato que nos EUA, mas BTC consome energia de 4,6 milhões de casas, aponta estudo",
+      "link": "https://br.tradingview.com/news/cointelegraph:e7ed4b782bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-27T17:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 17:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Minerar Bitcoin no Brasil é mais barato que nos EUA, mas BTC consome energia de 4,6 milhões de casas, aponta estudo\" data-qa-id=\"news-headline-title\">Minerar Bitcoin no Brasil é mais barato que nos EUA, mas BTC consome energia de 4,6 milhões de casas, aponta estudo</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:0ad5836b0bc81:0",
+      "index": 1,
+      "title": "Binance indica 4 cenários que podem afetar o preço do Bitcoin agora",
+      "link": "https://br.tradingview.com/news/cointelegraph:0ad5836b0bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-27T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Binance indica 4 cenários que podem afetar o preço do Bitcoin agora\" data-qa-id=\"news-headline-title\">Binance indica 4 cenários que podem afetar o preço do Bitcoin agora</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:e28e2632cbc81:0",
+      "index": 2,
       "title": "Detentores de Bitcoin mostram convicção 'mais forte' apesar do BTC perder o nível de US$ 68 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:e28e2632cbc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +37,7 @@
     },
     {
       "id": "cointelegraph:7ab4f4a48bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Criptomoedas podem ampliar mercado global ao Brasil, diz especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:7ab4f4a48bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:04b81e7d0bc81:0",
-      "index": 2,
+      "index": 4,
       "title": "Ripple lança iniciativa de segurança em IA enquanto XRP Ledger cresce",
       "link": "https://br.tradingview.com/news/beincrypto:04b81e7d0bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "cointelegraph:94ea1ccafbc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Bitcoin ETFs log biggest outflows in 3 weeks as Iran war fears rise",
       "link": "https://br.tradingview.com/news/cointelegraph:94ea1ccafbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +70,7 @@
     },
     {
       "id": "cointelegraph:f93a5b236bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Baleias e 'tubarões' compram 61.000 BTC em um mês em meio à incerteza global",
       "link": "https://br.tradingview.com/news/cointelegraph:f93a5b236bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +81,7 @@
     },
     {
       "id": "cointelegraph:8106dd50cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Ether precisa que estes 3 indicadores virem para desencadear rali acima de US$ 2,4 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:8106dd50cbc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +92,7 @@
     },
     {
       "id": "cointelegraph:563fa1937bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Perpétuos onchain de ativos do mundo real disparam enquanto queda das altcoins continua, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:563fa1937bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +103,7 @@
     },
     {
       "id": "cointelegraph:1c0e68e1bbc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Bitcoin subiu 655% da última vez que essa métrica de oferta em lucro caiu para 50%",
       "link": "https://br.tradingview.com/news/cointelegraph:1c0e68e1bbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:bbea3bc24bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Quem recebeu os “contratos secretos de XRP”? Executivo da Ripple comenta sobre rumor viral",
       "link": "https://br.tradingview.com/news/beincrypto:bbea3bc24bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:cceecc6c9bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Solana pode cair 12% mesmo com aposta de recuperação no curto prazo",
       "link": "https://br.tradingview.com/news/beincrypto:cceecc6c9bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "cointelegraph:85c712a32bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Auditor fiscal é preso por se recusar a ‘abrir carteira’ de criptomoedas para o MP",
       "link": "https://br.tradingview.com/news/cointelegraph:85c712a32bc81:0/",
       "source": "Cointelegraph",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 12:30:39 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 12:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Auditor fiscal é preso por se recusar a ‘abrir carteira’ de criptomoedas para o MP\" data-qa-id=\"news-headline-title\">Auditor fiscal é preso por se recusar a ‘abrir carteira’ de criptomoedas para o MP</div></div></article>"
-    },
-    {
-      "id": "afp:6d820f3cf9288:0",
-      "index": 11,
-      "title": "Caixa-preta para o Estado, refúgio para investidores: uso das criptomoedas no Irã",
-      "link": "https://br.tradingview.com/news/afp:6d820f3cf9288:0/",
-      "source": "AFP",
-      "published_at": "2026-03-27T12:07:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 12:07:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 12:07 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">AFP</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Caixa-preta para o Estado, refúgio para investidores: uso das criptomoedas no Irã\" data-qa-id=\"news-headline-title\">Caixa-preta para o Estado, refúgio para investidores: uso das criptomoedas no Irã</div></div></article>"
-    },
-    {
-      "id": "beincrypto:e732c98d6bc81:0",
-      "index": 12,
-      "title": "Correção de 40% do Bitcoin pode ficar ainda mais grave: 4 motivos explicam",
-      "link": "https://br.tradingview.com/news/beincrypto:e732c98d6bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-03-27T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Correção de 40% do Bitcoin pode ficar ainda mais grave: 4 motivos explicam\" data-qa-id=\"news-headline-title\">Correção de 40% do Bitcoin pode ficar ainda mais grave: 4 motivos explicam</div></div></article>"
     }
   ]
 }
