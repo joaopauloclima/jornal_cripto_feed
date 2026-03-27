@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-27T18:41:05.095Z",
+  "updated_at": "2026-03-27T19:33:48.196Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:87b12f9f7bc81:0",
+      "id": "cointelegraph:ac539845cbc81:0",
       "index": 0,
+      "title": "Bitcoin cai abaixo de US$ 66 mil e petróleo acende risco de inflação 'insustentável' nos EUA",
+      "link": "https://br.tradingview.com/news/cointelegraph:ac539845cbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-27T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin cai abaixo de US$ 66 mil e petróleo acende risco de inflação 'insustentável' nos EUA\" data-qa-id=\"news-headline-title\">Bitcoin cai abaixo de US$ 66 mil e petróleo acende risco de inflação 'insustentável' nos EUA</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:87b12f9f7bc81:0",
+      "index": 1,
       "title": "Bitcoin se aproxima da mínima de três semanas e preço do BTC mira US$ 41 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:87b12f9f7bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:e7ed4b782bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Minerar Bitcoin no Brasil é mais barato que nos EUA, mas BTC consome energia de 4,6 milhões de casas, aponta estudo",
       "link": "https://br.tradingview.com/news/cointelegraph:e7ed4b782bc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:0ad5836b0bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Binance indica 4 cenários que podem afetar o preço do Bitcoin agora",
       "link": "https://br.tradingview.com/news/cointelegraph:0ad5836b0bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:e28e2632cbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Detentores de Bitcoin mostram convicção 'mais forte' apesar do BTC perder o nível de US$ 68 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:e28e2632cbc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:7ab4f4a48bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Criptomoedas podem ampliar mercado global ao Brasil, diz especialista",
       "link": "https://br.tradingview.com/news/cointelegraph:7ab4f4a48bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:04b81e7d0bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Ripple lança iniciativa de segurança em IA enquanto XRP Ledger cresce",
       "link": "https://br.tradingview.com/news/beincrypto:04b81e7d0bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:94ea1ccafbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin ETFs log biggest outflows in 3 weeks as Iran war fears rise",
       "link": "https://br.tradingview.com/news/cointelegraph:94ea1ccafbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:f93a5b236bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Baleias e 'tubarões' compram 61.000 BTC em um mês em meio à incerteza global",
       "link": "https://br.tradingview.com/news/cointelegraph:f93a5b236bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:8106dd50cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Ether precisa que estes 3 indicadores virem para desencadear rali acima de US$ 2,4 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:8106dd50cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:563fa1937bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Perpétuos onchain de ativos do mundo real disparam enquanto queda das altcoins continua, aponta relatório",
       "link": "https://br.tradingview.com/news/cointelegraph:563fa1937bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:1c0e68e1bbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin subiu 655% da última vez que essa métrica de oferta em lucro caiu para 50%",
       "link": "https://br.tradingview.com/news/cointelegraph:1c0e68e1bbc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:bbea3bc24bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Quem recebeu os “contratos secretos de XRP”? Executivo da Ripple comenta sobre rumor viral",
       "link": "https://br.tradingview.com/news/beincrypto:bbea3bc24bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 13:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Quem recebeu os “contratos secretos de XRP”? Executivo da Ripple comenta sobre rumor viral\" data-qa-id=\"news-headline-title\">Quem recebeu os “contratos secretos de XRP”? Executivo da Ripple comenta sobre rumor viral</div></div></article>"
-    },
-    {
-      "id": "beincrypto:cceecc6c9bc81:0",
-      "index": 12,
-      "title": "Solana pode cair 12% mesmo com aposta de recuperação no curto prazo",
-      "link": "https://br.tradingview.com/news/beincrypto:cceecc6c9bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-03-27T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Solana pode cair 12% mesmo com aposta de recuperação no curto prazo\" data-qa-id=\"news-headline-title\">Solana pode cair 12% mesmo com aposta de recuperação no curto prazo</div></div></article>"
     }
   ]
 }
