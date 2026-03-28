@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-28T16:05:48.009Z",
+  "updated_at": "2026-03-28T18:04:44.387Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:b7d0a8051bc81:0",
+      "id": "cointelegraph:9270ab11fbc81:0",
       "index": 0,
+      "title": "Stablecoins serão 'momento ChatGPT' das criptomoedas para empresas, diz Ripple",
+      "link": "https://br.tradingview.com/news/cointelegraph:9270ab11fbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-28T17:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 28 Mar 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de mar. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Stablecoins serão 'momento ChatGPT' das criptomoedas para empresas, diz Ripple\" data-qa-id=\"news-headline-title\">Stablecoins serão 'momento ChatGPT' das criptomoedas para empresas, diz Ripple</div></div></article>"
+    },
+    {
+      "id": "beincrypto:b7d0a8051bc81:0",
+      "index": 1,
       "title": "Israel viola trégua de Trump sobre Irã, Bitcoin e ações sentem o impacto",
       "link": "https://br.tradingview.com/news/beincrypto:b7d0a8051bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:fd16e1f7bbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "ETFs de Bitcoin interrompem 4 semanas de entradas de capital em meio ao 'risco direcional'",
       "link": "https://br.tradingview.com/news/cointelegraph:fd16e1f7bbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:d2743f847bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Morgan Stanley se aproxima do lançamento de ETF de Bitcoin com taxa abaixo da BlackRock",
       "link": "https://br.tradingview.com/news/beincrypto:d2743f847bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:7b018de38bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Notícias Cripto: Matera na ABcripto, cartão cripto da OKX, Binance, Vinteum, Web3Experts Brazil e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:7b018de38bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:28ba37b99bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Análise de preços em 27/03: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH e LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:28ba37b99bc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "cointelegraph:59836ece0bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Relatório do BCE questiona se DAOs de DeFi são descentralizadas o suficiente para ficar fora do MiCA",
       "link": "https://br.tradingview.com/news/cointelegraph:59836ece0bc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:202a00389bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Notícias Cripto: novidades no cartão da Oobit e Bipa, Mulheres que Codam, Rezolve AI, BlingX e outras",
       "link": "https://br.tradingview.com/news/cointelegraph:202a00389bc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:eb43a47e3bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Entrevista com pais de SBF reduz chances de perdão nos mercados de apostas",
       "link": "https://br.tradingview.com/news/cointelegraph:eb43a47e3bc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:80b29358cbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Traders veem 'queda adicional' no Ether após preço do ETH cair abaixo de US$ 2 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:80b29358cbc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:ac539845cbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin cai abaixo de US$ 66 mil e petróleo acende risco de inflação 'insustentável' nos EUA",
       "link": "https://br.tradingview.com/news/cointelegraph:ac539845cbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:87b12f9f7bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin se aproxima da mínima de três semanas e preço do BTC mira US$ 41 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:87b12f9f7bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:e7ed4b782bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Minerar Bitcoin no Brasil é mais barato que nos EUA, mas BTC consome energia de 4,6 milhões de casas, aponta estudo",
       "link": "https://br.tradingview.com/news/cointelegraph:e7ed4b782bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 17:30:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 17:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Minerar Bitcoin no Brasil é mais barato que nos EUA, mas BTC consome energia de 4,6 milhões de casas, aponta estudo\" data-qa-id=\"news-headline-title\">Minerar Bitcoin no Brasil é mais barato que nos EUA, mas BTC consome energia de 4,6 milhões de casas, aponta estudo</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:0ad5836b0bc81:0",
-      "index": 12,
-      "title": "Binance indica 4 cenários que podem afetar o preço do Bitcoin agora",
-      "link": "https://br.tradingview.com/news/cointelegraph:0ad5836b0bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-27T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Binance indica 4 cenários que podem afetar o preço do Bitcoin agora\" data-qa-id=\"news-headline-title\">Binance indica 4 cenários que podem afetar o preço do Bitcoin agora</div></div></article>"
     }
   ]
 }
