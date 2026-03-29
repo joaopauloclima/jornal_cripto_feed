@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-29T22:04:17.781Z",
+  "updated_at": "2026-03-29T23:07:40.989Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:6435c0869bc81:0",
+      "id": "beincrypto:77f1825b1bc81:0",
       "index": 0,
+      "title": "Longs de Bitcoin atingem máxima em vários anos na Bitfinex e aumentam risco de queda",
+      "link": "https://br.tradingview.com/news/beincrypto:77f1825b1bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-03-29T22:00:34.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 29 Mar 2026 22:00:34 GMT\" class=\"apply-common-tooltip\" title=\"29 de mar. de 2026, 22:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Longs de Bitcoin atingem máxima em vários anos na Bitfinex e aumentam risco de queda\" data-qa-id=\"news-headline-title\">Longs de Bitcoin atingem máxima em vários anos na Bitfinex e aumentam risco de queda</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:6435c0869bc81:0",
+      "index": 1,
       "title": "Apoiada pelo Walmart, OnePay adiciona tokens para clientes 'novos no mundo das criptomoedas'",
       "link": "https://br.tradingview.com/news/cointelegraph:6435c0869bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +26,7 @@
     },
     {
       "id": "cointelegraph:d2bce765cbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Chances de 'invertida' do Ethereum crescem, mas isso não envolve Bitcoin",
       "link": "https://br.tradingview.com/news/cointelegraph:d2bce765cbc81:0/",
       "source": "Cointelegraph",
@@ -26,7 +37,7 @@
     },
     {
       "id": "cointelegraph:cd9be061abc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Negociação de commodities on-chain veio para ficar, mas a liquidez continua sendo problema",
       "link": "https://br.tradingview.com/news/cointelegraph:cd9be061abc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +48,7 @@
     },
     {
       "id": "cointelegraph:3ba5f54f1bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Tokenizadora xStocks traz novo fundo de ações privadas on-chain.",
       "link": "https://br.tradingview.com/news/cointelegraph:3ba5f54f1bc81:0/",
       "source": "Cointelegraph",
@@ -48,7 +59,7 @@
     },
     {
       "id": "cointelegraph:9270ab11fbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Stablecoins serão 'momento ChatGPT' das criptomoedas para empresas, diz Ripple",
       "link": "https://br.tradingview.com/news/cointelegraph:9270ab11fbc81:0/",
       "source": "Cointelegraph",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:b7d0a8051bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Israel viola trégua de Trump sobre Irã, Bitcoin e ações sentem o impacto",
       "link": "https://br.tradingview.com/news/beincrypto:b7d0a8051bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "cointelegraph:fd16e1f7bbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETFs de Bitcoin interrompem 4 semanas de entradas de capital em meio ao 'risco direcional'",
       "link": "https://br.tradingview.com/news/cointelegraph:fd16e1f7bbc81:0/",
       "source": "Cointelegraph",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:d2743f847bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Morgan Stanley se aproxima do lançamento de ETF de Bitcoin com taxa abaixo da BlackRock",
       "link": "https://br.tradingview.com/news/beincrypto:d2743f847bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:7b018de38bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Notícias Cripto: Matera na ABcripto, cartão cripto da OKX, Binance, Vinteum, Web3Experts Brazil e outras novidades",
       "link": "https://br.tradingview.com/news/cointelegraph:7b018de38bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:28ba37b99bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Análise de preços em 27/03: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH e LINK",
       "link": "https://br.tradingview.com/news/cointelegraph:28ba37b99bc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:59836ece0bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Relatório do BCE questiona se DAOs de DeFi são descentralizadas o suficiente para ficar fora do MiCA",
       "link": "https://br.tradingview.com/news/cointelegraph:59836ece0bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:202a00389bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Notícias Cripto: novidades no cartão da Oobit e Bipa, Mulheres que Codam, Rezolve AI, BlingX e outras",
       "link": "https://br.tradingview.com/news/cointelegraph:202a00389bc81:0/",
       "source": "Cointelegraph",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 21:22:54 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 21:22 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Notícias Cripto: novidades no cartão da Oobit e Bipa, Mulheres que Codam, Rezolve AI, BlingX e outras\" data-qa-id=\"news-headline-title\">Notícias Cripto: novidades no cartão da Oobit e Bipa, Mulheres que Codam, Rezolve AI, BlingX e outras</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:eb43a47e3bc81:0",
-      "index": 12,
-      "title": "Entrevista com pais de SBF reduz chances de perdão nos mercados de apostas",
-      "link": "https://br.tradingview.com/news/cointelegraph:eb43a47e3bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-27T21:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 27 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"27 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Entrevista com pais de SBF reduz chances de perdão nos mercados de apostas\" data-qa-id=\"news-headline-title\">Entrevista com pais de SBF reduz chances de perdão nos mercados de apostas</div></div></article>"
     }
   ]
 }
