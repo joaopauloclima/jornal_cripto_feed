@@ -1,10 +1,65 @@
 {
-  "updated_at": "2026-03-30T14:15:13.865Z",
+  "updated_at": "2026-03-30T16:54:51.449Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "cointelegraph:604a69b28bc81:0",
+      "id": "cointelegraph:256fdb25bbc81:0",
       "index": 0,
+      "title": "Hashrate do Bitcoin cai após conflito no Irã, HOOD recua 16%: o mês em gráficos",
+      "link": "https://br.tradingview.com/news/cointelegraph:256fdb25bbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-30T15:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 30 Mar 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de mar. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Hashrate do Bitcoin cai após conflito no Irã, HOOD recua 16%: o mês em gráficos\" data-qa-id=\"news-headline-title\">Hashrate do Bitcoin cai após conflito no Irã, HOOD recua 16%: o mês em gráficos</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:7d5cecbffbc81:0",
+      "index": 1,
+      "title": "Modelos de preço do Bitcoin apontam US$ 40 - US$ 50 mil como possível fundo do BTC",
+      "link": "https://br.tradingview.com/news/cointelegraph:7d5cecbffbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-30T15:00:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 30 Mar 2026 15:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de mar. de 2026, 15:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Modelos de preço do Bitcoin apontam US$ 40 - US$ 50 mil como possível fundo do BTC\" data-qa-id=\"news-headline-title\">Modelos de preço do Bitcoin apontam US$ 40 - US$ 50 mil como possível fundo do BTC</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:902ddb5fbbc81:0",
+      "index": 2,
+      "title": "Seis meses seguidos de perdas? 5 coisas para saber sobre o Bitcoin nesta semana",
+      "link": "https://br.tradingview.com/news/cointelegraph:902ddb5fbbc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-30T14:30:00.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 30 Mar 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de mar. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Seis meses seguidos de perdas? 5 coisas para saber sobre o Bitcoin nesta semana\" data-qa-id=\"news-headline-title\">Seis meses seguidos de perdas? 5 coisas para saber sobre o Bitcoin nesta semana</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:f4ff05e75bc81:0",
+      "index": 3,
+      "title": "Fundação Ethereum acelera plano de staking de 70.000 ETH após venda para a BitMine",
+      "link": "https://br.tradingview.com/news/cointelegraph:f4ff05e75bc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-30T14:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 30 Mar 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de mar. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Fundação Ethereum acelera plano de staking de 70.000 ETH após venda para a BitMine\" data-qa-id=\"news-headline-title\">Fundação Ethereum acelera plano de staking de 70.000 ETH após venda para a BitMine</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:c64a9faaabc81:0",
+      "index": 4,
+      "title": "Transações em mercados de previsão disparam com apostas geopolíticas e cobertura da mídia",
+      "link": "https://br.tradingview.com/news/cointelegraph:c64a9faaabc81:0/",
+      "source": "Cointelegraph",
+      "published_at": "2026-03-30T13:42:17.000Z",
+      "snippet": "",
+      "image": null,
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 30 Mar 2026 13:42:17 GMT\" class=\"apply-common-tooltip\" title=\"30 de mar. de 2026, 13:42 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Transações em mercados de previsão disparam com apostas geopolíticas e cobertura da mídia\" data-qa-id=\"news-headline-title\">Transações em mercados de previsão disparam com apostas geopolíticas e cobertura da mídia</div></div></article>"
+    },
+    {
+      "id": "cointelegraph:604a69b28bc81:0",
+      "index": 5,
       "title": "Brasil ignora incertezas com o Bitcoin e aporta R$ 13,7 milhões em fundos de criptomoedas",
       "link": "https://br.tradingview.com/news/cointelegraph:604a69b28bc81:0/",
       "source": "Cointelegraph",
@@ -15,7 +70,7 @@
     },
     {
       "id": "beincrypto:a72ae857dbc81:0",
-      "index": 1,
+      "index": 6,
       "title": "Previsão de preço do Ethereum: o que esperar do ETH em abril de 2026?",
       "link": "https://br.tradingview.com/news/beincrypto:a72ae857dbc81:0/",
       "source": "Beincrypto",
@@ -26,7 +81,7 @@
     },
     {
       "id": "cointelegraph:ce96509f1bc81:0",
-      "index": 2,
+      "index": 7,
       "title": "Conexão com Trump pode ser catalisador para algumas criptomoedas em abril, avalia Coinext",
       "link": "https://br.tradingview.com/news/cointelegraph:ce96509f1bc81:0/",
       "source": "Cointelegraph",
@@ -37,7 +92,7 @@
     },
     {
       "id": "beincrypto:7421d581abc81:0",
-      "index": 3,
+      "index": 8,
       "title": "Previsão de preço do Bitcoin: o que esperar do BTC em abril de 2026?",
       "link": "https://br.tradingview.com/news/beincrypto:7421d581abc81:0/",
       "source": "Beincrypto",
@@ -48,7 +103,7 @@
     },
     {
       "id": "beincrypto:9ca56e0f0bc81:0",
-      "index": 4,
+      "index": 9,
       "title": "Como pausa de Trump em relação ao Irã se encaixa em sua estratégia alinhada ao mercado?",
       "link": "https://br.tradingview.com/news/beincrypto:9ca56e0f0bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +114,7 @@
     },
     {
       "id": "cointelegraph:78b1ad44abc81:0",
-      "index": 5,
+      "index": 10,
       "title": "Preço do Bitcoin hoje, 30/03/2026: BTC consegue segurar suporte e touros reagem com leve alta de 1% e cripto em US$ 67 mil",
       "link": "https://br.tradingview.com/news/cointelegraph:78b1ad44abc81:0/",
       "source": "Cointelegraph",
@@ -70,7 +125,7 @@
     },
     {
       "id": "beincrypto:77f1825b1bc81:0",
-      "index": 6,
+      "index": 11,
       "title": "Longs de Bitcoin atingem máxima em vários anos na Bitfinex e aumentam risco de queda",
       "link": "https://br.tradingview.com/news/beincrypto:77f1825b1bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +136,7 @@
     },
     {
       "id": "cointelegraph:6435c0869bc81:0",
-      "index": 7,
+      "index": 12,
       "title": "Apoiada pelo Walmart, OnePay adiciona tokens para clientes 'novos no mundo das criptomoedas'",
       "link": "https://br.tradingview.com/news/cointelegraph:6435c0869bc81:0/",
       "source": "Cointelegraph",
@@ -89,61 +144,6 @@
       "snippet": "",
       "image": null,
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 29 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Apoiada pelo Walmart, OnePay adiciona tokens para clientes 'novos no mundo das criptomoedas'\" data-qa-id=\"news-headline-title\">Apoiada pelo Walmart, OnePay adiciona tokens para clientes 'novos no mundo das criptomoedas'</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:d2bce765cbc81:0",
-      "index": 8,
-      "title": "Chances de 'invertida' do Ethereum crescem, mas isso não envolve Bitcoin",
-      "link": "https://br.tradingview.com/news/cointelegraph:d2bce765cbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-29T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 29 Mar 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de mar. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Chances de 'invertida' do Ethereum crescem, mas isso não envolve Bitcoin\" data-qa-id=\"news-headline-title\">Chances de 'invertida' do Ethereum crescem, mas isso não envolve Bitcoin</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:cd9be061abc81:0",
-      "index": 9,
-      "title": "Negociação de commodities on-chain veio para ficar, mas a liquidez continua sendo problema",
-      "link": "https://br.tradingview.com/news/cointelegraph:cd9be061abc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-29T13:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 29 Mar 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"29 de mar. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Negociação de commodities on-chain veio para ficar, mas a liquidez continua sendo problema\" data-qa-id=\"news-headline-title\">Negociação de commodities on-chain veio para ficar, mas a liquidez continua sendo problema</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:3ba5f54f1bc81:0",
-      "index": 10,
-      "title": "Tokenizadora xStocks traz novo fundo de ações privadas on-chain.",
-      "link": "https://br.tradingview.com/news/cointelegraph:3ba5f54f1bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-28T21:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 28 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Tokenizadora xStocks traz novo fundo de ações privadas on-chain.\" data-qa-id=\"news-headline-title\">Tokenizadora xStocks traz novo fundo de ações privadas on-chain.</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:9270ab11fbc81:0",
-      "index": 11,
-      "title": "Stablecoins serão 'momento ChatGPT' das criptomoedas para empresas, diz Ripple",
-      "link": "https://br.tradingview.com/news/cointelegraph:9270ab11fbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-28T17:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 28 Mar 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de mar. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Stablecoins serão 'momento ChatGPT' das criptomoedas para empresas, diz Ripple\" data-qa-id=\"news-headline-title\">Stablecoins serão 'momento ChatGPT' das criptomoedas para empresas, diz Ripple</div></div></article>"
-    },
-    {
-      "id": "beincrypto:b7d0a8051bc81:0",
-      "index": 12,
-      "title": "Israel viola trégua de Trump sobre Irã, Bitcoin e ações sentem o impacto",
-      "link": "https://br.tradingview.com/news/beincrypto:b7d0a8051bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-03-28T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 28 Mar 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de mar. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Israel viola trégua de Trump sobre Irã, Bitcoin e ações sentem o impacto\" data-qa-id=\"news-headline-title\">Israel viola trégua de Trump sobre Irã, Bitcoin e ações sentem o impacto</div></div></article>"
     }
   ]
 }
