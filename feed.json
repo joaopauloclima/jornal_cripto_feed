@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-03-31T17:56:55.101Z",
+  "updated_at": "2026-03-31T20:42:35.197Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:64ad42d17bc81:0",
+      "id": "beincrypto:247a4bedfbc81:0",
       "index": 0,
+      "title": "Quase 7 milhões de Bitcoins estão em campo minado quântico, incluindo os de Satoshi",
+      "link": "https://br.tradingview.com/news/beincrypto:247a4bedfbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-03-31T19:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 31 Mar 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"31 de mar. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Quase 7 milhões de Bitcoins estão em campo minado quântico, incluindo os de Satoshi\" data-qa-id=\"news-headline-title\">Quase 7 milhões de Bitcoins estão em campo minado quântico, incluindo os de Satoshi</div></div></article>"
+    },
+    {
+      "id": "beincrypto:64ad42d17bc81:0",
+      "index": 1,
       "title": "Tether demite operadores de ouro do HSBC meses após contratá-los",
       "link": "https://br.tradingview.com/news/beincrypto:64ad42d17bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:42398d026bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "XRP registra forte queda em meio à volatilidade do mercado",
       "link": "https://br.tradingview.com/news/beincrypto:42398d026bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:ae205e1ddbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "O que esperar do preço da Solana em abril de 2026?",
       "link": "https://br.tradingview.com/news/beincrypto:ae205e1ddbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:b6adcde38bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin registra sequência de 5 meses de perdas e dados on-chain indicam capitulação",
       "link": "https://br.tradingview.com/news/beincrypto:b6adcde38bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40J0EQ:0",
-      "index": 4,
+      "index": 5,
       "title": "A startup de pagamentos em moeda estrangeira OpenFX levanta US$ 94 milhões em meio à sua investida em stablecoins internacionais.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40J0EQ:0/",
       "source": "Reuters",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:0a70c38dcbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Perspectiva de preço do XRP para abril de 2026",
       "link": "https://br.tradingview.com/news/beincrypto:0a70c38dcbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40J0C7:0",
-      "index": 6,
+      "index": 7,
       "title": "A startup de pagamentos em moeda estrangeira OpenFX levanta US$ 94 milhões em meio ao seu avanço em stablecoins internacionais",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40J0C7:0/",
       "source": "Reuters",
@@ -81,7 +92,7 @@
     },
     {
       "id": "cointelegraph:34ae56c5cbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Para onde vai o preço e o que observar no Bitcoin nesta semana",
       "link": "https://br.tradingview.com/news/cointelegraph:34ae56c5cbc81:0/",
       "source": "Cointelegraph",
@@ -92,7 +103,7 @@
     },
     {
       "id": "cointelegraph:94850cb09bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Stablecoins no Imposto de Renda exige atenção; veja como declarar e evitar problemas",
       "link": "https://br.tradingview.com/news/cointelegraph:94850cb09bc81:0/",
       "source": "Cointelegraph",
@@ -103,7 +114,7 @@
     },
     {
       "id": "cointelegraph:011b6d55bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Endereços de acumulação de Bitcoin absorvem 67 mil BTC com queda nas vendas de mineradores, mostram dados",
       "link": "https://br.tradingview.com/news/cointelegraph:011b6d55bbc81:0/",
       "source": "Cointelegraph",
@@ -114,7 +125,7 @@
     },
     {
       "id": "cointelegraph:8ab1631e0bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Banco Central do Brasil vai criar leis para stablecoins e staking",
       "link": "https://br.tradingview.com/news/cointelegraph:8ab1631e0bc81:0/",
       "source": "Cointelegraph",
@@ -125,7 +136,7 @@
     },
     {
       "id": "cointelegraph:dfb3d20aebc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Strategy pausa compras de Bitcoin e vendas de ações",
       "link": "https://br.tradingview.com/news/cointelegraph:dfb3d20aebc81:0/",
       "source": "Cointelegraph",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 30 Mar 2026 21:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de mar. de 2026, 21:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Strategy pausa compras de Bitcoin e vendas de ações\" data-qa-id=\"news-headline-title\">Strategy pausa compras de Bitcoin e vendas de ações</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:722ccdedbbc81:0",
-      "index": 12,
-      "title": "Midas levanta US$ 50 milhões para criar camada de liquidez instantânea para rendimento tokenizado",
-      "link": "https://br.tradingview.com/news/cointelegraph:722ccdedbbc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-30T20:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 30 Mar 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de mar. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Midas levanta US$ 50 milhões para criar camada de liquidez instantânea para rendimento tokenizado\" data-qa-id=\"news-headline-title\">Midas levanta US$ 50 milhões para criar camada de liquidez instantânea para rendimento tokenizado</div></div></article>"
-    },
-    {
-      "id": "cointelegraph:df57aa868bc81:0",
-      "index": 13,
-      "title": "Pesquisa da Coinbase revela que muitos usuários de criptomoedas ainda não entendem os impostos",
-      "link": "https://br.tradingview.com/news/cointelegraph:df57aa868bc81:0/",
-      "source": "Cointelegraph",
-      "published_at": "2026-03-30T19:00:00.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 30 Mar 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"30 de mar. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Cointelegraph</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Pesquisa da Coinbase revela que muitos usuários de criptomoedas ainda não entendem os impostos\" data-qa-id=\"news-headline-title\">Pesquisa da Coinbase revela que muitos usuários de criptomoedas ainda não entendem os impostos</div></div></article>"
     }
   ]
 }
