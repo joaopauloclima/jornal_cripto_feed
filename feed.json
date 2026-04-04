@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-04T06:46:08.782Z",
+  "updated_at": "2026-04-04T12:03:03.651Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:6fc44c8d9bc81:0",
+      "id": "beincrypto:90005ac1cbc81:0",
       "index": 0,
+      "title": "Jack Dorsey sinaliza retorno dos faucets de Bitcoin",
+      "link": "https://br.tradingview.com/news/beincrypto:90005ac1cbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-04T11:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 04 Apr 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de abr. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Jack Dorsey sinaliza retorno dos faucets de Bitcoin\" data-qa-id=\"news-headline-title\">Jack Dorsey sinaliza retorno dos faucets de Bitcoin</div></div></article>"
+    },
+    {
+      "id": "beincrypto:6fc44c8d9bc81:0",
+      "index": 1,
       "title": "CEO da Ripple revela o segredo por trás do seu sistema de tesouraria cripto e fiduciário",
       "link": "https://br.tradingview.com/news/beincrypto:6fc44c8d9bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:67be33acfbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Preço do XRP pode sair de um canal de baixa de 17 dias",
       "link": "https://br.tradingview.com/news/beincrypto:67be33acfbc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:58c706c1bbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Aposta de US$ 2,6 bilhões em Ethereum repete erro que causou queda de 43%",
       "link": "https://br.tradingview.com/news/beincrypto:58c706c1bbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:2b5502080bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Strategy compara duas ações ligadas ao Bitcoin e mostra qual faz mais sentido para investir",
       "link": "https://br.tradingview.com/news/beincrypto:2b5502080bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:0dd233014bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Padrão de queda do Bitcoin entra no terceiro ciclo após duas correções de até 11%",
       "link": "https://br.tradingview.com/news/beincrypto:0dd233014bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:df880be09bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin tenta recuperação mas grandes investidores estão saindo",
       "link": "https://br.tradingview.com/news/beincrypto:df880be09bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:64b6c88f5bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Metaplanet compra 5.075 BTC em um trimestre e ultrapassa MARA no ranking global",
       "link": "https://br.tradingview.com/news/beincrypto:64b6c88f5bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:224808100bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Mercado cripto cai 1,8% e Bitcoin se aproxima de padrão de queda",
       "link": "https://br.tradingview.com/news/beincrypto:224808100bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:4b0d41795bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "O próximo bull run cripto não será sobre moedas ou hype viral",
       "link": "https://br.tradingview.com/news/beincrypto:4b0d41795bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:bfed62dd1bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin pode chegar a US$ 84 mil ou cair a US$ 50 mil no próximo trimestre, aponta MB",
       "link": "https://br.tradingview.com/news/beincrypto:bfed62dd1bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:fb2391805bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Aliança ASI pode reconstruir circuito quântico secreto do Google, diz Ben Goertzel",
       "link": "https://br.tradingview.com/news/beincrypto:fb2391805bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:3fdc8498bbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ethereum pode cair 20%: ETFs registram 5º mês seguido de saída",
       "link": "https://br.tradingview.com/news/beincrypto:3fdc8498bbc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40K0N3:0",
-      "index": 12,
+      "index": 13,
       "title": "Franklin Templeton vai adquirir empresa derivada da CoinFund para expandir atuação em criptoativos",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40K0N3:0/",
       "source": "Reuters",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/franklin-resources.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/franklin-resources.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Apr 2026 14:01:00 GMT\" class=\"apply-common-tooltip\" title=\"1 de abr. de 2026, 14:01 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Franklin Templeton vai adquirir empresa derivada da CoinFund para expandir atuação em criptoativos\" data-qa-id=\"news-headline-title\">Franklin Templeton vai adquirir empresa derivada da CoinFund para expandir atuação em criptoativos</div></div></article>"
-    },
-    {
-      "id": "beincrypto:9f1908965bc81:0",
-      "index": 13,
-      "title": "Strategy pausa compras de Bitcoin e congela dividendo STRC em 11,5%",
-      "link": "https://br.tradingview.com/news/beincrypto:9f1908965bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-01T12:45:15.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">S</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 01 Apr 2026 12:45:15 GMT\" class=\"apply-common-tooltip\" title=\"1 de abr. de 2026, 12:45 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Strategy pausa compras de Bitcoin e congela dividendo STRC em 11,5%\" data-qa-id=\"news-headline-title\">Strategy pausa compras de Bitcoin e congela dividendo STRC em 11,5%</div></div></article>"
     }
   ]
 }
