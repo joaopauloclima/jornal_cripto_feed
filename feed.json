@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-07T21:33:52.540Z",
+  "updated_at": "2026-04-07T23:26:44.327Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:7e64df427bc81:0",
+      "id": "beincrypto:81107ddbcbc81:0",
       "index": 0,
+      "title": "Bitcoin, petróleo e mercados de ações oscilam enquanto prazo de Trump para o Irã se aproxima de acordo decisivo",
+      "link": "https://br.tradingview.com/news/beincrypto:81107ddbcbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-07T22:05:24.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Apr 2026 22:05:24 GMT\" class=\"apply-common-tooltip\" title=\"7 de abr. de 2026, 22:05 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin, petróleo e mercados de ações oscilam enquanto prazo de Trump para o Irã se aproxima de acordo decisivo\" data-qa-id=\"news-headline-title\">Bitcoin, petróleo e mercados de ações oscilam enquanto prazo de Trump para o Irã se aproxima de acordo decisivo</div></div></article>"
+    },
+    {
+      "id": "beincrypto:7e64df427bc81:0",
+      "index": 1,
       "title": "ETF de Bitcoin da Morgan Stanley: 5 sinais que investidores monitoram antes do lançamento",
       "link": "https://br.tradingview.com/news/beincrypto:7e64df427bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:0ad960a21bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ripple revela previsão de stablecoin de US$ 33 trilhões no XRP Tokyo 2026",
       "link": "https://br.tradingview.com/news/beincrypto:0ad960a21bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:4ab30a599bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Ultimato de Trump gera medo nuclear, mas investidores apostam em recuo",
       "link": "https://br.tradingview.com/news/beincrypto:4ab30a599bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:2d140960bbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Grayscale aponta 3 caminhos para moedas do Bitcoin vulneráveis à computação quântica",
       "link": "https://br.tradingview.com/news/beincrypto:2d140960bbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:23d678fc6bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Irã ataca Al Jubail, na Arábia Saudita, horas antes do prazo de Trump para o Ormuz",
       "link": "https://br.tradingview.com/news/beincrypto:23d678fc6bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:94338bdc8bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Preço do Ethereum recua, mas 4 métricas indicam possível recuperação do ativo",
       "link": "https://br.tradingview.com/news/beincrypto:94338bdc8bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:c680fa505bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "XRP atinge menor lucratividade em 21 meses com ETFs negativos",
       "link": "https://br.tradingview.com/news/beincrypto:c680fa505bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:a9793e924bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Strategy compra 4.871 Bitcoins na baixa e faz movimento mais relevante até agora",
       "link": "https://br.tradingview.com/news/beincrypto:a9793e924bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:d67505711bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "BitMine de Tom Lee estreia na NYSE com US$ 11 bilhões em cripto",
       "link": "https://br.tradingview.com/news/beincrypto:d67505711bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:64cc719dabc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Rali do preço do XRP precisa absorver 1,2 bilhão de tokens, mas poder de compra diminui",
       "link": "https://br.tradingview.com/news/beincrypto:64cc719dabc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:6e6bb58acbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Conta de James Wynn despenca para US$ 900 após liquidação em Bitcoin na Hyperliquid",
       "link": "https://br.tradingview.com/news/beincrypto:6e6bb58acbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:d990d49e2bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Strategy pode repetir sucesso com Bitcoin agora com a STRC?",
       "link": "https://br.tradingview.com/news/beincrypto:d990d49e2bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">S</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Apr 2026 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de abr. de 2026, 12:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Strategy pode repetir sucesso com Bitcoin agora com a STRC?\" data-qa-id=\"news-headline-title\">Strategy pode repetir sucesso com Bitcoin agora com a STRC?</div></div></article>"
-    },
-    {
-      "id": "beincrypto:734f2bfe7bc81:0",
-      "index": 12,
-      "title": "Liquidações superam US$ 75 milhões com Bitcoin testando US$ 70 mil",
-      "link": "https://br.tradingview.com/news/beincrypto:734f2bfe7bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-06T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 06 Apr 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de abr. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Liquidações superam US$ 75 milhões com Bitcoin testando US$ 70 mil\" data-qa-id=\"news-headline-title\">Liquidações superam US$ 75 milhões com Bitcoin testando US$ 70 mil</div></div></article>"
     }
   ]
 }
