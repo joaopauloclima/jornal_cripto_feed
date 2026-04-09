@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-09T18:43:35.445Z",
+  "updated_at": "2026-04-09T19:53:15.612Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2026:newsml_L1N40S0WP:0",
+      "id": "beincrypto:557e0d867bc81:0",
       "index": 0,
+      "title": "Arthur Hayes desafia o Irã: mostre o Bitcoin ou é apenas encenação do IRGC",
+      "link": "https://br.tradingview.com/news/beincrypto:557e0d867bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-09T18:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Apr 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de abr. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Arthur Hayes desafia o Irã: mostre o Bitcoin ou é apenas encenação do IRGC\" data-qa-id=\"news-headline-title\">Arthur Hayes desafia o Irã: mostre o Bitcoin ou é apenas encenação do IRGC</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2026:newsml_L1N40S0WP:0",
+      "index": 1,
       "title": "Potenciais compradores estão avaliando a aquisição de partes da corretora de criptomoedas Gemini - CoinDesk",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40S0WP:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:9625ab6cbbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoins de Satoshi Nakamoto estão perdidos para sempre, sugere ex-CTO da Ripple",
       "link": "https://br.tradingview.com/news/beincrypto:9625ab6cbbc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:29cb07b64bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Bitcoin permanece no topo por 8 anos: maioria das criptos desapareceu",
       "link": "https://br.tradingview.com/news/beincrypto:29cb07b64bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:615c2128fbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Polygon busca captar US$ 100 milhões para projeto de stablecoin",
       "link": "https://br.tradingview.com/news/beincrypto:615c2128fbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:e09326f4dbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Preço do Ethereum mantém a US$ 2.168 enquanto a Fundação lidera venda",
       "link": "https://br.tradingview.com/news/beincrypto:e09326f4dbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:b2780f5efbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "ETF de Bitcoin da Morgan Stanley estreia com grande entrada de recursos",
       "link": "https://br.tradingview.com/news/beincrypto:b2780f5efbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:cb73da0bcbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Fundação Ethereum vende 5 mil ETH durante reestruturação secreta do tesouro",
       "link": "https://br.tradingview.com/news/beincrypto:cb73da0bcbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:5e8dd0392bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Irã exige pagamento em cripto em acordo de cessar-fogo, petrodólar pode acabar",
       "link": "https://br.tradingview.com/news/beincrypto:5e8dd0392bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:b2a4baf68bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Padrão gráfico do Bitcoin aponta para US$ 78 mil, veja principais níveis para acompanhar",
       "link": "https://br.tradingview.com/news/beincrypto:b2a4baf68bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:7e4e423e1bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin ultrapassa US$ 71 mil enquanto Trump suspende ataques ao Irã e sinaliza cessar-fogo",
       "link": "https://br.tradingview.com/news/beincrypto:7e4e423e1bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:81107ddbcbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin, petróleo e mercados de ações oscilam enquanto prazo de Trump para o Irã se aproxima de acordo decisivo",
       "link": "https://br.tradingview.com/news/beincrypto:81107ddbcbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:7e64df427bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "ETF de Bitcoin da Morgan Stanley: 5 sinais que investidores monitoram antes do lançamento",
       "link": "https://br.tradingview.com/news/beincrypto:7e64df427bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">I</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Apr 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de abr. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"ETF de Bitcoin da Morgan Stanley: 5 sinais que investidores monitoram antes do lançamento\" data-qa-id=\"news-headline-title\">ETF de Bitcoin da Morgan Stanley: 5 sinais que investidores monitoram antes do lançamento</div></div></article>"
-    },
-    {
-      "id": "beincrypto:0ad960a21bc81:0",
-      "index": 12,
-      "title": "Ripple revela previsão de stablecoin de US$ 33 trilhões no XRP Tokyo 2026",
-      "link": "https://br.tradingview.com/news/beincrypto:0ad960a21bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-07T19:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 07 Apr 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de abr. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ripple revela previsão de stablecoin de US$ 33 trilhões no XRP Tokyo 2026\" data-qa-id=\"news-headline-title\">Ripple revela previsão de stablecoin de US$ 33 trilhões no XRP Tokyo 2026</div></div></article>"
     }
   ]
 }
