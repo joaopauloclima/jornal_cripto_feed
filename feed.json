@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-13T04:06:50.386Z",
+  "updated_at": "2026-04-13T06:39:32.178Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:9cdd98b9cbc81:0",
+      "id": "beincrypto:f5a150960bc81:0",
       "index": 0,
+      "title": "Relatório aponta que a Polkadot bridged sofre ataque enquanto invasor emite 1 bilhão de DOT",
+      "link": "https://br.tradingview.com/news/beincrypto:f5a150960bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-13T05:31:53.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCDOT.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOT.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Apr 2026 05:31:53 GMT\" class=\"apply-common-tooltip\" title=\"13 de abr. de 2026, 05:31 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Relatório aponta que a Polkadot bridged sofre ataque enquanto invasor emite 1 bilhão de DOT\" data-qa-id=\"news-headline-title\">Relatório aponta que a Polkadot bridged sofre ataque enquanto invasor emite 1 bilhão de DOT</div></div></article>"
+    },
+    {
+      "id": "beincrypto:9cdd98b9cbc81:0",
+      "index": 1,
       "title": "Bitcoin se aproxima de US$ 74 mil com avanço inicial em negociações entre EUA e Irã",
       "link": "https://br.tradingview.com/news/beincrypto:9cdd98b9cbc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:0f82bd478bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin atinge US$ 73 mil com rali de cessar-fogo, mas CEO da Coinbase alerta para cautela",
       "link": "https://br.tradingview.com/news/beincrypto:0f82bd478bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:e008f12dabc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Ethereum apresenta sinal de alta não visto desde 2022 na Binance Futures",
       "link": "https://br.tradingview.com/news/beincrypto:e008f12dabc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:f08306944bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin ultrapassa US$ 72 mil após inflação dos EUA ficar abaixo das previsões de Wall Street",
       "link": "https://br.tradingview.com/news/beincrypto:f08306944bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:38fb02349bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Minerador solo de Bitcoin com 70 TH/s conquista bloco inteiro diante de chances de 1 em 100 mil",
       "link": "https://br.tradingview.com/news/beincrypto:38fb02349bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:b16b34543bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "US$ 2,2 bilhões em opções de cripto expiram hoje enquanto um sinal oculto do Ethereum ressurge",
       "link": "https://br.tradingview.com/news/beincrypto:b16b34543bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:6a0629f11bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "XRP fica estável por um mês enquanto investidor movimenta 130 milhões de tokens",
       "link": "https://br.tradingview.com/news/beincrypto:6a0629f11bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:1abc99b16bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin ensaia rompimento em abril, mas indicador despenca mais de 50%",
       "link": "https://br.tradingview.com/news/beincrypto:1abc99b16bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:557e0d867bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Arthur Hayes desafia o Irã: mostre o Bitcoin ou é apenas encenação do IRGC",
       "link": "https://br.tradingview.com/news/beincrypto:557e0d867bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40S0WP:0",
-      "index": 9,
+      "index": 10,
       "title": "Potenciais compradores estão avaliando a aquisição de partes da corretora de criptomoedas Gemini - CoinDesk",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40S0WP:0/",
       "source": "Reuters",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:9625ab6cbbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoins de Satoshi Nakamoto estão perdidos para sempre, sugere ex-CTO da Ripple",
       "link": "https://br.tradingview.com/news/beincrypto:9625ab6cbbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:29cb07b64bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin permanece no topo por 8 anos: maioria das criptos desapareceu",
       "link": "https://br.tradingview.com/news/beincrypto:29cb07b64bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Apr 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de abr. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin permanece no topo por 8 anos: maioria das criptos desapareceu\" data-qa-id=\"news-headline-title\">Bitcoin permanece no topo por 8 anos: maioria das criptos desapareceu</div></div></article>"
-    },
-    {
-      "id": "beincrypto:615c2128fbc81:0",
-      "index": 12,
-      "title": "Polygon busca captar US$ 100 milhões para projeto de stablecoin",
-      "link": "https://br.tradingview.com/news/beincrypto:615c2128fbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-09T11:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCMATIC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><span class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\">A</span></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCMATIC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 09 Apr 2026 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"9 de abr. de 2026, 11:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Polygon busca captar US$ 100 milhões para projeto de stablecoin\" data-qa-id=\"news-headline-title\">Polygon busca captar US$ 100 milhões para projeto de stablecoin</div></div></article>"
     }
   ]
 }
