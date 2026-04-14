@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-04-14T12:49:14.970Z",
+  "updated_at": "2026-04-14T14:34:10.435Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:30a3e24f3bc81:0",
+      "id": "beincrypto:acda7789fbc81:0",
       "index": 0,
+      "title": "Bitcoin chega a US$ 74.500, mas 3 divergências apontam possível fim da alta",
+      "link": "https://br.tradingview.com/news/beincrypto:acda7789fbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-14T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Apr 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de abr. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin chega a US$ 74.500, mas 3 divergências apontam possível fim da alta\" data-qa-id=\"news-headline-title\">Bitcoin chega a US$ 74.500, mas 3 divergências apontam possível fim da alta</div></div></article>"
+    },
+    {
+      "id": "beincrypto:1fe360c78bc81:0",
+      "index": 1,
+      "title": "China nega envio de armas ao Irã enquanto Bitcoin se aproxima de US$ 75 mil",
+      "link": "https://br.tradingview.com/news/beincrypto:1fe360c78bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-14T12:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Apr 2026 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de abr. de 2026, 12:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"China nega envio de armas ao Irã enquanto Bitcoin se aproxima de US$ 75 mil\" data-qa-id=\"news-headline-title\">China nega envio de armas ao Irã enquanto Bitcoin se aproxima de US$ 75 mil</div></div></article>"
+    },
+    {
+      "id": "beincrypto:30a3e24f3bc81:0",
+      "index": 2,
       "title": "Vendedores a descoberto perdem US$ 440 milhões com Bitcoin perto de US$ 75 mil",
       "link": "https://br.tradingview.com/news/beincrypto:30a3e24f3bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +37,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40W0XN:0",
-      "index": 1,
+      "index": 3,
       "title": "Tom Duff Gordon, vice-presidente de política internacional da Coinbase, deixa a empresa para se juntar à OpenAI - CoinDesk",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40W0XN:0/",
       "source": "Reuters",
@@ -26,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40W0XJ:0",
-      "index": 2,
+      "index": 4,
       "title": "Justin Sun, investidor da World Liberty, afirma que a empresa de criptomoedas de Trump instalou \"secretamente\" uma ferramenta para congelar os ativos dos usuários.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40W0XJ:0/",
       "source": "Reuters",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:4a42b8afabc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Ethereum com volatilidade comprimida indica movimento forte iminente",
       "link": "https://br.tradingview.com/news/beincrypto:4a42b8afabc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:dd4b1fa44bc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Por que S&P 500 sobe com bloqueio de Ormuz por Trump?",
       "link": "https://br.tradingview.com/news/beincrypto:dd4b1fa44bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:e6e3ae97cbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Strategy compra US$ 1 bilhão em Bitcoin e agora possui 780.897 BTC",
       "link": "https://br.tradingview.com/news/beincrypto:e6e3ae97cbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:ba569d16bbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "3 altcoins para observar na 3ª semana de abril de 2026",
       "link": "https://br.tradingview.com/news/beincrypto:ba569d16bbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:779e7ddb0bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Ações de tesouro ligadas à Solana caem com memecoins e analista prevê mais 50% de baixa",
       "link": "https://br.tradingview.com/news/beincrypto:779e7ddb0bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:4970c9ddebc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Sentimento do XRP atinge o terceiro nível mais pessimista em 2 anos",
       "link": "https://br.tradingview.com/news/beincrypto:4970c9ddebc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:f5a150960bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Bridged Polkadot sofre suposto ataque enquanto invasor emite 1 bilhão de tokens DOT",
       "link": "https://br.tradingview.com/news/beincrypto:f5a150960bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:9cdd98b9cbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Bitcoin se aproxima de US$ 74 mil com avanço inicial em negociações entre EUA e Irã",
       "link": "https://br.tradingview.com/news/beincrypto:9cdd98b9cbc81:0/",
       "source": "Beincrypto",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 11 Apr 2026 23:24:16 GMT\" class=\"apply-common-tooltip\" title=\"11 de abr. de 2026, 23:24 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin se aproxima de US$ 74 mil com avanço inicial em negociações entre EUA e Irã\" data-qa-id=\"news-headline-title\">Bitcoin se aproxima de US$ 74 mil com avanço inicial em negociações entre EUA e Irã</div></div></article>"
-    },
-    {
-      "id": "beincrypto:0f82bd478bc81:0",
-      "index": 11,
-      "title": "Bitcoin atinge US$ 73 mil com rali de cessar-fogo, mas CEO da Coinbase alerta para cautela",
-      "link": "https://br.tradingview.com/news/beincrypto:0f82bd478bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-10T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Apr 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de abr. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin atinge US$ 73 mil com rali de cessar-fogo, mas CEO da Coinbase alerta para cautela\" data-qa-id=\"news-headline-title\">Bitcoin atinge US$ 73 mil com rali de cessar-fogo, mas CEO da Coinbase alerta para cautela</div></div></article>"
-    },
-    {
-      "id": "beincrypto:e008f12dabc81:0",
-      "index": 12,
-      "title": "Ethereum apresenta sinal de alta não visto desde 2022 na Binance Futures",
-      "link": "https://br.tradingview.com/news/beincrypto:e008f12dabc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-10T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 10 Apr 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"10 de abr. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ethereum apresenta sinal de alta não visto desde 2022 na Binance Futures\" data-qa-id=\"news-headline-title\">Ethereum apresenta sinal de alta não visto desde 2022 na Binance Futures</div></div></article>"
     }
   ]
 }
