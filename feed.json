@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-15T12:48:30.498Z",
+  "updated_at": "2026-04-15T14:23:55.702Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:9786db20fbc81:0",
+      "id": "beincrypto:51221d5debc81:0",
       "index": 0,
+      "title": "Bitcoin pode congelar endereços antigos devido a risco quântico: o que é o BIP-361?",
+      "link": "https://br.tradingview.com/news/beincrypto:51221d5debc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-15T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Apr 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de abr. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin pode congelar endereços antigos devido a risco quântico: o que é o BIP-361?\" data-qa-id=\"news-headline-title\">Bitcoin pode congelar endereços antigos devido a risco quântico: o que é o BIP-361?</div></div></article>"
+    },
+    {
+      "id": "beincrypto:9786db20fbc81:0",
+      "index": 1,
       "title": "Bitcoin em US$ 76 mil chama atenção de fundo nos EUA para lucrar com a alta",
       "link": "https://br.tradingview.com/news/beincrypto:9786db20fbc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:30f3b5de4bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Análise XRP: preço em US$ 1,36 indica nova alta?",
       "link": "https://br.tradingview.com/news/beincrypto:30f3b5de4bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40X15C:0",
-      "index": 2,
+      "index": 3,
       "title": "Goldman Sachs registra seu primeiro ETF de bitcoin",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40X15C:0/",
       "source": "Reuters",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:d05820be3bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Ações tokenizadas da Anthropic na Jupiter indicam avaliação de US$ 850 bilhões",
       "link": "https://br.tradingview.com/news/beincrypto:d05820be3bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:35cb3619dbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "XRP chega a 44 milhões de usuários no Japão e levanta dúvidas sobre alta do preço",
       "link": "https://br.tradingview.com/news/beincrypto:35cb3619dbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:32d473cd1bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin ultrapassa US$ 76 mil após surpresa no índice dos EUA",
       "link": "https://br.tradingview.com/news/beincrypto:32d473cd1bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:acda7789fbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin chega a US$ 74.500, mas 3 divergências apontam possível fim da alta",
       "link": "https://br.tradingview.com/news/beincrypto:acda7789fbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:1fe360c78bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "China nega envio de armas ao Irã enquanto Bitcoin se aproxima de US$ 75 mil",
       "link": "https://br.tradingview.com/news/beincrypto:1fe360c78bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:30a3e24f3bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Vendedores a descoberto perdem US$ 440 milhões com Bitcoin perto de US$ 75 mil",
       "link": "https://br.tradingview.com/news/beincrypto:30a3e24f3bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40W0XN:0",
-      "index": 9,
+      "index": 10,
       "title": "Tom Duff Gordon, vice-presidente de política internacional da Coinbase, deixa a empresa para se juntar à OpenAI - CoinDesk",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40W0XN:0/",
       "source": "Reuters",
@@ -114,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40W0XJ:0",
-      "index": 10,
+      "index": 11,
       "title": "Justin Sun, investidor da World Liberty, afirma que a empresa de criptomoedas de Trump instalou \"secretamente\" uma ferramenta para congelar os ativos dos usuários.",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40W0XJ:0/",
       "source": "Reuters",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:4a42b8afabc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ethereum com volatilidade comprimida indica movimento forte iminente",
       "link": "https://br.tradingview.com/news/beincrypto:4a42b8afabc81:0/",
       "source": "Beincrypto",
@@ -136,7 +147,7 @@
     },
     {
       "id": "beincrypto:dd4b1fa44bc81:0",
-      "index": 12,
+      "index": 13,
       "title": "Por que S&P 500 sobe com bloqueio de Ormuz por Trump?",
       "link": "https://br.tradingview.com/news/beincrypto:dd4b1fa44bc81:0/",
       "source": "Beincrypto",
@@ -144,17 +155,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Apr 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de abr. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Por que S&amp;P 500 sobe com bloqueio de Ormuz por Trump?\" data-qa-id=\"news-headline-title\">Por que S&amp;P 500 sobe com bloqueio de Ormuz por Trump?</div></div></article>"
-    },
-    {
-      "id": "beincrypto:e6e3ae97cbc81:0",
-      "index": 13,
-      "title": "Strategy compra US$ 1 bilhão em Bitcoin e agora possui 780.897 BTC",
-      "link": "https://br.tradingview.com/news/beincrypto:e6e3ae97cbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-13T14:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 13 Apr 2026 14:30:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de abr. de 2026, 14:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Strategy compra US$ 1 bilhão em Bitcoin e agora possui 780.897 BTC\" data-qa-id=\"news-headline-title\">Strategy compra US$ 1 bilhão em Bitcoin e agora possui 780.897 BTC</div></div></article>"
     }
   ]
 }
