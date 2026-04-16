@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-04-16T14:54:41.239Z",
+  "updated_at": "2026-04-16T20:33:30.640Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:8c4cd3d3dbc81:0",
+      "id": "beincrypto:1bd188467bc81:0",
       "index": 0,
+      "title": "Gigante dos EUA Charles Schwab, com US$ 12 trilhões, lança negociação à vista de cripto",
+      "link": "https://br.tradingview.com/news/beincrypto:1bd188467bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-16T16:34:31.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Apr 2026 16:34:31 GMT\" class=\"apply-common-tooltip\" title=\"16 de abr. de 2026, 16:34 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Gigante dos EUA Charles Schwab, com US$ 12 trilhões, lança negociação à vista de cripto\" data-qa-id=\"news-headline-title\">Gigante dos EUA Charles Schwab, com US$ 12 trilhões, lança negociação à vista de cripto</div></div></article>"
+    },
+    {
+      "id": "beincrypto:1f12f0a1bbc81:0",
+      "index": 1,
+      "title": "Maior problema do Bitcoin no momento não é o mercado, e sim seus próprios investidores",
+      "link": "https://br.tradingview.com/news/beincrypto:1f12f0a1bbc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-16T15:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Apr 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de abr. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Maior problema do Bitcoin no momento não é o mercado, e sim seus próprios investidores\" data-qa-id=\"news-headline-title\">Maior problema do Bitcoin no momento não é o mercado, e sim seus próprios investidores</div></div></article>"
+    },
+    {
+      "id": "beincrypto:8c4cd3d3dbc81:0",
+      "index": 2,
       "title": "Ethereum em US$ 2.400 encerra disputa entre grandes investidores e smart money",
       "link": "https://br.tradingview.com/news/beincrypto:8c4cd3d3dbc81:0/",
       "source": "Beincrypto",
@@ -15,7 +37,7 @@
     },
     {
       "id": "beincrypto:0413ed0adbc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Quando o preço do Bitcoin vai atingir o fundo? Benjamin Cowen faz previsão",
       "link": "https://br.tradingview.com/news/beincrypto:0413ed0adbc81:0/",
       "source": "Beincrypto",
@@ -26,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40Z06V:0",
-      "index": 2,
+      "index": 4,
       "title": "Presidente-executivo da Circle vê \"tremenda oportunidade\" para stablecoin lastreada em iuan",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40Z06V:0/",
       "source": "Reuters",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:51fa07c79bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Analista diz que ‘grande liquidação’ do Bitcoin ainda está por vir",
       "link": "https://br.tradingview.com/news/beincrypto:51fa07c79bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:dd4fb496fbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Guerra no Irã revela novo uso do Bitcoin e muda projeções de preço",
       "link": "https://br.tradingview.com/news/beincrypto:dd4fb496fbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:51221d5debc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Bitcoin pode congelar endereços antigos devido a risco quântico: o que é o BIP-361?",
       "link": "https://br.tradingview.com/news/beincrypto:51221d5debc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:9786db20fbc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin em US$ 76 mil chama atenção de fundo nos EUA para lucrar com a alta",
       "link": "https://br.tradingview.com/news/beincrypto:9786db20fbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:30f3b5de4bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Análise XRP: preço em US$ 1,36 indica nova alta?",
       "link": "https://br.tradingview.com/news/beincrypto:30f3b5de4bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40X15C:0",
-      "index": 8,
+      "index": 10,
       "title": "Goldman Sachs registra seu primeiro ETF de bitcoin",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40X15C:0/",
       "source": "Reuters",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:d05820be3bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Ações tokenizadas da Anthropic na Jupiter indicam avaliação de US$ 850 bilhões",
       "link": "https://br.tradingview.com/news/beincrypto:d05820be3bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:35cb3619dbc81:0",
-      "index": 10,
+      "index": 12,
       "title": "XRP chega a 44 milhões de usuários no Japão e levanta dúvidas sobre alta do preço",
       "link": "https://br.tradingview.com/news/beincrypto:35cb3619dbc81:0/",
       "source": "Beincrypto",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXLM.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXLM.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCDOGE.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSHIB.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Apr 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de abr. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"XRP chega a 44 milhões de usuários no Japão e levanta dúvidas sobre alta do preço\" data-qa-id=\"news-headline-title\">XRP chega a 44 milhões de usuários no Japão e levanta dúvidas sobre alta do preço</div></div></article>"
-    },
-    {
-      "id": "beincrypto:32d473cd1bc81:0",
-      "index": 11,
-      "title": "Bitcoin ultrapassa US$ 76 mil após surpresa no índice dos EUA",
-      "link": "https://br.tradingview.com/news/beincrypto:32d473cd1bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-14T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/strategy-cad-hedged-cibc-cdr.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Apr 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de abr. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin ultrapassa US$ 76 mil após surpresa no índice dos EUA\" data-qa-id=\"news-headline-title\">Bitcoin ultrapassa US$ 76 mil após surpresa no índice dos EUA</div></div></article>"
-    },
-    {
-      "id": "beincrypto:acda7789fbc81:0",
-      "index": 12,
-      "title": "Bitcoin chega a US$ 74.500, mas 3 divergências apontam possível fim da alta",
-      "link": "https://br.tradingview.com/news/beincrypto:acda7789fbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-14T13:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Apr 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de abr. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin chega a US$ 74.500, mas 3 divergências apontam possível fim da alta\" data-qa-id=\"news-headline-title\">Bitcoin chega a US$ 74.500, mas 3 divergências apontam possível fim da alta</div></div></article>"
     }
   ]
 }
