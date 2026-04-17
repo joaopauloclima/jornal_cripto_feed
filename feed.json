@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-17T12:47:51.215Z",
+  "updated_at": "2026-04-17T15:46:19.034Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:3dd566d75bc81:0",
+      "id": "beincrypto:62d8e10cabc81:0",
       "index": 0,
+      "title": "Elon Musk impulsiona frenesi pela cripto ASTEROID e garante retorno de 500 vezes",
+      "link": "https://br.tradingview.com/news/beincrypto:62d8e10cabc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-17T13:30:41.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 17 Apr 2026 13:30:41 GMT\" class=\"apply-common-tooltip\" title=\"17 de abr. de 2026, 13:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Elon Musk impulsiona frenesi pela cripto ASTEROID e garante retorno de 500 vezes\" data-qa-id=\"news-headline-title\">Elon Musk impulsiona frenesi pela cripto ASTEROID e garante retorno de 500 vezes</div></div></article>"
+    },
+    {
+      "id": "beincrypto:3dd566d75bc81:0",
+      "index": 1,
       "title": "ETFs de XRP registram recorde de 3 meses enquanto uma queda de 14% se aproxima",
       "link": "https://br.tradingview.com/news/beincrypto:3dd566d75bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:5ef85d596bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Baleias de Bitcoin venderam mais de 36 mil BTC em menos de uma semana",
       "link": "https://br.tradingview.com/news/beincrypto:5ef85d596bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:1bd188467bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Gigante dos EUA Charles Schwab, com US$ 12 trilhões, lança negociação à vista de cripto",
       "link": "https://br.tradingview.com/news/beincrypto:1bd188467bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:1f12f0a1bbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Maior problema do Bitcoin no momento não é o mercado, e sim seus próprios investidores",
       "link": "https://br.tradingview.com/news/beincrypto:1f12f0a1bbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:8c4cd3d3dbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ethereum em US$ 2.400 encerra disputa entre grandes investidores e smart money",
       "link": "https://br.tradingview.com/news/beincrypto:8c4cd3d3dbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:0413ed0adbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Quando o preço do Bitcoin vai atingir o fundo? Benjamin Cowen faz previsão",
       "link": "https://br.tradingview.com/news/beincrypto:0413ed0adbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N40Z06V:0",
-      "index": 6,
+      "index": 7,
       "title": "Presidente-executivo da Circle vê \"tremenda oportunidade\" para stablecoin lastreada em iuan",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40Z06V:0/",
       "source": "Reuters",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:51fa07c79bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Analista diz que ‘grande liquidação’ do Bitcoin ainda está por vir",
       "link": "https://br.tradingview.com/news/beincrypto:51fa07c79bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:dd4fb496fbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Guerra no Irã revela novo uso do Bitcoin e muda projeções de preço",
       "link": "https://br.tradingview.com/news/beincrypto:dd4fb496fbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:51221d5debc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin pode congelar endereços antigos devido a risco quântico: o que é o BIP-361?",
       "link": "https://br.tradingview.com/news/beincrypto:51221d5debc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:9786db20fbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin em US$ 76 mil chama atenção de fundo nos EUA para lucrar com a alta",
       "link": "https://br.tradingview.com/news/beincrypto:9786db20fbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:30f3b5de4bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Análise XRP: preço em US$ 1,36 indica nova alta?",
       "link": "https://br.tradingview.com/news/beincrypto:30f3b5de4bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 15 Apr 2026 11:16:28 GMT\" class=\"apply-common-tooltip\" title=\"15 de abr. de 2026, 11:16 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Análise XRP: preço em US$ 1,36 indica nova alta?\" data-qa-id=\"news-headline-title\">Análise XRP: preço em US$ 1,36 indica nova alta?</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2026:newsml_L1N40X15C:0",
-      "index": 12,
-      "title": "Goldman Sachs registra seu primeiro ETF de bitcoin",
-      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40X15C:0/",
-      "source": "Reuters",
-      "published_at": "2026-04-14T20:20:49.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/golden-sachs-etf-trust-goldman.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/golden-sachs-etf-trust-goldman.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/morgan-stanley.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/grayscale.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 14 Apr 2026 20:20:49 GMT\" class=\"apply-common-tooltip\" title=\"14 de abr. de 2026, 20:20 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Goldman Sachs registra seu primeiro ETF de bitcoin\" data-qa-id=\"news-headline-title\">Goldman Sachs registra seu primeiro ETF de bitcoin</div></div></article>"
     }
   ]
 }
