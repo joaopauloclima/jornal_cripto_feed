@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-18T17:26:44.881Z",
+  "updated_at": "2026-04-18T21:11:19.649Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:f7da89ae2bc81:0",
+      "id": "beincrypto:2cab0c2d2bc81:0",
       "index": 0,
+      "title": "KelpDAO perde US$ 292 milhões em retirada de carteiras DeFi na Ethereum e na Arbitrum",
+      "link": "https://br.tradingview.com/news/beincrypto:2cab0c2d2bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-18T19:05:03.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 18 Apr 2026 19:05:03 GMT\" class=\"apply-common-tooltip\" title=\"18 de abr. de 2026, 19:05 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"KelpDAO perde US$ 292 milhões em retirada de carteiras DeFi na Ethereum e na Arbitrum\" data-qa-id=\"news-headline-title\">KelpDAO perde US$ 292 milhões em retirada de carteiras DeFi na Ethereum e na Arbitrum</div></div></article>"
+    },
+    {
+      "id": "beincrypto:f7da89ae2bc81:0",
+      "index": 1,
       "title": "Irã acusa Trump de “sete mentiras” após alta do Bitcoin e das bolsas",
       "link": "https://br.tradingview.com/news/beincrypto:f7da89ae2bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:df9bad8b4bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin pode chegar a US$ 80 mil neste fim de semana com a abertura do Estreito de Ormuz?",
       "link": "https://br.tradingview.com/news/beincrypto:df9bad8b4bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:81512b6e7bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Investidores de XRP agora têm acesso direto ao ecossistema DeFi da Solana",
       "link": "https://br.tradingview.com/news/beincrypto:81512b6e7bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N4100QJ:0",
-      "index": 3,
+      "index": 4,
       "title": "Alcoa está perto de fechar um acordo para vender instalações de fundição para mineradora de bitcoin - Bloomberg News",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4100QJ:0/",
       "source": "Reuters",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:b19a7c2c4bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Venezuela e o FMI retomam relações: impacto para usuários de Bitcoin e USDT",
       "link": "https://br.tradingview.com/news/beincrypto:b19a7c2c4bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:62d8e10cabc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Elon Musk impulsiona frenesi pela cripto ASTEROID e garante retorno de 500 vezes",
       "link": "https://br.tradingview.com/news/beincrypto:62d8e10cabc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:3dd566d75bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "ETFs de XRP registram recorde de 3 meses enquanto uma queda de 14% se aproxima",
       "link": "https://br.tradingview.com/news/beincrypto:3dd566d75bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:5ef85d596bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Baleias de Bitcoin venderam mais de 36 mil BTC em menos de uma semana",
       "link": "https://br.tradingview.com/news/beincrypto:5ef85d596bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:1bd188467bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Gigante dos EUA Charles Schwab, com US$ 12 trilhões, lança negociação à vista de cripto",
       "link": "https://br.tradingview.com/news/beincrypto:1bd188467bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:1f12f0a1bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Maior problema do Bitcoin no momento não é o mercado, e sim seus próprios investidores",
       "link": "https://br.tradingview.com/news/beincrypto:1f12f0a1bbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:8c4cd3d3dbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Ethereum em US$ 2.400 encerra disputa entre grandes investidores e smart money",
       "link": "https://br.tradingview.com/news/beincrypto:8c4cd3d3dbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:0413ed0adbc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Quando o preço do Bitcoin vai atingir o fundo? Benjamin Cowen faz previsão",
       "link": "https://br.tradingview.com/news/beincrypto:0413ed0adbc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Apr 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"16 de abr. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Quando o preço do Bitcoin vai atingir o fundo? Benjamin Cowen faz previsão\" data-qa-id=\"news-headline-title\">Quando o preço do Bitcoin vai atingir o fundo? Benjamin Cowen faz previsão</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2026:newsml_L1N40Z06V:0",
-      "index": 12,
-      "title": "Presidente-executivo da Circle vê \"tremenda oportunidade\" para stablecoin lastreada em iuan",
-      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N40Z06V:0/",
-      "source": "Reuters",
-      "published_at": "2026-04-16T06:15:21.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/circle-internet-group-inc.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/circle-internet-group-inc.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 16 Apr 2026 06:15:21 GMT\" class=\"apply-common-tooltip\" title=\"16 de abr. de 2026, 06:15 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Presidente-executivo da Circle vê &quot;tremenda oportunidade&quot; para stablecoin lastreada em iuan\" data-qa-id=\"news-headline-title\">Presidente-executivo da Circle vê \"tremenda oportunidade\" para stablecoin lastreada em iuan</div></div></article>"
     }
   ]
 }
