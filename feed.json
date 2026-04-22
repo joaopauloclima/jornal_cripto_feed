@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-22T16:19:43.801Z",
+  "updated_at": "2026-04-22T17:44:18.304Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:0394eb3e2bc81:0",
+      "id": "beincrypto:2ce240dcebc81:0",
       "index": 0,
+      "title": "Bitcoin dispara para US$ 80 mil enquanto Trump amplia cessar-fogo com o Irã",
+      "link": "https://br.tradingview.com/news/beincrypto:2ce240dcebc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-22T16:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Apr 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de abr. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin dispara para US$ 80 mil enquanto Trump amplia cessar-fogo com o Irã\" data-qa-id=\"news-headline-title\">Bitcoin dispara para US$ 80 mil enquanto Trump amplia cessar-fogo com o Irã</div></div></article>"
+    },
+    {
+      "id": "beincrypto:0394eb3e2bc81:0",
+      "index": 1,
       "title": "Justin Sun inicia disputa judicial contra a World Liberty Financial",
       "link": "https://br.tradingview.com/news/beincrypto:0394eb3e2bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:3f5a01be9bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ethereum pode chegar a US$ 250 mil: nova tese considera o Bitcoin e o ouro capital morto",
       "link": "https://br.tradingview.com/news/beincrypto:3f5a01be9bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:d514d281dbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Ação STRC da Strategy compra 10 vezes mais Bitcoin que todos os ETFs em 2026",
       "link": "https://br.tradingview.com/news/beincrypto:d514d281dbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:fcff781f3bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Rali do preço do Bitcoin esconde uma lacuna on-chain de US$ 35 mil",
       "link": "https://br.tradingview.com/news/beincrypto:fcff781f3bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N4150CU:0",
-      "index": 4,
+      "index": 5,
       "title": "Corretoras de criptomoedas se preparam para lançar contratos futuros perpétuos nos EUA antes da mudança na regulamentação",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4150CU:0/",
       "source": "Reuters",
@@ -59,7 +70,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N41503I:0",
-      "index": 5,
+      "index": 6,
       "title": "Magnata chinês das criptomoedas mira capital em Hong Kong com iniciativa de gestão de ativos em bitcoin",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41503I:0/",
       "source": "Reuters",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:445ea6dd3bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Strategy dobra desempenho do Bitcoin desde suas recentes mínimas: analistas explicam",
       "link": "https://br.tradingview.com/news/beincrypto:445ea6dd3bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:c86778405bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Tom Lee prevê inverno cripto e Bitmine lidera compra de ETH em 2026",
       "link": "https://br.tradingview.com/news/beincrypto:c86778405bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:4d2975debbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Strategy faz maior compra de Bitcoin desde 2024, preço do BTC pode ser impactado?",
       "link": "https://br.tradingview.com/news/beincrypto:4d2975debbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:afc273c8bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Solana tenta recuperação após envio de 1,32 milhão de SOL para exchanges",
       "link": "https://br.tradingview.com/news/beincrypto:afc273c8bbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N4130IV:0",
-      "index": 10,
+      "index": 11,
       "title": "Coinbase e Bybit estariam trabalhando juntas na tokenização, custódia e distribuição de ações americanas - CoinDesk",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4130IV:0/",
       "source": "Reuters",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:861898066bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Bitcoin ganha 10% mais investidores e mira US$ 90 mil",
       "link": "https://br.tradingview.com/news/beincrypto:861898066bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 20 Apr 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de abr. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin ganha 10% mais investidores e mira US$ 90 mil\" data-qa-id=\"news-headline-title\">Bitcoin ganha 10% mais investidores e mira US$ 90 mil</div></div></article>"
-    },
-    {
-      "id": "beincrypto:2cab0c2d2bc81:0",
-      "index": 12,
-      "title": "KelpDAO perde US$ 292 milhões em retirada de carteiras DeFi na Ethereum e na Arbitrum",
-      "link": "https://br.tradingview.com/news/beincrypto:2cab0c2d2bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-18T19:05:03.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 18 Apr 2026 19:05:03 GMT\" class=\"apply-common-tooltip\" title=\"18 de abr. de 2026, 19:05 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"KelpDAO perde US$ 292 milhões em retirada de carteiras DeFi na Ethereum e na Arbitrum\" data-qa-id=\"news-headline-title\">KelpDAO perde US$ 292 milhões em retirada de carteiras DeFi na Ethereum e na Arbitrum</div></div></article>"
     }
   ]
 }
