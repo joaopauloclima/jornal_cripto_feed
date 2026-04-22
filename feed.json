@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-22T09:12:19.875Z",
+  "updated_at": "2026-04-22T10:54:09.102Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2026:newsml_L1N41503I:0",
+      "id": "tag:reuters.com,2026:newsml_L1N4150CU:0",
       "index": 0,
+      "title": "Corretoras de criptomoedas se preparam para lançar contratos futuros perpétuos nos EUA antes da mudança na regulamentação",
+      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4150CU:0/",
+      "source": "Reuters",
+      "published_at": "2026-04-22T10:01:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/coinbase.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/robinhood.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Apr 2026 10:01:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de abr. de 2026, 10:01 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Corretoras de criptomoedas se preparam para lançar contratos futuros perpétuos nos EUA antes da mudança na regulamentação\" data-qa-id=\"news-headline-title\">Corretoras de criptomoedas se preparam para lançar contratos futuros perpétuos nos EUA antes da mudança na regulamentação</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2026:newsml_L1N41503I:0",
+      "index": 1,
       "title": "Magnata chinês das criptomoedas mira capital em Hong Kong com iniciativa de gestão de ativos em bitcoin",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41503I:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:445ea6dd3bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Strategy dobra desempenho do Bitcoin desde suas recentes mínimas: analistas explicam",
       "link": "https://br.tradingview.com/news/beincrypto:445ea6dd3bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:c86778405bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Tom Lee prevê inverno cripto e Bitmine lidera compra de ETH em 2026",
       "link": "https://br.tradingview.com/news/beincrypto:c86778405bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:4d2975debbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Strategy faz maior compra de Bitcoin desde 2024, preço do BTC pode ser impactado?",
       "link": "https://br.tradingview.com/news/beincrypto:4d2975debbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:afc273c8bbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Solana tenta recuperação após envio de 1,32 milhão de SOL para exchanges",
       "link": "https://br.tradingview.com/news/beincrypto:afc273c8bbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N4130IV:0",
-      "index": 5,
+      "index": 6,
       "title": "Coinbase e Bybit estariam trabalhando juntas na tokenização, custódia e distribuição de ações americanas - CoinDesk",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4130IV:0/",
       "source": "Reuters",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:861898066bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bitcoin ganha 10% mais investidores e mira US$ 90 mil",
       "link": "https://br.tradingview.com/news/beincrypto:861898066bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:2cab0c2d2bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "KelpDAO perde US$ 292 milhões em retirada de carteiras DeFi na Ethereum e na Arbitrum",
       "link": "https://br.tradingview.com/news/beincrypto:2cab0c2d2bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:f7da89ae2bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Irã acusa Trump de “sete mentiras” após alta do Bitcoin e das bolsas",
       "link": "https://br.tradingview.com/news/beincrypto:f7da89ae2bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:df9bad8b4bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitcoin pode chegar a US$ 80 mil neste fim de semana com a abertura do Estreito de Ormuz?",
       "link": "https://br.tradingview.com/news/beincrypto:df9bad8b4bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:81512b6e7bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Investidores de XRP agora têm acesso direto ao ecossistema DeFi da Solana",
       "link": "https://br.tradingview.com/news/beincrypto:81512b6e7bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N4100QJ:0",
-      "index": 11,
+      "index": 12,
       "title": "Alcoa está perto de fechar um acordo para vender instalações de fundição para mineradora de bitcoin - Bloomberg News",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N4100QJ:0/",
       "source": "Reuters",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/alcoa.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/alcoa.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 17 Apr 2026 16:52:42 GMT\" class=\"apply-common-tooltip\" title=\"17 de abr. de 2026, 16:52 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Alcoa está perto de fechar um acordo para vender instalações de fundição para mineradora de bitcoin - Bloomberg News\" data-qa-id=\"news-headline-title\">Alcoa está perto de fechar um acordo para vender instalações de fundição para mineradora de bitcoin - Bloomberg News</div></div></article>"
-    },
-    {
-      "id": "beincrypto:b19a7c2c4bc81:0",
-      "index": 12,
-      "title": "Venezuela e o FMI retomam relações: impacto para usuários de Bitcoin e USDT",
-      "link": "https://br.tradingview.com/news/beincrypto:b19a7c2c4bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-17T15:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 17 Apr 2026 15:30:00 GMT\" class=\"apply-common-tooltip\" title=\"17 de abr. de 2026, 15:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Venezuela e o FMI retomam relações: impacto para usuários de Bitcoin e USDT\" data-qa-id=\"news-headline-title\">Venezuela e o FMI retomam relações: impacto para usuários de Bitcoin e USDT</div></div></article>"
     }
   ]
 }
