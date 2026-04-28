@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-04-28T05:06:44.530Z",
+  "updated_at": "2026-04-28T12:19:19.317Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2026:newsml_L6N41A137:0",
+      "id": "beincrypto:65fa546b4bc81:0",
       "index": 0,
+      "title": "Previsão de preço da Solana: o que esperar da SOL em maio de 2026?",
+      "link": "https://br.tradingview.com/news/beincrypto:65fa546b4bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-04-28T11:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 28 Apr 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"28 de abr. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Previsão de preço da Solana: o que esperar da SOL em maio de 2026?\" data-qa-id=\"news-headline-title\">Previsão de preço da Solana: o que esperar da SOL em maio de 2026?</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2026:newsml_L6N41A137:0",
+      "index": 1,
       "title": "B3 começa a negociar contratos de eventos referenciados em Ibovespa, dólar e bitcoin",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L6N41A137:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:7a8d5eb90bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Alavancagem do Bitcoin aumenta enquanto preço permanece abaixo de US$ 80 mil",
       "link": "https://br.tradingview.com/news/beincrypto:7a8d5eb90bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:cc761b7c9bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Trump coins despencam após tiroteio em jantar",
       "link": "https://br.tradingview.com/news/beincrypto:cc761b7c9bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:266eb9349bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "XRP se prepara para rompimento com padrão de xícara e alça apontando para US$ 1,70",
       "link": "https://br.tradingview.com/news/beincrypto:266eb9349bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:29e729546bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "A Tron de Justin Sun está comprando seu próprio token e ele diz que não vai parar",
       "link": "https://br.tradingview.com/news/beincrypto:29e729546bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:8a74e7ea7bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin e Ethereum: vencimento mensal de opções de US$ 9,5 bilhões testa o mercado",
       "link": "https://br.tradingview.com/news/beincrypto:8a74e7ea7bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:720bcda3dbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Dominância do Bitcoin dispara para 60,66% e enterra expectativas de altseason",
       "link": "https://br.tradingview.com/news/beincrypto:720bcda3dbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:ff58e875ebc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Os grandes investidores de Bitcoin são oportunistas? Dados on-chain revelam a verdade",
       "link": "https://br.tradingview.com/news/beincrypto:ff58e875ebc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:87bdf371dbc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Meta de US$ 80 mil do Bitcoin segue distante em meio a novas tensões entre EUA e China",
       "link": "https://br.tradingview.com/news/beincrypto:87bdf371dbc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:70351d09bbc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Bitmine intensifica acumulação rumo a 5 milhões de Ethereum",
       "link": "https://br.tradingview.com/news/beincrypto:70351d09bbc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:73b629278bc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Tesla mantém 11.509 BTC intactos enquanto injeta US$ 2 bilhões na SpaceX",
       "link": "https://br.tradingview.com/news/beincrypto:73b629278bc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:db8b8c427bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Alerta sobre o preço do Ethereum é emitido novamente após queda de 9%",
       "link": "https://br.tradingview.com/news/beincrypto:db8b8c427bc81:0/",
       "source": "Beincrypto",
@@ -133,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Apr 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"23 de abr. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Alerta sobre o preço do Ethereum é emitido novamente após queda de 9%\" data-qa-id=\"news-headline-title\">Alerta sobre o preço do Ethereum é emitido novamente após queda de 9%</div></div></article>"
-    },
-    {
-      "id": "beincrypto:fd2a1ef71bc81:0",
-      "index": 12,
-      "title": "Ripple anuncia evento histórico em Las Vegas com união de Swell e Apex para o XRP",
-      "link": "https://br.tradingview.com/news/beincrypto:fd2a1ef71bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-04-23T10:50:40.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 23 Apr 2026 10:50:40 GMT\" class=\"apply-common-tooltip\" title=\"23 de abr. de 2026, 10:50 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ripple anuncia evento histórico em Las Vegas com união de Swell e Apex para o XRP\" data-qa-id=\"news-headline-title\">Ripple anuncia evento histórico em Las Vegas com união de Swell e Apex para o XRP</div></div></article>"
-    },
-    {
-      "id": "afp:5c93c3bbcd98a:0",
-      "index": 13,
-      "title": "Ex-aliado de Trump processa iniciativa cripto da família presidencial",
-      "link": "https://br.tradingview.com/news/afp:5c93c3bbcd98a:0/",
-      "source": "AFP",
-      "published_at": "2026-04-22T22:38:15.000Z",
-      "snippet": "",
-      "image": null,
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 22 Apr 2026 22:38:15 GMT\" class=\"apply-common-tooltip\" title=\"22 de abr. de 2026, 22:38 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">AFP</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ex-aliado de Trump processa iniciativa cripto da família presidencial\" data-qa-id=\"news-headline-title\">Ex-aliado de Trump processa iniciativa cripto da família presidencial</div></div></article>"
     }
   ]
 }
