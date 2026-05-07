@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-05-06T22:47:56.611Z",
+  "updated_at": "2026-05-07T01:30:32.258Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "tag:reuters.com,2026:newsml_L1N41J1NU:0",
+      "id": "beincrypto:cf173e899bc81:0",
       "index": 0,
+      "title": "Casa Branca diz que anúncio sobre reserva de Bitcoin será feito nas próximas semanas",
+      "link": "https://br.tradingview.com/news/beincrypto:cf173e899bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-05-06T22:43:09.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 06 May 2026 22:43:09 GMT\" class=\"apply-common-tooltip\" title=\"6 de mai. de 2026, 22:43 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Casa Branca diz que anúncio sobre reserva de Bitcoin será feito nas próximas semanas\" data-qa-id=\"news-headline-title\">Casa Branca diz que anúncio sobre reserva de Bitcoin será feito nas próximas semanas</div></div></article>"
+    },
+    {
+      "id": "tag:reuters.com,2026:newsml_L1N41J1NU:0",
+      "index": 1,
       "title": "A American Bitcoin, apoiada pelos irmãos Trump, reduz as perdas com receita de mineração mais forte",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41J1NU:0/",
       "source": "Reuters",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:6c113a18abc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ações da Strategy caem enquanto empresa avalia possível venda de Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:6c113a18abc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:9713307a8bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Por que a alta de 20% do Bitcoin indica viés de baixa nos fundamentos?",
       "link": "https://br.tradingview.com/news/beincrypto:9713307a8bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N41I1HT:0",
-      "index": 3,
+      "index": 4,
       "title": "Saylor's Strategy registra prejuízo trimestral maior devido à queda do bitcoin",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41I1HT:0/",
       "source": "Reuters",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:a587346f6bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin a US$ 80 mil divide analistas entre cenário otimista e possível queda",
       "link": "https://br.tradingview.com/news/beincrypto:a587346f6bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:2858fb633bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Strategy registra prejuízo de US$ 12,5 bilhões no primeiro trimestre de 2026 com queda do Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:2858fb633bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:a8b87717ebc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Cripto é oportunidade única de enriquecimento, diz David Schwartz ex CTO da Ripple",
       "link": "https://br.tradingview.com/news/beincrypto:a8b87717ebc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:277ff932ebc81:0",
-      "index": 7,
+      "index": 8,
       "title": "A primavera cripto começou oficialmente, diz Tom Lee, da Bitmine",
       "link": "https://br.tradingview.com/news/beincrypto:277ff932ebc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:88ae59058bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Volatilidade da Solana cai ao menor nível em anos com avanço institucional",
       "link": "https://br.tradingview.com/news/beincrypto:88ae59058bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N41I008:0",
-      "index": 9,
+      "index": 10,
       "title": "Associações bancárias afirmam que o acordo de recompensas para stablecoins \"fica aquém\" - The Information",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41I008:0/",
       "source": "Reuters",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:7728d3fffbc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Pânico quântico não derrubou o Bitcoin: Grayscale revela o verdadeiro motivo",
       "link": "https://br.tradingview.com/news/beincrypto:7728d3fffbc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:aa3a7fbaabc81:0",
-      "index": 11,
+      "index": 12,
       "title": "ETFs de XRP encerram sequência de 3 semanas positivas e fluxos semanais ficam negativos",
       "link": "https://br.tradingview.com/news/beincrypto:aa3a7fbaabc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 04 May 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"4 de mai. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"ETFs de XRP encerram sequência de 3 semanas positivas e fluxos semanais ficam negativos\" data-qa-id=\"news-headline-title\">ETFs de XRP encerram sequência de 3 semanas positivas e fluxos semanais ficam negativos</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2026:newsml_L1N41F003:0",
-      "index": 12,
-      "title": "Coinbase afirma ter chegado a um acordo sobre uma disposição fundamental do projeto de lei de criptomoedas",
-      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41F003:0/",
-      "source": "Reuters",
-      "published_at": "2026-05-02T00:56:36.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/coinbase.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/coinbase.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sat, 02 May 2026 00:56:36 GMT\" class=\"apply-common-tooltip\" title=\"2 de mai. de 2026, 00:56 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Coinbase afirma ter chegado a um acordo sobre uma disposição fundamental do projeto de lei de criptomoedas\" data-qa-id=\"news-headline-title\">Coinbase afirma ter chegado a um acordo sobre uma disposição fundamental do projeto de lei de criptomoedas</div></div></article>"
     }
   ]
 }
