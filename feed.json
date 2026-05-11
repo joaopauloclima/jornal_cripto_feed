@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-05-11T17:55:22.255Z",
+  "updated_at": "2026-05-11T19:44:54.112Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:039cfbdbfbc81:0",
+      "id": "beincrypto:61a42ac03bc81:0",
       "index": 0,
+      "title": "US$ 142 milhões em novas posições compradas de XRP enfrentam formação de duplo topo",
+      "link": "https://br.tradingview.com/news/beincrypto:61a42ac03bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-05-11T18:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Mon, 11 May 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"11 de mai. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"US$ 142 milhões em novas posições compradas de XRP enfrentam formação de duplo topo\" data-qa-id=\"news-headline-title\">US$ 142 milhões em novas posições compradas de XRP enfrentam formação de duplo topo</div></div></article>"
+    },
+    {
+      "id": "beincrypto:039cfbdbfbc81:0",
+      "index": 1,
       "title": "Ethereum enfrenta pressão após transferência de US$ 1,35 bilhão em ETH para Binance",
       "link": "https://br.tradingview.com/news/beincrypto:039cfbdbfbc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:9a51a0511bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Bitcoin trava nos US$ 82 mil com ausência de compradores dos EUA desde outubro",
       "link": "https://br.tradingview.com/news/beincrypto:9a51a0511bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:32810f146bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 11/05/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:32810f146bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:964af50b2bc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Strategy revela que vai vender Bitcoin sob estas condições",
       "link": "https://br.tradingview.com/news/beincrypto:964af50b2bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:3fd34845ebc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Bitcoin perde 245 mil investidores em cinco dias: a maior queda registrada desde 2024",
       "link": "https://br.tradingview.com/news/beincrypto:3fd34845ebc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:117d39808bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Quão expostos estão o Ethereum e a Solana a uma potencial ameaça quântica?",
       "link": "https://br.tradingview.com/news/beincrypto:117d39808bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:53efde749bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ripple, JPMorgan e Mastercard realizam primeiro acordo de tesouraria tokenizada",
       "link": "https://br.tradingview.com/news/beincrypto:53efde749bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N41K0WH:0",
-      "index": 7,
+      "index": 8,
       "title": "Kalshi foi avaliada em US$ 22 bilhões em sua mais recente rodada de financiamento",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41K0WH:0/",
       "source": "Reuters",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:5920ae5d2bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 07/05/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:5920ae5d2bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:cf173e899bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Casa Branca diz que anúncio sobre reserva de Bitcoin será feito nas próximas semanas",
       "link": "https://br.tradingview.com/news/beincrypto:cf173e899bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N41J1NU:0",
-      "index": 10,
+      "index": 11,
       "title": "A American Bitcoin, apoiada pelos irmãos Trump, reduz as perdas com receita de mineração mais forte",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41J1NU:0/",
       "source": "Reuters",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:6c113a18abc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ações da Strategy caem enquanto empresa avalia possível venda de Bitcoin",
       "link": "https://br.tradingview.com/news/beincrypto:6c113a18abc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 06 May 2026 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de mai. de 2026, 11:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ações da Strategy caem enquanto empresa avalia possível venda de Bitcoin\" data-qa-id=\"news-headline-title\">Ações da Strategy caem enquanto empresa avalia possível venda de Bitcoin</div></div></article>"
-    },
-    {
-      "id": "beincrypto:9713307a8bc81:0",
-      "index": 12,
-      "title": "Por que a alta de 20% do Bitcoin indica viés de baixa nos fundamentos?",
-      "link": "https://br.tradingview.com/news/beincrypto:9713307a8bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-06T11:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 06 May 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"6 de mai. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Por que a alta de 20% do Bitcoin indica viés de baixa nos fundamentos?\" data-qa-id=\"news-headline-title\">Por que a alta de 20% do Bitcoin indica viés de baixa nos fundamentos?</div></div></article>"
     }
   ]
 }
