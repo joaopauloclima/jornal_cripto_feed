@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-05-12T18:28:42.502Z",
+  "updated_at": "2026-05-12T22:59:57.875Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:bf248b6f5bc81:0",
+      "id": "beincrypto:0cf7a9739bc81:0",
       "index": 0,
+      "title": "Arthur Hayes alerta que IA está alimentando a maior bolha de liquidez da história",
+      "link": "https://br.tradingview.com/news/beincrypto:0cf7a9739bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-05-12T20:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 12 May 2026 20:00:00 GMT\" class=\"apply-common-tooltip\" title=\"12 de mai. de 2026, 20:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Arthur Hayes alerta que IA está alimentando a maior bolha de liquidez da história\" data-qa-id=\"news-headline-title\">Arthur Hayes alerta que IA está alimentando a maior bolha de liquidez da história</div></div></article>"
+    },
+    {
+      "id": "beincrypto:bf248b6f5bc81:0",
+      "index": 1,
       "title": "CPI elevado abala apostas de corte do Fed ao superar previsões de inflação",
       "link": "https://br.tradingview.com/news/beincrypto:bf248b6f5bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:c2baa2326bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Ex-CTO da Ripple, David Schwartz, revela qual cripto lhe trouxe mais lucro",
       "link": "https://br.tradingview.com/news/beincrypto:c2baa2326bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:fc7f97dedbc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Baleias apostam US$ 832 milhões na queda do preço do Ethereum, veja o motivo",
       "link": "https://br.tradingview.com/news/beincrypto:fc7f97dedbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:7d1cebcabbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin recebe sinal de alta não visto desde 2023: o que isso significa para o preço?",
       "link": "https://br.tradingview.com/news/beincrypto:7d1cebcabbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:76e8c53e9bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Autor de “Pai Rico, Pai Pobre” alerta para crash global e revela principal investimento",
       "link": "https://br.tradingview.com/news/beincrypto:76e8c53e9bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:61a42ac03bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "US$ 142 milhões em novas posições compradas de XRP enfrentam formação de duplo topo",
       "link": "https://br.tradingview.com/news/beincrypto:61a42ac03bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:039cfbdbfbc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Ethereum enfrenta pressão após transferência de US$ 1,35 bilhão em ETH para Binance",
       "link": "https://br.tradingview.com/news/beincrypto:039cfbdbfbc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:9a51a0511bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Bitcoin trava nos US$ 82 mil com ausência de compradores dos EUA desde outubro",
       "link": "https://br.tradingview.com/news/beincrypto:9a51a0511bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:32810f146bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Por que o mercado de criptomoedas está em baixa hoje 11/05/2026?",
       "link": "https://br.tradingview.com/news/beincrypto:32810f146bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:964af50b2bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Strategy revela que vai vender Bitcoin sob estas condições",
       "link": "https://br.tradingview.com/news/beincrypto:964af50b2bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:3fd34845ebc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Bitcoin perde 245 mil investidores em cinco dias: a maior queda registrada desde 2024",
       "link": "https://br.tradingview.com/news/beincrypto:3fd34845ebc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:117d39808bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Quão expostos estão o Ethereum e a Solana a uma potencial ameaça quântica?",
       "link": "https://br.tradingview.com/news/beincrypto:117d39808bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 07 May 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de mai. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Quão expostos estão o Ethereum e a Solana a uma potencial ameaça quântica?\" data-qa-id=\"news-headline-title\">Quão expostos estão o Ethereum e a Solana a uma potencial ameaça quântica?</div></div></article>"
-    },
-    {
-      "id": "beincrypto:53efde749bc81:0",
-      "index": 12,
-      "title": "Ripple, JPMorgan e Mastercard realizam primeiro acordo de tesouraria tokenizada",
-      "link": "https://br.tradingview.com/news/beincrypto:53efde749bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-07T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-PsAlMQQF xxxsmall-PsAlMQQF letter-PsAlMQQF\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 07 May 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"7 de mai. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ripple, JPMorgan e Mastercard realizam primeiro acordo de tesouraria tokenizada\" data-qa-id=\"news-headline-title\">Ripple, JPMorgan e Mastercard realizam primeiro acordo de tesouraria tokenizada</div></div></article>"
     }
   ]
 }
