@@ -5,7 +5,7 @@ const puppeteer = require('puppeteer');
 
 const TARGET_URL = 'https://br.tradingview.com/news-flow/?market=crypto';
 const EXISTING_FEED_URL = process.env.EXISTING_FEED_URL || ''; // opcional
-const MAX_ITEMS = 60;
+const MAX_ITEMS = 20;
 const WAIT_TIMEOUT = 20000;
 
 function idFromDataId(dataId) {
