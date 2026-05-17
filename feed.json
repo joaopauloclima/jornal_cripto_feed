@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-05-17T12:07:54.220Z",
+  "updated_at": "2026-05-17T14:17:44.349Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:650f103e3bc81:0",
+      "id": "beincrypto:985937627bc81:0",
       "index": 0,
+      "title": "Fundador da Cardano alerta que ameaça quântica à cripto pode chegar antes de 2033",
+      "link": "https://br.tradingview.com/news/beincrypto:985937627bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-05-17T11:44:19.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCADA.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDT.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Sun, 17 May 2026 11:44:19 GMT\" class=\"apply-common-tooltip\" title=\"17 de mai. de 2026, 11:44 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Fundador da Cardano alerta que ameaça quântica à cripto pode chegar antes de 2033\" data-qa-id=\"news-headline-title\">Fundador da Cardano alerta que ameaça quântica à cripto pode chegar antes de 2033</div></div></article>"
+    },
+    {
+      "id": "beincrypto:650f103e3bc81:0",
+      "index": 1,
       "title": "Drake faz referência ao Bitcoin em seu novo álbum “Iceman”",
       "link": "https://br.tradingview.com/news/beincrypto:650f103e3bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:1f14f6ec9bc81:0",
-      "index": 1,
+      "index": 2,
       "title": "Investidores de Cardano atingem recorde histórico enquanto preço de ADA cai",
       "link": "https://br.tradingview.com/news/beincrypto:1f14f6ec9bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:ec94d7d57bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Opções de Bitcoin e Ethereum no valor de US$ 2,6 bilhões vencem hoje: o que esperar?",
       "link": "https://br.tradingview.com/news/beincrypto:ec94d7d57bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N41S03R:0",
-      "index": 3,
+      "index": 4,
       "title": "Negócios Britânicos - 15 de maio",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41S03R:0/",
       "source": "Reuters",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:2949b3841bc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Ação da Gemini sobe 15% após lucro do 1º trimestre de 2026 mostrar aumento de 42%",
       "link": "https://br.tradingview.com/news/beincrypto:2949b3841bc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:1d8ad635cbc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Metaplanet registra prejuízo de US$ 725 milhões no primeiro trimestre",
       "link": "https://br.tradingview.com/news/beincrypto:1d8ad635cbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:375a1bdf1bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Bears ou compradores? Solana enfrenta forte defesa após queda de 21%",
       "link": "https://br.tradingview.com/news/beincrypto:375a1bdf1bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:e544db37dbc81:0",
-      "index": 7,
+      "index": 8,
       "title": "XRP aposta em fluxo institucional para impulsionar alta de 12% no preço",
       "link": "https://br.tradingview.com/news/beincrypto:e544db37dbc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:bc4b969debc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Bitcoin cai abaixo de US$ 80 mil, mas 3 sinais de alerta apareceram antes",
       "link": "https://br.tradingview.com/news/beincrypto:bc4b969debc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:6095746a6bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "ETFs de Bitcoin registram maior saída em mais de 3 meses",
       "link": "https://br.tradingview.com/news/beincrypto:6095746a6bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "beincrypto:75bdde0fabc81:0",
-      "index": 10,
+      "index": 11,
       "title": "Dogecoin supera Bitcoin, Ethereum e XRP no mercado futuro: o que esperar da DOGE?",
       "link": "https://br.tradingview.com/news/beincrypto:75bdde0fabc81:0/",
       "source": "Beincrypto",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:337fc1023bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Arthur Hayes e analista que previu Bitcoin perto de US$ 100 mil recomendam compra na queda",
       "link": "https://br.tradingview.com/news/beincrypto:337fc1023bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 13 May 2026 19:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de mai. de 2026, 19:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Arthur Hayes e analista que previu Bitcoin perto de US$ 100 mil recomendam compra na queda\" data-qa-id=\"news-headline-title\">Arthur Hayes e analista que previu Bitcoin perto de US$ 100 mil recomendam compra na queda</div></div></article>"
-    },
-    {
-      "id": "beincrypto:a1dae27adbc81:0",
-      "index": 12,
-      "title": "Bitcoin vs XRP: CTO da Ripple revela a falha fatal de incentivo no BTC",
-      "link": "https://br.tradingview.com/news/beincrypto:a1dae27adbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-13T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 13 May 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"13 de mai. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin vs XRP: CTO da Ripple revela a falha fatal de incentivo no BTC\" data-qa-id=\"news-headline-title\">Bitcoin vs XRP: CTO da Ripple revela a falha fatal de incentivo no BTC</div></div></article>"
     }
   ]
 }
