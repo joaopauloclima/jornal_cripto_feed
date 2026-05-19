@@ -1,10 +1,21 @@
 {
-  "updated_at": "2026-05-19T08:22:23.352Z",
+  "updated_at": "2026-05-19T11:50:28.148Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:9197d0e47bc81:0",
+      "id": "beincrypto:e57c03f0ebc81:0",
       "index": 0,
+      "title": "Queda do Bitcoin abaixo de US$ 77 mil esconde três sinais de alta",
+      "link": "https://br.tradingview.com/news/beincrypto:e57c03f0ebc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-05-19T11:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 19 May 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mai. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Queda do Bitcoin abaixo de US$ 77 mil esconde três sinais de alta\" data-qa-id=\"news-headline-title\">Queda do Bitcoin abaixo de US$ 77 mil esconde três sinais de alta</div></div></article>"
+    },
+    {
+      "id": "beincrypto:9197d0e47bc81:0",
+      "index": 1,
       "title": "Goldman Sachs vende XRP e Solana e reduz exposição ao Ethereum em 70%",
       "link": "https://br.tradingview.com/news/beincrypto:9197d0e47bc81:0/",
       "source": "Beincrypto",
@@ -15,7 +26,7 @@
     },
     {
       "id": "beincrypto:2910e3a4bbc81:0",
-      "index": 1,
+      "index": 2,
       "title": "O que está puxando o Ethereum para baixo? Tom Lee, da BitMine, tem uma resposta",
       "link": "https://br.tradingview.com/news/beincrypto:2910e3a4bbc81:0/",
       "source": "Beincrypto",
@@ -26,7 +37,7 @@
     },
     {
       "id": "beincrypto:3823e9b94bc81:0",
-      "index": 2,
+      "index": 3,
       "title": "Peter Schiff ironiza comparação de Michael Saylor entre Bitcoin e arranha céu",
       "link": "https://br.tradingview.com/news/beincrypto:3823e9b94bc81:0/",
       "source": "Beincrypto",
@@ -37,7 +48,7 @@
     },
     {
       "id": "beincrypto:1ef49da5cbc81:0",
-      "index": 3,
+      "index": 4,
       "title": "Bitcoin enfrenta obstáculos rumo aos US$ 100 mil com alta enfraquecida",
       "link": "https://br.tradingview.com/news/beincrypto:1ef49da5cbc81:0/",
       "source": "Beincrypto",
@@ -48,7 +59,7 @@
     },
     {
       "id": "beincrypto:275d80adfbc81:0",
-      "index": 4,
+      "index": 5,
       "title": "Irã lança seguro em Bitcoin para transporte marítimo no Estreito de Ormuz",
       "link": "https://br.tradingview.com/news/beincrypto:275d80adfbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +70,7 @@
     },
     {
       "id": "beincrypto:74b722108bc81:0",
-      "index": 5,
+      "index": 6,
       "title": "Bitcoin Depot pede falência em meio à pressão sobre ATMs de cripto",
       "link": "https://br.tradingview.com/news/beincrypto:74b722108bc81:0/",
       "source": "Beincrypto",
@@ -70,7 +81,7 @@
     },
     {
       "id": "beincrypto:985937627bc81:0",
-      "index": 6,
+      "index": 7,
       "title": "Fundador da Cardano alerta que ameaça quântica à cripto pode chegar antes de 2033",
       "link": "https://br.tradingview.com/news/beincrypto:985937627bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +92,7 @@
     },
     {
       "id": "beincrypto:650f103e3bc81:0",
-      "index": 7,
+      "index": 8,
       "title": "Drake faz referência ao Bitcoin em seu novo álbum “Iceman”",
       "link": "https://br.tradingview.com/news/beincrypto:650f103e3bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +103,7 @@
     },
     {
       "id": "beincrypto:1f14f6ec9bc81:0",
-      "index": 8,
+      "index": 9,
       "title": "Investidores de Cardano atingem recorde histórico enquanto preço de ADA cai",
       "link": "https://br.tradingview.com/news/beincrypto:1f14f6ec9bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +114,7 @@
     },
     {
       "id": "beincrypto:ec94d7d57bc81:0",
-      "index": 9,
+      "index": 10,
       "title": "Opções de Bitcoin e Ethereum no valor de US$ 2,6 bilhões vencem hoje: o que esperar?",
       "link": "https://br.tradingview.com/news/beincrypto:ec94d7d57bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +125,7 @@
     },
     {
       "id": "tag:reuters.com,2026:newsml_L1N41S03R:0",
-      "index": 10,
+      "index": 11,
       "title": "Negócios Britânicos - 15 de maio",
       "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41S03R:0/",
       "source": "Reuters",
@@ -125,7 +136,7 @@
     },
     {
       "id": "beincrypto:2949b3841bc81:0",
-      "index": 11,
+      "index": 12,
       "title": "Ação da Gemini sobe 15% após lucro do 1º trimestre de 2026 mostrar aumento de 42%",
       "link": "https://br.tradingview.com/news/beincrypto:2949b3841bc81:0/",
       "source": "Beincrypto",
@@ -133,17 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 14 May 2026 21:08:01 GMT\" class=\"apply-common-tooltip\" title=\"14 de mai. de 2026, 21:08 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ação da Gemini sobe 15% após lucro do 1º trimestre de 2026 mostrar aumento de 42%\" data-qa-id=\"news-headline-title\">Ação da Gemini sobe 15% após lucro do 1º trimestre de 2026 mostrar aumento de 42%</div></div></article>"
-    },
-    {
-      "id": "beincrypto:1d8ad635cbc81:0",
-      "index": 12,
-      "title": "Metaplanet registra prejuízo de US$ 725 milhões no primeiro trimestre",
-      "link": "https://br.tradingview.com/news/beincrypto:1d8ad635cbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-14T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 14 May 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"14 de mai. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Metaplanet registra prejuízo de US$ 725 milhões no primeiro trimestre\" data-qa-id=\"news-headline-title\">Metaplanet registra prejuízo de US$ 725 milhões no primeiro trimestre</div></div></article>"
     }
   ]
 }
