@@ -1,10 +1,32 @@
 {
-  "updated_at": "2026-05-19T11:50:28.148Z",
+  "updated_at": "2026-05-19T15:45:10.964Z",
   "source": "TradingView News Flow - crypto",
   "items": [
     {
-      "id": "beincrypto:e57c03f0ebc81:0",
+      "id": "beincrypto:f6bcdeee6bc81:0",
       "index": 0,
+      "title": "Ex-CTO da Ripple fala sobre memecoins como investimento",
+      "link": "https://br.tradingview.com/news/beincrypto:f6bcdeee6bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-05-19T13:00:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 19 May 2026 13:00:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mai. de 2026, 13:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ex-CTO da Ripple fala sobre memecoins como investimento\" data-qa-id=\"news-headline-title\">Ex-CTO da Ripple fala sobre memecoins como investimento</div></div></article>"
+    },
+    {
+      "id": "beincrypto:9f825bd22bc81:0",
+      "index": 1,
+      "title": "Economia de agentes de IA da Solana deixa fase experimental e mostra resultados, diz Messari",
+      "link": "https://br.tradingview.com/news/beincrypto:9f825bd22bc81:0/",
+      "source": "Beincrypto",
+      "published_at": "2026-05-19T11:30:00.000Z",
+      "snippet": "",
+      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
+      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Tue, 19 May 2026 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"19 de mai. de 2026, 11:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Economia de agentes de IA da Solana deixa fase experimental e mostra resultados, diz Messari\" data-qa-id=\"news-headline-title\">Economia de agentes de IA da Solana deixa fase experimental e mostra resultados, diz Messari</div></div></article>"
+    },
+    {
+      "id": "beincrypto:e57c03f0ebc81:0",
+      "index": 2,
       "title": "Queda do Bitcoin abaixo de US$ 77 mil esconde três sinais de alta",
       "link": "https://br.tradingview.com/news/beincrypto:e57c03f0ebc81:0/",
       "source": "Beincrypto",
@@ -15,7 +37,7 @@
     },
     {
       "id": "beincrypto:9197d0e47bc81:0",
-      "index": 1,
+      "index": 3,
       "title": "Goldman Sachs vende XRP e Solana e reduz exposição ao Ethereum em 70%",
       "link": "https://br.tradingview.com/news/beincrypto:9197d0e47bc81:0/",
       "source": "Beincrypto",
@@ -26,7 +48,7 @@
     },
     {
       "id": "beincrypto:2910e3a4bbc81:0",
-      "index": 2,
+      "index": 4,
       "title": "O que está puxando o Ethereum para baixo? Tom Lee, da BitMine, tem uma resposta",
       "link": "https://br.tradingview.com/news/beincrypto:2910e3a4bbc81:0/",
       "source": "Beincrypto",
@@ -37,7 +59,7 @@
     },
     {
       "id": "beincrypto:3823e9b94bc81:0",
-      "index": 3,
+      "index": 5,
       "title": "Peter Schiff ironiza comparação de Michael Saylor entre Bitcoin e arranha céu",
       "link": "https://br.tradingview.com/news/beincrypto:3823e9b94bc81:0/",
       "source": "Beincrypto",
@@ -48,7 +70,7 @@
     },
     {
       "id": "beincrypto:1ef49da5cbc81:0",
-      "index": 4,
+      "index": 6,
       "title": "Bitcoin enfrenta obstáculos rumo aos US$ 100 mil com alta enfraquecida",
       "link": "https://br.tradingview.com/news/beincrypto:1ef49da5cbc81:0/",
       "source": "Beincrypto",
@@ -59,7 +81,7 @@
     },
     {
       "id": "beincrypto:275d80adfbc81:0",
-      "index": 5,
+      "index": 7,
       "title": "Irã lança seguro em Bitcoin para transporte marítimo no Estreito de Ormuz",
       "link": "https://br.tradingview.com/news/beincrypto:275d80adfbc81:0/",
       "source": "Beincrypto",
@@ -70,7 +92,7 @@
     },
     {
       "id": "beincrypto:74b722108bc81:0",
-      "index": 6,
+      "index": 8,
       "title": "Bitcoin Depot pede falência em meio à pressão sobre ATMs de cripto",
       "link": "https://br.tradingview.com/news/beincrypto:74b722108bc81:0/",
       "source": "Beincrypto",
@@ -81,7 +103,7 @@
     },
     {
       "id": "beincrypto:985937627bc81:0",
-      "index": 7,
+      "index": 9,
       "title": "Fundador da Cardano alerta que ameaça quântica à cripto pode chegar antes de 2033",
       "link": "https://br.tradingview.com/news/beincrypto:985937627bc81:0/",
       "source": "Beincrypto",
@@ -92,7 +114,7 @@
     },
     {
       "id": "beincrypto:650f103e3bc81:0",
-      "index": 8,
+      "index": 10,
       "title": "Drake faz referência ao Bitcoin em seu novo álbum “Iceman”",
       "link": "https://br.tradingview.com/news/beincrypto:650f103e3bc81:0/",
       "source": "Beincrypto",
@@ -103,7 +125,7 @@
     },
     {
       "id": "beincrypto:1f14f6ec9bc81:0",
-      "index": 9,
+      "index": 11,
       "title": "Investidores de Cardano atingem recorde histórico enquanto preço de ADA cai",
       "link": "https://br.tradingview.com/news/beincrypto:1f14f6ec9bc81:0/",
       "source": "Beincrypto",
@@ -114,7 +136,7 @@
     },
     {
       "id": "beincrypto:ec94d7d57bc81:0",
-      "index": 10,
+      "index": 12,
       "title": "Opções de Bitcoin e Ethereum no valor de US$ 2,6 bilhões vencem hoje: o que esperar?",
       "link": "https://br.tradingview.com/news/beincrypto:ec94d7d57bc81:0/",
       "source": "Beincrypto",
@@ -122,28 +144,6 @@
       "snippet": "",
       "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
       "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 15 May 2026 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"15 de mai. de 2026, 12:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Opções de Bitcoin e Ethereum no valor de US$ 2,6 bilhões vencem hoje: o que esperar?\" data-qa-id=\"news-headline-title\">Opções de Bitcoin e Ethereum no valor de US$ 2,6 bilhões vencem hoje: o que esperar?</div></div></article>"
-    },
-    {
-      "id": "tag:reuters.com,2026:newsml_L1N41S03R:0",
-      "index": 11,
-      "title": "Negócios Britânicos - 15 de maio",
-      "link": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N41S03R:0/",
-      "source": "Reuters",
-      "published_at": "2026-05-15T02:28:33.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/tate-and-lyle-plc-ord-25p.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/tate-and-lyle-plc-ord-25p.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/ingredion.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/lloyds.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/itv.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 15 May 2026 02:28:33 GMT\" class=\"apply-common-tooltip\" title=\"15 de mai. de 2026, 02:28 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Reuters</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Negócios Britânicos - 15 de maio\" data-qa-id=\"news-headline-title\">Negócios Britânicos - 15 de maio</div></div></article>"
-    },
-    {
-      "id": "beincrypto:2949b3841bc81:0",
-      "index": 12,
-      "title": "Ação da Gemini sobe 15% após lucro do 1º trimestre de 2026 mostrar aumento de 42%",
-      "link": "https://br.tradingview.com/news/beincrypto:2949b3841bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-14T21:08:01.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 14 May 2026 21:08:01 GMT\" class=\"apply-common-tooltip\" title=\"14 de mai. de 2026, 21:08 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ação da Gemini sobe 15% após lucro do 1º trimestre de 2026 mostrar aumento de 42%\" data-qa-id=\"news-headline-title\">Ação da Gemini sobe 15% após lucro do 1º trimestre de 2026 mostrar aumento de 42%</div></div></article>"
     }
   ]
 }
