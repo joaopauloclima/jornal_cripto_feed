@@ -1,149 +1,104 @@
 {
-  "updated_at": "2026-05-23T11:52:18.618Z",
-  "source": "TradingView News Flow - crypto",
+  "generated_at": "2026-05-23T16:26:51.691Z",
+  "total": 14,
   "items": [
     {
-      "id": "beincrypto:8572619c8bc81:0",
-      "index": 0,
-      "title": "XRP enfrenta aumento de críticas após queda de 26% no acumulado do ano",
-      "link": "https://br.tradingview.com/news/beincrypto:8572619c8bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-22T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCXRP.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 22 May 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de mai. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"XRP enfrenta aumento de críticas após queda de 26% no acumulado do ano\" data-qa-id=\"news-headline-title\">XRP enfrenta aumento de críticas após queda de 26% no acumulado do ano</div></div></article>"
+      "id": "93ceff129a1ae5c34b41f9c7b111bc244438381a7f9666a82cebd993451f53a0",
+      "title": "NewsBTCWhat The Bitcoin Transaction Volume Crashing Could Do To The Price",
+      "url": "https://www.tradingview.com/news/newsbtc:a8059affa094b:0-what-the-bitcoin-transaction-volume-crashing-could-do-to-the-price/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:c36a8082cbc81:0",
-      "index": 1,
-      "title": "Bitcoin cai abaixo de US$ 77 mil após fala do Fed sobre juros",
-      "link": "https://br.tradingview.com/news/beincrypto:c36a8082cbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-22T17:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 22 May 2026 17:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de mai. de 2026, 17:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin cai abaixo de US$ 77 mil após fala do Fed sobre juros\" data-qa-id=\"news-headline-title\">Bitcoin cai abaixo de US$ 77 mil após fala do Fed sobre juros</div></div></article>"
+      "id": "153aeee2def60b335cccbc585197aca575d5b5bb5d51d145af385f2542d25926",
+      "title": "StocktwitsSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/stocktwits:52113e936094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:5cfb5db7fbc81:0",
-      "index": 2,
-      "title": "Pesquisador propõe plano de US$ 1 bilhão para salvar o Ethereum",
-      "link": "https://br.tradingview.com/news/beincrypto:5cfb5db7fbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-22T16:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 22 May 2026 16:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de mai. de 2026, 16:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Pesquisador propõe plano de US$ 1 bilhão para salvar o Ethereum\" data-qa-id=\"news-headline-title\">Pesquisador propõe plano de US$ 1 bilhão para salvar o Ethereum</div></div></article>"
+      "id": "0f9cd9f9f3f5c2fa7cde9897519558a3a50cef6414b7c71b272ae96a2c7aed17",
+      "title": "The BlockSpot bitcoin ETFs shed $1.26 billion in worst week since late January as ether funds see 10-day outflow streak",
+      "url": "https://www.tradingview.com/news/the_block:25392e0c5094b:0-spot-bitcoin-etfs-shed-1-26-billion-in-worst-week-since-late-january-as-ether-funds-see-10-day-outflow-streak/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:04192f06bbc81:0",
-      "index": 3,
-      "title": "US$ 725 milhões em Ethereum (ETH) saem de carteiras de baleias: momento levanta suspeitas",
-      "link": "https://br.tradingview.com/news/beincrypto:04192f06bbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-22T12:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 22 May 2026 12:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de mai. de 2026, 12:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"US$ 725 milhões em Ethereum (ETH) saem de carteiras de baleias: momento levanta suspeitas\" data-qa-id=\"news-headline-title\">US$ 725 milhões em Ethereum (ETH) saem de carteiras de baleias: momento levanta suspeitas</div></div></article>"
+      "id": "7db9528bffaa7a4834cfdf61bbcd1790f4c1b6c9f0908a63bfb37ab6ba3f5a78",
+      "title": "NewsBTCBitcoin Bull Thesis Goes Big: 39 Trillion Reasons To Buy, Says Gemini Founder",
+      "url": "https://www.tradingview.com/news/newsbtc:dbdfd0b1f094b:0-bitcoin-bull-thesis-goes-big-39-trillion-reasons-to-buy-says-gemini-founder/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:e33666bc7bc81:0",
-      "index": 4,
-      "title": "Por que o mercado de criptomoedas está em alta hoje 22/05/2026?",
-      "link": "https://br.tradingview.com/news/beincrypto:e33666bc7bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-22T11:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCNEAR.svg\" alt=\"\" loading=\"lazy\"></li><li><span class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\">E</span></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/polaris.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 22 May 2026 11:30:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de mai. de 2026, 11:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Por que o mercado de criptomoedas está em alta hoje 22/05/2026?\" data-qa-id=\"news-headline-title\">Por que o mercado de criptomoedas está em alta hoje 22/05/2026?</div></div></article>"
+      "id": "06fbd83b2ec99e9aac4c1db13256522a163070fa1b8a50496a45f9bb5418201f",
+      "title": "BeincryptoBitcoin Breaks Below $75,000 as Three Major Risks Hit at Once",
+      "url": "https://www.tradingview.com/news/beincrypto:672e69c27094b:0-bitcoin-breaks-below-75-000-as-three-major-risks-hit-at-once/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:fc96e7a78bc81:0",
-      "index": 5,
-      "title": "Bitcoin Pizza Day 2026: como as duas pizzas mais caras mudaram o mundo?",
-      "link": "https://br.tradingview.com/news/beincrypto:fc96e7a78bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-22T11:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Fri, 22 May 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"22 de mai. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Bitcoin Pizza Day 2026: como as duas pizzas mais caras mudaram o mundo?\" data-qa-id=\"news-headline-title\">Bitcoin Pizza Day 2026: como as duas pizzas mais caras mudaram o mundo?</div></div></article>"
+      "id": "c326fdf847084b6406f0a76a52036668afd6390ca1a4f1c2398836302cfac7f7",
+      "title": "BeincryptoSchiff Slams MicroStrategy Again Amid Rising Leverage Concerns",
+      "url": "https://www.tradingview.com/news/beincrypto:0704768e3094b:0-schiff-slams-microstrategy-again-amid-rising-leverage-concerns/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:d96e94961bc81:0",
-      "index": 6,
-      "title": "Saylor, da Strategy, diz que mineradores não definem mais o preço do Bitcoin",
-      "link": "https://br.tradingview.com/news/beincrypto:d96e94961bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-21T20:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 21 May 2026 20:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de mai. de 2026, 20:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Saylor, da Strategy, diz que mineradores não definem mais o preço do Bitcoin\" data-qa-id=\"news-headline-title\">Saylor, da Strategy, diz que mineradores não definem mais o preço do Bitcoin</div></div></article>"
+      "id": "4104cd59b32c09d4bb62849667f019cab010cf082876f5c7ddf36a46ef877801",
+      "title": "CointelegraphBinance denies new WSJ report alleging $850M in Iran-linked transactions",
+      "url": "https://www.tradingview.com/news/cointelegraph:ebec95014094b:0-binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:e0096175fbc81:0",
-      "index": 7,
-      "title": "Por que o Bitcoin (BTC) pode repetir o mercado de baixa de 2022?",
-      "link": "https://br.tradingview.com/news/beincrypto:e0096175fbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-21T12:30:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 21 May 2026 12:30:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de mai. de 2026, 12:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Por que o Bitcoin (BTC) pode repetir o mercado de baixa de 2022?\" data-qa-id=\"news-headline-title\">Por que o Bitcoin (BTC) pode repetir o mercado de baixa de 2022?</div></div></article>"
+      "id": "1ca14753de60a1789a1c07365311bf8865e25c6f12c3ad915c89bdc8dc45517a",
+      "title": "NewsBTCBitcoin Struggles To Reclaim Key Cost Basis As Realized Losses Climb — Details",
+      "url": "https://www.tradingview.com/news/newsbtc:01f20a92d094b:0-bitcoin-struggles-to-reclaim-key-cost-basis-as-realized-losses-climb-details/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:369639711bc81:0",
-      "index": 8,
-      "title": "Vitalik foca na peça que falta para tornar Ethereum um verdadeiro “dinheiro”",
-      "link": "https://br.tradingview.com/news/beincrypto:369639711bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-21T11:30:16.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 21 May 2026 11:30:16 GMT\" class=\"apply-common-tooltip\" title=\"21 de mai. de 2026, 11:30 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Vitalik foca na peça que falta para tornar Ethereum um verdadeiro “dinheiro”\" data-qa-id=\"news-headline-title\">Vitalik foca na peça que falta para tornar Ethereum um verdadeiro “dinheiro”</div></div></article>"
+      "id": "731ef29b3f392e71fa66fb9dc1cd8e7c740d58e4632157c64d213fca68bc2755",
+      "title": "StocktwitsSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/stocktwits:8bc7f9177094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:567a39f9cbc81:0",
-      "index": 9,
-      "title": "Nubank zera taxa de Bitcoin por 24 horas no Pizza Day",
-      "link": "https://br.tradingview.com/news/beincrypto:567a39f9cbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-21T11:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCSOL.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Thu, 21 May 2026 11:00:00 GMT\" class=\"apply-common-tooltip\" title=\"21 de mai. de 2026, 11:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Nubank zera taxa de Bitcoin por 24 horas no Pizza Day\" data-qa-id=\"news-headline-title\">Nubank zera taxa de Bitcoin por 24 horas no Pizza Day</div></div></article>"
+      "id": "091374cc50d9578458ac6f0d7a917e9473436fa10ab32c82763dc3470ea9ab04",
+      "title": "CoinpediaXRP Price Pullback Deepens as Whale Activity Weakens: Can This Key Level Hold?",
+      "url": "https://www.tradingview.com/news/coinpedia:a34db33cd094b:0-xrp-price-pullback-deepens-as-whale-activity-weakens-can-this-key-level-hold/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:55e0db44abc81:0",
-      "index": 10,
-      "title": "Ata do Fed indica juros altos por mais tempo enquanto o Bitcoin enfrenta pressão",
-      "link": "https://br.tradingview.com/news/beincrypto:55e0db44abc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-20T18:08:41.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 20 May 2026 18:08:41 GMT\" class=\"apply-common-tooltip\" title=\"20 de mai. de 2026, 18:08 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Ata do Fed indica juros altos por mais tempo enquanto o Bitcoin enfrenta pressão\" data-qa-id=\"news-headline-title\">Ata do Fed indica juros altos por mais tempo enquanto o Bitcoin enfrenta pressão</div></div></article>"
+      "id": "94d784c2991a109eeeac9692c3e1652bc9b23125e42e3baff88859d7f97c189f",
+      "title": "CoinpediaWhile Bitcoin Drops Below $75,000, Is Ethereum Price Heading Below $2,000?",
+      "url": "https://www.tradingview.com/news/coinpedia:beec538c5094b:0-while-bitcoin-drops-below-75-000-is-ethereum-price-heading-below-2-000/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:988657c71bc81:0",
-      "index": 11,
-      "title": "Comprar ou vender Ethereum? Analistas divergem sobre gráficos de preço do ETH",
-      "link": "https://br.tradingview.com/news/beincrypto:988657c71bc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-20T18:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 20 May 2026 18:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mai. de 2026, 18:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Comprar ou vender Ethereum? Analistas divergem sobre gráficos de preço do ETH\" data-qa-id=\"news-headline-title\">Comprar ou vender Ethereum? Analistas divergem sobre gráficos de preço do ETH</div></div></article>"
+      "id": "d9f5d97e29e5da60861ba1c4f1d9687d365bedcc5b4c1b44fcce919146171313",
+      "title": "NewsBTCHistory Shows Bitcoin ETF Outflows Favor Accumulation, Says Santiment",
+      "url": "https://www.tradingview.com/news/newsbtc:f3d9fc1a9094b:0-history-shows-bitcoin-etf-outflows-favor-accumulation-says-santiment/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     },
     {
-      "id": "beincrypto:3b5d456afbc81:0",
-      "index": 12,
-      "title": "Wintermute critica Ethereum após ETH/BTC cair ao menor nível em 10 meses",
-      "link": "https://br.tradingview.com/news/beincrypto:3b5d456afbc81:0/",
-      "source": "Beincrypto",
-      "published_at": "2026-05-20T14:00:00.000Z",
-      "snippet": "",
-      "image": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
-      "raw_html": "<article class=\"article-xAV1dVE7 article-fWZnz9qv article-PLUvmqen wrapper-PLUvmqen\" data-qa-id=\"news-headline-card\"><div class=\"container-fWZnz9qv container-PLUvmqen\"><div class=\"header-fWZnz9qv header-PLUvmqen header-aMTYNVDx header-fWZnz9qv header-PLUvmqen header-aMTYNVDx\"><ul class=\"stack-L2E26Swf stack--xxxsmall-L2E26Swf logo-fWZnz9qv logo-aMTYNVDx apply-common-tooltip\"><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg\" alt=\"\" loading=\"lazy\"></li><li><img class=\"logo-m0C6Ivpo xxxsmall-m0C6Ivpo letter-m0C6Ivpo\" crossorigin=\"\" src=\"https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg\" alt=\"\" loading=\"lazy\"></li></ul><span class=\"date-fWZnz9qv date-aMTYNVDx doth-aMTYNVDx\"><relative-time locale=\"pt\" event-time=\"Wed, 20 May 2026 14:00:00 GMT\" class=\"apply-common-tooltip\" title=\"20 de mai. de 2026, 14:00 UTC\"></relative-time></span><span class=\"provider-fWZnz9qv\"><span class=\"\">Beincrypto</span></span></div><div class=\"apply-overflow-tooltip apply-overflow-tooltip--direction_both block-RLGaEd06 title-fWZnz9qv title-PLUvmqen\" data-overflow-tooltip-text=\"Wintermute critica Ethereum após ETH/BTC cair ao menor nível em 10 meses\" data-qa-id=\"news-headline-title\">Wintermute critica Ethereum após ETH/BTC cair ao menor nível em 10 meses</div></div></article>"
+      "id": "48eec11d094ad273faef55d46c90fa870ebecf1c28738f74136b9c45943a3b4d",
+      "title": "CoinpediaZcash & Hyperliquid Defy Crypto Market Weakness—Are Bulls Preparing for a Bigger Recovery?",
+      "url": "https://www.tradingview.com/news/coinpedia:f4f6f36e8094b:0-zcash-hyperliquid-defy-crypto-market-weakness-are-bulls-preparing-for-a-bigger-recovery/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
+    },
+    {
+      "id": "a8a106564a5c105fc2790f0706061a0d17e17e44086b80122a3ec3a6f864ff09",
+      "title": "NewsBTCHistorical Performance Says Bitcoin Price Will Not Bottom Until It Touches This Level",
+      "url": "https://www.tradingview.com/news/newsbtc:16a68437a094b:0-historical-performance-says-bitcoin-price-will-not-bottom-until-it-touches-this-level/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-23T16:26:51.688Z"
     }
   ]
 }
