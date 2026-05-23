@@ -75,7 +75,7 @@ jobs:
       - name: Notify Make webhook with diff.json
         if: steps.read_summary.outputs.new != '0'
         env:
-          MAKE_WEBHOOK: ${{ secrets.MAKE_WEBHOOK }}
+          MAKE_WEBHOOK: ${{ secrets.MAKE_WEBHOOK_URL }}
         run: |
           echo "Posting diff.json to Make..."
           curl -s -X POST \
