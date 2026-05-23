@@ -30,10 +30,11 @@ jobs:
 
       - name: Run scraper and write summary
         id: run_scraper
+        env:
+          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
         run: |
           node src/generate-feed.js
           node src/write-scrape-summary.js
-          cat scrape_summary.txt || true
 
       - name: Read summary
         id: read_summary
@@ -51,8 +52,8 @@ jobs:
           path: |
             page.html
             page.png
-            feed.json
-            diff.json
+            output/feed.json
+            output/new-items.json
 
       - name: Commit feed.json to gh-pages (if new items)
         if: steps.read_summary.outputs.new != '0'
@@ -60,7 +61,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p public
-          cp feed.json public/feed.json
+          cp output/feed.json public/feed.json          
           git add public/feed.json || true
           git commit -m "Update feed.json (auto)" || echo "no changes"
 
@@ -71,24 +72,12 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
-      # 🚀 Novo passo: notificar Make em tempo real
-      - name: Notify Make webhook with diff.json
-        if: steps.read_summary.outputs.new != '0'
-        env:
-          MAKE_WEBHOOK: ${{ secrets.MAKE_WEBHOOK_URL }}
-        run: |
-          echo "Posting diff.json to Make..."
-          curl -s -X POST \
-            -H "Content-Type: application/json" \
-            --data @diff.json \
-            "$MAKE_WEBHOOK" || echo "Failed to post diff.json"
-
       - name: Show artifacts
         if: always()
         run: |
           echo "feed.json (first lines):"
-          head -n 20 feed.json || true
+          head -n 20 output/feed.json || true
           echo "diff.json (first lines):"
-          head -n 20 diff.json || true
+          head -n 20 output/diff.json || true
           echo "scrape_summary.txt:"
           cat scrape_summary.txt || true
