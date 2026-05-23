@@ -3,8 +3,8 @@ name: Scrape TradingView + publish + notify Make
 permissions:
   contents: write
   pages: write
-  id-token: write 
-  
+  id-token: write
+
 on:
   schedule:
     - cron: '*/45 * * * *'
@@ -13,17 +13,25 @@ on:
 jobs:
   scrape-and-publish:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      - name: Restore seen ids from gh-pages
+        run: |
+          mkdir -p output
+          curl -fsSL \
+            https://joaopauloclima.github.io/jornal_cripto_feed/seen-ids.json \
+            -o output/seen-ids.json || true
+
       - name: Setup Node.js + cache
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'                # ✅ cache automático baseado no lockfile
+          cache: 'npm'
 
       - name: Install deps
         run: npm ci --no-audit --no-fund
@@ -54,16 +62,14 @@ jobs:
             page.png
             output/feed.json
             output/new-items.json
+            output/seen-ids.json
 
-      - name: Commit feed.json to gh-pages (if new items)
+      - name: Prepare public files
         if: steps.read_summary.outputs.new != '0'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p public
-          cp output/feed.json public/feed.json          
-          git add public/feed.json || true
-          git commit -m "Update feed.json (auto)" || echo "no changes"
+          cp output/feed.json public/feed.json
+          cp output/seen-ids.json public/seen-ids.json
 
       - name: Deploy to gh-pages via action
         if: steps.read_summary.outputs.new != '0'
