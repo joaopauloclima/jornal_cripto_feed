@@ -1,13 +1,22 @@
 {
   "name": "tradingview-news-scraper",
-  "version": "1.0.0",
-  "description": "Scrape TradingView News Flow (crypto) and publish feed.json + diff.json",
-  "main": "src/generate-feed.js",
+  "version": "2.0.0",
+  "type": "module",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node src/generate-feed.js"
+    "start": "node src/index.js",
+    "scrape": "node src/index.js",
+    "summary": "node src/write-scrape-summary.js",
+    "dev": "node --watch src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "dependencies": {
-    "puppeteer": "^21.0.0",
-    "node-fetch": "^3.3.2"
+    "dotenv": "^16.4.5",
+    "pino": "^9.3.2",
+    "puppeteer": "^24.0.0",
+    "zod": "^3.23.8",
+    "pino-pretty": "^11.2.2"
   }
 }
