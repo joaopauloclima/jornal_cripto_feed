@@ -8,27 +8,41 @@ export async function sendToWebhook(item) {
     return;
   }
 
+  // PAYLOAD SIMPLIFICADO PARA TESTE
   const payload = {
-    event: "news.created",
-    timestamp: new Date().toISOString(),
-    data: item
+    title: item.title,
+    url: item.url
   };
 
+  logger.info({
+    webhook,
+    payload
+  }, "Sending webhook");
+
   let response;
+  let responseText = "";
 
   try {
     response = await fetch(webhook, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify(payload)
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(payload)
     });
+
+    responseText = await response.text();
+
+    logger.info({
+      status: response.status,
+      response: responseText
+    }, "Webhook response");
+
   } catch (error) {
     throw new Error(`Webhook network error: ${error.message}`);
   }
 
   if (!response.ok) {
-    throw new Error(`Webhook failed: ${response.status}`);
+    throw new Error(`Webhook failed: ${response.status} - ${responseText}`);
   }
 }
