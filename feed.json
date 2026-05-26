@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-05-26T21:50:47.581Z",
+  "generated_at": "2026-05-26T23:14:40.395Z",
   "total": 14,
   "items": [
+    {
+      "id": "2658ba44393e4a5ad9ad6880fd59672a827b821d8cc4de3051d00c4716db1175",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260526007402:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-26T23:14:40.391Z"
+    },
+    {
+      "id": "b6e6db99ad8b6bfd8786c5a9be98c7f7d693949b64bcaf9bd9e633aa8b788dd3",
+      "title": "NewsBTCBitcoin Spot Volume Collapses 81% Since October 10: History Points To A Rare Setup",
+      "url": "https://www.tradingview.com/news/newsbtc:cbac8cbbd094b:0-bitcoin-spot-volume-collapses-81-since-october-10-history-points-to-a-rare-setup/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-26T23:14:40.391Z"
+    },
+    {
+      "id": "12cd2ed2afd19e8d49470ebb55f4db3411bdabd116a30063e642d6b7ca27522b",
+      "title": "BeincryptoXRP Faces Critical Test as Uganda Genomic Pilot Meets Binance Liquidity Drought",
+      "url": "https://www.tradingview.com/news/beincrypto:2f2993a38094b:0-xrp-faces-critical-test-as-uganda-genomic-pilot-meets-binance-liquidity-drought/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-26T23:14:40.391Z"
+    },
+    {
+      "id": "dfc7f8594f405a8348406cbdd7437c8c23fd20cc56815799066cf8a5e4c9d67f",
+      "title": "CointelegraphCrypto advocacy group challenges Senator Warren's claims on OCC charters",
+      "url": "https://www.tradingview.com/news/cointelegraph:d0078cabd094b:0-crypto-advocacy-group-challenges-senator-warren-s-claims-on-occ-charters/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-26T23:14:40.391Z"
+    },
+    {
+      "id": "7bc35caf910be104ad303d7c76a7e8eb411aef7880c28faf286488328fc25558",
+      "title": "The Block‘Critically important’: President Trump backs CFTC Chair Selig’s push to expand prediction market authority",
+      "url": "https://www.tradingview.com/news/the_block:56118698d094b:0-critically-important-president-trump-backs-cftc-chair-selig-s-push-to-expand-prediction-market-authority/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-26T23:14:40.391Z"
+    },
+    {
+      "id": "92614f927a2b37ca143c06b0ae1c1c967a4f90dcb5418c5c9c7db1edbfba0fb2",
+      "title": "CointelegraphBitcoin mining stocks jump as AI infrastructure boom boosts sector outlook",
+      "url": "https://www.tradingview.com/news/cointelegraph:002495209094b:0-bitcoin-mining-stocks-jump-as-ai-infrastructure-boom-boosts-sector-outlook/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-26T23:14:40.391Z"
+    },
     {
       "id": "700fc45c2ccb02e63ea79291907aee35dfe68b15275e2f295b184ef4737cf2ad",
       "title": "ChainwirePremu.xyz: The Decentralized Polymarket Alternative - User Curated Prediction Markets Anyone Can Launch",
       "url": "https://www.tradingview.com/news/chainwire:925995803094b:0-premu-xyz-the-decentralized-polymarket-alternative-user-curated-prediction-markets-anyone-can-launch/",
       "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.566Z"
+      "scraped_at": "2026-05-26T23:14:40.391Z"
     },
     {
       "id": "8eed6e8e8abfec771895b85cc167e7c20bc866d43e8fe396776acf4249198177",
       "title": "Dow Jones NewswiresFinancials Flat as Traders Await Iran Developments - Financials ROundup",
       "url": "https://www.tradingview.com/news/DJN_DN20260526009553:0-financials-flat-as-traders-await-iran-developments-financials-roundup/",
       "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.566Z"
+      "scraped_at": "2026-05-26T23:14:40.391Z"
     },
     {
       "id": "118cdeb0e90139d33b1771d52e86038d466820e54e9f025b4ceeac28513d5f34",
       "title": "NewsBTCXRP’s Utility Narrative Extends Beyond Conventional Market Cap Metrics",
       "url": "https://www.tradingview.com/news/newsbtc:9bea930a5094b:0-xrp-s-utility-narrative-extends-beyond-conventional-market-cap-metrics/",
       "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.566Z"
+      "scraped_at": "2026-05-26T23:14:40.391Z"
     },
     {
       "id": "451732f04eafe050d68061dda04f2cc82ea4ece39a3dc8a11c43edb174f1e77f",
       "title": "The BlockDeFi TVL slides 14% since KelpDAO exploit as risk appetite retreats",
       "url": "https://www.tradingview.com/news/the_block:66b830840094b:0-defi-tvl-slides-14-since-kelpdao-exploit-as-risk-appetite-retreats/",
       "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.566Z"
+      "scraped_at": "2026-05-26T23:14:40.391Z"
     },
     {
       "id": "1e4db0c5161ea659cb85568a9a70a60f6962ca30ef96407cf48f17434e7571e1",
       "title": "BeincryptoEthereum Volatility Hits Multi-Month Low: Rally Next or Further Downside?",
       "url": "https://www.tradingview.com/news/beincrypto:b33ea8bf1094b:0-ethereum-volatility-hits-multi-month-low-rally-next-or-further-downside/",
       "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.566Z"
+      "scraped_at": "2026-05-26T23:14:40.391Z"
     },
     {
       "id": "c0d192004cf471b23bc3372c23056693bba83dcfd17fa3e5a1dc5a7bf02fc064",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260526007807:0/",
       "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.566Z"
+      "scraped_at": "2026-05-26T23:14:40.391Z"
     },
     {
       "id": "123e15672a2fe0d7eb8a77386f74f92d713baa19c6bd5218b26b5698912c1b32",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260526007765_20260526007765:0/",
       "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.566Z"
+      "scraped_at": "2026-05-26T23:14:40.391Z"
     },
     {
       "id": "70c07cba0bd058189f7b42de447c3fc5e83af51196d36c169df4935637ddb4f1",
       "title": "NewsBTCWhat To Expect In The Latest XRP Ledger Update And How It Affects Holders",
       "url": "https://www.tradingview.com/news/newsbtc:bc48b83cf094b:0-what-to-expect-in-the-latest-xrp-ledger-update-and-how-it-affects-holders/",
       "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.566Z"
-    },
-    {
-      "id": "4d9648e7487bf792b37247da635c27fdc058cc15e993e70308a4421f771f602e",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260526007720:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.566Z"
-    },
-    {
-      "id": "488d3dba5e7695e5e9efbea1d0d1dc244bece5e37b186a1d8a83d65357b8c59e",
-      "title": "The BlockEthereum, Solana treasury firms Sharplink and Forward join Russell indexes",
-      "url": "https://www.tradingview.com/news/the_block:c7a1c9701094b:0-ethereum-solana-treasury-firms-sharplink-and-forward-join-russell-indexes/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.567Z"
-    },
-    {
-      "id": "80d3c63731be96a551ed7bd4e75de8e9be98d176dd442a4e17eb4cba6c5722b3",
-      "title": "The BlockTD Cowen says crypto bill unlikely to pass this year amid worsening political environment",
-      "url": "https://www.tradingview.com/news/the_block:3db1fa215094b:0-td-cowen-says-crypto-bill-unlikely-to-pass-this-year-amid-worsening-political-environment/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.567Z"
-    },
-    {
-      "id": "c147800fc6becfa11f2640eed78d5c0a6f46eb79d7f98ec0f1198a69610ce2c1",
-      "title": "Finance MagnatesProp Trading: Instant Funding Acquires Funded Trading Plus",
-      "url": "https://www.tradingview.com/news/financemagnates:a38133159094b:0-prop-trading-instant-funding-acquires-funded-trading-plus/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.567Z"
-    },
-    {
-      "id": "d599f3e61bf6592d7a4e6e9a32408c65f1fbe0946622a617bd7a614ebdc5df4a",
-      "title": "CointelegraphUK authorities sanction HTX crypto exchange over support for Russia",
-      "url": "https://www.tradingview.com/news/cointelegraph:a57af8305094b:0-uk-authorities-sanction-htx-crypto-exchange-over-support-for-russia/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.567Z"
-    },
-    {
-      "id": "a9c45b36adae461c41e9a73b66defd7fa8ba74011cff049032203fd316d4ac03",
-      "title": "GuruFocusBitcoin Volatility Hits 9-Month Low As $1 Billion ETF Outflows Mount",
-      "url": "https://www.tradingview.com/news/gurufocus:cc5e91ef7094b:0-bitcoin-volatility-hits-9-month-low-as-1-billion-etf-outflows-mount/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-26T21:50:47.567Z"
+      "scraped_at": "2026-05-26T23:14:40.391Z"
     }
   ]
 }
