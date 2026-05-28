@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-05-28T16:44:12.613Z",
+  "generated_at": "2026-05-28T19:29:52.840Z",
   "total": 14,
   "items": [
+    {
+      "id": "147b317f87a0119135a797e144a2fd2edf9475606ab936601c8a6cc0d68f3bca",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260528008691:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "162288f276a7e7b131bebc4745e16f2287fb8095ab4d3c14c5e89bc8ea8444c0",
+      "title": "NewsBTCEthereum (ETH) Drops Below $2,000—Why Standard Chartered Still Expects $40,000 By 2030",
+      "url": "https://www.tradingview.com/news/newsbtc:b8eb5af04094b:0-ethereum-eth-drops-below-2-000-why-standard-chartered-still-expects-40-000-by-2030/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "0417891e698b73260b8fbc65865bcb08e19e8a6f267d7213beffc7619ef4befc",
+      "title": "StocktwitsIran Peace Deal Hopes Lift Bitcoin Back Above $73K, But Retail Warns CLARITY Act Stalemate Is The Real Overhang",
+      "url": "https://www.tradingview.com/news/stocktwits:b1a5c6d36094b:0-iran-peace-deal-hopes-lift-bitcoin-back-above-73k-but-retail-warns-clarity-act-stalemate-is-the-real-overhang/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "e9e08449b8f14b05a339397615d6a38d3ebd139b528fb83655c64ea543a4bd42",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260528008382:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "0d8712448dfa22c71790d45c885e9905d7dfaa3e7cf1798933f5698b016ae044",
+      "title": "NewsBTCXRP Sends A Rare Signal As Whale-Retail Dynamics Are Shifting – Traders Are Watching",
+      "url": "https://www.tradingview.com/news/newsbtc:1716ce5c0094b:0-xrp-sends-a-rare-signal-as-whale-retail-dynamics-are-shifting-traders-are-watching/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "3da9a8176114495871a71a9451f774c5d4ec303d8e30a7920402ccc47bc0ccc5",
+      "title": "The BlockTether’s USAT supply grows 540% month-over-month, latest attestation shows",
+      "url": "https://www.tradingview.com/news/the_block:c9d7fd0e1094b:0-tether-s-usat-supply-grows-540-month-over-month-latest-attestation-shows/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "e42a4469697c276151ba2278609ebdb1d204602d34830bdfcda95188ebb3c9ac",
+      "title": "NChainwireUTXO management, Nakamoto subsidiary, joins Stacks as inaugural bitcoin staking participant",
+      "url": "https://www.tradingview.com/news/chainwire:0f993c01b094b:0-utxo-management-nakamoto-subsidiary-joins-stacks-as-inaugural-bitcoin-staking-participant/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "0f1f37c620937a3f6bcfb8532198dfd0e465fe22a205332fd851db508b081647",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:8c8890db1094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "ed347a05e4bc4a93e92f401a25c73253b09156e956d10890a946632c78a3f807",
+      "title": "The BlockHyperliquid-based prop trading platform Hypernova raises $3 million in pre-seed funding",
+      "url": "https://www.tradingview.com/news/the_block:0c7f56ff4094b:0-hyperliquid-based-prop-trading-platform-hypernova-raises-3-million-in-pre-seed-funding/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "fb990d4fffd8ef7166dbe44d15fbbb9204a35994da862449076046161f2dd218",
+      "title": "CointelegraphTrezor adds native USDt, USDC yield via Morpho integration",
+      "url": "https://www.tradingview.com/news/cointelegraph:e511336b5094b:0-trezor-adds-native-usdt-usdc-yield-via-morpho-integration/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "13c9303871fe290ea195105afcb597c1357d0e3f10fb85b9f13863fd8a5a8f2f",
+      "title": "CointelegraphFrench company abandons crypto treasury strategy, will liquidate Bitcoin holdings",
+      "url": "https://www.tradingview.com/news/cointelegraph:a411bb41a094b:0-french-company-abandons-crypto-treasury-strategy-will-liquidate-bitcoin-holdings/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "2f4081d223db4014b1f10fe8acb7a096e97a280b60955e3f567410ee072c4360",
+      "title": "ZacksCoinbase to Expand Global Fiat Access With Standard Chartered?",
+      "url": "https://www.tradingview.com/news/zacks:ee81b8395094b:0-coinbase-to-expand-global-fiat-access-with-standard-chartered/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
+    {
+      "id": "b184fc8ed0f22bedb6d6aaa60f0c410b25796a21a6d8e7ed707e6cb214f16fe0",
+      "title": "CointelegraphP2P.org launches real-time data stream for Sui and Hyperliquid",
+      "url": "https://www.tradingview.com/news/cointelegraph:584b33710094b:0-p2p-org-launches-real-time-data-stream-for-sui-and-hyperliquid/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-28T19:29:52.836Z"
+    },
     {
       "id": "5ed01dd321f32f2b8e789d8fa55114dd6f235447822101bdd8d26f737281aa04",
       "title": "StocktwitsEthereum's Price Is Acting Like AMZN Stock After The Dot-Com Crash, Says Standard Chartered – It's Gone Up 1000x Since",
       "url": "https://www.tradingview.com/news/stocktwits:d01b3569b094b:0-ethereum-s-price-is-acting-like-amzn-stock-after-the-dot-com-crash-says-standard-chartered-it-s-gone-up-1000x-since/",
       "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.609Z"
-    },
-    {
-      "id": "4f3daca86bbe2d157d3796fecfc2ab299591803af1b4ffa766cf09a5f14adbe2",
-      "title": "ReutersKraken Is Aware Of An Ongoing Outage On SUI Network",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42511D:0-kraken-is-aware-of-an-ongoing-outage-on-sui-network/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "1d143137c90c981a133d75a6f37cc9f4f718096e5bc836cbba2f298a66c8e6a0",
-      "title": "NewsBTCCan The Ripple Banking License Serve To Push The XRP Price To $25?",
-      "url": "https://www.tradingview.com/news/newsbtc:d8a165686094b:0-can-the-ripple-banking-license-serve-to-push-the-xrp-price-to-25/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "63aa6630cadc927daa6fc71a4dc4360316a5d9f523441ddd575f6449726aaabf",
-      "title": "The BlockGrayscale’s Hyperliquid ETF negotiating ‘seed’ investment of roughly $115 million in HYPE tokens",
-      "url": "https://www.tradingview.com/news/the_block:4d84831d8094b:0-grayscale-s-hyperliquid-etf-negotiating-seed-investment-of-roughly-115-million-in-hype-tokens/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "760f8cdce3bdf4e36250566a4aea06dbcaaa31b43a744019c318a6485e3aefc5",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260528007685:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "7c2bb78d48a398397d5997fb047169644cce6ac531bc780849cd6be398a7b971",
-      "title": "CoindarVenus to Be Integrated With Binance Wallet",
-      "url": "https://www.tradingview.com/news/coindar:822c71a40094b:0-venus-to-be-integrated-with-binance-wallet/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "052927563500d77aa592dc90116f08b69100c932918f06cb369d80ecfb55ceb6",
-      "title": "CoindarGnosis to Host Community Call on June 11th",
-      "url": "https://www.tradingview.com/news/coindar:ce1db7938094b:0-gnosis-to-host-community-call-on-june-11th/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "bbb78cdeb97ae3648fd7458c63ae9309450590c844f7f6e0fd2e9eb946176152",
-      "title": "The BlockSui blockchain experiences second ‘stall’ in five months",
-      "url": "https://www.tradingview.com/news/the_block:83d973c20094b:0-sui-blockchain-experiences-second-stall-in-five-months/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "891c03659800a47d55e497beb56da42820e122b17bb9529ccf6477de620722c6",
-      "title": "CoindarTRON to Host Meetup in New York on June 11th",
-      "url": "https://www.tradingview.com/news/coindar:f1187796f094b:0-tron-to-host-meetup-in-new-york-on-june-11th/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "2b9bd2ef0956a9b4c312f3828b41ba8dc57aaae0d021ecfb99f74be53b7624ad",
-      "title": "StocktwitsWill SpaceX Merge With Tesla? Elon Musk’s Combined Company Would Own Over 30,000 BTC",
-      "url": "https://www.tradingview.com/news/stocktwits:e5a96709f094b:0-will-spacex-merge-with-tesla-elon-musk-s-combined-company-would-own-over-30-000-btc/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "29b96c967ee0111c1fbdedd980e166fadfa239366eb4174fdc0691f6044854da",
-      "title": "InvezzEthereum price drops under $2,000; how low can it go?",
-      "url": "https://www.tradingview.com/news/invezz:2a9861332094b:0-ethereum-price-drops-under-2-000-how-low-can-it-go/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "c0c4ed5df73c4d02acd3f31effab66ed90d269d7f3a2dc771923854f27d49785",
-      "title": "CoindarBella Protocol Partners With Herond Browser",
-      "url": "https://www.tradingview.com/news/coindar:af756cb8e094b:0-bella-protocol-partners-with-herond-browser/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "cbf743f28988182e79989459645db34c0b297cd02ee2d3329bd6389f12eb43d5",
-      "title": "CointelegraphArgentina bill targets crypto payments to illegal gambling sites",
-      "url": "https://www.tradingview.com/news/cointelegraph:7ed697bbf094b:0-argentina-bill-targets-crypto-payments-to-illegal-gambling-sites/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
-    },
-    {
-      "id": "c67970aeb07eb13a361389443478aa63f0196581a02455950cc4d220f72417be",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260528006973:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-28T16:44:12.610Z"
+      "scraped_at": "2026-05-28T19:29:52.836Z"
     }
   ]
 }
