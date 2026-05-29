@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-05-29T10:11:57.132Z",
+  "generated_at": "2026-05-29T13:50:03.484Z",
   "total": 14,
   "items": [
     {
-      "id": "65acf4e03994b523f70bb40dac7678be6e5870a7795cfe281e87bfde3d155793",
+      "id": "506d9b2b3fd7483eb4ddb016c46f99a533d5645d308965f97445c355843e74d2",
+      "title": "StocktwitsHyperliquid Is 'Bigger Than Nasdaq,' Says ICE CEO — HYPE Eyes New Record High, While ETFs Top $100M",
+      "url": "https://www.tradingview.com/news/stocktwits:9029b9926094b:0-hyperliquid-is-bigger-than-nasdaq-says-ice-ceo-hype-eyes-new-record-high-while-etfs-top-100m/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.478Z"
+    },
+    {
+      "id": "fc88b71e7c4a9d399e235240339f00233cf9e60cec732e569e2d1acfaa4ca972",
+      "title": "CointelegraphNYSE parent ICE pushes ‘level playing field’ for 24/7 onchain perps",
+      "url": "https://www.tradingview.com/news/cointelegraph:6190a5e2c094b:0-nyse-parent-ice-pushes-level-playing-field-for-24-7-onchain-perps/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.478Z"
+    },
+    {
+      "id": "7430c5fe64eadfbf564570e266fef879d0116dacbd49598654e92722faf225ab",
+      "title": "StocktwitsXRP Leads Crypto Rebound, Outperforming Bitcoin Before The Weekend 'CME Gap' Gets Eliminated",
+      "url": "https://www.tradingview.com/news/stocktwits:64fbb80cc094b:0-xrp-leads-crypto-rebound-outperforming-bitcoin-before-the-weekend-cme-gap-gets-eliminated/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.478Z"
+    },
+    {
+      "id": "844789b4d67a1b162ae0c6f3c2e10eef08fe347886cc51611aae40ee464585f3",
+      "title": "InvezzBitcoin Cash price prediction: downside risks loom as BCH dips to $300",
+      "url": "https://www.tradingview.com/news/invezz:f6f08f8ad094b:0-bitcoin-cash-price-prediction-downside-risks-loom-as-bch-dips-to-300/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.478Z"
+    },
+    {
+      "id": "cd9e30e90a8bd94905a2e903b13df3f40d69421843416070e3ccff2f8e843374",
+      "title": "dpa-AFXMild Rebound In Crypto Markets",
+      "url": "https://www.tradingview.com/news/dpa_afx:1b990b4bd3bf5:0-mild-rebound-in-crypto-markets/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.478Z"
+    },
+    {
+      "id": "dec6944bcb5bb3cbf1223186b19736e062eee5fd4c9bc0c3825519989de91db2",
+      "title": "NewsBTCThe Mistake Investors Are Making About Ethereum That Could Cost Them Money; Analyst",
+      "url": "https://www.tradingview.com/news/newsbtc:c19e97413094b:0-the-mistake-investors-are-making-about-ethereum-that-could-cost-them-money-analyst/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.479Z"
+    },
+    {
+      "id": "a2f18e50d8d36e0dc081263ad584f83d9f88fdf989a50e515ae3d76f7451e94e",
+      "title": "BBeincryptoTop 3 Meme Coins to Watch in June 2026",
+      "url": "https://www.tradingview.com/news/beincrypto:28e1bd019094b:0-top-3-meme-coins-to-watch-in-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.479Z"
+    },
+    {
+      "id": "1ab5ba72a4829da30aca06a175c876df7f79a0a37f2f2df5130cc3f834d0877c",
+      "title": "CoinpediaInjective (INJ) Price Nears a Make-or-Break Zone—Will INJ Rally 30% & Reach $10 or Crash Hard?",
+      "url": "https://www.tradingview.com/news/coinpedia:3ae6db4ed094b:0-injective-inj-price-nears-a-make-or-break-zone-will-inj-rally-30-reach-10-or-crash-hard/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.479Z"
+    },
+    {
+      "id": "579c2f57cde66436d44bc0a15e6af35c8fbfbbf3a53921604039a425ff103a3c",
+      "title": "CointelegraphBitcoin falls out of the global top 10 assets as market cap dips below $1.5T",
+      "url": "https://www.tradingview.com/news/cointelegraph:2278624f0094b:0-bitcoin-falls-out-of-the-global-top-10-assets-as-market-cap-dips-below-1-5t/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.479Z"
+    },
+    {
+      "id": "a53ad9c9a3a7ab0ea1340d14e9049bb9d50a999ca14745c6d4d80a12c250f680",
+      "title": "CoinpediaTexas Plans to Move $10 Million Bitcoin Reserve From BlackRock ETF to Direct BTC Custody",
+      "url": "https://www.tradingview.com/news/coinpedia:6604ed0c2094b:0-texas-plans-to-move-10-million-bitcoin-reserve-from-blackrock-etf-to-direct-btc-custody/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.479Z"
+    },
+    {
+      "id": "0c56c284d70dd736c64e92f450a351c156de6f11f4f5a4a7d251511984064dfc",
+      "title": "FMace NewsUS SEC CHAIR ADKINS/FOXBIZ: WORKING WITH CFTC TO PROVIDE REGULATORY GUARDRAILS FOR PREDICTION MARKETS",
+      "url": "https://www.tradingview.com/news/macenews:3d7b7278f094b:0-us-sec-chair-adkins-foxbiz-working-with-cftc-to-provide-regulatory-guardrails-for-prediction-markets/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.479Z"
+    },
+    {
+      "id": "941d2ddb3d8f1a64aafff99594c22022bb51154044109aeb49e439ee4214c458",
+      "title": "CointelegraphTexas Bitcoin reserve plans shift from ETF to direct BTC custody",
+      "url": "https://www.tradingview.com/news/cointelegraph:0b30d473a094b:0-texas-bitcoin-reserve-plans-shift-from-etf-to-direct-btc-custody/",
+      "source": "tradingview",
+      "scraped_at": "2026-05-29T13:50:03.479Z"
+    },
+    {
+      "id": "9ceed08e4adcfef320187b8a2a0da8aa22f52be0064c8b23f63be349fa4172c2",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260529002594_20260529002613:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260529003476:0/",
       "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.128Z"
+      "scraped_at": "2026-05-29T13:50:03.479Z"
     },
     {
-      "id": "2c8c7ea898b6827c5de74f53828826ad67a843638ea4b2cb49a1a9aeb90dcc3f",
-      "title": "InvezzInjective surges 16% as Binance US launches INJ staking for users",
-      "url": "https://www.tradingview.com/news/invezz:0a33d5ee7094b:0-injective-surges-16-as-binance-us-launches-inj-staking-for-users/",
+      "id": "09c65867d3b921a369f1b05637198921c30355922bf921ef72ffbd9171fe74e5",
+      "title": "ChainwireKuCoin CMO at BEYOND Expo: \"Trust Is Becoming the New Infrastructure\" for Web3",
+      "url": "https://www.tradingview.com/news/chainwire:51cb7aba3094b:0-kucoin-cmo-at-beyond-expo-trust-is-becoming-the-new-infrastructure-for-web3/",
       "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "4a54803cbff4ecbc90a0c9c751330ef0c8d920e7fed8565b0d6963306fae304e",
-      "title": "The BlockBase launches Azul on mainnet, pushing Coinbase’s Ethereum L2 toward full decentralization",
-      "url": "https://www.tradingview.com/news/the_block:7c8ef3024094b:0-base-launches-azul-on-mainnet-pushing-coinbase-s-ethereum-l2-toward-full-decentralization/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "569d594450d916eed00bb622cf28678d226e5c1c5d6ab0e53fc64b03486007a2",
-      "title": "99BitcoinsCrypto News Today (May 29): BTC Holds Above $73K as Monthly Close Volatility Approaches",
-      "url": "https://www.tradingview.com/news/99Bitcoins:1fb1d9696094b:0-crypto-news-today-may-29-btc-holds-above-73k-as-monthly-close-volatility-approaches/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "2aacf3a440bd9d75cd15869b02523bd90b280e0b319809a1efc54c802586d15f",
-      "title": "CryptoNewsCryptoQuant Says Bitcoin Whale Buying Has Stalled as Demand Weakens",
-      "url": "https://www.tradingview.com/news/cryptonews:fd43218a1094b:0-cryptoquant-says-bitcoin-whale-buying-has-stalled-as-demand-weakens/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "45193e340d7d7a5ec53e69b4fde063562407c47d9534ed837305136c0961f298",
-      "title": "The BlockVentuals to compensate traders after pre-IPO SpaceX perps plunge 45% on Hyperliquid",
-      "url": "https://www.tradingview.com/news/the_block:fb35bbdb3094b:0-ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "1d78843a941f15bfa0f9343685110dab09c659ce08c5f8c56c92fbd7072330e7",
-      "title": "Finance MagnatesWhat Were the Reasons Behind IG Group's Recent Success?",
-      "url": "https://www.tradingview.com/news/financemagnates:7fe30bd70094b:0-what-were-the-reasons-behind-ig-group-s-recent-success/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "cf828f8cd791194279b81d8ba74fbecfb0c05a8c06028192d4fc74f579db096a",
-      "title": "The Block‘First and only’: Paxos secures SEC registration as clearing and settlement agency",
-      "url": "https://www.tradingview.com/news/the_block:f5ed1156a094b:0-first-and-only-paxos-secures-sec-registration-as-clearing-and-settlement-agency/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "4bf367fe79f2b00c3e6062218d3ecee8fc6720d39121312759b07efca33526a5",
-      "title": "CointelegraphOKX Ventures, Korea Investment & Securities to buy 19.6% Coinone stake for $106M",
-      "url": "https://www.tradingview.com/news/cointelegraph:5b158d4ac094b:0-okx-ventures-korea-investment-securities-to-buy-19-6-coinone-stake-for-106m/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "ae9ad21ba224d7782b4d824bb4ca56b1a2a44fe1b129407b7630233937fdd7ae",
-      "title": "NewsBTCArca CIO Warns Strategy’s Bitcoin Bet Has ‘Gotten Out Of Hand’",
-      "url": "https://www.tradingview.com/news/newsbtc:708af1b33094b:0-arca-cio-warns-strategy-s-bitcoin-bet-has-gotten-out-of-hand/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "3ed2c995e6f513627a6679d2ada6b7a441c8a86efd99a9fa8448af0d4c0cee96",
-      "title": "Beincrypto$7.5 Billion in Bitcoin and Ethereum Options Expire Today",
-      "url": "https://www.tradingview.com/news/beincrypto:6c5a7f0a9094b:0-7-5-billion-in-bitcoin-and-ethereum-options-expire-today/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "5e19d7bff212b39f8ada08dc843d59a69dfdd8a38d412c29e2d159bbc266d764",
-      "title": "CoinpediaTop Altcoins To Avoid This Cycle: HYPE, ZEC And Others",
-      "url": "https://www.tradingview.com/news/coinpedia:129f31add094b:0-top-altcoins-to-avoid-this-cycle-hype-zec-and-others/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "c061a3548ef0f5cc041222dddca3a76950c6dda9e94e058df42610f4bb415fb2",
-      "title": "CoinpediaCould Strategy Be Forced to Sell Bitcoin? Top Investor Sounds Alarm",
-      "url": "https://www.tradingview.com/news/coinpedia:5d3899aee094b:0-could-strategy-be-forced-to-sell-bitcoin-top-investor-sounds-alarm/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
-    },
-    {
-      "id": "7d160d925b6aa48d2ce0e802e23f48e3d350fecb017ccf3c8746800fabb44b93",
-      "title": "ReutersIndia's RBI plans expansion of digital rupee through welfare schemes, cross border payments",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N4260JT:0-india-s-rbi-plans-expansion-of-digital-rupee-through-welfare-schemes-cross-border-payments/",
-      "source": "tradingview",
-      "scraped_at": "2026-05-29T10:11:57.129Z"
+      "scraped_at": "2026-05-29T13:50:03.479Z"
     }
   ]
 }
