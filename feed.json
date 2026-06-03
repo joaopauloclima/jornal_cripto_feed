@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-06-02T22:26:11.166Z",
-  "total": 15,
+  "generated_at": "2026-06-03T00:19:25.255Z",
+  "total": 14,
   "items": [
+    {
+      "id": "e8fe1fd036c4d5499e347b772d4cc962db78e69f7a58e2096948bc72213a3d2e",
+      "title": "NewsBTCBitcoin Loses $70K While 10,300 BTC Leave Mt. Gox-Linked Addresses – Details",
+      "url": "https://www.tradingview.com/news/newsbtc:34caf2ca4094b:0-bitcoin-loses-70k-while-10-300-btc-leave-mt-gox-linked-addresses-details/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-03T00:19:25.248Z"
+    },
+    {
+      "id": "7aa7beede5023df1b5267a79d939a8471b093b0289824d63d65e545648777acb",
+      "title": "ReutersBank of England faces calls from UK lawmakers to ease stablecoin plans",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N42A0ZC:0-bank-of-england-faces-calls-from-uk-lawmakers-to-ease-stablecoin-plans/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-03T00:19:25.248Z"
+    },
+    {
+      "id": "a6a6af3c30bcda823f583b6b2e0b819166705b38de463ab47d6a6e2934f38ce2",
+      "title": "CointelegraphUS lawmakers push back on Labor Department plans to include crypto in 401(k)s",
+      "url": "https://www.tradingview.com/news/cointelegraph:30cfc27a0094b:0-us-lawmakers-push-back-on-labor-department-plans-to-include-crypto-in-401-k-s/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-03T00:19:25.248Z"
+    },
+    {
+      "id": "fdcfeacfdc255de0e8f282ab9363879413e5dfa449ac30a3b90e9e049da4f000",
+      "title": "NewsBTCThis Dogecoin Setup Pushed Price From $0.002 To $0.7 In 2021. Why It Could Push Price To $2 This Time",
+      "url": "https://www.tradingview.com/news/newsbtc:58aa93048094b:0-this-dogecoin-setup-pushed-price-from-0-002-to-0-7-in-2021-why-it-could-push-price-to-2-this-time/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-03T00:19:25.248Z"
+    },
+    {
+      "id": "fdf18bd693742e49b8649a4b461334a0f70aadd3b226901bcc3d58d63cd3f93f",
+      "title": "CointelegraphSEC makes digital assets strategic priority through 2030",
+      "url": "https://www.tradingview.com/news/cointelegraph:5f44d4229094b:0-sec-makes-digital-assets-strategic-priority-through-2030/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-03T00:19:25.248Z"
+    },
     {
       "id": "59e9b671df27fa2cfd671dd38deca97c06a268220b95f56c0d71de482a307357",
       "title": "CoinMarketCalBotchain - BitMart Listing - 17 June 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:493f47610094b:0-botchain-bitmart-listing-17-june-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
+      "scraped_at": "2026-06-03T00:19:25.248Z"
     },
     {
       "id": "d9d830dd25a4b94285237c5aad8c446483a6b786f4eb5ce9779e26b5613016dd",
       "title": "CoinMarketCalaPriori - AscendEX Listing - 02 June 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:137740249094b:0-apriori-ascendex-listing-02-june-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
+      "scraped_at": "2026-06-03T00:19:25.248Z"
     },
     {
       "id": "7e753543c7d39f9cdf7a0b3f2ef7b3ca64081eb84f62ac367a6727d4e94935c5",
       "title": "CoinMarketCalSmall Thing - RAVEN First Deployment - 02 June 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:6c0e30e52094b:0-small-thing-raven-first-deployment-02-june-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
+      "scraped_at": "2026-06-03T00:19:25.248Z"
+    },
+    {
+      "id": "34b83e69718c43f3d41492e4f0d929acd4f5263f43984748dc92e9d150f4f5fd",
+      "title": "BeincryptoWas MicroStrategy and Saylor Right to Sell Some Bitcoin? The Maximalism Debate",
+      "url": "https://www.tradingview.com/news/beincrypto:47fe3c7f6094b:0-was-microstrategy-and-saylor-right-to-sell-some-bitcoin-the-maximalism-debate/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-03T00:19:25.248Z"
     },
     {
       "id": "6e91f1b8d414786dd69b9d9e5d5dd6d43c60b0e67b5c05a8272b806bb8497b04",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260602008522:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
+      "scraped_at": "2026-06-03T00:19:25.250Z"
     },
     {
       "id": "cc4664cd780f3cadec8c4abb1283c1c8702366af4b0abb5b6c3b336c535228e1",
       "title": "BeincryptoCharles Hoskinson on Fire as Cardano Faces ‘Wave of Shutdowns’, ADA Falls 10%",
       "url": "https://www.tradingview.com/news/beincrypto:de75045bb094b:0-charles-hoskinson-on-fire-as-cardano-faces-wave-of-shutdowns-ada-falls-10/",
       "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
+      "scraped_at": "2026-06-03T00:19:25.250Z"
     },
     {
       "id": "5634d9a8614153da620e8c1e8e59fcf9a7aee9abfb6b94d554fe0690f176d448",
       "title": "CointelegraphCrypto correction vaporized $176B in investor funds: Are bears back in control?",
       "url": "https://www.tradingview.com/news/cointelegraph:f74d691ea094b:0-crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control/",
       "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
+      "scraped_at": "2026-06-03T00:19:25.250Z"
     },
     {
       "id": "2f14d5447bf0958ea03d321fb56cf08becaf468169c12f85c73af8e20462ced4",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260602008258_20260602008258:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
+      "scraped_at": "2026-06-03T00:19:25.250Z"
     },
     {
       "id": "996b91523ffa1b48974d30218c7ee3ba4900f4c3c7351b6bccf1459f339a7d88",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260602008238:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
-    },
-    {
-      "id": "7e09314a819f1c9b782645102601d9255484b10381557a9fda6b8984506e843b",
-      "title": "BeincryptoExperts Warn Bitcoin Has a MicroStrategy Problem as BTC and MSTR Stock Sink",
-      "url": "https://www.tradingview.com/news/beincrypto:26c729930094b:0-experts-warn-bitcoin-has-a-microstrategy-problem-as-btc-and-mstr-stock-sink/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
-    },
-    {
-      "id": "a77045f1101567a11612fd5f95049f3161928c6a8d0fb2b22210aad2889bb6f1",
-      "title": "CointelegraphCrypto PACs pour $3M into Maryland races as California voters head to polls",
-      "url": "https://www.tradingview.com/news/cointelegraph:0b65665f8094b:0-crypto-pacs-pour-3m-into-maryland-races-as-california-voters-head-to-polls/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
-    },
-    {
-      "id": "86aac0dfdc121ad6b5f6d14894579faacadeef67fd45bafbbb9c4389e23fb053",
-      "title": "NewsBTCEthereum Coinbase Premium Hits Lowest Level Since February – Traders Are Watching",
-      "url": "https://www.tradingview.com/news/newsbtc:16e86d65d094b:0-ethereum-coinbase-premium-hits-lowest-level-since-february-traders-are-watching/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
-    },
-    {
-      "id": "30ec2ebc03fc583e8ac63b8175e18eb9d4a139dfa346a1e3becd233d439604e7",
-      "title": "The BlockUS sanctions Nobitex and other Iranian crypto exchanges under ‘Economic Fury’ campaign",
-      "url": "https://www.tradingview.com/news/the_block:c907f967e094b:0-us-sanctions-nobitex-and-other-iranian-crypto-exchanges-under-economic-fury-campaign/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
-    },
-    {
-      "id": "bd5e4dbca93e6b523d3873c6cc082c3423ae028faeaffd7734b3301ed0db59c4",
-      "title": "Brave New CoinSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:e67ba81d1094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
-    },
-    {
-      "id": "fcfb899214e2952bbbc2cafd65547fbb3f29402196b561d6a7586f7548e57c30",
-      "title": "KNewsBTCCrypto In 401(k)s: Senators Sanders, Warren Letter Warns $14 Trillion At Risk From DOL Proposal",
-      "url": "https://www.tradingview.com/news/newsbtc:6a2ab806b094b:0-crypto-in-401-k-s-senators-sanders-warren-letter-warns-14-trillion-at-risk-from-dol-proposal/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
-    },
-    {
-      "id": "1efed45f3c8c9c375a3a316d536ce2af5b7cacb630907937089c25ffec8e1112",
-      "title": "CointelegraphCoinbase invests in ProShares ETF tailored for stablecoin reserve assets",
-      "url": "https://www.tradingview.com/news/cointelegraph:d3b425f1e094b:0-coinbase-invests-in-proshares-etf-tailored-for-stablecoin-reserve-assets/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-02T22:26:11.162Z"
+      "scraped_at": "2026-06-03T00:19:25.250Z"
     }
   ]
 }
