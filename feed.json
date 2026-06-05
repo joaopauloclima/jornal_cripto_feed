@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-06-05T17:33:18.353Z",
-  "total": 14,
+  "generated_at": "2026-06-05T19:24:13.436Z",
+  "total": 15,
   "items": [
+    {
+      "id": "501b2f4b790bbe3d6ec028634878a68d807b11413b672314dfb56197b9a6de5b",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260605005882:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.432Z"
+    },
+    {
+      "id": "64752234ab736d48cf04e38e0ec1f0e1e2071c57774d887efdbbe2a226d3992d",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260605005871:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.432Z"
+    },
     {
       "id": "9c6e8a2d989c4e3db31f9c4727321dc7ba1b4cdce867db89be9edb380de034db",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260605002340:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
+      "scraped_at": "2026-06-05T19:24:13.432Z"
     },
     {
-      "id": "3099e148aa78ddadff743482c9afe9307217970039a7c2b5a7dccfadc85a2d24",
-      "title": "CoindarBella Protocol Partners With Xona Agent",
-      "url": "https://www.tradingview.com/news/coindar:887977c79094b:0-bella-protocol-partners-with-xona-agent/",
+      "id": "0d81da9a9972e2705a8e077114c0054d76a182e123cbf16b8972e9228e4e9e19",
+      "title": "CointelegraphKraken offers SpaceX IPO access through xStocks",
+      "url": "https://www.tradingview.com/news/cointelegraph:f08669c23094b:0-kraken-offers-spacex-ipo-access-through-xstocks/",
       "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
+      "scraped_at": "2026-06-05T19:24:13.432Z"
     },
     {
-      "id": "eb36f5941118933264f27690b54ad34a49ff30515678d3fdeb1cafa4c0c26812",
-      "title": "GuruFocusBitcoin Treasury Stocks Erase $62 Billion as Crypto Trade Unwinds",
-      "url": "https://www.tradingview.com/news/gurufocus:bcd95fbdd094b:0-bitcoin-treasury-stocks-erase-62-billion-as-crypto-trade-unwinds/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "b6e2bef75535df25ca7e544c0fb897bedfff7680ece345a1687aecbf0f350a54",
-      "title": "InvezzBitcoin slid below $60,000: why is the crypto market crashing?",
-      "url": "https://www.tradingview.com/news/invezz:9151545b7094b:0-bitcoin-slid-below-60-000-why-is-the-crypto-market-crashing/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "b5ec8e9aeffab3d8770fec7fc7ad19d85605af31e5a639ba8e3e328bb7b52e71",
-      "title": "CointelegraphCrypto Biz: Nobody told Saylor ‘never sell’",
-      "url": "https://www.tradingview.com/news/cointelegraph:d18bf17e6094b:0-crypto-biz-nobody-told-saylor-never-sell/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "2f1a941db4494f9fd2d1919d7801fb49857ec913989bc65e7304f8c4a957c41e",
-      "title": "CoindarChiliz Opens PEPPER Parliament Candidate Nominations",
-      "url": "https://www.tradingview.com/news/coindar:deff9a023094b:0-chiliz-opens-pepper-parliament-candidate-nominations/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "052ee586436f78fe3d62cbd590775767ca39c8f3baa8c1dfe579b99707904014",
-      "title": "CoinMarketCalKaia - Alchemy Partnership - 05 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:b2127d97d094b:0-kaia-alchemy-partnership-05-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "73c2514d9dd56e988d1e0b3350f4fbe18f635c6211782931c65e1db31da0a9f3",
-      "title": "CoinMarketCalAxie Infinity - Terrariums V1 Launch - 17 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:b9acfb895094b:0-axie-infinity-terrariums-v1-launch-17-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "c508cb16e5e3974f699781d91b85290b78883a1a388312b4171f71f8c9749538",
-      "title": "CoinMarketCalYOM - Kraken Listing - 05 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:fef29f9ab094b:0-yom-kraken-listing-05-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "741adc57e3682fb506e4909faa25e57accfc760dca9719f3aeced258ae7c0072",
-      "title": "The BlockNext up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
-      "url": "https://www.tradingview.com/news/the_block:042cd9698094b:0-next-up-taxes-crypto-tax-legislation-circulated-ahead-of-house-ways-and-means-committee-hearing-next-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "ab0d93577a68bf3f94a5d2a9bab1999b32bac6fceab64bda785320f368c630ba",
-      "title": "ReutersTexas grid flags risks as data centers, crypto sites fail voltage tests",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N42D0PB:0-texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "41813e77a631ffa5b6d3a1a0cfde1b4e5e874a8aeeb9740349bf75a7230a80e0",
-      "title": "The Block‘Please stop the FUD’: Zcash treasury company Cypherpunk remains committed to accumulating 5% of ZEC supply",
-      "url": "https://www.tradingview.com/news/the_block:5593da2ca094b:0-please-stop-the-fud-zcash-treasury-company-cypherpunk-remains-committed-to-accumulating-5-of-zec-supply/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
-    },
-    {
-      "id": "79a49d77017deda91466c68cd1ecfdef6a5042fad31b9eec01309657761b40cf",
+      "id": "fc9ede80ec6bfb588d068eb37abea66f3cbaf9c8b98c8a732d499151921db235",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260605005450:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260605003931:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
+      "scraped_at": "2026-06-05T19:24:13.432Z"
     },
     {
-      "id": "763b23d7a0ee5896ce35c1cf42e3e2ebace896911d4b01523bf1c9b1a4c595d6",
-      "title": "CointelegraphPump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
-      "url": "https://www.tradingview.com/news/cointelegraph:e544b6a60094b:0-pump-fun-bounty-platform-pays-users-to-tattoo-tokens-and-chase-viral-stunts/",
+      "id": "534e26b3557105522a233a5ba820126a03c8812616f89a61aa1bc55c08bf91fe",
+      "title": "CNBC TV18Sign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/cnbctv:4aa375acd094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-05T17:33:18.350Z"
+      "scraped_at": "2026-06-05T19:24:13.432Z"
+    },
+    {
+      "id": "3d5b1c5b5b794c646e47aa643d5244c94dc20ea163bda9a0f3a46d20d7e198af",
+      "title": "CointelegraphCrypto tax in Illinois FY2027 budget is one step away from becoming law",
+      "url": "https://www.tradingview.com/news/cointelegraph:07e5f10df094b:0-crypto-tax-in-illinois-fy2027-budget-is-one-step-away-from-becoming-law/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.432Z"
+    },
+    {
+      "id": "ed60aa26b62d5fa91faee2d3ead61fb34981f7003a7b9d908da57125cbc90e3d",
+      "title": "NewsBTCAre Institutions Crashing The Bitcoin Price On Purpose? Here’s What People Are Saying",
+      "url": "https://www.tradingview.com/news/newsbtc:1734d21be094b:0-are-institutions-crashing-the-bitcoin-price-on-purpose-here-s-what-people-are-saying/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.432Z"
+    },
+    {
+      "id": "cb344891f4a4392a64bf7fd7d0ec6b6240057a4c6ada3f350f61a9741192434f",
+      "title": "BeincryptoCardano CEO Urges Calm as ADA Crashes to 2020 Lows",
+      "url": "https://www.tradingview.com/news/beincrypto:ca37171b4094b:0-cardano-ceo-urges-calm-as-ada-crashes-to-2020-lows/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.432Z"
+    },
+    {
+      "id": "90e62b4ee61d28ff4d17dae2f3d649011b22ed2aad795987d0105fa3747ef324",
+      "title": "CoindarAlchemix Partners With Chronicle",
+      "url": "https://www.tradingview.com/news/coindar:ceeafee2f094b:0-alchemix-partners-with-chronicle/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.432Z"
+    },
+    {
+      "id": "a4e8eef7e5871c23d30b1f17ea81588579256817f31fe7371191d7887a384057",
+      "title": "CoindarUMA to Exclude Voting Pool Delegates From Gas Rebates on June 15",
+      "url": "https://www.tradingview.com/news/coindar:ba012a212094b:0-uma-to-exclude-voting-pool-delegates-from-gas-rebates-on-june-15/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.432Z"
+    },
+    {
+      "id": "32098386785ea4595424dab0f74cdfd12531ca0baa5052c170fa1bf4fc298a34",
+      "title": "CoindarGains Network Opens GNS Governance Vote Until June 7",
+      "url": "https://www.tradingview.com/news/coindar:aa0b4cf20094b:0-gains-network-opens-gns-governance-vote-until-june-7/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.432Z"
+    },
+    {
+      "id": "121ad1df30c229dfa0efa851b2aa3fde9115e2e069aa3128149cafe820e26ac0",
+      "title": "CoindarPundi X Partners With ChimpX",
+      "url": "https://www.tradingview.com/news/coindar:1bf5041f6094b:0-pundi-x-partners-with-chimpx/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.433Z"
+    },
+    {
+      "id": "a3fdb7e87042897a82d6503739dc0560738b7e9a7cdd445161e41c66e194a291",
+      "title": "CoindarXertra to Release Compass on June 18th",
+      "url": "https://www.tradingview.com/news/coindar:88f6a3f20094b:0-xertra-to-release-compass-on-june-18th/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.433Z"
+    },
+    {
+      "id": "081cf5ec17d654df87ed732beca23d0ffbc6cc44860d6fcb30a643549899b2dc",
+      "title": "CoinpediaWhy Peter Schiff Says Michael Saylor Is Responsible for Both Bitcoin’s Rise and Crash",
+      "url": "https://www.tradingview.com/news/coinpedia:9dae55b8f094b:0-why-peter-schiff-says-michael-saylor-is-responsible-for-both-bitcoin-s-rise-and-crash/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-05T19:24:13.433Z"
     }
   ]
 }
