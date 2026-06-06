@@ -1,104 +1,97 @@
 {
-  "generated_at": "2026-06-06T11:38:17.936Z",
-  "total": 14,
+  "generated_at": "2026-06-06T12:55:38.583Z",
+  "total": 13,
   "items": [
+    {
+      "id": "83b337f28751b796b20910aa864c595e91eea178614ddf31eb4a8e0ba301ae90",
+      "title": "Binance NewsStarkWare Announces Starknet v0.14.3 Mainnet Launch Planned for June 22",
+      "url": "https://www.tradingview.com/news/binance_news:f2fe1e20e094b:0-starkware-announces-starknet-v0-14-3-mainnet-launch-planned-for-june-22/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-06T12:55:38.579Z"
+    },
+    {
+      "id": "97757c82bb66ae03e3d3ebb3615c72f01b9d2b8f21daf0c5d75f70b1d29c8ad5",
+      "title": "Binance NewsCrypto News: Crypto Tax Clarity Is Coming — Seven Draft Bills Head Into Tuesday's House Hearing as Illinois Moves to Tax Every Transaction",
+      "url": "https://www.tradingview.com/news/binance_news:ab3204067094b:0-crypto-news-crypto-tax-clarity-is-coming-seven-draft-bills-head-into-tuesday-s-house-hearing-as-illinois-moves-to-tax-every-transaction/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-06T12:55:38.579Z"
+    },
+    {
+      "id": "39dc2b371bd5ba496ce049e394adcf5b1a964df71a669dc56740cd174fc17aed",
+      "title": "StocktwitsBitcoin Is The 'Last Functioning Smoke Alarm Of Liquidity,' Says Macro Analyst Luke Gromen",
+      "url": "https://www.tradingview.com/news/stocktwits:787692fa0094b:0-bitcoin-is-the-last-functioning-smoke-alarm-of-liquidity-says-macro-analyst-luke-gromen/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-06T12:55:38.579Z"
+    },
     {
       "id": "11faf979a76ac61210bb5a32b811dbdf55b96b215e17af8efe164eb2d046ae8a",
       "title": "NewsBTCCardano Price Could Be Heading To $0.10 — Crypto Founder Offers Insight",
       "url": "https://www.tradingview.com/news/newsbtc:9cf8c5e4d094b:0-cardano-price-could-be-heading-to-0-10-crypto-founder-offers-insight/",
       "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.931Z"
+      "scraped_at": "2026-06-06T12:55:38.579Z"
     },
     {
       "id": "aef1b45cb0abbbd9b484f362c6fc2fe27123d371a547108e9fdf344cf7181247",
       "title": "BeincryptoJoseph Lubin’s $122 Million Move Sparks Sell-Off Fears for Ethereum",
       "url": "https://www.tradingview.com/news/beincrypto:b2a32c582094b:0-joseph-lubin-s-122-million-move-sparks-sell-off-fears-for-ethereum/",
       "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.931Z"
+      "scraped_at": "2026-06-06T12:55:38.579Z"
+    },
+    {
+      "id": "97e8f4ceaed451c9f12299c32ff099d8d9010a56d54ef0d67b2d300e9bfd7e20",
+      "title": "Binance NewsCoinDesk: No clear sign retail sold bitcoin to fund SpaceX IPO, despite speculation",
+      "url": "https://www.tradingview.com/news/binance_news:8168865dc094b:0-coindesk-no-clear-sign-retail-sold-bitcoin-to-fund-spacex-ipo-despite-speculation/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-06T12:55:38.579Z"
+    },
+    {
+      "id": "82028227d35281d92c1917a081fe15535702a4142ff73b158622d2dc9846e3ca",
+      "title": "Binance NewsHoskinson X post sparks 10% ADA sell-off; Cardano token hits $0.15",
+      "url": "https://www.tradingview.com/news/binance_news:935b845d4094b:0-hoskinson-x-post-sparks-10-ada-sell-off-cardano-token-hits-0-15/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-06T12:55:38.579Z"
     },
     {
       "id": "e6797db517348f44ed9e9869663c22d17b3493583c3e313555c61fc66032b872",
       "title": "CoinpediaThe Real Reason Behind Market Sell-off: Stocks, Crypto & Gold Crash",
       "url": "https://www.tradingview.com/news/coinpedia:e92240bd6094b:0-the-real-reason-behind-market-sell-off-stocks-crypto-gold-crash/",
       "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.931Z"
+      "scraped_at": "2026-06-06T12:55:38.579Z"
     },
     {
       "id": "f8cfcf63fc5d7bb7820f3555f64b4cfac69632f895e75c3bc1fa4f414dfe17aa",
       "title": "CoinpediaInjective Just Opened a New Growth Chapter: Is INJ Price Ready to Explode?",
       "url": "https://www.tradingview.com/news/coinpedia:867cbebda094b:0-injective-just-opened-a-new-growth-chapter-is-inj-price-ready-to-explode/",
       "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.931Z"
+      "scraped_at": "2026-06-06T12:55:38.579Z"
     },
     {
       "id": "38cd48223483b7950d76a41d2ba5e19c24a2a9eda082f7de69d481d1c981c655",
       "title": "BeincryptoXRP Plunges to 2024 Lows With Risk of a 23% Drop: Will Ripple’s Ex-CTO Roadmap Help Boost the Price?",
       "url": "https://www.tradingview.com/news/beincrypto:1f2452bc8094b:0-xrp-plunges-to-2024-lows-with-risk-of-a-23-drop-will-ripple-s-ex-cto-roadmap-help-boost-the-price/",
       "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
+      "scraped_at": "2026-06-06T12:55:38.580Z"
+    },
+    {
+      "id": "ab9b0156ad0dd9cb71efe481116a632e4e2903acdf91e1836d5b875041d11d9e",
+      "title": "Binance NewsSecurity Engineer Taylor Hornby Adds Monero to Audit Queue After Zcash Vulnerability",
+      "url": "https://www.tradingview.com/news/binance_news:49a619b83094b:0-security-engineer-taylor-hornby-adds-monero-to-audit-queue-after-zcash-vulnerability/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-06T12:55:38.580Z"
     },
     {
       "id": "0398f14f5d2764838d90ff9f54160dae4e19417776660ae61b681bbf0bb51eeb",
       "title": "CoinpediaGreece Plans 15% Tax on Crypto Gains Under New Draft Law",
       "url": "https://www.tradingview.com/news/coinpedia:7b2b796cd094b:0-greece-plans-15-tax-on-crypto-gains-under-new-draft-law/",
       "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
+      "scraped_at": "2026-06-06T12:55:38.580Z"
     },
     {
-      "id": "d97d188cd968df1ce16207cee8ac7a4a03f22c33aee720276376d74388132cc6",
-      "title": "CoinpediaCould Hackers Have Secretly Minted Unlimited ZEC? Dragonfly Weighs In",
-      "url": "https://www.tradingview.com/news/coinpedia:770415d84094b:0-could-hackers-have-secretly-minted-unlimited-zec-dragonfly-weighs-in/",
+      "id": "74738ccc7b8d4035ffe27aa21057869208104eb9ec0bbe082c66fc92eed10b9f",
+      "title": "Binance NewsSomnia Says X and LinkedIn Accounts Were Briefly Compromised, Malicious Posts Removed",
+      "url": "https://www.tradingview.com/news/binance_news:fd8a1570e094b:0-somnia-says-x-and-linkedin-accounts-were-briefly-compromised-malicious-posts-removed/",
       "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
-    },
-    {
-      "id": "b5719e3ca322fc4ffd887aca493148bb7aef87878610529c1159762fedcd8d73",
-      "title": "StocktwitsZcash Roars Back While Bitcoin Bleeds Despite Bug Scare And Arthur Hayes Dump",
-      "url": "https://www.tradingview.com/news/stocktwits:e36d25386094b:0-zcash-roars-back-while-bitcoin-bleeds-despite-bug-scare-and-arthur-hayes-dump/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
-    },
-    {
-      "id": "d0584da6b74c840558b1e84b7f9a5b9ae18744142434c6d048ec2b3fee7dcebd",
-      "title": "NewsBTCAnalyst Who Predicted the Bitcoin Crash Says Price Could Reach $40,000, Here’s When",
-      "url": "https://www.tradingview.com/news/newsbtc:3b7578eb6094b:0-analyst-who-predicted-the-bitcoin-crash-says-price-could-reach-40-000-here-s-when/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
-    },
-    {
-      "id": "0ae28da135ed8c213a730f343ec2b292bb0ecb2105df68fe7a3bcf9b1e8dc366",
-      "title": "CoinpediaArthur Hayes Dumps Worldcoin (WLD) After Exiting ZEC, NEAR, and HYPE",
-      "url": "https://www.tradingview.com/news/coinpedia:85675fb96094b:0-arthur-hayes-dumps-worldcoin-wld-after-exiting-zec-near-and-hype/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
-    },
-    {
-      "id": "9de8f48d49a5c7b904f408b3b6af438410da26e19ff1471db5ea4bc212d3f6ba",
-      "title": "NewsBTCLivestream Chaos 2.0? Pump.Fun Under Fire Over New Bounty Feature",
-      "url": "https://www.tradingview.com/news/newsbtc:cc6ce64ac094b:0-livestream-chaos-2-0-pump-fun-under-fire-over-new-bounty-feature/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
-    },
-    {
-      "id": "e414c04589b222282994e0036c2c411614c47effd9e78f64db702e7c1f2b84fd",
-      "title": "99BitcoinsHyperliquid Unlock: What Next for the HYPE June Token Unlock?",
-      "url": "https://www.tradingview.com/news/99Bitcoins:db180e407094b:0-hyperliquid-unlock-what-next-for-the-hype-june-token-unlock/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
-    },
-    {
-      "id": "c293dac33324261f4dc50567fe9775da7a0ddeda9b9e7971b42a46ffcae73866",
-      "title": "NewsBTCXRP Monthly RSI Drops To All-Time Low As Market Watches For Confirmation",
-      "url": "https://www.tradingview.com/news/newsbtc:92cca155d094b:0-xrp-monthly-rsi-drops-to-all-time-low-as-market-watches-for-confirmation/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
-    },
-    {
-      "id": "956bbb664f70611f73cc994dc5bacf757eb596b60f8346371d4072390564a74c",
-      "title": "CoinpediaEthereum Co-founder Linked Wallet Move 80,001 ETH, Is he Dumping ETH?",
-      "url": "https://www.tradingview.com/news/coinpedia:ff51793ed094b:0-ethereum-co-founder-linked-wallet-move-80-001-eth-is-he-dumping-eth/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-06T11:38:17.932Z"
+      "scraped_at": "2026-06-06T12:55:38.580Z"
     }
   ]
 }
