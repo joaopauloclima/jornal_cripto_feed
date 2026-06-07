@@ -1,104 +1,97 @@
 {
-  "generated_at": "2026-06-07T08:17:03.197Z",
-  "total": 14,
+  "generated_at": "2026-06-07T10:56:47.289Z",
+  "total": 13,
   "items": [
+    {
+      "id": "8f5bb3c6f4c4e75cdac64f79875bdf68c310a3ef79fc4483e5ab8c5aea9330b6",
+      "title": "ChainwireBybit Launches IPO Express, Becoming One of First Centralized Crypto Exchanges to Offer Tokenized IPO Access, Starting With SpaceX",
+      "url": "https://www.tradingview.com/news/chainwire:10736829d094b:0-bybit-launches-ipo-express-becoming-one-of-first-centralized-crypto-exchanges-to-offer-tokenized-ipo-access-starting-with-spacex/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-07T10:56:47.285Z"
+    },
+    {
+      "id": "bf5b5b0bd00ba3ca02df2716919342ca5eb2a264a3731e45c9bee90d360176e9",
+      "title": "Stocktwits'Cancerous' Altcoins And A Struggling Ethereum Could Drag Bitcoin To $38,000, Gary Cardone Warns",
+      "url": "https://www.tradingview.com/news/stocktwits:c58034a91094b:0-cancerous-altcoins-and-a-struggling-ethereum-could-drag-bitcoin-to-38-000-gary-cardone-warns/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-07T10:56:47.285Z"
+    },
+    {
+      "id": "8ba737e4bf4b3e6dc42a859ad403f270921ea76f78dd0f32d907fbd1ed560f3c",
+      "title": "EQSBybit Launches IPO Express, Becoming One of First Centralized Crypto Exchanges to Offer Tokenized IPO Access, Starting With SpaceX",
+      "url": "https://www.tradingview.com/news/eqs:78796ae4f094b:0-bybit-launches-ipo-express-becoming-one-of-first-centralized-crypto-exchanges-to-offer-tokenized-ipo-access-starting-with-spacex/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-07T10:56:47.285Z"
+    },
     {
       "id": "271a116075c8639d0667141fd81b413cdb409915a3078325c3b07a2961f2cc05",
       "title": "Binance NewsOn-Chain Analyst Says Trader’s Bitcoin Long Shows $5.88 Million Unrealized Profit",
       "url": "https://www.tradingview.com/news/binance_news:ca7571ad6094b:0-on-chain-analyst-says-trader-s-bitcoin-long-shows-5-88-million-unrealized-profit/",
       "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
+      "scraped_at": "2026-06-07T10:56:47.285Z"
+    },
+    {
+      "id": "4757939de8a92d3da9d5427e41d0b19c70c6cb2f2dd9920f0ac13240a67a9ffd",
+      "title": "BeincryptoGermany’s Infamous $2.89 Billion Bitcoin Sale Is Suddenly Looking Smarter",
+      "url": "https://www.tradingview.com/news/beincrypto:b549c84a0094b:0-germany-s-infamous-2-89-billion-bitcoin-sale-is-suddenly-looking-smarter/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-07T10:56:47.285Z"
     },
     {
       "id": "7a973f9ed34cf2aeb9913258fd89cdd857f1323934ceb076418c7dca129c885b",
       "title": "Binance NewsCoinglass Data Show Hyperliquid Whale Positions Total $4.09 Billion, With Shorts Slightly Ahead",
       "url": "https://www.tradingview.com/news/binance_news:fac4e0da6094b:0-coinglass-data-show-hyperliquid-whale-positions-total-4-09-billion-with-shorts-slightly-ahead/",
       "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
+      "scraped_at": "2026-06-07T10:56:47.285Z"
     },
     {
       "id": "af0052cd5c9425a2945a3df0fd497fefd2c37acc3174cd04e947b034971c9317",
       "title": "Binance NewsPolymarket Odds for Bitcoin Reaching $62,000 on June 7 Jump 15 Percentage Points",
       "url": "https://www.tradingview.com/news/binance_news:0995d6fb8094b:0-polymarket-odds-for-bitcoin-reaching-62-000-on-june-7-jump-15-percentage-points/",
       "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
+      "scraped_at": "2026-06-07T10:56:47.285Z"
     },
     {
       "id": "e6e7946d78928cf9806f764453aeea23360d4b92e8a7ec53a197d5578e45fabe",
       "title": "ReutersDelta Insurance Board Proposes Capital Increase",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42D0UY:0-delta-insurance-board-proposes-capital-increase/",
       "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
-    },
-    {
-      "id": "8fd962d84628eff4860596c5ce9b5e31264fbcfc2340e0fb0a657b6847daeff4",
-      "title": "InvezzEthereum price: inverted cup & handle points to a crash amid ETF outflows",
-      "url": "https://www.tradingview.com/news/invezz:4ab84c201094b:0-ethereum-price-inverted-cup-handle-points-to-a-crash-amid-etf-outflows/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
+      "scraped_at": "2026-06-07T10:56:47.285Z"
     },
     {
       "id": "f7f5bde83f7567e3f5ebc9d6d9a07f67d4c1e597c52dc151a499a4ae82f7f339",
       "title": "Binance NewsPiggyBank Takes 15% NAV Hit After $LAB Basis Trade Hedge Unwind",
       "url": "https://www.tradingview.com/news/binance_news:3ca8d5ada094b:0-piggybank-takes-15-nav-hit-after-lab-basis-trade-hedge-unwind/",
       "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
+      "scraped_at": "2026-06-07T10:56:47.285Z"
     },
     {
-      "id": "ff9fc6351ef2772351d5dea04511778b802bc7e16564669850ca34899f21fe93",
-      "title": "InvezzHumanity, LUNC, Audiera, Toncoin prices jump: is this a dead-cat bounce?",
-      "url": "https://www.tradingview.com/news/invezz:c99768fdf094b:0-humanity-lunc-audiera-toncoin-prices-jump-is-this-a-dead-cat-bounce/",
+      "id": "8fd962d84628eff4860596c5ce9b5e31264fbcfc2340e0fb0a657b6847daeff4",
+      "title": "InvezzEthereum price: inverted cup & handle points to a crash amid ETF outflows",
+      "url": "https://www.tradingview.com/news/invezz:4ab84c201094b:0-ethereum-price-inverted-cup-handle-points-to-a-crash-amid-etf-outflows/",
       "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
+      "scraped_at": "2026-06-07T10:56:47.286Z"
     },
     {
       "id": "25557065b3117d714f49524c78cf89fff3af3c3dba6f1bb8b024193b21325605",
       "title": "Binance NewsSouth Korea’s Five Largest Crypto Exchanges Report 57 Hacks and System Incidents From 2020 to April 2026",
       "url": "https://www.tradingview.com/news/binance_news:d4bed3eb3094b:0-south-korea-s-five-largest-crypto-exchanges-report-57-hacks-and-system-incidents-from-2020-to-april-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
+      "scraped_at": "2026-06-07T10:56:47.286Z"
+    },
+    {
+      "id": "ff9fc6351ef2772351d5dea04511778b802bc7e16564669850ca34899f21fe93",
+      "title": "InvezzHumanity, LUNC, Audiera, Toncoin prices jump: is this a dead-cat bounce?",
+      "url": "https://www.tradingview.com/news/invezz:c99768fdf094b:0-humanity-lunc-audiera-toncoin-prices-jump-is-this-a-dead-cat-bounce/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-07T10:56:47.286Z"
     },
     {
       "id": "cde3cecbfaf7c9ecd68bfa317ee18deeb4b0afefbe8b63e26a9e50d014f29839",
       "title": "Binance NewsBitcoin(BTC) Surpasses 62,000 USDT with a 3.27% Increase in 24 Hours",
       "url": "https://www.tradingview.com/news/binance_news:29b512204094b:0-bitcoin-btc-surpasses-62-000-usdt-with-a-3-27-increase-in-24-hours/",
       "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
-    },
-    {
-      "id": "71e3a0431f4cc83250deb10061d8dda6dd18f368f6bb7b4dce8dd69a8ade4ace",
-      "title": "Binance NewsEthereum(ETH) Surpasses 1,600 USDT with a 5.27% Increase in 24 Hours",
-      "url": "https://www.tradingview.com/news/binance_news:47fecbd76094b:0-ethereum-eth-surpasses-1-600-usdt-with-a-5-27-increase-in-24-hours/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
-    },
-    {
-      "id": "32af14f6a967b8c4102b0ea276cc97a2eecc7abeffa770a16dafb5ff6d7794b2",
-      "title": "Crypto BriefingTRON lists TRX on Bitnomial to enhance regulated US access",
-      "url": "https://www.tradingview.com/news/cryptobriefing:e3d27ddd8094b:0-tron-lists-trx-on-bitnomial-to-enhance-regulated-us-access/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.193Z"
-    },
-    {
-      "id": "803167a0bef0cfefe99c55d905080e29d9eef8830ddb4ec87546f4a0f2085e13",
-      "title": "NewsBTCBitcoin Price Plunges To $59K, Sparking Fears Of Deeper Decline",
-      "url": "https://www.tradingview.com/news/newsbtc:539a7ae20094b:0-bitcoin-price-plunges-to-59k-sparking-fears-of-deeper-decline/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.194Z"
-    },
-    {
-      "id": "aa573df4267bc50bb479a72e49ffc04112ba77aa59330fe67972484ce6b1ae87",
-      "title": "Binance NewsCircle Data Show USDC Issuance of 7.7 Billion and Redemptions of 8.3 Billion in Week Ending June 4",
-      "url": "https://www.tradingview.com/news/binance_news:99a11536e094b:0-circle-data-show-usdc-issuance-of-7-7-billion-and-redemptions-of-8-3-billion-in-week-ending-june-4/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.194Z"
-    },
-    {
-      "id": "71e4bd5b5f251378368964dace78a9f2af86c967c8c6004ef7bb7378c112802d",
-      "title": "Binance NewsHex Trust-Tagged Address Withdraws 19.84 Million H From Exchanges, Ai Yi Monitoring Shows",
-      "url": "https://www.tradingview.com/news/binance_news:88771e950094b:0-hex-trust-tagged-address-withdraws-19-84-million-h-from-exchanges-ai-yi-monitoring-shows/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-07T08:17:03.194Z"
+      "scraped_at": "2026-06-07T10:56:47.286Z"
     }
   ]
 }
