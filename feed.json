@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-12T17:28:15.167Z",
+  "generated_at": "2026-06-12T19:35:46.708Z",
   "total": 14,
   "items": [
+    {
+      "id": "c5f0f2f09cb38e921a26744f5a93550572c7d70a8eeb0629493027eb39ff04c9",
+      "title": "CoindarAstar Network Opens Runtime 2207 Referendum",
+      "url": "https://www.tradingview.com/news/coindar:cf7fd51ef094b:0-astar-network-opens-runtime-2207-referendum/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "8a26b01b8b30215646a00dffbd0449aded8eae804809f04708b98a3ab8bc1ba8",
+      "title": "CoindarBitTorrent to Begin Phased Shutdown of BTTC Bridge on June 13",
+      "url": "https://www.tradingview.com/news/coindar:b39822935094b:0-bittorrent-to-begin-phased-shutdown-of-bttc-bridge-on-june-13/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "55cffd419401d8f6e831879815cc223602c2d0737049f794f0c14368e7ce2c9b",
+      "title": "BeincryptoBitcoin Core Developers Find Privacy Bug That Can Leak User IP Addresses",
+      "url": "https://www.tradingview.com/news/beincrypto:8e9cd965a094b:0-bitcoin-core-developers-find-privacy-bug-that-can-leak-user-ip-addresses/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "51ba02c4e45168279316a601db34d3417432b0ca4ed323fb5d5b9baf75ac9b42",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260612005459:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "ac8812c534d63ad8c7ed9a0c09905fd6c576908d97f931e960d7a87b5bf1a283",
+      "title": "BeincryptoBitcoin Bottom Debate: Standard Chartered and Galaxy Agree on Just One Thing",
+      "url": "https://www.tradingview.com/news/beincrypto:e1226fc1b094b:0-bitcoin-bottom-debate-standard-chartered-and-galaxy-agree-on-just-one-thing/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "f390e6c6703550353f56b7d02e34277748eebac76a02c207e27cd39afb16edc1",
+      "title": "BeincryptoDogecoin (DOGE) Surges 6% as Elon Musk Becomes a Trillionaire",
+      "url": "https://www.tradingview.com/news/beincrypto:a399a2fd1094b:0-dogecoin-doge-surges-6-as-elon-musk-becomes-a-trillionaire/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "fc00259a8b975e8c69b39dd1ab032a49765097639dfa3245fc1ea20c0b9e0d4f",
+      "title": "ACCESS NewswireSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-06-12:newsml_ACS4WYT0a:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "abb75a665f3ed7268baee74933449f5220cf423a36adfa706b7b6dd401cfd439",
+      "title": "NewsBTCKraken Adds USDCx Support On Canton As Institutional Stablecoin Rails Expand",
+      "url": "https://www.tradingview.com/news/newsbtc:2ede887e3094b:0-kraken-adds-usdcx-support-on-canton-as-institutional-stablecoin-rails-expand/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "1932d54297d13ba22cb92bb581cb44754ab3105719fcbabed16e664be9646151",
+      "title": "ChainwireMantle and xStocks Bring Tokenized SpaceX (SPCXx) to Fluxion & Merchant Moe as History's Largest IPO Goes Live",
+      "url": "https://www.tradingview.com/news/chainwire:e1a81e8c8094b:0-mantle-and-xstocks-bring-tokenized-spacex-spcxx-to-fluxion-merchant-moe-as-history-s-largest-ipo-goes-live/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "76f1ad87d4b6915c71a6c7e0965b271a558985396911ae2774e843232791a81a",
+      "title": "ChainwireBybit Spot Lists xStocks’ SpaceX on IPO Day",
+      "url": "https://www.tradingview.com/news/chainwire:8b9355e34094b:0-bybit-spot-lists-xstocks-spacex-on-ipo-day/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
     {
       "id": "3743c37c658e60919bd7fa1c99b4b1e69c43a23d4151e748b0f54d7bef3e3682",
       "title": "ChainwireBybit Introduces Broker Dedicated Connection: Enterprise-Grade API Infrastructure for Trading Pros",
       "url": "https://www.tradingview.com/news/chainwire:aa2d543f4094b:0-bybit-introduces-broker-dedicated-connection-enterprise-grade-api-infrastructure-for-trading-pros/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
+      "scraped_at": "2026-06-12T19:35:46.704Z"
+    },
+    {
+      "id": "a236f1afec919b82b1b8e59dff20285e6ba47eeac067a76a30c29e9c242a3726",
+      "title": "CoinpediaRAIN, Canton, and Velvet Eye New Highs As Traders Watch Weekend Breakouts",
+      "url": "https://www.tradingview.com/news/coinpedia:ddb898495094b:0-rain-canton-and-velvet-eye-new-highs-as-traders-watch-weekend-breakouts/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T19:35:46.704Z"
     },
     {
       "id": "26504987d05ab8299465680cfea176a5830da081951e833b8dd76cea54039d23",
       "title": "CoinMarketCalAvalanche (AVAX) - Dinari x Avalanche - 12 June 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:717d74c02094b:0-avalanche-avax-dinari-x-avalanche-12-june-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
+      "scraped_at": "2026-06-12T19:35:46.704Z"
     },
     {
       "id": "1fa887ededd5c40635da0dda2b7e69fe73e2a31f30dd6e41f62dd7b4b7f7eec7",
       "title": "CoinMarketCalEXOD (EXOD) - Tokenized Markets - 12 June 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:55d442296094b:0-exod-exod-tokenized-markets-12-june-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "1bb27d01452ef4b9e26dc7d45db045042a44b9f0d04ce4bd92345bcf405ffe3f",
-      "title": "CoinMarketCalMYX Finance (MYX) - MYX V2 - 12 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:eab887113094b:0-myx-finance-myx-myx-v2-12-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "5fa0cd1f15776996abfb02ac7f874ff1db9d80c517bf211e2b4d42f7643817cc",
-      "title": "The BlockEarly Airbnb, DoorDash backer Y Combinator says Clarity Act could bring crypto to ‘every’ portfolio company",
-      "url": "https://www.tradingview.com/news/the_block:f881ec040094b:0-early-airbnb-doordash-backer-y-combinator-says-clarity-act-could-bring-crypto-to-every-portfolio-company/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "fc10a26eb4ea0bbab58ab4d4c95e2347d2f75a5125174ff757a3221addcc0b11",
-      "title": "CointelegraphSam Bankman-Fried loses appeal to overturn 25-year prison sentence",
-      "url": "https://www.tradingview.com/news/cointelegraph:412f6e69d094b:0-sam-bankman-fried-loses-appeal-to-overturn-25-year-prison-sentence/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "9db99ad0d615905797a9f9b116885a0567cea13058cd29f45ef9408300dd9e7c",
-      "title": "CointelegraphBitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
-      "url": "https://www.tradingview.com/news/cointelegraph:4da886382094b:0-bitcoin-surfs-spacex-ipo-at-64k-as-trader-warns-key-btc-price-support-may-crumble/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "2ca8a063d6fa40d4294c9b277ea3b75ced77b7f042c732fdc5f0f2e0354fdedb",
-      "title": "The BlockBybit, Binance, Bitget cancel tokenized SpaceX IPO allocations after share shortage",
-      "url": "https://www.tradingview.com/news/the_block:3d2f35187094b:0-bybit-binance-bitget-cancel-tokenized-spacex-ipo-allocations-after-share-shortage/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "22450daded758b576471c021f5219d8766f86e913f418874bc8a03ebb8ca411a",
-      "title": "CointelegraphCrypto Biz: SpaceX fuels tokenization’s next boom",
-      "url": "https://www.tradingview.com/news/cointelegraph:a9e61a379094b:0-crypto-biz-spacex-fuels-tokenization-s-next-boom/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "fbb478234053e8e5c7953710f80d4f274a96f27e57da165f45c5564250ca0277",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260612004494:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "e51beffe844c607f5070c1ec4a49d23476e689c424a670e573607b70d6c891a0",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260612004494_20260612004494:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "b3657dbb3fd26de2e2010647c903c32792429e53fe14851fbfdc192d92d43b80",
-      "title": "ChainwireMantle Launches First AI-Native Prediction Market with InsightX Ahead of the 2026 World Cup",
-      "url": "https://www.tradingview.com/news/chainwire:7b40d339f094b:0-mantle-launches-first-ai-native-prediction-market-with-insightx-ahead-of-the-2026-world-cup/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "f1f46f4c0d8e7aa26ff9f4223c309ddf991ee089081c2c20bb4f20aa8982b7fa",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260612004342:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
-    },
-    {
-      "id": "9852f15588f733cf647c3f4d13b9ba4a0fb07304dc0048f5fa1ada5a743045b6",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260612004271:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T17:28:15.163Z"
+      "scraped_at": "2026-06-12T19:35:46.704Z"
     }
   ]
 }
