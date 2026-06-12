@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-12T21:21:11.300Z",
+  "generated_at": "2026-06-12T23:03:52.430Z",
   "total": 14,
   "items": [
+    {
+      "id": "9da936dfb7fedc71cfab190bfd8a5c64022fd2602c6238818c9f35aba7e966fd",
+      "title": "NewsBTCFireblocks Says Institutional ETH Staking Is Moving Toward Standardized Rails",
+      "url": "https://www.tradingview.com/news/newsbtc:d76d69507094b:0-fireblocks-says-institutional-eth-staking-is-moving-toward-standardized-rails/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T23:03:52.427Z"
+    },
+    {
+      "id": "be37d4924b634ddb3fadbbd4464754805344d8994ced83a94e97c051e31aa7aa",
+      "title": "NewsBTCAave Proposal Moves To Add Circle Wrapped Bitcoin As Collateral",
+      "url": "https://www.tradingview.com/news/newsbtc:3895763f8094b:0-aave-proposal-moves-to-add-circle-wrapped-bitcoin-as-collateral/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T23:03:52.428Z"
+    },
+    {
+      "id": "66659d6c09654b4c06803695f602d9fa17b4393cbbfbc5dee32187d87119dc2a",
+      "title": "CoinMarketCalAerodrome Finance (AERO) - Velvet x Aerodrome - Date (12 June 2026)",
+      "url": "https://www.tradingview.com/news/coinmarketcal:c76cdb294094b:0-aerodrome-finance-aero-velvet-x-aerodrome-date-12-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T23:03:52.428Z"
+    },
+    {
+      "id": "6008832f6c053c1555b45de19a3d34835d954e430060c5287bba7bfbec211fbf",
+      "title": "CoinMarketCalMantle (MNT) - InsightX Integration - Date (12 June 2026)",
+      "url": "https://www.tradingview.com/news/coinmarketcal:46f2ba0ea094b:0-mantle-mnt-insightx-integration-date-12-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T23:03:52.428Z"
+    },
+    {
+      "id": "56502c8e206b91200d40f1f77c2b7d69df63bf6597bf50b6d776879c476f7235",
+      "title": "CoinMarketCalHedera (HBAR) - Copper.co Integration - Date (12 June 2026)",
+      "url": "https://www.tradingview.com/news/coinmarketcal:412ffd95f094b:0-hedera-hbar-copper-co-integration-date-12-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T23:03:52.428Z"
+    },
+    {
+      "id": "c3abd84ae1bc4b088082f115ac7ecddf65b3d1c86be8e33403b142788c6077b9",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260612007296:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T23:03:52.428Z"
+    },
+    {
+      "id": "1399117847c49703cee5a6b044f531a8a5949c738c8ee4a86cf52c66540cbd62",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:e8e1e1378094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-12T23:03:52.428Z"
+    },
     {
       "id": "33d1a1d3b0062c6de103091b878af6d233e19772d9738e8554ba35b556dcd199",
       "title": "dpa-AFXAppeals Court Upholds Sam Bankman-Fried Fraud Conviction, Dashing Bid For New Trial",
       "url": "https://www.tradingview.com/news/dpa_afx:a0d05698ad29f:0-appeals-court-upholds-sam-bankman-fried-fraud-conviction-dashing-bid-for-new-trial/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
+      "scraped_at": "2026-06-12T23:03:52.428Z"
     },
     {
       "id": "de418e5a08bce911e25351cd5a8226c522c722b82fa154b92e84cc3a8829f1f2",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260612006346_20260612006483:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
+      "scraped_at": "2026-06-12T23:03:52.428Z"
     },
     {
       "id": "466af58fa18359a7f9ea2d77908f66d15daa6c08d54ef0823a5077058af256f9",
       "title": "BeincryptoTim Draper Ranks Elon Musk Just Below Satoshi: Will SpaceX Buy More Bitcoin?",
       "url": "https://www.tradingview.com/news/beincrypto:929a7c79a094b:0-tim-draper-ranks-elon-musk-just-below-satoshi-will-spacex-buy-more-bitcoin/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
+      "scraped_at": "2026-06-12T23:03:52.428Z"
     },
     {
       "id": "5e81dabc9d230a6b433c4e7003d203d8a203dc1f31f820bb264cd582e0d5a396",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260612005979:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
+      "scraped_at": "2026-06-12T23:03:52.428Z"
     },
     {
       "id": "86e5cc9be0d1f27d4eb60c572d52b9d2be5d7090cfd679d6ab6422ccd6003bdf",
       "title": "NewsBTCSky Governance Proposal Seeks To Double USDC PSM Buffer To $800 Million",
       "url": "https://www.tradingview.com/news/newsbtc:8564d0723094b:0-sky-governance-proposal-seeks-to-double-usdc-psm-buffer-to-800-million/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
+      "scraped_at": "2026-06-12T23:03:52.428Z"
     },
     {
       "id": "2d5f86b9f3cfeadf8ea88bb069abda415a8c7f8438b282e1026b90a0e3b32832",
       "title": "CoindarSuperRare to Release RAW by RedruM on June 22nd",
       "url": "https://www.tradingview.com/news/coindar:7343fec39094b:0-superrare-to-release-raw-by-redrum-on-june-22nd/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
+      "scraped_at": "2026-06-12T23:03:52.428Z"
     },
     {
       "id": "0acff08c593466479993a13284d23160ca2836a2ab9d20739d62cd6736a96249",
       "title": "CoindarStellar to Close SCF #44 Submissions on June 14th",
       "url": "https://www.tradingview.com/news/coindar:faefb96e3094b:0-stellar-to-close-scf-44-submissions-on-june-14th/",
       "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
-    },
-    {
-      "id": "d32d1ea127f5b010088c023692d6332d74b84820bb72175fbf9326708375d868",
-      "title": "CoindarHorizen to Host Community Call on June 18th",
-      "url": "https://www.tradingview.com/news/coindar:7850b46d9094b:0-horizen-to-host-community-call-on-june-18th/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
-    },
-    {
-      "id": "830e8d4edc65760579ca0ef9564de7b3f75860352a1434805bc8a8f01cf4e4d7",
-      "title": "CoindarWazirX to Conduct Scheduled Maintenance on June 13th",
-      "url": "https://www.tradingview.com/news/coindar:4aa2b8a60094b:0-wazirx-to-conduct-scheduled-maintenance-on-june-13th/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
-    },
-    {
-      "id": "c5f0f2f09cb38e921a26744f5a93550572c7d70a8eeb0629493027eb39ff04c9",
-      "title": "CoindarAstar Network Opens Runtime 2207 Referendum",
-      "url": "https://www.tradingview.com/news/coindar:cf7fd51ef094b:0-astar-network-opens-runtime-2207-referendum/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
-    },
-    {
-      "id": "8a26b01b8b30215646a00dffbd0449aded8eae804809f04708b98a3ab8bc1ba8",
-      "title": "CoindarBitTorrent to Begin Phased Shutdown of BTTC Bridge on June 13",
-      "url": "https://www.tradingview.com/news/coindar:b39822935094b:0-bittorrent-to-begin-phased-shutdown-of-bttc-bridge-on-june-13/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
-    },
-    {
-      "id": "55cffd419401d8f6e831879815cc223602c2d0737049f794f0c14368e7ce2c9b",
-      "title": "BeincryptoBitcoin Core Developers Find Privacy Bug That Can Leak User IP Addresses",
-      "url": "https://www.tradingview.com/news/beincrypto:8e9cd965a094b:0-bitcoin-core-developers-find-privacy-bug-that-can-leak-user-ip-addresses/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
-    },
-    {
-      "id": "e4f426be9db51d3acc6cc5dc87a38a089bc3dab813ebe50c091a363f25920aed",
-      "title": "ZacksIs XRP the Most Resilient Large-Cap Cryptocurrency in June?",
-      "url": "https://www.tradingview.com/news/zacks:dae9ef2d6094b:0-is-xrp-the-most-resilient-large-cap-cryptocurrency-in-june/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
-    },
-    {
-      "id": "51ba02c4e45168279316a601db34d3417432b0ca4ed323fb5d5b9baf75ac9b42",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260612005459:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-12T21:21:11.292Z"
+      "scraped_at": "2026-06-12T23:03:52.428Z"
     }
   ]
 }
