@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-13T06:22:24.170Z",
+  "generated_at": "2026-06-13T09:46:57.158Z",
   "total": 14,
   "items": [
+    {
+      "id": "73ec6cb86a67c5be826b77dfe0506ecea191801daced57fa4396f76a17ac8ab6",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260613000811:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-13T09:46:57.154Z"
+    },
+    {
+      "id": "3269b04abec8c6eadc8e20d50b7f0f32d145ca336ff1eda536c2c7ee199eab90",
+      "title": "NewsBTCKraken Enables USDCx Deposits And Withdrawals On Canton Network",
+      "url": "https://www.tradingview.com/news/newsbtc:4c71a0fe6094b:0-kraken-enables-usdcx-deposits-and-withdrawals-on-canton-network/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-13T09:46:57.154Z"
+    },
+    {
+      "id": "de1498d0990afec3f7151b49bb8d2c0178d69ce5903297c156b9eec5d71a7801",
+      "title": "BeincryptoTron Shows 3 Bullish Signals While Topping Weekly Loser List",
+      "url": "https://www.tradingview.com/news/beincrypto:a4fc8dcb7094b:0-tron-shows-3-bullish-signals-while-topping-weekly-loser-list/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-13T09:46:57.154Z"
+    },
+    {
+      "id": "86c105592871c32157132d1c3be99266816273138570989abc5222392ac390fc",
+      "title": "CoinpediaCLARITY Act Nears Final Stage as White House Targets July 4 Deadline",
+      "url": "https://www.tradingview.com/news/coinpedia:4d0abea0e094b:0-clarity-act-nears-final-stage-as-white-house-targets-july-4-deadline/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-13T09:46:57.154Z"
+    },
+    {
+      "id": "551277310af1e00fc8f365a903d4eb213224d9f76d7ea83ec45713b37db4d386",
+      "title": "CoinpediaSEI Price Surges 8% Today — What’s Driving the Rally?",
+      "url": "https://www.tradingview.com/news/coinpedia:86be81278094b:0-sei-price-surges-8-today-what-s-driving-the-rally/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-13T09:46:57.154Z"
+    },
+    {
+      "id": "f639231060deedb7739ac1fb5f0d18d79d21193e6844fa52ed8360eff3500196",
+      "title": "CoinpediaStandard Chartered Geoffrey Kendrick Says Bitcoin Could Deliver 70% Gains From Recent Lows",
+      "url": "https://www.tradingview.com/news/coinpedia:acb3db679094b:0-standard-chartered-geoffrey-kendrick-says-bitcoin-could-deliver-70-gains-from-recent-lows/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-13T09:46:57.154Z"
+    },
+    {
+      "id": "e50aab5b5dda078f42883c075947b3bf5ad8909b1662c155d9f22f8ae01523f5",
+      "title": "CoinpediaAre Dogecoin Bulls Losing Control? Can This Key Support Prevent Another 15% Drop?",
+      "url": "https://www.tradingview.com/news/coinpedia:31bdb6a78094b:0-are-dogecoin-bulls-losing-control-can-this-key-support-prevent-another-15-drop/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-13T09:46:57.154Z"
+    },
+    {
+      "id": "81ed5533dbe71a8a5478ea4b99a1da97d84abcb9948b833210d40d810074d4d9",
+      "title": "CoinpediaXRP Daily Price Charts Give No Clear Direction, Expert Says",
+      "url": "https://www.tradingview.com/news/coinpedia:d523cb84f094b:0-xrp-daily-price-charts-give-no-clear-direction-expert-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-13T09:46:57.154Z"
+    },
+    {
+      "id": "0e75f9fdd7630c4ed53051e14ebf3a424b9c0aa2703c0d29390ab3db1292a2e0",
+      "title": "CoinpediaAli Martinez Reveals Bitcoin, Ethereum, and XRP Bottom Targets",
+      "url": "https://www.tradingview.com/news/coinpedia:f5dacaf4b094b:0-ali-martinez-reveals-bitcoin-ethereum-and-xrp-bottom-targets/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-13T09:46:57.154Z"
+    },
     {
       "id": "21ade816c3a4c0938b5e856636ffa265402479b5987bb50200c6803256ba23ce",
       "title": "Crypto BriefingKylian Mbappe connects with new Real Madrid teammate Denzel Dumfries via video call",
       "url": "https://www.tradingview.com/news/cryptobriefing:c4f476952094b:0-kylian-mbappe-connects-with-new-real-madrid-teammate-denzel-dumfries-via-video-call/",
       "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
+      "scraped_at": "2026-06-13T09:46:57.154Z"
     },
     {
       "id": "39998be5411dc6af0a03f91499ef8eff6629deaec9293928bc2691cfadbe073b",
       "title": "Crypto BriefingKraken’s FIFA World Cup deal and rising fan tokens signal crypto’s deepening sports play",
       "url": "https://www.tradingview.com/news/cryptobriefing:502fa8943094b:0-kraken-s-fifa-world-cup-deal-and-rising-fan-tokens-signal-crypto-s-deepening-sports-play/",
       "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
+      "scraped_at": "2026-06-13T09:46:57.154Z"
     },
     {
       "id": "5d4a63851cff7b2d2b9e2ed24ed17fcee0765acf24326c1af28d0d7319fcaa10",
       "title": "CointelegraphETH futures flash bearish signal, but stakers’ resilience points to underlying strength",
       "url": "https://www.tradingview.com/news/cointelegraph:1f1791e90094b:0-eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength/",
       "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
+      "scraped_at": "2026-06-13T09:46:57.154Z"
     },
     {
       "id": "576cee4012386f40861acc1a6c5f71d26864b9c73dcc3e72107d714898cf6c4b",
       "title": "CoinpediaPi Network Price Outlook for the Rest of 2026",
       "url": "https://www.tradingview.com/news/coinpedia:943b22d87094b:0-pi-network-price-outlook-for-the-rest-of-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
+      "scraped_at": "2026-06-13T09:46:57.154Z"
     },
     {
       "id": "c204f74ba68b4d78a5562db02164d396bc12ca4f7b567d565985c3f1886a5524",
       "title": "CointelegraphAnthropic suspends access to Fable 5, Mythos 5, citing US directive",
       "url": "https://www.tradingview.com/news/cointelegraph:c7df03092094b:0-anthropic-suspends-access-to-fable-5-mythos-5-citing-us-directive/",
       "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
-    },
-    {
-      "id": "7dfb1922e7b4cc3e549963e8bcd244bd3eb77d0419afe8cdf6d6555daa78dccf",
-      "title": "Brave New CoinSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:13f761d8b094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
-    },
-    {
-      "id": "efd1ca803c7095bf34c8a34c2eab60d0ce9e85451f63e2c3d2933bb48e347556",
-      "title": "CointelegraphMajor crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-      "url": "https://www.tradingview.com/news/cointelegraph:c5079481e094b:0-major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
-    },
-    {
-      "id": "978e3be47e287080f757d0f74f7001096097c7d9deb9300c515444d588cd95d5",
-      "title": "Binance NewsEthereum Whale Completes Eight Short-Term Trades Over Two and a Half Days, Mostly Profitable",
-      "url": "https://www.tradingview.com/news/binance_news:4368d398b094b:0-ethereum-whale-completes-eight-short-term-trades-over-two-and-a-half-days-mostly-profitable/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
-    },
-    {
-      "id": "7c61534f2b01fa28d2f23df2f691a2c151384c6755f9f46198866d4e9045ed97",
-      "title": "Binance NewsBrazilian House Committee Approves Bill Allowing Crypto Freezes in Cyber Fraud Investigations",
-      "url": "https://www.tradingview.com/news/binance_news:ead09b1cb094b:0-brazilian-house-committee-approves-bill-allowing-crypto-freezes-in-cyber-fraud-investigations/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
-    },
-    {
-      "id": "d0e6d06a55b9620fbb957f4dfedb49f64e3f6685181860d1d9b0c6e9a9581c0c",
-      "title": "CointelegraphBitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
-      "url": "https://www.tradingview.com/news/cointelegraph:530959da0094b:0-bitcoin-s-calm-top-challenges-most-market-bottom-estimates-research/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
-    },
-    {
-      "id": "bd5e29a633798a387c9e481792952cb93c6c67290f7f469fa9fa7cc8ee8955af",
-      "title": "Binance NewsHyperliquid’s Largest SPCX Long Closes Position at a $300,000 Loss, Analyst Says",
-      "url": "https://www.tradingview.com/news/binance_news:3f1db19cf094b:0-hyperliquid-s-largest-spcx-long-closes-position-at-a-300-000-loss-analyst-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
-    },
-    {
-      "id": "fa3b21ff6583f0590d8f7445aab3681d3a71c5b24b6503870e39b8bc12efa617",
-      "title": "CointelegraphBitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
-      "url": "https://www.tradingview.com/news/cointelegraph:fcab8f74a094b:0-bitcoin-rally-to-70k-builds-as-orderbook-structure-highlights-traders-confidence/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
-    },
-    {
-      "id": "1a3923db22248f9bd9aeb3dd7badf4f9d653777bb49a66c9756e71ea8d1f5d5b",
-      "title": "Brave New CoinSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:9959f9ee1094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.166Z"
-    },
-    {
-      "id": "9da936dfb7fedc71cfab190bfd8a5c64022fd2602c6238818c9f35aba7e966fd",
-      "title": "NewsBTCFireblocks Says Institutional ETH Staking Is Moving Toward Standardized Rails",
-      "url": "https://www.tradingview.com/news/newsbtc:d76d69507094b:0-fireblocks-says-institutional-eth-staking-is-moving-toward-standardized-rails/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-13T06:22:24.167Z"
+      "scraped_at": "2026-06-13T09:46:57.154Z"
     }
   ]
 }
