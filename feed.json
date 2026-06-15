@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-15T19:06:16.733Z",
+  "generated_at": "2026-06-15T22:06:18.238Z",
   "total": 14,
   "items": [
+    {
+      "id": "3c04a7d6d83db3391afc320ca0e2a5f0476e568e7926d3163c8f04195397cf91",
+      "title": "CoinMarketCalRipple USD (RLUSD) - Gate.io Listing - 15 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:8a76d5a72094b:0-ripple-usd-rlusd-gate-io-listing-15-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "dc33fec65dbdcf493983c7ad37691c1aa8b395667a99f2f318ac81efa4fdc7ef",
+      "title": "CoinMarketCalc8ntinuum (CTM) - Hibt Listing - 15 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:7b73bb8fa094b:0-c8ntinuum-ctm-hibt-listing-15-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "aa85676f68c8d080ead37dfb7a27ed3549734f1f8d93587952824d202a61a967",
+      "title": "CoinMarketCalMatrixdock Gold (XAUM) - DeepTrade Listing - 15 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:04c0539da094b:0-matrixdock-gold-xaum-deeptrade-listing-15-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "65de74ec2b6e806658690351190a816a0ed887991b3003d21b1ce52a39d74f10",
+      "title": "NewsBTCBitcoin Whales Add $700M As Seller Exhaustion Signal Returns",
+      "url": "https://www.tradingview.com/news/newsbtc:afd6418ec094b:0-bitcoin-whales-add-700m-as-seller-exhaustion-signal-returns/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "180d79dcf4e958e564117bd6d2d2379ccdc730da1abcb09b9bc411fc1333272c",
+      "title": "The BlockSpot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
+      "url": "https://www.tradingview.com/news/the_block:ebd191484094b:0-spot-hype-etfs-near-900-million-in-volume-as-early-demand-signals-institutional-interest/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "0a9baa374c2da01f82fc94477f8e4be41fcf045baedc3339db14bf8e7f7fab83",
+      "title": "The BlockSpaceX IPO fuels $1.4 billion trading frenzy on Hyperliquid as SPCX perp becomes HIP-3’s biggest market",
+      "url": "https://www.tradingview.com/news/the_block:f7c2fa270094b:0-spacex-ipo-fuels-1-4-billion-trading-frenzy-on-hyperliquid-as-spcx-perp-becomes-hip-3-s-biggest-market/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "f8d779bba54ece99720d5aa2d28dd12d3e9fc1496380e4884d046dc39e91a54e",
+      "title": "The BlockBitcoin Policy UK CEO calls Michael Saylor’s STRC investment promotion ‘dishonest’",
+      "url": "https://www.tradingview.com/news/the_block:fb86afd73094b:0-bitcoin-policy-uk-ceo-calls-michael-saylor-s-strc-investment-promotion-dishonest/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "5cf9a70833293d6b7df04cbe63522080d9e5ef0c1248bf541b88943ac890451e",
+      "title": "CoindarTHORChain to Hold Live Stream on June 20th",
+      "url": "https://www.tradingview.com/news/coindar:469e76ae8094b:0-thorchain-to-hold-live-stream-on-june-20th/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "5a9907c79930c9d995d92c35b03cb77d322e70e6d818f8ac9ac985376413ec74",
+      "title": "NewsBTCStandard Chartered Watches Three Signals For A Bitcoin Bottom",
+      "url": "https://www.tradingview.com/news/newsbtc:5b62bf163094b:0-standard-chartered-watches-three-signals-for-a-bitcoin-bottom/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "3dfddcd8dde8755e333524747e305a7fb804349e3d3133ad4fbf8e45eebe73b2",
+      "title": "CointelegraphCFTC hires SEC crypto task force adviser with blockchain forensics chops",
+      "url": "https://www.tradingview.com/news/cointelegraph:2aa37ab92094b:0-cftc-hires-sec-crypto-task-force-adviser-with-blockchain-forensics-chops/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "ffa82c5db6beca485c91df5dd22e434d215b044270203f08d76f047b26a6cdcd",
+      "title": "GuruFocusBitcoin Holds Highs as Geopolitical Fear Eases",
+      "url": "https://www.tradingview.com/news/gurufocus:89713f93b094b:0-bitcoin-holds-highs-as-geopolitical-fear-eases/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "0a1122fcb1517ca7d2e424cbd15ff5d7480ad6e72fa4ff9856342c4c84380877",
+      "title": "The BlockStandard Chartered says Uniswap’s UNI token could surge 40x to $100 by 2030",
+      "url": "https://www.tradingview.com/news/the_block:8baf2ba49094b:0-standard-chartered-says-uniswap-s-uni-token-could-surge-40x-to-100-by-2030/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
+    {
+      "id": "6c212b822a959025ffa23b1ff60a40f83cd8a659962e5227e9850f145d0edc30",
+      "title": "CointelegraphBitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
+      "url": "https://www.tradingview.com/news/cointelegraph:36fdeb17b094b:0-bitmine-boosts-eth-holdings-closer-to-10b-as-bear-market-accumulation-continues/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-15T22:06:18.235Z"
+    },
     {
       "id": "167b3efc2533d35c09fbd71ccb02db7a7c5236a89054602d3b76f5a718c9d43a",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260615006376:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "ef94ba58c1af62d939a056b4480c5c36f404a71aaee97a20ee2070b9558d4213",
-      "title": "The Block‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs",
-      "url": "https://www.tradingview.com/news/the_block:3085851af094b:0-there-s-room-for-win-win-outcomes-largest-solana-treasury-firm-forward-looks-to-acquire-smaller-sol-dats/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "2b1582257a796fc766b59d4d7e4af1954860e955e21a2a2dfa6342d608153355",
-      "title": "NewsBTCBitcoin Address Reuse Warning Puts Quantum Risk Back In Focus",
-      "url": "https://www.tradingview.com/news/newsbtc:61addf734094b:0-bitcoin-address-reuse-warning-puts-quantum-risk-back-in-focus/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "52896ce5324354905f0f37698daf96994d00a629a4831ff272e0050875515e29",
-      "title": "CoinpediaSEC Approves T. Rowe Price Crypto ETF: XRP Ranks Third Behind BTC and ETH",
-      "url": "https://www.tradingview.com/news/coinpedia:b092c1700094b:0-sec-approves-t-rowe-price-crypto-etf-xrp-ranks-third-behind-btc-and-eth/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "e97abd51955944e5dfea5cab022891626a3423de1095168177ac011929e0160f",
-      "title": "Finance MagnatesKraken Taps Bitnomial Deal to Unlock CFTC-Regulated Crypto Perpetual Futures in US",
-      "url": "https://www.tradingview.com/news/financemagnates:01a67c5f2094b:0-kraken-taps-bitnomial-deal-to-unlock-cftc-regulated-crypto-perpetual-futures-in-us/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "a6fc46121df8195eb08770291bb47a171a5aad69e73b2640daabf15dd2a474d6",
-      "title": "CoinMarketCalDigiByte (DGB) - DigiDollar V9.26.0-RC45 - Date (15 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:4b0313c3c094b:0-digibyte-dgb-digidollar-v9-26-0-rc45-date-15-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "854e3030f7f5809d89c7f3f4d8d2ea7bada7b72d67130dea1dd8821f850b8ca2",
-      "title": "CoinMarketCalChutes (SN64) - Chutes OpenGPU Provider - Date (15 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:5bfce6628094b:0-chutes-sn64-chutes-opengpu-provider-date-15-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "4ab5df98a420c4ebc480bf1daf3172743a9d6a357f5ad7d5ba1563aefe72e694",
-      "title": "CoinMarketCalOpenGradient (OPG) - Upbit Listing - Date (15 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:5ab9bd97c094b:0-opengradient-opg-upbit-listing-date-15-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "86c2fb8b33bcc60b3774c5720c91f9e1fa6cd3466893b34bd29104347d163733",
-      "title": "StocktwitsBitMine Nears 5% Of All Ethereum As Tom Lee Keeps Buying — ETH Hits One-Week High",
-      "url": "https://www.tradingview.com/news/stocktwits:ff8320ea1094b:0-bitmine-nears-5-of-all-ethereum-as-tom-lee-keeps-buying-eth-hits-one-week-high/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "ac935e17d3c6421bc979bba6e8ab00e6554cee0190841ae63c16955662417bd3",
-      "title": "CoinpediaAave Price Recovers June Losses With a 20% Surge—Is $100 the Next Target for AAVE?",
-      "url": "https://www.tradingview.com/news/coinpedia:ad3824bc1094b:0-aave-price-recovers-june-losses-with-a-20-surge-is-100-the-next-target-for-aave/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.728Z"
-    },
-    {
-      "id": "3edc09c9edde4b55a49c8012d461ca2b1b738f661f2af8b1065a4646da39539e",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260615005883:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.729Z"
-    },
-    {
-      "id": "ddaf16392395f1d20a2973d145a4dde637c97f5947b446d27513fb858df96e29",
-      "title": "CoindarAccess Protocol to Hold AMA on X on June 19th",
-      "url": "https://www.tradingview.com/news/coindar:8d70245d4094b:0-access-protocol-to-hold-ama-on-x-on-june-19th/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.729Z"
-    },
-    {
-      "id": "9cb5cfdf1a907d597399c7a5e8c0d55eb0ec86590d0d596ce9259ae8b396a239",
-      "title": "CoinpediaAERO Price Jumps 22% as Aerodrome Unveils Predictive Allocation Model",
-      "url": "https://www.tradingview.com/news/coinpedia:6d4a05d5e094b:0-aero-price-jumps-22-as-aerodrome-unveils-predictive-allocation-model/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.729Z"
-    },
-    {
-      "id": "809b062030aef43dd1c4c29a2737bba45bc98bdff9b8faeda310842923abc481",
-      "title": "CoindarAlchemy Pay Started 0% Ramp Fees Campaign",
-      "url": "https://www.tradingview.com/news/coindar:2bd9e7830094b:0-alchemy-pay-started-0-ramp-fees-campaign/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-15T19:06:16.729Z"
+      "scraped_at": "2026-06-15T22:06:18.235Z"
     }
   ]
 }
