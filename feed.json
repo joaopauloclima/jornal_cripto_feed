@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-16T20:32:42.093Z",
+  "generated_at": "2026-06-16T22:44:31.858Z",
   "total": 14,
   "items": [
+    {
+      "id": "b064535406ab21d8550ce0b360ec70b0132df9a4ae0f5135afa4d43de90f53c0",
+      "title": "CointelegraphBitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
+      "url": "https://www.tradingview.com/news/cointelegraph:f97bbfbb6094b:0-bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "c9a0e8959ad4dc24f7dfbebdf3859827c4b95e35abf8a1c208277697adcd2b0f",
+      "title": "NewsBTCHumanity Protocol Plans New H Token After $36 Million Key Compromise",
+      "url": "https://www.tradingview.com/news/newsbtc:61385c386094b:0-humanity-protocol-plans-new-h-token-after-36-million-key-compromise/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "5192f88998a57822e2a5080efca4b3e6c42ea03a4ee7696482d6f757a32bbe51",
+      "title": "KCoinMarketCalByzanlink - BTOS Integration - 16 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:8c9c1ca11094b:0-byzanlink-btos-integration-16-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "d59f3e96581c6853ec2850b5818e165cd4c6fc9fae495340f1f65adba8d4ea91",
+      "title": "CoinMarketCalHashKey Platform Token - Morpho x HashKey - 16 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:c18263187094b:0-hashkey-platform-token-morpho-x-hashkey-16-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "d1cf0c1ab1e0b39478f58ba6e2212bede1e497d6139bfe817082e2ce3bfa30b4",
+      "title": "CoinMarketCalMegaETH - Terminal Rewards Launch - 17 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:56aec38f6094b:0-megaeth-terminal-rewards-launch-17-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "3452506ed70bf05d56f2b5a6c507b4f337dd803628cb76643b3f8fdcc7e641be",
+      "title": "CoindarSuperRare to Release Strano x R.J on June 18th",
+      "url": "https://www.tradingview.com/news/coindar:0e5b74cbb094b:0-superrare-to-release-strano-x-r-j-on-june-18th/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "d1ee160ed408cb48c2dfa9e99836851fb800d61980f5ecbf86e8d7c2098cd5fa",
+      "title": "CoindarRequest to Release Mass Payouts on June 18th",
+      "url": "https://www.tradingview.com/news/coindar:bb8e6d8f3094b:0-request-to-release-mass-payouts-on-june-18th/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "48b4280b622331efee934551cf7e7dfc50cf790b4463e4efbffb338ea3463d8e",
+      "title": "NewsBTCCoinbase And AWS Bring x402 Payments To CloudFront Publishers",
+      "url": "https://www.tradingview.com/news/newsbtc:1c9f17aa8094b:0-coinbase-and-aws-bring-x402-payments-to-cloudfront-publishers/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "f7a9bc0a91ad70cae4612af4b610a842a647767198bcc37716e2a2ae7274ccb3",
+      "title": "CoindarEnergy Web Partners With Azzera",
+      "url": "https://www.tradingview.com/news/coindar:dba9d01b1094b:0-energy-web-partners-with-azzera/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "8960b9b60f4aac719891aefea349bd388b134a89b01e10d8f0a6bbd86357f733",
+      "title": "CoindarTether Signs MoU With Dubai Multi Commodities Centre",
+      "url": "https://www.tradingview.com/news/coindar:03bcb4fbb094b:0-tether-signs-mou-with-dubai-multi-commodities-centre/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "41fe19839aeb2b8eb6d66884e43332317a795c2361eba1ed841f34e79ff18a1f",
+      "title": "Finance MagnatesBinance Says It “Remains Fully Committed to Securing MiCA License” as EU Exit Risk Looms",
+      "url": "https://www.tradingview.com/news/financemagnates:d01cf41a0094b:0-binance-says-it-remains-fully-committed-to-securing-mica-license-as-eu-exit-risk-looms/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
+    {
+      "id": "daa46ebd786dfac73af5660433462d97b4e7181aafd236a8c1648d6e24bf0891",
+      "title": "CointelegraphTokenized asset market tops $43B as institutions accelerate blockchain adoption",
+      "url": "https://www.tradingview.com/news/cointelegraph:6471459c1094b:0-tokenized-asset-market-tops-43b-as-institutions-accelerate-blockchain-adoption/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-16T22:44:31.855Z"
+    },
     {
       "id": "aea332266f002ed999ee861c5d932ca65657c180dc7b47d06e37f9d278c8517d",
       "title": "The BlockBipartisan senators push Treasury to uphold states’ authorities under the GENIUS Act",
       "url": "https://www.tradingview.com/news/the_block:8b09ad3f2094b:0-bipartisan-senators-push-treasury-to-uphold-states-authorities-under-the-genius-act/",
       "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
+      "scraped_at": "2026-06-16T22:44:31.855Z"
     },
     {
       "id": "9af21cf2a44807907b63fe485c9e6e939bb61eeac1085f74cda5180a5f72388f",
       "title": "NewsBTCSecuritize Expands Tokenized CLO Fund To Solana As Ethena Plans $250M Allocation",
       "url": "https://www.tradingview.com/news/newsbtc:efe54ef73094b:0-securitize-expands-tokenized-clo-fund-to-solana-as-ethena-plans-250m-allocation/",
       "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "b0932830fc64d4ce558850a6004aef59b4749c594abe847bc83f5b97230c9310",
-      "title": "CointelegraphBitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
-      "url": "https://www.tradingview.com/news/cointelegraph:d926f9079094b:0-bitcoin-metric-near-low-risk-zone-after-holders-absorb-125k-btc-in-june-time-for-a-rebound/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "4fa43ac11954b47aff794ddcd5dca870ac4d7d067623a4cc6453dd64afd53de4",
-      "title": "CointelegraphCrypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls",
-      "url": "https://www.tradingview.com/news/cointelegraph:b68610e19094b:0-crypto-pac-has-12m-stake-in-senate-primary-runoff-as-alabama-voters-head-to-polls/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "33afe9ac6d97289a31cdf511402a3855b9b70359f39d8409150c7a71930be931",
-      "title": "FinanceWireDatavault AI (NASDAQ: DVLT) Expects Dream Bowl I Meme Coin to Begin Trading on Biconomy",
-      "url": "https://www.tradingview.com/news/financewire:a499e3969094b:0-datavault-ai-nasdaq-dvlt-expects-dream-bowl-i-meme-coin-to-begin-trading-on-biconomy/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "c5d9a8701c22c1b711af33434703dc4c9b9258bf2715e138da251cc93b19eb4e",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260616006154:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "7b76d9903391e93b7678a707df1d3ec711322818085c924aa54c542bf3dc9993",
-      "title": "The BlockCoinbase unveils ‘System Update’ unlocking an AI advisor, global unified liquidity, options trading and more",
-      "url": "https://www.tradingview.com/news/the_block:503af9c3c094b:0-coinbase-unveils-system-update-unlocking-an-ai-advisor-global-unified-liquidity-options-trading-and-more/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "44bc54bf8fa584e281cd7c00d897401dcfe64da8c80c40c124a020507793d36e",
-      "title": "CointelegraphXRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity",
-      "url": "https://www.tradingview.com/news/cointelegraph:dc682f125094b:0-xrp-whale-wallet-withdrawals-top-720m-as-risk-adjusted-return-data-points-to-opportunity/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "e7819b26ac53709abc65b09d74067b1bdbbb7ae5ce357be1e266bbbebc1ed15d",
-      "title": "BeincryptoTrump Says No $300 Billion for Iran, So Why Is Crypto Part of the Conversation?",
-      "url": "https://www.tradingview.com/news/beincrypto:4db1c7606094b:0-trump-says-no-300-billion-for-iran-so-why-is-crypto-part-of-the-conversation/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "f0f4ef1a5cce47fd22ce59aa4ab5666de7e722a50c185eceb3ea53cfa0c2cee9",
-      "title": "The BlockPump.fun activity craters 80% in three months, dragging Solana fees lower as traders rotate into perps",
-      "url": "https://www.tradingview.com/news/the_block:8ad34d01c094b:0-pump-fun-activity-craters-80-in-three-months-dragging-solana-fees-lower-as-traders-rotate-into-perps/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "c6c38c78d21dcdf27a0c268dfc05d7ff4b88740d7a2b851d12a08bc9d7da87e1",
-      "title": "Finance MagnatesPolymarket’s $354M Iran Dispute Exposes Prediction Markets’ Settlement Problem",
-      "url": "https://www.tradingview.com/news/financemagnates:357e217e3094b:0-polymarket-s-354m-iran-dispute-exposes-prediction-markets-settlement-problem/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "6e0adc6a898b25d72a61ade072d2e3902dda0ed49c3bb6333ba723fd4b2bc434",
-      "title": "BeincryptoVenezuela Bolivar Crisis Sends USDT Demand Soaring on Binance P2P",
-      "url": "https://www.tradingview.com/news/beincrypto:a640526a5094b:0-venezuela-bolivar-crisis-sends-usdt-demand-soaring-on-binance-p2p/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "19f79b34f711bf2d3cf0f0fb8784827696863d7f2a021cf80a3d8ae93d40eee3",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260616005865:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
-    },
-    {
-      "id": "96c5f49efc8c541a0bc2dff83b4cbe3d420bc24253fc8328465cdfc789efc9a4",
-      "title": "The BlockSquid adds Ripple’s RLUSD stablecoin for cross-chain swaps",
-      "url": "https://www.tradingview.com/news/the_block:1e1192435094b:0-squid-adds-ripple-s-rlusd-stablecoin-for-cross-chain-swaps/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-16T20:32:42.089Z"
+      "scraped_at": "2026-06-16T22:44:31.855Z"
     }
   ]
 }
