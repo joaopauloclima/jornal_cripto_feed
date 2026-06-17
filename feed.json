@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-17T19:51:14.186Z",
+  "generated_at": "2026-06-17T22:05:48.832Z",
   "total": 14,
   "items": [
     {
-      "id": "b2fb45ce57db8128b5d308e3ac1e0ed18cc56149efaa6e0f75eaa1c4141585be",
-      "title": "ReutersRefinitivFortinet says 'credential-harvesting campaign' is targeting its Firewalls and VPN devices",
+      "id": "fa19a931cd666c64b0625a2390c7b6c030ceebccedaf94187d2b51a723cc6740",
+      "title": "NewsBTCStablecoin Shakedown: Binance, Coinbase And Kraken Restrict USDT In Europe Ahead Of MiCA Deadline",
+      "url": "https://www.tradingview.com/news/newsbtc:a7d7e18da094b:0-stablecoin-shakedown-binance-coinbase-and-kraken-restrict-usdt-in-europe-ahead-of-mica-deadline/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.828Z"
+    },
+    {
+      "id": "00fa36e06196603a9614dc782c8f2b844f17b2e755edbaafa00a547e92c62d26",
+      "title": "CoinMarketCalBankrCoin (BNKR) - Glidepath Launch - 17 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:090ed8002094b:0-bankrcoin-bnkr-glidepath-launch-17-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "54af4882cd0117b0c3906f91e5a52064837faa430c1b25759d6d78120370b036",
+      "title": "CoinMarketCalZIGChain (ZIG) - Fasset Partnership - 17 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:152ec4c39094b:0-zigchain-zig-fasset-partnership-17-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "12bddf4e4c74d81e7855da735ac0c1219962a1f0f5d0049636005f8e6c3e70ce",
+      "title": "PR NewswirePMET Advances On-Site Lithium Refining Strategy Through Technology Collaboration MOU with Mitsui and MWCC",
+      "url": "https://www.tradingview.com/news/prnewswire:526dba409d692:0-pmet-advances-on-site-lithium-refining-strategy-through-technology-collaboration-mou-with-mitsui-and-mwcc/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "668ea3d3a510b64f243d113741c97cde2b84255391f0229d450d3ea303e712dc",
+      "title": "BeincryptoSpain Ex-PM Zapatero Denies Bailout Scheme as Court Hunts His Crypto",
+      "url": "https://www.tradingview.com/news/beincrypto:b321c2b35094b:0-spain-ex-pm-zapatero-denies-bailout-scheme-as-court-hunts-his-crypto/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "ec0cb73a907ba84a8eb1722efcf3ca03d1ecb14ffd55689aa4d151740328738c",
+      "title": "The BlockStrategy’s STRC preferred stock closes day 11% under par at $89",
+      "url": "https://www.tradingview.com/news/the_block:535fa7563094b:0-strategy-s-strc-preferred-stock-closes-day-11-under-par-at-89/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "4346e8c6368134d60112899ce4ebc3414fabe79282e298f421d84397443b6dc5",
+      "title": "CointelegraphCrypto-backed GOP candidate wins Alabama Senate runoff with June primaries looming",
+      "url": "https://www.tradingview.com/news/cointelegraph:96a97a3c1094b:0-crypto-backed-gop-candidate-wins-alabama-senate-runoff-with-june-primaries-looming/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "547392c81e1f5d9e9d02826a4e1861b64734f645e55b17a4d49bb94e50685090",
+      "title": "CointelegraphBitcoin capitulation ‘twice as weak’ after spot liquidity turns supportive: Glassnode",
+      "url": "https://www.tradingview.com/news/cointelegraph:cdb139d9b094b:0-bitcoin-capitulation-twice-as-weak-after-spot-liquidity-turns-supportive-glassnode/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "27a9aed254970db7e7a6c0fec2950810e17cb959721248d0de0400e0f19f91cd",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:aeed16f4c094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "de24f78ff347e3dab40f9196485156730c68553bcbda8b523e1701f0aeb49fe9",
+      "title": "The BlockCrypto markets wobble after hawkish Fed outlook in Kevin Warsh’s first FOMC meeting",
+      "url": "https://www.tradingview.com/news/the_block:00606b66b094b:0-crypto-markets-wobble-after-hawkish-fed-outlook-in-kevin-warsh-s-first-fomc-meeting/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "2a6f4667000f1382926c1b01956b6df2c4a95c31e90dfb16227596bdc638f9c2",
+      "title": "CointelegraphBybit lands on Singapore MAS Investor Alert List",
+      "url": "https://www.tradingview.com/news/cointelegraph:5c7619766094b:0-bybit-lands-on-singapore-mas-investor-alert-list/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "6954af4a28312447b50690d9bf4ea66d1b4502cc0d2f9d4683b5175af81082e6",
+      "title": "NewsBTCEthereum Price Defends $1,800 As Traders Brace For Kevin Warsh’s Debut Fed Meeting",
+      "url": "https://www.tradingview.com/news/newsbtc:f5520e0f4094b:0-ethereum-price-defends-1-800-as-traders-brace-for-kevin-warsh-s-debut-fed-meeting/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "a02cd6537aafd46f91cf263ae7f2eb392babfd6236f6b04cd239d33cf8dbbcb2",
+      "title": "BeincryptoTrump to Return Iran’s Frozen Money to Protect the Dollar",
+      "url": "https://www.tradingview.com/news/beincrypto:4a669d392094b:0-trump-to-return-iran-s-frozen-money-to-protect-the-dollar/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T22:05:48.829Z"
+    },
+    {
+      "id": "cf93a774eafbae305134f4005191b84ee9baf9035fc859a8bf0d8bee1167d375",
+      "title": "ReutersFortinet says 'credential-harvesting campaign' is targeting its Firewalls and VPN devices",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N42P1D8:0-fortinet-says-credential-harvesting-campaign-is-targeting-its-firewalls-and-vpn-devices/",
       "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "d3f38c984bc06e37bc70bcdc31582969a26782780ab359212dd850cbe8d5e128",
-      "title": "CointelegraphBlockchain.com deepens onchain stock offerings as tokenized equities market grows",
-      "url": "https://www.tradingview.com/news/cointelegraph:e7d43db75094b:0-blockchain-com-deepens-onchain-stock-offerings-as-tokenized-equities-market-grows/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "e6d729341d3877cab7e5c08115d08af351c2091c04b7a136f2e7a658bd90ba34",
-      "title": "CointelegraphAltcoin selling tops $266B as capital rotates out of crypto: Is altseason extinct?",
-      "url": "https://www.tradingview.com/news/cointelegraph:df6567f81094b:0-altcoin-selling-tops-266b-as-capital-rotates-out-of-crypto-is-altseason-extinct/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "ef643a5e076f4c38d6eacc3443cfaf4fffcd59dd4ab8fddea0d171371c463063",
-      "title": "The Block‘One of the most anti-crypto laws in the US’: Illinois Gov. Pritzker signs 0.2% crypto tax",
-      "url": "https://www.tradingview.com/news/the_block:3097572d8094b:0-one-of-the-most-anti-crypto-laws-in-the-us-illinois-gov-pritzker-signs-0-2-crypto-tax/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "6b74dbfec10ce726beef7716842166471ffb7fdf01ff19ed3bf2238d86c875cf",
-      "title": "Binance NewsFOMC News Update: Bitcoin Dips 1% to $65,417, Gold Falls $40, Dollar Surges as Hawkish Fed Dot Plot Rattles Markets",
-      "url": "https://www.tradingview.com/news/binance_news:4e5be9dfa094b:0-fomc-news-update-bitcoin-dips-1-to-65-417-gold-falls-40-dollar-surges-as-hawkish-fed-dot-plot-rattles-markets/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "f0372be389e536ab84bd1d79aedcaa354e0a722010d478f0d8d0c635fa0128aa",
-      "title": "NewsBTCJapan’s Three Largest Megabanks Align To Launch Joint Yen-Backed Stablecoin By March 2027",
-      "url": "https://www.tradingview.com/news/newsbtc:1d9334a07094b:0-japan-s-three-largest-megabanks-align-to-launch-joint-yen-backed-stablecoin-by-march-2027/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "c99e07c97e1defe1bd1eab271a13ec0f6fc5554df3e73425a2e937dbd06bf46f",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260617006126:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "82de09f52d778811f0331d719bcd7d6cc8e388b8896764855271a2dbcb12b93b",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260617006091:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "3a2fb523e64145e12b291892363e10930b6ec5ce98a4f88ca9e822c4adf5adae",
-      "title": "Binance NewsStrive CEO Says Bitcoin Is His Minimum Return Benchmark for the Next 10 to 15 Years",
-      "url": "https://www.tradingview.com/news/binance_news:31b5db4de094b:0-strive-ceo-says-bitcoin-is-his-minimum-return-benchmark-for-the-next-10-to-15-years/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "f48b235eae60077fa2a872d2c6d43fdbdf1d2a441e1e4a007a5f83cf6e52209f",
-      "title": "Binance NewsRegulators Clash Over Oversight of Event-Based Contracts as Collaboration Emerges",
-      "url": "https://www.tradingview.com/news/binance_news:5a44a84dc094b:0-regulators-clash-over-oversight-of-event-based-contracts-as-collaboration-emerges/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "1033d38e7b0b53a542797a604f38ca47722ae458a8be896adb53ee5ea5de78fc",
-      "title": "Binance NewsBitcoin(BTC) Drops Below 65,000 USDT with a 1.76% Decrease in 24 Hours",
-      "url": "https://www.tradingview.com/news/binance_news:51611d62e094b:0-bitcoin-btc-drops-below-65-000-usdt-with-a-1-76-decrease-in-24-hours/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "331b7fa47fe547a176aff815aa62c2f3c6e4ee46314c05d971b64d369a06899c",
-      "title": "CointelegraphKalshi adds software partner as it looks to boost prediction market surveillance",
-      "url": "https://www.tradingview.com/news/cointelegraph:36af98ac1094b:0-kalshi-adds-software-partner-as-it-looks-to-boost-prediction-market-surveillance/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "9380682d607eb60a1f7506cb2cfeda4a79d446166e8cd1c738864980f37816db",
-      "title": "NewsBTCMichael Saylor Maps Out Bitcoin-Backed ‘Digital Asset Stack’ With Yield Layer",
-      "url": "https://www.tradingview.com/news/newsbtc:656247988094b:0-michael-saylor-maps-out-bitcoin-backed-digital-asset-stack-with-yield-layer/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
-    },
-    {
-      "id": "f2ccafcf24cace5b53bfb7e99c1a24cc10d688b4cbf030ad421bf7074d887993",
-      "title": "CointelegraphUS lawmakers warn against presidential pardon for Sam Bankman-Fried",
-      "url": "https://www.tradingview.com/news/cointelegraph:c2c287127094b:0-us-lawmakers-warn-against-presidential-pardon-for-sam-bankman-fried/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T19:51:14.180Z"
+      "scraped_at": "2026-06-17T22:05:48.829Z"
     }
   ]
 }
