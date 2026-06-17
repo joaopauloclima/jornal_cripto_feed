@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-17T05:31:21.939Z",
+  "generated_at": "2026-06-17T10:19:33.327Z",
   "total": 14,
   "items": [
     {
-      "id": "39423eff516c6059ad1125d12db255b6868478a35b90e329fdbbe070e6a8fb7f",
+      "id": "565df9b775b4763a64f8f075ca35994d37c2817ba50df25b5c7d02d130b7bd2a",
+      "title": "StocktwitsBitcoin Miners Face Roughly $50B Funding Gap In The Race To Build AI Infrastructure, VanEck Says",
+      "url": "https://www.tradingview.com/news/stocktwits:4f43b3e56094b:0-bitcoin-miners-face-roughly-50b-funding-gap-in-the-race-to-build-ai-infrastructure-vaneck-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "2d19ad37c5f43086c779342559ecaa06db51c79a143c867bc7087ad285d54a9f",
+      "title": "CointelegraphBitcoin trader warns of 'bearish reaction' to FOMC with $64K now essential",
+      "url": "https://www.tradingview.com/news/cointelegraph:b630225d8094b:0-bitcoin-trader-warns-of-bearish-reaction-to-fomc-with-64k-now-essential/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "ad6fb2a178a1c44d6d9d131634c21c9fd55909c6c103ea0a7f57bf273e84df25",
+      "title": "CointelegraphHyperliquid's $10B open interest coincides with growth in equity-linked markets: Talos",
+      "url": "https://www.tradingview.com/news/cointelegraph:fe0fa059e094b:0-hyperliquid-s-10b-open-interest-coincides-with-growth-in-equity-linked-markets-talos/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "e0fb02d2e14356eb22fa8fcfb0e06fd0ab9956bcb6e2561dc24d45ba0b348d74",
+      "title": "The BlockZama, Morpho and Steakhouse launch first ‘confidential DeFi yield’ vault on Ethereum",
+      "url": "https://www.tradingview.com/news/the_block:982ab442d094b:0-zama-morpho-and-steakhouse-launch-first-confidential-defi-yield-vault-on-ethereum/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "0f66ed9d7f55f23084630790580728819cd23d12827edb2a5552b768a71f14dc",
+      "title": "ReutersUS SEC poised to allow stock token trading in potential market shakeup",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N42O15P:0-us-sec-poised-to-allow-stock-token-trading-in-potential-market-shakeup/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "53417bf48b16ada2db1c38c72323761a6f2a92ea1a9136cc5e015de3826ecc4b",
+      "title": "ChainwireMargex Deploys New Countermeasures to Protect User Accounts",
+      "url": "https://www.tradingview.com/news/chainwire:e1bb8fe07094b:0-margex-deploys-new-countermeasures-to-protect-user-accounts/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "e15485989cf7bd9cd704624de26ea0af8fa68778109076a254aa4410e7ad3e9b",
+      "title": "The BlockAustralia’s High Court backs regulator in Block Earner crypto yield case",
+      "url": "https://www.tradingview.com/news/the_block:b8df2ff1c094b:0-australia-s-high-court-backs-regulator-in-block-earner-crypto-yield-case/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "3451b9a9cf308371229a2bfea6dded671967b83ae4c27c94aa72576d1bf8f8c7",
+      "title": "CointelegraphBitGo courts crypto firms awaiting MiCA approval amid Binance licensing concerns",
+      "url": "https://www.tradingview.com/news/cointelegraph:43bfb17ec094b:0-bitgo-courts-crypto-firms-awaiting-mica-approval-amid-binance-licensing-concerns/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "61a48a38472a3d3ae0011b185ca93fedbee2192377106f657d2223a990f0cb76",
+      "title": "ChainwireBybit Rewards Responsible AI Adoption with 30,000 USDT in Prizes for AI Subaccount Users",
+      "url": "https://www.tradingview.com/news/chainwire:802024e4d094b:0-bybit-rewards-responsible-ai-adoption-with-30-000-usdt-in-prizes-for-ai-subaccount-users/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "b6d41e67687bb768f187394d6f0fff3c62758f0fec0d08c2637bab68d1be39b8",
+      "title": "Finance MagnatesDevexperts Adds a Dedicated Crypto Front-End to Its DXtrade White-Label Platform",
+      "url": "https://www.tradingview.com/news/financemagnates:da9dcad74094b:0-devexperts-adds-a-dedicated-crypto-front-end-to-its-dxtrade-white-label-platform/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.323Z"
+    },
+    {
+      "id": "ee51862c51e403f3bffa1bee3480c681b91eb88b39e1034e6b431a4ded3c5053",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:78523a84f094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.324Z"
+    },
+    {
+      "id": "70eaa54599af25978a1ecf8bbea4a42e8fea8659f9b64a8b67823ae8223b94d0",
+      "title": "ChainwireFirst Block, Onpharma Company, and Crito Capital Announce First Solana Sto for U.S. Medical Device Business",
+      "url": "https://www.tradingview.com/news/chainwire:e80e08cae094b:0-first-block-onpharma-company-and-crito-capital-announce-first-solana-sto-for-u-s-medical-device-business/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.324Z"
+    },
+    {
+      "id": "0d1d5b4a1d3ef8c8d989ecb2581d66bfe4a153243608940dfb6ade760ea29bdf",
+      "title": "CoinpediaTerra Classic Eyes $0.0001 Despite Lack of Fresh Catalysts—Can LUNC Price Sustain Its Rally?",
+      "url": "https://www.tradingview.com/news/coinpedia:32b0c2715094b:0-terra-classic-eyes-0-0001-despite-lack-of-fresh-catalysts-can-lunc-price-sustain-its-rally/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T10:19:33.324Z"
+    },
+    {
+      "id": "11a1a0a81feb3bd0352284e8f9a585b43e1b65e3bd249d72653e574251a710bc",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260617000573:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260617001281:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "f3c5592b7ea4511c09c25d2b77af946bf0171f4bd9d0dfb472314f793aac6fa2",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260617000571:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "f0f43b8f6597c545dee4d391f15439cd0c1f54b02b8b6b461fe11f1c099b4569",
-      "title": "CointelegraphIllinois governor approves crypto transaction tax despite industry uproar",
-      "url": "https://www.tradingview.com/news/cointelegraph:12c4fb85b094b:0-illinois-governor-approves-crypto-transaction-tax-despite-industry-uproar/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "e130604290795f729d220d0be60a08ed9fca6394c9939920191c528f14dcaec2",
-      "title": "BeincryptoElon Musk Just Surpassed Bitcoin: His Net Worth Reaches $1.4 Trillion",
-      "url": "https://www.tradingview.com/news/beincrypto:bdb5395db094b:0-elon-musk-just-surpassed-bitcoin-his-net-worth-reaches-1-4-trillion/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "936413ef9490c3f43ed636152e89bc64e24b5140379e740679616954b94cb8e6",
-      "title": "Binance NewsPudgy Penguins Partners With KAST to Launch Soulbound Token Series for Pengu Card Users",
-      "url": "https://www.tradingview.com/news/binance_news:2baa46403094b:0-pudgy-penguins-partners-with-kast-to-launch-soulbound-token-series-for-pengu-card-users/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "14466507f4bbcea416827a2136560324bc3f3feffb7908f07ccbb07de9114742",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260617000041:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "e03b881306f35a3669d21e9c5d4dfa43a45139b5406fe545a2536515c19c0926",
-      "title": "The BlockUS gaming industry groups urge Senate to ban sports prediction markets in crypto bill: report",
-      "url": "https://www.tradingview.com/news/the_block:f76e24cea094b:0-us-gaming-industry-groups-urge-senate-to-ban-sports-prediction-markets-in-crypto-bill-report/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "54888f22e7aa9d83e7d333f5a5083e7268f17f7f1733a3eb7fe02fd2ad9b9db9",
-      "title": "Binance NewsDIP Token Contract Exploited After Transfer Function Bug, SlowMist Says",
-      "url": "https://www.tradingview.com/news/binance_news:0a0df6d31094b:0-dip-token-contract-exploited-after-transfer-function-bug-slowmist-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "ac30f7d01b8e487246765ec233d93937853329a866c8ec7e15726f668f4b8e46",
-      "title": "Binance NewsSui Processes Nearly $65 Billion in Zero-Gas Stablecoin Transactions Since June 10, CertiK Says",
-      "url": "https://www.tradingview.com/news/binance_news:b0a667137094b:0-sui-processes-nearly-65-billion-in-zero-gas-stablecoin-transactions-since-june-10-certik-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "87095dd598a860dadb9314e5bd8e9b8c545bf78b9663e4bdf90d97fe8890a367",
-      "title": "Binance NewsXRP Ledger Releases Version 3.2.0 With Core Software Renamed to Xrpl Daemon",
-      "url": "https://www.tradingview.com/news/binance_news:bfddffe53094b:0-xrp-ledger-releases-version-3-2-0-with-core-software-renamed-to-xrpl-daemon/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "7837b67ef4b937f3c8ebf8bed828a09fd28a0544430dd6b133761abe59dfcca5",
-      "title": "Binance NewsRep. Barry Moore Wins Alabama GOP Senate Primary Runoff After Crypto-Backed Spending",
-      "url": "https://www.tradingview.com/news/binance_news:fcf00acc1094b:0-rep-barry-moore-wins-alabama-gop-senate-primary-runoff-after-crypto-backed-spending/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "c2e19570895bd0a29f1b006ea2a54eb5704fc684584ed55cf2bc6eab6acc77fb",
-      "title": "Binance NewsTether Sells 627,000 Bitdeer Shares at About $20 Each, Keeps 19.7% Stake",
-      "url": "https://www.tradingview.com/news/binance_news:28b1a33c6094b:0-tether-sells-627-000-bitdeer-shares-at-about-20-each-keeps-19-7-stake/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "0b73894e6b118773d470b85214ee26930176d374420b5d6a89a62d3d2927fc8e",
-      "title": "CointelegraphHyperliquid open interest surges 32% in a week: Is $80 HYPE next?",
-      "url": "https://www.tradingview.com/news/cointelegraph:9e66a2a50094b:0-hyperliquid-open-interest-surges-32-in-a-week-is-80-hype-next/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
-    },
-    {
-      "id": "7359bca3edfb3c6bfe5857ba1ab6f059fbdcdb0abeb27c3dab4f41f9da5dd954",
-      "title": "Binance NewsKalshi’s Perpetual Contracts Exceed $5.5 Billion in Volume Within Two Weeks of Launch",
-      "url": "https://www.tradingview.com/news/binance_news:325efeaae094b:0-kalshi-s-perpetual-contracts-exceed-5-5-billion-in-volume-within-two-weeks-of-launch/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T05:31:21.936Z"
+      "scraped_at": "2026-06-17T10:19:33.324Z"
     }
   ]
 }
