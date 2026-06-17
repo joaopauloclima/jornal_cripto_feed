@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-17T17:39:33.216Z",
+  "generated_at": "2026-06-17T19:51:14.186Z",
   "total": 14,
   "items": [
+    {
+      "id": "b2fb45ce57db8128b5d308e3ac1e0ed18cc56149efaa6e0f75eaa1c4141585be",
+      "title": "ReutersRefinitivFortinet says 'credential-harvesting campaign' is targeting its Firewalls and VPN devices",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N42P1D8:0-fortinet-says-credential-harvesting-campaign-is-targeting-its-firewalls-and-vpn-devices/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "d3f38c984bc06e37bc70bcdc31582969a26782780ab359212dd850cbe8d5e128",
+      "title": "CointelegraphBlockchain.com deepens onchain stock offerings as tokenized equities market grows",
+      "url": "https://www.tradingview.com/news/cointelegraph:e7d43db75094b:0-blockchain-com-deepens-onchain-stock-offerings-as-tokenized-equities-market-grows/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "e6d729341d3877cab7e5c08115d08af351c2091c04b7a136f2e7a658bd90ba34",
+      "title": "CointelegraphAltcoin selling tops $266B as capital rotates out of crypto: Is altseason extinct?",
+      "url": "https://www.tradingview.com/news/cointelegraph:df6567f81094b:0-altcoin-selling-tops-266b-as-capital-rotates-out-of-crypto-is-altseason-extinct/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "ef643a5e076f4c38d6eacc3443cfaf4fffcd59dd4ab8fddea0d171371c463063",
+      "title": "The Block‘One of the most anti-crypto laws in the US’: Illinois Gov. Pritzker signs 0.2% crypto tax",
+      "url": "https://www.tradingview.com/news/the_block:3097572d8094b:0-one-of-the-most-anti-crypto-laws-in-the-us-illinois-gov-pritzker-signs-0-2-crypto-tax/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "6b74dbfec10ce726beef7716842166471ffb7fdf01ff19ed3bf2238d86c875cf",
+      "title": "Binance NewsFOMC News Update: Bitcoin Dips 1% to $65,417, Gold Falls $40, Dollar Surges as Hawkish Fed Dot Plot Rattles Markets",
+      "url": "https://www.tradingview.com/news/binance_news:4e5be9dfa094b:0-fomc-news-update-bitcoin-dips-1-to-65-417-gold-falls-40-dollar-surges-as-hawkish-fed-dot-plot-rattles-markets/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "f0372be389e536ab84bd1d79aedcaa354e0a722010d478f0d8d0c635fa0128aa",
+      "title": "NewsBTCJapan’s Three Largest Megabanks Align To Launch Joint Yen-Backed Stablecoin By March 2027",
+      "url": "https://www.tradingview.com/news/newsbtc:1d9334a07094b:0-japan-s-three-largest-megabanks-align-to-launch-joint-yen-backed-stablecoin-by-march-2027/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "c99e07c97e1defe1bd1eab271a13ec0f6fc5554df3e73425a2e937dbd06bf46f",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260617006126:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "82de09f52d778811f0331d719bcd7d6cc8e388b8896764855271a2dbcb12b93b",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260617006091:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "3a2fb523e64145e12b291892363e10930b6ec5ce98a4f88ca9e822c4adf5adae",
+      "title": "Binance NewsStrive CEO Says Bitcoin Is His Minimum Return Benchmark for the Next 10 to 15 Years",
+      "url": "https://www.tradingview.com/news/binance_news:31b5db4de094b:0-strive-ceo-says-bitcoin-is-his-minimum-return-benchmark-for-the-next-10-to-15-years/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "f48b235eae60077fa2a872d2c6d43fdbdf1d2a441e1e4a007a5f83cf6e52209f",
+      "title": "Binance NewsRegulators Clash Over Oversight of Event-Based Contracts as Collaboration Emerges",
+      "url": "https://www.tradingview.com/news/binance_news:5a44a84dc094b:0-regulators-clash-over-oversight-of-event-based-contracts-as-collaboration-emerges/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "1033d38e7b0b53a542797a604f38ca47722ae458a8be896adb53ee5ea5de78fc",
+      "title": "Binance NewsBitcoin(BTC) Drops Below 65,000 USDT with a 1.76% Decrease in 24 Hours",
+      "url": "https://www.tradingview.com/news/binance_news:51611d62e094b:0-bitcoin-btc-drops-below-65-000-usdt-with-a-1-76-decrease-in-24-hours/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
+    {
+      "id": "331b7fa47fe547a176aff815aa62c2f3c6e4ee46314c05d971b64d369a06899c",
+      "title": "CointelegraphKalshi adds software partner as it looks to boost prediction market surveillance",
+      "url": "https://www.tradingview.com/news/cointelegraph:36af98ac1094b:0-kalshi-adds-software-partner-as-it-looks-to-boost-prediction-market-surveillance/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-17T19:51:14.180Z"
+    },
     {
       "id": "9380682d607eb60a1f7506cb2cfeda4a79d446166e8cd1c738864980f37816db",
       "title": "NewsBTCMichael Saylor Maps Out Bitcoin-Backed ‘Digital Asset Stack’ With Yield Layer",
       "url": "https://www.tradingview.com/news/newsbtc:656247988094b:0-michael-saylor-maps-out-bitcoin-backed-digital-asset-stack-with-yield-layer/",
       "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
+      "scraped_at": "2026-06-17T19:51:14.180Z"
     },
     {
       "id": "f2ccafcf24cace5b53bfb7e99c1a24cc10d688b4cbf030ad421bf7074d887993",
       "title": "CointelegraphUS lawmakers warn against presidential pardon for Sam Bankman-Fried",
       "url": "https://www.tradingview.com/news/cointelegraph:c2c287127094b:0-us-lawmakers-warn-against-presidential-pardon-for-sam-bankman-fried/",
       "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
-    },
-    {
-      "id": "744f6790589b74ad13c41dd9936377fadda804e1c8683bfcf7fd40ca398ceac7",
-      "title": "CoindarJUST DAO Launches SBM V2 on JustLend DAO",
-      "url": "https://www.tradingview.com/news/coindar:78885349f094b:0-just-dao-launches-sbm-v2-on-justlend-dao/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
-    },
-    {
-      "id": "13ceab9eb1df07d6aab8c45b828a77b7845585e775543c967657ba4fd18ba4ac",
-      "title": "CoindarCronos Started ETH App Campaign",
-      "url": "https://www.tradingview.com/news/coindar:5523d80cd094b:0-cronos-started-eth-app-campaign/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
-    },
-    {
-      "id": "9dc4a7270efad2418b7f2f6e5bdca8f430a96fccd50e8f73728f0e1642971d2e",
-      "title": "CoindarAVA Released AI Travel Concierge",
-      "url": "https://www.tradingview.com/news/coindar:6c6addedc094b:0-ava-released-ai-travel-concierge/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
-    },
-    {
-      "id": "526c113ecba121171b1f24e213238d45911411c82cc133ff15ef914324a15a46",
-      "title": "CoindarDash to Hold Crypto Quorum Live Stream on June 18th",
-      "url": "https://www.tradingview.com/news/coindar:b72867359094b:0-dash-to-hold-crypto-quorum-live-stream-on-june-18th/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
-    },
-    {
-      "id": "8554b65110932d6edff58edb264fb0219599f3f265b584ff598e335d06d2187a",
-      "title": "CoindarBella Protocol Partners With Metopia",
-      "url": "https://www.tradingview.com/news/coindar:a5fbf578b094b:0-bella-protocol-partners-with-metopia/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
-    },
-    {
-      "id": "25776f84b2203e4c502e8ca8347c40bd9f9538217a9cfde4579e05bd1452ef6a",
-      "title": "CoindarChiliz Launched National Fan Tokens",
-      "url": "https://www.tradingview.com/news/coindar:583ee92f0094b:0-chiliz-launched-national-fan-tokens/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
-    },
-    {
-      "id": "669dfbf21b055997076da321730f72c285a816ddcc5c51a97222362db11b9e45",
-      "title": "CoinMarketCalJUST - SBM V2 Launch - 17 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:4fb9da94a094b:0-just-sbm-v2-launch-17-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
-    },
-    {
-      "id": "a3f75c3da5acbef8f461feae91e28cfa40a5719e2eb4d73c91a06038aec1adf4",
-      "title": "CoinMarketCalZama - Confidential USDC Vault - 23 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:edb549548094b:0-zama-confidential-usdc-vault-23-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.213Z"
-    },
-    {
-      "id": "6531f1ee021a6674d9a7e3a9b4608d39ca235494281aa00a6850c20809c649c7",
-      "title": "CoinMarketCal1000BTT - BTTInferGrid Launch - 17 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:82f1e12d4094b:0-1000btt-bttinfergrid-launch-17-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.214Z"
-    },
-    {
-      "id": "ffa9ba9344738f51f41a0648b2263204a313c20f56fcaf9848c92e8a993e30ac",
-      "title": "CoindarCronos to Close CRO Circuit Campaign on July 1st",
-      "url": "https://www.tradingview.com/news/coindar:99d3e2c2b094b:0-cronos-to-close-cro-circuit-campaign-on-july-1st/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.214Z"
-    },
-    {
-      "id": "9b763dbdbc550de4955fff38dd66608d7ef02970523f3a90c7b95db718ba38c8",
-      "title": "CoindarMoody’s Machine-Readable Ratings Added on Solana",
-      "url": "https://www.tradingview.com/news/coindar:74d9550b9094b:0-moody-s-machine-readable-ratings-added-on-solana/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.214Z"
-    },
-    {
-      "id": "291e4652ed457f53e740c1e24c0667345e7efdfdfa18e9a23b1ff2fc0c58fad4",
-      "title": "CoindarTellor Tributes to Stop Supporting Four Feeds",
-      "url": "https://www.tradingview.com/news/coindar:9c257078e094b:0-tellor-tributes-to-stop-supporting-four-feeds/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-17T17:39:33.214Z"
+      "scraped_at": "2026-06-17T19:51:14.180Z"
     }
   ]
 }
