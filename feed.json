@@ -1,104 +1,97 @@
 {
-  "generated_at": "2026-06-18T21:51:45.504Z",
-  "total": 14,
+  "generated_at": "2026-06-18T23:49:19.078Z",
+  "total": 13,
   "items": [
     {
-      "id": "6f99d6edeecba08b0d4f619a34e1e28c24eb9e2603d7b4d59daacc974fdb8faa",
-      "title": "NewsBTCTrace Finance Raises $32M To Expand Stablecoin Settlement Rails",
-      "url": "https://www.tradingview.com/news/newsbtc:278ef35e2094b:0-trace-finance-raises-32m-to-expand-stablecoin-settlement-rails/",
+      "id": "cbb2019c96d0956078bd2392c4394a29927a9f6b9f4c58d62ee76b63bf5d283a",
+      "title": "NewsBTCAlchemy AgentCard Brings Visa Payments To AI Agent Commerce",
+      "url": "https://www.tradingview.com/news/newsbtc:a0ab6bd03094b:0-alchemy-agentcard-brings-visa-payments-to-ai-agent-commerce/",
       "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
+      "scraped_at": "2026-06-18T23:49:19.074Z"
+    },
+    {
+      "id": "2fece62bcfef82b7489708c75bea7275aa555b234604216c683dd44aff7246b7",
+      "title": "ReutersMorgan Stanley Ethereum Trust Delegated Sponsor Purchased Seed Creation Baskets Comprising 5 Shares At A Per-Share Price Of $20",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42Q135:0-morgan-stanley-ethereum-trust-delegated-sponsor-purchased-seed-creation-baskets-comprising-5-shares-at-a-per-share-price-of-20/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-18T23:49:19.074Z"
+    },
+    {
+      "id": "5cd781ec830a6737e00359d7617b78dd25c06b89ecb8d4acf6a53a6a57a69c12",
+      "title": "ReutersMorgan Stanley Solana Trust says On June 16, 2026, The Pricing Benchmark Was about $73.85",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42Q0M2:0-morgan-stanley-solana-trust-says-on-june-16-2026-the-pricing-benchmark-was-about-73-85/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-18T23:49:19.074Z"
+    },
+    {
+      "id": "6215f8ff1c7943a265ae0fd4ed020f15f83ef446d3eb05e58567c6e0ecaa1ad7",
+      "title": "NewsBTCEthereum EIP-8304 Proposal Targets Trustless Log And Transaction Indexing",
+      "url": "https://www.tradingview.com/news/newsbtc:72f9e75c8094b:0-ethereum-eip-8304-proposal-targets-trustless-log-and-transaction-indexing/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-18T23:49:19.074Z"
     },
     {
       "id": "f25312d7acf0fe5ef80a60e1c5027a31f019814bb6039f6437ee0549f0220b2a",
       "title": "CointelegraphMalta proposes DeFi rulebook covering DAOs under MiCA-era framework",
       "url": "https://www.tradingview.com/news/cointelegraph:cbf4ebd0b094b:0-malta-proposes-defi-rulebook-covering-daos-under-mica-era-framework/",
       "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
+      "scraped_at": "2026-06-18T23:49:19.074Z"
     },
     {
-      "id": "311e61471cd1dc8acae682ded8160a5585c061340076907b2f11ac6af90aac4f",
-      "title": "The BlockCryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
-      "url": "https://www.tradingview.com/news/the_block:89c964cbf094b:0-cryptoquant-says-bitcoin-microtransactions-now-make-up-80-of-daily-transactions/",
+      "id": "6da61281c7601c2285911cf8dc478443bab4ce73d0aa752c7ec67f57eaf6f512",
+      "title": "RCoinMarketCalRE - Bitget Listing - 18 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:870ba8fcd094b:0-re-bitget-listing-18-june-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
+      "scraped_at": "2026-06-18T23:49:19.074Z"
     },
     {
-      "id": "8d877fbec75ed050693f07ac507ff4ef12acbfa7cf2e2b87c67b13107672d743",
-      "title": "CointelegraphCustodia, Vantage propose token that toggles between bank deposits and stablecoins",
-      "url": "https://www.tradingview.com/news/cointelegraph:97f5cc52c094b:0-custodia-vantage-propose-token-that-toggles-between-bank-deposits-and-stablecoins/",
+      "id": "7a4681c6851eec7cf172ee3e328633d9edae29bf5cc68df7cb807049c2572e38",
+      "title": "RCoinMarketCalRE - Gate.io Listing - 18 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:2bdba4d2d094b:0-re-gate-io-listing-18-june-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
+      "scraped_at": "2026-06-18T23:49:19.074Z"
     },
     {
-      "id": "88563e1713ea94c816f3408b349b910bfa906c3db31e4d8ee3395619ba09c17d",
-      "title": "NewsBTCSEC Proposes Scrapping Reg NMS Trade-Through Rule In Move To Ease Market Complexity",
-      "url": "https://www.tradingview.com/news/newsbtc:8125b9d4b094b:0-sec-proposes-scrapping-reg-nms-trade-through-rule-in-move-to-ease-market-complexity/",
+      "id": "87a8742f71685489678fd190e3dcbdd5a57c340f62081fcca46e6c554a41203f",
+      "title": "RCoinMarketCalRE - KuCoin Listing - 18 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:57d07696e094b:0-re-kucoin-listing-18-june-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
+      "scraped_at": "2026-06-18T23:49:19.074Z"
+    },
+    {
+      "id": "fd8e8056705bf89779a11dcb2e3f6079d90542df120c8bac06a868ffd2e508a8",
+      "title": "CointelegraphBitcoin decouples from tech stocks: Is $60K BTC’s next stop?",
+      "url": "https://www.tradingview.com/news/cointelegraph:9b9bd7e18094b:0-bitcoin-decouples-from-tech-stocks-is-60k-btc-s-next-stop/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-18T23:49:19.074Z"
     },
     {
       "id": "d163bfc9c8c6753a596ab5554ffff82b7fc0f4053ba0f52ab889ffdb0832e24c",
       "title": "CointelegraphIreland mulls crypto safeguards in response to financial risks",
       "url": "https://www.tradingview.com/news/cointelegraph:fad4bd32f094b:0-ireland-mulls-crypto-safeguards-in-response-to-financial-risks/",
       "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
+      "scraped_at": "2026-06-18T23:49:19.074Z"
     },
     {
-      "id": "81c1d3f41ee5ed2c57813a7e3738992b266588d8e01a01476746629fb461212c",
-      "title": "CointelegraphWealthsimple launches Kalshi-powered prediction market app for Canadian investors",
-      "url": "https://www.tradingview.com/news/cointelegraph:bb09fdff4094b:0-wealthsimple-launches-kalshi-powered-prediction-market-app-for-canadian-investors/",
+      "id": "6f99d6edeecba08b0d4f619a34e1e28c24eb9e2603d7b4d59daacc974fdb8faa",
+      "title": "NewsBTCTrace Finance Raises $32M To Expand Stablecoin Settlement Rails",
+      "url": "https://www.tradingview.com/news/newsbtc:278ef35e2094b:0-trace-finance-raises-32m-to-expand-stablecoin-settlement-rails/",
       "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
+      "scraped_at": "2026-06-18T23:49:19.074Z"
     },
     {
-      "id": "d69c1d93f23309b77f5a2fde018d7557238b1dde88aa85c26cf8fd3844d13858",
-      "title": "The BlockSen. Gillibrand’s son is building a perps exchange that wants dual CFTC, SEC oversight: report",
-      "url": "https://www.tradingview.com/news/the_block:0e07279a9094b:0-sen-gillibrand-s-son-is-building-a-perps-exchange-that-wants-dual-cftc-sec-oversight-report/",
+      "id": "311e61471cd1dc8acae682ded8160a5585c061340076907b2f11ac6af90aac4f",
+      "title": "The BlockCryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
+      "url": "https://www.tradingview.com/news/the_block:89c964cbf094b:0-cryptoquant-says-bitcoin-microtransactions-now-make-up-80-of-daily-transactions/",
       "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
+      "scraped_at": "2026-06-18T23:49:19.074Z"
     },
     {
-      "id": "fbf548c1aebed3f5d7c0eee6ef8baa5b9af5b0259d7b4b5b0013135963988f30",
-      "title": "CointelegraphEthereum Foundation leadership exodus continues with director’s departure",
-      "url": "https://www.tradingview.com/news/cointelegraph:76d62d312094b:0-ethereum-foundation-leadership-exodus-continues-with-director-s-departure/",
+      "id": "8d877fbec75ed050693f07ac507ff4ef12acbfa7cf2e2b87c67b13107672d743",
+      "title": "CointelegraphCustodia, Vantage propose token that toggles between bank deposits and stablecoins",
+      "url": "https://www.tradingview.com/news/cointelegraph:97f5cc52c094b:0-custodia-vantage-propose-token-that-toggles-between-bank-deposits-and-stablecoins/",
       "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
-    },
-    {
-      "id": "598ddcda44b21c8d18fde4afaf728d9959482f9720a4154a6104131ef7383d79",
-      "title": "CointelegraphBitcoin’s deeply discounted versus AI-stocks, but hawkish Fed risk lingers: Bitwise",
-      "url": "https://www.tradingview.com/news/cointelegraph:a307f0de0094b:0-bitcoin-s-deeply-discounted-versus-ai-stocks-but-hawkish-fed-risk-lingers-bitwise/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
-    },
-    {
-      "id": "e6487ee16caf62536f74ef4909be02498ee8fc302b3c736a051ffb4df7750563",
-      "title": "NewsBTCEthereum Proposal Targets Safer AI-Agent Wallets With Asset-Level Spending Limits",
-      "url": "https://www.tradingview.com/news/newsbtc:77706e5c1094b:0-ethereum-proposal-targets-safer-ai-agent-wallets-with-asset-level-spending-limits/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
-    },
-    {
-      "id": "a2d45dfba120c7e7326cff492285decb8a0fadd1fffee0ca35a7f21d2cbb4451",
-      "title": "The BlockCFTC enters settlement with former Celsius CEO, imposes a permanent trading ban",
-      "url": "https://www.tradingview.com/news/the_block:8ae1967c1094b:0-cftc-enters-settlement-with-former-celsius-ceo-imposes-a-permanent-trading-ban/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
-    },
-    {
-      "id": "777e877d510506d1f3defffbdd6cb0022ae00c368aa9714615cc56b9f5cc37de",
-      "title": "The BlockHyperliquid poised to become more than an exchange and drive HYPE higher, Hyperion CEO says",
-      "url": "https://www.tradingview.com/news/the_block:3c81f9681094b:0-hyperliquid-poised-to-become-more-than-an-exchange-and-drive-hype-higher-hyperion-ceo-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
-    },
-    {
-      "id": "aa5e459655d149f31d7aa4eff2da458bbccae594d3ebb832e97e8c6a55a59f8e",
-      "title": "BeincryptoHoskinson Has a Plan to Save Cardano, But ADA Holders aren’t Buying It",
-      "url": "https://www.tradingview.com/news/beincrypto:e1182dd9d094b:0-hoskinson-has-a-plan-to-save-cardano-but-ada-holders-aren-t-buying-it/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-18T21:51:45.501Z"
+      "scraped_at": "2026-06-18T23:49:19.074Z"
     }
   ]
 }
