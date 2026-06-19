@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-19T21:51:02.277Z",
+  "generated_at": "2026-06-19T23:03:33.257Z",
   "total": 14,
   "items": [
+    {
+      "id": "5ee3d12327d86175a8303f905e8949fedb3a6d885be81ab666ea826e83ee295d",
+      "title": "NewsBTCChainlink World Cup Role Puts Oracle Settlement Back In The Spotlight",
+      "url": "https://www.tradingview.com/news/newsbtc:b9fc3b6a1094b:0-chainlink-world-cup-role-puts-oracle-settlement-back-in-the-spotlight/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-19T23:03:33.254Z"
+    },
+    {
+      "id": "7e90d6948142c89071b54b408a86024a863f51f067a75c516ada0082dbde2617",
+      "title": "CoinMarketCalLido DAO (LDO) - Upbit Listing - 19 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:d3e6d79d6094b:0-lido-dao-ldo-upbit-listing-19-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-19T23:03:33.254Z"
+    },
+    {
+      "id": "e7d278b23b4cf92103fc266c56ae906e6dc56d1f37dad1a764d788b302a485de",
+      "title": "CoinMarketCalOsmosis (OSMO) - Upbit Listing - 19 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:a03559dc1094b:0-osmosis-osmo-upbit-listing-19-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-19T23:03:33.254Z"
+    },
+    {
+      "id": "091a49942c1ee6051795e2bafdba878d1d03c711a1224a822cbd30d92cb267b3",
+      "title": "RCoinMarketCalRE - Bybit Listing - 19 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:706e29075094b:0-re-bybit-listing-19-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-19T23:03:33.254Z"
+    },
     {
       "id": "9207509c8bfc75f83754e974f3d4cefcc87a18d04e71f280fb1018703f85eef1",
       "title": "NewsBTCAztec Legacy Exploit Shows The Long Tail Risk Of Deprecated Crypto Contracts",
       "url": "https://www.tradingview.com/news/newsbtc:e184a514d094b:0-aztec-legacy-exploit-shows-the-long-tail-risk-of-deprecated-crypto-contracts/",
       "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.273Z"
+      "scraped_at": "2026-06-19T23:03:33.254Z"
     },
     {
       "id": "40e82c27268f9f8f8cf6c082acdcc96545159dd13d69e9682e7c99d3ec208313",
       "title": "Cointelegraph$13B Bitcoin options expiry looms: Will bulls endure more pain in June?",
       "url": "https://www.tradingview.com/news/cointelegraph:7f1efd2ac094b:0-13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june/",
       "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
+      "scraped_at": "2026-06-19T23:03:33.254Z"
     },
     {
       "id": "c1bfa9890ae761ee8a3553545c1c23e52242a698cd9335b8960e3405f8634d6d",
       "title": "CointelegraphWhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
       "url": "https://www.tradingview.com/news/cointelegraph:0215081a3094b:0-whitebit-secures-mica-license-in-austria-ahead-of-july-1-eu-deadline/",
       "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
+      "scraped_at": "2026-06-19T23:03:33.254Z"
     },
     {
       "id": "bcce0f98ef6e9832eb37ddd0b77fefcd166f18bc3306cf25968d2179f7e6026c",
       "title": "NewsBTCLedn Adds Tether Gold Collateral As Tokenized Gold Enters Crypto Lending",
       "url": "https://www.tradingview.com/news/newsbtc:459126a5e094b:0-ledn-adds-tether-gold-collateral-as-tokenized-gold-enters-crypto-lending/",
       "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
+      "scraped_at": "2026-06-19T23:03:33.254Z"
+    },
+    {
+      "id": "0e0138c9475c16905d1c6778021923c0aaba5964c6e54e468089d5d2515e16cf",
+      "title": "CryptoProwlWeekly Wrap: Bitcoin Slumps As Fed Turns Hawkish On Interest Rates",
+      "url": "https://www.tradingview.com/news/cryptoprowl:73365e2a1094b:0-weekly-wrap-bitcoin-slumps-as-fed-turns-hawkish-on-interest-rates/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-19T23:03:33.254Z"
+    },
+    {
+      "id": "703537a7f4ee57cfd66f4c78f0195b69e40b48a24e1ad27614ed3a19f4f25da1",
+      "title": "CryptoProwlArthur Hayes Sells Ethereum at a Loss as Whales Keep Buying Near Support",
+      "url": "https://www.tradingview.com/news/cryptoprowl:f8bcc4994094b:0-arthur-hayes-sells-ethereum-at-a-loss-as-whales-keep-buying-near-support/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-19T23:03:33.254Z"
+    },
+    {
+      "id": "24468188a6a0fc5357589a38b9feabe0c5bbfe6815d1513a42d46eb49cb5637f",
+      "title": "CryptoProwlSchwab Plans S&P 500 Prediction Markets as Event Trading Moves Mainstream",
+      "url": "https://www.tradingview.com/news/cryptoprowl:c66986477094b:0-schwab-plans-s-p-500-prediction-markets-as-event-trading-moves-mainstream/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-19T23:03:33.254Z"
     },
     {
       "id": "267a9c3728ca71e005b51dba0e0301c803e551c4e1d1f33bab2d0da1d15a4b94",
       "title": "NewsBTCMalta Regulator Opens DeFi Consultation As DAO Governance Enters Policy Spotlight",
       "url": "https://www.tradingview.com/news/newsbtc:fa83d2afb094b:0-malta-regulator-opens-defi-consultation-as-dao-governance-enters-policy-spotlight/",
       "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
+      "scraped_at": "2026-06-19T23:03:33.254Z"
+    },
+    {
+      "id": "3bac673cf572ba24a05118c20a1043b01c1490f880a0008fbc0c079a9ddfeb20",
+      "title": "CryptoProwlStrive Blames Leverage Unwind as SATA and Strategy’s STRC Slide Below Par",
+      "url": "https://www.tradingview.com/news/cryptoprowl:5d1926130094b:0-strive-blames-leverage-unwind-as-sata-and-strategy-s-strc-slide-below-par/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-19T23:03:33.254Z"
     },
     {
       "id": "ba916bd5b09d3484ca4037e953f57099dba8b42cb69188c57fed1232df248072",
       "title": "Finance MagnatesCIRO Approves Webull Canada Crypto as Dealer Member, Grants Insurance Relief",
       "url": "https://www.tradingview.com/news/financemagnates:7a1931583094b:0-ciro-approves-webull-canada-crypto-as-dealer-member-grants-insurance-relief/",
       "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
-    },
-    {
-      "id": "5b9e1a5484d1931cbedd3b11515b6b3daf48e93362ef221bd52fda285422ec55",
-      "title": "CointelegraphBitcoin traders expect new lows but data cautions against overly bearish bias",
-      "url": "https://www.tradingview.com/news/cointelegraph:e90ddc91b094b:0-bitcoin-traders-expect-new-lows-but-data-cautions-against-overly-bearish-bias/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
-    },
-    {
-      "id": "7a2ace4d236f950d376d3d4d92368d57e04a33143dda04fd1a514dbb3156a15a",
-      "title": "Brave New CoinSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:3ea590da7094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
-    },
-    {
-      "id": "8f7418f89f5de665760904aef50ddec74198f2a2acab89ffc0c1fd2c983ab79b",
-      "title": "CryptoProwl24X Files Tokenized Stock Plan for Russell 1000 and Major ETFs",
-      "url": "https://www.tradingview.com/news/cryptoprowl:752e98956094b:0-24x-files-tokenized-stock-plan-for-russell-1000-and-major-etfs/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
-    },
-    {
-      "id": "5b6f57a43ed03ab9ac03bc34ab53689320a0e6fe963e5ae261bfb08ea1e44c2a",
-      "title": "CointelegraphCrypto Biz: Is AI the exit strategy for miners?",
-      "url": "https://www.tradingview.com/news/cointelegraph:ebd64841a094b:0-crypto-biz-is-ai-the-exit-strategy-for-miners/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
-    },
-    {
-      "id": "0413810cdc42e4c7d57b51d66b4f35788f7d3520d2cd6dc89e6ca853eb1c9969",
-      "title": "CoinMarketCalAmp (AMP) - Upbit Listing - Date (19 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:e43b26572094b:0-amp-amp-upbit-listing-date-19-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
-    },
-    {
-      "id": "84a04a26b62c08fa3ce88213674c832b99a46b99a1db0002655841e792a28e21",
-      "title": "CoinMarketCalpeaq (PEAQ) - Upbit Listing - Date (19 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:eb8ccc3b7094b:0-peaq-peaq-upbit-listing-date-19-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
-    },
-    {
-      "id": "3a6713f397656cd9285d6ee54fb72fe421e1bbff03c429911aedfb1d73de8ee1",
-      "title": "CoinMarketCalKamino (KMNO) - Upbit Listing - Date (19 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:4fa5bd736094b:0-kamino-kmno-upbit-listing-date-19-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
-    },
-    {
-      "id": "c3f07f4fc7f1153f4d7db45d9d87a78db0da723a4a5497ef67052b82ec05bd6a",
-      "title": "NewsBTC24X Files SEC Proposal To Bring Tokenized Russell 1000 Stocks To Regulated Markets",
-      "url": "https://www.tradingview.com/news/newsbtc:8ae91c11c094b:0-24x-files-sec-proposal-to-bring-tokenized-russell-1000-stocks-to-regulated-markets/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-19T21:51:02.274Z"
+      "scraped_at": "2026-06-19T23:03:33.254Z"
     }
   ]
 }
