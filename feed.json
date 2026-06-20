@@ -1,104 +1,97 @@
 {
-  "generated_at": "2026-06-20T06:27:46.405Z",
-  "total": 14,
+  "generated_at": "2026-06-20T09:54:02.841Z",
+  "total": 13,
   "items": [
+    {
+      "id": "de4c0925a20a9fbb1c5b5e9b002fc4a9181742ea7ba4310a7a1652ebe55b9eac",
+      "title": "StocktwitsBMNR’s Tom Lee Rejects Ethereum Funding Crisis Warning After Foundation Loses Eighth Senior Leader This Year",
+      "url": "https://www.tradingview.com/news/stocktwits:ed646ed48094b:0-bmnr-s-tom-lee-rejects-ethereum-funding-crisis-warning-after-foundation-loses-eighth-senior-leader-this-year/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-20T09:54:02.838Z"
+    },
+    {
+      "id": "428908e3cfe3937456f3e11418d4a11ef7f0be6bbf37b2736ee4a48b52952d7f",
+      "title": "NewsBTCBitcoin Bearish Breakdown Setup Warns Sellers Still Control The Larger Structure",
+      "url": "https://www.tradingview.com/news/newsbtc:d6eaffc0b094b:0-bitcoin-bearish-breakdown-setup-warns-sellers-still-control-the-larger-structure/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-20T09:54:02.838Z"
+    },
+    {
+      "id": "934f6940c0a097f8053c90ede85b337ade0641082fcddb5ca08a7c71797e9594",
+      "title": "BeincryptoEthereum Crisis or Overblown FUD? Tom Lee Rejects Funding Fears",
+      "url": "https://www.tradingview.com/news/beincrypto:a7c54bc2f094b:0-ethereum-crisis-or-overblown-fud-tom-lee-rejects-funding-fears/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-20T09:54:02.838Z"
+    },
+    {
+      "id": "01564fc2ebedfd625251d114ff69ad45b45c1bff0fa77ce4a41b0ff557fdc0f4",
+      "title": "CointelegraphPhilippine SEC signals readiness for RWA tokenization",
+      "url": "https://www.tradingview.com/news/cointelegraph:b2a23ccd7094b:0-philippine-sec-signals-readiness-for-rwa-tokenization/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-20T09:54:02.838Z"
+    },
+    {
+      "id": "0f41cfadabc886af9dbeb81df21e8a6e0f903531130b84965fa63492bdd3c2db",
+      "title": "CoinpediaBitcoin Price Back Above $63K: The Next Target Could Surprise Traders",
+      "url": "https://www.tradingview.com/news/coinpedia:f6267e503094b:0-bitcoin-price-back-above-63k-the-next-target-could-surprise-traders/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-20T09:54:02.838Z"
+    },
     {
       "id": "aab021cfad3bb6285813e8ccb3c219ae663056feff02bf8844fc4be0f3ba32bd",
       "title": "CointelegraphCrypto kidnappers who robbed a Minnesota family of $8M plead guilty",
       "url": "https://www.tradingview.com/news/cointelegraph:48cf7e4b8094b:0-crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty/",
       "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.401Z"
+      "scraped_at": "2026-06-20T09:54:02.838Z"
     },
     {
       "id": "be3e3d3dd3df429a79c7640438c6937f328cb5d7e5d51520cc54802df8e1975e",
       "title": "CoinpediaEU to Impose €10K Cash Limit and Ban on Anonymous Crypto Accounts",
       "url": "https://www.tradingview.com/news/coinpedia:2235b8622094b:0-eu-to-impose-10k-cash-limit-and-ban-on-anonymous-crypto-accounts/",
       "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
+      "scraped_at": "2026-06-20T09:54:02.838Z"
     },
     {
       "id": "19ce5e8e63b431e4bcf0675af80a83066e89d16b2f6a384ea3a71c061337766f",
       "title": "Crypto BriefingPrestianni Law applied for first time as Almirón sees red card at 2026 World Cup",
       "url": "https://www.tradingview.com/news/cryptobriefing:9f2320056094b:0-prestianni-law-applied-for-first-time-as-almir-n-sees-red-card-at-2026-world-cup/",
       "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
+      "scraped_at": "2026-06-20T09:54:02.838Z"
     },
     {
       "id": "c6b64d0488ed95c2bf5ea25672714fa7a0fd845b287db463d79009957f1cefad",
       "title": "Crypto BriefingFIFA introduces new rules impacting player conduct at 2026 World Cup",
       "url": "https://www.tradingview.com/news/cryptobriefing:bfbf8f3ca094b:0-fifa-introduces-new-rules-impacting-player-conduct-at-2026-world-cup/",
       "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
+      "scraped_at": "2026-06-20T09:54:02.838Z"
     },
     {
       "id": "1ee9eff237eb901e2af08d52f6825f386d869c526fd508996799273c827ceb70",
       "title": "Binance NewsF2Pool Co-Founder WangChun’s ETH and WBTC Holdings Rise to $33.41 Million in 15 Hours",
       "url": "https://www.tradingview.com/news/binance_news:21d9182cf094b:0-f2pool-co-founder-wangchun-s-eth-and-wbtc-holdings-rise-to-33-41-million-in-15-hours/",
       "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
+      "scraped_at": "2026-06-20T09:54:02.838Z"
     },
     {
       "id": "c78afe8335729fbc0cfd06f5fb9ae7dd80e7629d9ad4e64c1d64b3e8f3ef841b",
       "title": "CoinpediaRicardo Salinas Says Fiat Is a Fraud, Explains Why Bitcoin Could Hit $1 Million",
       "url": "https://www.tradingview.com/news/coinpedia:ec08d4010094b:0-ricardo-salinas-says-fiat-is-a-fraud-explains-why-bitcoin-could-hit-1-million/",
       "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
+      "scraped_at": "2026-06-20T09:54:02.838Z"
     },
     {
       "id": "715e1bc785edb6005cb1de383d587f45e75e863e07fe5b836a758fcb24d17376",
       "title": "Binance NewsStrategy’s STRC Preferred Shares Trade at Over 11% Discount as Dividend Yield Rises to 11.5%",
       "url": "https://www.tradingview.com/news/binance_news:03dcf8dd8094b:0-strategy-s-strc-preferred-shares-trade-at-over-11-discount-as-dividend-yield-rises-to-11-5/",
       "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
+      "scraped_at": "2026-06-20T09:54:02.838Z"
     },
     {
       "id": "d1cf3fa0a82126ea608d0e150af564d5098fcf0a7821ee126d3f23d9433f7048",
       "title": "Binance NewsChainlink Non-Circulating Supply Wallet Deposits 18.38 Million LINK to a CEX",
       "url": "https://www.tradingview.com/news/binance_news:24e6ac385094b:0-chainlink-non-circulating-supply-wallet-deposits-18-38-million-link-to-a-cex/",
       "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
-    },
-    {
-      "id": "233e50a2c39b5a845efde2d81a38cdc78938a1b3a9e7c6256029891d0f8afef6",
-      "title": "CoinpediaPi Network Warns Node Operators: Upgrade Now or Lose Network Connection",
-      "url": "https://www.tradingview.com/news/coinpedia:2aeee5a34094b:0-pi-network-warns-node-operators-upgrade-now-or-lose-network-connection/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
-    },
-    {
-      "id": "5cc9184d5b8ef0bb074be587f3579f048b2d1a8f6cb5063a1a4ab33264de4d77",
-      "title": "CoinpediaBitcoin Price Today: Why the Bear Market Is Still Very Much Alive",
-      "url": "https://www.tradingview.com/news/coinpedia:b7ffac2bd094b:0-bitcoin-price-today-why-the-bear-market-is-still-very-much-alive/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
-    },
-    {
-      "id": "ece52062273d16c25638e49caad324ed8c3ee7b50c0392e4c01b0cd2eb0832fb",
-      "title": "Binance NewsSonic Announces CEO Appointment and Board Changes at Sonic Labs",
-      "url": "https://www.tradingview.com/news/binance_news:2ae19ee92094b:0-sonic-announces-ceo-appointment-and-board-changes-at-sonic-labs/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
-    },
-    {
-      "id": "d88ba2e44f42634caf22b2166a34b23ee0a27637ecb1eae9c0275f40af23ec10",
-      "title": "Binance NewsU.S. Bankers Discuss Stablecoin Yield With Senators as Senate Bill Talks Shift, Fox Business Reporter Says",
-      "url": "https://www.tradingview.com/news/binance_news:0257e1f13094b:0-u-s-bankers-discuss-stablecoin-yield-with-senators-as-senate-bill-talks-shift-fox-business-reporter-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
-    },
-    {
-      "id": "31645ac3fa71f3883d5028f798ba17bc8e0f263d3f40f4102815199f5e7eef8b",
-      "title": "Binance NewsAxelar Disables Secret Network IBC Links After $4.67 Million Token Theft",
-      "url": "https://www.tradingview.com/news/binance_news:6286146f0094b:0-axelar-disables-secret-network-ibc-links-after-4-67-million-token-theft/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
-    },
-    {
-      "id": "ef1df18c7ecd0c09a4045d9c2dcac746d5e12e99dc72857e61372d47752161aa",
-      "title": "NewsBTCKalshi IPO Talk Shows Prediction Markets Are Moving Into Wall Street’s Mainstream",
-      "url": "https://www.tradingview.com/news/newsbtc:4451597eb094b:0-kalshi-ipo-talk-shows-prediction-markets-are-moving-into-wall-street-s-mainstream/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-20T06:27:46.402Z"
+      "scraped_at": "2026-06-20T09:54:02.838Z"
     }
   ]
 }
