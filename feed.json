@@ -1,97 +1,104 @@
 {
-  "generated_at": "2026-06-22T19:57:56.302Z",
-  "total": 13,
+  "generated_at": "2026-06-22T22:10:50.107Z",
+  "total": 14,
   "items": [
+    {
+      "id": "1b9641323c20ed3832dd1e4d11c267c01744564873007faaa4070d0993164c9e",
+      "title": "CoinMarketCalArcium (ARX) - Bybit Listing - 22 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:c3a0b600d094b:0-arcium-arx-bybit-listing-22-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
+    {
+      "id": "4e1a98c15bfd7369b1cb0aa6fee9ac0d807d94389c0f288ca8182d38ac9b68af",
+      "title": "CoinMarketCalOndo (ONDO) - Tokenized Stocks on LI.FI - 22 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:1f5a38e73094b:0-ondo-ondo-tokenized-stocks-on-li-fi-22-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
+    {
+      "id": "93f3763aa7b075eaa800632fe78b0360096e18f335befa5a7e0d870180c3d449",
+      "title": "CoinMarketCalCollector Crypt (CARDS) - Rarible Gacha Station - 22 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:2f5cf7300094b:0-collector-crypt-cards-rarible-gacha-station-22-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
+    {
+      "id": "f5872c53708a6aaf087a5c91e8265d413b256e65bdfcfe009fa203e80c5b245e",
+      "title": "NewsBTCXRP Analyst Says Multi-Year Support Could Decide Next Major Move",
+      "url": "https://www.tradingview.com/news/newsbtc:d5a7c6761094b:0-xrp-analyst-says-multi-year-support-could-decide-next-major-move/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
+    {
+      "id": "e91eefb813dcb122fd11dd67d94e38172539f6c0a4e4d74c7a4576f62e1ec601",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:a4e24f498094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
+    {
+      "id": "e0dabf2567f73ce38b39ddf9e54a87301c86bf8d46352bfb7e00773f52c4f04b",
+      "title": "NewsBTCStrategy Adds $300 Million To USD Reserve As Saylor Reports 520 BTC Buy",
+      "url": "https://www.tradingview.com/news/newsbtc:9965bfb45094b:0-strategy-adds-300-million-to-usd-reserve-as-saylor-reports-520-btc-buy/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
+    {
+      "id": "c36125cb013f624d5086a51dc970e0af29543cf446112acd39c82adce30bde0b",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:61afaa43d094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
+    {
+      "id": "36d12d49f297a2756ba123a49d5d12637d6f04820018d5ef49e1dda6a7dcdab8",
+      "title": "CointelegraphFranklin Templeton launches dedicated crypto division after closing 250 Digital acquisition",
+      "url": "https://www.tradingview.com/news/cointelegraph:b24fb5c80094b:0-franklin-templeton-launches-dedicated-crypto-division-after-closing-250-digital-acquisition/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
+    {
+      "id": "eb0a74efc5ea7ddae304a9aefa48858facd868e300de1999ef0a5e4691fcbc88",
+      "title": "BeincryptoTom Lee and Joe Lubin Push New Ethereum Initiative for Enhanced Institutional Use",
+      "url": "https://www.tradingview.com/news/beincrypto:2e3369c44094b:0-tom-lee-and-joe-lubin-push-new-ethereum-initiative-for-enhanced-institutional-use/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
+    {
+      "id": "4b2958b65374fbc9b76d3c0e588483d5cea9eadd0601b1c0cf07f95e81dfd1e8",
+      "title": "CointelegraphNew York, Maryland and Utah to hold primaries with crypto PAC money hanging over voters",
+      "url": "https://www.tradingview.com/news/cointelegraph:2262123ab094b:0-new-york-maryland-and-utah-to-hold-primaries-with-crypto-pac-money-hanging-over-voters/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-22T22:10:50.104Z"
+    },
     {
       "id": "589c3d2a030e6c3dd0f9c07ee87d3ff7016c9d3a3db50eb2df46e1d4d4a34373",
       "title": "The BlockBitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum’s ‘next phase’ of growth",
       "url": "https://www.tradingview.com/news/the_block:db7dd29f2094b:0-bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereum-s-next-phase-of-growth/",
       "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
+      "scraped_at": "2026-06-22T22:10:50.104Z"
     },
     {
       "id": "8762698d0a56e8d4e409029e5197b6911c23cd86dcbfd89f3b8f3adb4d23df04",
       "title": "NewsBTCEthereum Analyst Maps Drop Toward Demand Zone As ETH Tests Supply",
       "url": "https://www.tradingview.com/news/newsbtc:1cad44323094b:0-ethereum-analyst-maps-drop-toward-demand-zone-as-eth-tests-supply/",
       "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
+      "scraped_at": "2026-06-22T22:10:50.104Z"
     },
     {
       "id": "dd6d73ec9211cc409ac7352da78146bb940c08d5aec3a27a9261e59cd2cfbfdb",
       "title": "ChainwireEthlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle",
       "url": "https://www.tradingview.com/news/chainwire:648530e9e094b:0-ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereum-s-institutional-supercycle/",
       "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
+      "scraped_at": "2026-06-22T22:10:50.104Z"
     },
     {
       "id": "e2c2b31cf00f0a0ac90da2e6d0b035d77ff9daa373b3d15449d507fb2e18d63f",
       "title": "Brave New CoinSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/bravenewcoin:4c69d2daa094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
-    },
-    {
-      "id": "1ec01f226de6593013baace79fac87cbae0e1ec42b90e37c7333a227f8ad6a25",
-      "title": "ChainwireVobile Launches Real-World Asset Program for Creative IP Rights, Expanding Monetization Opportunities for Content Creators",
-      "url": "https://www.tradingview.com/news/chainwire:67d80b590094b:0-vobile-launches-real-world-asset-program-for-creative-ip-rights-expanding-monetization-opportunities-for-content-creators/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
-    },
-    {
-      "id": "714091d35deaa77b44bad64fa1b1c351b290dd155f8efb86c81eb567c7f1106e",
-      "title": "The BlockMoonPay expands into back-office financial operations with AI accounting startup Entendre acquisition",
-      "url": "https://www.tradingview.com/news/the_block:6e1dddbc2094b:0-moonpay-expands-into-back-office-financial-operations-with-ai-accounting-startup-entendre-acquisition/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
-    },
-    {
-      "id": "f2042a945f506098818666fb3ed9c08ef26ec621a0441823d1dc0cb050c74833",
-      "title": "CointelegraphSolana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
-      "url": "https://www.tradingview.com/news/cointelegraph:e30cfc664094b:0-solana-grabs-95-of-tokenized-equity-as-traders-debate-if-sol-bottom-is-in/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
-    },
-    {
-      "id": "de06824ad7694ea477cf8466298ec9e96ad4fd432543f177f77809a725d55015",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260622003936:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
-    },
-    {
-      "id": "ca3e12b8de4a7ccc0a0a28d06981f2cbe8407022e0e382dff5d83fd682a90ec2",
-      "title": "PR NewswireEthlabs, Founded by Former Ethereum Foundation Contributors and Funded by Bitmine, Sharplink and Joe Lubin, Launches to Accelerate Ethereum's Institutional Supercycle",
-      "url": "https://www.tradingview.com/news/prnewswire:8ff43b613f4ec:0-ethlabs-founded-by-former-ethereum-foundation-contributors-and-funded-by-bitmine-sharplink-and-joe-lubin-launches-to-accelerate-ethereum-s-institutional-supercycle/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
-    },
-    {
-      "id": "354017e1dedc41c984854c75bf13f82c56e3f69572d88065feb3b5f4f171d6a4",
-      "title": "GuruFocusStrategy Buys $39.4 Million Bitcoin as STRC Falls Below $90",
-      "url": "https://www.tradingview.com/news/gurufocus:1d46295db094b:0-strategy-buys-39-4-million-bitcoin-as-strc-falls-below-90/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
-    },
-    {
-      "id": "f480063503eae6bf66aefbff79c82b6f7e6bb694d2966efc9ea30f91705562d6",
-      "title": "PR NewswireVobile Launches Real-World Asset Program for Creative IP Rights, Expanding Monetization Opportunities for Content Creators",
-      "url": "https://www.tradingview.com/news/prnewswire:3f949f2d9e4c5:0-vobile-launches-real-world-asset-program-for-creative-ip-rights-expanding-monetization-opportunities-for-content-creators/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
-    },
-    {
-      "id": "5e67fe8d9f5dbcfb657721cd64ae7988f414854ebfac389b255c619a475250ce",
-      "title": "NewsBTCFranklin Templeton Files Bitcoin DRIP ETFs That Would Route Stock Dividends Into BTC",
-      "url": "https://www.tradingview.com/news/newsbtc:5d2268867094b:0-franklin-templeton-files-bitcoin-drip-etfs-that-would-route-stock-dividends-into-btc/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
-    },
-    {
-      "id": "780d824138064b5856c80440d3630e0354c781788721b74ea63dfe12157dc5d9",
-      "title": "The BlockSecuritize asks court to reject tZERO’s ‘meritless’ tokenization patent allegations",
-      "url": "https://www.tradingview.com/news/the_block:e81f2c981094b:0-securitize-asks-court-to-reject-tzero-s-meritless-tokenization-patent-allegations/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-22T19:57:56.295Z"
+      "scraped_at": "2026-06-22T22:10:50.104Z"
     }
   ]
 }
