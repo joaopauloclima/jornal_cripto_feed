@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-23T19:31:53.907Z",
+  "generated_at": "2026-06-23T21:20:12.272Z",
   "total": 14,
   "items": [
+    {
+      "id": "8eb1cbb208b07593d3d63e362202a6791ec12c594ea665c7ea49a4b3d1be8720",
+      "title": "CointelegraphMark Zuckerberg ordered Meta staff to develop moneyless prediction market: NYT",
+      "url": "https://www.tradingview.com/news/cointelegraph:9766a9db5094b:0-mark-zuckerberg-ordered-meta-staff-to-develop-moneyless-prediction-market-nyt/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "bd5a3eb19e65eb9ed10bc0e607e365224d8135149dd562ca5d615da96e58f0cb",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260623006858_20260623006918:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "97e102de911997c32a318d332269d2a5f51ba17ca3061e0b3e82e4f9106b77d1",
+      "title": "The BlockTrump directing ‘government dollars and time’ to quantum security could be a boon for bitcoin",
+      "url": "https://www.tradingview.com/news/the_block:5daf4ea7c094b:0-trump-directing-government-dollars-and-time-to-quantum-security-could-be-a-boon-for-bitcoin/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "c159dab858388e715a65dd3d9760d2a4a9f2ced72baef383e8363756f4faef73",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260623006656:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "8920ac1f79552ca5599d754bf32f824d6850777fe1ffb7e4b78f012525050613",
+      "title": "The BlockBarry Silbert’s Zcash miner proposes merger, sends Nasdaq stock soaring despite rough month for ZEC",
+      "url": "https://www.tradingview.com/news/the_block:bee2b0334094b:0-barry-silbert-s-zcash-miner-proposes-merger-sends-nasdaq-stock-soaring-despite-rough-month-for-zec/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "aaf39946b9066d5c95a26e7a5594a846b05165f21609cd9a2fbf1f059ccbcee0",
+      "title": "CoindarSteem Started SLC32-W5 Video Challenge",
+      "url": "https://www.tradingview.com/news/coindar:d8d3a73a7094b:0-steem-started-slc32-w5-video-challenge/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "0550cf8b60103985f729cdd6e4bf5808c22f1ed953fa1a88c7db203a9a06b1bb",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:78fcd3879094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "f867e5c7d0b89ff348f606d69fb06acd783d06abc6c8bfa9cf4f1d24c800ea77",
+      "title": "CoindarConflux and KuCoin to Launch 60,000 USDT Campaign on June 25",
+      "url": "https://www.tradingview.com/news/coindar:50f316139094b:0-conflux-and-kucoin-to-launch-60-000-usdt-campaign-on-june-25/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "68c4490da687b22b22502ce931af6cd9c3719889a57bb32c868ba54b398b6ec1",
+      "title": "CointelegraphCrypto isn't the problem with the US economy, says senator",
+      "url": "https://www.tradingview.com/news/cointelegraph:98d95df26094b:0-crypto-isn-t-the-problem-with-the-us-economy-says-senator/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "d41a3f0dfeeee12afd9c91d58d6deee5c1c5962a3747efab00e3cf7a9411ea74",
+      "title": "CoindarAlchemy Pay to Hold AMA on Discord on June 25",
+      "url": "https://www.tradingview.com/news/coindar:281212291094b:0-alchemy-pay-to-hold-ama-on-discord-on-june-25/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
+    {
+      "id": "3d2714c191fb7acdf11559e66e4ccfb3ab84d771be29e74be6f9d0514e81d87c",
+      "title": "BeincryptoEthereum Foundation Cuts Another 40% But Solana Founder Calls It Bullish",
+      "url": "https://www.tradingview.com/news/beincrypto:57f5029b7094b:0-ethereum-foundation-cuts-another-40-but-solana-founder-calls-it-bullish/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T21:20:12.268Z"
+    },
     {
       "id": "bb9a121636417b9248042f23b02f63671e6dbf336b1573083cb977c741219d82",
       "title": "CointelegraphMulti-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date",
       "url": "https://www.tradingview.com/news/cointelegraph:2bf50679e094b:0-multi-year-bitcoin-holder-selling-falls-to-19-month-low-as-halving-model-flags-new-market-bottom-date/",
       "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
+      "scraped_at": "2026-06-23T21:20:12.268Z"
     },
     {
       "id": "938c9d4b4252ddf7affab4d419ebbbb55d4e03abd39fcbf4ed09dda21682e05f",
       "title": "NewsBTCFormer Ethereum Foundation Researchers Launch Ethlabs With BitMine And SharpLink Backing",
       "url": "https://www.tradingview.com/news/newsbtc:f878efc26094b:0-former-ethereum-foundation-researchers-launch-ethlabs-with-bitmine-and-sharplink-backing/",
       "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
+      "scraped_at": "2026-06-23T21:20:12.268Z"
     },
     {
       "id": "c7feeeeca4dbe00c849d31e5a4d6d40f4f0afa0217f306499205258af78ed3eb",
       "title": "GuruFocusBitcoin Hits $61,877 as Tech Selloff Pressures Crypto",
       "url": "https://www.tradingview.com/news/gurufocus:a8532d858094b:0-bitcoin-hits-61-877-as-tech-selloff-pressures-crypto/",
       "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
-    },
-    {
-      "id": "86f773a9addafd23af0f6152cbdb47e769caebc12059de38a3a31fcb7c4d1d44",
-      "title": "GuruFocusTruist Stays Bullish on Robinhood as June Volumes Point to Record Quarter",
-      "url": "https://www.tradingview.com/news/gurufocus:c4258254b094b:0-truist-stays-bullish-on-robinhood-as-june-volumes-point-to-record-quarter/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
-    },
-    {
-      "id": "6ca78c468bfa49bbeac0036aac68480b68eaa56fc920a60495fd5f95e547d8ab",
-      "title": "The BlockNearly 100 Catholic leaders oppose Clarity Act over weakened safeguards against illicit finance and trafficking",
-      "url": "https://www.tradingview.com/news/the_block:03fde1563094b:0-nearly-100-catholic-leaders-oppose-clarity-act-over-weakened-safeguards-against-illicit-finance-and-trafficking/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
-    },
-    {
-      "id": "34fc8e5514084722851c2b856797950096cc693e6657eb71859abcc55b3dd769",
-      "title": "NewsBTCCoinbase Pre-IPO Perps Push Crypto Rails Deeper Into Private Markets",
-      "url": "https://www.tradingview.com/news/newsbtc:866c31532094b:0-coinbase-pre-ipo-perps-push-crypto-rails-deeper-into-private-markets/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
-    },
-    {
-      "id": "61129ef7342372bad7c8f9cce7ca9151ae7cbe9b7f6cd56e33dbb506c91bbf5c",
-      "title": "NewsBTCRussell 2000 Record High Has Crypto Traders Watching Altcoin Rotation",
-      "url": "https://www.tradingview.com/news/newsbtc:5d5f20a5d094b:0-russell-2000-record-high-has-crypto-traders-watching-altcoin-rotation/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
-    },
-    {
-      "id": "e74632501646b1f13d9d6215f9b1fdd38d0f3cc4db2dd0fb8d52cbbf1d8e5d0f",
-      "title": "NewsBTCDigital Euro Clears Key Parliament Hurdle As Europe Pushes CBDC Plan Forward",
-      "url": "https://www.tradingview.com/news/newsbtc:21cace613094b:0-digital-euro-clears-key-parliament-hurdle-as-europe-pushes-cbdc-plan-forward/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
-    },
-    {
-      "id": "5a468723592d3bb8d1232214890a97772549ddcf697d12f03a5f1e648ee8d7a9",
-      "title": "CoinpediaWorldcoin Sell-Off Deepens, But Bullish Momentum Remains Intact — What’s Next for WLD Price?",
-      "url": "https://www.tradingview.com/news/coinpedia:b20208e78094b:0-worldcoin-sell-off-deepens-but-bullish-momentum-remains-intact-what-s-next-for-wld-price/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
-    },
-    {
-      "id": "800de0052f39287b009a3043e5b3879ec430d4644ada5d86622bb440f3fef83d",
-      "title": "The BlockNew York man sentenced for $1.4 million crypto fraud scheme using bogus influencer accounts",
-      "url": "https://www.tradingview.com/news/the_block:966e6f91b094b:0-new-york-man-sentenced-for-1-4-million-crypto-fraud-scheme-using-bogus-influencer-accounts/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
-    },
-    {
-      "id": "cd5086492116d6832a741bee9ca7a715b60d7c2ecd8c9aa5ffd2ad9db5bbd5c7",
-      "title": "ReutersESMA Calls On Unauthorised Crypto-Asset Service Providers To Wind Down Orderly",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42V10D:0-esma-calls-on-unauthorised-crypto-asset-service-providers-to-wind-down-orderly/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.903Z"
-    },
-    {
-      "id": "53c0b6b5d0bde755d2b03ca1c868a9ed077e267af1701ed8ccbb70e61000d16d",
-      "title": "The Block‘Quarter-end catalyst or consolidation?’: Bitcoin below $63,000 amid ETF outflows, $10.6 billion options expiry",
-      "url": "https://www.tradingview.com/news/the_block:649249a93094b:0-quarter-end-catalyst-or-consolidation-bitcoin-below-63-000-amid-etf-outflows-10-6-billion-options-expiry/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.904Z"
-    },
-    {
-      "id": "f6017d52f8ad1fdacc6501d444cfda365dd9ff3d21c9abfcd8b63f4c24063f46",
-      "title": "Finance MagnatesFormer BIS Chief Backs Stablecoin as Bank of England Moves to £40B Issuance Cap Model",
-      "url": "https://www.tradingview.com/news/financemagnates:d778ee0fe094b:0-former-bis-chief-backs-stablecoin-as-bank-of-england-moves-to-40b-issuance-cap-model/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.904Z"
-    },
-    {
-      "id": "053f821796e6a64a63375b43c557f121538651d83d5338b8c290888d6800331a",
-      "title": "ReutersMark Zuckerberg directed Meta to create a prediction markets app, NYT reports",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42V1BW:0-mark-zuckerberg-directed-meta-to-create-a-prediction-markets-app-nyt-reports/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T19:31:53.904Z"
+      "scraped_at": "2026-06-23T21:20:12.268Z"
     }
   ]
 }
