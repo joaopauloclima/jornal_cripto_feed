@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-23T15:13:43.063Z",
+  "generated_at": "2026-06-23T17:30:09.424Z",
   "total": 14,
   "items": [
     {
-      "id": "cca1a9e70fc028df3c176f7460fe91b1feb94a48593a2099bde96f0ee5d6d7d6",
+      "id": "f4b3f8d55812dfe2a68a90c2dd7dd1b9f66f5602c4058184738edca10dee7fc1",
+      "title": "CoinMarketCalPolymesh (POLYX) - Polymesh V8 - 22 July 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:1827a1714094b:0-polymesh-polyx-polymesh-v8-22-july-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "12bc6f2cdc1763561162a62703406db5586077d9723725951232e9a5f0e138b2",
+      "title": "CoinMarketCalRain (RAIN) - Gate.io Listing - 24 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:708460bbf094b:0-rain-rain-gate-io-listing-24-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "7f0a03e736760ace272b294b658feba9a61ab155e98a58c846c8d902390c6cee",
+      "title": "CoinMarketCalSolana (SOL) - Allfunds Integration - 23 June 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:473bdf69e094b:0-solana-sol-allfunds-integration-23-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "d109f9df9fb6450bc1dfbdff59d66d4cf0702a5e486acf20a6e55e161e34aa30",
+      "title": "The BlockDOJ seizes Huione Group cloud computing account used to launder billions in fraud proceeds",
+      "url": "https://www.tradingview.com/news/the_block:a2b6d3a87094b:0-doj-seizes-huione-group-cloud-computing-account-used-to-launder-billions-in-fraud-proceeds/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "d3498c3010f6b64c9e62755ecca10665b804283bd76b1e38fb98842ad9964b31",
+      "title": "The BlockGoldfinch set to shutter Prime after community vote backs wind-down proposal",
+      "url": "https://www.tradingview.com/news/the_block:927b07971094b:0-goldfinch-set-to-shutter-prime-after-community-vote-backs-wind-down-proposal/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "ff01370fabff503bf24ab4929b39fe6db1ab949a7b30ef770688b5425eea2528",
+      "title": "CointelegraphCBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report",
+      "url": "https://www.tradingview.com/news/cointelegraph:89e4c38f5094b:0-cboe-weighs-converting-btc-eth-continuous-futures-into-perpetual-futures-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "c263a59938a01fde732c1b136418e02508cbd32aeda19771e5f0b9706b2ecabf",
+      "title": "CoinpediaXRP News: Ripple’s MiCA Approval & Binance Withdrawal Trend Spark Fresh Optimism",
+      "url": "https://www.tradingview.com/news/coinpedia:1d2bcc5e0094b:0-xrp-news-ripple-s-mica-approval-binance-withdrawal-trend-spark-fresh-optimism/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "498be073584fbee46063a93b5768a2e22bf776b897c82ede53b348b2c65a536e",
+      "title": "ZacksCoinbase Bets on AI Trading With Pre-IPO of OpenAI, Anthropic?",
+      "url": "https://www.tradingview.com/news/zacks:922006d7d094b:0-coinbase-bets-on-ai-trading-with-pre-ipo-of-openai-anthropic/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "67f3b846eaa506c8ca5fed351790914c9631d717c91ced5d7ca3df119633463f",
+      "title": "CoindarDUSK to Participate in Dutch Blockchain Week on June 24th",
+      "url": "https://www.tradingview.com/news/coindar:45d3d7149094b:0-dusk-to-participate-in-dutch-blockchain-week-on-june-24th/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "5cea6b589b5ffe0be3122a689ce87ec657a42ddee9f450ac6783fb71f1cca7a0",
+      "title": "BeincryptoCardano Launched Its Biggest Upgrade in Years: What Does Network Activity Say?",
+      "url": "https://www.tradingview.com/news/beincrypto:5179b527a094b:0-cardano-launched-its-biggest-upgrade-in-years-what-does-network-activity-say/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "5e961d64704ec219607b009d7e3a92cec8941b14d62c621040aaf4d987408893",
+      "title": "CoinpediaDeXe Leads With Over 62% Surge, Humanity Price Tanks by 25% As BTC & ETH Stabalise",
+      "url": "https://www.tradingview.com/news/coinpedia:7b96de16a094b:0-dexe-leads-with-over-62-surge-humanity-price-tanks-by-25-as-btc-eth-stabalise/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-23T17:30:09.420Z"
+    },
+    {
+      "id": "127d0e20e8474aca0e85ca2e1f970acea8b423f3b103b78520c64b592caf707e",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260623004627:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260623004951:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
+      "scraped_at": "2026-06-23T17:30:09.420Z"
     },
     {
-      "id": "4e271ced61a21821041d24b5f1c232322874366ae48da5f1db652a87d9b92146",
-      "title": "NewsBTCJoe Lubin Says Ethereum Is Moving Toward Systemically Important Finance",
-      "url": "https://www.tradingview.com/news/newsbtc:702434c5a094b:0-joe-lubin-says-ethereum-is-moving-toward-systemically-important-finance/",
+      "id": "d1eda45cdb2a09f71af4bf5c322ef9d95c6e5319a067d07c8341830974727e58",
+      "title": "StocktwitsCLARITY Act Talks Hit Ethics Roadblock: White House Adviser Reportedly Negotiates Trump Crypto Restrictions",
+      "url": "https://www.tradingview.com/news/stocktwits:34fc434f8094b:0-clarity-act-talks-hit-ethics-roadblock-white-house-adviser-reportedly-negotiates-trump-crypto-restrictions/",
       "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
+      "scraped_at": "2026-06-23T17:30:09.420Z"
     },
     {
-      "id": "e2eed07b95e2101ec5d2b4824a86035a917a68b930ef9c7a013710a1757a234c",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260623004465:0/",
+      "id": "df955879c0a6427c8e3e227fb7834b0fe48ca2eb6c5f0a383e878752fd54c414",
+      "title": "CoinpediaWhy is Crypto Crashing Hard Today? BTC, ETH and XRP Fall 5%",
+      "url": "https://www.tradingview.com/news/coinpedia:9ddab025f094b:0-why-is-crypto-crashing-hard-today-btc-eth-and-xrp-fall-5/",
       "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "c366231708233ec90a1c6bdc60b309d70c11a2025947719ec7f5bc5854423bfb",
-      "title": "CointelegraphBitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
-      "url": "https://www.tradingview.com/news/cointelegraph:d2f6e1c45094b:0-bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "da8d1d960abf6422bfd4879a51540038c5552d2230dc2e7ade86ed4f986f1c92",
-      "title": "NewsBTCPolymarket Lands Bundesliga Prediction Market Partnership In The US",
-      "url": "https://www.tradingview.com/news/newsbtc:6e15f0e06094b:0-polymarket-lands-bundesliga-prediction-market-partnership-in-the-us/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "12272ec06cf189906073c8d44c9cd16023bac51bf190aca3bff35a56a3f86865",
-      "title": "StocktwitsFed's Waller Says Stablecoins, Tokenization Are Opening New Dollar Channels Beyond Banks",
-      "url": "https://www.tradingview.com/news/stocktwits:8d5ff40d6094b:0-fed-s-waller-says-stablecoins-tokenization-are-opening-new-dollar-channels-beyond-banks/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "05d7da9efad32b83bebb33027f7ab438c8bc03adebb87421a2ba365dc0c6778c",
-      "title": "PR NewswireRoubini, Longtime Crypto Skeptic, Co-Authors Whitepaper and Backs Atlas's New Digital Reserve Asset",
-      "url": "https://www.tradingview.com/news/prnewswire:0ad4e35646c18:0-roubini-longtime-crypto-skeptic-co-authors-whitepaper-and-backs-atlas-s-new-digital-reserve-asset/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "0b2c689359ac8d2271c1cfc4416c91f1d6108a478d966328700efea376a9046f",
-      "title": "NewsBTCEthereum ETF Outflows Keep Pressure On ETH As Traders Watch Network Rotation",
-      "url": "https://www.tradingview.com/news/newsbtc:99db6ee3b094b:0-ethereum-etf-outflows-keep-pressure-on-eth-as-traders-watch-network-rotation/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "90ea49f9b9ca98df485110ebebd945501adf8b9f1e2827f80efa206bc9177070",
-      "title": "The BlockEthereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape",
-      "url": "https://www.tradingview.com/news/the_block:ef4b2b4a2094b:0-ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "83c4ae0d58643d6d887f7aad18d1d4c02064f3866f2ad8dc502634a37d8a8247",
-      "title": "NewsBTCEthereum Leverage Map Shows Traders Split Between $1,900 And $1,600",
-      "url": "https://www.tradingview.com/news/newsbtc:a9c498f9d094b:0-ethereum-leverage-map-shows-traders-split-between-1-900-and-1-600/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "5ecbf0fa332c9d5659066c617f30378471a9315346c7a0a27bd408f56c7f65ab",
-      "title": "The BlockOKX Europe chief says 80% of crypto exchanges won’t survive MiCA as deadline nears",
-      "url": "https://www.tradingview.com/news/the_block:c29eddf65094b:0-okx-europe-chief-says-80-of-crypto-exchanges-won-t-survive-mica-as-deadline-nears/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "231242aae06481c05c047a27e6e8a8f5fb7cb3641527a6ebdc07bfb610c9e72e",
-      "title": "EQStZERO to Bring Archax $GOVY to US Institutional Investors  Unlocking Tokenized Treasuries Access Through Regulated US Infrastructure",
-      "url": "https://www.tradingview.com/news/eqs:82541bba6094b:0-tzero-to-bring-archax-govy-to-us-institutional-investors-unlocking-tokenized-treasuries-access-through-regulated-us-infrastructure/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "bb02bbef0159e9d0006802f1cd339cddd60ab0090e7b5c4b2908c004d1a109b1",
-      "title": "BeincryptoBig Tech Sell-Off Hits Risk Assets Hard and Crypto Suffers Most",
-      "url": "https://www.tradingview.com/news/beincrypto:a8e8a69b3094b:0-big-tech-sell-off-hits-risk-assets-hard-and-crypto-suffers-most/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
-    },
-    {
-      "id": "d2bf924236375d7f690ad2e64bce5e0de84936fdaef0f5e4d37d3ea05d8b7288",
-      "title": "BeincryptoETH Price Falls As Ethereum Foundation Cuts 20% Staff in Lean Reorganization",
-      "url": "https://www.tradingview.com/news/beincrypto:9bb74f2b6094b:0-eth-price-falls-as-ethereum-foundation-cuts-20-staff-in-lean-reorganization/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-23T15:13:43.060Z"
+      "scraped_at": "2026-06-23T17:30:09.420Z"
     }
   ]
 }
