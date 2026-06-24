@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-24T18:23:47.789Z",
+  "generated_at": "2026-06-24T20:23:45.517Z",
   "total": 14,
   "items": [
     {
-      "id": "dd349ebe68b8c3c241481d7b668787195735168483ab32b48863907cc26da649",
-      "title": "ReutersRefinitivCoinbase Says Some Users May Experience Failed Sends On Optimism Network",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42W0DV:0-coinbase-says-some-users-may-experience-failed-sends-on-optimism-network/",
+      "id": "dc89a9b240d0effa635cd7e0d2a1eb134d424fa2b03bf151204bb349a6028aac",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:fe86264fe094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "05d70358c13fc8380173e62620396133f4b33a5d9b2a953116b7fe8911182881",
+      "title": "MarketWatchSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_SN20260624009029:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "1b0f3f9644c2a454a1be1e5821e23565e036e487f49faee0c78261ba3d96bb29",
+      "title": "NewsBTCDOJ Seizes Huione Cloud Backbone In Crypto Scam Money-Laundering Crackdown",
+      "url": "https://www.tradingview.com/news/newsbtc:0370d7a7c094b:0-doj-seizes-huione-cloud-backbone-in-crypto-scam-money-laundering-crackdown/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "9b4d7b377037e3233d232fbb5fb1d66c58c596f7515032594ea5793c9366337d",
+      "title": "CointelegraphKalshi sues Illinois officials over prediction markets restrictions",
+      "url": "https://www.tradingview.com/news/cointelegraph:1db9bb649094b:0-kalshi-sues-illinois-officials-over-prediction-markets-restrictions/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "4f6c028eb7f4cfa51575442ecc93fa287f541914f92e8ccfbc00e030f1e5f1f4",
+      "title": "The BlockWho gets a direct line to the Fed? Congress weighs risks of Fed ‘skinny accounts’ for crypto and fintech firms",
+      "url": "https://www.tradingview.com/news/the_block:d405f1492094b:0-who-gets-a-direct-line-to-the-fed-congress-weighs-risks-of-fed-skinny-accounts-for-crypto-and-fintech-firms/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "9c1fbfa472029ca102ed5cbeebfcd414afac4784b43c9026c7a166bedb810b5e",
+      "title": "Beincrypto21Shares Concedes 4-Year Cycle Intact as Bitcoin Falls Below $60,000 Again",
+      "url": "https://www.tradingview.com/news/beincrypto:4068eaea8094b:0-21shares-concedes-4-year-cycle-intact-as-bitcoin-falls-below-60-000-again/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "0c41070fd08d9a9e641faa73150774a152fe97a91ccecb1f3cc1da6e2e166be5",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260624006247:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "3dd4ff38e9dc7c29d977024bb1d820652c73d15f3f1e0e82f14020933111a051",
+      "title": "Stock StoryWhy Strategy (MSTR) Shares Are Getting Obliterated Today",
+      "url": "https://www.tradingview.com/news/stockstory:1b03b1d99094b:0-why-strategy-mstr-shares-are-getting-obliterated-today/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "736ca68f239f1f68dbf980456e968d45043be9279e70c69722b6a0a7d48ec8ad",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260624006124:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "298c7d741dc1089f16e51ede8aa3380d003f9814e671b4a3e1f9311237365831",
+      "title": "The BlockPump.fun offers up to $5 million salary for chief legal officer role",
+      "url": "https://www.tradingview.com/news/the_block:969d19c19094b:0-pump-fun-offers-up-to-5-million-salary-for-chief-legal-officer-role/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "f0d2ee8997580f45a540a0d1855c59d2dcb3459afe6ed4731e53e0f638e80309",
+      "title": "NewsBTCStandard Chartered Aave Call Puts Institutional DeFi Back On The Table",
+      "url": "https://www.tradingview.com/news/newsbtc:b6c483a37094b:0-standard-chartered-aave-call-puts-institutional-defi-back-on-the-table/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "5160bb537a84ad26aaa3c54b973cca7807650173917a1aeac1457361366ef4df",
+      "title": "The BlockSuperstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield",
+      "url": "https://www.tradingview.com/news/the_block:0b2ab0081094b:0-superstate-co-founder-raises-3-6-million-pre-seed-for-ground-to-help-fintechs-access-onchain-yield/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
+    },
+    {
+      "id": "b90a7c1a8d8cd2c8d106424a631a84e7f8ff945bc9d2204d97484652bc60de3a",
+      "title": "Finance Magnates“Stablecoins Are like Sending an Email and Fiat Is like Sending a Letter in the Post”: FM Singapore 2026 Highlights",
+      "url": "https://www.tradingview.com/news/financemagnates:b27fdae69094b:0-stablecoins-are-like-sending-an-email-and-fiat-is-like-sending-a-letter-in-the-post-fm-singapore-2026-highlights/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T20:23:45.513Z"
     },
     {
       "id": "cffbae0be314e21d4f642b012941b3db37ae5bde2502039a95da31797eb3f64a",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260624005878:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "18577e7a5e9e9fe9081df2b9fcb63970731dcc037365ec8b88b6dafbf6df6d7e",
-      "title": "GuruFocusBitcoin Slides 50% From Peak as $6 Billion Exits ETFs",
-      "url": "https://www.tradingview.com/news/gurufocus:3b6ac06a1094b:0-bitcoin-slides-50-from-peak-as-6-billion-exits-etfs/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "7ef652fe09ba82ed1bf71133d9bb4c54660bdd7035c94a747a232c07b07e8d22",
-      "title": "CointelegraphCrypto-backed candidates notch wins in three US state primaries",
-      "url": "https://www.tradingview.com/news/cointelegraph:adf003972094b:0-crypto-backed-candidates-notch-wins-in-three-us-state-primaries/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "af9be675fb7cf460bfe4d400ba3850a72a1e8a47aa6da9d666f319653932bd0f",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260624005844:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "7c3568b05834862f39fa8ed131ea3307b0485e12b88752e4d9b6d77efb8e0edb",
-      "title": "NewsBTCEthereum Foundation Cuts Put Long-Term Solvency Back In Focus",
-      "url": "https://www.tradingview.com/news/newsbtc:06d1e63d0094b:0-ethereum-foundation-cuts-put-long-term-solvency-back-in-focus/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "7b67bdb036c59a274af3bf5362bb973773f403dfcc71bbe074680caecfbc4dc3",
-      "title": "CointelegraphBitcoin falls under $60K, but traders anticipate 15% bounce",
-      "url": "https://www.tradingview.com/news/cointelegraph:720c3489d094b:0-bitcoin-falls-under-60k-but-traders-anticipate-15-bounce/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "1384e22260902723adf8fa8f06e792e0ceecd80decf38a2d9303b79578733cfb",
-      "title": "CoinMarketCalNesa (NES) - KuCoin Listing - Date (24 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:14b76b326094b:0-nesa-nes-kucoin-listing-date-24-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "a5d9c3f3f9d2d83ada0bd730b671d7bfd92970630d3e8a0bfc68ea5d3c410951",
-      "title": "CoinMarketCalQuack AI (Q) - Agentic Wallet V2.1 - Date (24 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:05bcbb55d094b:0-quack-ai-q-agentic-wallet-v2-1-date-24-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "8c9db2986f56c09f0218e133b779e4797ba329c7e809fee8309171ee091f984d",
-      "title": "CoinMarketCalBedrock (BR) - Bedrock 2.0 - Date (24 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:a4fcd6c0c094b:0-bedrock-br-bedrock-2-0-date-24-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "11cca133f1b7efa701ae10ca491e786377a7ae6f42c890d74e13d818bb1f5c72",
-      "title": "The Blocka16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
-      "url": "https://www.tradingview.com/news/the_block:2c04d3f3b094b:0-a16z-csx-backed-cambrian-raises-6-million-seed-to-build-blockchain-data-oracle-network/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "2d702b78c8ee7312404fedafe663f7a060e27654476fce209cd7a0ff4cdaec9f",
-      "title": "ReutersBinance vows to stay in Europe despite licence setback",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N42W120:0-binance-vows-to-stay-in-europe-despite-licence-setback/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "02dd1285f062e207a99cc71da0c9e9494d9735820331f99063d9664595bacd45",
-      "title": "CoinpediaBlackrock Moves $256 Million in BTC & ETH To Coinbase, Selling Pressure Ahead?",
-      "url": "https://www.tradingview.com/news/coinpedia:9ee52c1ad094b:0-blackrock-moves-256-million-in-btc-eth-to-coinbase-selling-pressure-ahead/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
-    },
-    {
-      "id": "37613eb806d486f28275462dad4ecce415b3621e71bd6d143f30b9fe0a60f5e3",
-      "title": "CointelegraphBitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
-      "url": "https://www.tradingview.com/news/cointelegraph:8df5b2e7b094b:0-bitcoin-crash-to-60k-opens-new-530m-demand-zone-will-bulls-buy-in/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T18:23:47.786Z"
+      "scraped_at": "2026-06-24T20:23:45.513Z"
     }
   ]
 }
