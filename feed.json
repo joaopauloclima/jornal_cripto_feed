@@ -1,104 +1,97 @@
 {
-  "generated_at": "2026-06-24T22:01:45.727Z",
-  "total": 14,
+  "generated_at": "2026-06-24T23:50:40.626Z",
+  "total": 13,
   "items": [
+    {
+      "id": "808581b3233d799f3441ac25bdb7d31a0d216b1d2b6fdab938754d95cee27fb5",
+      "title": "ReutersThe Crypto Company Audit Committee Concludes FY 2024 Audited Financial Statements Should No Longer Be Relied Upon - SEC Filing",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42W07Y:0-the-crypto-company-audit-committee-concludes-fy-2024-audited-financial-statements-should-no-longer-be-relied-upon-sec-filing/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T23:50:40.623Z"
+    },
+    {
+      "id": "ab8dd080eaae6b2b1cc7f0d4e99af22fe958ff70c0f235ca0a0888af11ae0863",
+      "title": "ReutersCoinbase Global Inc Some Users May Experience Delayed Sends And Receives On The Avalanche Network- Website",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42W086:0-coinbase-global-inc-some-users-may-experience-delayed-sends-and-receives-on-the-avalanche-network-website/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T23:50:40.623Z"
+    },
+    {
+      "id": "e3ea0d39b7880087d046059a6d10e434341369776afbb45390a7a84c0250d28a",
+      "title": "CointelegraphHYPE down 22% from record highs: Will spot demand revive the uptrend?",
+      "url": "https://www.tradingview.com/news/cointelegraph:2f63e9194094b:0-hype-down-22-from-record-highs-will-spot-demand-revive-the-uptrend/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T23:50:40.623Z"
+    },
+    {
+      "id": "b72f49164949cd2cf96bace4bc42f3ca8921820d27e401b5cdfe3151f4499c8d",
+      "title": "CoinMarketCalStarknet (STRK) - DeFa Private Mainnet - Date (24 June 2026)",
+      "url": "https://www.tradingview.com/news/coinmarketcal:c212d885b094b:0-starknet-strk-defa-private-mainnet-date-24-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T23:50:40.623Z"
+    },
+    {
+      "id": "0de24160508e4ca5ffce9edb62128f569e717d3e57ae5ffcf80dbe164959413d",
+      "title": "CoinMarketCalNesa (NES) - Bitget Listing - Date (24 June 2026)",
+      "url": "https://www.tradingview.com/news/coinmarketcal:4ef611340094b:0-nesa-nes-bitget-listing-date-24-june-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T23:50:40.623Z"
+    },
     {
       "id": "446dc5ca1c783f78b5c844a202fd667953612ddbe7385e119a841ab4ed4bf935",
       "title": "The BlockBitcoin miners face deepening margin squeeze as revenue falls below production costs",
       "url": "https://www.tradingview.com/news/the_block:579b84184094b:0-bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
+      "scraped_at": "2026-06-24T23:50:40.623Z"
     },
     {
       "id": "77d4f56dbd5e98729cd1c72072e124a6a59ce326e485550ef8605b118734dbf0",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260624007883:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
+      "scraped_at": "2026-06-24T23:50:40.623Z"
+    },
+    {
+      "id": "30c38ddb7ac3a16545a5a73d830e7846f853c2feab46773979916b33ec9e9fb1",
+      "title": "BeincryptoAI and Space Offer Better Bets Than Bitcoin, Billionaire Philippe Laffont Says",
+      "url": "https://www.tradingview.com/news/beincrypto:63dd630dc094b:0-ai-and-space-offer-better-bets-than-bitcoin-billionaire-philippe-laffont-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-24T23:50:40.623Z"
     },
     {
       "id": "91db73cb171a3ca4c0458f952d79ea178d229a21032c4760407dff8aa77c2ec7",
       "title": "CointelegraphFTX exec’s wife scheduled for November trial on campaign finance charges",
       "url": "https://www.tradingview.com/news/cointelegraph:26c27eaad094b:0-ftx-exec-s-wife-scheduled-for-november-trial-on-campaign-finance-charges/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
+      "scraped_at": "2026-06-24T23:50:40.623Z"
     },
     {
       "id": "0c9c0fa378cdc678692a9259fdceeeac6e686dd84a88950515d9e3a858b98327",
       "title": "NewsBTCSBI And Startale Put Yen Stablecoins Back In The Institutional Spotlight",
       "url": "https://www.tradingview.com/news/newsbtc:20824af49094b:0-sbi-and-startale-put-yen-stablecoins-back-in-the-institutional-spotlight/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
+      "scraped_at": "2026-06-24T23:50:40.623Z"
     },
     {
       "id": "e14c238d370efbb56df96f5ec95b67902ac9a041369da4cd66f3389f002d511f",
       "title": "ReutersTech jitters smother inflation relief",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N42W1RR:0-tech-jitters-smother-inflation-relief/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
+      "scraped_at": "2026-06-24T23:50:40.623Z"
     },
     {
       "id": "d6a0159e9a03e7424f75f302705e2b923f80b01a4f7c28b5db47c172c169d13a",
       "title": "CointelegraphBitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
       "url": "https://www.tradingview.com/news/cointelegraph:571d533c4094b:0-bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
+      "scraped_at": "2026-06-24T23:50:40.623Z"
     },
     {
       "id": "dc89a9b240d0effa635cd7e0d2a1eb134d424fa2b03bf151204bb349a6028aac",
       "title": "Brave New CoinSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/bravenewcoin:fe86264fe094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
-    },
-    {
-      "id": "05d70358c13fc8380173e62620396133f4b33a5d9b2a953116b7fe8911182881",
-      "title": "MarketWatchSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_SN20260624009029:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
-    },
-    {
-      "id": "1b0f3f9644c2a454a1be1e5821e23565e036e487f49faee0c78261ba3d96bb29",
-      "title": "NewsBTCDOJ Seizes Huione Cloud Backbone In Crypto Scam Money-Laundering Crackdown",
-      "url": "https://www.tradingview.com/news/newsbtc:0370d7a7c094b:0-doj-seizes-huione-cloud-backbone-in-crypto-scam-money-laundering-crackdown/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
-    },
-    {
-      "id": "cb99c0da407a6ec677045e8245eefe1ef44dccda5240d631d04582281715168a",
-      "title": "BeincryptoXRP Is Down 50%, and a $785 Million Stablecoin May Be Part of the Problem",
-      "url": "https://www.tradingview.com/news/beincrypto:dba4de247094b:0-xrp-is-down-50-and-a-785-million-stablecoin-may-be-part-of-the-problem/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
-    },
-    {
-      "id": "9b4d7b377037e3233d232fbb5fb1d66c58c596f7515032594ea5793c9366337d",
-      "title": "CointelegraphKalshi sues Illinois officials over prediction markets restrictions",
-      "url": "https://www.tradingview.com/news/cointelegraph:1db9bb649094b:0-kalshi-sues-illinois-officials-over-prediction-markets-restrictions/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
-    },
-    {
-      "id": "4f6c028eb7f4cfa51575442ecc93fa287f541914f92e8ccfbc00e030f1e5f1f4",
-      "title": "The BlockWho gets a direct line to the Fed? Congress weighs risks of Fed ‘skinny accounts’ for crypto and fintech firms",
-      "url": "https://www.tradingview.com/news/the_block:d405f1492094b:0-who-gets-a-direct-line-to-the-fed-congress-weighs-risks-of-fed-skinny-accounts-for-crypto-and-fintech-firms/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
-    },
-    {
-      "id": "9c1fbfa472029ca102ed5cbeebfcd414afac4784b43c9026c7a166bedb810b5e",
-      "title": "Beincrypto21Shares Concedes 4-Year Cycle Intact as Bitcoin Falls Below $60,000 Again",
-      "url": "https://www.tradingview.com/news/beincrypto:4068eaea8094b:0-21shares-concedes-4-year-cycle-intact-as-bitcoin-falls-below-60-000-again/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
-    },
-    {
-      "id": "0c41070fd08d9a9e641faa73150774a152fe97a91ccecb1f3cc1da6e2e166be5",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260624006247:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T22:01:45.722Z"
+      "scraped_at": "2026-06-24T23:50:40.623Z"
     }
   ]
 }
