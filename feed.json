@@ -1,97 +1,104 @@
 {
-  "generated_at": "2026-06-24T23:50:40.626Z",
-  "total": 13,
+  "generated_at": "2026-06-25T04:04:46.193Z",
+  "total": 14,
   "items": [
+    {
+      "id": "1dc80615cc2e00d11ba7c08bb1523a7aaae713b688a4243d192ef503395de06f",
+      "title": "The BlockRipple launches RLUSD stablecoin in Japan after regulatory approval",
+      "url": "https://www.tradingview.com/news/the_block:6115b7c4d094b:0-ripple-launches-rlusd-stablecoin-in-japan-after-regulatory-approval/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.188Z"
+    },
+    {
+      "id": "080bdbbbc662119660064ad4759e1893230d566380661f62eb351f118e50eedc",
+      "title": "CointelegraphAbracadabra takes emergency action as MIM stablecoin depeg worsens",
+      "url": "https://www.tradingview.com/news/cointelegraph:1b80a2436094b:0-abracadabra-takes-emergency-action-as-mim-stablecoin-depeg-worsens/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.188Z"
+    },
+    {
+      "id": "24eb6f50a645beccdd66f0de64fd16f3f66000c75ea60443eb8840f2683d5c09",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:91f3c8b0a094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.188Z"
+    },
+    {
+      "id": "b970253f6323e67f4793858a0ed98d56dff425a49583d915e77a9539778b426d",
+      "title": "BeincryptoBitcoin Hits Lowest Level Since Oct. 2024 as Bear Market Grinds Into 8th Month",
+      "url": "https://www.tradingview.com/news/beincrypto:5d7e71e6b094b:0-bitcoin-hits-lowest-level-since-oct-2024-as-bear-market-grinds-into-8th-month/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.188Z"
+    },
+    {
+      "id": "4b9bf839f20c82b89b1f04e3c32b517a68dcae5711c49edc97671153b9fe7cb7",
+      "title": "ReutersBithumb Fined 210 Million Won For User Data Transfer - South Korea Personal Information Commission",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N42A02H:0-bithumb-fined-210-million-won-for-user-data-transfer-south-korea-personal-information-commission/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.188Z"
+    },
+    {
+      "id": "622802dd2a5ffd85e45fa1228445c0345770262594a4f5b3c7ec146a9ea706c1",
+      "title": "Binance NewsRipple’s RLUSD Stablecoin Launches in Japan After FSA Approval",
+      "url": "https://www.tradingview.com/news/binance_news:3363747f0094b:0-ripple-s-rlusd-stablecoin-launches-in-japan-after-fsa-approval/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.188Z"
+    },
+    {
+      "id": "1f0a2d50720612972d0afa4ba19179108d7f0f8d4e47e122fcb2d2f96546f7ce",
+      "title": "Binance NewsWhale 0xbilly Sells 2,409 ETH After Price Drops to $1,569.5, Analyst Says",
+      "url": "https://www.tradingview.com/news/binance_news:c677c45d1094b:0-whale-0xbilly-sells-2-409-eth-after-price-drops-to-1-569-5-analyst-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.188Z"
+    },
+    {
+      "id": "a29c14092e7733682e49e2169d99676412cc3078c85de9c072c3935bb7fee809",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260624008578:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.188Z"
+    },
+    {
+      "id": "24412dc9cf061ade6b743941cf9b4ff71c08d70c39010bab2ce0d1488c45bff0",
+      "title": "Binance NewsJoe Burnett Says Strategy’s STRC Differs From Pre-Collapse UST in Backing and Redemption Terms",
+      "url": "https://www.tradingview.com/news/binance_news:f48db6b1c094b:0-joe-burnett-says-strategy-s-strc-differs-from-pre-collapse-ust-in-backing-and-redemption-terms/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.189Z"
+    },
+    {
+      "id": "f6d0caf3efa410bcdbaa00ef2e7cc943c82cd9eb0142e0db030b5c6dc9a384b0",
+      "title": "BeincryptoBSTR Vote Delay Stalls Adam Back’s Push to Challenge Bitcoin Treasury Leaders",
+      "url": "https://www.tradingview.com/news/beincrypto:43bc76114094b:0-bstr-vote-delay-stalls-adam-back-s-push-to-challenge-bitcoin-treasury-leaders/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.189Z"
+    },
+    {
+      "id": "34aeb8c81d3c203735c9fe4403af6b9c7e17db21d9744b299ea6fa6eda8e227f",
+      "title": "CryptoProwlUniswap Labs Adds In-App Auction Creation for Onchain Token Launches",
+      "url": "https://www.tradingview.com/news/cryptoprowl:d77e16c78094b:0-uniswap-labs-adds-in-app-auction-creation-for-onchain-token-launches/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-25T04:04:46.189Z"
+    },
     {
       "id": "808581b3233d799f3441ac25bdb7d31a0d216b1d2b6fdab938754d95cee27fb5",
       "title": "ReutersThe Crypto Company Audit Committee Concludes FY 2024 Audited Financial Statements Should No Longer Be Relied Upon - SEC Filing",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42W07Y:0-the-crypto-company-audit-committee-concludes-fy-2024-audited-financial-statements-should-no-longer-be-relied-upon-sec-filing/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
+      "scraped_at": "2026-06-25T04:04:46.189Z"
     },
     {
       "id": "ab8dd080eaae6b2b1cc7f0d4e99af22fe958ff70c0f235ca0a0888af11ae0863",
       "title": "ReutersCoinbase Global Inc Some Users May Experience Delayed Sends And Receives On The Avalanche Network- Website",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42W086:0-coinbase-global-inc-some-users-may-experience-delayed-sends-and-receives-on-the-avalanche-network-website/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
+      "scraped_at": "2026-06-25T04:04:46.189Z"
     },
     {
-      "id": "e3ea0d39b7880087d046059a6d10e434341369776afbb45390a7a84c0250d28a",
-      "title": "CointelegraphHYPE down 22% from record highs: Will spot demand revive the uptrend?",
-      "url": "https://www.tradingview.com/news/cointelegraph:2f63e9194094b:0-hype-down-22-from-record-highs-will-spot-demand-revive-the-uptrend/",
+      "id": "944a901e00b6953759618119e3d536d6339b23587e47820af7d5025dd3dd6449",
+      "title": "Binance NewsHYPE Nears Key Support as Selling Pressure Eases and Futures Activity Shrinks",
+      "url": "https://www.tradingview.com/news/binance_news:46943c837094b:0-hype-nears-key-support-as-selling-pressure-eases-and-futures-activity-shrinks/",
       "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "b72f49164949cd2cf96bace4bc42f3ca8921820d27e401b5cdfe3151f4499c8d",
-      "title": "CoinMarketCalStarknet (STRK) - DeFa Private Mainnet - Date (24 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:c212d885b094b:0-starknet-strk-defa-private-mainnet-date-24-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "0de24160508e4ca5ffce9edb62128f569e717d3e57ae5ffcf80dbe164959413d",
-      "title": "CoinMarketCalNesa (NES) - Bitget Listing - Date (24 June 2026)",
-      "url": "https://www.tradingview.com/news/coinmarketcal:4ef611340094b:0-nesa-nes-bitget-listing-date-24-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "446dc5ca1c783f78b5c844a202fd667953612ddbe7385e119a841ab4ed4bf935",
-      "title": "The BlockBitcoin miners face deepening margin squeeze as revenue falls below production costs",
-      "url": "https://www.tradingview.com/news/the_block:579b84184094b:0-bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "77d4f56dbd5e98729cd1c72072e124a6a59ce326e485550ef8605b118734dbf0",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260624007883:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "30c38ddb7ac3a16545a5a73d830e7846f853c2feab46773979916b33ec9e9fb1",
-      "title": "BeincryptoAI and Space Offer Better Bets Than Bitcoin, Billionaire Philippe Laffont Says",
-      "url": "https://www.tradingview.com/news/beincrypto:63dd630dc094b:0-ai-and-space-offer-better-bets-than-bitcoin-billionaire-philippe-laffont-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "91db73cb171a3ca4c0458f952d79ea178d229a21032c4760407dff8aa77c2ec7",
-      "title": "CointelegraphFTX exec’s wife scheduled for November trial on campaign finance charges",
-      "url": "https://www.tradingview.com/news/cointelegraph:26c27eaad094b:0-ftx-exec-s-wife-scheduled-for-november-trial-on-campaign-finance-charges/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "0c9c0fa378cdc678692a9259fdceeeac6e686dd84a88950515d9e3a858b98327",
-      "title": "NewsBTCSBI And Startale Put Yen Stablecoins Back In The Institutional Spotlight",
-      "url": "https://www.tradingview.com/news/newsbtc:20824af49094b:0-sbi-and-startale-put-yen-stablecoins-back-in-the-institutional-spotlight/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "e14c238d370efbb56df96f5ec95b67902ac9a041369da4cd66f3389f002d511f",
-      "title": "ReutersTech jitters smother inflation relief",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N42W1RR:0-tech-jitters-smother-inflation-relief/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "d6a0159e9a03e7424f75f302705e2b923f80b01a4f7c28b5db47c172c169d13a",
-      "title": "CointelegraphBitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
-      "url": "https://www.tradingview.com/news/cointelegraph:571d533c4094b:0-bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
-    },
-    {
-      "id": "dc89a9b240d0effa635cd7e0d2a1eb134d424fa2b03bf151204bb349a6028aac",
-      "title": "Brave New CoinSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:fe86264fe094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-24T23:50:40.623Z"
+      "scraped_at": "2026-06-25T04:04:46.189Z"
     }
   ]
 }
