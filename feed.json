@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-26T15:17:20.653Z",
+  "generated_at": "2026-06-26T17:25:05.838Z",
   "total": 14,
   "items": [
+    {
+      "id": "68d21b87a0303b9fe2bb42ed28a99e6456d90e83498daa1b0ce37793f5c1145f",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260626005690:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.834Z"
+    },
+    {
+      "id": "66e6f318cb9ba44adb2826c05d2e9897190dd99f53fb6dbbe99f058f00899b6e",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260626005689:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
+    {
+      "id": "2f90f465bfee215c6376e21d37d6be7690924fa449e7e3412fd5701faa164b2e",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260626005688:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
+    {
+      "id": "00f04b433fb5e040adb3ef0df2aab79aa6a4f9a33347de99e60c01473962ee79",
+      "title": "CointelegraphEthereum whale who shorted October 2025 crash opens $19.7M ETH short position",
+      "url": "https://www.tradingview.com/news/cointelegraph:019ea6896094b:0-ethereum-whale-who-shorted-october-2025-crash-opens-19-7m-eth-short-position/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
+    {
+      "id": "33c7c3da48b442f5fc6e7769de6459bd2316529cbf21fdde41792448c2134288",
+      "title": "The BlockBipartisan senators call for CFTC investigation into Polymarket after fake bets report",
+      "url": "https://www.tradingview.com/news/the_block:4ca67b0b3094b:0-bipartisan-senators-call-for-cftc-investigation-into-polymarket-after-fake-bets-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
+    {
+      "id": "77dccb8b7e1f4dbf43e2f88481f3bf00c5f56ac23dab240596cbb67a6fa4cbeb",
+      "title": "CointelegraphCrypto Biz: The cost of stacking sats",
+      "url": "https://www.tradingview.com/news/cointelegraph:442ae43a4094b:0-crypto-biz-the-cost-of-stacking-sats/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
+    {
+      "id": "31118188b4e4050576f8217a14fd347056a3e829ae0a3fdf40382eb4857dcf8d",
+      "title": "The BlockDraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
+      "url": "https://www.tradingview.com/news/the_block:8c9e69306094b:0-draftkings-launches-its-own-prediction-markets-exchange-as-consumer-volume-exceeds-3-billion/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
+    {
+      "id": "362d4e22f7b2c94dce42696edf61f2b5503efdc57f3fb37bcdb2400e6c2eea23",
+      "title": "NewsBTCBitcoin Slips Below $59,000 Following May PCE Inflation Report",
+      "url": "https://www.tradingview.com/news/newsbtc:b99e962d6094b:0-bitcoin-slips-below-59-000-following-may-pce-inflation-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
+    {
+      "id": "d23ccb59b84a1acf82ac8ebb21be59bb11d95144e9247686be5f0ce393b52850",
+      "title": "CointelegraphBitcoin makes first sub-$60K close since Q3 2024 as tech stocks enter ‘deep bear market’",
+      "url": "https://www.tradingview.com/news/cointelegraph:fd7658790094b:0-bitcoin-makes-first-sub-60k-close-since-q3-2024-as-tech-stocks-enter-deep-bear-market/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
+    {
+      "id": "4aaf775e590c6428601d76c9ff26aafd709a22b39fe029534e17db37e1cd84dc",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260626004870:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
+    {
+      "id": "faf34fc55cef452780764c71743f69f0fcb08c5c55ca61e58480ecae256e70fc",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260626004858:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-26T17:25:05.835Z"
+    },
     {
       "id": "6077435b8bf8d7656abbfff2d24dad5c51134f6885889855bf2f36551782154c",
       "title": "Dow Jones NewswiresSign in to read exclusive news",
       "url": "https://www.tradingview.com/news/DJN_DN20260626004699:0/",
       "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
+      "scraped_at": "2026-06-26T17:25:05.835Z"
     },
     {
       "id": "668ce5472ea5f929bee9b96c064a17143a8526db2da203f79278b3120f6d1f9d",
       "title": "The BlockSpain says ‘no exceptions or extensions’ for Binance, other crypto firms ahead of MiCA deadline",
       "url": "https://www.tradingview.com/news/the_block:5e6eda016094b:0-spain-says-no-exceptions-or-extensions-for-binance-other-crypto-firms-ahead-of-mica-deadline/",
       "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
+      "scraped_at": "2026-06-26T17:25:05.835Z"
     },
     {
       "id": "2bacb41d5d8ecb5e81a9a108aaf51e9f81cde4504f1467951aa004ccb66764da",
       "title": "NewsBTCBitcoin 25-Delta Put-Call Skew Widens Amid Market Consolidation",
       "url": "https://www.tradingview.com/news/newsbtc:3fecc9341094b:0-bitcoin-25-delta-put-call-skew-widens-amid-market-consolidation/",
       "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "e12eb1d6656b1f039c65f80ac0f89948b3bba77bca2537306d7a2dfde99ddb75",
-      "title": "ChainwireSolonix.one launches regulated Tether Gold (XAUT) Wallet for Tokenized Gold Custody",
-      "url": "https://www.tradingview.com/news/chainwire:5e98b7ddb094b:0-solonix-one-launches-regulated-tether-gold-xaut-wallet-for-tokenized-gold-custody/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "45d646872b778b3ad6cbac2555e8531dd9b903b1d612276125260c4031f1a4c9",
-      "title": "ReutersPrediction market platform Polymarket tops $1 billion in annualized revenue, source says",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42Y0WQ:0-prediction-market-platform-polymarket-tops-1-billion-in-annualized-revenue-source-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "b0826e7ac56832859ced6cffbcb94fc3fb4682bdd2dbe3cbec5f1e70ed896e75",
-      "title": "ACCESS NewswireSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-06-26:newsml_ACSs62Fma:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "e15e76b4bcc89dc222739cd3a84569b7ebbf265c07ed8b973c88bb9230bc0a53",
-      "title": "NewsBTCDeribit Settles $10 Billion June Quarterly Options Expiry",
-      "url": "https://www.tradingview.com/news/newsbtc:0dbc96d12094b:0-deribit-settles-10-billion-june-quarterly-options-expiry/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "452f6565b841af4d1b786cb17197d303e3eb669b12dafabe15ba6d087bfb7e14",
-      "title": "ChainwireFrom Telegram Bot to the Full-Fledged Platform: 001k.bot Launches Web Dashboard",
-      "url": "https://www.tradingview.com/news/chainwire:480b89a53094b:0-from-telegram-bot-to-the-full-fledged-platform-001k-bot-launches-web-dashboard/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "4b97473c4ebd22be8c4d1a18f7b74dd300ac4e65756901f835918a88ef28cc4f",
-      "title": "ReutersCantor Bitcoin SPAC lets investors commit less as crypto slides - Bloomberg News",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N42Y0I3:0-cantor-bitcoin-spac-lets-investors-commit-less-as-crypto-slides-bloomberg-news/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "0b7d140f40acf2fce2d3613bec431e56cfe642eeaaa4ad22648fcfa9dd33fa8a",
-      "title": "ReutersKraken Says Currently Investigating Issue Affecting Subset Of Clients Using Kraken Mobile App",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN42Y0HP:0-kraken-says-currently-investigating-issue-affecting-subset-of-clients-using-kraken-mobile-app/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "f1861731fde6f2a4d3f9cc04e1517a75d801614b5721588508cc7f10910f85b7",
-      "title": "CointelegraphFramework Ventures raises $400M to invest beyond crypto: Report",
-      "url": "https://www.tradingview.com/news/cointelegraph:e6bbe2918094b:0-framework-ventures-raises-400m-to-invest-beyond-crypto-report/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "5037d7f5a9fcb43542b41522390ef59d1f2145271ec2938ceac667447b376bb4",
-      "title": "NewsBTCOman Launches Mandatory National Bitcoin Mining Pool In State-Backed Push",
-      "url": "https://www.tradingview.com/news/newsbtc:09bbb701d094b:0-oman-launches-mandatory-national-bitcoin-mining-pool-in-state-backed-push/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "8e3dec173e55c088e2804678f7bdc51bdeecf59995a3aa7904317d9914474047",
-      "title": "CoindarPolkastarter Launched 50-Day Campaign on June 26th",
-      "url": "https://www.tradingview.com/news/coindar:25875052a094b:0-polkastarter-launched-50-day-campaign-on-june-26th/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
-    },
-    {
-      "id": "0ae083dd4da9faefd5cdf3db510dac2aa4d2cddf0fea20b80e6de0c85d984a54",
-      "title": "CoindarVoxies to Hold Live Stream",
-      "url": "https://www.tradingview.com/news/coindar:16c2c2ff7094b:0-voxies-to-hold-live-stream/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-26T15:17:20.650Z"
+      "scraped_at": "2026-06-26T17:25:05.835Z"
     }
   ]
 }
