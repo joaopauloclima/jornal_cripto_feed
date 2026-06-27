@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-27T12:57:20.434Z",
+  "generated_at": "2026-06-27T14:50:52.689Z",
   "total": 14,
   "items": [
+    {
+      "id": "0aec92aad451c22616b0563286862c50170df2ab94d3ab486267706d63072993",
+      "title": "NewsBTCBitcoin Trades Below 200-Week Moving Average as Historical Accumulation Signal Returns",
+      "url": "https://www.tradingview.com/news/newsbtc:e74c4536c094b:0-bitcoin-trades-below-200-week-moving-average-as-historical-accumulation-signal-returns/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
+    {
+      "id": "87b2f948921066ec5d3c47f7bdd76b59f4bfdd794d113c08c4d4b9d86ea19efb",
+      "title": "NewsBTCDogecoin Flashes Key Technical Buy Signal After Plunging to 3-Year Lows",
+      "url": "https://www.tradingview.com/news/newsbtc:707db6e02094b:0-dogecoin-flashes-key-technical-buy-signal-after-plunging-to-3-year-lows/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
+    {
+      "id": "6d1eca553a978140bccccf732bf80c7d7c1a2210455335adf3fc6366783a1b59",
+      "title": "NewsBTCOn-Chain Data Shows Newly Created Wallet Accumulates More Than $28 Million in Ethereum",
+      "url": "https://www.tradingview.com/news/newsbtc:316162233094b:0-on-chain-data-shows-newly-created-wallet-accumulates-more-than-28-million-in-ethereum/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
+    {
+      "id": "7d57e5b1205bdeb8f8b83b953e85eaba320781535a719bcbb09b5e2d00fb4e43",
+      "title": "NewsBTCChainlink Whales Shift Millions in LINK to Binance Prior to TradFi Pangea Disclosure",
+      "url": "https://www.tradingview.com/news/newsbtc:c75021478094b:0-chainlink-whales-shift-millions-in-link-to-binance-prior-to-tradfi-pangea-disclosure/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
+    {
+      "id": "4a0244a870c43e3587878a74d22e42fcf779d8dcc890f578b9ec9a82fc0eaf5e",
+      "title": "StocktwitsRipple CEO Garlinghouse Calls Strategy's Stretch Slide A 'Damning Indictment,' Stays Bullish On Bitcoin",
+      "url": "https://www.tradingview.com/news/stocktwits:7c7837ec1094b:0-ripple-ceo-garlinghouse-calls-strategy-s-stretch-slide-a-damning-indictment-stays-bullish-on-bitcoin/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
+    {
+      "id": "f4adfbc14d2aeacd058f3f24b54a0a54bf016de7e3d5a20467ed08898ac8e47f",
+      "title": "CoinpediaWhy Is MYX Finance Price Rising Today? Is a Recovery Toward $0.19 Next?",
+      "url": "https://www.tradingview.com/news/coinpedia:1284d736e094b:0-why-is-myx-finance-price-rising-today-is-a-recovery-toward-0-19-next/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
+    {
+      "id": "76eb24788c7fd48a0ba33f05ebe0967696a963aefabb5c87c91e4441a2fc7b95",
+      "title": "NewsBTCBitcoin Reclaims Key Support as On-Chain Data Signals Cooler Whale Selling",
+      "url": "https://www.tradingview.com/news/newsbtc:ef0ed656a094b:0-bitcoin-reclaims-key-support-as-on-chain-data-signals-cooler-whale-selling/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
+    {
+      "id": "849e3d51f4cde92d613178917ba6c5a0dfad47e11f4d90a5e5ebc9b9655bb277",
+      "title": "NewsBTCCharles Hoskinson Explores Zero-Knowledge Wallet Recovery to Remove Seed Phrase Risks",
+      "url": "https://www.tradingview.com/news/newsbtc:60cb3c702094b:0-charles-hoskinson-explores-zero-knowledge-wallet-recovery-to-remove-seed-phrase-risks/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
+    {
+      "id": "172d2195ebc7665cfffb075a23bc71f315fd15eb3cab0d097363278ac282f576",
+      "title": "BeincryptoCoinbase CEO Halved AI Costs, Calls Bitcoin Downturn a Cool Breeze",
+      "url": "https://www.tradingview.com/news/beincrypto:7b1f35e31094b:0-coinbase-ceo-halved-ai-costs-calls-bitcoin-downturn-a-cool-breeze/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
+    {
+      "id": "45b644a38f514bd5e7ddc6ec7bc3a79b3fe94c30028acf29e220d4fb0f67116a",
+      "title": "CoinpediaFramework Ventures Raises $400M Fund, Going Beyond Crypto Into AI and Robotics",
+      "url": "https://www.tradingview.com/news/coinpedia:b9ae39fd2094b:0-framework-ventures-raises-400m-fund-going-beyond-crypto-into-ai-and-robotics/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-27T14:50:52.687Z"
+    },
     {
       "id": "14a1193c22daf9b6b4100f7f62e1e48bed33771444c6c058178ab1ac8169be18",
       "title": "NewsBTCChainlink Marks Two Highest Network Growth Days of 2026 Amid Broad Price Correction",
       "url": "https://www.tradingview.com/news/newsbtc:2511315bf094b:0-chainlink-marks-two-highest-network-growth-days-of-2026-amid-broad-price-correction/",
       "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
+      "scraped_at": "2026-06-27T14:50:52.687Z"
     },
     {
       "id": "979a8dae425c1df2d65c0a9c97d9b5a2af24efe55fb9125ded9d0e3dd6618b12",
       "title": "TradingViewKey facts: Deribit $10.6B expiry; BTC $60.1K; Strategy 847K BTC (-$13B)",
       "url": "https://www.tradingview.com/news/tradingview:d4710343843da:0-key-facts-deribit-10-6b-expiry-btc-60-1k-strategy-847k-btc-13b/",
       "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
+      "scraped_at": "2026-06-27T14:50:52.687Z"
     },
     {
       "id": "44ab2b2e6c09fc6ba26c111d447190b22bcad9fef3226dfeb94005a770714cdd",
       "title": "TradingViewKey facts: ETH $1,500 support; Deribit $1.57B expiry; 20x $19.7M short",
       "url": "https://www.tradingview.com/news/tradingview:5adc1841d7fd0:0-key-facts-eth-1-500-support-deribit-1-57b-expiry-20x-19-7m-short/",
       "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
+      "scraped_at": "2026-06-27T14:50:52.687Z"
     },
     {
       "id": "b975b6e4d2e5a813ad4a54d869cde7330f77fc164142889a515771b1aa6eba2c",
       "title": "CointelegraphSecondFi targets two-week recovery after Cardano wallet exploit",
       "url": "https://www.tradingview.com/news/cointelegraph:2f79f88fe094b:0-secondfi-targets-two-week-recovery-after-cardano-wallet-exploit/",
       "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
-    },
-    {
-      "id": "b5dd6959f184a69fbe5a9f23a2b8275e2b7e02d12f53db1350f63b95ddd49284",
-      "title": "CoinpediaBitcoin ETFs See $1.79B, Second Largest Weekly Outflow Since Launch",
-      "url": "https://www.tradingview.com/news/coinpedia:4018c050e094b:0-bitcoin-etfs-see-1-79b-second-largest-weekly-outflow-since-launch/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
-    },
-    {
-      "id": "ea10f296e9c8543f2f57d6e50db851b0c7a0a0443f93486ddd38965270050ccd",
-      "title": "NewsBTCBitcoin Apparent Demand Flatlines in Negative Territory for 208 Days as Sell Pressure Mounts",
-      "url": "https://www.tradingview.com/news/newsbtc:1c58cd817094b:0-bitcoin-apparent-demand-flatlines-in-negative-territory-for-208-days-as-sell-pressure-mounts/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
-    },
-    {
-      "id": "33eb1cfb5ec93ff288250ca9b54b2293f81ddb727b42bdc7409aa300913383d8",
-      "title": "CoinpediaJito Surges as Solana’s Market Layer Goes Live — Can JTO Price Extend Its Rally Beyond $1?",
-      "url": "https://www.tradingview.com/news/coinpedia:2ce51db90094b:0-jito-surges-as-solana-s-market-layer-goes-live-can-jto-price-extend-its-rally-beyond-1/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
-    },
-    {
-      "id": "2aca1f2326cdc1d919a56d5c57a20c56a69f1472ec6fb7d18ad417c7747d1cc0",
-      "title": "StocktwitsHyperliquid Lands On Singapore's MAS Investor Alert List, Becoming One Of The First Major DeFi Protocols Flagged",
-      "url": "https://www.tradingview.com/news/stocktwits:08e71a140094b:0-hyperliquid-lands-on-singapore-s-mas-investor-alert-list-becoming-one-of-the-first-major-defi-protocols-flagged/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
-    },
-    {
-      "id": "d4ac969872a004d100ec7bd9d0394672d6d05318d4f797d9a692a760ea48c5e0",
-      "title": "BeincryptoRipple CEO Criticizes Saylor’s Bitcoin Strategy While Remaining Bullish on BTC",
-      "url": "https://www.tradingview.com/news/beincrypto:4d303073e094b:0-ripple-ceo-criticizes-saylor-s-bitcoin-strategy-while-remaining-bullish-on-btc/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
-    },
-    {
-      "id": "cc607a0b488581e1e98e60f479ba9c1631083a6cef3e7f78442c381250dee17a",
-      "title": "CointelegraphEU lawmakers urge assessing DeFi, staking, NFT regulation",
-      "url": "https://www.tradingview.com/news/cointelegraph:bdaa8bdba094b:0-eu-lawmakers-urge-assessing-defi-staking-nft-regulation/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.431Z"
-    },
-    {
-      "id": "deb650b1784a26a110e7484161df2a7ca37d1ccf275d040fcbb969b88aea8059",
-      "title": "CoinpediaChainlink Network Growth Surges as LINK Price Tests Key Support: Is a 15% Rally Next?",
-      "url": "https://www.tradingview.com/news/coinpedia:d276f028f094b:0-chainlink-network-growth-surges-as-link-price-tests-key-support-is-a-15-rally-next/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.432Z"
-    },
-    {
-      "id": "a02618d09067fecfb91d49f4650364583c8eaf8f355a7cd5c4cb143cb4c4dbb6",
-      "title": "CoinpediaRipple CEO Warns Michael Saylor’s Bitcoin Buying Model Hurting Market",
-      "url": "https://www.tradingview.com/news/coinpedia:0e008376d094b:0-ripple-ceo-warns-michael-saylor-s-bitcoin-buying-model-hurting-market/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.432Z"
-    },
-    {
-      "id": "38b459f4b472e468e4f41bf1cbdc7c1dca5d55a8ac73218a29043d3f3ab2aaea",
-      "title": "CoinpediaCanary ETF Filing Sends INJ Higher: Can Injective Price Reach $7 Next?",
-      "url": "https://www.tradingview.com/news/coinpedia:e90a98913094b:0-canary-etf-filing-sends-inj-higher-can-injective-price-reach-7-next/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.432Z"
-    },
-    {
-      "id": "a5beafc5bba0a56469a57e881e96b5bca092ae901073d2067ff241a62d7f2b5e",
-      "title": "Crypto BriefingIsrael-Lebanon peace framework faces opposition from Hezbollah",
-      "url": "https://www.tradingview.com/news/cryptobriefing:71ce2771e094b:0-israel-lebanon-peace-framework-faces-opposition-from-hezbollah/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-27T12:57:20.432Z"
+      "scraped_at": "2026-06-27T14:50:52.687Z"
     }
   ]
 }
