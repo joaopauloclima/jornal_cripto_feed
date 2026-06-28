@@ -1,104 +1,97 @@
 {
-  "generated_at": "2026-06-28T14:00:41.256Z",
-  "total": 14,
+  "generated_at": "2026-06-28T15:58:12.291Z",
+  "total": 13,
   "items": [
+    {
+      "id": "b154b86917f4691b6f96d84a4ec67a8bc34af82c799977bdacd7290411537b83",
+      "title": "NewsBTCVitalik Buterin-Linked Address Moves 7,000 ETH to Fresh Wallet",
+      "url": "https://www.tradingview.com/news/newsbtc:b0972088a094b:0-vitalik-buterin-linked-address-moves-7-000-eth-to-fresh-wallet/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-28T15:58:12.287Z"
+    },
+    {
+      "id": "a9876474d1d14c0394a22d39b5d3d96a47e108db56b0877b745c1fa87b4a4867",
+      "title": "StocktwitsBillionaire Who Called The Dot-Com Bubble And 2008 Housing Crash Now Says Bitcoin Will 'Certainly Go To Zero'",
+      "url": "https://www.tradingview.com/news/stocktwits:ec104649c094b:0-billionaire-who-called-the-dot-com-bubble-and-2008-housing-crash-now-says-bitcoin-will-certainly-go-to-zero/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-28T15:58:12.288Z"
+    },
+    {
+      "id": "4eec2520c72fa068839a276d1317b1c385ff68754d208583c7df197660d2962f",
+      "title": "NewsBTCUS Spot Bitcoin ETFs Log $1.79 Billion Weekly Net Outflows",
+      "url": "https://www.tradingview.com/news/newsbtc:79121645f094b:0-us-spot-bitcoin-etfs-log-1-79-billion-weekly-net-outflows/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-28T15:58:12.288Z"
+    },
+    {
+      "id": "1bc3e7562d2d57005dfc39333137e9e7a4956c8ffc13f27d83172d555824630e",
+      "title": "NewsBTCOn-Chain Flow: New Wallet Withdraws 1,350 BTC From Binance",
+      "url": "https://www.tradingview.com/news/newsbtc:c4c59bd5c094b:0-on-chain-flow-new-wallet-withdraws-1-350-btc-from-binance/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-28T15:58:12.288Z"
+    },
     {
       "id": "b5c062d61147b1be696fc516c4de219aefda505b15b9fae854201cc7f1e2c335",
       "title": "NewsBTCOn-Chain Data Tracks Machi Big Brother ETH Leverage Defense on Hyperliquid",
       "url": "https://www.tradingview.com/news/newsbtc:5fa600200094b:0-on-chain-data-tracks-machi-big-brother-eth-leverage-defense-on-hyperliquid/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
+      "scraped_at": "2026-06-28T15:58:12.288Z"
     },
     {
       "id": "54895533301efd31279a27844a4faa90c4e6d64d9f50ccbeb75194d3bb64639e",
       "title": "NewsBTCChainlink Network Growth Surges With 6,100 New Addresses in Two Days",
       "url": "https://www.tradingview.com/news/newsbtc:88748bdb4094b:0-chainlink-network-growth-surges-with-6-100-new-addresses-in-two-days/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
+      "scraped_at": "2026-06-28T15:58:12.288Z"
     },
     {
       "id": "dbe16762f8fc7b34a94d16a120b996390bca0b6ee0955bc1bee305e8bfaa6321",
       "title": "TradingViewKey facts: 47,500-ETH Short; Staking Proposal; 18,361 ETH Inflow",
       "url": "https://www.tradingview.com/news/tradingview:7ffb423728a53:0-key-facts-47-500-eth-short-staking-proposal-18-361-eth-inflow/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
+      "scraped_at": "2026-06-28T15:58:12.288Z"
     },
     {
       "id": "5848bdbbe8f28ef64fa3bf38427beb695cf32a2dd2f7cfc9be428af1efe41908",
       "title": "TradingViewKey facts: EMURGO Starts ADAUSD Recovery; Hoskinson Proposes ZK Wallet",
       "url": "https://www.tradingview.com/news/tradingview:90c386bb63374:0-key-facts-emurgo-starts-adausd-recovery-hoskinson-proposes-zk-wallet/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
+      "scraped_at": "2026-06-28T15:58:12.288Z"
     },
     {
       "id": "872cbafd07f7a288f68df7cfd6b2700436c341b3cf44b87613f7910b9596fb4f",
       "title": "TradingViewKey facts: ETF $445M outflow; 50k BTC to exchanges, at loss; BTC~$60k",
       "url": "https://www.tradingview.com/news/tradingview:f0af11909295d:0-key-facts-etf-445m-outflow-50k-btc-to-exchanges-at-loss-btc-60k/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
+      "scraped_at": "2026-06-28T15:58:12.288Z"
     },
     {
       "id": "162850b60fca26bcb8c74c989a6a3da6a516fb799b8b7fe6e4ca450ceacc0b16",
       "title": "StocktwitsGrayscale Pushes Back On The 80% Crash Calls — Says Bitcoin's Bottom Hinges On The Fed And CLARITY Act",
       "url": "https://www.tradingview.com/news/stocktwits:009f2c666094b:0-grayscale-pushes-back-on-the-80-crash-calls-says-bitcoin-s-bottom-hinges-on-the-fed-and-clarity-act/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
+      "scraped_at": "2026-06-28T15:58:12.288Z"
     },
     {
       "id": "05144e3a629f6332a99eeabfc412878e353d0f312e95497a15bc4a6b41619687",
       "title": "CointelegraphBinance posts over $400M in weekly net outflows as MiCA deadline nears",
       "url": "https://www.tradingview.com/news/cointelegraph:31b8c0231094b:0-binance-posts-over-400m-in-weekly-net-outflows-as-mica-deadline-nears/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
+      "scraped_at": "2026-06-28T15:58:12.288Z"
     },
     {
       "id": "8a6b26c6f91d73a11a206f7a188f39ad4e0274412fca4f94af0abc96868565f6",
       "title": "NewsBTCCapitulation Signals: 50,000 BTC Deposited to Exchanges at a Loss",
       "url": "https://www.tradingview.com/news/newsbtc:3fa9f8670094b:0-capitulation-signals-50-000-btc-deposited-to-exchanges-at-a-loss/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
+      "scraped_at": "2026-06-28T15:58:12.288Z"
     },
     {
       "id": "1137e45ab4d133b6b7b9734f3b16e60e3cd12843ff249c973517f5b36aa389d3",
       "title": "StocktwitsWall Street Veteran Calls Bitcoin, Gold And Silver Selloff A 'Debasement Capitulation' As Home Prices Stall",
       "url": "https://www.tradingview.com/news/stocktwits:71c175f95094b:0-wall-street-veteran-calls-bitcoin-gold-and-silver-selloff-a-debasement-capitulation-as-home-prices-stall/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
-    },
-    {
-      "id": "1d77a43d61e501412203b97cde27da7a00015106539690471e4413e0ba05a7f7",
-      "title": "NewsBTCBitcoin Defends $59K Support as Q2 Closes With Rare Back-to-Back Loss",
-      "url": "https://www.tradingview.com/news/newsbtc:2c1156386094b:0-bitcoin-defends-59k-support-as-q2-closes-with-rare-back-to-back-loss/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
-    },
-    {
-      "id": "9ef5761ef2d34e4d791f7c2b1b5cb21baabe42b3c67a212286e6358acdfdc658",
-      "title": "StocktwitsGalaxy CEO Mike Novogratz Says A Turn In Alibaba Could Signal Bitcoin Has Bottomed",
-      "url": "https://www.tradingview.com/news/stocktwits:5adf9e6f1094b:0-galaxy-ceo-mike-novogratz-says-a-turn-in-alibaba-could-signal-bitcoin-has-bottomed/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
-    },
-    {
-      "id": "60f72c11d2c9a8d4af5a310befd1c08fa078fdfd72a19c0b19ba0a240c3a2fb3",
-      "title": "Binance NewsBase Releases Postmortem of June 25th Block Production Outage",
-      "url": "https://www.tradingview.com/news/binance_news:203f7dc7f094b:0-base-releases-postmortem-of-june-25th-block-production-outage/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
-    },
-    {
-      "id": "96d0fe6949dc72ab66c4130c13dce647fe957a6b053e5be26da3e8a3315d1361",
-      "title": "BeincryptoMicroStrategy’s Saylor Could Become a Bigger Villain Than FTX’s Sam Bankman-Fried?",
-      "url": "https://www.tradingview.com/news/beincrypto:ac10e3b30094b:0-microstrategy-s-saylor-could-become-a-bigger-villain-than-ftx-s-sam-bankman-fried/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
-    },
-    {
-      "id": "2cca33c0fb42392e20f8bbcc8543890d33098726e69ce0e7201661edcf62512a",
-      "title": "CointelegraphGrayscale's Pandl hopes Strategy sells $3B in Bitcoin to restore confidence",
-      "url": "https://www.tradingview.com/news/cointelegraph:788dbbb1c094b:0-grayscale-s-pandl-hopes-strategy-sells-3b-in-bitcoin-to-restore-confidence/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T14:00:41.253Z"
+      "scraped_at": "2026-06-28T15:58:12.288Z"
     }
   ]
 }
