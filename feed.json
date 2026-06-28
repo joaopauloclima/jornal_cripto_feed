@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-28T01:53:56.930Z",
+  "generated_at": "2026-06-28T06:25:02.975Z",
   "total": 14,
   "items": [
+    {
+      "id": "53413e3ab4ec606db1058594f862d0d38de4f40c036c34966af290e54badec7c",
+      "title": "CointelegraphBase post-mortem reveals sequencer bug behind back-to-back outages",
+      "url": "https://www.tradingview.com/news/cointelegraph:c7f1bea72094b:0-base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-28T06:25:02.972Z"
+    },
+    {
+      "id": "4954d31f3c2378f453b54f82ec636c1abffdfc3fff87259654abc81f70b60606",
+      "title": "Brave New CoinSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:23f2d7932094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-28T06:25:02.972Z"
+    },
+    {
+      "id": "6da8403561ae05dbf427661ddb1b4f624476b13d54e925ec6539b86b6f66e7c9",
+      "title": "Crypto BriefingCristiano Ronaldo plays every minute for Portugal in World Cup group stage, raises workload concerns",
+      "url": "https://www.tradingview.com/news/cryptobriefing:7c82f1add094b:0-cristiano-ronaldo-plays-every-minute-for-portugal-in-world-cup-group-stage-raises-workload-concerns/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-28T06:25:02.972Z"
+    },
+    {
+      "id": "aa9beebf992de6a53be667f1d7b29cd328554f74b40dfe97cf6d4f320288c8bf",
+      "title": "Crypto BriefingArgentina reaches 50 FIFA World Cup wins, and $ARG fan token holders are paying attention",
+      "url": "https://www.tradingview.com/news/cryptobriefing:eb4148444094b:0-argentina-reaches-50-fifa-world-cup-wins-and-arg-fan-token-holders-are-paying-attention/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-28T06:25:02.972Z"
+    },
+    {
+      "id": "299772d2056aaf2d5f15eff961613b38c78bab1ceda5b4f71c52daa68ca52f6f",
+      "title": "CointelegraphBitcoin unspent transaction outputs signal capitulation underway: analyst",
+      "url": "https://www.tradingview.com/news/cointelegraph:9ce2da0c8094b:0-bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-28T06:25:02.972Z"
+    },
     {
       "id": "a8ff7ce1d73fb61ff1a15ddc3e55f52f6a0d3fb5fc72091e5356e68576e60d9d",
       "title": "The BlockSecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
       "url": "https://www.tradingview.com/news/the_block:b636d7241094b:0-secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.926Z"
+      "scraped_at": "2026-06-28T06:25:02.972Z"
     },
     {
       "id": "f3a210f7f34b22d68cceaab34375e365423017ec9a19fbe7030feebb6a7934df",
       "title": "BeincryptoXRP Origins Debate Reignites as Ripple’s EX CTO Says Concept Came Before Bitcoin",
       "url": "https://www.tradingview.com/news/beincrypto:35ccd776d094b:0-xrp-origins-debate-reignites-as-ripple-s-ex-cto-says-concept-came-before-bitcoin/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
+      "scraped_at": "2026-06-28T06:25:02.972Z"
     },
     {
       "id": "f6d10a98867b4e8f03b47940d1afa72caa10edfd4f8a49a3601ffc7966a4c200",
       "title": "NewsBTCXRP Prepares for July Bounce-Back as Price History Points to Positive Third Quarter Seasonality",
       "url": "https://www.tradingview.com/news/newsbtc:d5372f32f094b:0-xrp-prepares-for-july-bounce-back-as-price-history-points-to-positive-third-quarter-seasonality/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
+      "scraped_at": "2026-06-28T06:25:02.972Z"
     },
     {
       "id": "48e1f79ed8d56ca078bd9c25fb87873bce17e387b4d6b9c58a787fde42725b19",
       "title": "NewsBTCTop Ethereum MEV Bot JaredfromSubway.eth Drained of Up to $15M in Counter-MEV Honeypot Exploit",
       "url": "https://www.tradingview.com/news/newsbtc:f4ab146c2094b:0-top-ethereum-mev-bot-jaredfromsubway-eth-drained-of-up-to-15m-in-counter-mev-honeypot-exploit/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
+      "scraped_at": "2026-06-28T06:25:02.972Z"
     },
     {
       "id": "475b07cc7a5b5b218aa2be8c3a0480346757a93a0b01be4f41f95fe13c2c39c5",
       "title": "CointelegraphFidelity rebuts claims Bitcoin becomes less secure after halvings",
       "url": "https://www.tradingview.com/news/cointelegraph:738a58092094b:0-fidelity-rebuts-claims-bitcoin-becomes-less-secure-after-halvings/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
+      "scraped_at": "2026-06-28T06:25:02.972Z"
     },
     {
       "id": "dd5fe37e2050cd4c30dc8b662c24763d159fb6191f48cde8c20eb80982f51990",
       "title": "NewsBTCTRON Daily Active Addresses Set New All-Time High at 3.93M, Outpacing Solana and Ethereum",
       "url": "https://www.tradingview.com/news/newsbtc:b49ce9f61094b:0-tron-daily-active-addresses-set-new-all-time-high-at-3-93m-outpacing-solana-and-ethereum/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
+      "scraped_at": "2026-06-28T06:25:02.972Z"
     },
     {
       "id": "b9e966cc0b09e1a7ead2308e18696aba86bcf67deba46e90d73876e65a1504cb",
       "title": "NewsBTCSui DeFi Receives Boost as SUI Group Lends Additional 4M SUI to Bluefin",
       "url": "https://www.tradingview.com/news/newsbtc:303918f98094b:0-sui-defi-receives-boost-as-sui-group-lends-additional-4m-sui-to-bluefin/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
+      "scraped_at": "2026-06-28T06:25:02.972Z"
     },
     {
       "id": "13f55eacd1369d7d5ac7ffcc8cfde3987a7fafb63b7a9b07f0ea2badcda82179",
       "title": "CointelegraphBitcoin faces fresh capitulation risk as 50K BTC moved at a loss",
       "url": "https://www.tradingview.com/news/cointelegraph:bc66b5762094b:0-bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moved-at-a-loss/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
+      "scraped_at": "2026-06-28T06:25:02.972Z"
     },
     {
       "id": "b2489afe068ece5106131951ab3bf99b2c9c4f8ce9ab5ff88fa4409bf7c61e5c",
       "title": "NewsBTCSolana SOL Reclaims $72, But Fading On-Chain Metrics Signal Weakening DEX Momentum",
       "url": "https://www.tradingview.com/news/newsbtc:9df39f6f4094b:0-solana-sol-reclaims-72-but-fading-on-chain-metrics-signal-weakening-dex-momentum/",
       "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
-    },
-    {
-      "id": "b76ad8e554dc2d29090a25ec06938c1db4f75babf0c31fccb3ce895e68c6ed1a",
-      "title": "BeincryptoBitcoin and Stablecoins Become Lifelines After Venezuela Earthquakes",
-      "url": "https://www.tradingview.com/news/beincrypto:32414ba7e094b:0-bitcoin-and-stablecoins-become-lifelines-after-venezuela-earthquakes/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
-    },
-    {
-      "id": "7e5cf1002c96a352f210e1204002266cd8277407af99887b42d5d842419d8be2",
-      "title": "NewsBTCSecondFi Completes Refund Snapshot for Wallets Impacted by Recent Cardano Exploit",
-      "url": "https://www.tradingview.com/news/newsbtc:7d44fec0d094b:0-secondfi-completes-refund-snapshot-for-wallets-impacted-by-recent-cardano-exploit/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
-    },
-    {
-      "id": "cedc5bfc5e3d5fe43386e86512e43afd4a006d122ad3bbb804f32fe9dadb69c0",
-      "title": "CointelegraphDCG-backed Yuma launches fund offering institutional exposure to Bittensor",
-      "url": "https://www.tradingview.com/news/cointelegraph:27f666714094b:0-dcg-backed-yuma-launches-fund-offering-institutional-exposure-to-bittensor/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
-    },
-    {
-      "id": "c02261746ad1f6a456fc442864a2044c4a500592df0e0314117b4873723d0235",
-      "title": "BeincryptoBillionaire Grantham Uses Extreme Words to Describe Bitcoin",
-      "url": "https://www.tradingview.com/news/beincrypto:63001acc4094b:0-billionaire-grantham-uses-extreme-words-to-describe-bitcoin/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
-    },
-    {
-      "id": "dc7d32033f77811b0fdbff96c78d207352c1dd8c7a3bfa3f0d4ff5ade792073e",
-      "title": "NewsBTCRipple CEO Brad Garlinghouse Slams Michael Saylor’s Bitcoin Buying Model as “Financial Engineering”",
-      "url": "https://www.tradingview.com/news/newsbtc:f9cf65056094b:0-ripple-ceo-brad-garlinghouse-slams-michael-saylor-s-bitcoin-buying-model-as-financial-engineering/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-28T01:53:56.927Z"
+      "scraped_at": "2026-06-28T06:25:02.972Z"
     }
   ]
 }
