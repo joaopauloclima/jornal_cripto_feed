@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-06-29T18:33:59.523Z",
-  "total": 14,
+  "generated_at": "2026-06-29T20:31:58.968Z",
+  "total": 15,
   "items": [
+    {
+      "id": "20196730e630ea31e1950d6a5388ad6eac5f9abf4fbf267c63de326c8e414fc8",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260629007728:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "276f870a5dfbfc5de6ef8aed8f8b1320d56c5c8b80c13936e1c37fb5e87306d6",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260629007727:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "3bed38202d5b9b24ae7b7edc9eb61de5bb0c36fe76f66eb565ca14bb659305b7",
+      "title": "MarketWatchSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_SN20260629008272:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "a4a44a81cba67680f3ad1bd8849a13be5672b3a0c3742b32db4b375b2cfd88ee",
+      "title": "CointelegraphSenate leaders push for July passage of CLARITY Act",
+      "url": "https://www.tradingview.com/news/cointelegraph:f31ce19ee094b:0-senate-leaders-push-for-july-passage-of-clarity-act/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "54ec3882fc5a42392ccf3ce2431a1ae2d9f3de3e72d1b2332e2a6131fba120ca",
+      "title": "The BlockSEC wraps up NanoBit crypto fraud case in final judgment, ordering over $5 million in fines",
+      "url": "https://www.tradingview.com/news/the_block:490650cd4094b:0-sec-wraps-up-nanobit-crypto-fraud-case-in-final-judgment-ordering-over-5-million-in-fines/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "675bd4c1327eb8a81042e4a7fa19192476f9407199575c75b7577d67fdd63e10",
+      "title": "ChainwireGeorge Ecosystem Accelerates Final Rollout Ahead of July 4, 2026 Presale Target",
+      "url": "https://www.tradingview.com/news/chainwire:736158584094b:0-george-ecosystem-accelerates-final-rollout-ahead-of-july-4-2026-presale-target/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "761189404b55b9b82dd082d048cd164069d81da39058d9ac577801f8c7ada7fa",
+      "title": "CointelegraphBitcoin put-call ratio hits 1-year high: Are bears preparing for drop to $55K?",
+      "url": "https://www.tradingview.com/news/cointelegraph:eeba42bc7094b:0-bitcoin-put-call-ratio-hits-1-year-high-are-bears-preparing-for-drop-to-55k/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "29f8d04f102a3fba4fba57e47787850746f815c5fca4df4c367957ba5042ce85",
+      "title": "GuruFocusStrategy Approves Bitcoin Sales Framework",
+      "url": "https://www.tradingview.com/news/gurufocus:8ab4ea8cc094b:0-strategy-approves-bitcoin-sales-framework/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "3809fe8af3f2df7f9b2cddb49aff682873e53b2511e6ecf15cc340fa412d38d9",
+      "title": "GuruFocusBitcoin ETFs Face Record $4.1 Billion June Outflow",
+      "url": "https://www.tradingview.com/news/gurufocus:44fd0e8be094b:0-bitcoin-etfs-face-record-4-1-billion-june-outflow/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "9e2c09c9fc99ff537c9ad5b0021a8800365e1ab1635a611afd73c59166351544",
+      "title": "The BlockArkham launches ranking system for prediction market traders",
+      "url": "https://www.tradingview.com/news/the_block:a5378db2e094b:0-arkham-launches-ranking-system-for-prediction-market-traders/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "17980a6b3abcd9d65975a386745673d63b9ec59b6915c7f3d0287b56bb1086ee",
+      "title": "NewsBTCCryptoQuant Flags Rising Bitcoin Whale Share On Gate As BTC Holds Below $60,000",
+      "url": "https://www.tradingview.com/news/newsbtc:f7f4025ba094b:0-cryptoquant-flags-rising-bitcoin-whale-share-on-gate-as-btc-holds-below-60-000/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
+    {
+      "id": "80ab3027364d738802e691a5610575511bc0e721f165f5ed2d5c57443d7842c4",
+      "title": "The BlockJPMorgan execs draw comparison between yield stablecoins and ‘shadow banking’",
+      "url": "https://www.tradingview.com/news/the_block:1d65ab13f094b:0-jpmorgan-execs-draw-comparison-between-yield-stablecoins-and-shadow-banking/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-29T20:31:58.966Z"
+    },
     {
       "id": "355bb50875b4cfaa68141ecb7f75c69254880f6ebd93c3f64b3d78b7e0c40dae",
       "title": "NewsBTCCardano Foundation Urges SPOs To Vote Instead Of Auto-Abstaining On Governance Actions",
       "url": "https://www.tradingview.com/news/newsbtc:dba626fd1094b:0-cardano-foundation-urges-spos-to-vote-instead-of-auto-abstaining-on-governance-actions/",
       "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
+      "scraped_at": "2026-06-29T20:31:58.966Z"
     },
     {
       "id": "103b3c7029a928e068559370a18a93c31d1d8dd460ce4ffee630e1a3da76734d",
       "title": "NewsBTCENA, SUI And EIGEN Lead This Week’s $73 Million Token Unlock Schedule",
       "url": "https://www.tradingview.com/news/newsbtc:f19d4252b094b:0-ena-sui-and-eigen-lead-this-week-s-73-million-token-unlock-schedule/",
       "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
+      "scraped_at": "2026-06-29T20:31:58.966Z"
     },
     {
       "id": "cce613cc1d30ad95d825c6f3e51ae7064ae9625518783d3eac95c88677f3891b",
       "title": "CointelegraphBitcoin balances $60K tightrope as US stocks rebound on fresh Iran peace deal hopes",
       "url": "https://www.tradingview.com/news/cointelegraph:b1de8a0a0094b:0-bitcoin-balances-60k-tightrope-as-us-stocks-rebound-on-fresh-iran-peace-deal-hopes/",
       "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "47f3ec8df8d9013a9a7c87537a7136d8c6c30108f0f61dc8a1bb0ee6a691d816",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260629006460:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "0c59f5a489ea962d7522ad1ac647c3a68d330d4373153e59efc42876b1ddf340",
-      "title": "CointelegraphCoinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions",
-      "url": "https://www.tradingview.com/news/cointelegraph:b23c25f1b094b:0-coinbase-kraken-and-okx-move-to-swoop-up-eu-users-affected-by-mica-restrictions/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "690e2fce0b8688a4c6b226a4e0bf313e65db75971cab816476ec3985914e6ab0",
-      "title": "GlobeNewswireSiebert Expands Access to Tokenized Securities Through New Collaboration with tZERO and Streamex",
-      "url": "https://www.tradingview.com/news/globenewswire:13a8ed251094b:0-siebert-expands-access-to-tokenized-securities-through-new-collaboration-with-tzero-and-streamex/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "a946cc00dfb8ec016a404e3afdca7e8a97272b0dd14d99030c3fd1377bbd6f54",
-      "title": "NewsBTCInstitutions Cut Bitcoin And Ethereum ETF Exposure But Keep Buying XRP And HYPE",
-      "url": "https://www.tradingview.com/news/newsbtc:2d5cb5d7a094b:0-institutions-cut-bitcoin-and-ethereum-etf-exposure-but-keep-buying-xrp-and-hype/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "ab3ffde9d8c44dc5593c2a0ded7345a6411c49f4de42ebc1d856b5a90e73ae1a",
-      "title": "NewsBTCXRP ETF Inflows Extend To Eight Weeks As Bitcoin Funds Bleed",
-      "url": "https://www.tradingview.com/news/newsbtc:c54bdaa55094b:0-xrp-etf-inflows-extend-to-eight-weeks-as-bitcoin-funds-bleed/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "236740fe4e1ba152aec27b02c08fb8910707ee3a5f26bf193775b6385fbbd8a3",
-      "title": "CoinMarketCalCOTI - Privacy Portal Live - 29 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:6b2af01ad094b:0-coti-privacy-portal-live-29-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "498da535ba149efb88615a01d092bdccbce51b86c257eea8840b421d2c978202",
-      "title": "CoinMarketCalUnicorn - KuCoin Listing - 29 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:8dac48e1a094b:0-unicorn-kucoin-listing-29-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "f10f2167577c33af473a94b5a8500e61fd37d7e4714b466e06d4e429c0e57b9b",
-      "title": "CoinMarketCalEthena Staked USDe (Fraxtal) - BlackRock Collaboration - 29 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:f85ab6da9094b:0-ethena-staked-usde-fraxtal-blackrock-collaboration-29-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "ccb11cc8e13c714082cf44cb7eb960e991b08dde7329921f2a09f39ce806e2b1",
-      "title": "The BlockBNY and Circle expand partnership, adding mint and burn capabilities for USDC",
-      "url": "https://www.tradingview.com/news/the_block:af71d50e8094b:0-bny-and-circle-expand-partnership-adding-mint-and-burn-capabilities-for-usdc/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "94339567e2450f8721071b845202fe9e13034ecf02db2597b2bd4843c2be925f",
-      "title": "ZacksPayPal's PYUSD Push: Can Stablecoins Improve Merchant Payments?",
-      "url": "https://www.tradingview.com/news/zacks:f1641ab83094b:0-paypal-s-pyusd-push-can-stablecoins-improve-merchant-payments/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
-    },
-    {
-      "id": "ace9407c0ed255a72da9c7e8047bac5387e3a1143dff2673ca924cd37adecb31",
-      "title": "NewsBTCSpot Bitcoin ETFs Reportedly See $4.06 Billion Monthly Outflows As Institutions Cut Exposure",
-      "url": "https://www.tradingview.com/news/newsbtc:afd24fa2b094b:0-spot-bitcoin-etfs-reportedly-see-4-06-billion-monthly-outflows-as-institutions-cut-exposure/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-29T18:33:59.520Z"
+      "scraped_at": "2026-06-29T20:31:58.966Z"
     }
   ]
 }
