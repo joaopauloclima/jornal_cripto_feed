@@ -1,104 +1,104 @@
 {
-  "generated_at": "2026-06-30T17:30:10.980Z",
+  "generated_at": "2026-06-30T19:24:47.492Z",
   "total": 14,
   "items": [
+    {
+      "id": "463281dcf1ff0ca4df36f71aa1c10e4866ceafb1973b98dd948d19b3cc944313",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260630007136:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "deea7ad0bb8bc93c700523ee1d45f88a9a0563102e200fc8380a2bc1fd5b084c",
+      "title": "Stock StoryCoinbase (COIN) Stock Trades Down, Here Is Why",
+      "url": "https://www.tradingview.com/news/stockstory:9a1cba4df094b:0-coinbase-coin-stock-trades-down-here-is-why/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "80c99c61506e5608c050513c797e24637ccc0fa99535824f7b2bb1d9f33cfb11",
+      "title": "NCointelegraphNasdaq brings proprietary market data onchain through Pyth",
+      "url": "https://www.tradingview.com/news/cointelegraph:543041829094b:0-nasdaq-brings-proprietary-market-data-onchain-through-pyth/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "fbb14919940d1d553d01777547a58e8cda4bd866f17ba577ef54e070a2a38403",
+      "title": "CointelegraphBitcoin price risks drop below $58K as US dollar hits 40-year high against yen",
+      "url": "https://www.tradingview.com/news/cointelegraph:9e862e71c094b:0-bitcoin-price-risks-drop-below-58k-as-us-dollar-hits-40-year-high-against-yen/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "3feed8782022d72a01b25158f2edf37d0a116b8c6e98c778aa68b7be6faa1e99",
+      "title": "Dow Jones NewswiresSign in to read exclusive news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260630006813:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "c7915eebcb4494dc38ec1b95100e0aa8d5e25bcad6ae225cce1b6b8287624615",
+      "title": "NewsBTCXRP Holds $1 Support As Wallet Growth Hits Three-Month High",
+      "url": "https://www.tradingview.com/news/newsbtc:b85321c4e094b:0-xrp-holds-1-support-as-wallet-growth-hits-three-month-high/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "1ed1fbad51201399f7e5081ba16ab3449fde811d56d723081977c4907f5acaba",
+      "title": "CoindarDogelon Mars to Hold Live Chat With Solarious on July 1st",
+      "url": "https://www.tradingview.com/news/coindar:c4787b6ae094b:0-dogelon-mars-to-hold-live-chat-with-solarious-on-july-1st/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "fe7c6cf2cf2051d22c20608e4f3e372093f74ecaf249ec7fbb7e20e46f3b8d47",
+      "title": "CoindarAxie Infinity to Share Terrariums V1.1 Preview on July 1",
+      "url": "https://www.tradingview.com/news/coindar:bd5158674094b:0-axie-infinity-to-share-terrariums-v1-1-preview-on-july-1/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "c2597e5ac987c77f32fbc9ca2f9313517198f1c5f933502189ea4547e9bd3478",
+      "title": "CointelegraphAI’s power crunch turns Bitcoin miners’ grid access into an asset",
+      "url": "https://www.tradingview.com/news/cointelegraph:11d961b42094b:0-ai-s-power-crunch-turns-bitcoin-miners-grid-access-into-an-asset/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "e4cbd226abc9516ff5b523324d77093041381a7a204c09780ab57f8dd754c153",
+      "title": "CoindarBasic Attention to Host Community Call",
+      "url": "https://www.tradingview.com/news/coindar:76d20e691094b:0-basic-attention-to-host-community-call/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
+    {
+      "id": "5effd3011219f93cf4666544e129026efa75fab789987d29595a05f71d9be489",
+      "title": "CoindarTezos Makes Ushuaia Features Available on Testnet",
+      "url": "https://www.tradingview.com/news/coindar:8054908fc094b:0-tezos-makes-ushuaia-features-available-on-testnet/",
+      "source": "tradingview",
+      "scraped_at": "2026-06-30T19:24:47.489Z"
+    },
     {
       "id": "a6a9266bb6bff0ae2242ee95b1fbe9fabe7baa6f819a585a6e53770efcf27e61",
       "title": "London Stock ExchangeREG - Phoenix Digital - Annual Results",
       "url": "https://www.tradingview.com/news/reuters.com,2026-06-30:newsml_RSd4778Ka:0-reg-phoenix-digital-annual-results/",
       "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.976Z"
+      "scraped_at": "2026-06-30T19:24:47.489Z"
     },
     {
       "id": "4ecf4a861f7093cecf28b80edb100344ae05d2e1c8bcad412805c0a90bd5e5af",
       "title": "The BlockSEC opens ETF rule review following crypto fund surge, prediction markets push",
       "url": "https://www.tradingview.com/news/the_block:079a8be18094b:0-sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push/",
       "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
+      "scraped_at": "2026-06-30T19:24:47.489Z"
     },
     {
       "id": "62a8a6a614faab0e8b240a22ab768eba2531d07539188c75e3902ee6d5fe891c",
       "title": "CointelegraphCrypto companies have spent $189M so far on 2026 US election cycle: Report",
       "url": "https://www.tradingview.com/news/cointelegraph:9200615b7094b:0-crypto-companies-have-spent-189m-so-far-on-2026-us-election-cycle-report/",
       "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "405a9e87651d6d80269cee5e8ec025cf68e7ab1ab09bb8ecb78877823c9186e2",
-      "title": "NewsBTCWhales Rotate Back To Bitcoin And Ethereum As Altcoin Risk Cools",
-      "url": "https://www.tradingview.com/news/newsbtc:19795a310094b:0-whales-rotate-back-to-bitcoin-and-ethereum-as-altcoin-risk-cools/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "3c6f687e1f6370d72b4bd1a30ad562220fccdca578b58810580fcd48a5125d2b",
-      "title": "CoinMarketCalGensyn (AI) - Upbit Listing - 30 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:2bc7e0827094b:0-gensyn-ai-upbit-listing-30-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "c1fea20d450851f2cc245319ae6a04de68713604691dbcb875406258e54a6d35",
-      "title": "CoinMarketCalMonad (MON) - MetaMask Money Account - 30 June 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:f01c8c77f094b:0-monad-mon-metamask-money-account-30-june-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "74ed602cf05af859ccecf803b8aeb1ab0f2cf5197d8b46671297f3ce92f256a4",
-      "title": "CoindarAlchemy Pay’s 0% Ramp Fee Campaign to End on July 20th",
-      "url": "https://www.tradingview.com/news/coindar:c89c80eb0094b:0-alchemy-pay-s-0-ramp-fee-campaign-to-end-on-july-20th/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "db1253b1855642ca2e309ef477f963cae5f070c3f71cc86435680b9f600a30f1",
-      "title": "CoindarCOTI Added wETH to COTI Privacy Portal",
-      "url": "https://www.tradingview.com/news/coindar:3f471caec094b:0-coti-added-weth-to-coti-privacy-portal/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "471234aa55030c4ff5cd7fa9e78f25b51ebb967db103503baf25f6cc9c4c4fd7",
-      "title": "Dow Jones NewswiresSign in to read exclusive news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260630006342:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "212ecc6bf06d6a66be20fd944968bf0b0c13b9be8d49ce3d29d9f10319743115",
-      "title": "CointelegraphBusiness use of stablecoins set for growth surge: Cybrid report",
-      "url": "https://www.tradingview.com/news/cointelegraph:2671dc9b2094b:0-business-use-of-stablecoins-set-for-growth-surge-cybrid-report/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "291e411ec3e6f42cc16c294e1b3cae5eaaa3b7eb9495a83cf22c1296df61fc35",
-      "title": "ReutersBinance Says Co Expands Triparty Banking Network With Anchorage Digital's Atlas Integration",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN432160:0-binance-says-co-expands-triparty-banking-network-with-anchorage-digital-s-atlas-integration/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "797708e97d50e9d7fad251637e0544f2bb7e77cbce2178efe64639b59ec43180",
-      "title": "NewsBTCSupreme Court Fed Ruling Puts Central Bank Independence Back In Bitcoin’s Macro Frame",
-      "url": "https://www.tradingview.com/news/newsbtc:331ff5b31094b:0-supreme-court-fed-ruling-puts-central-bank-independence-back-in-bitcoin-s-macro-frame/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "9f7ce5b5148e369f3d9b7c193f5b84188123c2768ce373afb5e6190bb500404e",
-      "title": "StocktwitsHere's Why Wall Street And Big Tech Are Uniting Behind A Stablecoin To Rival Circle And Tether",
-      "url": "https://www.tradingview.com/news/stocktwits:77abf7111094b:0-here-s-why-wall-street-and-big-tech-are-uniting-behind-a-stablecoin-to-rival-circle-and-tether/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
-    },
-    {
-      "id": "058fd2d8925f6c4de740b99c02a5b5ad83319f419fe6d58d08244429b4f68b40",
-      "title": "ReutersItaly's Hodli says it has approval to be country's first crypto asset manager",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N4321IU:0-italy-s-hodli-says-it-has-approval-to-be-country-s-first-crypto-asset-manager/",
-      "source": "tradingview",
-      "scraped_at": "2026-06-30T17:30:10.977Z"
+      "scraped_at": "2026-06-30T19:24:47.489Z"
     }
   ]
 }
