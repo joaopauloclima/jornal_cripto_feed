@@ -1,111 +1,118 @@
 {
-  "generated_at": "2026-07-01T12:15:52.710Z",
-  "total": 15,
+  "generated_at": "2026-07-01T15:30:08.254Z",
+  "total": 16,
   "items": [
     {
-      "id": "88f155337b275d2d48f7b31992fa4bdc3e71e0d79349a77c18b1decbf76523e1",
-      "title": "TradingViewKey facts: Citi Cuts ETH Target $2,240; Skew Positive; $28M ETF Outflows",
-      "url": "https://www.tradingview.com/news/tradingview:77e2079abf3e5:0-key-facts-citi-cuts-eth-target-2-240-skew-positive-28m-etf-outflows/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
-    },
-    {
-      "id": "02e514e92013b2be1f1b07253a1b70863f17d727eab59fb4d2d81c4245d330b1",
-      "title": "TradingViewKey facts: XLM/USD up ~8% to $0.20; Stellar hosts $3B in tokenized RWAs",
-      "url": "https://www.tradingview.com/news/tradingview:0083860435ade:0-key-facts-xlm-usd-up-8-to-0-20-stellar-hosts-3b-in-tokenized-rwas/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
-    },
-    {
-      "id": "de27014e7372ab01059412423d72bd014c72ce42bbdba21166de52cd2e734355",
-      "title": "TradingViewKey facts: XRP Falls ~20% in June; Ripple CTO Proposes TxnReserve",
-      "url": "https://www.tradingview.com/news/tradingview:2066420d1cad1:0-key-facts-xrp-falls-20-in-june-ripple-cto-proposes-txnreserve/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
-    },
-    {
-      "id": "547859d8b2ca4e2f00dc31b13e8c359486952929f8b9d21f902d42637334be3b",
-      "title": "TradingViewKey facts: Zcash Near $400; Sovright's Argos Recovers Old Shielded Funds",
-      "url": "https://www.tradingview.com/news/tradingview:8e6b1a0d6cfd8:0-key-facts-zcash-near-400-sovright-s-argos-recovers-old-shielded-funds/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
-    },
-    {
-      "id": "3dcddc1560e04cd0384e98d3678c710b5e285bc17f2c628ee778b74729c7bb18",
-      "title": "TradingViewKey facts: MicroStrategy launches $1.25B BTC plan; June ETFs lost $4.3B",
-      "url": "https://www.tradingview.com/news/tradingview:17b9f4ca0bc23:0-key-facts-microstrategy-launches-1-25b-btc-plan-june-etfs-lost-4-3b/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
-    },
-    {
-      "id": "73d87fd6bb30154a8846f3e58ff62e13012a0760cd057f4d9576ff4a7c922400",
+      "id": "a91da7a3216e45fc4503a8193d172a3e08534ef0f900265fe445d578d324e578",
       "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260701003128:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260701005154:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     },
     {
-      "id": "63693e99e34a73b25e002710f37ddee48ca9deb6dae6a9fea9185532c0e77980",
-      "title": "The BlockSymbiotic officially pivots to collateral markets with Core V2 launch",
-      "url": "https://www.tradingview.com/news/the_block:3150377e6094b:0-symbiotic-officially-pivots-to-collateral-markets-with-core-v2-launch/",
+      "id": "3f398a5d47604ea5a3ea93eb3b8a2a3346a4f97e9e5b9728c0cda1fe2430cfa6",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260701005155:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     },
     {
-      "id": "a7fd534e18fe181d07265ebe0306bf4ff9ed8f2f521ac6eeb577efd4e829df46",
-      "title": "PR NewswireThe Most In-Demand Commodity in the $3 Trillion AI Buildout",
-      "url": "https://www.tradingview.com/news/prnewswire:8424eca868214:0-the-most-in-demand-commodity-in-the-3-trillion-ai-buildout/",
+      "id": "7e9d449970245327762ebc23b8d68202913e53dbab82263840eab2c0cdebd6af",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260701005090:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     },
     {
-      "id": "4b8990a1d70405078083a8a680b17f5907e0b54ef393acf199cd9e4a1bc660a1",
-      "title": "ReutersTrump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4330QF:0-trump-secured-over-50-million-in-loan-from-charles-schwab-in-2025-ethics-filing-shows/",
+      "id": "ff92e46299c4abc8284e37abc444f6a28e48f76c39fb9295e61facf01042c19f",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260701004923:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
+    },
+    {
+      "id": "7f549e85e93f3118154dd7f00ba1db300504e221e3cb5510f5bdebe25b1cc75b",
+      "title": "StocktwitsMSTR Draws Multiple Price Target Cuts – But Wall Street Analysts Are Not Abandoning The Bitcoin Bull Case",
+      "url": "https://www.tradingview.com/news/stocktwits:53f946d71094b:0-mstr-draws-multiple-price-target-cuts-but-wall-street-analysts-are-not-abandoning-the-bitcoin-bull-case/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T15:30:08.251Z"
+    },
+    {
+      "id": "e8ddc1199b0ec97ea07cd2f97b2076f37490662668202b2f100738f3222068f5",
+      "title": "NewsBTCEthereum Staking Hits New Highs Even As ETH Price Stays Under Pressure",
+      "url": "https://www.tradingview.com/news/newsbtc:a54f35d2f094b:0-ethereum-staking-hits-new-highs-even-as-eth-price-stays-under-pressure/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     },
     {
       "id": "8ad29978985699359939d5f98b507ce9f6a8c989502ffc26647cf55f329ceab5",
       "title": "CointelegraphFrench banking giant Crédit Agricole launches EURXT euro stablecoin",
       "url": "https://www.tradingview.com/news/cointelegraph:5d2137f6f094b:0-french-banking-giant-cr-dit-agricole-launches-eurxt-euro-stablecoin/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     },
     {
-      "id": "30aa49950e0bd98699b50e6487ea756fa00a354ade4f92f908100895c36a1d85",
-      "title": "The BlockCrypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield",
-      "url": "https://www.tradingview.com/news/the_block:0444c0dec094b:0-crypto-hack-theft-falls-7-in-june-to-76-million-as-humanity-protocol-tops-list-peckshield/",
+      "id": "11c0f058d561b0cb316d3692b62dc4dba7e652c2b1c23b8a19f41e6d57d3cb38",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260701004657:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     },
     {
-      "id": "c3c35517cf9691adddd521542cade6a72bf2dd79c061b7603288da6e36e868f4",
-      "title": "MFN by Modular Finance36 Group: Blizz Markets Launches on Base With Real-Money USDC Trading",
-      "url": "https://www.tradingview.com/news/modular_finance:a8b3b0deba649:0-36-group-blizz-markets-launches-on-base-with-real-money-usdc-trading/",
+      "id": "f665189a550790c672b53d7970ba4159d647b59a0181c21636cd2e3106f41868",
+      "title": "ChainwireBNB Chain Launches BNB Agent Studio: The AI Agent Infrastructure Behind Smart Money",
+      "url": "https://www.tradingview.com/news/chainwire:693c58232094b:0-bnb-chain-launches-bnb-agent-studio-the-ai-agent-infrastructure-behind-smart-money/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     },
     {
-      "id": "51b6f177023652caade7f99bb9c65cd060c7cb56a0dfc5019c8c2e6d18a56d25",
-      "title": "StocktwitsTrump's Disclosed Crypto Holdings Sink Nearly 40% In Value Since Disclosure Date",
-      "url": "https://www.tradingview.com/news/stocktwits:ebf4b35c2094b:0-trump-s-disclosed-crypto-holdings-sink-nearly-40-in-value-since-disclosure-date/",
+      "id": "f3460d7a6dd3ce90e869f62165e96c7abf48050303d4d35c9794748db084db09",
+      "title": "ZacksWhy Open USD Is Poised to Stand Out in the Crowded Stablecoin Market",
+      "url": "https://www.tradingview.com/news/zacks:bb2155acc094b:0-why-open-usd-is-poised-to-stand-out-in-the-crowded-stablecoin-market/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     },
     {
-      "id": "2e71ffd79102580b77d023d64447765d867e3498f5baaeb9b7e650e519fc372f",
-      "title": "London Stock ExchangeREG - Satsuma Tech PLC - Monthly Fact Pack — July 2026 Update",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-07-01:newsml_RSA6458Ka:0-reg-satsuma-tech-plc-monthly-fact-pack-july-2026-update/",
+      "id": "126ce2c4ec642ebda3160d4b719672aaa2258411d57d064b226a261c58429f47",
+      "title": "Finance MagnatesBinance Faces £150M UK Lawsuit From 1,692 Retail Derivatives Traders",
+      "url": "https://www.tradingview.com/news/financemagnates:3b3d9b6e2094b:0-binance-faces-150m-uk-lawsuit-from-1-692-retail-derivatives-traders/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     },
     {
-      "id": "a3aea3557c83f11b107f39e95b0eea7e4469ffe6087e15192bb1410baa3d1e66",
-      "title": "BeincryptoRipple Unlocks 1 Billion XRP as the Bearish Nightmare Deepens: What’s Next?",
-      "url": "https://www.tradingview.com/news/beincrypto:f7b320115094b:0-ripple-unlocks-1-billion-xrp-as-the-bearish-nightmare-deepens-what-s-next/",
+      "id": "ad8315019dae3c3afbe9ab895774c85a6dcf535e3535ec94aa8d341fff05bf77",
+      "title": "NewsBTCCardano Activity Recovers After Yoroi Wallet Sync Fix",
+      "url": "https://www.tradingview.com/news/newsbtc:572b5263b094b:0-cardano-activity-recovers-after-yoroi-wallet-sync-fix/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T12:15:52.705Z"
+      "scraped_at": "2026-07-01T15:30:08.251Z"
+    },
+    {
+      "id": "9ea136cf3afc01ec6e5f31b5746f4b19f07ccfd9752a169c9547adb60f8f4eae",
+      "title": "Stocktwits707 Cayman Wants To Bring AI And Blockchain To Apparel Supply Chains — Here's What It Means",
+      "url": "https://www.tradingview.com/news/stocktwits:04eefc95a094b:0-707-cayman-wants-to-bring-ai-and-blockchain-to-apparel-supply-chains-here-s-what-it-means/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T15:30:08.251Z"
+    },
+    {
+      "id": "e22054ff4aad173cb93aa5f25b719957ffd0f4b04bf3fa0e08755ec487383ae5",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260701004385:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T15:30:08.251Z"
+    },
+    {
+      "id": "cb234ed274911346b4810b4b8d508dd90866ec9651bb603a83cc6e9a48956367",
+      "title": "Binance NewsTrump Earned Over $1.2 Billion From Crypto in 2025 — While Holding Power Over the Agencies That Regulate It",
+      "url": "https://www.tradingview.com/news/binance_news:56be062f3094b:0-trump-earned-over-1-2-billion-from-crypto-in-2025-while-holding-power-over-the-agencies-that-regulate-it/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T15:30:08.251Z"
+    },
+    {
+      "id": "b4f82c0bf30eca3fe3c439e979030821d5224deff6b409de7fc8467a1b6122e1",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260701004335:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T15:30:08.251Z"
     }
   ]
 }
