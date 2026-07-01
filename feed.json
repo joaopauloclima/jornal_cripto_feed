@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-07-01T15:30:08.254Z",
-  "total": 16,
+  "generated_at": "2026-07-01T17:33:13.440Z",
+  "total": 15,
   "items": [
     {
-      "id": "a91da7a3216e45fc4503a8193d172a3e08534ef0f900265fe445d578d324e578",
+      "id": "e423428d478e1d11f58b3aaa82edc11fc56163f7618dbed9a0d50093172ee0aa",
+      "title": "ReutersRefinitivGoogle Updates France Crypto Products Policy Effective July 1, 2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43313L:0-google-updates-france-crypto-products-policy-effective-july-1-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.435Z"
+    },
+    {
+      "id": "9854731676f300445f4c0a98de524dec169ad8a19ba4fc7e7e988a06cf11cc65",
+      "title": "CointelegraphCrypto ATM bans, restrictions now in effect in Tennessee and Georgia",
+      "url": "https://www.tradingview.com/news/cointelegraph:d05a19979094b:0-crypto-atm-bans-restrictions-now-in-effect-in-tennessee-and-georgia/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.435Z"
+    },
+    {
+      "id": "e616bdf29df37f0afc83a063f7b7f62d3261d964f5387b10f00766b94c963ffd",
+      "title": "CoinMarketCalInjective - INJ Community Buyback - 01 July 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:6ab11cf1a094b:0-injective-inj-community-buyback-01-july-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.435Z"
+    },
+    {
+      "id": "276fe18bf23aca99c4772ef7026440ed384b18163723d46ba31248642db85cae",
+      "title": "CoinMarketCalGeodnet - Mining Reward Halving - 01 July 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:abd2bc2c8094b:0-geodnet-mining-reward-halving-01-july-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.435Z"
+    },
+    {
+      "id": "c12e07599965995d32a39c7c322fc6af6f0943e5a46b137f3c9d67d502d6d278",
+      "title": "CoinMarketCalOnyxcoin - Onyx Mesh - 01 July 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:0915d7862094b:0-onyxcoin-onyx-mesh-01-july-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.435Z"
+    },
+    {
+      "id": "ea12cc5c30d8017684279c9eab93d1af2b3ce63d689d6555271fa96543d5b031",
+      "title": "NewsBTCTrump Filing Shows $1.4 Billion In 2025 Crypto-Linked Earnings",
+      "url": "https://www.tradingview.com/news/newsbtc:c34bde0c1094b:0-trump-filing-shows-1-4-billion-in-2025-crypto-linked-earnings/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.435Z"
+    },
+    {
+      "id": "87c21328c5c905565377eab68cb69b18e3c2e6dc449ee3cc31a75946ac84d9f4",
+      "title": "CointelegraphAnchorage Digital brings off-exchange settlement to Binance",
+      "url": "https://www.tradingview.com/news/cointelegraph:d51f1fe18094b:0-anchorage-digital-brings-off-exchange-settlement-to-binance/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.435Z"
+    },
+    {
+      "id": "1fd78e09d848b3926b2cab8014698eb1d5167e5235a8dfd6431159d17fb85321",
       "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260701005154:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260701005906:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
+      "scraped_at": "2026-07-01T17:33:13.435Z"
     },
     {
-      "id": "3f398a5d47604ea5a3ea93eb3b8a2a3346a4f97e9e5b9728c0cda1fe2430cfa6",
+      "id": "c22937227d57ba9fc44815ad89c154286f9ffd86b322d3d381ef2013e4cf00a9",
+      "title": "StocktwitsBitcoin's Capital Efficiency Is Collapsing, And Three More Signs Say The Selloff Is Far From Over",
+      "url": "https://www.tradingview.com/news/stocktwits:0d73d021f094b:0-bitcoin-s-capital-efficiency-is-collapsing-and-three-more-signs-say-the-selloff-is-far-from-over/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.435Z"
+    },
+    {
+      "id": "20c89c2a3a3a2631febdad780d389dc7a9c177c35d5a1569d39b16d7e3af9b22",
+      "title": "CointelegraphBitcoin price returns to $60K as US dollar strength rejects weekly high",
+      "url": "https://www.tradingview.com/news/cointelegraph:7151a529d094b:0-bitcoin-price-returns-to-60k-as-us-dollar-strength-rejects-weekly-high/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.436Z"
+    },
+    {
+      "id": "244e55d0ced0e62889e405b4b9e0e86ed8fa05caab406d8d7810cf565054c0b6",
+      "title": "The Block‘An honest, neutral counterpart:’ Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit",
+      "url": "https://www.tradingview.com/news/the_block:cddd1805f094b:0-an-honest-neutral-counterpart-bitmine-sharplink-and-joe-lubin-back-new-ethereum-institutional-non-profit/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.436Z"
+    },
+    {
+      "id": "840bdfca3cebf2a4affaf953555680edcfa9c565e5c039d3a3b6f5613cbb0d72",
+      "title": "CointelegraphEthereum backers launch nonprofit to lead institutional adoption efforts",
+      "url": "https://www.tradingview.com/news/cointelegraph:b802fa584094b:0-ethereum-backers-launch-nonprofit-to-lead-institutional-adoption-efforts/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.436Z"
+    },
+    {
+      "id": "f81658085f094adc0b0e0427994a9322021298df5831bdafef4ed3afb74ba4d0",
+      "title": "Finance MagnatesMiCA Day One: We Tested How Europe's Unlicensed Exchanges Treat New Users",
+      "url": "https://www.tradingview.com/news/financemagnates:90d51124d094b:0-mica-day-one-we-tested-how-europe-s-unlicensed-exchanges-treat-new-users/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.436Z"
+    },
+    {
+      "id": "da1aeda2dc2fd61be2a0d36a0b06985b937f5bb000d6e989c5d2457e1d04eccb",
+      "title": "NewsBTCSolana USDC Liquidity Jumps As Circle Mints Another $1 Billion",
+      "url": "https://www.tradingview.com/news/newsbtc:1b2c3f6d9094b:0-solana-usdc-liquidity-jumps-as-circle-mints-another-1-billion/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-01T17:33:13.436Z"
+    },
+    {
+      "id": "baea220df8687a04f90d197395e6e84e6888c74741afbe00230c2799ae19779f",
       "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260701005155:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260701005644:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "7e9d449970245327762ebc23b8d68202913e53dbab82263840eab2c0cdebd6af",
-      "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260701005090:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "ff92e46299c4abc8284e37abc444f6a28e48f76c39fb9295e61facf01042c19f",
-      "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260701004923:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "7f549e85e93f3118154dd7f00ba1db300504e221e3cb5510f5bdebe25b1cc75b",
-      "title": "StocktwitsMSTR Draws Multiple Price Target Cuts – But Wall Street Analysts Are Not Abandoning The Bitcoin Bull Case",
-      "url": "https://www.tradingview.com/news/stocktwits:53f946d71094b:0-mstr-draws-multiple-price-target-cuts-but-wall-street-analysts-are-not-abandoning-the-bitcoin-bull-case/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "e8ddc1199b0ec97ea07cd2f97b2076f37490662668202b2f100738f3222068f5",
-      "title": "NewsBTCEthereum Staking Hits New Highs Even As ETH Price Stays Under Pressure",
-      "url": "https://www.tradingview.com/news/newsbtc:a54f35d2f094b:0-ethereum-staking-hits-new-highs-even-as-eth-price-stays-under-pressure/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "8ad29978985699359939d5f98b507ce9f6a8c989502ffc26647cf55f329ceab5",
-      "title": "CointelegraphFrench banking giant Crédit Agricole launches EURXT euro stablecoin",
-      "url": "https://www.tradingview.com/news/cointelegraph:5d2137f6f094b:0-french-banking-giant-cr-dit-agricole-launches-eurxt-euro-stablecoin/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "11c0f058d561b0cb316d3692b62dc4dba7e652c2b1c23b8a19f41e6d57d3cb38",
-      "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260701004657:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "f665189a550790c672b53d7970ba4159d647b59a0181c21636cd2e3106f41868",
-      "title": "ChainwireBNB Chain Launches BNB Agent Studio: The AI Agent Infrastructure Behind Smart Money",
-      "url": "https://www.tradingview.com/news/chainwire:693c58232094b:0-bnb-chain-launches-bnb-agent-studio-the-ai-agent-infrastructure-behind-smart-money/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "f3460d7a6dd3ce90e869f62165e96c7abf48050303d4d35c9794748db084db09",
-      "title": "ZacksWhy Open USD Is Poised to Stand Out in the Crowded Stablecoin Market",
-      "url": "https://www.tradingview.com/news/zacks:bb2155acc094b:0-why-open-usd-is-poised-to-stand-out-in-the-crowded-stablecoin-market/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "126ce2c4ec642ebda3160d4b719672aaa2258411d57d064b226a261c58429f47",
-      "title": "Finance MagnatesBinance Faces £150M UK Lawsuit From 1,692 Retail Derivatives Traders",
-      "url": "https://www.tradingview.com/news/financemagnates:3b3d9b6e2094b:0-binance-faces-150m-uk-lawsuit-from-1-692-retail-derivatives-traders/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "ad8315019dae3c3afbe9ab895774c85a6dcf535e3535ec94aa8d341fff05bf77",
-      "title": "NewsBTCCardano Activity Recovers After Yoroi Wallet Sync Fix",
-      "url": "https://www.tradingview.com/news/newsbtc:572b5263b094b:0-cardano-activity-recovers-after-yoroi-wallet-sync-fix/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "9ea136cf3afc01ec6e5f31b5746f4b19f07ccfd9752a169c9547adb60f8f4eae",
-      "title": "Stocktwits707 Cayman Wants To Bring AI And Blockchain To Apparel Supply Chains — Here's What It Means",
-      "url": "https://www.tradingview.com/news/stocktwits:04eefc95a094b:0-707-cayman-wants-to-bring-ai-and-blockchain-to-apparel-supply-chains-here-s-what-it-means/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "e22054ff4aad173cb93aa5f25b719957ffd0f4b04bf3fa0e08755ec487383ae5",
-      "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260701004385:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "cb234ed274911346b4810b4b8d508dd90866ec9651bb603a83cc6e9a48956367",
-      "title": "Binance NewsTrump Earned Over $1.2 Billion From Crypto in 2025 — While Holding Power Over the Agencies That Regulate It",
-      "url": "https://www.tradingview.com/news/binance_news:56be062f3094b:0-trump-earned-over-1-2-billion-from-crypto-in-2025-while-holding-power-over-the-agencies-that-regulate-it/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
-    },
-    {
-      "id": "b4f82c0bf30eca3fe3c439e979030821d5224deff6b409de7fc8467a1b6122e1",
-      "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260701004335:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-01T15:30:08.251Z"
+      "scraped_at": "2026-07-01T17:33:13.436Z"
     }
   ]
 }
