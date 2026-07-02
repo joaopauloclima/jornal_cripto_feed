@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-02T22:12:01.974Z",
+  "generated_at": "2026-07-02T23:46:20.403Z",
   "total": 15,
   "items": [
+    {
+      "id": "94cb4258e281934df994fc03f201b6aaf38c07230e35dea18e49292de41a856b",
+      "title": "NewsBTCU.S. Public Firm K Wave Media Liquidates Entire 88 BTC Portfolio to Repay Debt",
+      "url": "https://www.tradingview.com/news/newsbtc:6218b9760094b:0-u-s-public-firm-k-wave-media-liquidates-entire-88-btc-portfolio-to-repay-debt/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T23:46:20.399Z"
+    },
+    {
+      "id": "30f5ac829619d75351aecbd386426d1b4e4e975609bf23846c4c0d57f4536d6c",
+      "title": "CointelegraphIs Bitcoin heading for $65K? Sharplink buys $16M ETH: Market Moves",
+      "url": "https://www.tradingview.com/news/cointelegraph:140845b20094b:0-is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T23:46:20.399Z"
+    },
+    {
+      "id": "ba4c5a6b20fa881d5ef509f859e039fc07d8f0b9f61b5dbbdc5399b7253dccb2",
+      "title": "NewsBTCSolana Hits Record $3.4 Billion in Real-World Asset (RWA) Expansion",
+      "url": "https://www.tradingview.com/news/newsbtc:e58500d81094b:0-solana-hits-record-3-4-billion-in-real-world-asset-rwa-expansion/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T23:46:20.399Z"
+    },
+    {
+      "id": "3ce9438cc4054494b74fcf717da1bc28b33d56ab8de098bdea9c6bce023de311",
+      "title": "BeincryptoJPMorgan Sounds the Alarm on MicroStrategy’s New Bitcoin Sales Policy",
+      "url": "https://www.tradingview.com/news/beincrypto:297322314094b:0-jpmorgan-sounds-the-alarm-on-microstrategy-s-new-bitcoin-sales-policy/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T23:46:20.399Z"
+    },
+    {
+      "id": "3cbb3859e0c674520123380c936391a80df6ce4b48a585dd5bd5dadf5a7bfec9",
+      "title": "NewsBTCTether Freezes USDT in 131 TRON Wallets Under Updated OFAC Sanctions",
+      "url": "https://www.tradingview.com/news/newsbtc:17fccf602094b:0-tether-freezes-usdt-in-131-tron-wallets-under-updated-ofac-sanctions/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T23:46:20.399Z"
+    },
     {
       "id": "348147ed0e2e5a173710d2dc578fc1f50950055e7851ad139016645c1d4c9e34",
       "title": "CointelegraphRipple co-founder backs venture launched by US senator's son: Report",
       "url": "https://www.tradingview.com/news/cointelegraph:3e39ae3fb094b:0-ripple-co-founder-backs-venture-launched-by-us-senator-s-son-report/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.970Z"
+      "scraped_at": "2026-07-02T23:46:20.399Z"
     },
     {
       "id": "4363119f9fdada82f3c392a9f2e6349427f4270be93075a7bc0ccde7a66bce02",
       "title": "CoinMarketCalMantle (MNT) - Openstock on Mantle - 02 July 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:a8cdb7273094b:0-mantle-mnt-openstock-on-mantle-02-july-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.970Z"
+      "scraped_at": "2026-07-02T23:46:20.399Z"
     },
     {
       "id": "f9d1083e505360293cfc1d6054544ce76391e218ad5e519f5a210efc4b450856",
       "title": "CoinMarketCalRoboStrategy (BOT) - Raydium Listing - 02 July 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:125e6ceef094b:0-robostrategy-bot-raydium-listing-02-july-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.970Z"
+      "scraped_at": "2026-07-02T23:46:20.399Z"
     },
     {
       "id": "15a091775cf6b102b099d0bda405c692720bca4cc7329a3f110be485de802c9e",
       "title": "CoinMarketCalAave - Aave V3 on Monad - 02 July 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:3a6f8a859094b:0-aave-aave-v3-on-monad-02-july-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.970Z"
+      "scraped_at": "2026-07-02T23:46:20.399Z"
+    },
+    {
+      "id": "312dba84e71f03a31e846fd3d89386fd82e4149568ec6a1cd03ac18e198d725b",
+      "title": "BeincryptoTrump Defends Crypto Fortune, Says Bitcoin Shouldn’t Be Taxed Like Stocks",
+      "url": "https://www.tradingview.com/news/beincrypto:12e621ea6094b:0-trump-defends-crypto-fortune-says-bitcoin-shouldn-t-be-taxed-like-stocks/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T23:46:20.399Z"
     },
     {
       "id": "97ce40d3b109815e865eea0c63558bdf43e1970baaa6d3cd3aa288764c5f9391",
       "title": "NewsBTCSolana Foundation Launches Validator Governance Framework for On-Chain Voting",
       "url": "https://www.tradingview.com/news/newsbtc:c29e74514094b:0-solana-foundation-launches-validator-governance-framework-for-on-chain-voting/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.970Z"
+      "scraped_at": "2026-07-02T23:46:20.399Z"
     },
     {
       "id": "311d1d60cc68c14b20f5fd7abdb5fda0b861e8085e89fc38942070618646120b",
       "title": "NewsBTCEthlabs Launches with Five Former Ethereum Foundation Researchers to Speed Up Settlement",
       "url": "https://www.tradingview.com/news/newsbtc:f7ad18f2b094b:0-ethlabs-launches-with-five-former-ethereum-foundation-researchers-to-speed-up-settlement/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.970Z"
+      "scraped_at": "2026-07-02T23:46:20.399Z"
     },
     {
       "id": "1e76e2926cc9cc09d16cd97f8c3c8a43debebf4375544d905f277b0d5937f4ce",
       "title": "The BlockSecuritize becomes first to debut shares on NYSE and onchain, but it won’t be the last",
       "url": "https://www.tradingview.com/news/the_block:e9d64120b094b:0-securitize-becomes-first-to-debut-shares-on-nyse-and-onchain-but-it-won-t-be-the-last/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.970Z"
+      "scraped_at": "2026-07-02T23:46:20.399Z"
     },
     {
       "id": "a9ea3d474f3a939e9aa814da02abe840864b1f528119ab11b9f461cff5b03160",
       "title": "NewsBTCMiCA Rollout Shows Limited Impact On Dominance, Kaiko Analysis Reports",
       "url": "https://www.tradingview.com/news/newsbtc:2e59865e7094b:0-mica-rollout-shows-limited-impact-on-dominance-kaiko-analysis-reports/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.970Z"
+      "scraped_at": "2026-07-02T23:46:20.399Z"
     },
     {
       "id": "4403f60ff0215e07ae17ce042d567d48ff568cf13762a98869b8188e13fb25e6",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:94fa1b93e094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.971Z"
-    },
-    {
-      "id": "9c262901cad3c3b394af85af21e60e9d5febff6fb27a7192544e0f086aa71491",
-      "title": "Stock StoryWhy Robinhood (HOOD) Stock Is Trading Up Today",
-      "url": "https://www.tradingview.com/news/stockstory:9d9ef6369094b:0-why-robinhood-hood-stock-is-trading-up-today/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.971Z"
-    },
-    {
-      "id": "b51c1d7a7ec30353d1b44fae5738b8b293e8a070b016beb205ddcb2f8e6be214",
-      "title": "The BlockeToro leads $12.5 million round in onchain perps exchange Extended",
-      "url": "https://www.tradingview.com/news/the_block:6cc578e88094b:0-etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.971Z"
-    },
-    {
-      "id": "7427350fba12a27ba29d0ff7df4afbbec5bc7dfdae0794cf71fbbfc48e417e73",
-      "title": "PBeincryptoCan Ansem and a $300M Airdrop Revive Pump.fun Before Its $130 Million Unlock?",
-      "url": "https://www.tradingview.com/news/beincrypto:f4d3b43ae094b:0-can-ansem-and-a-300m-airdrop-revive-pump-fun-before-its-130-million-unlock/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.971Z"
-    },
-    {
-      "id": "e65b56ee5986b22c81a3476bd714e9d7c7c91a06d803f45af42e73d71ac1b37f",
-      "title": "CointelegraphIMF says tokenization could transform settlement and financial stability",
-      "url": "https://www.tradingview.com/news/cointelegraph:6df01751a094b:0-imf-says-tokenization-could-transform-settlement-and-financial-stability/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.971Z"
-    },
-    {
-      "id": "02c397974bb18b420d6963c287508ae3f96538d7ee2efba706e1acce50037081",
-      "title": "NewsBTCEthereum Institutional Backers Launch Independent Non-Profit to Target Wall Street Wealth",
-      "url": "https://www.tradingview.com/news/newsbtc:271f557d0094b:0-ethereum-institutional-backers-launch-independent-non-profit-to-target-wall-street-wealth/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.971Z"
-    },
-    {
-      "id": "8a4cd95f2f43433bf0e6e00342909d780bed89af39298074ac95fed063f97606",
-      "title": "The BlockCFTC’s Selig says Illinois lawmakers ‘decided they know better’ on crypto tax",
-      "url": "https://www.tradingview.com/news/the_block:c4974885a094b:0-cftc-s-selig-says-illinois-lawmakers-decided-they-know-better-on-crypto-tax/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T22:12:01.971Z"
+      "scraped_at": "2026-07-02T23:46:20.399Z"
     }
   ]
 }
