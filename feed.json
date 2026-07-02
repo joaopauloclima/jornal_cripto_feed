@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-07-02T11:20:38.284Z",
-  "total": 16,
+  "generated_at": "2026-07-02T13:21:46.108Z",
+  "total": 15,
   "items": [
     {
-      "id": "30f9b69c1a69349cfcd7185f2fc3d895468fb60cb3e9e862acd0b3e1e1085153",
+      "id": "4467ab934cc44c58d201dcbe695427778d15d78cf7551c6429dfdb0f2137370d",
       "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260702002729:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260702003777:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.100Z"
     },
     {
-      "id": "bc173613739ca3862b32118aa0c4eb83cf1259d8fd1f690f6b6899f2eed9545d",
+      "id": "d7c6000f7fd0b06b88da2add2b16b34ad8dc9638cec7d5ff613b6e09f0b1a648",
+      "title": "CointelegraphAave brings V3 lending and GHO stablecoin to Monad",
+      "url": "https://www.tradingview.com/news/cointelegraph:c8e657047094b:0-aave-brings-v3-lending-and-gho-stablecoin-to-monad/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T13:21:46.100Z"
+    },
+    {
+      "id": "612d011fb058e630f31412e98e273d3c2a9808e01ad76baa1dd8285fdd8220c5",
+      "title": "The BlockAnchorage Digital adds Lido support, giving institutions access to wstETH",
+      "url": "https://www.tradingview.com/news/the_block:a7c274f31094b:0-anchorage-digital-adds-lido-support-giving-institutions-access-to-wsteth/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T13:21:46.100Z"
+    },
+    {
+      "id": "ba2e8694cadfaba809ce6ba45dde570264c20fb0ffa63eca399a36bce4f7cdc6",
+      "title": "The Block‘Accumulation beneath the surface’: Bitcoin rebounds above $61,000 as long-term holders accumulate amid steady ETF outflows",
+      "url": "https://www.tradingview.com/news/the_block:ef36ee90b094b:0-accumulation-beneath-the-surface-bitcoin-rebounds-above-61-000-as-long-term-holders-accumulate-amid-steady-etf-outflows/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T13:21:46.100Z"
+    },
+    {
+      "id": "60bca6b345ee1af9cd6a965a3c78b64c018d8a782980c2e65c6fa0ceb1ca13f3",
+      "title": "ChainwireBybit Livestream: Showcasing Blockchain for Good Alliance's Latest Incubation Cohort",
+      "url": "https://www.tradingview.com/news/chainwire:43f0d63cb094b:0-bybit-livestream-showcasing-blockchain-for-good-alliance-s-latest-incubation-cohort/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T13:21:46.100Z"
+    },
+    {
+      "id": "c428e2a0cac51c4bcd50324576a70cab279eae901ad33104f5aea2db0deb479d",
       "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260702002728:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260702003564:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.100Z"
     },
     {
-      "id": "f016528dfe3a359f727cfb9a78eef03a241ccc8c7b676722e2b7ff4f46917138",
-      "title": "CointelegraphSolana Foundation launches framework for protocol-level governance",
-      "url": "https://www.tradingview.com/news/cointelegraph:3785d7347094b:0-solana-foundation-launches-framework-for-protocol-level-governance/",
+      "id": "0eb999a859f6a08bd9ff6cb6aa34f0cdb87dc87411026352a9c66eda467c8929",
+      "title": "ChainwireEightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $386 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Over 283 Million WLD Tokens",
+      "url": "https://www.tradingview.com/news/chainwire:1bf6af471094b:0-eightco-holdings-nasdaq-orbs-reports-total-holdings-of-approximately-386-million-includes-openai-beast-industries-more-than-16-000-eth-and-over-283-million-wld-tokens/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.100Z"
     },
     {
-      "id": "f95f76f69728bb537a088dc6ed50bab0fbe145e86d97c8b7422c69897ebde724",
-      "title": "CointelegraphSBI Crypto shuts Bitcoin mining pool after five-year run",
-      "url": "https://www.tradingview.com/news/cointelegraph:3ba15fdc8094b:0-sbi-crypto-shuts-bitcoin-mining-pool-after-five-year-run/",
+      "id": "54b4a92c5b74da170032731ffa4d52767eae2f44ce8514b1fa5677344ad3fb30",
+      "title": "PR NewswireEightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $386 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Over 283 Million WLD Tokens",
+      "url": "https://www.tradingview.com/news/prnewswire:c328a547a607b:0-eightco-holdings-nasdaq-orbs-reports-total-holdings-of-approximately-386-million-includes-openai-beast-industries-more-than-16-000-eth-and-over-283-million-wld-tokens/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.100Z"
     },
     {
-      "id": "b8df6073fb3b87818f58dca0e17a1b23546c6ca929030d7829f999909df68b63",
-      "title": "ReutersHyperscale Data Buys 67 Bitcoin",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4340C9:0-hyperscale-data-buys-67-bitcoin/",
+      "id": "abc54de181141450945fb44035cedff4b077c157b3a1b75e4c678ab359722840",
+      "title": "UReutersStablecoinx Launches Stablecoinx Harness Infrastructure Software Platform",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43407E:0-stablecoinx-launches-stablecoinx-harness-infrastructure-software-platform/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.101Z"
     },
     {
-      "id": "386904a868eb3e93f6594eb0b3d57ef343632c2242cc65f4dbd6455335c372ec",
-      "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260702002281:0/",
+      "id": "45ae51d380cb7a2b73e54c73735f6672f897cec7ceb58dd5fd857a8c793f05a3",
+      "title": "ChainwireBybit Launches Fiat & Pay Summer Splash Campaign With 25,000 USDT Prize Pool",
+      "url": "https://www.tradingview.com/news/chainwire:fb9f0caf5094b:0-bybit-launches-fiat-pay-summer-splash-campaign-with-25-000-usdt-prize-pool/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.101Z"
     },
     {
-      "id": "955d9f34cd77e4049a24e0d3526667b6843e47fe4a0fb9aab4cb439de3fe5a14",
-      "title": "CointelegraphYield-bearing stablecoin slowdown ends three-year run for crypto-native products",
-      "url": "https://www.tradingview.com/news/cointelegraph:e004e2781094b:0-yield-bearing-stablecoin-slowdown-ends-three-year-run-for-crypto-native-products/",
+      "id": "90dee77c9a7d903ac9d8376f7a177bf94120dfda4b9889b0d39dfa9fafeb5f58",
+      "title": "TradingViewKey facts: June $4.5B ETF Outflows; BTC -43%; Santiment, Model Warn",
+      "url": "https://www.tradingview.com/news/tradingview:9021c2091c689:0-key-facts-june-4-5b-etf-outflows-btc-43-santiment-model-warn/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.101Z"
     },
     {
-      "id": "a51cbd25c6f0dc35a3ffd8f58fd0c2aa4e195204ac71faf20ac87c159928fa8b",
-      "title": "CointelegraphOFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds",
-      "url": "https://www.tradingview.com/news/cointelegraph:9cb92aafd094b:0-ofac-sanctions-134-isis-k-crypto-wallet-addresses-as-tether-freezes-funds/",
+      "id": "80cdded9578fc932448a2bfa455009c34b4b7c614e25d474ded4214ee7e44dec",
+      "title": "TradingViewKey facts: Whales, USDC Minting Support Solana; Forward Holds 7.55M SOL",
+      "url": "https://www.tradingview.com/news/tradingview:f343dca835ec1:0-key-facts-whales-usdc-minting-support-solana-forward-holds-7-55m-sol/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.101Z"
     },
     {
-      "id": "543d039425b1d6b2719df32a87cf8801c3e6d90705dd6d9119e443dea2c5c909",
-      "title": "The BlockFBI Director Kash Patel disclosed six-figure Strategy stock purchase months after trade: report",
-      "url": "https://www.tradingview.com/news/the_block:e780c1757094b:0-fbi-director-kash-patel-disclosed-six-figure-strategy-stock-purchase-months-after-trade-report/",
+      "id": "09e1f39f949e19990afe23a96acb4a2e21561d15051d9728ea7879806f9fc8ba",
+      "title": "TradingViewKey facts: ETHUSD $87.7M Liquidations; 32% Staked; Supreme Court Ruling",
+      "url": "https://www.tradingview.com/news/tradingview:6de152bbb283e:0-key-facts-ethusd-87-7m-liquidations-32-staked-supreme-court-ruling/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.101Z"
     },
     {
-      "id": "4f4516f7598fd2900a674336ceab4e0c68d26bf2b93a3322c3093fc89ea0f074",
-      "title": "BeincryptoTether Freezes All 131 TRON Wallets on Updated ISIS-K Sanctions List",
-      "url": "https://www.tradingview.com/news/beincrypto:2fb2ab25a094b:0-tether-freezes-all-131-tron-wallets-on-updated-isis-k-sanctions-list/",
+      "id": "ad601915887fb195800da4fdb3fd8a438c8f1109567abc24593c7ec998eaae16",
+      "title": "FinanceWireMusqet Partners with Merlin Griffiths to Build an AI Sales Avatar for Hospitality and F&B Merchants",
+      "url": "https://www.tradingview.com/news/financewire:285ce9adc094b:0-musqet-partners-with-merlin-griffiths-to-build-an-ai-sales-avatar-for-hospitality-and-f-b-merchants/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.101Z"
     },
     {
-      "id": "f9be8448b3e1927ba67dd5703fe68bf076c68e0683a62b698cd816c9e9c64f53",
-      "title": "CointelegraphTaiko reopens bridge after $1.7M exploit, says users made whole",
-      "url": "https://www.tradingview.com/news/cointelegraph:d9c53e566094b:0-taiko-reopens-bridge-after-1-7m-exploit-says-users-made-whole/",
+      "id": "50d08de31d5d051c3a6d12ceeac852ac36ff16628a58546d806ce778e24e04a7",
+      "title": "PR NewswireWhy Electricity Has Become the World's Most Strategic Asset",
+      "url": "https://www.tradingview.com/news/prnewswire:ee30a2c7487ff:0-why-electricity-has-become-the-world-s-most-strategic-asset/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
-    },
-    {
-      "id": "c9e8f6a635c6b034ed38585f45327158fdc704dae0ddb4eb005b088c6b6244dc",
-      "title": "BeincryptoMetaplanet Hits 43,000 BTC Milestone, Now the World’s 3rd Largest Corporate Holder",
-      "url": "https://www.tradingview.com/news/beincrypto:61c31fa0a094b:0-metaplanet-hits-43-000-btc-milestone-now-the-world-s-3rd-largest-corporate-holder/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
-    },
-    {
-      "id": "4b676fd5ac5c605f1efc9837a07977d598c96eaae339e70495ecc61463f0fb2d",
-      "title": "The BlockMetaplanet adds 2,823 bitcoin to holdings in Q2, bringing total to 43,000 BTC",
-      "url": "https://www.tradingview.com/news/the_block:291e5ab8d094b:0-metaplanet-adds-2-823-bitcoin-to-holdings-in-q2-bringing-total-to-43-000-btc/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
-    },
-    {
-      "id": "9f8128247eaa4197b37fc2656c14686f703c5fb45ca33ce8d99073c619c7963e",
-      "title": "CointelegraphMetaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings",
-      "url": "https://www.tradingview.com/news/cointelegraph:4a9dadf9e094b:0-metaplanet-buys-2-823-btc-surpasses-43-000-in-bitcoin-holdings/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
-    },
-    {
-      "id": "e8240a1d02ab16eab432da7230aad81e70899d737ca713d6d0871297cf547c13",
-      "title": "ChainwireA New Crypto Order Under Global Liquidity Repricing | HTX Research Releases Quarterly Strategy Report, Breaking Down the Q3 Framework",
-      "url": "https://www.tradingview.com/news/chainwire:facde2921094b:0-a-new-crypto-order-under-global-liquidity-repricing-htx-research-releases-quarterly-strategy-report-breaking-down-the-q3-framework/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
-    },
-    {
-      "id": "2d7e9ef4a452ea4c343686f26a4330bc6933a29ecfc1d364b871b29eeca66be0",
-      "title": "CoinpediaHyperliquid Price: Buying Opportunity or Big Correction Ahead?",
-      "url": "https://www.tradingview.com/news/coinpedia:f81f3a0e0094b:0-hyperliquid-price-buying-opportunity-or-big-correction-ahead/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T11:20:38.281Z"
+      "scraped_at": "2026-07-02T13:21:46.101Z"
     }
   ]
 }
