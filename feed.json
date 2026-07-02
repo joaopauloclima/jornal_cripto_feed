@@ -1,111 +1,118 @@
 {
-  "generated_at": "2026-07-02T08:14:28.579Z",
-  "total": 15,
+  "generated_at": "2026-07-02T11:20:38.284Z",
+  "total": 16,
   "items": [
     {
-      "id": "756e807ae4e5a3e73ff163fd3a58dedd7c8cc3b871b00228c263ae4c508d2336",
-      "title": "CoindarSafePal to Hold Community Call on July 9th",
-      "url": "https://www.tradingview.com/news/coindar:f57bbe6cf094b:0-safepal-to-hold-community-call-on-july-9th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.574Z"
-    },
-    {
-      "id": "68501f5d083518db0bdc1263252a03fbd63db8cafef1ae48c9709171e014b935",
-      "title": "CoindarOriginTrail to Join Flexibility in Manufacturing Webinar on July 2nd",
-      "url": "https://www.tradingview.com/news/coindar:1c9ede1b3094b:0-origintrail-to-join-flexibility-in-manufacturing-webinar-on-july-2nd/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.574Z"
-    },
-    {
-      "id": "6c31311592ad14e2b54d02f1c0ff4ed970e91bc0b5e35b4c7597945ba8d8e7d2",
-      "title": "ZawyaZAWYA: Standard Chartered and Circle launch first G-SIB-led integrated access to USDC minting and redemption",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-07-02:newsml_Zaw1kMftf:0-zawya-standard-chartered-and-circle-launch-first-g-sib-led-integrated-access-to-usdc-minting-and-redemption/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.574Z"
-    },
-    {
-      "id": "583ac622617fe14e347a0799c5867c5c9dcea982e36a4bfcfabe148fa20b3086",
-      "title": "Binance NewsBinance Alpha 2.0 Completes Story (IP) Rebrand to Data Network (DATAIP) With 1:1 Token Swap",
-      "url": "https://www.tradingview.com/news/binance_news:7e21be639094b:0-binance-alpha-2-0-completes-story-ip-rebrand-to-data-network-dataip-with-1-1-token-swap/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
-    },
-    {
-      "id": "7de7c849c3d429952db555f347eb4686d57fa9af236356bfc484f11d8e402b81",
-      "title": "CoindarChiliz to Host Meetup in Madrid on July 2nd",
-      "url": "https://www.tradingview.com/news/coindar:949fb571e094b:0-chiliz-to-host-meetup-in-madrid-on-july-2nd/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
-    },
-    {
-      "id": "3d55be9cecc98cdf99991e426ccc0cc4c7e90e508c682ed1308c7730fd33b0b1",
-      "title": "Binance NewsBAYC Holder Sells Three NFTs for 27.42 ETH to Add to Ether Long Position, Lookonchain Says",
-      "url": "https://www.tradingview.com/news/binance_news:bb4ff7391094b:0-bayc-holder-sells-three-nfts-for-27-42-eth-to-add-to-ether-long-position-lookonchain-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
-    },
-    {
-      "id": "6f0d4b9c6a1a380d6e62f705f056dc4ee35abb6cfd4ca7c05596b720e57d5760",
-      "title": "Binance NewsXRP Rises 2% Near $1.05, but Holder Buying Sinks 11%",
-      "url": "https://www.tradingview.com/news/binance_news:1409673a5094b:0-xrp-rises-2-near-1-05-but-holder-buying-sinks-11/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
-    },
-    {
-      "id": "03f34424f572febaa30ccaee945dea3a1431134f8bd75891cbe0fbd58570a214",
-      "title": "Binance NewsF2Pool Co-Founder Wang Chun Deposits 16,842 ETH and 60 WBTC to a CEX",
-      "url": "https://www.tradingview.com/news/binance_news:6f645e55e094b:0-f2pool-co-founder-wang-chun-deposits-16-842-eth-and-60-wbtc-to-a-cex/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
-    },
-    {
-      "id": "27515113b69b940b666de55e5676ed72c9ec846d1310c64028abeb4ae5e0156d",
-      "title": "CoindarFetch.ai to Become Official AI Partner of Goodwood FOS on July 9th",
-      "url": "https://www.tradingview.com/news/coindar:3936a3c21094b:0-fetch-ai-to-become-official-ai-partner-of-goodwood-fos-on-july-9th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
-    },
-    {
-      "id": "5728106419e1a0bafc34ae35f96ff44e5659121df4c94a9a7b66858f7b97263f",
-      "title": "Binance NewsWhale Address Withdraws 5,926 ETH From a CEX Over Two Days, Data Show",
-      "url": "https://www.tradingview.com/news/binance_news:d912ebae2094b:0-whale-address-withdraws-5-926-eth-from-a-cex-over-two-days-data-show/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
-    },
-    {
-      "id": "8a4cd489849bc3c6f2ae3421f3ebaadd346f13302f366b7b8cdf5a1f1e3e3329",
-      "title": "CoindarThe Sandbox to Hold Live Stream on Twitch on July 2nd",
-      "url": "https://www.tradingview.com/news/coindar:4101c38ae094b:0-the-sandbox-to-hold-live-stream-on-twitch-on-july-2nd/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
-    },
-    {
-      "id": "158822edaaece9e8b50e1c41a84ae8dfb64ef0a99a035062cd261f713782569c",
-      "title": "CoindarRobinhood Launched Arbitrum-Based Robinhood Chain on July 2nd",
-      "url": "https://www.tradingview.com/news/coindar:a61fb7f1f094b:0-robinhood-launched-arbitrum-based-robinhood-chain-on-july-2nd/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
-    },
-    {
-      "id": "6311505d707682627b2b9175fad90c566656fead5382b06d8ed8ceed0a3ba92d",
+      "id": "30f9b69c1a69349cfcd7185f2fc3d895468fb60cb3e9e862acd0b3e1e1085153",
       "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260702001306:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260702002729:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
+      "scraped_at": "2026-07-02T11:20:38.281Z"
     },
     {
-      "id": "069fc05251bba5292764256e94f75dd081f042b17fcdfdf7ed7608dfd716245d",
-      "title": "CoindarInjective to Undergo Mainnet Upgrade on July 3rd",
-      "url": "https://www.tradingview.com/news/coindar:b8af0fc0e094b:0-injective-to-undergo-mainnet-upgrade-on-july-3rd/",
+      "id": "bc173613739ca3862b32118aa0c4eb83cf1259d8fd1f690f6b6899f2eed9545d",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260702002728:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
+      "scraped_at": "2026-07-02T11:20:38.281Z"
     },
     {
-      "id": "9824dc8f86c944ae10a6ecad25aa57205eaed86b14176747926713a7bc305ea9",
-      "title": "PR NewswireIntellistake Opens Austen AI Content Platform to External Testers Ahead of Public Launch",
-      "url": "https://www.tradingview.com/news/prnewswire:be045f2c99b97:0-intellistake-opens-austen-ai-content-platform-to-external-testers-ahead-of-public-launch/",
+      "id": "f016528dfe3a359f727cfb9a78eef03a241ccc8c7b676722e2b7ff4f46917138",
+      "title": "CointelegraphSolana Foundation launches framework for protocol-level governance",
+      "url": "https://www.tradingview.com/news/cointelegraph:3785d7347094b:0-solana-foundation-launches-framework-for-protocol-level-governance/",
       "source": "tradingview",
-      "scraped_at": "2026-07-02T08:14:28.575Z"
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "f95f76f69728bb537a088dc6ed50bab0fbe145e86d97c8b7422c69897ebde724",
+      "title": "CointelegraphSBI Crypto shuts Bitcoin mining pool after five-year run",
+      "url": "https://www.tradingview.com/news/cointelegraph:3ba15fdc8094b:0-sbi-crypto-shuts-bitcoin-mining-pool-after-five-year-run/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "b8df6073fb3b87818f58dca0e17a1b23546c6ca929030d7829f999909df68b63",
+      "title": "ReutersHyperscale Data Buys 67 Bitcoin",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4340C9:0-hyperscale-data-buys-67-bitcoin/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "386904a868eb3e93f6594eb0b3d57ef343632c2242cc65f4dbd6455335c372ec",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260702002281:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "955d9f34cd77e4049a24e0d3526667b6843e47fe4a0fb9aab4cb439de3fe5a14",
+      "title": "CointelegraphYield-bearing stablecoin slowdown ends three-year run for crypto-native products",
+      "url": "https://www.tradingview.com/news/cointelegraph:e004e2781094b:0-yield-bearing-stablecoin-slowdown-ends-three-year-run-for-crypto-native-products/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "a51cbd25c6f0dc35a3ffd8f58fd0c2aa4e195204ac71faf20ac87c159928fa8b",
+      "title": "CointelegraphOFAC sanctions 134 ISIS-K crypto wallet addresses as Tether freezes funds",
+      "url": "https://www.tradingview.com/news/cointelegraph:9cb92aafd094b:0-ofac-sanctions-134-isis-k-crypto-wallet-addresses-as-tether-freezes-funds/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "543d039425b1d6b2719df32a87cf8801c3e6d90705dd6d9119e443dea2c5c909",
+      "title": "The BlockFBI Director Kash Patel disclosed six-figure Strategy stock purchase months after trade: report",
+      "url": "https://www.tradingview.com/news/the_block:e780c1757094b:0-fbi-director-kash-patel-disclosed-six-figure-strategy-stock-purchase-months-after-trade-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "4f4516f7598fd2900a674336ceab4e0c68d26bf2b93a3322c3093fc89ea0f074",
+      "title": "BeincryptoTether Freezes All 131 TRON Wallets on Updated ISIS-K Sanctions List",
+      "url": "https://www.tradingview.com/news/beincrypto:2fb2ab25a094b:0-tether-freezes-all-131-tron-wallets-on-updated-isis-k-sanctions-list/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "f9be8448b3e1927ba67dd5703fe68bf076c68e0683a62b698cd816c9e9c64f53",
+      "title": "CointelegraphTaiko reopens bridge after $1.7M exploit, says users made whole",
+      "url": "https://www.tradingview.com/news/cointelegraph:d9c53e566094b:0-taiko-reopens-bridge-after-1-7m-exploit-says-users-made-whole/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "c9e8f6a635c6b034ed38585f45327158fdc704dae0ddb4eb005b088c6b6244dc",
+      "title": "BeincryptoMetaplanet Hits 43,000 BTC Milestone, Now the World’s 3rd Largest Corporate Holder",
+      "url": "https://www.tradingview.com/news/beincrypto:61c31fa0a094b:0-metaplanet-hits-43-000-btc-milestone-now-the-world-s-3rd-largest-corporate-holder/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "4b676fd5ac5c605f1efc9837a07977d598c96eaae339e70495ecc61463f0fb2d",
+      "title": "The BlockMetaplanet adds 2,823 bitcoin to holdings in Q2, bringing total to 43,000 BTC",
+      "url": "https://www.tradingview.com/news/the_block:291e5ab8d094b:0-metaplanet-adds-2-823-bitcoin-to-holdings-in-q2-bringing-total-to-43-000-btc/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "9f8128247eaa4197b37fc2656c14686f703c5fb45ca33ce8d99073c619c7963e",
+      "title": "CointelegraphMetaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings",
+      "url": "https://www.tradingview.com/news/cointelegraph:4a9dadf9e094b:0-metaplanet-buys-2-823-btc-surpasses-43-000-in-bitcoin-holdings/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "e8240a1d02ab16eab432da7230aad81e70899d737ca713d6d0871297cf547c13",
+      "title": "ChainwireA New Crypto Order Under Global Liquidity Repricing | HTX Research Releases Quarterly Strategy Report, Breaking Down the Q3 Framework",
+      "url": "https://www.tradingview.com/news/chainwire:facde2921094b:0-a-new-crypto-order-under-global-liquidity-repricing-htx-research-releases-quarterly-strategy-report-breaking-down-the-q3-framework/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
+    },
+    {
+      "id": "2d7e9ef4a452ea4c343686f26a4330bc6933a29ecfc1d364b871b29eeca66be0",
+      "title": "CoinpediaHyperliquid Price: Buying Opportunity or Big Correction Ahead?",
+      "url": "https://www.tradingview.com/news/coinpedia:f81f3a0e0094b:0-hyperliquid-price-buying-opportunity-or-big-correction-ahead/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-02T11:20:38.281Z"
     }
   ]
 }
