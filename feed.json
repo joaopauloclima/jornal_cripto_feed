@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-03T12:30:13.725Z",
+  "generated_at": "2026-07-03T14:57:58.263Z",
   "total": 15,
   "items": [
+    {
+      "id": "78f2fdab37bb01ffbdae9faf5f8d441c19fffeee287225c300d3dda2b011e2ad",
+      "title": "The BlockSamsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report",
+      "url": "https://www.tradingview.com/news/the_block:5f27af38f094b:0-samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.258Z"
+    },
+    {
+      "id": "3934532b36065e00237855cc7019de3aab0efddc758dae26a09253d9a0931869",
+      "title": "The BlockGrvt and the Rise of Composable Onchain Wealth",
+      "url": "https://www.tradingview.com/news/the_block:ada2cdc95094b:0-grvt-and-the-rise-of-composable-onchain-wealth/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.258Z"
+    },
+    {
+      "id": "da3547987886038eca9f38cf309aa8d1d585a0222fb5918075d50719b21f5a31",
+      "title": "NewsBTCAutheo Pitches Decentralized Operating System For AI Agents And Blockchain",
+      "url": "https://www.tradingview.com/news/newsbtc:36570b4bc094b:0-autheo-pitches-decentralized-operating-system-for-ai-agents-and-blockchain/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.258Z"
+    },
+    {
+      "id": "b2877e9c4d8bec38659de630327062815e761d82bf24f07eca5b601fa79349dc",
+      "title": "ReutersKraken Says Xstocks Now Eligible As Collateral For Futures, Margin Trading On Kraken Pro",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4350B4:0-kraken-says-xstocks-now-eligible-as-collateral-for-futures-margin-trading-on-kraken-pro/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.258Z"
+    },
+    {
+      "id": "990e6087b09d8dd4dcdd04152a6439ae7fb8e644543631e96b3f13f58975a9d5",
+      "title": "CointelegraphEU crypto rulebook faces enforcement challenge as MiCA transition ends",
+      "url": "https://www.tradingview.com/news/cointelegraph:191ae89c5094b:0-eu-crypto-rulebook-faces-enforcement-challenge-as-mica-transition-ends/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.258Z"
+    },
+    {
+      "id": "b3049486b6a516a0c83227ba44631d19b7ed000cce9a8d99427533214c189d16",
+      "title": "NewsBTCMEXC Lists Ondo Yield Asset As Tokenized Treasury Demand Grows",
+      "url": "https://www.tradingview.com/news/newsbtc:a0d982ea9094b:0-mexc-lists-ondo-yield-asset-as-tokenized-treasury-demand-grows/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.258Z"
+    },
+    {
+      "id": "065ec1224c53c3e25c8e8ad8ca9ca9698f5e53b832897ed81f6c8e35f3ee9904",
+      "title": "NewsBTCEthereum Foundation Guide Targets Government And Institutional Blockchain Use",
+      "url": "https://www.tradingview.com/news/newsbtc:d91a07954094b:0-ethereum-foundation-guide-targets-government-and-institutional-blockchain-use/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.258Z"
+    },
+    {
+      "id": "c47f565bf76293a0cd82205719c9ceae195834a24d37d392aff995ac0dce3b75",
+      "title": "CointelegraphUpbit says it only expressed interest in future OUSD participation",
+      "url": "https://www.tradingview.com/news/cointelegraph:039ff9035094b:0-upbit-says-it-only-expressed-interest-in-future-ousd-participation/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.258Z"
+    },
+    {
+      "id": "116ed060a8392e6c13dae31aaf7678837eb02d887c8e9ec4e3d248f9bcc59242",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:ca72a93dd094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.260Z"
+    },
+    {
+      "id": "93433e766c48427f748636fb49b651cdd1c720a215524f9b10dbd79bdd31a8cc",
+      "title": "CoinpediaInjective Price Targets $7 as Binance Upgrade Support Ignites Momentum",
+      "url": "https://www.tradingview.com/news/coinpedia:e35be2398094b:0-injective-price-targets-7-as-binance-upgrade-support-ignites-momentum/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.260Z"
+    },
+    {
+      "id": "991edd80e146181d42f5d78e26553622f74494f90a6a902ed8d1ab2eb205e327",
+      "title": "NewsBTCSEC Names Kathleen Hutchinson To Lead International Affairs Office",
+      "url": "https://www.tradingview.com/news/newsbtc:7d02ee74c094b:0-sec-names-kathleen-hutchinson-to-lead-international-affairs-office/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.260Z"
+    },
+    {
+      "id": "0f37e88eb11180b6db0d4be00f5210dd3a3ece124a9d7d74e724dd1e799871e7",
+      "title": "CointelegraphBelgian police arrest suspected phishing gang leader tied to $572K theft",
+      "url": "https://www.tradingview.com/news/cointelegraph:bb99c9aed094b:0-belgian-police-arrest-suspected-phishing-gang-leader-tied-to-572k-theft/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.260Z"
+    },
+    {
+      "id": "72b6a05ce4931d6274e7eb76abf2668b3ebea667f6c39940d5da487ca10c70be",
+      "title": "CoinpediaFormer US Official Says ‘XRP and Ripple Will Be Exceptionally Important’ to the New Financial System",
+      "url": "https://www.tradingview.com/news/coinpedia:6599eef09094b:0-former-us-official-says-xrp-and-ripple-will-be-exceptionally-important-to-the-new-financial-system/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.260Z"
+    },
+    {
+      "id": "4acb27044f13ef879cfd3f69553dcf2ccbaa1b8d7c61947cab48c2bd3182e1bd",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260703002350:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-03T14:57:58.260Z"
+    },
     {
       "id": "7cf8b3f0a10dbf506be190a0cb5b5fcdf9501c9db82794c3cafef7f084624755",
       "title": "The BlockIMF says policy choices will determine whether tokenization strengthens or fragments the financial system",
       "url": "https://www.tradingview.com/news/the_block:246b3c3fd094b:0-imf-says-policy-choices-will-determine-whether-tokenization-strengthens-or-fragments-the-financial-system/",
       "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.721Z"
-    },
-    {
-      "id": "d1fac563cea5547874b31a1b3e0ff6f45964aefe21a50eb6b359a7bc026aded0",
-      "title": "NewsBTCCardano Development Activity Pushes Back Against ADA Price Stagnation",
-      "url": "https://www.tradingview.com/news/newsbtc:571ccab8d094b:0-cardano-development-activity-pushes-back-against-ada-price-stagnation/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.721Z"
-    },
-    {
-      "id": "ec4cb84ac92188162512738caf7533a6e8dcf8084799839ee3e7af3723552694",
-      "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260703002294:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.721Z"
-    },
-    {
-      "id": "91ecaba8d475c50bee1443700d26c5fdb666b164d12302f314704e10df1705aa",
-      "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260703002293:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.721Z"
-    },
-    {
-      "id": "698813da067e656a9656175106baca4fc883479f2eb5d0b9ef30aacf90b1eb95",
-      "title": "TradingViewKey facts: CFTC rules ETH commodity; H2'26 upgrade planned; Lubin backs nonprofit",
-      "url": "https://www.tradingview.com/news/tradingview:347d92906dfc2:0-key-facts-cftc-rules-eth-commodity-h2-26-upgrade-planned-lubin-backs-nonprofit/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.721Z"
-    },
-    {
-      "id": "96c8ff43835602bb349926a32b9937d5ab4cfbfb7b4206c91141c2f191a1138d",
-      "title": "TradingViewKey facts: BTC inflows surge; Strategy 847,363 BTC; MS may sell $1.25B",
-      "url": "https://www.tradingview.com/news/tradingview:0ab2f5f7a6f45:0-key-facts-btc-inflows-surge-strategy-847-363-btc-ms-may-sell-1-25b/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.721Z"
-    },
-    {
-      "id": "eb5b14014ab6dce6400ee59849e3ad7c5432b339155dc7a3c3279fa92c16a87e",
-      "title": "London Stock ExchangeRCS - Valereum PLC - Valereum Vox Issue 6 Published",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-07-03:newsml_RSC0238La:0-rcs-valereum-plc-valereum-vox-issue-6-published/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.721Z"
-    },
-    {
-      "id": "17662fdcff6e6cbd240fcd507456d1e2e890406fca49dd7c93eda068357916e5",
-      "title": "CointelegraphStanChart joins ESMA's first MiCA register update since deadline",
-      "url": "https://www.tradingview.com/news/cointelegraph:be4f73e23094b:0-stanchart-joins-esma-s-first-mica-register-update-since-deadline/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.721Z"
-    },
-    {
-      "id": "bba55fa0d5b760209cb5428ede2e69d182d567888ac2d2b06a6c5d4231df0d30",
-      "title": "NewsBTCMiCA Deadline Puts EU Crypto Firms Under Full Licensing Pressure",
-      "url": "https://www.tradingview.com/news/newsbtc:667de0bcd094b:0-mica-deadline-puts-eu-crypto-firms-under-full-licensing-pressure/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.722Z"
-    },
-    {
-      "id": "67f47693ffc1f728da55c7a51dd30d37c4903fce079db8c9342381bf3de20853",
-      "title": "The BlockSpotify asks Kalshi, Polymarket to remove branding after manipulated streams used to settle music bets: Bloomberg",
-      "url": "https://www.tradingview.com/news/the_block:22f6beee1094b:0-spotify-asks-kalshi-polymarket-to-remove-branding-after-manipulated-streams-used-to-settle-music-bets-bloomberg/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.722Z"
-    },
-    {
-      "id": "2ef355337705d4fcbaec5d7b8986c7c2ff3e0d1eafa427b7e0bfa0b3f0ed6b13",
-      "title": "BeincryptoXRP Holder Losses Hit Deepest Level in 12 Years: Buy Signal or Trap?",
-      "url": "https://www.tradingview.com/news/beincrypto:cfffaf8b6094b:0-xrp-holder-losses-hit-deepest-level-in-12-years-buy-signal-or-trap/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.722Z"
-    },
-    {
-      "id": "60234b6bb75613da57c48f665f241991c18dd161607e8e0a158b833a76998de3",
-      "title": "NewsBTCTether Freezes USDT In 131 TRON Wallets After OFAC Sanctions Update",
-      "url": "https://www.tradingview.com/news/newsbtc:16f953088094b:0-tether-freezes-usdt-in-131-tron-wallets-after-ofac-sanctions-update/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.722Z"
-    },
-    {
-      "id": "e5a0c9fc01ec1e5d26f37f9f59cf2ea70f5d73a3d1cfba640cb44284cc8b4e61",
-      "title": "CointelegraphBitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues",
-      "url": "https://www.tradingview.com/news/cointelegraph:35c5e1fff094b:0-bitcoin-supply-metric-prints-first-buy-signal-since-late-2022-as-bear-market-continues/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.722Z"
-    },
-    {
-      "id": "d3902b69bdf76b9107feb9bc0f9cba9a161d1704163d0838e65e719662851298",
-      "title": "The Block‘Markets find their footing’: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears",
-      "url": "https://www.tradingview.com/news/the_block:7cde50a3f094b:0-markets-find-their-footing-bitcoin-holds-61-000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.722Z"
-    },
-    {
-      "id": "85784c25661a86176752f1edeca671b183cbcc569e5e45ce0cac594f9d877a2c",
-      "title": "CointelegraphZcash’s Ironwood upgrade faces possible delay over infrastructure readiness",
-      "url": "https://www.tradingview.com/news/cointelegraph:98b83ad18094b:0-zcash-s-ironwood-upgrade-faces-possible-delay-over-infrastructure-readiness/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-03T12:30:13.722Z"
+      "scraped_at": "2026-07-03T14:57:58.260Z"
     }
   ]
 }
