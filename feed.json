@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-07-04T23:45:46.369Z",
-  "total": 16,
+  "generated_at": "2026-07-05T03:58:19.545Z",
+  "total": 15,
   "items": [
+    {
+      "id": "9cf9124beceb326568ae19889293080bf7bff54269964f674724d5c0fb73f184",
+      "title": "CointelegraphVitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
+      "url": "https://www.tradingview.com/news/cointelegraph:929d867ef094b:0-vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-strawmap/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "42e5ec0aa10695140720108ddec9bd17fd78f3102fa70bffd804a9c19fdde34a",
+      "title": "Binance NewsFabric Foundation Launches ROBO Governance System With Snapshot Voting",
+      "url": "https://www.tradingview.com/news/binance_news:20ed1ba38094b:0-fabric-foundation-launches-robo-governance-system-with-snapshot-voting/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "50773fdc8420a47212ff8deda6fb599f4119bb2eaee7a0d53710ac5c725f3e00",
+      "title": "Binance NewsTrump’s DOGE Ends July 4 as Musk and Saylor Posts Fuel Bitcoin Speculation",
+      "url": "https://www.tradingview.com/news/binance_news:444922919094b:0-trump-s-doge-ends-july-4-as-musk-and-saylor-posts-fuel-bitcoin-speculation/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "4e5df6fecf33350798820d3a1cb51e775ebd7d06cebd6592d8e1de878c2ccd59",
+      "title": "Binance NewsStrategy CEO Phong Le Calls Bitcoin the ‘United States of Money’",
+      "url": "https://www.tradingview.com/news/binance_news:6f66fefde094b:0-strategy-ceo-phong-le-calls-bitcoin-the-united-states-of-money/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "b3aa9ba5cc4711dbd236071f64a007c722d417dfbb5f5566078189bea61fb87e",
+      "title": "Binance NewsHexens Reports Aptos Move VM Vulnerability Found in February and Patched Within Hours",
+      "url": "https://www.tradingview.com/news/binance_news:157d944b9094b:0-hexens-reports-aptos-move-vm-vulnerability-found-in-february-and-patched-within-hours/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "5c2497f648c1b5321d084e1bba3b9f6f6049d91edb1ff8871c898c98414ece9e",
+      "title": "CointelegraphMoonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+      "url": "https://www.tradingview.com/news/cointelegraph:8e67d9711094b:0-moonbeam-to-pivot-from-polkadot-to-base-unveils-ai-agent-framework/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "b7f4e92af33e9676c88c299b83a049f729e450b3c3e8ade7dfb0132d6e811164",
+      "title": "Binance NewsSui Monitoring Reports Public Mainnet TPS Peak Exceeds 6 Million",
+      "url": "https://www.tradingview.com/news/binance_news:afb752cb1094b:0-sui-monitoring-reports-public-mainnet-tps-peak-exceeds-6-million/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "8dcdf8782b67540684b31341314456fa62d7bd42e6e7b79abde50910fe59a69f",
+      "title": "Binance NewsCryptoQuant: Bitcoin Exchange Deposits Near 50,000 BTC Daily as Price Tests $60,000 Support",
+      "url": "https://www.tradingview.com/news/binance_news:a63f9ee0e094b:0-cryptoquant-bitcoin-exchange-deposits-near-50-000-btc-daily-as-price-tests-60-000-support/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "be53ba6fa003a15935844cabbeed1ca2a803d6d69f3cf839fc26fbec983a70c6",
+      "title": "Binance NewsWhale Withdraws 4,942 ETH and 111.5 WBTC From a Centralized Exchange, Monitoring Data Show",
+      "url": "https://www.tradingview.com/news/binance_news:68acb21c3094b:0-whale-withdraws-4-942-eth-and-111-5-wbtc-from-a-centralized-exchange-monitoring-data-show/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "fbbcb10c2207480588531ee49d5771824911c145447ce2c950fdbf7665f2e955",
+      "title": "Binance NewsVitalik Buterin Outlines Multi-Year “Lean Ethereum” Roadmap After Berlin Research Meeting",
+      "url": "https://www.tradingview.com/news/binance_news:0b742dd98094b:0-vitalik-buterin-outlines-multi-year-lean-ethereum-roadmap-after-berlin-research-meeting/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
+    {
+      "id": "e2acfe61f0e34cc23d1816aab327e9b393453abc8b00e0e75e795f90e3653d1e",
+      "title": "The BlockBitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
+      "url": "https://www.tradingview.com/news/the_block:54e083388094b:0-bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-05T03:58:19.542Z"
+    },
     {
       "id": "c57d318e9bbbdf08e159f92be5c4e864595b254b28c6c917bfcd2de0060a4823",
       "title": "CoinMarketCalPyth Network (PYTH) - Arc Partnership - 04 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:3627e5d2a094b:0-pyth-network-pyth-arc-partnership-04-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.365Z"
+      "scraped_at": "2026-07-05T03:58:19.542Z"
     },
     {
       "id": "a018b7d35ac28682a92e7b8abd2eef4cfdda2bebfecdb3369e5ccee042594b14",
       "title": "CoinMarketCalAPEX (APEX) - Fiat Deposits Live - 04 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:4921458c5094b:0-apex-apex-fiat-deposits-live-04-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
+      "scraped_at": "2026-07-05T03:58:19.543Z"
     },
     {
       "id": "a2b24cec8cb1e84f9931bbb562feb3d71716adadb1af95fe6769bd6e2c2b2dc8",
       "title": "CoinMarketCalDUSK (DUSK) - OpenDusk Launch - 04 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:1868f7f25094b:0-dusk-dusk-opendusk-launch-04-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
+      "scraped_at": "2026-07-05T03:58:19.543Z"
     },
     {
       "id": "7c39f864bb9dcae8c98360a492d8d9bebd0a26113bdd752ff70cdb7a4031b120",
       "title": "Dow Jones NewswiresSign up to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260704000717:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "2c343dd0e3d24910c5c0ded02f1653b4d71558747007be21e30ce825a346ee79",
-      "title": "SBeincryptoMicroStrategy CEO Calls Bitcoin ‘United States of Money’",
-      "url": "https://www.tradingview.com/news/beincrypto:d05c99834094b:0-microstrategy-ceo-calls-bitcoin-united-states-of-money/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "7a1d4a554fe2598371a7c82b9b1cc9f3be8e0404f7f1d0aa66eba5d9678b62d7",
-      "title": "The BlockNearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report",
-      "url": "https://www.tradingview.com/news/the_block:d0e1d6c25094b:0-nearly-1-million-wallets-are-down-3-81-billion-on-trump-s-memecoin-report/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "2f4a36dd4207d270693b29be41fc217698da2b31e1bd1d60232051c5d90ee0f7",
-      "title": "CointelegraphKraken lets traders use tokenized stocks as collateral for leveraged trades",
-      "url": "https://www.tradingview.com/news/cointelegraph:e5d906ff6094b:0-kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "f4dd01b7818c211810a65a4d763002fda7178e5f3d0df8aaa72f29b3801288b8",
-      "title": "BeincryptoDOGE Ends, Bitcoin Begins? Musk and Saylor’s July 4 Posts Fuel Speculation",
-      "url": "https://www.tradingview.com/news/beincrypto:7d71512b2094b:0-doge-ends-bitcoin-begins-musk-and-saylor-s-july-4-posts-fuel-speculation/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "71532b822358fb90dcbdde1fda9a15b2071e15ceb4fe2693d656101cfa06ed28",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:d3722fc36094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "d66f5703eaad6a185a1a7fd326eb0e3cf804fe47ea3a98c095639a7d2a1dd899",
-      "title": "CoinpediaGRAM Price Jumps 20% But July Token Unlock Looms Large",
-      "url": "https://www.tradingview.com/news/coinpedia:48f3a8e62094b:0-gram-price-jumps-20-but-july-token-unlock-looms-large/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "ab3e2b2635d7c62a176feda8546264c70d85a795ada132202395088afab1caa6",
-      "title": "CoinMarketCalBand (BAND) - Tokenized Stock Feeds - 04 July 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:6405e4526094b:0-band-band-tokenized-stock-feeds-04-july-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "d09af1a4a3fe6be8844329ae3cfdf4e8c5b677efeff4daf56c0eb744f29fa6ca",
-      "title": "UCoinMarketCalGeneral Event (CRYPTO) - Compute Summit Launch - 18 July 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:dddab0706094b:0-general-event-crypto-compute-summit-launch-18-july-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "40882845f39dc85c8490bce9bf737cf14f04dc48bd28a19dd4f2c5883619c747",
-      "title": "CoinMarketCalOpenServ (SERV) - SERV V2 Reasoning Upgrade - 15 July 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:f237593d3094b:0-openserv-serv-serv-v2-reasoning-upgrade-15-july-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "ab99a19715528df2288e49faf49a7b832f06f2d12fffbc22c32e13337cf54a20",
-      "title": "CointelegraphKalshi hits record June trading volume as World Cup fuels prediction markets",
-      "url": "https://www.tradingview.com/news/cointelegraph:54319df2d094b:0-kalshi-hits-record-june-trading-volume-as-world-cup-fuels-prediction-markets/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "24ac0018b27b3495247293501c35bc84f5edc30499005d44a2eb9cbd30f8e520",
-      "title": "CoinpediaBluechip Crypto Assets Move Together as $1.71 Trillion Market Tests Recovery",
-      "url": "https://www.tradingview.com/news/coinpedia:82cf8302b094b:0-bluechip-crypto-assets-move-together-as-1-71-trillion-market-tests-recovery/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
-    },
-    {
-      "id": "83564c5b19de0780adc6c909db0934cd963c75064ab94f5eea667a6e463feafd",
-      "title": "The BlockAave’s new Monad market tops $100 million in deposits two days after launch",
-      "url": "https://www.tradingview.com/news/the_block:f270951ca094b:0-aave-s-new-monad-market-tops-100-million-in-deposits-two-days-after-launch/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-04T23:45:46.366Z"
+      "scraped_at": "2026-07-05T03:58:19.543Z"
     }
   ]
 }
