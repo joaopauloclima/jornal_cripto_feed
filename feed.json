@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-06T12:53:39.194Z",
+  "generated_at": "2026-07-06T16:24:52.466Z",
   "total": 15,
   "items": [
     {
-      "id": "d3770e53b7042ced8ee7eb41cbcb41c73d8435d31833f78372395c358fd5b1f4",
+      "id": "b09ed1b79071092115ce058b92f1b484dbd74ab4db9310085943378b95f78bd0",
+      "title": "NewsBTCVitalik Buterin Pushes For Ethereum L2 Fee Reform As Wallet Fragmentation Grows",
+      "url": "https://www.tradingview.com/news/newsbtc:a7525dfc1094b:0-vitalik-buterin-pushes-for-ethereum-l2-fee-reform-as-wallet-fragmentation-grows/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-06T16:24:52.462Z"
+    },
+    {
+      "id": "0871a313e5bb9b3e1f102fb8d009c54b13a732769f762152ce11fd527b7bc7d0",
+      "title": "NewsBTC21Shares Solana ETF Filing Turns SOL Into A Crowded Institutional Race",
+      "url": "https://www.tradingview.com/news/newsbtc:a06ca203a094b:0-21shares-solana-etf-filing-turns-sol-into-a-crowded-institutional-race/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-06T16:24:52.462Z"
+    },
+    {
+      "id": "4f2707891f8fa19aad8caae450dd21847f312fcb0f7e3c5e6b62765dbc94ece3",
+      "title": "ReutersChicago Mercantile Exchange replaces law firm in lawsuit against CFTC",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N4380AA:0-chicago-mercantile-exchange-replaces-law-firm-in-lawsuit-against-cftc/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-06T16:24:52.462Z"
+    },
+    {
+      "id": "f01b857bca5ba3e25f187eeb89ff42f057d903bec63b48b2ba5d490c52c54fa5",
+      "title": "The BlockPresident Trump says he’s a ‘big crypto guy,’ while distancing himself from family’s crypto ventures",
+      "url": "https://www.tradingview.com/news/the_block:5e2068e96094b:0-president-trump-says-he-s-a-big-crypto-guy-while-distancing-himself-from-family-s-crypto-ventures/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-06T16:24:52.462Z"
+    },
+    {
+      "id": "c555496e109de63cc91cf74e84b506638cb06d4a086f5725177ced85d47c2fdd",
+      "title": "NewsBTCPaxos BUSD Case Closure Gives Stablecoin Issuers A Rare Regulatory Relief Signal",
+      "url": "https://www.tradingview.com/news/newsbtc:2f4796bc0094b:0-paxos-busd-case-closure-gives-stablecoin-issuers-a-rare-regulatory-relief-signal/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-06T16:24:52.462Z"
+    },
+    {
+      "id": "d72ccab75c6999f31cfc49ddcdbcd31fa283f83f262006a981b85c8556622d15",
+      "title": "NewsBTCMt. Gox Bitcoin Repayments Begin, Bringing A Decade-Old Market Overhang Into Focus",
+      "url": "https://www.tradingview.com/news/newsbtc:5da51bcd0094b:0-mt-gox-bitcoin-repayments-begin-bringing-a-decade-old-market-overhang-into-focus/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-06T16:24:52.462Z"
+    },
+    {
+      "id": "0a0f9a91ab9139eac503eaaf784da5deb3371222a0ab4901693069a7ac1c089c",
+      "title": "CointelegraphBitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
+      "url": "https://www.tradingview.com/news/cointelegraph:5dabb8fbf094b:0-bitcoin-price-falls-up-to-4-on-strategy-btc-sale-as-trader-sees-summer-2022-repeat/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-06T16:24:52.462Z"
+    },
+    {
+      "id": "150d01feb7656129ea43bf2713380ce298ca4e17cb8de1f701f8d9e362dfd032",
+      "title": "dpa-AFXStrategy's Bitcoin Sale Spooks Market Sentiment",
+      "url": "https://www.tradingview.com/news/dpa_afx:b04b5f2fa607d:0-strategy-s-bitcoin-sale-spooks-market-sentiment/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-06T16:24:52.462Z"
+    },
+    {
+      "id": "51eed44a60fc6ba83f8ae1ecfd9e60a14aa40fed36ab52911f2f32da4535f1c7",
+      "title": "NewsBTCBinance MiCA Stablecoin Restrictions Show Europe’s Crypto Rulebook Is Now Real",
+      "url": "https://www.tradingview.com/news/newsbtc:e11ef7afb094b:0-binance-mica-stablecoin-restrictions-show-europe-s-crypto-rulebook-is-now-real/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-06T16:24:52.463Z"
+    },
+    {
+      "id": "1a96b9ff9143ea0b4d657472a68255c0dc629a10220de224b1e9df3fc20223ce",
       "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260706003283:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260706004396:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
+      "scraped_at": "2026-07-06T16:24:52.463Z"
     },
     {
-      "id": "cb17cb4c64010743163921caf5dbb8496c3862f99c2b2b83bb5ae8ee7daf83e8",
-      "title": "PR NewswireBitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.74 Million Tokens, and Total Crypto and Total Cash Holdings of $11.1 Billion",
-      "url": "https://www.tradingview.com/news/prnewswire:f8a8a896c65de:0-bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-74-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-1-billion/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
-    },
-    {
-      "id": "49521900c09ae7abff26d3dbd0672aadb4ad623f701e1ae80c6ddd5c3bb33d2b",
-      "title": "The BlockStrategy sells 3,588 BTC for $216 million, with total bitcoin holdings still underwater",
-      "url": "https://www.tradingview.com/news/the_block:d052d0a54094b:0-strategy-sells-3-588-btc-for-216-million-with-total-bitcoin-holdings-still-underwater/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
-    },
-    {
-      "id": "943c210b8d3fbdb012a6c25005fc79ba2f789eeec6f0e707b86c95ba5caeaedc",
-      "title": "CointelegraphBelgian regulator flags six unauthorized crypto providers after MiCA deadline",
-      "url": "https://www.tradingview.com/news/cointelegraph:9c523fff5094b:0-belgian-regulator-flags-six-unauthorized-crypto-providers-after-mica-deadline/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
-    },
-    {
-      "id": "ed1fc0ccbd53e4e41eeb685ca56224d3fc4185afe12c1092df6f51c2cf00e04d",
-      "title": "TradingViewKey facts: Grayscale 847K BTC; Citi cuts to $82K; ETF flows drive BTC",
-      "url": "https://www.tradingview.com/news/tradingview:2c279bc683392:0-key-facts-grayscale-847k-btc-citi-cuts-to-82k-etf-flows-drive-btc/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
-    },
-    {
-      "id": "af4582248094fd84a68fd514c5a8875c3594fbd233b002d22bcbb70d5110ab96",
-      "title": "BeincryptoMicroStrategy Sold 7x More Bitcoin Than Reports Suggested",
-      "url": "https://www.tradingview.com/news/beincrypto:3f9a2a3c9094b:0-microstrategy-sold-7x-more-bitcoin-than-reports-suggested/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
-    },
-    {
-      "id": "4fabf269fe309581375592a2bed44bb5d336c26efb091037922d741c19ad2bb9",
-      "title": "dpa-AFXGlobal Market Sentiment Improves",
-      "url": "https://www.tradingview.com/news/dpa_afx:6f5f8185640f8:0-global-market-sentiment-improves/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
-    },
-    {
-      "id": "09e0d05597504e85770615f17e189f10325e3fbcd76dde6824fc689a7b93272f",
+      "id": "f7ba0dd78822ad4928093a9af944495306c3c50e8f87dcce77150833f90acacd",
       "title": "Dow Jones NewswiresSign up to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260706002506:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260706004371:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
+      "scraped_at": "2026-07-06T16:24:52.463Z"
     },
     {
-      "id": "283dd421e329521ab4ff36f5339c6d616dc06835700dba374302729b1569b45f",
-      "title": "CoinpediaTop Altcoins To Watch As ‘Altcoin Season Is Dead’ Narrative Grows",
-      "url": "https://www.tradingview.com/news/coinpedia:19635c5bb094b:0-top-altcoins-to-watch-as-altcoin-season-is-dead-narrative-grows/",
+      "id": "c441c88cd27782a8941e3c2a4658b0422f1e714f7d1bbe7a2080c0b367eb6252",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260706004349:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
+      "scraped_at": "2026-07-06T16:24:52.463Z"
     },
     {
-      "id": "ec0322629d325d77f7a7eb164e9637a18812209cef16716c74b2259db9e624e7",
-      "title": "TradingViewBTC/USD: Bitcoin Tests Bears’ Nerves with Sudden Sprint to $64,000. Can It Last?",
-      "url": "https://www.tradingview.com/news/tradingview:3637dd18d094b:0-btc-usd-bitcoin-tests-bears-nerves-with-sudden-sprint-to-64-000-can-it-last/",
+      "id": "1f26594da5ce06b63efcd88bc039877bdd5e931aa52034e36e55fe5df4d2bc97",
+      "title": "99BitcoinsCardano Whales Accumulate as 14,783 New Wallets Join Post-Selloff",
+      "url": "https://www.tradingview.com/news/99Bitcoins:9bccabea3094b:0-cardano-whales-accumulate-as-14-783-new-wallets-join-post-selloff/",
       "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
+      "scraped_at": "2026-07-06T16:24:52.463Z"
     },
     {
-      "id": "ab36bf7476da4cb320edf26529e6e6671d1d99ffa2b359a430b481fe4408d212",
-      "title": "The Block‘Any signs of life?’ Bernstein holds ‘ambitious’ $150K year-end bitcoin target despite 54% drawdown",
-      "url": "https://www.tradingview.com/news/the_block:17aa2f360094b:0-any-signs-of-life-bernstein-holds-ambitious-150k-year-end-bitcoin-target-despite-54-drawdown/",
+      "id": "49e03a9f23535f7bc3c96c39b5b611931ce5c0f0a1348cc23a328bfed4168382",
+      "title": "NewsBTCSony Crypto Exchange Push Moves Japan’s Digital Asset Market Into A New Phase",
+      "url": "https://www.tradingview.com/news/newsbtc:49c7ceae5094b:0-sony-crypto-exchange-push-moves-japan-s-digital-asset-market-into-a-new-phase/",
       "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
+      "scraped_at": "2026-07-06T16:24:52.463Z"
     },
     {
-      "id": "12f15a0097bd916a4e5a3469e8ad873b7bbead2cf4d5ebd958c8e77114a0366d",
-      "title": "Cointelegraph$60.4K Becomes 'most important area': Five things to know in Bitcoin this week",
-      "url": "https://www.tradingview.com/news/cointelegraph:da7fd60e3094b:0-60-4k-becomes-most-important-area-five-things-to-know-in-bitcoin-this-week/",
+      "id": "11079ec166644e1f92a807e7fa776607084356252158ece9d2412265a5b6caa0",
+      "title": "Dow Jones NewswiresSign up to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260706004281:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
-    },
-    {
-      "id": "ff68f6dd65014370d8358166a0fdecd02eaa63b3720dd59f3fd5b24cd789c89c",
-      "title": "CoinpediaBitcoin Price at a Crossroads: Is the Bottom In or Is One More Dip Coming?",
-      "url": "https://www.tradingview.com/news/coinpedia:56f66bafd094b:0-bitcoin-price-at-a-crossroads-is-the-bottom-in-or-is-one-more-dip-coming/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
-    },
-    {
-      "id": "e4b23b97c3bb32c9932398fcd9418251ba3a805ad65ba3ce0be3ecb11c6eccb7",
-      "title": "BeincryptoRipple’s MiCA Win Raises a Hard Question for XRP",
-      "url": "https://www.tradingview.com/news/beincrypto:169284818094b:0-ripple-s-mica-win-raises-a-hard-question-for-xrp/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
-    },
-    {
-      "id": "b18201bc948362fe4ed1c627a30e0f7cb829774810f5b7a2f758497a6ae6d07a",
-      "title": "ACCESS NewswireSign up to read this news",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-07-06:newsml_ACSXnZgMa:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-06T12:53:39.191Z"
+      "scraped_at": "2026-07-06T16:24:52.463Z"
     }
   ]
 }
