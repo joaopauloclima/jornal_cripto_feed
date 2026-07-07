@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-07T16:35:16.052Z",
+  "generated_at": "2026-07-07T18:51:04.405Z",
   "total": 15,
   "items": [
+    {
+      "id": "1b8ec90960869312a28cda3718b9a01076c219c028a21ff8169257f424cb68bd",
+      "title": "The BlockZEC jumps 12% as Zcash nears mathematical proof against hidden counterfeit bugs",
+      "url": "https://www.tradingview.com/news/the_block:ad088b333094b:0-zec-jumps-12-as-zcash-nears-mathematical-proof-against-hidden-counterfeit-bugs/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-07T18:51:04.400Z"
+    },
+    {
+      "id": "57ef6c5879830b686afe2772c3a657051b4a3b547cd952431a846dba3fde2785",
+      "title": "CointelegraphUSDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
+      "url": "https://www.tradingview.com/news/cointelegraph:7121c5148094b:0-usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-07T18:51:04.400Z"
+    },
+    {
+      "id": "5e5f7bbc2d3d011f576fe80552c6626b4a22fcb1d6ba938268cab07f454eec00",
+      "title": "StocktwitsMSTR, BMNR Stocks Defy Stock Market Slump – COIN Drops Despite Upgrade With 20% Upside",
+      "url": "https://www.tradingview.com/news/stocktwits:cb2169c78094b:0-mstr-bmnr-stocks-defy-stock-market-slump-coin-drops-despite-upgrade-with-20-upside/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-07T18:51:04.400Z"
+    },
+    {
+      "id": "58616f77c16efd4bc7c9794f8083ee7ac158ce5c9e1dc3cac3ba2a53796e5488",
+      "title": "ReutersKOR Protocol Announces $7.5 Mln Series A At $100 Mln Valuation",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4390QC:0-kor-protocol-announces-7-5-mln-series-a-at-100-mln-valuation/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-07T18:51:04.400Z"
+    },
+    {
+      "id": "2df3efb47dd6219647a55608535cfc2ebe14062890d905f65536cee7bcd5e918",
+      "title": "The BlockSBI Holdings is sole investor in crypto platform EDX Markets’ $76 million Series C",
+      "url": "https://www.tradingview.com/news/the_block:77f237ed1094b:0-sbi-holdings-is-sole-investor-in-crypto-platform-edx-markets-76-million-series-c/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-07T18:51:04.400Z"
+    },
+    {
+      "id": "72aac8d7b14c2a300dc2cba5c272178e17f8cb16f5b313fd0a91849d2a77fd0d",
+      "title": "StocktwitsOndo Joins Perps Race Against Hyperliquid, Coinbase — Allows Tokenized Stocks As Collateral",
+      "url": "https://www.tradingview.com/news/stocktwits:303a98b8e094b:0-ondo-joins-perps-race-against-hyperliquid-coinbase-allows-tokenized-stocks-as-collateral/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-07T18:51:04.400Z"
+    },
+    {
+      "id": "add9e4b0eb25e6efdee3d2a83413e5b96e613c7f942e0b328d410095a048f050",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260707005834:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-07T18:51:04.400Z"
+    },
+    {
+      "id": "89ee5ec625236b5270a49f37e5e6b81fa18cd3449c07d440ac380d5e4b818d62",
+      "title": "BeincryptoBitcoin Mining Stocks Sink 20% – How Did BTC Price Avoid the Damage?",
+      "url": "https://www.tradingview.com/news/beincrypto:a537eca31094b:0-bitcoin-mining-stocks-sink-20-how-did-btc-price-avoid-the-damage/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-07T18:51:04.400Z"
+    },
+    {
+      "id": "d58de73df9b4bf6df1c1aa11c4009ac2fe5c7a3c26f1e83ae0558637af3622a0",
+      "title": "CointelegraphTether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
+      "url": "https://www.tradingview.com/news/cointelegraph:b6cae0c18094b:0-tether-invests-in-mercado-bitcoin-as-blockchain-finance-expands-in-latin-america/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-07T18:51:04.400Z"
+    },
     {
       "id": "3544a0e968b1f0a667079e4418a66a055fb62aa07cb35ca132d073139bb66e9b",
       "title": "The BlockOndo Finance says tokenized stocks can now be used as collateral for perp trading",
       "url": "https://www.tradingview.com/news/the_block:eb923260e094b:0-ondo-finance-says-tokenized-stocks-can-now-be-used-as-collateral-for-perp-trading/",
       "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.048Z"
+      "scraped_at": "2026-07-07T18:51:04.401Z"
     },
     {
       "id": "915a94c8a8bd1ab9496580dc16505fa59393926dbaf4d4df113c8b81fce105d2",
       "title": "CointelegraphNigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election",
       "url": "https://www.tradingview.com/news/cointelegraph:fcab46c82094b:0-nigel-farage-to-resign-from-uk-parliament-amid-crypto-gift-scandal-will-stand-in-by-election/",
       "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.048Z"
+      "scraped_at": "2026-07-07T18:51:04.401Z"
     },
     {
       "id": "b11b7845f8b93e421abb1967f8fe8b3b9de6180e2477ef98a606580d4b8dd31c",
       "title": "CointelegraphInstitutional crypto exchange EDX lands $76M from SBI Holdings",
       "url": "https://www.tradingview.com/news/cointelegraph:757944982094b:0-institutional-crypto-exchange-edx-lands-76m-from-sbi-holdings/",
       "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.048Z"
+      "scraped_at": "2026-07-07T18:51:04.401Z"
     },
     {
       "id": "3cb628464f995899009a383306df2306b878badca3e332d3fa263baddd6bf149",
       "title": "The BlockSEC plans crypto rule changes for exchanges and broker dealers in 2026 regulatory agenda",
       "url": "https://www.tradingview.com/news/the_block:553268439094b:0-sec-plans-crypto-rule-changes-for-exchanges-and-broker-dealers-in-2026-regulatory-agenda/",
       "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.048Z"
+      "scraped_at": "2026-07-07T18:51:04.401Z"
     },
     {
       "id": "aae67891d3e8f83d407ea8571b5e3e55d07e95a09854b51ba4ac5a0c386e6d32",
       "title": "The Block1kx, Blockchain Capital back $7.5 million KOR Protocol Series A at $100 million valuation",
       "url": "https://www.tradingview.com/news/the_block:29c99f1cc094b:0-1kx-blockchain-capital-back-7-5-million-kor-protocol-series-a-at-100-million-valuation/",
       "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.048Z"
+      "scraped_at": "2026-07-07T18:51:04.401Z"
     },
     {
       "id": "6a65b088eb4c79595705592ed147501c936c3fd220b3a29ff4ce45d793684906",
       "title": "The BlockTether puts $20 million behind Mercado Bitcoin amid Latin America’s tokenization boom",
       "url": "https://www.tradingview.com/news/the_block:0cc2b6e90094b:0-tether-puts-20-million-behind-mercado-bitcoin-amid-latin-america-s-tokenization-boom/",
       "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.048Z"
-    },
-    {
-      "id": "fad9ad629c1b5909e597e7b3489cb3e8db3718921b795ebb26022214c7f8da46",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260707005200:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.048Z"
-    },
-    {
-      "id": "b3bd948fe8ff09ca6113109cf55c6b19071a5dbd805a490ec8a57ef569437c9e",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260707005160:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.048Z"
-    },
-    {
-      "id": "1e6769e0186f56693d9a051a1c19faed8655d645091d55eadffdb831ff48df45",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260707005122:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.049Z"
-    },
-    {
-      "id": "71c1991684549becaa2ec637782c600f9239ea49e90a31c545f8ba2e93739840",
-      "title": "StocktwitsGEMI Stock Falls After Winklevoss’ Crypto Exchange Joins Coinbase, Kraken In Stock Trading Push",
-      "url": "https://www.tradingview.com/news/stocktwits:92fc748df094b:0-gemi-stock-falls-after-winklevoss-crypto-exchange-joins-coinbase-kraken-in-stock-trading-push/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.049Z"
-    },
-    {
-      "id": "b92133a13fe0756361f961a19074f43e8aa33341b39f73d82c8cf65b438c17f9",
-      "title": "CointelegraphBitcoin bulls battle for $63K as Micron stock eyes 10% drop in US chip sell-off",
-      "url": "https://www.tradingview.com/news/cointelegraph:5da6e7df3094b:0-bitcoin-bulls-battle-for-63k-as-micron-stock-eyes-10-drop-in-us-chip-sell-off/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.049Z"
-    },
-    {
-      "id": "b2b80dc5d869efe86e2314a5bceafe893dce3bb30ce6ee31c6245503a02bc265",
-      "title": "The BlockGemini offers 0% stock trading in US as it looks to become ‘all-in-one financial super app’",
-      "url": "https://www.tradingview.com/news/the_block:248985aae094b:0-gemini-offers-0-stock-trading-in-us-as-it-looks-to-become-all-in-one-financial-super-app/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.049Z"
-    },
-    {
-      "id": "7529f62c8a0d8dcf4942ba21a1a5e60f2eaf63330c21e8f9ca014a9569486e95",
-      "title": "CoinpediaAlphractal CEO Warns: Crypto Market Faces Liquidation Risk as Excess Long Positions Raise Correction Fears",
-      "url": "https://www.tradingview.com/news/coinpedia:30093b264094b:0-alphractal-ceo-warns-crypto-market-faces-liquidation-risk-as-excess-long-positions-raise-correction-fears/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.049Z"
-    },
-    {
-      "id": "9ec8eb14d65321939c9c3f27e6b4a4b029b7cedd09cdc287fdecf92c7b8c5443",
-      "title": "IBeincryptoVanguard Spent Years Fighting Crypto, Now It’s Planning for It",
-      "url": "https://www.tradingview.com/news/beincrypto:07999478f094b:0-vanguard-spent-years-fighting-crypto-now-it-s-planning-for-it/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.049Z"
-    },
-    {
-      "id": "f0ec8efdd215777161360f71d9d18cb9b51e6b6758dba625efd1b66c98155dc1",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260707004815:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-07T16:35:16.049Z"
+      "scraped_at": "2026-07-07T18:51:04.401Z"
     }
   ]
 }
