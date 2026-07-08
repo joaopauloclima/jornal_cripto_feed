@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-08T01:13:00.886Z",
+  "generated_at": "2026-07-08T04:52:50.545Z",
   "total": 15,
   "items": [
+    {
+      "id": "c597873bb6bb5b06354edb7c141b8d4c432ea29bbba20d528d00be5b083dc89b",
+      "title": "Crypto BriefingChina launches ballistic missile from submarine in Pacific amid naval drills",
+      "url": "https://www.tradingview.com/news/cryptobriefing:d1d7acf93094b:0-china-launches-ballistic-missile-from-submarine-in-pacific-amid-naval-drills/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.541Z"
+    },
+    {
+      "id": "4bf55d03f89d6214a0b4c074e6616378613eca6f10bdd0af9e1fa1ef9f127698",
+      "title": "ReutersOpenAI Says Gpt-5.6 Sol, Along With Terra And Luna, Will Launch Publicly This Thursday",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4390R3:0-openai-says-gpt-5-6-sol-along-with-terra-and-luna-will-launch-publicly-this-thursday/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.541Z"
+    },
+    {
+      "id": "4a24c46acdf1392a57e41c2dc1133b0d5adce0ebc78d6926ecddbeef450dd214",
+      "title": "CointelegraphSecret Network cites AI exploit risks in proposed Arbitrum move",
+      "url": "https://www.tradingview.com/news/cointelegraph:981767689094b:0-secret-network-cites-ai-exploit-risks-in-proposed-arbitrum-move/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "aadeabe31d08e128498ba4f44d2f0e007f318083d2e571b3e171feae0eb380ad",
+      "title": "CointelegraphCFTC charges commodity, crypto pool operator with $14M fraud",
+      "url": "https://www.tradingview.com/news/cointelegraph:4ba5b11b5094b:0-cftc-charges-commodity-crypto-pool-operator-with-14m-fraud/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "65127c332b1d4016ed4e6054015ce83faae75a27ac51c1a22f0779244eceedc4",
+      "title": "CointelegraphStrike launches ‘volatility-proof’ Bitcoin loans amid bear market, but at a cost",
+      "url": "https://www.tradingview.com/news/cointelegraph:1211ed037094b:0-strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-a-cost/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "22333ce736123264c133f0e23e68fc0b120220114af8fe1745fc5c24d89fbe3e",
+      "title": "BeincryptoMichael Saylor Reveals the One Metric Keeping MicroStrategy’s Bitcoin Play Sustainable",
+      "url": "https://www.tradingview.com/news/beincrypto:0da93819e094b:0-michael-saylor-reveals-the-one-metric-keeping-microstrategy-s-bitcoin-play-sustainable/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "8393ece45001c8d480e4b4b2c9979b745295c1c8df54a2ead006062bb14e6c73",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260707008533:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "e92690c3b1ec414e2ddfebe6774278433614d68caaeada6d0d02e76bcc09419f",
+      "title": "Binance NewsJustin Sun Says BitTorrent Has Completed the BTTC Bridge Sunset Program",
+      "url": "https://www.tradingview.com/news/binance_news:4091477d3094b:0-justin-sun-says-bittorrent-has-completed-the-bttc-bridge-sunset-program/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "66debddf63eaf98ad4a4eb69079791ad803b1f17b2374cf920e690e3b5340a0d",
+      "title": "Binance NewsEthereum Foundation Developer Relations Member Sophia Dew Says This Week Is Her Last Full-Time Week",
+      "url": "https://www.tradingview.com/news/binance_news:c536d636b094b:0-ethereum-foundation-developer-relations-member-sophia-dew-says-this-week-is-her-last-full-time-week/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "e40cf79098a438629f8c5b9f6f5e027428b188118a47440adf92d6e78878b596",
+      "title": "Binance NewsEthereum Bull James Fickel Stakes 20,000 ETH, On-Chain Data Shows",
+      "url": "https://www.tradingview.com/news/binance_news:72f5096dd094b:0-ethereum-bull-james-fickel-stakes-20-000-eth-on-chain-data-shows/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "8d7c1e125da9bde9c4ecbc77dfceb148dc3bf9718d41b42cda97abbdd2d0ead8",
+      "title": "Binance NewsNEAR Protocol Launches Confidential Intents for Private Transactions via Intents API",
+      "url": "https://www.tradingview.com/news/binance_news:8b96f002b094b:0-near-protocol-launches-confidential-intents-for-private-transactions-via-intents-api/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "0c04da67ef444bcae1856c22d578f82ad0d46cea81ec290b772fb90e9a36240e",
+      "title": "Binance NewsGalaxy Securities: ‘Token Factory’ Model May Lift Profitability for AI Compute Lessors",
+      "url": "https://www.tradingview.com/news/binance_news:8dae8d2f3094b:0-galaxy-securities-token-factory-model-may-lift-profitability-for-ai-compute-lessors/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "6a395435b82efadc3b6611e9235522e3f247ad4bc44e180b8742fe99abc6a6b8",
+      "title": "CoinpediaSEC Schedules Urgent Crypto Meeting to Clarify Regulations",
+      "url": "https://www.tradingview.com/news/coinpedia:fb4885593094b:0-sec-schedules-urgent-crypto-meeting-to-clarify-regulations/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
+    {
+      "id": "4fe50ecafa44f36d816eb0b079a4713f6881ba9625c284a826d9c8558524f5c5",
+      "title": "Binance NewsHyperliquid (HYPE) Rises 4.4% as Bulls Eye Third Breakout Above $76.70 High",
+      "url": "https://www.tradingview.com/news/binance_news:e0a228ad1094b:0-hyperliquid-hype-rises-4-4-as-bulls-eye-third-breakout-above-76-70-high/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T04:52:50.542Z"
+    },
     {
       "id": "c2583618bf05db509846cb39ff1c0c82a9d0e1ba4dca0240c067b5b762837c60",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:6e19c3d23094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.882Z"
-    },
-    {
-      "id": "fceb131c0800f604f7dbf2abe5b1a63b6ef15f0a4920a785eaad3a4d48dc80a5",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:d81213966094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.882Z"
-    },
-    {
-      "id": "124a6a3c9e127dd07dbf9f49aa155dc4aca0e65c7269eb8e554e8f2088ab700e",
-      "title": "CointelegraphSEC crypto rule changes are high on its 2026 agenda",
-      "url": "https://www.tradingview.com/news/cointelegraph:f49b00fa7094b:0-sec-crypto-rule-changes-are-high-on-its-2026-agenda/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.882Z"
-    },
-    {
-      "id": "5300fb86e2862578c492f23c6fd1be0299226b69ef2169cbbe1ea8d110abb7dc",
-      "title": "The BlockKraken wins $22 million arbitration against auditor Mazars for ditching the firm during Operation Choke Point 2.0",
-      "url": "https://www.tradingview.com/news/the_block:a2306eef3094b:0-kraken-wins-22-million-arbitration-against-auditor-mazars-for-ditching-the-firm-during-operation-choke-point-2-0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.882Z"
-    },
-    {
-      "id": "db9ae7761e6b332f13ee60fbf5ef4c7fdc9a85c547636e42b226375fd0ffc72a",
-      "title": "BeincryptoNew Hampshire Bitcoin Bond Nears Final Vote, But There is a Catch",
-      "url": "https://www.tradingview.com/news/beincrypto:4e3e53045094b:0-new-hampshire-bitcoin-bond-nears-final-vote-but-there-is-a-catch/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.882Z"
-    },
-    {
-      "id": "fa62de40ffa93698cce165d5b472537ea924063bd83f0480e324c017243344f2",
-      "title": "CointelegraphEther climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost",
-      "url": "https://www.tradingview.com/news/cointelegraph:2f4320c15094b:0-ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.882Z"
-    },
-    {
-      "id": "1fbbdf1a0840d54ded89fd768c9ce43aad21fcf372db4888fe32939f2ed41a8c",
-      "title": "The BlockCFTC charges North Carolina man over alleged $14 million crypto, futures fraud",
-      "url": "https://www.tradingview.com/news/the_block:ff644c49b094b:0-cftc-charges-north-carolina-man-over-alleged-14-million-crypto-futures-fraud/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.882Z"
-    },
-    {
-      "id": "c04e62447e43b86e35222299cd2f3792657744551eccd7f3aa6a3593f66ecb4f",
-      "title": "CointelegraphVanguard seeks digital assets chief after years of crypto skepticism",
-      "url": "https://www.tradingview.com/news/cointelegraph:1a77b5ddb094b:0-vanguard-seeks-digital-assets-chief-after-years-of-crypto-skepticism/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.882Z"
-    },
-    {
-      "id": "b4d8229a522e15db1fde1b1ffa175b394ddd0865250a2e0694dd6913a19268d7",
-      "title": "The BlockJack Mallers’ Strike launches ‘volatility-proof’ bitcoin loans built to protect against liquidation",
-      "url": "https://www.tradingview.com/news/the_block:7b2d3f891094b:0-jack-mallers-strike-launches-volatility-proof-bitcoin-loans-built-to-protect-against-liquidation/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.883Z"
-    },
-    {
-      "id": "67c0f0b6649ee9dc61045f07f5af4750e38be8d6d4d5142b320ff78ab0b64b3c",
-      "title": "GuruFocusTrump's $1.4 Billion Crypto Haul Draws Fresh Investor Scrutiny",
-      "url": "https://www.tradingview.com/news/gurufocus:8f2fb7bb5094b:0-trump-s-1-4-billion-crypto-haul-draws-fresh-investor-scrutiny/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.883Z"
-    },
-    {
-      "id": "5f9897c43b8ce60e5267ab2917092ba50f91f2567040de1f24285aad7661d057",
-      "title": "CoinpediaTelegram-linked TAC Token Plummets 90% in 15 Minutes: What Happened?",
-      "url": "https://www.tradingview.com/news/coinpedia:d264f78e7094b:0-telegram-linked-tac-token-plummets-90-in-15-minutes-what-happened/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.883Z"
-    },
-    {
-      "id": "84faa6bebf50c2e4fa6a937aba700efc247214e961285186add0e246c2ffe7b3",
-      "title": "CointelegraphKraken wins $22M arbitration against former auditor Mazars",
-      "url": "https://www.tradingview.com/news/cointelegraph:37e8f5b59094b:0-kraken-wins-22m-arbitration-against-former-auditor-mazars/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.883Z"
-    },
-    {
-      "id": "3198a185d2ebf11e01206ab0ee464f2344ea1660448f0a8887c8bc8bc19b1716",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260707006351:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.883Z"
-    },
-    {
-      "id": "c4e4754549eadad844eabea7b3395dfdabb341e36648846bbe1db373ac6374a5",
-      "title": "CoinpediaZcash (ZEC) Price Explodes 10% as Social Activity Spikes—Will the Rally Continue?",
-      "url": "https://www.tradingview.com/news/coinpedia:631b53077094b:0-zcash-zec-price-explodes-10-as-social-activity-spikes-will-the-rally-continue/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.883Z"
-    },
-    {
-      "id": "00aceb1bdda4e3b793d4c4db777860ccf12e457ed9ed2ed7a5d98d8dff70e147",
-      "title": "CoinpediaSEC Commissioner Reveals What Happens Inside the Commission If CLARITY Act Passes",
-      "url": "https://www.tradingview.com/news/coinpedia:cbeec8317094b:0-sec-commissioner-reveals-what-happens-inside-the-commission-if-clarity-act-passes/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T01:13:00.883Z"
+      "scraped_at": "2026-07-08T04:52:50.542Z"
     }
   ]
 }
