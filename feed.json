@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-07-08T16:21:27.695Z",
-  "total": 14,
+  "generated_at": "2026-07-08T18:07:57.294Z",
+  "total": 15,
   "items": [
+    {
+      "id": "38aca937f8ecbc45574fe50ee1c73a54e5cad83a33f6ab57dd4f724f4701e5bc",
+      "title": "StocktwitsOil Price Surge Tests Bitcoin’s Bottoming Process Amid Multi-Million Dollar Capital Flush",
+      "url": "https://www.tradingview.com/news/stocktwits:77722bcf4094b:0-oil-price-surge-tests-bitcoin-s-bottoming-process-amid-multi-million-dollar-capital-flush/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "34143c9500815fd077d77f3e5b07694640b28b804baaf02370d951f64796eee5",
+      "title": "CointelegraphAdam Back’s Bitcoin treasury company seeks new terms with Cantor for SPAC merger",
+      "url": "https://www.tradingview.com/news/cointelegraph:379446235094b:0-adam-back-s-bitcoin-treasury-company-seeks-new-terms-with-cantor-for-spac-merger/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "60f6d279a7ffeec96ec89b609bd304e77712038b3f3d3349ad3300b57f2853d9",
+      "title": "CointelegraphStablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research",
+      "url": "https://www.tradingview.com/news/cointelegraph:3da4e4192094b:0-stablecoin-settled-tradfi-perpetual-trading-tops-1-1t-binance-research/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "31e998552c12030eb218ddde7c8183a6f7d7f3685a8a94015d5b899c0a5245de",
+      "title": "CointelegraphBank of England governor denies Farage lobbying swayed CBDC policy: Report",
+      "url": "https://www.tradingview.com/news/cointelegraph:5431dd434094b:0-bank-of-england-governor-denies-farage-lobbying-swayed-cbdc-policy-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "20b3bc715a23e1614a6a1f51052257560389c80e7d7f77a81efd20fb02017a8e",
+      "title": "The BlockParadigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics",
+      "url": "https://www.tradingview.com/news/the_block:bc2a05a88094b:0-paradigm-raises-1-2-billion-fourth-fund-expanding-beyond-crypto-into-ai-and-robotics/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "4e7faba598f1a92b62084103470949894951b5fb393d6e1477409236cc23a419",
+      "title": "ReutersBinance To Cooperate Less On Crypto Cases, Justice Department Warns Staff In Memo - The Information",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43A13Q:0-binance-to-cooperate-less-on-crypto-cases-justice-department-warns-staff-in-memo-the-information/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "100681ad1bb7d2263c90e216e5cafeb2b189ce45fdc69a086cf7ae17818ca2b6",
+      "title": "StocktwitsRipple CEO’s Kansas Roots Lead To Landmark Five-Year XRP Athletics Partnership",
+      "url": "https://www.tradingview.com/news/stocktwits:04341490b094b:0-ripple-ceo-s-kansas-roots-lead-to-landmark-five-year-xrp-athletics-partnership/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "139d0aaba824858bf9545cd6e3f26ab11c441ccf9a0ce5d47c34945bc105e81b",
+      "title": "CoinpediaStablecoin Supply Is Falling And Bitcoin May Be Paying The Price",
+      "url": "https://www.tradingview.com/news/coinpedia:fc13afa70094b:0-stablecoin-supply-is-falling-and-bitcoin-may-be-paying-the-price/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "697d842092d5eaaecdc3193efd17db05053292573f17eee35ec652af1136a543",
+      "title": "FinanceWireGerard McMann Expands Canadian Investor Education Programme with Market Insights and Retirement Planning",
+      "url": "https://www.tradingview.com/news/financewire:70d82bb1a094b:0-gerard-mcmann-expands-canadian-investor-education-programme-with-market-insights-and-retirement-planning/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "3344def70cb5939a53ead6eae754193bb85794b6041342ee06f35e9f4378bb12",
+      "title": "CoinpediaALGO Price Risks Drop to $0.05 Despite Strong On-Chain Growth",
+      "url": "https://www.tradingview.com/news/coinpedia:05378603f094b:0-algo-price-risks-drop-to-0-05-despite-strong-on-chain-growth/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
     {
       "id": "5e322457981f8979f193413bb7e11f446802eb16b6c604d4c673cc747d2754cf",
       "title": "StocktwitsSenator Cynthia Lummis Says US Will Play 'Catch Up' On Crypto Regulation Without CLARITY Act",
       "url": "https://www.tradingview.com/news/stocktwits:09b44ae31094b:0-senator-cynthia-lummis-says-us-will-play-catch-up-on-crypto-regulation-without-clarity-act/",
       "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
+      "scraped_at": "2026-07-08T18:07:57.291Z"
+    },
+    {
+      "id": "af6b54ce0dd4eebb19b7ca6d603a71c544c8cecd36cf85c76babe6c337dfe283",
+      "title": "BeincryptoTop 3 Crypto Treasury Stocks to Watch Near Key Support Levels",
+      "url": "https://www.tradingview.com/news/beincrypto:f7e7e5077094b:0-top-3-crypto-treasury-stocks-to-watch-near-key-support-levels/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-08T18:07:57.291Z"
     },
     {
       "id": "79cf308292d06213a12e50ae35b7ca9a28ebbdc777694d5801d4b69c7d5aec0c",
       "title": "CointelegraphBitcoin slides as Iran ceasefire collapse sees $75 oil on Hormuz blockade threats",
       "url": "https://www.tradingview.com/news/cointelegraph:cd3ec1cb0094b:0-bitcoin-slides-as-iran-ceasefire-collapse-sees-75-oil-on-hormuz-blockade-threats/",
       "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
+      "scraped_at": "2026-07-08T18:07:57.291Z"
     },
     {
       "id": "40036479a66384829e60cd73492f2eceaff8b1432980f65c5e28272b3cd654c0",
       "title": "The BlockEuropean Commission looks to expand MiCA to cover emergence of tokenization, non-EU stablecoin issuers: report",
       "url": "https://www.tradingview.com/news/the_block:3c1d1d9f8094b:0-european-commission-looks-to-expand-mica-to-cover-emergence-of-tokenization-non-eu-stablecoin-issuers-report/",
       "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
+      "scraped_at": "2026-07-08T18:07:57.291Z"
     },
     {
       "id": "ed712dacb0e61e841e970ece37356dd16fbacdbe5450881c433d0a3b904037ef",
       "title": "StocktwitsSpaceX Sparks Bitcoin Speculation With $88 Test Transfer To Coinbase After Six Months Of Wallet Silence",
       "url": "https://www.tradingview.com/news/stocktwits:c8d709761094b:0-spacex-sparks-bitcoin-speculation-with-88-test-transfer-to-coinbase-after-six-months-of-wallet-silence/",
       "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
-    },
-    {
-      "id": "c38508562208b693d7f50c5fc462b3950ae59383c205ea79dd67a30d8b9f2223",
-      "title": "The BlockCardano founding entity EMURGO steps down from Pentad governance role after wallet exploit",
-      "url": "https://www.tradingview.com/news/the_block:2ed16557b094b:0-cardano-founding-entity-emurgo-steps-down-from-pentad-governance-role-after-wallet-exploit/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
-    },
-    {
-      "id": "a2065d4f8e1aae6a8a714210000f6b4d3b84ece50a1ae61391b7bf90d1b62615",
-      "title": "ChainwireStacking DAO Announces stBTC to Bring Liquid Staking to Stacks' Upcoming Bitcoin Staking Release",
-      "url": "https://www.tradingview.com/news/chainwire:c40a80fad094b:0-stacking-dao-announces-stbtc-to-bring-liquid-staking-to-stacks-upcoming-bitcoin-staking-release/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
-    },
-    {
-      "id": "9c97bc7e793045788f8096dadbf4a22b134556bb37ae30cb00a96f4c55115011",
-      "title": "NewsBTCBitcoin ETF Inflows Return As Farside Data Shows Institutions Still Buying The Dip",
-      "url": "https://www.tradingview.com/news/newsbtc:5453fe208094b:0-bitcoin-etf-inflows-return-as-farside-data-shows-institutions-still-buying-the-dip/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
-    },
-    {
-      "id": "cff62a5d49d571dffe0fc7f1116bc5e59e7b394d26bf6863e67b9917e65178ff",
-      "title": "dpa-AFXCryptos Drop Amidst Middle East Geopolitical Shock",
-      "url": "https://www.tradingview.com/news/dpa_afx:66cfa0f5d46cf:0-cryptos-drop-amidst-middle-east-geopolitical-shock/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
-    },
-    {
-      "id": "b6ca5a9efe062bec85dd9244f25c2da790a6077278e31c04f2a0ba8a6d6e1beb",
-      "title": "StocktwitsWULF Stock Soars After Morgan Stanley Price Target Hike Suggests 242% Upside – RIOT Fails to Follow Amid Market Selloff",
-      "url": "https://www.tradingview.com/news/stocktwits:3a91fbe93094b:0-wulf-stock-soars-after-morgan-stanley-price-target-hike-suggests-242-upside-riot-fails-to-follow-amid-market-selloff/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
-    },
-    {
-      "id": "bc873b07416c36bf422ad3c871f1f5ffbf8ebb35123577f77e17d7c911e8a57f",
-      "title": "NewsBTCBitwise Solana ETF Filing Keeps SOL In The Institutional Product Queue",
-      "url": "https://www.tradingview.com/news/newsbtc:1ded985af094b:0-bitwise-solana-etf-filing-keeps-sol-in-the-institutional-product-queue/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
-    },
-    {
-      "id": "bac1e9e5fe0025dd8ef24aed240a78ee0cbb21c28521a2f6dd178fcc75d9d5bc",
-      "title": "ReutersCrypto-focused VC firm Paradigm raises $1.2 billion for AI bets - Bloomberg News",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N43A0KO:0-crypto-focused-vc-firm-paradigm-raises-1-2-billion-for-ai-bets-bloomberg-news/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
-    },
-    {
-      "id": "f5d193d38cde6dc5d3d2abd46f456caddcbf7254e8fcf74e23c7a0e2e3fae121",
-      "title": "StocktwitsWhat Is BNB Chain's New AI Blockchain? Everything To Know About Its Agentic Trading Network",
-      "url": "https://www.tradingview.com/news/stocktwits:3388215cb094b:0-what-is-bnb-chain-s-new-ai-blockchain-everything-to-know-about-its-agentic-trading-network/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.691Z"
-    },
-    {
-      "id": "ea41978015dd8380bcda2f20955be9be1aa53d297a3e64f4d51f953b0f570c0f",
-      "title": "BeincryptoZcash Founding Scientist Challenges Bitcoin’s 21 Million Cap",
-      "url": "https://www.tradingview.com/news/beincrypto:a6895cdf1094b:0-zcash-founding-scientist-challenges-bitcoin-s-21-million-cap/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.692Z"
-    },
-    {
-      "id": "43535f19c6bd592728c3c7ecf5d080b619d305bd27a502f3d070cb86d761a607",
-      "title": "NewsBTCMakerDAO’s SPARK Rollout Plan Shows The Endgame Transition Is Getting More Concrete",
-      "url": "https://www.tradingview.com/news/newsbtc:b0946af86094b:0-makerdao-s-spark-rollout-plan-shows-the-endgame-transition-is-getting-more-concrete/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-08T16:21:27.692Z"
+      "scraped_at": "2026-07-08T18:07:57.291Z"
     }
   ]
 }
