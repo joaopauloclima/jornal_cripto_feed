@@ -1,111 +1,118 @@
 {
-  "generated_at": "2026-07-10T03:50:47.588Z",
-  "total": 15,
+  "generated_at": "2026-07-10T07:41:35.978Z",
+  "total": 16,
   "items": [
+    {
+      "id": "7521b7361abc42c2e7bdd1c96bc018d08563962f54d1f48cb92602bdad240538",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260710001482:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "f39dfcb711dabcb680f9d176510883fc997911522a7f5384ee6d74f859003961",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260710001338:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "638a06330ea982a8ed43c962e578ea8ad0067448cb6ba9763e533fe49755e5ef",
+      "title": "ACCESS NewswireSign up to read this news",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-07-10:newsml_ACSgq1Mta:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "2fb20d94ef6df631938db217c86a957e1d74cec744243049db629f4a60c3eff8",
+      "title": "CointelegraphRobinhood Chain sees over $70M in ETH bridged during first week",
+      "url": "https://www.tradingview.com/news/cointelegraph:31f5e7b60094b:0-robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "cbc75c3ee26033187042c40114d5ab7fff28d579134e1c8dd07b3b0195d8eb5d",
+      "title": "Finance MagnatesFormer US Judge to Step Down as Coinbase’s Legal Chief",
+      "url": "https://www.tradingview.com/news/financemagnates:90a46cb88094b:0-former-us-judge-to-step-down-as-coinbase-s-legal-chief/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "e566d018f1aafaf8b5f12fef14c10a0d9291775f05a0521879caab9902dcddbe",
+      "title": "CoinpediaTop 10 Crypto Coins To Buy in 2026",
+      "url": "https://www.tradingview.com/news/coinpedia:65e012d8e094b:0-top-10-crypto-coins-to-buy-in-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "8382dd0fccd5480dc5b08701b715d9c2194431d3864137decc80df08dac13496",
+      "title": "CointelegraphZcash targets July 28 launch for Ironwood network upgrade",
+      "url": "https://www.tradingview.com/news/cointelegraph:e574a7770094b:0-zcash-targets-july-28-launch-for-ironwood-network-upgrade/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "016cec0261e6258f08211d0d3dd8e3264dc17c4cc24940b0b3a15d234925934b",
+      "title": "Crypto BriefingSpain vs Belgium World Cup quarterfinal becomes a litmus test for crypto fan tokens",
+      "url": "https://www.tradingview.com/news/cryptobriefing:f12d5f567094b:0-spain-vs-belgium-world-cup-quarterfinal-becomes-a-litmus-test-for-crypto-fan-tokens/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "4615c687a0aa18cc735349d020a61b7e28315e18b06ce31b4e5c433c6238f871",
+      "title": "The BlockPolymarket files applications to offer regulated margin trading in US",
+      "url": "https://www.tradingview.com/news/the_block:6e489e705094b:0-polymarket-files-applications-to-offer-regulated-margin-trading-in-us/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "1ab2e91eeb0ac842f6513a8c955cb18518521249e19af4cb1e2e6b33f8237ecc",
+      "title": "BeincryptoCharles Hoskinson Addresses Rumors He Is Quitting Cardano",
+      "url": "https://www.tradingview.com/news/beincrypto:01ccc58b3094b:0-charles-hoskinson-addresses-rumors-he-is-quitting-cardano/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
     {
       "id": "37868d536768fd0ff1b5f89579b81b3474720c58d197baf6a624892a4fabfbf9",
       "title": "CointelegraphHackers tried to backdoor Injective npm package to steal wallet keys",
       "url": "https://www.tradingview.com/news/cointelegraph:532e1c506094b:0-hackers-tried-to-backdoor-injective-npm-package-to-steal-wallet-keys/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
+      "scraped_at": "2026-07-10T07:41:35.975Z"
     },
     {
       "id": "b07d7d886fa428cb7a02e168aa5d62f057e3810ec3ada418309254b0300e9fe1",
       "title": "CointelegraphDeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
       "url": "https://www.tradingview.com/news/cointelegraph:ee481b700094b:0-defi-may-be-quietly-re-rating-given-outperformance-against-bitcoin-bitwise/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
+      "scraped_at": "2026-07-10T07:41:35.975Z"
+    },
+    {
+      "id": "7ea8681b4dc55440acd60206e42ba41cfb288167bde89992dbe158366607347b",
+      "title": "CoinpediaBitwise Updates Top 10 Crypto ETF: HYPE Joins While DOT and AVAX Exit",
+      "url": "https://www.tradingview.com/news/coinpedia:7b411549a094b:0-bitwise-updates-top-10-crypto-etf-hype-joins-while-dot-and-avax-exit/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T07:41:35.975Z"
     },
     {
       "id": "91c591d48df5a135afb6bb472a6ef3eb2e106fc982ba403c8100cd8803b3b47f",
       "title": "Binance NewsHyperliquid Whale Suspected of Continuing Ether Sell-Off After Withdrawing 7,863 ETH",
       "url": "https://www.tradingview.com/news/binance_news:c650f7372094b:0-hyperliquid-whale-suspected-of-continuing-ether-sell-off-after-withdrawing-7-863-eth/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
+      "scraped_at": "2026-07-10T07:41:35.975Z"
     },
     {
       "id": "3fba63c67ca1484fa84800f3e69c621f0f6a0162ad2ca8cc501a1f412bdbb919",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:ce65ed6aa094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
+      "scraped_at": "2026-07-10T07:41:35.975Z"
     },
     {
       "id": "1a982a4b49c4b51d404e27e640070a53a52428acfe86c8ea63613ac182aba11f",
       "title": "Binance NewsEthena Allows Registered Users to Mint and Redeem USDe With USDC for Free",
       "url": "https://www.tradingview.com/news/binance_news:192e077b8094b:0-ethena-allows-registered-users-to-mint-and-redeem-usde-with-usdc-for-free/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "515b1139f8e74cd483e1c8cc9e862bce2a32d74d1e6a759ad137558dab68f4da",
-      "title": "Binance NewsRobinhood Chain Tops Hyperliquid in 24-Hour DEX Trading Volume, DefiLlama Data Show",
-      "url": "https://www.tradingview.com/news/binance_news:1633273ae094b:0-robinhood-chain-tops-hyperliquid-in-24-hour-dex-trading-volume-defillama-data-show/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "0e6933947ae84a3a7c21d5e3aae7f8e60b5ef94029731343a8f7aa704cfdc3b4",
-      "title": "Binance NewsBitMine Buys 20,500 ETH From Galaxy Digital, Lookonchain Says",
-      "url": "https://www.tradingview.com/news/binance_news:c2dd2e465094b:0-bitmine-buys-20-500-eth-from-galaxy-digital-lookonchain-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "33d4f168e9afa5a4b765e7d150ce855a74bf28adf7683f2b2c78c6dee70df76b",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260709009388:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "a0df839d08b879fef725a1aa865d19b3f1542793f6a4b66021e1e507061b7c7b",
-      "title": "Binance NewsLAB Team Burns 10 Million LAB Tokens, Lookonchain Says",
-      "url": "https://www.tradingview.com/news/binance_news:948b45f8e094b:0-lab-team-burns-10-million-lab-tokens-lookonchain-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "22b29583e7895bce2fd26eb77f74d5bac9a05d18b40b8db42480f60c2e7fa756",
-      "title": "Binance NewsSenate Draft of CLARITY Act Merger Could Be Released Next Week, Sources Say",
-      "url": "https://www.tradingview.com/news/binance_news:a70fe74af094b:0-senate-draft-of-clarity-act-merger-could-be-released-next-week-sources-say/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "e5bb68832b9054e53820347d4983ab019a506ad81ea39c9869a900d301ebcde3",
-      "title": "Binance NewsShapeShift Founder Erik Voorhees Stakes 341,700 VVV to Venice, Onchain Lens Reports",
-      "url": "https://www.tradingview.com/news/binance_news:527800c22094b:0-shapeshift-founder-erik-voorhees-stakes-341-700-vvv-to-venice-onchain-lens-reports/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "a933a907e20589eb58822fcd636db120834f7d2b3c3a66721167762d388bb074",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260709009352:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "2118d0e86baa058ebe0a20d98cb7c5e649e1516b9f2e9ff3b3c5e6d09bbc8390",
-      "title": "Binance NewsWhale Continues Taking Profits After Large Gains From Early Token Purchase",
-      "url": "https://www.tradingview.com/news/binance_news:75ff622fe094b:0-whale-continues-taking-profits-after-large-gains-from-early-token-purchase/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "9783556404059b15af762b10f2e7d9a9b37d3afe9e9cbf9c4234dc0d932015dd",
-      "title": "Binance NewsBitwise Strategist Says Bitcoin Bear Market Differs as Institutional Adoption Accelerates",
-      "url": "https://www.tradingview.com/news/binance_news:89f869f9b094b:0-bitwise-strategist-says-bitcoin-bear-market-differs-as-institutional-adoption-accelerates/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
-    },
-    {
-      "id": "892ab758621ab5c0c240e2dc422839c650fd98c0bfcd2e9014f9f5775b7568a7",
-      "title": "The BlockBitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays",
-      "url": "https://www.tradingview.com/news/the_block:b2e94dd86094b:0-bitwise-says-bitcoin-s-floor-is-rising-despite-ai-boom-and-regulatory-delays/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T03:50:47.584Z"
+      "scraped_at": "2026-07-10T07:41:35.975Z"
     }
   ]
 }
