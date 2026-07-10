@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-09T22:08:39.634Z",
+  "generated_at": "2026-07-10T03:50:47.588Z",
   "total": 15,
   "items": [
+    {
+      "id": "37868d536768fd0ff1b5f89579b81b3474720c58d197baf6a624892a4fabfbf9",
+      "title": "CointelegraphHackers tried to backdoor Injective npm package to steal wallet keys",
+      "url": "https://www.tradingview.com/news/cointelegraph:532e1c506094b:0-hackers-tried-to-backdoor-injective-npm-package-to-steal-wallet-keys/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "b07d7d886fa428cb7a02e168aa5d62f057e3810ec3ada418309254b0300e9fe1",
+      "title": "CointelegraphDeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
+      "url": "https://www.tradingview.com/news/cointelegraph:ee481b700094b:0-defi-may-be-quietly-re-rating-given-outperformance-against-bitcoin-bitwise/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "91c591d48df5a135afb6bb472a6ef3eb2e106fc982ba403c8100cd8803b3b47f",
+      "title": "Binance NewsHyperliquid Whale Suspected of Continuing Ether Sell-Off After Withdrawing 7,863 ETH",
+      "url": "https://www.tradingview.com/news/binance_news:c650f7372094b:0-hyperliquid-whale-suspected-of-continuing-ether-sell-off-after-withdrawing-7-863-eth/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "3fba63c67ca1484fa84800f3e69c621f0f6a0162ad2ca8cc501a1f412bdbb919",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:ce65ed6aa094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "1a982a4b49c4b51d404e27e640070a53a52428acfe86c8ea63613ac182aba11f",
+      "title": "Binance NewsEthena Allows Registered Users to Mint and Redeem USDe With USDC for Free",
+      "url": "https://www.tradingview.com/news/binance_news:192e077b8094b:0-ethena-allows-registered-users-to-mint-and-redeem-usde-with-usdc-for-free/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "515b1139f8e74cd483e1c8cc9e862bce2a32d74d1e6a759ad137558dab68f4da",
+      "title": "Binance NewsRobinhood Chain Tops Hyperliquid in 24-Hour DEX Trading Volume, DefiLlama Data Show",
+      "url": "https://www.tradingview.com/news/binance_news:1633273ae094b:0-robinhood-chain-tops-hyperliquid-in-24-hour-dex-trading-volume-defillama-data-show/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "0e6933947ae84a3a7c21d5e3aae7f8e60b5ef94029731343a8f7aa704cfdc3b4",
+      "title": "Binance NewsBitMine Buys 20,500 ETH From Galaxy Digital, Lookonchain Says",
+      "url": "https://www.tradingview.com/news/binance_news:c2dd2e465094b:0-bitmine-buys-20-500-eth-from-galaxy-digital-lookonchain-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "33d4f168e9afa5a4b765e7d150ce855a74bf28adf7683f2b2c78c6dee70df76b",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260709009388:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "a0df839d08b879fef725a1aa865d19b3f1542793f6a4b66021e1e507061b7c7b",
+      "title": "Binance NewsLAB Team Burns 10 Million LAB Tokens, Lookonchain Says",
+      "url": "https://www.tradingview.com/news/binance_news:948b45f8e094b:0-lab-team-burns-10-million-lab-tokens-lookonchain-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "22b29583e7895bce2fd26eb77f74d5bac9a05d18b40b8db42480f60c2e7fa756",
+      "title": "Binance NewsSenate Draft of CLARITY Act Merger Could Be Released Next Week, Sources Say",
+      "url": "https://www.tradingview.com/news/binance_news:a70fe74af094b:0-senate-draft-of-clarity-act-merger-could-be-released-next-week-sources-say/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "e5bb68832b9054e53820347d4983ab019a506ad81ea39c9869a900d301ebcde3",
+      "title": "Binance NewsShapeShift Founder Erik Voorhees Stakes 341,700 VVV to Venice, Onchain Lens Reports",
+      "url": "https://www.tradingview.com/news/binance_news:527800c22094b:0-shapeshift-founder-erik-voorhees-stakes-341-700-vvv-to-venice-onchain-lens-reports/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "a933a907e20589eb58822fcd636db120834f7d2b3c3a66721167762d388bb074",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260709009352:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "2118d0e86baa058ebe0a20d98cb7c5e649e1516b9f2e9ff3b3c5e6d09bbc8390",
+      "title": "Binance NewsWhale Continues Taking Profits After Large Gains From Early Token Purchase",
+      "url": "https://www.tradingview.com/news/binance_news:75ff622fe094b:0-whale-continues-taking-profits-after-large-gains-from-early-token-purchase/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
+    {
+      "id": "9783556404059b15af762b10f2e7d9a9b37d3afe9e9cbf9c4234dc0d932015dd",
+      "title": "Binance NewsBitwise Strategist Says Bitcoin Bear Market Differs as Institutional Adoption Accelerates",
+      "url": "https://www.tradingview.com/news/binance_news:89f869f9b094b:0-bitwise-strategist-says-bitcoin-bear-market-differs-as-institutional-adoption-accelerates/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-10T03:50:47.584Z"
+    },
     {
       "id": "892ab758621ab5c0c240e2dc422839c650fd98c0bfcd2e9014f9f5775b7568a7",
       "title": "The BlockBitwise says bitcoin’s ‘floor is rising’ despite AI boom and regulatory delays",
       "url": "https://www.tradingview.com/news/the_block:b2e94dd86094b:0-bitwise-says-bitcoin-s-floor-is-rising-despite-ai-boom-and-regulatory-delays/",
       "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.628Z"
-    },
-    {
-      "id": "b52ecaede46ae23d4217fe7deea554345b70d24cadfbe50e8467baf303e20f44",
-      "title": "CointelegraphCoinbase chief legal officer to transition to advisory role on July 31",
-      "url": "https://www.tradingview.com/news/cointelegraph:d9c4dd08c094b:0-coinbase-chief-legal-officer-to-transition-to-advisory-role-on-july-31/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.628Z"
-    },
-    {
-      "id": "b366906659a3d2b939c558fafc2225ef42440f46a51eafae9ccd3b2f746915a5",
-      "title": "ReutersCoinbase's top attorney who has led crypto's Washington fight to step down",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N43B0XO:0-coinbase-s-top-attorney-who-has-led-crypto-s-washington-fight-to-step-down/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.628Z"
-    },
-    {
-      "id": "ba93444158c8b6b0a47ec92687aa24260d35937d13bed746f7b9225ea2f27674",
-      "title": "ReutersCoinbase chief legal officer paul grewal is stepping down effective immediately - x post",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N43B0TZ:0-coinbase-chief-legal-officer-paul-grewal-is-stepping-down-effective-immediately-x-post/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.628Z"
-    },
-    {
-      "id": "bbbeee95ec7992ffa34cf447eb64cd0f919fa378390fc612586dacdbfc4966f9",
-      "title": "BeincryptoOver 15 Banks Race to Tokenize Finance, and It Could Affect Bitcoin",
-      "url": "https://www.tradingview.com/news/beincrypto:b9b04f8f8094b:0-over-15-banks-race-to-tokenize-finance-and-it-could-affect-bitcoin/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.628Z"
-    },
-    {
-      "id": "acb0037fbdbff0e6b3af69f62b581fa6288fb2e09cc6759168403ef40376e007",
-      "title": "The BlockEthereum Foundation says AI agents find real bugs, but most are false positives",
-      "url": "https://www.tradingview.com/news/the_block:9bd4cbb35094b:0-ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.628Z"
-    },
-    {
-      "id": "55a78a9e2be9be9a39ec905b42d890952ea670f4a1763a3081ebea6f27b79ee7",
-      "title": "CointelegraphWhite House says it received no Democratic response related to SEC, CFTC vacancies",
-      "url": "https://www.tradingview.com/news/cointelegraph:6170784dd094b:0-white-house-says-it-received-no-democratic-response-related-to-sec-cftc-vacancies/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.628Z"
-    },
-    {
-      "id": "2a6ca7937a1fd6471bfc0ce316c870ec0e92d9dd992e8cf1b23ded5c2a10a594",
-      "title": "The BlockCryptoQuant says bitcoin rebound remains a bear-market recovery, not a trend reversal",
-      "url": "https://www.tradingview.com/news/the_block:459718389094b:0-cryptoquant-says-bitcoin-rebound-remains-a-bear-market-recovery-not-a-trend-reversal/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.628Z"
-    },
-    {
-      "id": "eacc999c495f68414358f3c3f03c585c3bd86f2b03c54f5b7a40176a1faa72f0",
-      "title": "CointelegraphPhantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
-      "url": "https://www.tradingview.com/news/cointelegraph:cec6de406094b:0-phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.628Z"
-    },
-    {
-      "id": "6f92ea45026104748d21dc37312ca8cc183403cc5927d997214323f7d54b50d5",
-      "title": "Finance MagnatesRetail Trading Roared Back in June, but Crypto Missed the Rally",
-      "url": "https://www.tradingview.com/news/financemagnates:f9163b41a094b:0-retail-trading-roared-back-in-june-but-crypto-missed-the-rally/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.629Z"
-    },
-    {
-      "id": "8b083773ba9fc5157511404b3c5a95da666033b160a540ce57b1adcbe7a95197",
-      "title": "BeincryptoWorst Crypto Prank Ever? Viral Prediction Market Pulls Off Shocking Joke",
-      "url": "https://www.tradingview.com/news/beincrypto:ceaf1eacc094b:0-worst-crypto-prank-ever-viral-prediction-market-pulls-off-shocking-joke/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.629Z"
-    },
-    {
-      "id": "586057603d7d981efe0e3baf6f3c304b8b2b8c6f0fbae55a93ce9e6cb40b2633",
-      "title": "StocktwitsTom Lee Flags 'Interesting' Ethereum Levels To Watch With Altcoin 60% Below Record High",
-      "url": "https://www.tradingview.com/news/stocktwits:d43f76402094b:0-tom-lee-flags-interesting-ethereum-levels-to-watch-with-altcoin-60-below-record-high/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.629Z"
-    },
-    {
-      "id": "217c63f7f03d6a4f5bc1dddb5408ed74ab9ceb1162cac7ed749696bfd3c93585",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260709007050:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.629Z"
-    },
-    {
-      "id": "b3942b95e0ef7a8dc22f2c87a49b436884efa246dd2d5ac48904b221efad92bc",
-      "title": "The BlockWhite House defends Trump’s regulatory appointments as CFTC vacancies complicate crypto bill push",
-      "url": "https://www.tradingview.com/news/the_block:581e5e5ff094b:0-white-house-defends-trump-s-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.629Z"
-    },
-    {
-      "id": "683358ec199ed0b859ffea01fe399c6ae415a9697757140ea4662fb7200f4d93",
-      "title": "StocktwitsGLXY Stock Gains, But Retail Traders Stay Bearish Despite AI Data Center Progress",
-      "url": "https://www.tradingview.com/news/stocktwits:17cb639f2094b:0-glxy-stock-gains-but-retail-traders-stay-bearish-despite-ai-data-center-progress/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-09T22:08:39.629Z"
+      "scraped_at": "2026-07-10T03:50:47.584Z"
     }
   ]
 }
