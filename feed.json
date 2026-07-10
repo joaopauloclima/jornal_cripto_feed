@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-07-10T07:41:35.978Z",
-  "total": 16,
+  "generated_at": "2026-07-10T10:38:38.180Z",
+  "total": 15,
   "items": [
     {
-      "id": "7521b7361abc42c2e7bdd1c96bc018d08563962f54d1f48cb92602bdad240538",
+      "id": "a5598e787c86e7e9a3d846db2de885c3d2af5f35906849f7b8429e402addab23",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260710001482:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260710002583:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "f39dfcb711dabcb680f9d176510883fc997911522a7f5384ee6d74f859003961",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260710001338:0/",
+      "id": "70b3637b0b473282f866a4f830c8ad376f98029b93b60f08a8a0a431b6cec410",
+      "title": "ReutersTimeless Resources Clarifies Tokenisation Involves Units Of Trust Holding Physical Silver Assets",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43C0EC:0-timeless-resources-clarifies-tokenisation-involves-units-of-trust-holding-physical-silver-assets/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "638a06330ea982a8ed43c962e578ea8ad0067448cb6ba9763e533fe49755e5ef",
-      "title": "ACCESS NewswireSign up to read this news",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-07-10:newsml_ACSgq1Mta:0/",
+      "id": "0438ceb1374d2f8c78d663b412c76ee2a2e5ad1c61eb181320072b2efc5dc1ad",
+      "title": "CoindarWanchain Released Weekly Report",
+      "url": "https://www.tradingview.com/news/coindar:246fac672094b:0-wanchain-released-weekly-report/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "2fb20d94ef6df631938db217c86a957e1d74cec744243049db629f4a60c3eff8",
-      "title": "CointelegraphRobinhood Chain sees over $70M in ETH bridged during first week",
-      "url": "https://www.tradingview.com/news/cointelegraph:31f5e7b60094b:0-robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week/",
+      "id": "5f89c5d51724ae519dbdf3b22c554694abf1d7433ecc123ecd67f1a04f7fbff1",
+      "title": "The BlockRevolut integrates its crypto exchange with AI assistants as agentic trading spreads",
+      "url": "https://www.tradingview.com/news/the_block:305aba349094b:0-revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "cbc75c3ee26033187042c40114d5ab7fff28d579134e1c8dd07b3b0195d8eb5d",
-      "title": "Finance MagnatesFormer US Judge to Step Down as Coinbase’s Legal Chief",
-      "url": "https://www.tradingview.com/news/financemagnates:90a46cb88094b:0-former-us-judge-to-step-down-as-coinbase-s-legal-chief/",
+      "id": "cdb9d7b9ef59736336f33db6250649a866400750a348271c75f017f35e57be85",
+      "title": "ChainwireMEXC Launches VVIP Futures Loss Coverage Program 2.0 with 1,000,000 USDT Prize Pool",
+      "url": "https://www.tradingview.com/news/chainwire:833670f32094b:0-mexc-launches-vvip-futures-loss-coverage-program-2-0-with-1-000-000-usdt-prize-pool/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "e566d018f1aafaf8b5f12fef14c10a0d9291775f05a0521879caab9902dcddbe",
-      "title": "CoinpediaTop 10 Crypto Coins To Buy in 2026",
-      "url": "https://www.tradingview.com/news/coinpedia:65e012d8e094b:0-top-10-crypto-coins-to-buy-in-2026/",
+      "id": "2394aa182d9ba40609d11bba11254b921e52c9d3a99eaf5d9ceeb9aaaefb26b4",
+      "title": "CointelegraphMetaplanet explores Bitcoin-backed digital credit with JPYC in Japan",
+      "url": "https://www.tradingview.com/news/cointelegraph:8390748cd094b:0-metaplanet-explores-bitcoin-backed-digital-credit-with-jpyc-in-japan/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "8382dd0fccd5480dc5b08701b715d9c2194431d3864137decc80df08dac13496",
-      "title": "CointelegraphZcash targets July 28 launch for Ironwood network upgrade",
-      "url": "https://www.tradingview.com/news/cointelegraph:e574a7770094b:0-zcash-targets-july-28-launch-for-ironwood-network-upgrade/",
+      "id": "0973360ea2967437e127d41a0fd1ebc7e8d27cca5e5f6d0ba2f32f69945242fe",
+      "title": "InvezzUniswap jumps 5% as one metric signals the rally may have more room",
+      "url": "https://www.tradingview.com/news/invezz:68ae5e500094b:0-uniswap-jumps-5-as-one-metric-signals-the-rally-may-have-more-room/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "016cec0261e6258f08211d0d3dd8e3264dc17c4cc24940b0b3a15d234925934b",
-      "title": "Crypto BriefingSpain vs Belgium World Cup quarterfinal becomes a litmus test for crypto fan tokens",
-      "url": "https://www.tradingview.com/news/cryptobriefing:f12d5f567094b:0-spain-vs-belgium-world-cup-quarterfinal-becomes-a-litmus-test-for-crypto-fan-tokens/",
+      "id": "c3530435e3d50acb357e6d4b1ad72740e93fa0deb13c283ae0c1140a3312c1b1",
+      "title": "CoindarGnosis to Join Ethereum Scalability Fireside in Lisbon on July 23rd",
+      "url": "https://www.tradingview.com/news/coindar:323d27753094b:0-gnosis-to-join-ethereum-scalability-fireside-in-lisbon-on-july-23rd/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "4615c687a0aa18cc735349d020a61b7e28315e18b06ce31b4e5c433c6238f871",
-      "title": "The BlockPolymarket files applications to offer regulated margin trading in US",
-      "url": "https://www.tradingview.com/news/the_block:6e489e705094b:0-polymarket-files-applications-to-offer-regulated-margin-trading-in-us/",
+      "id": "a2484de848fb79c7aa7eb0bf91f891ba3267139bce2a2037f883c6c8bcdb0b3e",
+      "title": "InvezzChainlink price tests $8 as ETF inflows spark a new LINK rally",
+      "url": "https://www.tradingview.com/news/invezz:62e0c59a7094b:0-chainlink-price-tests-8-as-etf-inflows-spark-a-new-link-rally/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "1ab2e91eeb0ac842f6513a8c955cb18518521249e19af4cb1e2e6b33f8237ecc",
-      "title": "BeincryptoCharles Hoskinson Addresses Rumors He Is Quitting Cardano",
-      "url": "https://www.tradingview.com/news/beincrypto:01ccc58b3094b:0-charles-hoskinson-addresses-rumors-he-is-quitting-cardano/",
+      "id": "53dd1fb35adab456521b495e196717612a4f2705c9745ad14eccc29952d0df91",
+      "title": "CointelegraphBitcoin returns to $64.3K with new three-week BTC price highs imminent",
+      "url": "https://www.tradingview.com/news/cointelegraph:fec5b9641094b:0-bitcoin-returns-to-64-3k-with-new-three-week-btc-price-highs-imminent/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.177Z"
     },
     {
-      "id": "37868d536768fd0ff1b5f89579b81b3474720c58d197baf6a624892a4fabfbf9",
-      "title": "CointelegraphHackers tried to backdoor Injective npm package to steal wallet keys",
-      "url": "https://www.tradingview.com/news/cointelegraph:532e1c506094b:0-hackers-tried-to-backdoor-injective-npm-package-to-steal-wallet-keys/",
+      "id": "9c37759babafd121458ea8cd4154254bdcdc5025cf9e4850d3a8c6f6fd0fb694",
+      "title": "InvezzXRP price holds above $1.10: can bulls break the $1.17 resistance w all?",
+      "url": "https://www.tradingview.com/news/invezz:0211bf57d094b:0-xrp-price-holds-above-1-10-can-bulls-break-the-1-17-resistance-w-all/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.178Z"
     },
     {
-      "id": "b07d7d886fa428cb7a02e168aa5d62f057e3810ec3ada418309254b0300e9fe1",
-      "title": "CointelegraphDeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
-      "url": "https://www.tradingview.com/news/cointelegraph:ee481b700094b:0-defi-may-be-quietly-re-rating-given-outperformance-against-bitcoin-bitwise/",
+      "id": "026c335e37450fa6c18c812dcb07ac983261973e66f3ec61a93411cef5872bab",
+      "title": "The BlockDOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government",
+      "url": "https://www.tradingview.com/news/the_block:6a33031a4094b:0-doj-charges-federal-inmate-over-alleged-theft-of-290-000-in-crypto-forfeited-to-us-government/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.178Z"
     },
     {
-      "id": "7ea8681b4dc55440acd60206e42ba41cfb288167bde89992dbe158366607347b",
-      "title": "CoinpediaBitwise Updates Top 10 Crypto ETF: HYPE Joins While DOT and AVAX Exit",
-      "url": "https://www.tradingview.com/news/coinpedia:7b411549a094b:0-bitwise-updates-top-10-crypto-etf-hype-joins-while-dot-and-avax-exit/",
+      "id": "39cee29edef419f04e95cab73f9534a2045a60178e5569b9b3d2148b9f78bd6e",
+      "title": "Finance MagnatesTen Days to the GENIUS Act Deadline: What the Draft Rules Already Reveal",
+      "url": "https://www.tradingview.com/news/financemagnates:bc8e186d7094b:0-ten-days-to-the-genius-act-deadline-what-the-draft-rules-already-reveal/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.178Z"
     },
     {
-      "id": "91c591d48df5a135afb6bb472a6ef3eb2e106fc982ba403c8100cd8803b3b47f",
-      "title": "Binance NewsHyperliquid Whale Suspected of Continuing Ether Sell-Off After Withdrawing 7,863 ETH",
-      "url": "https://www.tradingview.com/news/binance_news:c650f7372094b:0-hyperliquid-whale-suspected-of-continuing-ether-sell-off-after-withdrawing-7-863-eth/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
-    },
-    {
-      "id": "3fba63c67ca1484fa84800f3e69c621f0f6a0162ad2ca8cc501a1f412bdbb919",
+      "id": "83118feebdae20603e6b6b6cca14e8925d5220619ac7c855ae7fa439a92c9b7f",
       "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:ce65ed6aa094b:0/",
+      "url": "https://www.tradingview.com/news/bravenewcoin:14be47902094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.178Z"
     },
     {
-      "id": "1a982a4b49c4b51d404e27e640070a53a52428acfe86c8ea63613ac182aba11f",
-      "title": "Binance NewsEthena Allows Registered Users to Mint and Redeem USDe With USDC for Free",
-      "url": "https://www.tradingview.com/news/binance_news:192e077b8094b:0-ethena-allows-registered-users-to-mint-and-redeem-usde-with-usdc-for-free/",
+      "id": "75abfe294568bc536b5f67067c783d164ef38b001922867d785c364f730e0c51",
+      "title": "The BlockUK Labour MPs push to permanently ban crypto political donations",
+      "url": "https://www.tradingview.com/news/the_block:279257ec7094b:0-uk-labour-mps-push-to-permanently-ban-crypto-political-donations/",
       "source": "tradingview",
-      "scraped_at": "2026-07-10T07:41:35.975Z"
+      "scraped_at": "2026-07-10T10:38:38.178Z"
     }
   ]
 }
