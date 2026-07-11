@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-07-11T11:55:59.008Z",
-  "total": 14,
+  "generated_at": "2026-07-11T13:42:02.087Z",
+  "total": 15,
   "items": [
+    {
+      "id": "21f6e641026710f49c63511b086c0f2ba2b78ed43ce0c447d750fd40b59677d6",
+      "title": "CointelegraphBitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
+      "url": "https://www.tradingview.com/news/cointelegraph:74a7cf9de094b:0-bitcoin-nearing-late-stages-of-bear-market-jamie-coutts-real-vision/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-11T13:42:02.083Z"
+    },
+    {
+      "id": "28ae023d8b30dc4b6993c2a4bffb55659136ae55224a6e3d937b2c725426282b",
+      "title": "CointelegraphEthereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+      "url": "https://www.tradingview.com/news/cointelegraph:955ec8386094b:0-ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1-800/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-11T13:42:02.083Z"
+    },
+    {
+      "id": "b9de64d54d18d9f9cd264014bd69a1fb0b0a69d365642bb291a226c74ea138e8",
+      "title": "StocktwitsLegendary Hedge Fund Manager Says SpaceX Is ‘The Equivalent Of Dogecoin’ And Bitcoin Is The One That's Actually Cheap",
+      "url": "https://www.tradingview.com/news/stocktwits:0be005e4f094b:0-legendary-hedge-fund-manager-says-spacex-is-the-equivalent-of-dogecoin-and-bitcoin-is-the-one-that-s-actually-cheap/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-11T13:42:02.083Z"
+    },
+    {
+      "id": "bd356a8e8162c73189ed3f0984a173714d601ac3b73551cd8001b102c1e96872",
+      "title": "CointelegraphBonzo Lend loses $9M in oracle exploit on Hedera",
+      "url": "https://www.tradingview.com/news/cointelegraph:3049486b1094b:0-bonzo-lend-loses-9m-in-oracle-exploit-on-hedera/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-11T13:42:02.083Z"
+    },
+    {
+      "id": "0de4734655afd47f696749a0f05e61a3e35e3c8c56bd89b199a3e5b7f0d96eb1",
+      "title": "CoinpediaHedera Ecosystem Hit by Suspected $5.25M Exploit: Will the Security Breach Push HBAR Price Lower?",
+      "url": "https://www.tradingview.com/news/coinpedia:ac3206556094b:0-hedera-ecosystem-hit-by-suspected-5-25m-exploit-will-the-security-breach-push-hbar-price-lower/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-11T13:42:02.083Z"
+    },
     {
       "id": "2941f7bbcf57392ce4b603b9ce3ae8f944c31831e205cd036a032a3ad77a03e7",
       "title": "CointelegraphBitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
       "url": "https://www.tradingview.com/news/cointelegraph:6ffa572e0094b:0-bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market/",
       "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
+      "scraped_at": "2026-07-11T13:42:02.083Z"
+    },
+    {
+      "id": "9512136af7006b0f5e8d2fe94b6d81a1282fc2927cf8a87023f1125646e656cf",
+      "title": "CoinpediaHedera Network Suffers $5M Sauce Protocol Hack, HBAR Coin Price Falls",
+      "url": "https://www.tradingview.com/news/coinpedia:8858fcc75094b:0-hedera-network-suffers-5m-sauce-protocol-hack-hbar-coin-price-falls/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-11T13:42:02.083Z"
     },
     {
       "id": "8e74a0c1cdeeb145065d0a6fcb8fb4442436b8cae200f91cc56fe1aaeab39074",
       "title": "StocktwitsEthereum Co-founder Vitalik Buterin Wants Elon Musk And Mark Zuckerberg To Broker AI Peace Deals — Not Just Host The Debate",
       "url": "https://www.tradingview.com/news/stocktwits:4965333f3094b:0-ethereum-co-founder-vitalik-buterin-wants-elon-musk-and-mark-zuckerberg-to-broker-ai-peace-deals-not-just-host-the-debate/",
       "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
+      "scraped_at": "2026-07-11T13:42:02.083Z"
     },
     {
       "id": "8568e32a021111123e64b56d48c15c9dd3a566a9283897d63ae6cdb1e1da1b11",
       "title": "CoinpediaDonald Trump’s Truth Social Warning on Iran War Updates Sparks Bitcoin Crash Fears",
       "url": "https://www.tradingview.com/news/coinpedia:449f4e35e094b:0-donald-trump-s-truth-social-warning-on-iran-war-updates-sparks-bitcoin-crash-fears/",
       "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
+      "scraped_at": "2026-07-11T13:42:02.083Z"
     },
     {
       "id": "1721563b9422a789455781ecc82ea1846adc5c71de425dfcef93a99d42be7db1",
       "title": "BeincryptoXRP Demand Cools Across 3 Metrics, but Funding Hints at Rebound",
       "url": "https://www.tradingview.com/news/beincrypto:65d66496a094b:0-xrp-demand-cools-across-3-metrics-but-funding-hints-at-rebound/",
       "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
+      "scraped_at": "2026-07-11T13:42:02.083Z"
     },
     {
       "id": "e22b03959d3d93d6c9a938622ad2c7e35a8ee840550d884f4240a3ebf915e535",
       "title": "CoinpediaEthereum Price Eyes $2,000 as Three Bullish Signals Align",
       "url": "https://www.tradingview.com/news/coinpedia:00b435659094b:0-ethereum-price-eyes-2-000-as-three-bullish-signals-align/",
       "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
+      "scraped_at": "2026-07-11T13:42:02.083Z"
     },
     {
       "id": "985b93e5beec2898abc56427deeeac1102fa87d2dd1140d553fad915921d6012",
       "title": "StocktwitsUS Treasury's Scott Bessent Made The Case For Stablecoins And Tokenization — Now A Wall Street Veteran Says Crypto Skeptics Should Take Note",
       "url": "https://www.tradingview.com/news/stocktwits:a772ecca7094b:0-us-treasury-s-scott-bessent-made-the-case-for-stablecoins-and-tokenization-now-a-wall-street-veteran-says-crypto-skeptics-should-take-note/",
       "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
+      "scraped_at": "2026-07-11T13:42:02.083Z"
     },
     {
       "id": "a8150ca5c1e1970e856e421beaff70e7e7e86547844bfd941cb8dbf7a6f84b0e",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:a752cf22d094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
+      "scraped_at": "2026-07-11T13:42:02.083Z"
     },
     {
       "id": "0dd53f4b03c862db13d3bd9afc67db5502365500f73a3bfdc032fb0155c207b4",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:f1cdd1de2094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
+      "scraped_at": "2026-07-11T13:42:02.083Z"
     },
     {
       "id": "cf2dd97a35a8257c5cfe310e081a3c5b3bc8028b3bf63c8441d6364891c77864",
       "title": "CoinpediaPyth Network (PYTH) Price Eyes a 30% Rally as Core Upgrade Boosts Long-Term Fundamentals",
       "url": "https://www.tradingview.com/news/coinpedia:612bce88a094b:0-pyth-network-pyth-price-eyes-a-30-rally-as-core-upgrade-boosts-long-term-fundamentals/",
       "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
-    },
-    {
-      "id": "12d960c94ee5ac90f9bd1dbdcc01116adde9a1f6a1a692981d9b9f766c01432e",
-      "title": "CoinpediaXRP Price Shows Rare Bullish Signal That Led to a 1,100% Rally",
-      "url": "https://www.tradingview.com/news/coinpedia:1cdb93199094b:0-xrp-price-shows-rare-bullish-signal-that-led-to-a-1-100-rally/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
-    },
-    {
-      "id": "c56c43cb07a628a16a4f30d11dc2a2c3f2fad9b2f8916de096457c6b8733b557",
-      "title": "CoinpediaChainlink News: Bitwise Buys More LINK as ETF Inflows Return",
-      "url": "https://www.tradingview.com/news/coinpedia:661e286a8094b:0-chainlink-news-bitwise-buys-more-link-as-etf-inflows-return/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
-    },
-    {
-      "id": "94724265ac36bd15907524e6201d9b8547c462b89249c5560e40d5e2d5dc44b0",
-      "title": "CoinpediaCLARITY Act Update: Did JPMorgan Really Back the Crypto Market Structure Bill?",
-      "url": "https://www.tradingview.com/news/coinpedia:8a3bb146b094b:0-clarity-act-update-did-jpmorgan-really-back-the-crypto-market-structure-bill/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
-    },
-    {
-      "id": "4f73e69b482aa0757ced9dad8efd016d1a9785072c4e2747b2411770987240c6",
-      "title": "CoinpediaPEPE Price Eyes a 13% Rally as Bulls Challenge a Crucial Resistance Zone",
-      "url": "https://www.tradingview.com/news/coinpedia:bf3727188094b:0-pepe-price-eyes-a-13-rally-as-bulls-challenge-a-crucial-resistance-zone/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
-    },
-    {
-      "id": "ea9bdf7f47b9f116a0035fb5c34d839b1f809578d940773fc2655cb2c6f66da8",
-      "title": "CointelegraphRobinhood says its AI agent feature will ‘soon’ be assisting crypto traders",
-      "url": "https://www.tradingview.com/news/cointelegraph:3ef096651094b:0-robinhood-says-its-ai-agent-feature-will-soon-be-assisting-crypto-traders/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-11T11:55:59.005Z"
+      "scraped_at": "2026-07-11T13:42:02.083Z"
     }
   ]
 }
