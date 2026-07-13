@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-13T16:38:15.825Z",
+  "generated_at": "2026-07-13T18:22:19.937Z",
   "total": 15,
   "items": [
+    {
+      "id": "49295e90c04dd807933a7ce620e0616edd1f331c0b0a50e84d7fa05e46c5d877",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260713006156:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "e494fa029f6138f5a495860aef801afa74af0e99cddd16ad81baab4cf9d00e09",
+      "title": "CointelegraphBolivia mulls recognizing USDT as payment currency amid dollar shortage",
+      "url": "https://www.tradingview.com/news/cointelegraph:5d24c28aa094b:0-bolivia-mulls-recognizing-usdt-as-payment-currency-amid-dollar-shortage/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "09c850a70a5ea5b3137021a00604ed83dc03d159297ca1fe39b9e8d72cab1081",
+      "title": "CoinMarketCalNEAR Protocol: launches Confidential Intents on Aurora Intents Swap API - 13 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:2e5a616a2094b:0-near-protocol-launches-confidential-intents-on-aurora-intents-swap-api-13-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "82df78d416f6c776ae885a775ba6605d97caadbe933beae032cfc141d595020c",
+      "title": "CoinMarketCalJito: launches token-centric network model - 13 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:f0a386587094b:0-jito-launches-token-centric-network-model-13-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "99c3ffbc2c2c2c6665e777c0305e922b0daef39304a1d7f364f9fc76d9bcbec3",
+      "title": "StocktwitsBitcoin, Coinbase, Circle Slip Despite Fresh Optimism Around CLARITY Act",
+      "url": "https://www.tradingview.com/news/stocktwits:500d2cf96094b:0-bitcoin-coinbase-circle-slip-despite-fresh-optimism-around-clarity-act/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "c63d07b614387a1b200f37b4ec45a5e1e4c81869789de0bbc41b811365ebe6aa",
+      "title": "The BlockOnchain Pokémon cards come to Solana-based DEX Jupiter",
+      "url": "https://www.tradingview.com/news/the_block:89a6a9c94094b:0-onchain-pok-mon-cards-come-to-solana-based-dex-jupiter/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "1a83c285e9525926d2b829d20340b24b4281348d3d55a8a2f03479321eb0637c",
+      "title": "StocktwitsPresident Trump Presses Senate On CLARITY Act, Says Inaction Hands China The Win",
+      "url": "https://www.tradingview.com/news/stocktwits:0970340d3094b:0-president-trump-presses-senate-on-clarity-act-says-inaction-hands-china-the-win/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "d9c37a19c8f0362440b001898260f8da20642273c164fb6b33e9084aa0a22a8f",
+      "title": "CointelegraphHyundai completes USDT treasury settlement pilot between US and Mexico",
+      "url": "https://www.tradingview.com/news/cointelegraph:8eb0d3629094b:0-hyundai-completes-usdt-treasury-settlement-pilot-between-us-and-mexico/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "41d8a5caf285773369fb695bdd02c5db0c06985d56ab45140986bfd39e84eb5b",
+      "title": "The BlockUK lays out tokenized finance roadmap with projected £33 billion annual boost",
+      "url": "https://www.tradingview.com/news/the_block:f8db4ef60094b:0-uk-lays-out-tokenized-finance-roadmap-with-projected-33-billion-annual-boost/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "ab4f71e892407ce26dd48265fa0e06745593d0a6a6f546ee31b300bda820eae8",
+      "title": "CoinpediaEthereum Bullish Signals Strengthen as Whale Accumulation, Lean Ethereum Roadmap Fuel Optimism",
+      "url": "https://www.tradingview.com/news/coinpedia:85ce8a187094b:0-ethereum-bullish-signals-strengthen-as-whale-accumulation-lean-ethereum-roadmap-fuel-optimism/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
     {
       "id": "353afd9ed1495bfa6da0e1e202455f56bd3a58b4a554e3c087af4dd97b03f348",
       "title": "CointelegraphDonald Trump invokes US senator’s death to push crypto bill",
       "url": "https://www.tradingview.com/news/cointelegraph:76a8f0cbb094b:0-donald-trump-invokes-us-senator-s-death-to-push-crypto-bill/",
       "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
+      "scraped_at": "2026-07-13T18:22:19.934Z"
+    },
+    {
+      "id": "499677228a85aad85291e31c3e40862784a80c7db1156fea0b45642e19f3dbaa",
+      "title": "CoinpediaWhy Is Bitcoin Price Going Down Today?",
+      "url": "https://www.tradingview.com/news/coinpedia:fe88e7d43094b:0-why-is-bitcoin-price-going-down-today/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-13T18:22:19.934Z"
     },
     {
       "id": "4339b58ccefe27948b2e1baba3e2a6cf4f01a7ec960d67c43c1cae222b96e4af",
       "title": "StocktwitsZcash Flashes Golden Cross: One VP Backing The Privacy Coin Calls It Bitcoin's 'Most Credible Complement'",
       "url": "https://www.tradingview.com/news/stocktwits:374f8e418094b:0-zcash-flashes-golden-cross-one-vp-backing-the-privacy-coin-calls-it-bitcoin-s-most-credible-complement/",
       "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
+      "scraped_at": "2026-07-13T18:22:19.934Z"
     },
     {
-      "id": "494a090b7d63a9ea23ea9d1b966abb666806ec80d0b00adb95d7ea207e6f2765",
-      "title": "ChainwireBybit's Yoyee Wang: Trust Will Define the Next Era of Institutional Digital Asset Adoption",
-      "url": "https://www.tradingview.com/news/chainwire:29d3e049b094b:0-bybit-s-yoyee-wang-trust-will-define-the-next-era-of-institutional-digital-asset-adoption/",
+      "id": "5365c22b461da3080dff3ac803edde9e79d3df9de1e9b56388c845d555d6df0f",
+      "title": "CoinpediaMark Yusko Says If Elon Musk Sold One DOGE, Dogecoin Would Go to Zero",
+      "url": "https://www.tradingview.com/news/coinpedia:3c8d63811094b:0-mark-yusko-says-if-elon-musk-sold-one-doge-dogecoin-would-go-to-zero/",
       "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
+      "scraped_at": "2026-07-13T18:22:19.934Z"
     },
     {
-      "id": "ddedd5cd0f32ed8e78a4e0bf4873ccd0b407aa0ce54f7a7ccbee520170a53b87",
-      "title": "The BlockPresident Trump, White House press Senate to advance the Clarity Act while ethics fight looms",
-      "url": "https://www.tradingview.com/news/the_block:cfd173d95094b:0-president-trump-white-house-press-senate-to-advance-the-clarity-act-while-ethics-fight-looms/",
+      "id": "a48d6b56901540afd76944f20e2e6c1d2016ae985e55f94c3b1ef546d6b57209",
+      "title": "BeincryptoBitcoin and Oil Respond to Trump’s US Hormuz Control Plan, But Dubai Mulls a Bypass",
+      "url": "https://www.tradingview.com/news/beincrypto:cd018c137094b:0-bitcoin-and-oil-respond-to-trump-s-us-hormuz-control-plan-but-dubai-mulls-a-bypass/",
       "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "83e81ec2582c01286aca6ba93bcaeca1b4e918793a6e34f755c00792488b65af",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260713005159:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "c6b8f5137cfb7785de186d12c7ccc218ecaec5fea4338547d1dafe6212c8a6bf",
-      "title": "Binance NewsBitcoin News Today: Strategy Raises $467 Million in Equity — No Bitcoin Sold, USD Reserve Now at $3 Billion Ahead of First Semi-Monthly STRC Dividend",
-      "url": "https://www.tradingview.com/news/binance_news:862a7846f094b:0-bitcoin-news-today-strategy-raises-467-million-in-equity-no-bitcoin-sold-usd-reserve-now-at-3-billion-ahead-of-first-semi-monthly-strc-dividend/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "ded839cf77b73f5c53d63bd14c83c3a57f997f2e9ae54377d27bbe4054a37f6d",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260713004908:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "b11f22da2a4ef0abbae5c27a76d9c7a2758aebfb0ad78e9f19debf37ce923ce3",
-      "title": "dpa-AFXCryptos Slip As U.S.-Iran War Heats Up",
-      "url": "https://www.tradingview.com/news/dpa_afx:f3bf75eee3ab1:0-cryptos-slip-as-u-s-iran-war-heats-up/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "8c0006d688688e73a855a9fab81c13fb6bc050b11033e96ef2f4bb362b6dbd23",
-      "title": "CointelegraphBitcoin threatens $62K in risk-asset rout as Donald Trump says US will 'run' closed Hormuz Strait",
-      "url": "https://www.tradingview.com/news/cointelegraph:b5e03b7c2094b:0-bitcoin-threatens-62k-in-risk-asset-rout-as-donald-trump-says-us-will-run-closed-hormuz-strait/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "2035ec285f82a3664f8f490a9a3a7965ddffb3ed5b4348e96e6cf43e94626c65",
-      "title": "Binance NewsWhite House Crypto Council’s Witt Calls This Week Key for CLARITY Act Progress",
-      "url": "https://www.tradingview.com/news/binance_news:f9ea3b07f094b:0-white-house-crypto-council-s-witt-calls-this-week-key-for-clarity-act-progress/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "7482232de724d471421450e71fa66d015c5cc24c7666b9eb5b875debc8b74621",
-      "title": "99BitcoinsAave Launch Stablecoin Vaults as DeFi Prepares For USD Boom",
-      "url": "https://www.tradingview.com/news/99Bitcoins:08a894ec1094b:0-aave-launch-stablecoin-vaults-as-defi-prepares-for-usd-boom/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "711384bcb71d8c941c711d290032bf40148ad8b6a37bd92a2a4a45f506fc5e21",
-      "title": "The BlockChinese prosecutors call for more proactive approach to investigating crypto money laundering",
-      "url": "https://www.tradingview.com/news/the_block:854ef7279094b:0-chinese-prosecutors-call-for-more-proactive-approach-to-investigating-crypto-money-laundering/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "6fef5c28b10c1a91cd24164349306e48707517e726029ff1b37932a1f20bb98e",
-      "title": "99BitcoinsThailand Mount Major Anti-Crypto Crackdown: We’re Coming For Your Stablecoins",
-      "url": "https://www.tradingview.com/news/99Bitcoins:4b00965d9094b:0-thailand-mount-major-anti-crypto-crackdown-we-re-coming-for-your-stablecoins/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "c50a31d2727a0eb3e43ac52c6a3739a05653d7d5ca5257f074a4d50acb9bb515",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260713004705:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
-    },
-    {
-      "id": "4f6e0eec14702a2717b37dac53887e7a587bcf3c2aa9ec99f48ab1f6023df5ab",
-      "title": "ChainwireBybit Expands AI Skill Hub with Marketplace for AI-Compatible Yield-Generation Strategies",
-      "url": "https://www.tradingview.com/news/chainwire:224a592f0094b:0-bybit-expands-ai-skill-hub-with-marketplace-for-ai-compatible-yield-generation-strategies/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-13T16:38:15.821Z"
+      "scraped_at": "2026-07-13T18:22:19.934Z"
     }
   ]
 }
