@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-14T20:44:17.294Z",
+  "generated_at": "2026-07-14T21:41:07.583Z",
   "total": 15,
   "items": [
+    {
+      "id": "9f9e6182fb304538f5840d5fa4aeae9d6089a637975c7bafef97c663a26cc77b",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260714008788:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T21:41:07.579Z"
+    },
+    {
+      "id": "21ae013c0b46a35497898b7d76914e4800f5c6b1ff2d2cb0af5893d7be9f32ac",
+      "title": "CointelegraphThree US senators oppose CLARITY Act on ethics grounds with vote expected soon",
+      "url": "https://www.tradingview.com/news/cointelegraph:30de2e8f8094b:0-three-us-senators-oppose-clarity-act-on-ethics-grounds-with-vote-expected-soon/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T21:41:07.579Z"
+    },
+    {
+      "id": "d817fc01848e2047c2e1bb423f248d1647a0d50199806bd97188870728cabea2",
+      "title": "ANewsBTCNous Research Funding Talks Put Decentralized AI Back On Crypto’s Venture Map",
+      "url": "https://www.tradingview.com/news/newsbtc:e92758960094b:0-nous-research-funding-talks-put-decentralized-ai-back-on-crypto-s-venture-map/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T21:41:07.579Z"
+    },
+    {
+      "id": "e7422596b824b5ca436dc91bd0e9b57278e6ae1d83e32ef86e4c639bc7c27302",
+      "title": "GuruFocusBanks Unveil Blockchain Network as Stablecoin Payments Reach $33 Trillion",
+      "url": "https://www.tradingview.com/news/gurufocus:f8e2dd2ef094b:0-banks-unveil-blockchain-network-as-stablecoin-payments-reach-33-trillion/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T21:41:07.579Z"
+    },
+    {
+      "id": "1614be1cc270aab54bfdef69be812510b7b2291ba83d8e82194b32f693433a91",
+      "title": "ReutersCoinbase Global Inc Moved Acx Order Books To Limit-Only Mode And Will Suspend Trading Of ACX On July 28, 2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43G19D:0-coinbase-global-inc-moved-acx-order-books-to-limit-only-mode-and-will-suspend-trading-of-acx-on-july-28-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T21:41:07.579Z"
+    },
+    {
+      "id": "fee920d5e4db8ca8426c207f154f60a6dabd255c2d3c9a7ae8997d5a19b97796",
+      "title": "NewsBTCTether’s Pact Labs Round Shows Stablecoin Issuers Are Still Building Compliance Rails",
+      "url": "https://www.tradingview.com/news/newsbtc:d00f04414094b:0-tether-s-pact-labs-round-shows-stablecoin-issuers-are-still-building-compliance-rails/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T21:41:07.579Z"
+    },
+    {
+      "id": "56b6b58efcec15fe161cd323cd1eac9e9a454512c64921983698fb095f9353f7",
+      "title": "The BlockEthereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing",
+      "url": "https://www.tradingview.com/news/the_block:3902c9f59094b:0-ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T21:41:07.579Z"
+    },
     {
       "id": "5f1bcc3c8eb07e97d8943e840077f0d818fbe1db812526a48d67a52d62750876",
       "title": "NewsBTCOFAC FirstVPN Sanctions Show Crypto Enforcement Is Moving Up The Infrastructure Stack",
       "url": "https://www.tradingview.com/news/newsbtc:be97ed3cb094b:0-ofac-firstvpn-sanctions-show-crypto-enforcement-is-moving-up-the-infrastructure-stack/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
+      "scraped_at": "2026-07-14T21:41:07.579Z"
     },
     {
       "id": "a560b18a00dbae0771c3ca6504672429764f9d4851454f7a73b9f6d3b3554a8e",
       "title": "CointelegraphVelocity raises $38M to build stablecoin treasury infrastructure for enterprises",
       "url": "https://www.tradingview.com/news/cointelegraph:910a336fb094b:0-velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
+      "scraped_at": "2026-07-14T21:41:07.579Z"
     },
     {
       "id": "971160e83e459ab7278bff34973b57fb421f7b38676908a793040212b4632af5",
       "title": "CoinMarketCalKamino: powers Galaxy's GOFR lending launch - 14 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:1eb904b6d094b:0-kamino-powers-galaxy-s-gofr-lending-launch-14-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
+      "scraped_at": "2026-07-14T21:41:07.579Z"
     },
     {
       "id": "a03139494aee76491ad3a9ce408392fcf408a23e24c1a951799b322c64aa55f0",
       "title": "CoinMarketCalSolstice: launches Season 2 earning campaign - 01 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:d79dfd785094b:0-solstice-launches-season-2-earning-campaign-01-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
+      "scraped_at": "2026-07-14T21:41:07.580Z"
     },
     {
       "id": "8c72950bfa7fe3529e294e236c2a6be5e2661d26b6f58ee9ee5c9aea63237b3e",
       "title": "CoinMarketCalTRON: launches institutional TRX staking through Anchorage and Porto - 14 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:83ec73d69094b:0-tron-launches-institutional-trx-staking-through-anchorage-and-porto-14-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
+      "scraped_at": "2026-07-14T21:41:07.580Z"
     },
     {
       "id": "1cc670cb1c11a62319ceba4c29e57700757a0d2998594e40f4f316cc472ae7ff",
       "title": "NewsBTCKraken Card Launch Brings Everyday Crypto Spending Back Into The Exchange Race",
       "url": "https://www.tradingview.com/news/newsbtc:0de3b03d5094b:0-kraken-card-launch-brings-everyday-crypto-spending-back-into-the-exchange-race/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
+      "scraped_at": "2026-07-14T21:41:07.580Z"
     },
     {
       "id": "d385d4ac01c498fb82d306759ad9a3e36c039ca5598738d637f89345b755e569",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260714007509:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
+      "scraped_at": "2026-07-14T21:41:07.580Z"
     },
     {
       "id": "333ec9b79dd322abe3231acadd0bd0218893cb879aa8d2e26fabd68dc6ddd87c",
       "title": "NewsBTCEthereum Research Thread Puts Sybil Resistance Back In Focus For Decentralized Networks",
       "url": "https://www.tradingview.com/news/newsbtc:2cfcfb229094b:0-ethereum-research-thread-puts-sybil-resistance-back-in-focus-for-decentralized-networks/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
-    },
-    {
-      "id": "57fd3d7acbc35eb17fe2831b4b94e2b83c09d4b3f912e6fa289891ab8857e2ca",
-      "title": "Finance MagnatesUS Banks Target CLARITY Act Stablecoin Rewards in Fight Over Deposit Flight",
-      "url": "https://www.tradingview.com/news/financemagnates:af4144995094b:0-us-banks-target-clarity-act-stablecoin-rewards-in-fight-over-deposit-flight/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
-    },
-    {
-      "id": "dbd2ff2c7b69b296d125b098758e8e0aad4965d5f9c2df0207f3ce2836cbb53f",
-      "title": "GuruFocusStrategy Raises $467 Million, Builds $3 Billion Cash Reserve Without Buying Bitcoin",
-      "url": "https://www.tradingview.com/news/gurufocus:c8969c2eb094b:0-strategy-raises-467-million-builds-3-billion-cash-reserve-without-buying-bitcoin/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
-    },
-    {
-      "id": "cc2f98111b7221a2fe005fe5c1c468fd5819ae94fe1e86ccb4df937c599cc6bb",
-      "title": "NewsBTCNFT Skill Registry Proposal Gives ERC-721s A More Active Role In On-Chain Automation",
-      "url": "https://www.tradingview.com/news/newsbtc:3505cd3bf094b:0-nft-skill-registry-proposal-gives-erc-721s-a-more-active-role-in-on-chain-automation/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
-    },
-    {
-      "id": "0780e4a3b97c0cc8cc148ff6c8b11746a670b30472ef9b3ff9970ed24b3f04cc",
-      "title": "NewsBTCStarknet Memory Protocol Draft Puts User-Owned AI Data On The Crypto Agenda",
-      "url": "https://www.tradingview.com/news/newsbtc:997d191e9094b:0-starknet-memory-protocol-draft-puts-user-owned-ai-data-on-the-crypto-agenda/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
-    },
-    {
-      "id": "3ba63d20a35cd104e69dfdf15f0346bb4b18b5aba714838abaf4a4ea28ab7468",
-      "title": "Beincrypto2 New Deals Make Ripple Productive Capital, but XRP Stays in Free Fall",
-      "url": "https://www.tradingview.com/news/beincrypto:a15c80ea9094b:0-2-new-deals-make-ripple-productive-capital-but-xrp-stays-in-free-fall/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
-    },
-    {
-      "id": "0c7317734d13c57522918c051a7e3184fd6099fb1e92c1bffa4dc34cd3140e53",
-      "title": "CoinpediaDRV Price Soars 70% After Upbit Listing as Derive Sees Rising Network Activity",
-      "url": "https://www.tradingview.com/news/coinpedia:c1ea34ba7094b:0-drv-price-soars-70-after-upbit-listing-as-derive-sees-rising-network-activity/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
-    },
-    {
-      "id": "573c0ef2b62f544c187f7d9b5c5d22928b3e62123d75f14aafcb22b0784600c4",
-      "title": "NewsBTCChainalysis Adds Automatic Stablecoin Support As Compliance Teams Face Token Sprawl",
-      "url": "https://www.tradingview.com/news/newsbtc:6ca59aeac094b:0-chainalysis-adds-automatic-stablecoin-support-as-compliance-teams-face-token-sprawl/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T20:44:17.291Z"
+      "scraped_at": "2026-07-14T21:41:07.580Z"
     }
   ]
 }
