@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-14T16:22:24.209Z",
+  "generated_at": "2026-07-14T17:49:12.194Z",
   "total": 15,
   "items": [
+    {
+      "id": "a373d911c633bc9a326e027fdd058ff62d4fd918620a01b98427dc50f1c4dd95",
+      "title": "StocktwitsKevin Warsh Says Fed Is Not In The 'Bailout Business' If Crypto, Stablecoins Fail",
+      "url": "https://www.tradingview.com/news/stocktwits:733efc9bd094b:0-kevin-warsh-says-fed-is-not-in-the-bailout-business-if-crypto-stablecoins-fail/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.190Z"
+    },
+    {
+      "id": "ae3d0ed131c6ae47e0e23161b94fc1b20c7fd90dd3e17b588a31bb868282a36b",
+      "title": "The BlockCoinFund’s David Pakman says crypto hasn’t solved tokenomics",
+      "url": "https://www.tradingview.com/news/the_block:246abac5c094b:0-coinfund-s-david-pakman-says-crypto-hasn-t-solved-tokenomics/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.190Z"
+    },
+    {
+      "id": "bf5b90e55395474409c34ebcff1c43c4cb9f6920ade1c7c54e4d212f546b8f22",
+      "title": "NewsBTCEthereum Governance Debate Turns To Who Really Controls Voting Power",
+      "url": "https://www.tradingview.com/news/newsbtc:a09e6e00c094b:0-ethereum-governance-debate-turns-to-who-really-controls-voting-power/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.190Z"
+    },
+    {
+      "id": "649ed72d0fcc68305626d555230ddef0db369f39db3f86f06fc2add45d1a5178",
+      "title": "CointelegraphUK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
+      "url": "https://www.tradingview.com/news/cointelegraph:01e269151094b:0-uk-government-defers-capital-gains-on-certain-crypto-with-no-gain-no-loss-approach/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.190Z"
+    },
+    {
+      "id": "935c91b3e0184dfbcc6eeb0badc631631e51e2494abfb2971d7242d1c0a7fe76",
+      "title": "The BlockWall Street turns cautious on Circle as analysts warn USDC economics face mounting pressure",
+      "url": "https://www.tradingview.com/news/the_block:f6be46945094b:0-wall-street-turns-cautious-on-circle-as-analysts-warn-usdc-economics-face-mounting-pressure/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.190Z"
+    },
+    {
+      "id": "7d5e65921a5e18c6df2bd7ef685a5bb0cd69e0b8ff9e84bbd29bcbed2dc932c2",
+      "title": "StocktwitsHut 8 Stock Hits One-Month Low – Analyst Doubles Price Target Amid The Dip",
+      "url": "https://www.tradingview.com/news/stocktwits:fcc8121ba094b:0-hut-8-stock-hits-one-month-low-analyst-doubles-price-target-amid-the-dip/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.190Z"
+    },
+    {
+      "id": "ba4cd04c09143e08beaa063ace50e9cedd08b27562947acf63e5eedd1b573fe5",
+      "title": "ReutersSome Coinbase Users Experiencing Degraded Trading Performance On Coinbase.Com",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43G0W0:0-some-coinbase-users-experiencing-degraded-trading-performance-on-coinbase-com/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.190Z"
+    },
+    {
+      "id": "818fbb6185172ffa0bbf3b27e0c690a23ff1186fe1873450ebfe1a81dfc4964d",
+      "title": "CointelegraphJCB signs Circle MOU to test stablecoin payments in Japan",
+      "url": "https://www.tradingview.com/news/cointelegraph:26cc0ce53094b:0-jcb-signs-circle-mou-to-test-stablecoin-payments-in-japan/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.191Z"
+    },
+    {
+      "id": "236dc44541447c5f0198fdc242fa88d038fff127483dbb4f72be6f531de345f4",
+      "title": "CoinMarketCalVirtuals Protocol: launches agent pairing on peaq - 14 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:1c90b882d094b:0-virtuals-protocol-launches-agent-pairing-on-peaq-14-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.191Z"
+    },
+    {
+      "id": "c3a1d984a69a22a7b769f04ad7d315ed8d13a1f8f6a69930235de4f4875f9559",
+      "title": "CoinMarketCalRender: adds payments on OTOY Studio - 14 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:87a58831a094b:0-render-adds-payments-on-otoy-studio-14-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.191Z"
+    },
+    {
+      "id": "f45441bab34af85cbe1aaafd91eb2c451b2a2da76fc485f401b8dbd454c22e8e",
+      "title": "CoinMarketCalAave: launches lending on Monad - 14 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:4f221ee9a094b:0-aave-launches-lending-on-monad-14-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.191Z"
+    },
+    {
+      "id": "e6bf72acd5d8a8c22b05141514fb3ce9f276e35c5ddcb251cbc99c3859c796c2",
+      "title": "NewsBTCEthereum Foundation Clear Signing Push Targets Crypto’s Blind Approval Problem",
+      "url": "https://www.tradingview.com/news/newsbtc:9e4528356094b:0-ethereum-foundation-clear-signing-push-targets-crypto-s-blind-approval-problem/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.191Z"
+    },
+    {
+      "id": "dc43a9be84181b5f535cd65eae2dde115803b0ff274c0936cc2b4b428b0e2de7",
+      "title": "NewsBTCInjective SDK Compromise Puts Wallet Private Keys Back In The Security Spotlight",
+      "url": "https://www.tradingview.com/news/newsbtc:c845d7b35094b:0-injective-sdk-compromise-puts-wallet-private-keys-back-in-the-security-spotlight/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T17:49:12.191Z"
+    },
     {
       "id": "93146a593c7537437f9185b802cc1c114020ebaa077caf93e9932160af5eda41",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260714006604:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
+      "scraped_at": "2026-07-14T17:49:12.191Z"
     },
     {
       "id": "2d26bd3dda0e9c2c4bd8543bfc2d6429eafe0597cd72aec8253ddfb491a55532",
       "title": "NewsBTCTimelock Account Recovery Gives Ethereum Smart Accounts A Safer Backup Route",
       "url": "https://www.tradingview.com/news/newsbtc:f99e1be5f094b:0-timelock-account-recovery-gives-ethereum-smart-accounts-a-safer-backup-route/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "fe3cde92fa4d21172d09cb946f55ef43ac657b0b64142029e0cab1974abb9fe4",
-      "title": "The BlockBitcoin mining production slips in June for CleanSpark, BitFuFu and Canaan",
-      "url": "https://www.tradingview.com/news/the_block:30f4dfe4d094b:0-bitcoin-mining-production-slips-in-june-for-cleanspark-bitfufu-and-canaan/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "6021c0a5ddab8f48906a1f2c711e4a82f1e347f80caa8ef9fb51922ac068da06",
-      "title": "StocktwitsGalaxy Simplifies DeFi Borrowing For Institutions With New Onchain Credit Platform",
-      "url": "https://www.tradingview.com/news/stocktwits:e5f23fbab094b:0-galaxy-simplifies-defi-borrowing-for-institutions-with-new-onchain-credit-platform/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "cd3e7b55291d7d93a1a7770b49d6a423484cf715f8c9ed3c3f48e284b14995d6",
-      "title": "The BlockGalaxy blends Aave, Morpho and other DeFi rates in new GOFR crypto borrowing product",
-      "url": "https://www.tradingview.com/news/the_block:def085f56094b:0-galaxy-blends-aave-morpho-and-other-defi-rates-in-new-gofr-crypto-borrowing-product/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "dbed0ddc7e50fa75813e4ab2ed9a077e7b1a2fdabbea096ebbe4a85cd0d53de7",
-      "title": "The Block‘Soft print, hard regime’: Bitcoin climbs toward $64,000 as June CPI falls 0.4% in largest monthly drop since 2020",
-      "url": "https://www.tradingview.com/news/the_block:00b25b6a9094b:0-soft-print-hard-regime-bitcoin-climbs-toward-64-000-as-june-cpi-falls-0-4-in-largest-monthly-drop-since-2020/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "35d87ccfe135c3466d4183fc53cf0d46e1cd0d783b0cb0f5f6982db9f972e3c3",
-      "title": "CointelegraphAnchorage Digital expands Tron support with institutional TRX staking",
-      "url": "https://www.tradingview.com/news/cointelegraph:2ae07a113094b:0-anchorage-digital-expands-tron-support-with-institutional-trx-staking/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "ecb86e7ceb871d3ac1e52e56c13b6fcfcedd3fc4965d7f5ecff6fa6b2c82f78c",
-      "title": "CointelegraphBitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
-      "url": "https://www.tradingview.com/news/cointelegraph:e7fa14357094b:0-bitcoin-jumps-on-lowest-us-cpi-since-2020-as-traders-stay-wary-of-64k-failure/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "8efd771479d161e3feb2768a29bcce7a9541b0846d51b9a7304f4c5dd188d9f1",
-      "title": "The BlockTether leads $7 million round in Pact Labs to boost USAT stablecoin adoption",
-      "url": "https://www.tradingview.com/news/the_block:66aa3d241094b:0-tether-leads-7-million-round-in-pact-labs-to-boost-usat-stablecoin-adoption/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "37d0a6b2482cf6a10451cef71fdb7045b7d14d84ec6bbf75298800e9cd06e0a8",
-      "title": "StocktwitsTom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It",
-      "url": "https://www.tradingview.com/news/stocktwits:8a31f3750094b:0-tom-lee-says-ethereum-needs-more-privacy-before-100-trillion-moves-on-chain-new-startup-aims-to-deliver-it/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "b840de6c6a1b9dd5f72b6fcd43c6385aa10c5fe1ff747129829f2b26953fa99b",
-      "title": "The BlockDragonfly, FirstMark lead $38 million Series A for stablecoin startup Velocity with support from Coinbase, Ripple and more",
-      "url": "https://www.tradingview.com/news/the_block:171b058ab094b:0-dragonfly-firstmark-lead-38-million-series-a-for-stablecoin-startup-velocity-with-support-from-coinbase-ripple-and-more/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "d96c91042d5f27069e44926a08ac4f051347b5262892248c4d583a3bcfa876ec",
-      "title": "The BlockDecentralized AI project Nous Research in talks to raise $75M at $1.5B valuation: report",
-      "url": "https://www.tradingview.com/news/the_block:fa22d5273094b:0-decentralized-ai-project-nous-research-in-talks-to-raise-75m-at-1-5b-valuation-report/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "81b1d6b0779ff32f8d8bbcebda6774f6c0b78fb6b770a2a45220b2f65a324dfe",
-      "title": "CoinMarketCalCurve DAO: opens voting to activate LlamaLend 2 markets - 21 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:f8997252c094b:0-curve-dao-opens-voting-to-activate-llamalend-2-markets-21-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "d796031b32f22f561287d16140756eaa6c64c09ae5dfeb500cac472e5d009dec",
-      "title": "CoinMarketCalCelo: gains Ledger fee abstraction support - 14 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:23e24d90c094b:0-celo-gains-ledger-fee-abstraction-support-14-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
-    },
-    {
-      "id": "ee5064e753efce5c0fa9077d0b8611593b785a8976325d0cda1addc53586f3ce",
-      "title": "CoinMarketCalCardano: enacts the Van Rossem hard fork - 18 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:e41c8fd8d094b:0-cardano-enacts-the-van-rossem-hard-fork-18-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T16:22:24.204Z"
+      "scraped_at": "2026-07-14T17:49:12.191Z"
     }
   ]
 }
