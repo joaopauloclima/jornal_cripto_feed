@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-14T17:49:12.194Z",
+  "generated_at": "2026-07-14T19:26:54.773Z",
   "total": 15,
   "items": [
+    {
+      "id": "cc2f98111b7221a2fe005fe5c1c468fd5819ae94fe1e86ccb4df937c599cc6bb",
+      "title": "NewsBTCNFT Skill Registry Proposal Gives ERC-721s A More Active Role In On-Chain Automation",
+      "url": "https://www.tradingview.com/news/newsbtc:3505cd3bf094b:0-nft-skill-registry-proposal-gives-erc-721s-a-more-active-role-in-on-chain-automation/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T19:26:54.769Z"
+    },
+    {
+      "id": "0780e4a3b97c0cc8cc148ff6c8b11746a670b30472ef9b3ff9970ed24b3f04cc",
+      "title": "NewsBTCStarknet Memory Protocol Draft Puts User-Owned AI Data On The Crypto Agenda",
+      "url": "https://www.tradingview.com/news/newsbtc:997d191e9094b:0-starknet-memory-protocol-draft-puts-user-owned-ai-data-on-the-crypto-agenda/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T19:26:54.769Z"
+    },
+    {
+      "id": "3ba63d20a35cd104e69dfdf15f0346bb4b18b5aba714838abaf4a4ea28ab7468",
+      "title": "Beincrypto2 New Deals Make Ripple Productive Capital, but XRP Stays in Free Fall",
+      "url": "https://www.tradingview.com/news/beincrypto:a15c80ea9094b:0-2-new-deals-make-ripple-productive-capital-but-xrp-stays-in-free-fall/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T19:26:54.769Z"
+    },
+    {
+      "id": "573c0ef2b62f544c187f7d9b5c5d22928b3e62123d75f14aafcb22b0784600c4",
+      "title": "NewsBTCChainalysis Adds Automatic Stablecoin Support As Compliance Teams Face Token Sprawl",
+      "url": "https://www.tradingview.com/news/newsbtc:6ca59aeac094b:0-chainalysis-adds-automatic-stablecoin-support-as-compliance-teams-face-token-sprawl/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T19:26:54.769Z"
+    },
+    {
+      "id": "0b6fd6eceeb7fcb4c6c22e60c1c8fe30c1d23142f42063c9be16b40a4d6799fe",
+      "title": "MFN by Modular FinanceGoobit responds to Finansinspektionen's MiCA decision and strengthens the board with two co-opted members",
+      "url": "https://www.tradingview.com/news/modular_finance:2543f8fd03a50:0-goobit-responds-to-finansinspektionen-s-mica-decision-and-strengthens-the-board-with-two-co-opted-members/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T19:26:54.769Z"
+    },
+    {
+      "id": "02d190d2db5aac10b64e6f9bfe38d2e7a2fda5c58b02e6486ae8afd8d5df7d7c",
+      "title": "The BlockUS-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation",
+      "url": "https://www.tradingview.com/news/the_block:7d5c08674094b:0-us-uk-transatlantic-taskforce-unveils-digital-asset-roadmap-promoting-stablecoin-innovation/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T19:26:54.769Z"
+    },
+    {
+      "id": "4a9c57914f7c78f8ad9a47b76f2ef122bcd273eb67de72aa2f1e05ba76e51bec",
+      "title": "BeincryptoCircle Refused to Recover a Scam Victim’s USDC, Wisconsin’s Criminal Complaint Says",
+      "url": "https://www.tradingview.com/news/beincrypto:9a5496fde094b:0-circle-refused-to-recover-a-scam-victim-s-usdc-wisconsin-s-criminal-complaint-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T19:26:54.770Z"
+    },
+    {
+      "id": "6f0c73b6b2a3f337e0fadbde1f2c0fe37d50c76e6d56f78a9c05596acee78ffb",
+      "title": "Finance MagnatesInteractive Brokers Expands Stablecoin Funding as Multi-Asset Competition Intensifies",
+      "url": "https://www.tradingview.com/news/financemagnates:48afab6d1094b:0-interactive-brokers-expands-stablecoin-funding-as-multi-asset-competition-intensifies/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T19:26:54.770Z"
+    },
     {
       "id": "a373d911c633bc9a326e027fdd058ff62d4fd918620a01b98427dc50f1c4dd95",
       "title": "StocktwitsKevin Warsh Says Fed Is Not In The 'Bailout Business' If Crypto, Stablecoins Fail",
       "url": "https://www.tradingview.com/news/stocktwits:733efc9bd094b:0-kevin-warsh-says-fed-is-not-in-the-bailout-business-if-crypto-stablecoins-fail/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.190Z"
+      "scraped_at": "2026-07-14T19:26:54.770Z"
     },
     {
       "id": "ae3d0ed131c6ae47e0e23161b94fc1b20c7fd90dd3e17b588a31bb868282a36b",
       "title": "The BlockCoinFund’s David Pakman says crypto hasn’t solved tokenomics",
       "url": "https://www.tradingview.com/news/the_block:246abac5c094b:0-coinfund-s-david-pakman-says-crypto-hasn-t-solved-tokenomics/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.190Z"
+      "scraped_at": "2026-07-14T19:26:54.770Z"
     },
     {
       "id": "bf5b90e55395474409c34ebcff1c43c4cb9f6920ade1c7c54e4d212f546b8f22",
       "title": "NewsBTCEthereum Governance Debate Turns To Who Really Controls Voting Power",
       "url": "https://www.tradingview.com/news/newsbtc:a09e6e00c094b:0-ethereum-governance-debate-turns-to-who-really-controls-voting-power/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.190Z"
+      "scraped_at": "2026-07-14T19:26:54.770Z"
     },
     {
       "id": "649ed72d0fcc68305626d555230ddef0db369f39db3f86f06fc2add45d1a5178",
       "title": "CointelegraphUK government defers capital gains on certain crypto with ‘no gain, no loss’ approach",
       "url": "https://www.tradingview.com/news/cointelegraph:01e269151094b:0-uk-government-defers-capital-gains-on-certain-crypto-with-no-gain-no-loss-approach/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.190Z"
+      "scraped_at": "2026-07-14T19:26:54.770Z"
     },
     {
       "id": "935c91b3e0184dfbcc6eeb0badc631631e51e2494abfb2971d7242d1c0a7fe76",
       "title": "The BlockWall Street turns cautious on Circle as analysts warn USDC economics face mounting pressure",
       "url": "https://www.tradingview.com/news/the_block:f6be46945094b:0-wall-street-turns-cautious-on-circle-as-analysts-warn-usdc-economics-face-mounting-pressure/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.190Z"
+      "scraped_at": "2026-07-14T19:26:54.770Z"
     },
     {
       "id": "7d5e65921a5e18c6df2bd7ef685a5bb0cd69e0b8ff9e84bbd29bcbed2dc932c2",
       "title": "StocktwitsHut 8 Stock Hits One-Month Low – Analyst Doubles Price Target Amid The Dip",
       "url": "https://www.tradingview.com/news/stocktwits:fcc8121ba094b:0-hut-8-stock-hits-one-month-low-analyst-doubles-price-target-amid-the-dip/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.190Z"
+      "scraped_at": "2026-07-14T19:26:54.770Z"
     },
     {
       "id": "ba4cd04c09143e08beaa063ace50e9cedd08b27562947acf63e5eedd1b573fe5",
       "title": "ReutersSome Coinbase Users Experiencing Degraded Trading Performance On Coinbase.Com",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43G0W0:0-some-coinbase-users-experiencing-degraded-trading-performance-on-coinbase-com/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.190Z"
-    },
-    {
-      "id": "818fbb6185172ffa0bbf3b27e0c690a23ff1186fe1873450ebfe1a81dfc4964d",
-      "title": "CointelegraphJCB signs Circle MOU to test stablecoin payments in Japan",
-      "url": "https://www.tradingview.com/news/cointelegraph:26cc0ce53094b:0-jcb-signs-circle-mou-to-test-stablecoin-payments-in-japan/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.191Z"
-    },
-    {
-      "id": "236dc44541447c5f0198fdc242fa88d038fff127483dbb4f72be6f531de345f4",
-      "title": "CoinMarketCalVirtuals Protocol: launches agent pairing on peaq - 14 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:1c90b882d094b:0-virtuals-protocol-launches-agent-pairing-on-peaq-14-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.191Z"
-    },
-    {
-      "id": "c3a1d984a69a22a7b769f04ad7d315ed8d13a1f8f6a69930235de4f4875f9559",
-      "title": "CoinMarketCalRender: adds payments on OTOY Studio - 14 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:87a58831a094b:0-render-adds-payments-on-otoy-studio-14-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.191Z"
-    },
-    {
-      "id": "f45441bab34af85cbe1aaafd91eb2c451b2a2da76fc485f401b8dbd454c22e8e",
-      "title": "CoinMarketCalAave: launches lending on Monad - 14 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:4f221ee9a094b:0-aave-launches-lending-on-monad-14-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.191Z"
-    },
-    {
-      "id": "e6bf72acd5d8a8c22b05141514fb3ce9f276e35c5ddcb251cbc99c3859c796c2",
-      "title": "NewsBTCEthereum Foundation Clear Signing Push Targets Crypto’s Blind Approval Problem",
-      "url": "https://www.tradingview.com/news/newsbtc:9e4528356094b:0-ethereum-foundation-clear-signing-push-targets-crypto-s-blind-approval-problem/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.191Z"
-    },
-    {
-      "id": "dc43a9be84181b5f535cd65eae2dde115803b0ff274c0936cc2b4b428b0e2de7",
-      "title": "NewsBTCInjective SDK Compromise Puts Wallet Private Keys Back In The Security Spotlight",
-      "url": "https://www.tradingview.com/news/newsbtc:c845d7b35094b:0-injective-sdk-compromise-puts-wallet-private-keys-back-in-the-security-spotlight/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.191Z"
-    },
-    {
-      "id": "93146a593c7537437f9185b802cc1c114020ebaa077caf93e9932160af5eda41",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260714006604:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.191Z"
-    },
-    {
-      "id": "2d26bd3dda0e9c2c4bd8543bfc2d6429eafe0597cd72aec8253ddfb491a55532",
-      "title": "NewsBTCTimelock Account Recovery Gives Ethereum Smart Accounts A Safer Backup Route",
-      "url": "https://www.tradingview.com/news/newsbtc:f99e1be5f094b:0-timelock-account-recovery-gives-ethereum-smart-accounts-a-safer-backup-route/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T17:49:12.191Z"
+      "scraped_at": "2026-07-14T19:26:54.770Z"
     }
   ]
 }
