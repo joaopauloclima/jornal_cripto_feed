@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-07-14T14:57:37.519Z",
-  "total": 14,
+  "generated_at": "2026-07-14T16:22:24.209Z",
+  "total": 15,
   "items": [
+    {
+      "id": "93146a593c7537437f9185b802cc1c114020ebaa077caf93e9932160af5eda41",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260714006604:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T16:22:24.204Z"
+    },
+    {
+      "id": "2d26bd3dda0e9c2c4bd8543bfc2d6429eafe0597cd72aec8253ddfb491a55532",
+      "title": "NewsBTCTimelock Account Recovery Gives Ethereum Smart Accounts A Safer Backup Route",
+      "url": "https://www.tradingview.com/news/newsbtc:f99e1be5f094b:0-timelock-account-recovery-gives-ethereum-smart-accounts-a-safer-backup-route/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T16:22:24.204Z"
+    },
+    {
+      "id": "fe3cde92fa4d21172d09cb946f55ef43ac657b0b64142029e0cab1974abb9fe4",
+      "title": "The BlockBitcoin mining production slips in June for CleanSpark, BitFuFu and Canaan",
+      "url": "https://www.tradingview.com/news/the_block:30f4dfe4d094b:0-bitcoin-mining-production-slips-in-june-for-cleanspark-bitfufu-and-canaan/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T16:22:24.204Z"
+    },
+    {
+      "id": "6021c0a5ddab8f48906a1f2c711e4a82f1e347f80caa8ef9fb51922ac068da06",
+      "title": "StocktwitsGalaxy Simplifies DeFi Borrowing For Institutions With New Onchain Credit Platform",
+      "url": "https://www.tradingview.com/news/stocktwits:e5f23fbab094b:0-galaxy-simplifies-defi-borrowing-for-institutions-with-new-onchain-credit-platform/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T16:22:24.204Z"
+    },
+    {
+      "id": "cd3e7b55291d7d93a1a7770b49d6a423484cf715f8c9ed3c3f48e284b14995d6",
+      "title": "The BlockGalaxy blends Aave, Morpho and other DeFi rates in new GOFR crypto borrowing product",
+      "url": "https://www.tradingview.com/news/the_block:def085f56094b:0-galaxy-blends-aave-morpho-and-other-defi-rates-in-new-gofr-crypto-borrowing-product/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T16:22:24.204Z"
+    },
+    {
+      "id": "dbed0ddc7e50fa75813e4ab2ed9a077e7b1a2fdabbea096ebbe4a85cd0d53de7",
+      "title": "The Block‘Soft print, hard regime’: Bitcoin climbs toward $64,000 as June CPI falls 0.4% in largest monthly drop since 2020",
+      "url": "https://www.tradingview.com/news/the_block:00b25b6a9094b:0-soft-print-hard-regime-bitcoin-climbs-toward-64-000-as-june-cpi-falls-0-4-in-largest-monthly-drop-since-2020/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T16:22:24.204Z"
+    },
+    {
+      "id": "35d87ccfe135c3466d4183fc53cf0d46e1cd0d783b0cb0f5f6982db9f972e3c3",
+      "title": "CointelegraphAnchorage Digital expands Tron support with institutional TRX staking",
+      "url": "https://www.tradingview.com/news/cointelegraph:2ae07a113094b:0-anchorage-digital-expands-tron-support-with-institutional-trx-staking/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T16:22:24.204Z"
+    },
+    {
+      "id": "ecb86e7ceb871d3ac1e52e56c13b6fcfcedd3fc4965d7f5ecff6fa6b2c82f78c",
+      "title": "CointelegraphBitcoin jumps on lowest US CPI since 2020 as traders stay wary of $64K failure",
+      "url": "https://www.tradingview.com/news/cointelegraph:e7fa14357094b:0-bitcoin-jumps-on-lowest-us-cpi-since-2020-as-traders-stay-wary-of-64k-failure/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-14T16:22:24.204Z"
+    },
     {
       "id": "8efd771479d161e3feb2768a29bcce7a9541b0846d51b9a7304f4c5dd188d9f1",
       "title": "The BlockTether leads $7 million round in Pact Labs to boost USAT stablecoin adoption",
       "url": "https://www.tradingview.com/news/the_block:66aa3d241094b:0-tether-leads-7-million-round-in-pact-labs-to-boost-usat-stablecoin-adoption/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.515Z"
+      "scraped_at": "2026-07-14T16:22:24.204Z"
     },
     {
       "id": "37d0a6b2482cf6a10451cef71fdb7045b7d14d84ec6bbf75298800e9cd06e0a8",
       "title": "StocktwitsTom Lee Says Ethereum Needs More Privacy Before '$100 Trillion' Moves On-Chain — New Startup Aims To Deliver It",
       "url": "https://www.tradingview.com/news/stocktwits:8a31f3750094b:0-tom-lee-says-ethereum-needs-more-privacy-before-100-trillion-moves-on-chain-new-startup-aims-to-deliver-it/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
+      "scraped_at": "2026-07-14T16:22:24.204Z"
     },
     {
       "id": "b840de6c6a1b9dd5f72b6fcd43c6385aa10c5fe1ff747129829f2b26953fa99b",
       "title": "The BlockDragonfly, FirstMark lead $38 million Series A for stablecoin startup Velocity with support from Coinbase, Ripple and more",
       "url": "https://www.tradingview.com/news/the_block:171b058ab094b:0-dragonfly-firstmark-lead-38-million-series-a-for-stablecoin-startup-velocity-with-support-from-coinbase-ripple-and-more/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
+      "scraped_at": "2026-07-14T16:22:24.204Z"
     },
     {
       "id": "d96c91042d5f27069e44926a08ac4f051347b5262892248c4d583a3bcfa876ec",
       "title": "The BlockDecentralized AI project Nous Research in talks to raise $75M at $1.5B valuation: report",
       "url": "https://www.tradingview.com/news/the_block:fa22d5273094b:0-decentralized-ai-project-nous-research-in-talks-to-raise-75m-at-1-5b-valuation-report/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
+      "scraped_at": "2026-07-14T16:22:24.204Z"
     },
     {
       "id": "81b1d6b0779ff32f8d8bbcebda6774f6c0b78fb6b770a2a45220b2f65a324dfe",
       "title": "CoinMarketCalCurve DAO: opens voting to activate LlamaLend 2 markets - 21 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:f8997252c094b:0-curve-dao-opens-voting-to-activate-llamalend-2-markets-21-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
+      "scraped_at": "2026-07-14T16:22:24.204Z"
     },
     {
       "id": "d796031b32f22f561287d16140756eaa6c64c09ae5dfeb500cac472e5d009dec",
       "title": "CoinMarketCalCelo: gains Ledger fee abstraction support - 14 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:23e24d90c094b:0-celo-gains-ledger-fee-abstraction-support-14-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
+      "scraped_at": "2026-07-14T16:22:24.204Z"
     },
     {
       "id": "ee5064e753efce5c0fa9077d0b8611593b785a8976325d0cda1addc53586f3ce",
       "title": "CoinMarketCalCardano: enacts the Van Rossem hard fork - 18 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:e41c8fd8d094b:0-cardano-enacts-the-van-rossem-hard-fork-18-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
-    },
-    {
-      "id": "ef8107a1c19fedad471cfed6b88052dd0b5780d70cb455f7b5408e36660ce2a9",
-      "title": "BeincryptoXRP Holders Just Got Their Strongest Utility Signal Since the Lawsuit Ended",
-      "url": "https://www.tradingview.com/news/beincrypto:876ad0681094b:0-xrp-holders-just-got-their-strongest-utility-signal-since-the-lawsuit-ended/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
-    },
-    {
-      "id": "24b5c40e99868dad8f37ca0dd840d702b347763dc912017f9a16d61c7694c61e",
-      "title": "StocktwitsCLSK Stock Leads Gains Among Crypto Equities – Lifting Data Center-Focused Bitcoin Miners",
-      "url": "https://www.tradingview.com/news/stocktwits:9e80b08a5094b:0-clsk-stock-leads-gains-among-crypto-equities-lifting-data-center-focused-bitcoin-miners/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
-    },
-    {
-      "id": "c7196c9f63c3b6014cb6ba5b00223be055bb5ec418c2498c926b3e546d04a9ec",
-      "title": "ReutersPerpetuals.com ends acquisition talks with Trump-linked crypto firm",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N43G0W0:0-perpetuals-com-ends-acquisition-talks-with-trump-linked-crypto-firm/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
-    },
-    {
-      "id": "51813e24ac3b1b8222566dedd3bf5ee3bf5fa85ab75233cbbc5f587807fa5439",
-      "title": "Finance MagnatesBlockchain.com Taps Polymarket to Capture Event-Trading Demand Inside Its Brokerage App",
-      "url": "https://www.tradingview.com/news/financemagnates:1ba2b4797094b:0-blockchain-com-taps-polymarket-to-capture-event-trading-demand-inside-its-brokerage-app/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
-    },
-    {
-      "id": "7aea5b971b1349b211086803a5efb2841119e251fee7bbbf1d7051e532ad3cf8",
-      "title": "CointelegraphOpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
-      "url": "https://www.tradingview.com/news/cointelegraph:630d3c9ad094b:0-openai-quietly-adds-kalshi-world-cup-odds-to-chatgpt-report/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
-    },
-    {
-      "id": "8a423a999c0b0d5b9fb871bbe804c5bc8f852f766fa2eb9316827e4f6ce6fa05",
-      "title": "CryptoNewsJune CPI Beat Sparks Bitcoin Surge, but the Fed’s September Hike Looms",
-      "url": "https://www.tradingview.com/news/cryptonews:a69b62351094b:0-june-cpi-beat-sparks-bitcoin-surge-but-the-fed-s-september-hike-looms/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
-    },
-    {
-      "id": "e3900816758d38fe070f0cb7d244ab91685c670798d071cb9a980aab76c69ff6",
-      "title": "BeincryptoRobinhood Chain Makes the Case That Ethereum Is Far From Dead",
-      "url": "https://www.tradingview.com/news/beincrypto:86e7ddcaa094b:0-robinhood-chain-makes-the-case-that-ethereum-is-far-from-dead/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-14T14:57:37.516Z"
+      "scraped_at": "2026-07-14T16:22:24.204Z"
     }
   ]
 }
