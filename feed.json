@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-07-16T04:44:28.037Z",
-  "total": 15,
+  "generated_at": "2026-07-16T07:10:50.567Z",
+  "total": 14,
   "items": [
+    {
+      "id": "aa2e50c900a37ca7cb84a61f568e9fa36c4028ea6711a7be5b6a074a76897b30",
+      "title": "TheNewswireAmendment and Exercise of Option on Kechika North Project",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-07-16:newsml_Tnw16dVdZ:0-amendment-and-exercise-of-option-on-kechika-north-project/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-16T07:10:50.563Z"
+    },
+    {
+      "id": "472495dbbd5d76cebaa965c2fe9f5e1343b6d40669d4a67b9f749db5910f0ba6",
+      "title": "ReutersKraken Investigating An Issue With The Lightning Network Funding Gateway Deposits",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43H1FK:0-kraken-investigating-an-issue-with-the-lightning-network-funding-gateway-deposits/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-16T07:10:50.563Z"
+    },
+    {
+      "id": "f23ebd1e8d8b1aec7f30d3cc87b91da4f4b71f16f260de54f1e141ad4e154d4b",
+      "title": "FinanceWireRedotPay Earns SOC 2 Type II Certification, Demonstrating Commitment to Secure Stablecoin Payments",
+      "url": "https://www.tradingview.com/news/financewire:d6bbdfa94094b:0-redotpay-earns-soc-2-type-ii-certification-demonstrating-commitment-to-secure-stablecoin-payments/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-16T07:10:50.563Z"
+    },
+    {
+      "id": "da7988d943ea1239da13b32b7b4b501091bbac1625fbc5c511f544bafd52c179",
+      "title": "ReutersKraken Identified An Issue With The Banking Circle Funding Gateway Withdrawals",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43I0JH:0-kraken-identified-an-issue-with-the-banking-circle-funding-gateway-withdrawals/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-16T07:10:50.563Z"
+    },
+    {
+      "id": "dba663dc538306d613c1a6fb718060496c0438a3c55258d222d1db5996ba74ac",
+      "title": "The BlockBitcoin whale moves $383 million in BTC after 8 years of dormancy: onchain data",
+      "url": "https://www.tradingview.com/news/the_block:13b0e0bbc094b:0-bitcoin-whale-moves-383-million-in-btc-after-8-years-of-dormancy-onchain-data/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-16T07:10:50.563Z"
+    },
+    {
+      "id": "c47e5b7c93f9cb5ef69026aec3ce0310c1c7f1023246d0e8d640642c864b128d",
+      "title": "CointelegraphHyperion DeFi to deploy 500K HYPE for Hyperliquid HIP-3 markets",
+      "url": "https://www.tradingview.com/news/cointelegraph:c6b90a058094b:0-hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-16T07:10:50.563Z"
+    },
+    {
+      "id": "7cd97535433f4a64d965ae1c82a37ec785859f1cb7d1adacd59b4909d5032459",
+      "title": "CoinMarketCalPharos: launches Harbor RWA aggregator - 16 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:6dd367bb3094b:0-pharos-launches-harbor-rwa-aggregator-16-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-16T07:10:50.563Z"
+    },
+    {
+      "id": "a0895a76ff9633b8cf7e72a49b0e6106ac143dc46a385a5989e7d69690fe301a",
+      "title": "BeincryptoFresh Ethereum Wallets Buy 50,000 ETH as ETH/BTC Ratio Jumps 6%",
+      "url": "https://www.tradingview.com/news/beincrypto:87f3473f0094b:0-fresh-ethereum-wallets-buy-50-000-eth-as-eth-btc-ratio-jumps-6/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-16T07:10:50.563Z"
+    },
     {
       "id": "4d7c615a22e3609a1dbb651db17a754bda856d55d2832f2917590aefb666e90d",
       "title": "CointelegraphTrump to meet with senators over CLARITY Act on Thursday: Politico",
       "url": "https://www.tradingview.com/news/cointelegraph:c63cc2871094b:0-trump-to-meet-with-senators-over-clarity-act-on-thursday-politico/",
       "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.032Z"
+      "scraped_at": "2026-07-16T07:10:50.563Z"
     },
     {
       "id": "52f8bb3cee87ad93d468a4acb8111c98d571352df3d1eaa0fc017139ee8b5e76",
       "title": "Crypto BriefingRevolut secures in-principle approval for virtual asset services in Dubai",
       "url": "https://www.tradingview.com/news/cryptobriefing:f6bdaf38a094b:0-revolut-secures-in-principle-approval-for-virtual-asset-services-in-dubai/",
       "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.032Z"
+      "scraped_at": "2026-07-16T07:10:50.563Z"
     },
     {
       "id": "e46cd70b175f3702ae602422c7e843ac3016643b89680d8e736ff0ec9f0efb90",
       "title": "Binance NewsPhotonPay Opens Brazil Office to Expand Latin America Payment Operations",
       "url": "https://www.tradingview.com/news/binance_news:500fa0073094b:0-photonpay-opens-brazil-office-to-expand-latin-america-payment-operations/",
       "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.032Z"
+      "scraped_at": "2026-07-16T07:10:50.563Z"
     },
     {
       "id": "77a32c706881a3283d02d169034487fe6e3d83e7ca9784369429a823a276c481",
       "title": "Binance NewsTempo Partners With Meow to Offer Commercial Banking Solutions",
       "url": "https://www.tradingview.com/news/binance_news:e70135694094b:0-tempo-partners-with-meow-to-offer-commercial-banking-solutions/",
       "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.032Z"
+      "scraped_at": "2026-07-16T07:10:50.563Z"
     },
     {
       "id": "1edfe369943b518f608122540e42633f5e0d729e54f89c30366b0bc124ef08e4",
       "title": "Binance NewsBinance Affiliate Program to Implement 3x Volume Multiplier on bStocks Trading",
       "url": "https://www.tradingview.com/news/binance_news:2276597e2094b:0-binance-affiliate-program-to-implement-3x-volume-multiplier-on-bstocks-trading/",
       "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.032Z"
+      "scraped_at": "2026-07-16T07:10:50.563Z"
     },
     {
-      "id": "07f4e26f5957ed983ca66376e7ebde5d5e5c97fbb405e81e96d02de807300fe3",
-      "title": "CNBC TV18Start a free trial to read this news",
-      "url": "https://www.tradingview.com/news/cnbctv:398dbb42c094b:0/",
+      "id": "b94dc3be77057f34f35a0d0e3c62389853ad74c4d1c452b740355eeaa6201cdf",
+      "title": "CoinpediaRipple Pushes CLARITY Act as Senate Vote Nears: ‘A Vote Against It Is Anti-Consumer’",
+      "url": "https://www.tradingview.com/news/coinpedia:78bb039dd094b:0-ripple-pushes-clarity-act-as-senate-vote-nears-a-vote-against-it-is-anti-consumer/",
       "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.032Z"
-    },
-    {
-      "id": "cc053bc2f294244ba203c8f011ead94134daa9114dd02dadcf6ab50fdb104ac2",
-      "title": "Binance NewsSOON to Unlock 20.24 Million Tokens on July 23",
-      "url": "https://www.tradingview.com/news/binance_news:004510492094b:0-soon-to-unlock-20-24-million-tokens-on-july-23/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.032Z"
-    },
-    {
-      "id": "0e8b3fdbf7ff3e58140db9b58f0740931d855e29b880af26afd76c9c43e1fd4d",
-      "title": "Binance NewsZora to Unlock 166.67 Million Tokens Worth $1.15 Million on July 23",
-      "url": "https://www.tradingview.com/news/binance_news:233bab16d094b:0-zora-to-unlock-166-67-million-tokens-worth-1-15-million-on-july-23/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.032Z"
-    },
-    {
-      "id": "acab22dabc1cddf30e66c84f3816e14ff6e2302b637fc5d15716d632ccfbf9e5",
-      "title": "Binance NewsFalconX to Acquire Blockchain Infrastructure Firm bloXroute",
-      "url": "https://www.tradingview.com/news/binance_news:2ae89c765094b:0-falconx-to-acquire-blockchain-infrastructure-firm-bloxroute/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.033Z"
-    },
-    {
-      "id": "dc4e34915fc54bb426b8a9f1b1d8c15b46d2aa6caf947ec9a61af6996c5b0dc9",
-      "title": "Binance NewsRWA Perpetual Contract Trading Volume Hits Record $120 Billion in June",
-      "url": "https://www.tradingview.com/news/binance_news:fc6baf6fa094b:0-rwa-perpetual-contract-trading-volume-hits-record-120-billion-in-june/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.033Z"
-    },
-    {
-      "id": "2b9bf645da9bdc57c4ff15dfc880a713814bb7e090adff7724903bc7fb798047",
-      "title": "Binance NewsBitcoin OG Transfers 5,908 BTC After Eight-Year Dormancy",
-      "url": "https://www.tradingview.com/news/binance_news:0222b0887094b:0-bitcoin-og-transfers-5-908-btc-after-eight-year-dormancy/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.033Z"
-    },
-    {
-      "id": "d6a93fb0f35d7ce78081b1bb0b4c47805d838e47558474dc4470234a4c147ef3",
-      "title": "Binance NewsKaia Opens Early Deposits for First CR Mission With USDT and KAIA Staking Requirements",
-      "url": "https://www.tradingview.com/news/binance_news:0956aa8bc094b:0-kaia-opens-early-deposits-for-first-cr-mission-with-usdt-and-kaia-staking-requirements/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.033Z"
-    },
-    {
-      "id": "eefa7b402b4ba381e30c8ee163628bd75e3e097293b2e3fe0b723f452bec9c36",
-      "title": "Binance NewsTanzania's Central Bank Finalizes Digital Asset Regulations to Protect Investors",
-      "url": "https://www.tradingview.com/news/binance_news:e33f649fc094b:0-tanzania-s-central-bank-finalizes-digital-asset-regulations-to-protect-investors/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.033Z"
-    },
-    {
-      "id": "7803931ae787e039dfa7ba50b288d2363c765aaf96000a94d99d3044e3bf5831",
-      "title": "Binance NewsSPCX Decline Pushes Long Position Into Deep Loss, Address Faces 52% Unrealized Loss",
-      "url": "https://www.tradingview.com/news/binance_news:22b1abd3e094b:0-spcx-decline-pushes-long-position-into-deep-loss-address-faces-52-unrealized-loss/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.033Z"
-    },
-    {
-      "id": "d0820f7464284ffea4044b05c369bfa08f2801ceba6bc2d6fe253a679faa62cd",
-      "title": "Binance NewsAXON Finance Raises $2M in Strategic Funding for PayFi AI Layer 1",
-      "url": "https://www.tradingview.com/news/binance_news:1ff88a15f094b:0-axon-finance-raises-2m-in-strategic-funding-for-payfi-ai-layer-1/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-16T04:44:28.033Z"
+      "scraped_at": "2026-07-16T07:10:50.563Z"
     }
   ]
 }
