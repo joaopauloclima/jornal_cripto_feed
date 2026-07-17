@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-17T01:13:14.184Z",
+  "generated_at": "2026-07-17T04:47:45.242Z",
   "total": 15,
   "items": [
     {
-      "id": "9194e69d4a543eedd437526fc4ad351466d934c4191a9c70093891eaaa11a0f9",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260716009932:0/",
+      "id": "d417908b09a796ec3863f857a505ef27745d18259560a4962875a89d197073f9",
+      "title": "ChainwireMEXC May–June Report: 750M+ USDT Futures Insurance Fund & 100% Asset Reserves",
+      "url": "https://www.tradingview.com/news/chainwire:c34384ae9094b:0-mexc-may-june-report-750m-usdt-futures-insurance-fund-100-asset-reserves/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
+      "scraped_at": "2026-07-17T04:47:45.238Z"
+    },
+    {
+      "id": "19e820e5bbc7cd2aea188379f5f0374339c825073b28ca9839af79b64331c0f7",
+      "title": "Crypto BriefingIran attacks US command center in Syria, escalating tensions",
+      "url": "https://www.tradingview.com/news/cryptobriefing:7c67badd9094b:0-iran-attacks-us-command-center-in-syria-escalating-tensions/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "0e24f901687d3150c631e7957c788812df1b4c268db655f3ee9e7114a8fbe7c3",
+      "title": "CointelegraphCrypto exchange Bybit launches in Indonesia after NOBI acquisition",
+      "url": "https://www.tradingview.com/news/cointelegraph:a6b1c0972094b:0-crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "ca1b5e455fbff5711e40ede97b2fefc60187e55188c9536ba0c20514d1436238",
+      "title": "Crypto BriefingUS Marines board tanker amid Iranian port blockade, expand strikes on infrastructure",
+      "url": "https://www.tradingview.com/news/cryptobriefing:7de626e50094b:0-us-marines-board-tanker-amid-iranian-port-blockade-expand-strikes-on-infrastructure/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "ad2e9afa1a17afde4b644d311c188e6f32bc122192fe6905da40016c7f19fcbe",
+      "title": "CoinpediaStanford Study Flags Bitcoin Market Manipulation on Polymarket",
+      "url": "https://www.tradingview.com/news/coinpedia:f6d5617da094b:0-stanford-study-flags-bitcoin-market-manipulation-on-polymarket/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "628a14d033d8efb673d1eb6b4741bfa599b182a7053f11fa66c0195a62f268d7",
+      "title": "CoinpediaBitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today",
+      "url": "https://www.tradingview.com/news/coinpedia:359cb5979094b:0-bitcoin-ethereum-and-xrp-prices-fall-after-trump-s-speech-today/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "6f919b4685aa2fd0a10d79741c7219cff4c66161c392eaaf226994a6e6654f44",
+      "title": "CointelegraphBalaji seeks Malaysia deal, threatens exit after Network School probe",
+      "url": "https://www.tradingview.com/news/cointelegraph:bde2f23fc094b:0-balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "ca42a248077c4ff1061125d183a15e961d7c2c409b4b8cc2cc3e65ed6b13d73a",
+      "title": "Binance NewsRussia Delays Bill on Criminal Liability for Illegal Crypto Trading Until New Duma Election",
+      "url": "https://www.tradingview.com/news/binance_news:e3eab7320094b:0-russia-delays-bill-on-criminal-liability-for-illegal-crypto-trading-until-new-duma-election/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "37699c7c653db1b8e905ff04fb40476482d86db2ee7372058848b3e3010b6b6a",
+      "title": "Binance NewsUK Gang Sentenced for Stealing $5.4 Million in Crypto Scam",
+      "url": "https://www.tradingview.com/news/binance_news:9b7732504094b:0-uk-gang-sentenced-for-stealing-5-4-million-in-crypto-scam/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "737e166c41ecd70f5b0fa1fe19712ebd9fe952c3f1dc37e81b3526f968b419aa",
+      "title": "Binance NewsSuspected a16z Address Withdraws 471,500 HYPE From Hyperliquid and Transfers It to Multiple Trading Platforms",
+      "url": "https://www.tradingview.com/news/binance_news:b3a9b0698094b:0-suspected-a16z-address-withdraws-471-500-hype-from-hyperliquid-and-transfers-it-to-multiple-trading-platforms/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "67937306d19f6e70b6dc3248b5ef529a6c44a472c82261207b9ec22a6ecc5015",
+      "title": "Binance NewsRussia Drafts Bill To Restrict Nonprofessional Investors From Buying Foreign Stablecoins",
+      "url": "https://www.tradingview.com/news/binance_news:c436e2f72094b:0-russia-drafts-bill-to-restrict-nonprofessional-investors-from-buying-foreign-stablecoins/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "fcc3622bdeacf2abd4b73606a74f7b5a22f2773c4f3e64ce05157b7c99579472",
+      "title": "Binance NewsBSC Project CrowdRingCircle Suffers Suspected Attack, Losing About $201,400",
+      "url": "https://www.tradingview.com/news/binance_news:9e57a98ab094b:0-bsc-project-crowdringcircle-suffers-suspected-attack-losing-about-201-400/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
+    },
+    {
+      "id": "f08280d4118edc2cd916cc47a3fd97fd2de92b045960e4caec9bd1c7e4d0d1fd",
+      "title": "Binance NewsPolymarket Elon Musk Tweet Market Sees Sharp Swing in 140-159 Submarket",
+      "url": "https://www.tradingview.com/news/binance_news:5f614979b094b:0-polymarket-elon-musk-tweet-market-sees-sharp-swing-in-140-159-submarket/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T04:47:45.239Z"
     },
     {
       "id": "c2f1ac08fed76857b4eff31daaacc4f3c8a9708cb37496f709f818eccfc033f0",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260716009933:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
+      "scraped_at": "2026-07-17T04:47:45.239Z"
     },
     {
-      "id": "55cdca41e3add657465cdfe9f4225550b8095846209f1ad1477d262aa362ab9c",
-      "title": "CointelegraphBitcoin liquidity clusters determine BTC’s price direction as futures flow fuels price",
-      "url": "https://www.tradingview.com/news/cointelegraph:847c2e080094b:0-bitcoin-liquidity-clusters-determine-btc-s-price-direction-as-futures-flow-fuels-price/",
+      "id": "fb8b2b23da4bb8af06a284f5df0cc18ca4c6bb55967d15e98fb4b5594f854f57",
+      "title": "Binance NewsCardone Capital Adds 10.5 Bitcoin, Raises Hybrid Real Estate-Bitcoin Holdings Above 2,700 BTC",
+      "url": "https://www.tradingview.com/news/binance_news:841d9b15c094b:0-cardone-capital-adds-10-5-bitcoin-raises-hybrid-real-estate-bitcoin-holdings-above-2-700-btc/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "dbf705bf631da36e2c8f1d7edc2cf1e282acddee0c75a7f700b0b776070a83f3",
-      "title": "CointelegraphCitadel Securities invests $400M in Crypto.com at $20B valuation",
-      "url": "https://www.tradingview.com/news/cointelegraph:9ca429415094b:0-citadel-securities-invests-400m-in-crypto-com-at-20b-valuation/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "a5d8ebe696180ed161b3d48673bff663907ec2c7796e6a61d8bbb3cda9f8b8bd",
-      "title": "CointelegraphPolygon CEO announces job cuts amid Coinme acquisition",
-      "url": "https://www.tradingview.com/news/cointelegraph:388c78d87094b:0-polygon-ceo-announces-job-cuts-amid-coinme-acquisition/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "638acb3173dcd8f62baf39add293dc61b762819302498df51396127887e59c61",
-      "title": "BeincryptoTom Lee Says Ethereum’s Biggest Bull Case Is No Longer Crypto",
-      "url": "https://www.tradingview.com/news/beincrypto:2e6f7fcb0094b:0-tom-lee-says-ethereum-s-biggest-bull-case-is-no-longer-crypto/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "2e93412d5a31d073f92e208b4c8e6118d6dfa0c144f75013fb98ead94cf15cce",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260716007389:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "13338561e725444d4a593f636257f658fcf1e4b36c67a6cc4085faea21adae96",
-      "title": "Finance MagnatesCitadel Securities Takes $400M Stake in Crypto.com as Digital Markets Strategy Accelerates",
-      "url": "https://www.tradingview.com/news/financemagnates:8a4c3a29d094b:0-citadel-securities-takes-400m-stake-in-crypto-com-as-digital-markets-strategy-accelerates/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "6827cb767e67ccb65390d614e3f30100ea7d4bd077196557c8489bf7c3809b74",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:86fcd177a094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "808c38399277508d8a9ccef8495978486a0823dd4008004c6ffa6e72abe80dda",
-      "title": "CointelegraphBitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?",
-      "url": "https://www.tradingview.com/news/cointelegraph:dc59d3b72094b:0-bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "dd2453816e5666a94097f36e083568a0fe91232c2d6d4e1b6aab1f29fe46a5f8",
-      "title": "dpa-AFXVisa Launches Stablecoin Platform To Help Institutions Integrate Digital Payments",
-      "url": "https://www.tradingview.com/news/dpa_afx:fb08251034e1d:0-visa-launches-stablecoin-platform-to-help-institutions-integrate-digital-payments/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "f3ac6e26e3a4af68a5acc2294f66a2e68393fa69ea5f10865054adaafa8ff8b1",
-      "title": "Cointelegraph1inch co-founder says he was fired, announces new venture",
-      "url": "https://www.tradingview.com/news/cointelegraph:de5651466094b:0-1inch-co-founder-says-he-was-fired-announces-new-venture/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "54527d183c7ee0e7178b8a80ecbdf817929ce30f2d55749061165c99335c118e",
-      "title": "Finance MagnatesKraken Launches USD-Settled Crypto Options for Institutional Traders",
-      "url": "https://www.tradingview.com/news/financemagnates:c72ad44f1094b:0-kraken-launches-usd-settled-crypto-options-for-institutional-traders/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "a031f5bebf8d737693cde6879fd29053abf87f0ed65eacb6604a75698b5af10d",
-      "title": "CoinMarketCalMeteora: launches a referral staking program - 26 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:749fa825d094b:0-meteora-launches-a-referral-staking-program-26-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
-    },
-    {
-      "id": "ee099aa60fe75cbfe540aa2523e59fc2da822065b05c91fb790c1d01897b80b2",
-      "title": "CoinMarketCalSolana: gains tokenized HOOD shares - 16 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:85fd66c77094b:0-solana-gains-tokenized-hood-shares-16-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T01:13:14.181Z"
+      "scraped_at": "2026-07-17T04:47:45.239Z"
     }
   ]
 }
