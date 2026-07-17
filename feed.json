@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-17T04:47:45.242Z",
+  "generated_at": "2026-07-17T07:21:25.279Z",
   "total": 15,
   "items": [
+    {
+      "id": "924d602512606e3ca88f30a2b8dfb9d4950aa84c206e3c60f0d400410c012822",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260717001785:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T07:21:25.275Z"
+    },
+    {
+      "id": "1924e0b1259400e0a0fb5820a6584c0b28604ef33efdb1474afe1a8c68a911f4",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260717001784:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T07:21:25.275Z"
+    },
+    {
+      "id": "5b70363b3626da6544f34ae41eaeacd30c5bb6e0018fad13b0da84c803d6cc93",
+      "title": "CointelegraphOrdinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
+      "url": "https://www.tradingview.com/news/cointelegraph:12d0e0cfd094b:0-ordinals-advocate-leonidas-proposes-new-bitcoin-client-dog-mode/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T07:21:25.276Z"
+    },
     {
       "id": "d417908b09a796ec3863f857a505ef27745d18259560a4962875a89d197073f9",
       "title": "ChainwireMEXC May–June Report: 750M+ USDT Futures Insurance Fund & 100% Asset Reserves",
       "url": "https://www.tradingview.com/news/chainwire:c34384ae9094b:0-mexc-may-june-report-750m-usdt-futures-insurance-fund-100-asset-reserves/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.238Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "19e820e5bbc7cd2aea188379f5f0374339c825073b28ca9839af79b64331c0f7",
       "title": "Crypto BriefingIran attacks US command center in Syria, escalating tensions",
       "url": "https://www.tradingview.com/news/cryptobriefing:7c67badd9094b:0-iran-attacks-us-command-center-in-syria-escalating-tensions/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "0e24f901687d3150c631e7957c788812df1b4c268db655f3ee9e7114a8fbe7c3",
       "title": "CointelegraphCrypto exchange Bybit launches in Indonesia after NOBI acquisition",
       "url": "https://www.tradingview.com/news/cointelegraph:a6b1c0972094b:0-crypto-exchange-bybit-launches-in-indonesia-after-nobi-acquisition/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "ca1b5e455fbff5711e40ede97b2fefc60187e55188c9536ba0c20514d1436238",
       "title": "Crypto BriefingUS Marines board tanker amid Iranian port blockade, expand strikes on infrastructure",
       "url": "https://www.tradingview.com/news/cryptobriefing:7de626e50094b:0-us-marines-board-tanker-amid-iranian-port-blockade-expand-strikes-on-infrastructure/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
+    },
+    {
+      "id": "902a5a96d5e591809e1526cc084b3e27d991fca4be45f8bc7898367f99ebe1d2",
+      "title": "CoinpediaCrypto CLARITY Act Hits Fresh Senate Hurdle Ahead of August Recess",
+      "url": "https://www.tradingview.com/news/coinpedia:552b9283a094b:0-crypto-clarity-act-hits-fresh-senate-hurdle-ahead-of-august-recess/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "ad2e9afa1a17afde4b644d311c188e6f32bc122192fe6905da40016c7f19fcbe",
       "title": "CoinpediaStanford Study Flags Bitcoin Market Manipulation on Polymarket",
       "url": "https://www.tradingview.com/news/coinpedia:f6d5617da094b:0-stanford-study-flags-bitcoin-market-manipulation-on-polymarket/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "628a14d033d8efb673d1eb6b4741bfa599b182a7053f11fa66c0195a62f268d7",
       "title": "CoinpediaBitcoin, Ethereum and XRP Prices Fall After Trump’s Speech Today",
       "url": "https://www.tradingview.com/news/coinpedia:359cb5979094b:0-bitcoin-ethereum-and-xrp-prices-fall-after-trump-s-speech-today/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "6f919b4685aa2fd0a10d79741c7219cff4c66161c392eaaf226994a6e6654f44",
       "title": "CointelegraphBalaji seeks Malaysia deal, threatens exit after Network School probe",
       "url": "https://www.tradingview.com/news/cointelegraph:bde2f23fc094b:0-balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "ca42a248077c4ff1061125d183a15e961d7c2c409b4b8cc2cc3e65ed6b13d73a",
       "title": "Binance NewsRussia Delays Bill on Criminal Liability for Illegal Crypto Trading Until New Duma Election",
       "url": "https://www.tradingview.com/news/binance_news:e3eab7320094b:0-russia-delays-bill-on-criminal-liability-for-illegal-crypto-trading-until-new-duma-election/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "37699c7c653db1b8e905ff04fb40476482d86db2ee7372058848b3e3010b6b6a",
       "title": "Binance NewsUK Gang Sentenced for Stealing $5.4 Million in Crypto Scam",
       "url": "https://www.tradingview.com/news/binance_news:9b7732504094b:0-uk-gang-sentenced-for-stealing-5-4-million-in-crypto-scam/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "737e166c41ecd70f5b0fa1fe19712ebd9fe952c3f1dc37e81b3526f968b419aa",
       "title": "Binance NewsSuspected a16z Address Withdraws 471,500 HYPE From Hyperliquid and Transfers It to Multiple Trading Platforms",
       "url": "https://www.tradingview.com/news/binance_news:b3a9b0698094b:0-suspected-a16z-address-withdraws-471-500-hype-from-hyperliquid-and-transfers-it-to-multiple-trading-platforms/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     },
     {
       "id": "67937306d19f6e70b6dc3248b5ef529a6c44a472c82261207b9ec22a6ecc5015",
       "title": "Binance NewsRussia Drafts Bill To Restrict Nonprofessional Investors From Buying Foreign Stablecoins",
       "url": "https://www.tradingview.com/news/binance_news:c436e2f72094b:0-russia-drafts-bill-to-restrict-nonprofessional-investors-from-buying-foreign-stablecoins/",
       "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
-    },
-    {
-      "id": "fcc3622bdeacf2abd4b73606a74f7b5a22f2773c4f3e64ce05157b7c99579472",
-      "title": "Binance NewsBSC Project CrowdRingCircle Suffers Suspected Attack, Losing About $201,400",
-      "url": "https://www.tradingview.com/news/binance_news:9e57a98ab094b:0-bsc-project-crowdringcircle-suffers-suspected-attack-losing-about-201-400/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
-    },
-    {
-      "id": "f08280d4118edc2cd916cc47a3fd97fd2de92b045960e4caec9bd1c7e4d0d1fd",
-      "title": "Binance NewsPolymarket Elon Musk Tweet Market Sees Sharp Swing in 140-159 Submarket",
-      "url": "https://www.tradingview.com/news/binance_news:5f614979b094b:0-polymarket-elon-musk-tweet-market-sees-sharp-swing-in-140-159-submarket/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
-    },
-    {
-      "id": "c2f1ac08fed76857b4eff31daaacc4f3c8a9708cb37496f709f818eccfc033f0",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260716009933:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
-    },
-    {
-      "id": "fb8b2b23da4bb8af06a284f5df0cc18ca4c6bb55967d15e98fb4b5594f854f57",
-      "title": "Binance NewsCardone Capital Adds 10.5 Bitcoin, Raises Hybrid Real Estate-Bitcoin Holdings Above 2,700 BTC",
-      "url": "https://www.tradingview.com/news/binance_news:841d9b15c094b:0-cardone-capital-adds-10-5-bitcoin-raises-hybrid-real-estate-bitcoin-holdings-above-2-700-btc/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-17T04:47:45.239Z"
+      "scraped_at": "2026-07-17T07:21:25.276Z"
     }
   ]
 }
