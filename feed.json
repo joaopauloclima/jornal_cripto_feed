@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-18T12:39:36.083Z",
+  "generated_at": "2026-07-18T14:10:43.336Z",
   "total": 15,
   "items": [
+    {
+      "id": "e7f2d5cee9e5dc092ada75a9a3f1f5009f95528855d1e53222c65389af74dce1",
+      "title": "The BlockUNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
+      "url": "https://www.tradingview.com/news/the_block:68f598e13094b:0-uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-18T14:10:43.333Z"
+    },
+    {
+      "id": "b70c0b8266f51a73ec685508652724c3bebc445828192e96e55038e4a3e21a09",
+      "title": "CoinMarketCalNEAR Protocol: launches Confidential Intents in Infinex - 18 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:c2760ee84094b:0-near-protocol-launches-confidential-intents-in-infinex-18-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-18T14:10:43.333Z"
+    },
+    {
+      "id": "5af564ae74e0fb572691f8ab1a5a71907d72583560ac3232430761aef03d53e8",
+      "title": "CoinMarketCalAI Rig Complex: launches ARC on Robinhood Chain - 18 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:ecbc54904094b:0-ai-rig-complex-launches-arc-on-robinhood-chain-18-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-18T14:10:43.333Z"
+    },
+    {
+      "id": "98c6a8f8fd40ee52e581a72af3f68a38f866b7b170c86dd3063cedfde4e6a374",
+      "title": "CoinMarketCalBittensor: releases v431 upgrade - 18 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b4a28ddba094b:0-bittensor-releases-v431-upgrade-18-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-18T14:10:43.333Z"
+    },
+    {
+      "id": "925714f04e07cafc7ab6b67a503c5d9122e1d616ecb3147920e28a0862817939",
+      "title": "BeincryptoAdam Back Talks About Bitcoin BIP-110 Controversy. “Satoshi Was Not Retarded”",
+      "url": "https://www.tradingview.com/news/beincrypto:a922696fd094b:0-adam-back-talks-about-bitcoin-bip-110-controversy-satoshi-was-not-retarded/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-18T14:10:43.333Z"
+    },
     {
       "id": "b9a30161da1a49ef766a455fc43946f5a8acdb6c687699bfc3b6a1a860e1ee10",
       "title": "NewsBTCUniswap Founder Proposes v4 Protocol Fees Across Multiple Networks",
       "url": "https://www.tradingview.com/news/newsbtc:b8b8d90b7094b:0-uniswap-founder-proposes-v4-protocol-fees-across-multiple-networks/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     },
     {
       "id": "da95f984dfc74d1c2fb90c742b19d6b58e721aca31fb9ea5841012852e5973b1",
       "title": "NewsBTCSEC Approves Higher IBIT Options Limits As Bitcoin ETF Market Matures",
       "url": "https://www.tradingview.com/news/newsbtc:8fee6a1e0094b:0-sec-approves-higher-ibit-options-limits-as-bitcoin-etf-market-matures/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     },
     {
       "id": "7ac2df23a735642b4e43623cc2830bdf6f858c7bda1aa9466a3cf5a5d1c8da20",
       "title": "TradingViewKey facts: BTC $63K; vol down, bearish technicals; House hears BTC bill",
       "url": "https://www.tradingview.com/news/tradingview:58f4fc0af258b:0-key-facts-btc-63k-vol-down-bearish-technicals-house-hears-btc-bill/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     },
     {
       "id": "eaada29c707691c234be65bde88c96437bcc81d32735fbdf09df18159ba66dfc",
       "title": "TradingViewKey facts: XRPUSD $1.07; 2026 $2.7/$7.9/$23; Court not security; $125M",
       "url": "https://www.tradingview.com/news/tradingview:b36eb7ffd5aa8:0-key-facts-xrpusd-1-07-2026-2-7-7-9-23-court-not-security-125m/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     },
     {
       "id": "9614191cce4afb9ae9236d15e53e219685864f6f08e6a993b8e509d5af55f962",
       "title": "TradingViewKey facts: BitMine Buys 42,197 ETH; Trusted Volumes Returns 1,122 ETH",
       "url": "https://www.tradingview.com/news/tradingview:e1977b73f15d4:0-key-facts-bitmine-buys-42-197-eth-trusted-volumes-returns-1-122-eth/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     },
     {
       "id": "49af92dd588846109c145342e6015086aec597b154563710a088501fe312ebfb",
       "title": "TradingViewKey facts: SOLUSD Pullback; On-chain Steady; 81,712 SOL to Kraken",
       "url": "https://www.tradingview.com/news/tradingview:0e287773e1ebc:0-key-facts-solusd-pullback-on-chain-steady-81-712-sol-to-kraken/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     },
     {
       "id": "63f1fe270b6d871ebb9306fa27745419ba4e2e51f4e6984eae34c5873e609449",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:f4475939f094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     },
     {
       "id": "dc0ee8e085d7593e1d961f989fc01bbd242c78526ce60b44d8256621effae8e2",
       "title": "NewsBTCBNB Chain RWA TVL Hits $5.2B As Tokenized Assets Move Beyond Ethereum",
       "url": "https://www.tradingview.com/news/newsbtc:844ad676c094b:0-bnb-chain-rwa-tvl-hits-5-2b-as-tokenized-assets-move-beyond-ethereum/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     },
     {
       "id": "5b8630a422a71a28986e8c727f356e384bf28886e65f82663a7b8e94330b26cd",
       "title": "NewsBTCSui Launches Gas-Free Stablecoin Transfers At Protocol Level",
       "url": "https://www.tradingview.com/news/newsbtc:3e562c5d9094b:0-sui-launches-gas-free-stablecoin-transfers-at-protocol-level/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     },
     {
-      "id": "b3922d727d67c5ecb4a1165b0a8ef5b0ffb16f69d1d803b8604e13c8617ab899",
-      "title": "CointelegraphKaspersky identifies malware framework targeting crypto investors",
-      "url": "https://www.tradingview.com/news/cointelegraph:73b5522b6094b:0-kaspersky-identifies-malware-framework-targeting-crypto-investors/",
+      "id": "704669296ef4a6c33c4a7a6e5dce0c39e4042f10f58e918035e57566f4935344",
+      "title": "CoinpediaVenice Token Price Soars 12% After Major Tokenomics Move",
+      "url": "https://www.tradingview.com/news/coinpedia:5a44d88e7094b:0-venice-token-price-soars-12-after-major-tokenomics-move/",
       "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
-    },
-    {
-      "id": "530d27feb8847d98ecfe981cf0734ff2f77188a306e2d1f75f082fad24939957",
-      "title": "NewsBTCPump.fun Sends 81,712 SOL To Kraken As Memecoin Activity Cools",
-      "url": "https://www.tradingview.com/news/newsbtc:ad39ca954094b:0-pump-fun-sends-81-712-sol-to-kraken-as-memecoin-activity-cools/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
-    },
-    {
-      "id": "fad93ca73809cb0fe55d0a77d4c41a7c983af732984f5344e99e4bf9e02fc95c",
-      "title": "NewsBTCPolymarket Fed Hold Odds Hit 94% As Softer Inflation Boosts Bitcoin Mood",
-      "url": "https://www.tradingview.com/news/newsbtc:d65fb0a1f094b:0-polymarket-fed-hold-odds-hit-94-as-softer-inflation-boosts-bitcoin-mood/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
-    },
-    {
-      "id": "01e41fa9812fb24e5e2e2a90dc048d5be253cfdd2cac7a5916aca0426b625e97",
-      "title": "CoinpediaBitcoin Bear Market Nearing Its End? CryptoQuant Spots Rare On-Chain Signal",
-      "url": "https://www.tradingview.com/news/coinpedia:5e0c19861094b:0-bitcoin-bear-market-nearing-its-end-cryptoquant-spots-rare-on-chain-signal/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
-    },
-    {
-      "id": "a785ab5d3e7de827ca0b18f2afb1a934271dc061ae9799bec9b494dbce8297d4",
-      "title": "NewsBTCTrusted Volumes Hacker Returns 1,122 ETH, Keeps $2M Bounty",
-      "url": "https://www.tradingview.com/news/newsbtc:36fca7583094b:0-trusted-volumes-hacker-returns-1-122-eth-keeps-2m-bounty/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
-    },
-    {
-      "id": "6192bb9e91adf480ab32b1bd4e8b6cc0abfddc81b12e44538c27f1af8201be6d",
-      "title": "CoinpediaWhat Could 500 XRP Be Worth by the End of 2026? Three Scenarios Explained",
-      "url": "https://www.tradingview.com/news/coinpedia:edbcd9329094b:0-what-could-500-xrp-be-worth-by-the-end-of-2026-three-scenarios-explained/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-18T12:39:36.080Z"
+      "scraped_at": "2026-07-18T14:10:43.333Z"
     }
   ]
 }
