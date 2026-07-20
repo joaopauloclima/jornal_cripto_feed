@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-20T15:32:53.230Z",
+  "generated_at": "2026-07-20T17:08:54.312Z",
   "total": 15,
   "items": [
+    {
+      "id": "00ebac6fd22320b7965639b4e0cb967e63ed1f39e965ec395099afee27ae2639",
+      "title": "CoinMarketCalSolana: targets Alpenglow upgrade for Agave v4.2 - Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:24afbd046094b:0-solana-targets-alpenglow-upgrade-for-agave-v4-2-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.307Z"
+    },
+    {
+      "id": "973b71da56f500787cd7766ae7924a7af0a87d6ee7648afd70e65f1998bc6469",
+      "title": "CoinMarketCalPyth Network: launches indices feeds - 20 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:91bbf44e4094b:0-pyth-network-launches-indices-feeds-20-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "34459218b642e431747d5be1778e417ed316c23131db1d35cb99976ccec81c20",
+      "title": "CoinMarketCalDash: launches ZK privacy overhaul - 20 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:719a4259c094b:0-dash-launches-zk-privacy-overhaul-20-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "166ee9ccd2816c36c1d0c9adc196d2782c1f332b78d7b2d11c5ad81cc19f99e1",
+      "title": "CointelegraphNigerian president signs order on approach to crypto regulation, taxes",
+      "url": "https://www.tradingview.com/news/cointelegraph:33607dc46094b:0-nigerian-president-signs-order-on-approach-to-crypto-regulation-taxes/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "57a9a84e1dfa000b6b524af655de57f0d34ceab1c117085ab28406bb4e412422",
+      "title": "CointelegraphBernstein raises Robinhood price target, cites tokenization and prediction markets",
+      "url": "https://www.tradingview.com/news/cointelegraph:e82f325be094b:0-bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "d7381ac70b10e7a97c736d0378d2395caea5f988f0d1275086868c00229c3c07",
+      "title": "GuruFocusCircle Drops 75% as Analyst Sees 18% More Downside",
+      "url": "https://www.tradingview.com/news/gurufocus:4a7dc55fa094b:0-circle-drops-75-as-analyst-sees-18-more-downside/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "38ecd93fe240acfd2ff22294ccca7194ffc19b20e76aa347fb000fbc5c744518",
+      "title": "GuruFocusBitcoin Plunges 50% Despite Crypto Policy Push and Institutional Adoption",
+      "url": "https://www.tradingview.com/news/gurufocus:891444aec094b:0-bitcoin-plunges-50-despite-crypto-policy-push-and-institutional-adoption/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "cf0555cfa2218ab7ac07f407c5713b8acd1808c094fe27d6dc745615383ef0c7",
+      "title": "StocktwitsADA Underperforms Bitcoin Despite Activating ‘Historic’ Van Rossem Hard Fork, Its First Community-Governed Upgrade",
+      "url": "https://www.tradingview.com/news/stocktwits:75c81e4b1094b:0-ada-underperforms-bitcoin-despite-activating-historic-van-rossem-hard-fork-its-first-community-governed-upgrade/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "3031f496fb047658710f5b321410e06d3501f0b67bd627027f29e286d05e7f11",
+      "title": "ChainwireHyve Group Acquires Signal Week, Formerly Paris Blockchain Week",
+      "url": "https://www.tradingview.com/news/chainwire:2769a61df094b:0-hyve-group-acquires-signal-week-formerly-paris-blockchain-week/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "e1d507b03865cb005b03621792aa1ca8dc29d7bf9dfb46234e3860ac5d12f92b",
+      "title": "NewsBTCAave Picks Chainlink CCIP As Default Standard For Cross-Chain sGHO",
+      "url": "https://www.tradingview.com/news/newsbtc:f44c037f2094b:0-aave-picks-chainlink-ccip-as-default-standard-for-cross-chain-sgho/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "077988838e8532f82885fea53373b654d648798cc95c5de3857a6cbd5f3e0cee",
+      "title": "StocktwitsCLARITY Act Senate Delay Could Threaten Crypto Custody Safety, Says Senator Cynthia Lummis",
+      "url": "https://www.tradingview.com/news/stocktwits:fb8501289094b:0-clarity-act-senate-delay-could-threaten-crypto-custody-safety-says-senator-cynthia-lummis/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "f2df0f8a78af65d15d8283ad0f76e8fa856c90472a662463fefd0ed7f4174f0c",
+      "title": "CointelegraphBitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off",
+      "url": "https://www.tradingview.com/news/cointelegraph:bafdd32d8094b:0-bitcoin-price-hits-65k-wall-as-stocks-battle-record-institutional-tech-sell-off/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
+    {
+      "id": "3011cfa1897c9aa33e40c17f2f4ef0c8787868a0e3671399763063c3c2c5d50b",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260720004776:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-20T17:08:54.308Z"
+    },
     {
       "id": "9eaff6347e90196b19261899137b041e1988200834ce7ca2c4596ad1eb1b5f80",
       "title": "NewsBTCBitcoin BIP-361 Draft Puts Quantum Security Back On The Agenda",
       "url": "https://www.tradingview.com/news/newsbtc:6da78818d094b:0-bitcoin-bip-361-draft-puts-quantum-security-back-on-the-agenda/",
       "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.226Z"
+      "scraped_at": "2026-07-20T17:08:54.308Z"
     },
     {
       "id": "c1e67c3588765703c4a4eb3028f9c2a6295163ba61f5b366d00d34aa1aa89f8a",
       "title": "ChainwireTria Opens Its Platform to Cypher Users as Industry Shift Reinforces the Value of Self-Custody",
       "url": "https://www.tradingview.com/news/chainwire:860c92c7a094b:0-tria-opens-its-platform-to-cypher-users-as-industry-shift-reinforces-the-value-of-self-custody/",
       "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.226Z"
-    },
-    {
-      "id": "836c62625a61548d75c90356e47e5a6526e6cabee2056af557c96246eab4876f",
-      "title": "NewsBTCGrayscale Staking Payout Proposal Could Reshape Ethereum And Solana Trusts",
-      "url": "https://www.tradingview.com/news/newsbtc:eac3cae2a094b:0-grayscale-staking-payout-proposal-could-reshape-ethereum-and-solana-trusts/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "51a989d94c7610d152fbb57f13f6d4bff06a4322ba1d562e2fdc5da7d48e15b8",
-      "title": "The BlockBenchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
-      "url": "https://www.tradingview.com/news/the_block:6159f65c5094b:0-benchmark-backs-exodus-after-25-workforce-cut-says-stablecoin-pivot-is-being-overlooked/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "0410a707d2feae69050d123066ef3a014441a9b148b4739ce29a1491f3828990",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260720004547:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "e39dfce2da4fd57c268538f764ce11129b2c999fd9c0a462284a33a6ceab2599",
-      "title": "StocktwitsGrayscale Locks In Quarterly Staking Payouts For Ethereum, Solana ETFs",
-      "url": "https://www.tradingview.com/news/stocktwits:5595d5675094b:0-grayscale-locks-in-quarterly-staking-payouts-for-ethereum-solana-etfs/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "b469f4cdac8d0f4affcd17e6314c392bc952934d924d7518799e10201147d16b",
-      "title": "NewsBTCBitcoin ETF Inflows Extend For Second Week, But Recovery Remains Fragile",
-      "url": "https://www.tradingview.com/news/newsbtc:f6af1b392094b:0-bitcoin-etf-inflows-extend-for-second-week-but-recovery-remains-fragile/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "b0ada39ef51d8934a8d136cd88deab893bee717b2572f7583aec6fde59e0d883",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260720004404:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "061c68105d8b213c0e5e0214b200d343b4d5ea5d48de479f9f0301ed006dca5a",
-      "title": "NewsBTCVitalik Buterin’s Aztec Demo Shows Why Ethereum Privacy Still Matters",
-      "url": "https://www.tradingview.com/news/newsbtc:028757ab3094b:0-vitalik-buterin-s-aztec-demo-shows-why-ethereum-privacy-still-matters/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "a1e59e51199b0c1003b091a18c5837bd0c8a4df69df421e38fe4d7d2e2648c9b",
-      "title": "NewsBTCEurope Gets A Bitcoin-Backed Preferred Stock As Treasury Demand Spreads",
-      "url": "https://www.tradingview.com/news/newsbtc:8c9a89e24094b:0-europe-gets-a-bitcoin-backed-preferred-stock-as-treasury-demand-spreads/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "16073dfe1de60f974c512af528688b674a46c62655ce3f8c5bdd091cfcd98a03",
-      "title": "NewsBTCMichael Saylor Opposes Bitcoin BIP-110 Over Censorship Concerns",
-      "url": "https://www.tradingview.com/news/newsbtc:00ed460c6094b:0-michael-saylor-opposes-bitcoin-bip-110-over-censorship-concerns/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "fc6b74db55757ed6a8ec364bdef36c1031e256c29c92aa7ca018d91f83118be6",
-      "title": "BeincryptoMicroStrategy Is Asking MSTR Investors to Make One Big Trade-Off",
-      "url": "https://www.tradingview.com/news/beincrypto:582c2da94094b:0-microstrategy-is-asking-mstr-investors-to-make-one-big-trade-off/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "b485768d9a0f9796d4125bfdd64a43eb2beea5ca4f46f87afe9f097c75a958ab",
-      "title": "99BitcoinsForbes Warns BTC USD Price Explosion Corellating with $27.9 Trillion Gold Prediction",
-      "url": "https://www.tradingview.com/news/99Bitcoins:62fe37240094b:0-forbes-warns-btc-usd-price-explosion-corellating-with-27-9-trillion-gold-prediction/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "5f38983034201f3b1dd3fd2cc585dad137b111d6a57d5a5b3958b64feedbcb52",
-      "title": "StocktwitsBMNR Stock Jumps After Tom Lee-Led BitMine Slows ETH Buying To Fund 5.5M Stock Buyback",
-      "url": "https://www.tradingview.com/news/stocktwits:ff681aa3c094b:0-bmnr-stock-jumps-after-tom-lee-led-bitmine-slows-eth-buying-to-fund-5-5m-stock-buyback/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
-    },
-    {
-      "id": "a89c2e6529f6792c045c50aa81fcfa218de56c0ff9de32afdcca02d952e73334",
-      "title": "CoinMarketCalChainlink: becomes United Stables' official data oracle and cross-chain infrastructure - 20 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:8eaf166e0094b:0-chainlink-becomes-united-stables-official-data-oracle-and-cross-chain-infrastructure-20-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-20T15:32:53.227Z"
+      "scraped_at": "2026-07-20T17:08:54.308Z"
     }
   ]
 }
