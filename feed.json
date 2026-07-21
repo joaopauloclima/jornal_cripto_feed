@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-07-21T04:52:58.688Z",
-  "total": 16,
+  "generated_at": "2026-07-21T07:34:58.078Z",
+  "total": 15,
   "items": [
+    {
+      "id": "5b11985cba69cde4c517c97e238cec68a2dd11b28cce299bfeaf92abe3f161ee",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260721001319:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
+    {
+      "id": "e2112eaa3508423bb1b3ec0b64948a0e84b9e880b3f9e66434f6f420756c19e5",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260721001320:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
+    {
+      "id": "6f292a8ed614dc20c53bbb2280883809135829653202b3bcd3b15f7952470302",
+      "title": "CointelegraphBitcoin ETFs post five-day inflow streak, longest since May",
+      "url": "https://www.tradingview.com/news/cointelegraph:5b5a7069e094b:0-bitcoin-etfs-post-five-day-inflow-streak-longest-since-may/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
+    {
+      "id": "aa059b7f29ee9b12eb8dc363879773ec7f02e6ff992b60753f98ba5c9cd3a126",
+      "title": "The BlockUK parliamentary group launches probe into crypto sector’s banking challenges",
+      "url": "https://www.tradingview.com/news/the_block:6d09b5636094b:0-uk-parliamentary-group-launches-probe-into-crypto-sector-s-banking-challenges/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
+    {
+      "id": "f4c8715be93d0a25dc14aa36a86d87fe49a30cc492633c3274807a955292d8ce",
+      "title": "CointelegraphBase’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
+      "url": "https://www.tradingview.com/news/cointelegraph:1da3e6391094b:0-base-s-1-1-backed-tokenized-equities-launch-imminent-pollak-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
+    {
+      "id": "7bf109fd24739adc061a56b178e0e83a065d825b0680d0feecb1238332b839ea",
+      "title": "CNBC TV18Start a free trial to read this news",
+      "url": "https://www.tradingview.com/news/cnbctv:51efc00a9094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
+    {
+      "id": "12570c1df123f5522d2c6e6547161793458349f3e1fee4280f7f5c9825e2bd2d",
+      "title": "Crypto BriefingIran sentences two to death amid crackdown on protests",
+      "url": "https://www.tradingview.com/news/cryptobriefing:35d6137ac094b:0-iran-sentences-two-to-death-amid-crackdown-on-protests/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
+    {
+      "id": "cca56347cfa9426f6e49dcdd8aed0dc2381570c63a8b43ec9f61c150d5c33227",
+      "title": "CoinMarketCalAntFun: begins Gate spot trading - 21 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:1f0634102094b:0-antfun-begins-gate-spot-trading-21-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
+    {
+      "id": "780c171fe929e183dd8866677997153c3cb1d2700e217519463c6d650a458264",
+      "title": "CoinMarketCalBankrCoin: launches a BNKR Buyback Vault on Robinhood Chain - 21 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:143ad82c2094b:0-bankrcoin-launches-a-bnkr-buyback-vault-on-robinhood-chain-21-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
     {
       "id": "e1eeef82d0462a1f30ec8f41b88850e3a62a32a25847c85d0ef4fbe2948e4aac",
       "title": "Crypto BriefingHyperliquid’s HIP-4 upgrade introduces permissionless markets, requires 500K HYPE stake",
       "url": "https://www.tradingview.com/news/cryptobriefing:2b5be77bb094b:0-hyperliquid-s-hip-4-upgrade-introduces-permissionless-markets-requires-500k-hype-stake/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.683Z"
+      "scraped_at": "2026-07-21T07:34:58.074Z"
+    },
+    {
+      "id": "bce855aad3f8efc4147fca1a26f11ece045e691de1c45be8a8bf9fa8473d8e86",
+      "title": "CoinpediaRipple Executive Explain Why XRPL Was Built for Speed From Day One",
+      "url": "https://www.tradingview.com/news/coinpedia:5ec5abdb4094b:0-ripple-executive-explain-why-xrpl-was-built-for-speed-from-day-one/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T07:34:58.074Z"
     },
     {
       "id": "3b6dc32dae1b71c3cabb8900f04b6288edf7b9d01f7de550d14cc49fb764f16a",
       "title": "CointelegraphGrayscale files S-1 for first US Worldcoin ETF",
       "url": "https://www.tradingview.com/news/cointelegraph:48c0fd18e094b:0-grayscale-files-s-1-for-first-us-worldcoin-etf/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.683Z"
+      "scraped_at": "2026-07-21T07:34:58.074Z"
     },
     {
       "id": "2a272194fa9ca3bccd7723d01beeadaef38f02b79dca9cad88849072c6afc2d7",
       "title": "CointelegraphCelsius co-founders Leon, Goldstein to pay FTC over $6M",
       "url": "https://www.tradingview.com/news/cointelegraph:2b86a7dab094b:0-celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
+      "scraped_at": "2026-07-21T07:34:58.074Z"
     },
     {
       "id": "b6f7c085698e7a05a139a12bb812758b59c82b98f58f544255f7a1b3c3f25c88",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260720008480:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
+      "scraped_at": "2026-07-21T07:34:58.074Z"
     },
     {
       "id": "68d351bedc0353e8f980415b10ca19b47b2354b09d548e0bc59acd6e6e1fcfaa",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:5494d5b57094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "63cc3e4b6ce8f0ef35ef8984c11d76fd4ac6a1aed3405c507a19ed09ce982acc",
-      "title": "BeincryptoEthereum Could Lead the Next Bull Market: Is Hayes Preparing with More Buys?",
-      "url": "https://www.tradingview.com/news/beincrypto:039e493b3094b:0-ethereum-could-lead-the-next-bull-market-is-hayes-preparing-with-more-buys/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "598835fc98f53239de602810e81072e9adb44569ad2d52516b83e8e82ac65e66",
-      "title": "The BlockSEC charges Florida man and company in alleged $22 million crypto mining fraud scheme",
-      "url": "https://www.tradingview.com/news/the_block:1240a61b3094b:0-sec-charges-florida-man-and-company-in-alleged-22-million-crypto-mining-fraud-scheme/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "79831d00f5833b26600ce16a7fb8c504c889280354d02cf675a1a42657d08115",
-      "title": "CoinpediaCardano Activates Van Rossem Hard Fork, What next for ADA?",
-      "url": "https://www.tradingview.com/news/coinpedia:995640baf094b:0-cardano-activates-van-rossem-hard-fork-what-next-for-ada/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "a23428b2e6fced8453c4956547804e2ff6fe32d9a3d7d822f9c65da7c2ca6379",
-      "title": "CoinMarketCalCanton: approves Ekiden as a Featured App - 21 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:043e65c1a094b:0-canton-approves-ekiden-as-a-featured-app-21-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "83328aad939397987f2216c15333b274d5a1e0f0765151f1211f55c027b4a0fa",
-      "title": "CoinMarketCalPendle: ships PT auto-looping with money markets - Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:a3fc12f37094b:0-pendle-ships-pt-auto-looping-with-money-markets-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "1fca04affb8733feceec61eb87c33aebf6fc21a47c3354416f089a83f1c7c739",
-      "title": "The BlockTrump agrees to ethics provision as crypto bill inches closer to Senate vote",
-      "url": "https://www.tradingview.com/news/the_block:37b1f71f1094b:0-trump-agrees-to-ethics-provision-as-crypto-bill-inches-closer-to-senate-vote/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "2a98e3d159af83614e89b0fd1e667b22ab6a64fb1eb2df414bfb8ac708655aea",
-      "title": "Binance NewsPolymarket Pirates Outcome Swings Sharply in Yankees Matchup",
-      "url": "https://www.tradingview.com/news/binance_news:137449c22094b:0-polymarket-pirates-outcome-swings-sharply-in-yankees-matchup/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "9b8ffb64744ec4c9ef19b9c8348e7a870ffc08ca38ed4c29b7f86f5488c6edee",
-      "title": "Binance NewsPolymarket Tampa Bay Rays Odds Surge to 84.5%",
-      "url": "https://www.tradingview.com/news/binance_news:18545ea4c094b:0-polymarket-tampa-bay-rays-odds-surge-to-84-5/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "94ce2ed6ff77dcf106909a15d910ec3f5c1b22a92cfbb2d302cd845d76958b2c",
-      "title": "Binance NewsTokenized Stock Market Cap Reaches $1.7 Billion at End of June, a16z Says",
-      "url": "https://www.tradingview.com/news/binance_news:ae9cfbb8b094b:0-tokenized-stock-market-cap-reaches-1-7-billion-at-end-of-june-a16z-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "9e1211815003fbd5f43b8f5b634208a4c7307a86735516339f8f4ff66a95d149",
-      "title": "Binance NewsENS DAO Approves Two-Year Security Committee With Veto Power",
-      "url": "https://www.tradingview.com/news/binance_news:ed58ea7d8094b:0-ens-dao-approves-two-year-security-committee-with-veto-power/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
-    },
-    {
-      "id": "20cca001365f21b373b18ce9b8519510db65c2766b1a6daf1a087822e7737666",
-      "title": "Binance NewsSuspicious Prediction Market Trades Reach $200 Million in First Half of 2026",
-      "url": "https://www.tradingview.com/news/binance_news:c3ec26228094b:0-suspicious-prediction-market-trades-reach-200-million-in-first-half-of-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T04:52:58.684Z"
+      "scraped_at": "2026-07-21T07:34:58.074Z"
     }
   ]
 }
