@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-21T07:34:58.078Z",
+  "generated_at": "2026-07-21T10:08:35.577Z",
   "total": 15,
   "items": [
+    {
+      "id": "1c989ccb4f7239a5423c4b986ef9e7b10fc405c69233fb0c12197d06221841f2",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260721002021_20260721002085:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "0d5cf5c74c35e8b4aac304c4b855d29d1892a0ca30a7b7d4e7d271c6badf6278",
+      "title": "StocktwitsWhite House Reportedly Backs Trump Ethics Language As CLARITY Act Push Enters The Final Stretch",
+      "url": "https://www.tradingview.com/news/stocktwits:f2416cbb3094b:0-white-house-reportedly-backs-trump-ethics-language-as-clarity-act-push-enters-the-final-stretch/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "88cd612d5f01e2efa21d7425edcf6586a5031c3bbaa10f7bb9efc40f3428b86f",
+      "title": "The BlockCoinShares launches UCITS platform targeting Europe’s institutional investors",
+      "url": "https://www.tradingview.com/news/the_block:535da7683094b:0-coinshares-launches-ucits-platform-targeting-europe-s-institutional-investors/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "6527a062583c170f0fd70c10bdb9826c7cbf7785afdfe332f5b8e7ba5905d1a6",
+      "title": "CointelegraphUK parliamentary group probes banking barriers for crypto firms",
+      "url": "https://www.tradingview.com/news/cointelegraph:6a7cce6de094b:0-uk-parliamentary-group-probes-banking-barriers-for-crypto-firms/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "bf9456ebe26c0d9af368e2a3d0411dec15e6bf43e65255722c5978c92f86edaf",
+      "title": "ReutersValereum Announces Digital Asset Partnership With Blockchain Digital Assets (Africa)",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC297CVQ:0-valereum-announces-digital-asset-partnership-with-blockchain-digital-assets-africa/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "0de6a42235ea980f376f88a1236c98de04b35cd9a3c2432afde5d4686df1d86f",
+      "title": "ChainwireMorph Launches Tachyon, a High-Performance Layer 1 Purpose-Built for Onchain Trading",
+      "url": "https://www.tradingview.com/news/chainwire:db85c05d2094b:0-morph-launches-tachyon-a-high-performance-layer-1-purpose-built-for-onchain-trading/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "f906e966a42d1962e45e1a5082d40102388c968ee01cf6dbd4d1701f467a575f",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260721001529:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "03b07394be9101018dba7a023a68a712d78ac7e2fa1cb563bcde36a69071bf1f",
+      "title": "CoinMarketCalPieverse: adds .pie name support in KuCoin Web3 Wallet - 21 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:25b2a5ab2094b:0-pieverse-adds-pie-name-support-in-kucoin-web3-wallet-21-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "930f4bc290ad97136a8383ffb487c40a55dec00212a4e7eafbb7e82c42d6b609",
+      "title": "CoinMarketCalMANTRA: deploys on Robinhood - 21 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:76e466a92094b:0-mantra-deploys-on-robinhood-21-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "0b7c48129cb99c7c518cbccadfb006c3486aa56b974e71440af8bcfbc5f4e9eb",
+      "title": "MFN by Modular FinanceGoobit strengthens anti-money laundering work and prepares response to Finansinspektionen's statement",
+      "url": "https://www.tradingview.com/news/modular_finance:1c2a2ce1ca0ce:0-goobit-strengthens-anti-money-laundering-work-and-prepares-response-to-finansinspektionen-s-statement/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "9b22b829a64e9bf7b5838764f19e3922339d74533a9417dc93d1b8b22f379679",
+      "title": "London Stock ExchangeREG - Valereum PLC - Digital Asset Strategic Partnership",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-07-21:newsml_RSU1994Na:0-reg-valereum-plc-digital-asset-strategic-partnership/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "fd5dd3a37f2b24f77117b12a56bfa93638f5a31ddebaba78ba780ffd58d831cf",
+      "title": "TradingViewBTC/USD: Bitcoin Tops $66,000 as Upside Move Gains Steam, Cracks Resistance",
+      "url": "https://www.tradingview.com/news/tradingview:ea9205aea094b:0-btc-usd-bitcoin-tops-66-000-as-upside-move-gains-steam-cracks-resistance/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "3353c9e625162b7e5f32ee78de6ced669694bd826c46aad3e94aa4624e30be79",
+      "title": "Finance MagnatesBorn2trade Rolls Out Prediction Markets on Match-Trader Platform",
+      "url": "https://www.tradingview.com/news/financemagnates:4e24c795e094b:0-born2trade-rolls-out-prediction-markets-on-match-trader-platform/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
+    {
+      "id": "405a3fb09a939492c76aec0601a706910b114779e3b67bc95045a1e63c6a59cb",
+      "title": "CoinpediaRipple News: Court Clears $130M Ripple Share Sale as Galaxy Digital Leads Institutional Buying",
+      "url": "https://www.tradingview.com/news/coinpedia:8f8d1bb8c094b:0-ripple-news-court-clears-130m-ripple-share-sale-as-galaxy-digital-leads-institutional-buying/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T10:08:35.572Z"
+    },
     {
       "id": "5b11985cba69cde4c517c97e238cec68a2dd11b28cce299bfeaf92abe3f161ee",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260721001319:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "e2112eaa3508423bb1b3ec0b64948a0e84b9e880b3f9e66434f6f420756c19e5",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260721001320:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "6f292a8ed614dc20c53bbb2280883809135829653202b3bcd3b15f7952470302",
-      "title": "CointelegraphBitcoin ETFs post five-day inflow streak, longest since May",
-      "url": "https://www.tradingview.com/news/cointelegraph:5b5a7069e094b:0-bitcoin-etfs-post-five-day-inflow-streak-longest-since-may/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "aa059b7f29ee9b12eb8dc363879773ec7f02e6ff992b60753f98ba5c9cd3a126",
-      "title": "The BlockUK parliamentary group launches probe into crypto sector’s banking challenges",
-      "url": "https://www.tradingview.com/news/the_block:6d09b5636094b:0-uk-parliamentary-group-launches-probe-into-crypto-sector-s-banking-challenges/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "f4c8715be93d0a25dc14aa36a86d87fe49a30cc492633c3274807a955292d8ce",
-      "title": "CointelegraphBase’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-      "url": "https://www.tradingview.com/news/cointelegraph:1da3e6391094b:0-base-s-1-1-backed-tokenized-equities-launch-imminent-pollak-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "7bf109fd24739adc061a56b178e0e83a065d825b0680d0feecb1238332b839ea",
-      "title": "CNBC TV18Start a free trial to read this news",
-      "url": "https://www.tradingview.com/news/cnbctv:51efc00a9094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "12570c1df123f5522d2c6e6547161793458349f3e1fee4280f7f5c9825e2bd2d",
-      "title": "Crypto BriefingIran sentences two to death amid crackdown on protests",
-      "url": "https://www.tradingview.com/news/cryptobriefing:35d6137ac094b:0-iran-sentences-two-to-death-amid-crackdown-on-protests/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "cca56347cfa9426f6e49dcdd8aed0dc2381570c63a8b43ec9f61c150d5c33227",
-      "title": "CoinMarketCalAntFun: begins Gate spot trading - 21 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:1f0634102094b:0-antfun-begins-gate-spot-trading-21-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "780c171fe929e183dd8866677997153c3cb1d2700e217519463c6d650a458264",
-      "title": "CoinMarketCalBankrCoin: launches a BNKR Buyback Vault on Robinhood Chain - 21 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:143ad82c2094b:0-bankrcoin-launches-a-bnkr-buyback-vault-on-robinhood-chain-21-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "e1eeef82d0462a1f30ec8f41b88850e3a62a32a25847c85d0ef4fbe2948e4aac",
-      "title": "Crypto BriefingHyperliquid’s HIP-4 upgrade introduces permissionless markets, requires 500K HYPE stake",
-      "url": "https://www.tradingview.com/news/cryptobriefing:2b5be77bb094b:0-hyperliquid-s-hip-4-upgrade-introduces-permissionless-markets-requires-500k-hype-stake/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "bce855aad3f8efc4147fca1a26f11ece045e691de1c45be8a8bf9fa8473d8e86",
-      "title": "CoinpediaRipple Executive Explain Why XRPL Was Built for Speed From Day One",
-      "url": "https://www.tradingview.com/news/coinpedia:5ec5abdb4094b:0-ripple-executive-explain-why-xrpl-was-built-for-speed-from-day-one/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "3b6dc32dae1b71c3cabb8900f04b6288edf7b9d01f7de550d14cc49fb764f16a",
-      "title": "CointelegraphGrayscale files S-1 for first US Worldcoin ETF",
-      "url": "https://www.tradingview.com/news/cointelegraph:48c0fd18e094b:0-grayscale-files-s-1-for-first-us-worldcoin-etf/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "2a272194fa9ca3bccd7723d01beeadaef38f02b79dca9cad88849072c6afc2d7",
-      "title": "CointelegraphCelsius co-founders Leon, Goldstein to pay FTC over $6M",
-      "url": "https://www.tradingview.com/news/cointelegraph:2b86a7dab094b:0-celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "b6f7c085698e7a05a139a12bb812758b59c82b98f58f544255f7a1b3c3f25c88",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260720008480:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
-    },
-    {
-      "id": "68d351bedc0353e8f980415b10ca19b47b2354b09d548e0bc59acd6e6e1fcfaa",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:5494d5b57094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T07:34:58.074Z"
+      "scraped_at": "2026-07-21T10:08:35.572Z"
     }
   ]
 }
