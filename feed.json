@@ -1,111 +1,118 @@
 {
-  "generated_at": "2026-07-21T01:11:02.063Z",
-  "total": 15,
+  "generated_at": "2026-07-21T04:52:58.688Z",
+  "total": 16,
   "items": [
+    {
+      "id": "e1eeef82d0462a1f30ec8f41b88850e3a62a32a25847c85d0ef4fbe2948e4aac",
+      "title": "Crypto BriefingHyperliquid’s HIP-4 upgrade introduces permissionless markets, requires 500K HYPE stake",
+      "url": "https://www.tradingview.com/news/cryptobriefing:2b5be77bb094b:0-hyperliquid-s-hip-4-upgrade-introduces-permissionless-markets-requires-500k-hype-stake/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.683Z"
+    },
+    {
+      "id": "3b6dc32dae1b71c3cabb8900f04b6288edf7b9d01f7de550d14cc49fb764f16a",
+      "title": "CointelegraphGrayscale files S-1 for first US Worldcoin ETF",
+      "url": "https://www.tradingview.com/news/cointelegraph:48c0fd18e094b:0-grayscale-files-s-1-for-first-us-worldcoin-etf/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.683Z"
+    },
+    {
+      "id": "2a272194fa9ca3bccd7723d01beeadaef38f02b79dca9cad88849072c6afc2d7",
+      "title": "CointelegraphCelsius co-founders Leon, Goldstein to pay FTC over $6M",
+      "url": "https://www.tradingview.com/news/cointelegraph:2b86a7dab094b:0-celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.684Z"
+    },
+    {
+      "id": "b6f7c085698e7a05a139a12bb812758b59c82b98f58f544255f7a1b3c3f25c88",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260720008480:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.684Z"
+    },
+    {
+      "id": "68d351bedc0353e8f980415b10ca19b47b2354b09d548e0bc59acd6e6e1fcfaa",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:5494d5b57094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.684Z"
+    },
+    {
+      "id": "63cc3e4b6ce8f0ef35ef8984c11d76fd4ac6a1aed3405c507a19ed09ce982acc",
+      "title": "BeincryptoEthereum Could Lead the Next Bull Market: Is Hayes Preparing with More Buys?",
+      "url": "https://www.tradingview.com/news/beincrypto:039e493b3094b:0-ethereum-could-lead-the-next-bull-market-is-hayes-preparing-with-more-buys/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.684Z"
+    },
+    {
+      "id": "598835fc98f53239de602810e81072e9adb44569ad2d52516b83e8e82ac65e66",
+      "title": "The BlockSEC charges Florida man and company in alleged $22 million crypto mining fraud scheme",
+      "url": "https://www.tradingview.com/news/the_block:1240a61b3094b:0-sec-charges-florida-man-and-company-in-alleged-22-million-crypto-mining-fraud-scheme/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.684Z"
+    },
+    {
+      "id": "79831d00f5833b26600ce16a7fb8c504c889280354d02cf675a1a42657d08115",
+      "title": "CoinpediaCardano Activates Van Rossem Hard Fork, What next for ADA?",
+      "url": "https://www.tradingview.com/news/coinpedia:995640baf094b:0-cardano-activates-van-rossem-hard-fork-what-next-for-ada/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.684Z"
+    },
+    {
+      "id": "a23428b2e6fced8453c4956547804e2ff6fe32d9a3d7d822f9c65da7c2ca6379",
+      "title": "CoinMarketCalCanton: approves Ekiden as a Featured App - 21 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:043e65c1a094b:0-canton-approves-ekiden-as-a-featured-app-21-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.684Z"
+    },
+    {
+      "id": "83328aad939397987f2216c15333b274d5a1e0f0765151f1211f55c027b4a0fa",
+      "title": "CoinMarketCalPendle: ships PT auto-looping with money markets - Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:a3fc12f37094b:0-pendle-ships-pt-auto-looping-with-money-markets-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-21T04:52:58.684Z"
+    },
     {
       "id": "1fca04affb8733feceec61eb87c33aebf6fc21a47c3354416f089a83f1c7c739",
       "title": "The BlockTrump agrees to ethics provision as crypto bill inches closer to Senate vote",
       "url": "https://www.tradingview.com/news/the_block:37b1f71f1094b:0-trump-agrees-to-ethics-provision-as-crypto-bill-inches-closer-to-senate-vote/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
+      "scraped_at": "2026-07-21T04:52:58.684Z"
     },
     {
       "id": "2a98e3d159af83614e89b0fd1e667b22ab6a64fb1eb2df414bfb8ac708655aea",
       "title": "Binance NewsPolymarket Pirates Outcome Swings Sharply in Yankees Matchup",
       "url": "https://www.tradingview.com/news/binance_news:137449c22094b:0-polymarket-pirates-outcome-swings-sharply-in-yankees-matchup/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
+      "scraped_at": "2026-07-21T04:52:58.684Z"
     },
     {
       "id": "9b8ffb64744ec4c9ef19b9c8348e7a870ffc08ca38ed4c29b7f86f5488c6edee",
       "title": "Binance NewsPolymarket Tampa Bay Rays Odds Surge to 84.5%",
       "url": "https://www.tradingview.com/news/binance_news:18545ea4c094b:0-polymarket-tampa-bay-rays-odds-surge-to-84-5/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
+      "scraped_at": "2026-07-21T04:52:58.684Z"
     },
     {
       "id": "94ce2ed6ff77dcf106909a15d910ec3f5c1b22a92cfbb2d302cd845d76958b2c",
       "title": "Binance NewsTokenized Stock Market Cap Reaches $1.7 Billion at End of June, a16z Says",
       "url": "https://www.tradingview.com/news/binance_news:ae9cfbb8b094b:0-tokenized-stock-market-cap-reaches-1-7-billion-at-end-of-june-a16z-says/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
+      "scraped_at": "2026-07-21T04:52:58.684Z"
     },
     {
-      "id": "3c64bae26f7a5d1a3f3350f3d6f4b125d877ada676669265924c3c500bf67f3d",
-      "title": "CointelegraphPatrick Witt defers military training as CLARITY heads to Senate",
-      "url": "https://www.tradingview.com/news/cointelegraph:635d8648c094b:0-patrick-witt-defers-military-training-as-clarity-heads-to-senate/",
+      "id": "9e1211815003fbd5f43b8f5b634208a4c7307a86735516339f8f4ff66a95d149",
+      "title": "Binance NewsENS DAO Approves Two-Year Security Committee With Veto Power",
+      "url": "https://www.tradingview.com/news/binance_news:ed58ea7d8094b:0-ens-dao-approves-two-year-security-committee-with-veto-power/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
+      "scraped_at": "2026-07-21T04:52:58.684Z"
     },
     {
-      "id": "9bdce52579bc0ca0e2d3e69e5ac57cdfa71768d680bddfa73a9c351787f1e7bb",
-      "title": "CoinMarketCalGeodnet: enters GEODASH commercial rollout - Q3 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:0bf0d07aa094b:0-geodnet-enters-geodash-commercial-rollout-q3-2026/",
+      "id": "20cca001365f21b373b18ce9b8519510db65c2766b1a6daf1a087822e7737666",
+      "title": "Binance NewsSuspicious Prediction Market Trades Reach $200 Million in First Half of 2026",
+      "url": "https://www.tradingview.com/news/binance_news:c3ec26228094b:0-suspicious-prediction-market-trades-reach-200-million-in-first-half-of-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
-    },
-    {
-      "id": "d624bee9db4d5200bf577623cafb59f5e9fe7e57e72c438fe86da766c6c2c619",
-      "title": "CointelegraphDemocrats added certain consumer protection rules to CLARITY: Coinbase exec",
-      "url": "https://www.tradingview.com/news/cointelegraph:54efc6da0094b:0-democrats-added-certain-consumer-protection-rules-to-clarity-coinbase-exec/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
-    },
-    {
-      "id": "656555dab0fa87d6f7b39b7ec0604ece5ccf3703d64771557c1b5e20496e2076",
-      "title": "The BlockGrayscale could take Worldcoin to Wall Street after ETF filing with the SEC",
-      "url": "https://www.tradingview.com/news/the_block:d5b69332c094b:0-grayscale-could-take-worldcoin-to-wall-street-after-etf-filing-with-the-sec/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
-    },
-    {
-      "id": "745e58ac470231b3e6ec4b2ad25b9a993b4dfb579df53b926b22cb2e3d9bbb65",
-      "title": "CointelegraphTether Gold recognized as Accepted Spot Commodity in Abu Dhabi financial center",
-      "url": "https://www.tradingview.com/news/cointelegraph:c3533d7f9094b:0-tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
-    },
-    {
-      "id": "ea3bf79eb4791f8f651396c40fb4a064f3d61026f8ebcb833f785ec79fb51fbe",
-      "title": "CointelegraphBitcoin defies recent tech stocks sell-off. Are bulls eyeing a $70K rally?",
-      "url": "https://www.tradingview.com/news/cointelegraph:d327af6c6094b:0-bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-a-70k-rally/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
-    },
-    {
-      "id": "90fb5ea5da9a48aad0123bc7981bf1ffc973bf452a1901ff832287c31f54b7e4",
-      "title": "The BlockKalshi, Polymarket open interest falls 20% as World Cup frenzy winds down",
-      "url": "https://www.tradingview.com/news/the_block:0812bac8e094b:0-kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
-    },
-    {
-      "id": "4d8d8225bdc7b9faab573f0a4dc6cb202b4b678eb09f1b5ec97bf0be50a314e2",
-      "title": "CryptoProwlIREN Signs $2.8B in AI Cloud Contracts, Lifts 2026 Target Above $4B",
-      "url": "https://www.tradingview.com/news/cryptoprowl:e1790da8d094b:0-iren-signs-2-8b-in-ai-cloud-contracts-lifts-2026-target-above-4b/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
-    },
-    {
-      "id": "28296af1541912eb1199970287195e4430327d2ccc98032ef7e06631b96eed30",
-      "title": "CointelegraphSEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
-      "url": "https://www.tradingview.com/news/cointelegraph:a269c096e094b:0-sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
-    },
-    {
-      "id": "06b49cf5a2f5327c40c0f5f59956fcc0b7d22e76b6bc29f3d3f4cc158d47faf6",
-      "title": "The BlockTrump’s crypto ethics stance leaves Clarity Act negotiations in limbo",
-      "url": "https://www.tradingview.com/news/the_block:a1e396215094b:0-trump-s-crypto-ethics-stance-leaves-clarity-act-negotiations-in-limbo/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
-    },
-    {
-      "id": "cfdf8419b366ab6e89aaa5623b72d73a6fc0394ce8b82ed7113fc31f1866972a",
-      "title": "CoinpediaSolana Eyes $93 Rally: Why Current Consolidation Signals Next Big Buy",
-      "url": "https://www.tradingview.com/news/coinpedia:1e2cf51ab094b:0-solana-eyes-93-rally-why-current-consolidation-signals-next-big-buy/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-21T01:11:02.061Z"
+      "scraped_at": "2026-07-21T04:52:58.684Z"
     }
   ]
 }
