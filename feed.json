@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-07-22T20:46:21.445Z",
-  "total": 16,
+  "generated_at": "2026-07-22T22:09:00.284Z",
+  "total": 15,
   "items": [
+    {
+      "id": "722f01c804cc99e41adb8a9fff2c32eb3ca085f41f68737b0f4099cf56a30068",
+      "title": "ReutersAtlasclear Holdings Signs Letter Of Intent To Acquire An Institutional Digital Asset Business And Advances Acquisition Of Dawson James Securities",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA4J3QNY:0-atlasclear-holdings-signs-letter-of-intent-to-acquire-an-institutional-digital-asset-business-and-advances-acquisition-of-dawson-james-securities/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T22:09:00.282Z"
+    },
+    {
+      "id": "050eeab8fec91a30b682e26b5a954d5d80404a9a18ecbec5b2c62d61f21d9c83",
+      "title": "The BlockBipartisan support ‘critical’ as Democrats push back on GOP crypto bill on ethics grounds",
+      "url": "https://www.tradingview.com/news/the_block:72e653738094b:0-bipartisan-support-critical-as-democrats-push-back-on-gop-crypto-bill-on-ethics-grounds/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T22:09:00.282Z"
+    },
+    {
+      "id": "79cb71233d8ab6c871260e16cc1fd307b649204d5d9f5bee6f2ba1067af47fb3",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260722010732:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T22:09:00.282Z"
+    },
+    {
+      "id": "69dfd9f8f8140fdf1032be0ec86eb5121c165a7620696c92d60a626ce78d4c95",
+      "title": "FinanceWireMandela Digital Announces $5 Million Investment From Datavault AI",
+      "url": "https://www.tradingview.com/news/financewire:ca6c7f7ef094b:0-mandela-digital-announces-5-million-investment-from-datavault-ai/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T22:09:00.282Z"
+    },
+    {
+      "id": "d23aafef1b5daa6345c18e72e1c6ee5efb29c5348c97e4e9358965a1c3639509",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:fd1445a59094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T22:09:00.282Z"
+    },
+    {
+      "id": "9fb1789739eedb6f67fb7ef9da15c51e9e5b07a074350bb9765a88ec68b0b3e9",
+      "title": "ReutersDigital Motion Corporation To Deploy Its Proprietary Token And Vault Standards On Krown Network",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA1FJX8H:0-digital-motion-corporation-to-deploy-its-proprietary-token-and-vault-standards-on-krown-network/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T22:09:00.282Z"
+    },
+    {
+      "id": "b0ab99972b57c89d66fb9afc94f639a54a95ce29747c793491088941282aed0e",
+      "title": "CointelegraphS&P launches blockchain fundamentals index for digital assets",
+      "url": "https://www.tradingview.com/news/cointelegraph:bfcd30a70094b:0-s-p-launches-blockchain-fundamentals-index-for-digital-assets/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T22:09:00.282Z"
+    },
+    {
+      "id": "2f48aedafa45a51aaff64a8e6b699342433e7c3837a09befaacd392e5e314de0",
+      "title": "CointelegraphCrypto PAC pours $1M into Michigan Democratic primary race",
+      "url": "https://www.tradingview.com/news/cointelegraph:39517e7a6094b:0-crypto-pac-pours-1m-into-michigan-democratic-primary-race/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T22:09:00.282Z"
+    },
+    {
+      "id": "efb7577b57c3923c5bb35aa946c36fbab610f6c9d75265f001126437aafee051",
+      "title": "Finance MagnatesInteractive Brokers' Q2 Growth Came From Its Balance Sheet, Not Higher Rates",
+      "url": "https://www.tradingview.com/news/financemagnates:7a72bcaf0094b:0-interactive-brokers-q2-growth-came-from-its-balance-sheet-not-higher-rates/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T22:09:00.282Z"
+    },
     {
       "id": "fb1d7687a623245316b49e8f3d125f7e76bb0bb4d8b69a4a17d67fa048760346",
       "title": "ACCESS NewswireSign up to read this news",
       "url": "https://www.tradingview.com/news/reuters.com,2026-07-22:newsml_ACS1PVVqa:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
+      "scraped_at": "2026-07-22T22:09:00.282Z"
     },
     {
       "id": "cb0effb9f6573fce02af06ef7f84f0c3a760da83b94dd18662dd70d2033a0947",
       "title": "CoinMarketCalUniswap: makes the DualPool hook available - 22 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:44eae9bb8094b:0-uniswap-makes-the-dualpool-hook-available-22-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
+      "scraped_at": "2026-07-22T22:09:00.282Z"
     },
     {
       "id": "2c2ce0c642222fcbfe4be481e68257364ef10c09e071a700062113fd08072e17",
       "title": "CoinMarketCalTRON: joins S&P's first crypto index - 22 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:4b9b9f6b1094b:0-tron-joins-s-p-s-first-crypto-index-22-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
+      "scraped_at": "2026-07-22T22:09:00.282Z"
     },
     {
       "id": "7a2a8af19797d280ae311c42af5a5fb28fce5fbabd00bf26747d0a29e91a12c1",
       "title": "Finance MagnatesSEC Settles FOIA Suit With Coinbase. The Agency Pays $150,000 Over Lost Gensler Text Messages",
       "url": "https://www.tradingview.com/news/financemagnates:8fb2afd33094b:0-sec-settles-foia-suit-with-coinbase-the-agency-pays-150-000-over-lost-gensler-text-messages/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
+      "scraped_at": "2026-07-22T22:09:00.282Z"
     },
     {
       "id": "e0ca1fb5bf473436f721ac78bdcfdee4ad0e90b24c42c7b9ce952a4723288c29",
       "title": "CoindarTellor Tributes to Upgrade Palmito Testnet",
       "url": "https://www.tradingview.com/news/coindar:83f4533ff094b:0-tellor-tributes-to-upgrade-palmito-testnet/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
+      "scraped_at": "2026-07-22T22:09:00.282Z"
     },
     {
       "id": "db9db2168ad60c1dd7618b711166c31f6477b61fb07ebc8e73f94064ad35363a",
       "title": "CoindarHorizen to Host Community Call on July 23rd",
       "url": "https://www.tradingview.com/news/coindar:bca7b40d3094b:0-horizen-to-host-community-call-on-july-23rd/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "0fa802a97b0ea4aff66ae6abbdbe160bc1bb3fed237b73eef990c746e09dba3f",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260722007440:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "6b762350369d8fa4079c4a5438da21404a89f1e50707ec474f2d9d1876d1c3ed",
-      "title": "CoindarRender to Participate in SIGGRAPH 2026 in Los Angeles on July 23rd",
-      "url": "https://www.tradingview.com/news/coindar:e44676476094b:0-render-to-participate-in-siggraph-2026-in-los-angeles-on-july-23rd/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "9823f06b4502df9a037fee5cab25fbf880ed5ff9b04cff71011e02e09e7da5b9",
-      "title": "CoindarMetis to Begin Mentor Workshop Series on July 23rd",
-      "url": "https://www.tradingview.com/news/coindar:401fc9e3a094b:0-metis-to-begin-mentor-workshop-series-on-july-23rd/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "999c485d834f2b813edf44142fdfd527f6fac98776eeb5d281b9fe6a0c9abeac",
-      "title": "CoindarCelo Upgraded Mainnet to Op-Reth",
-      "url": "https://www.tradingview.com/news/coindar:41c203531094b:0-celo-upgraded-mainnet-to-op-reth/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "29ed4e122b1d84f3652187843bc6c907c6a50a8652ba3df8cf3b91abd1cd5e13",
-      "title": "CoindarTRON Node Operators Must Upgrade to GreatVoyage-V4.8.2 by August 16",
-      "url": "https://www.tradingview.com/news/coindar:db6e72ec9094b:0-tron-node-operators-must-upgrade-to-greatvoyage-v4-8-2-by-august-16/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "954623ade191f5c4d8e25e538e2185c97679044905ca2d5637519ad22c441cf8",
-      "title": "CoindarThe Sandbox to Host Community Call on July 24th",
-      "url": "https://www.tradingview.com/news/coindar:dd2f2b0b3094b:0-the-sandbox-to-host-community-call-on-july-24th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "c9bc317ab0fb62bdd44061fff532d7d820c20f73d532e00577403d41263ecb82",
-      "title": "CointelegraphUS officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
-      "url": "https://www.tradingview.com/news/cointelegraph:2e2b0e48d094b:0-us-officials-barred-until-2029-from-issuing-or-sponsoring-tokens-under-clarity-s-proposed-ethics-rules/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "f429f23d6c9ce3ba4491e028c421adf1d0898a81f1d0dde1c1e3498954e4f6e4",
-      "title": "CoindarAdventure Gold to Open LOOT Presale on July 27th",
-      "url": "https://www.tradingview.com/news/coindar:3a5a89621094b:0-adventure-gold-to-open-loot-presale-on-july-27th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "3d4ede38f8aece096bf5fd938b26102f5304ec5cf449cacdfe2876d08f9d3681",
-      "title": "CoindarStellar to Hold Institutional Validators Discussion on July 23rd",
-      "url": "https://www.tradingview.com/news/coindar:da188f410094b:0-stellar-to-hold-institutional-validators-discussion-on-july-23rd/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
-    },
-    {
-      "id": "410029282dd9e411076db53ca3f96249bc092b7a05ad7aece692018391963386",
-      "title": "CoindarHolo to Hold Live Stream on YouTube on July 30th",
-      "url": "https://www.tradingview.com/news/coindar:e0f3f1226094b:0-holo-to-hold-live-stream-on-youtube-on-july-30th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T20:46:21.442Z"
+      "scraped_at": "2026-07-22T22:09:00.282Z"
     }
   ]
 }
