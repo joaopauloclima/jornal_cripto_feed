@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-22T14:47:47.934Z",
+  "generated_at": "2026-07-22T16:22:58.014Z",
   "total": 15,
   "items": [
+    {
+      "id": "2a50e0782e0ab869953e40811b5949a4175a430122bf65b0af6b6cf291e7bec2",
+      "title": "The BlockCrypto directly employs 34,000 in the US and contributes $55 billion to the economy: NCA report",
+      "url": "https://www.tradingview.com/news/the_block:fcbf435bd094b:0-crypto-directly-employs-34-000-in-the-us-and-contributes-55-billion-to-the-economy-nca-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
+    {
+      "id": "b9c1403c298ce2a168a9be0a391182a805e8a72c8ff48c8e95b9d17b1604e49c",
+      "title": "CointelegraphBitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
+      "url": "https://www.tradingview.com/news/cointelegraph:53bbefb36094b:0-bitcoin-price-avoids-major-iran-jitters-as-s-p-500-short-squeeze-on-horizon/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
+    {
+      "id": "474ccdba45e1a9dfff3d2b161b7f40b4df80e130422dc2c2b23b8593c88b8b86",
+      "title": "CoindarDIA Released DIA ZK",
+      "url": "https://www.tradingview.com/news/coindar:9f2b9086d094b:0-dia-released-dia-zk/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
+    {
+      "id": "337150e43410354e833c87b94eb596f81f452dd1a77f71d7b04327434455d7b7",
+      "title": "CoindarLCX Released Liberty Explorer on Testnet",
+      "url": "https://www.tradingview.com/news/coindar:213b96501094b:0-lcx-released-liberty-explorer-on-testnet/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
+    {
+      "id": "33ef4f759c656a692ff75d74645741c64b217917193dfae8d66101e82b913f3f",
+      "title": "The BlockCrypto ‘wrench attacks’ persist as total climbs to 52 and value targeted jumps more than tenfold, CertiK says",
+      "url": "https://www.tradingview.com/news/the_block:0cbe258e3094b:0-crypto-wrench-attacks-persist-as-total-climbs-to-52-and-value-targeted-jumps-more-than-tenfold-certik-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
+    {
+      "id": "a269253b2337ee503e970a60f606fad2e86fcc89a386d37a33d83bbecbae6eda",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260722006045:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
+    {
+      "id": "7c016c5e309aa65ff17787c46dbaffa9e75e52549555a01c2e10a19f5abdcf4e",
+      "title": "The Block‘You will have a painful fall’: SEC’s Peirce warns crypto vault builders against twisting securities law",
+      "url": "https://www.tradingview.com/news/the_block:7c4075aa9094b:0-you-will-have-a-painful-fall-sec-s-peirce-warns-crypto-vault-builders-against-twisting-securities-law/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
+    {
+      "id": "e50f0db00c056ca81e75a5a7259afcec4f6763530c3e0b15b7e6cc7ed1db1b4e",
+      "title": "The BlockPolymarket ‘surprised’ France blocked site as information source, plans legal challenge",
+      "url": "https://www.tradingview.com/news/the_block:355f7f6cf094b:0-polymarket-surprised-france-blocked-site-as-information-source-plans-legal-challenge/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
+    {
+      "id": "fb846251d46965dfbefc34a18a46de40a79061b37fde79ec52e3130c57750923",
+      "title": "The Block‘Optimistic signals’ meet a $68,000 wall as bitcoin’s recovery faces its next test: analysts",
+      "url": "https://www.tradingview.com/news/the_block:fc351a5fd094b:0-optimistic-signals-meet-a-68-000-wall-as-bitcoin-s-recovery-faces-its-next-test-analysts/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
+    {
+      "id": "7ed45f9ff4a19579507cd5a2046cd2664ea9098f6048dde07283297281ff9136",
+      "title": "CoinpediaTop Reasons Why Cardano (ADA) Price Eyes a Breakout—Can it Reach $0.30?",
+      "url": "https://www.tradingview.com/news/coinpedia:a120cc223094b:0-top-reasons-why-cardano-ada-price-eyes-a-breakout-can-it-reach-0-30/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T16:22:58.011Z"
+    },
     {
       "id": "ef83182f60708fc2a15466dc4eb6a7f01c6fb7377b48dd44a2c81ab757ce8e54",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260722005525:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.931Z"
+      "scraped_at": "2026-07-22T16:22:58.011Z"
     },
     {
       "id": "f8e418393c9780cd522827b34b16bc4a53ed0f2c8a167af92d5311254b550be5",
       "title": "dpa-AFXGeopolitics, Earnings Sway Market Sentiment",
       "url": "https://www.tradingview.com/news/dpa_afx:f9661964f518a:0-geopolitics-earnings-sway-market-sentiment/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.931Z"
+      "scraped_at": "2026-07-22T16:22:58.011Z"
     },
     {
       "id": "643792715667878807fd74d9d8974f998b9cd713833f37a7d5f061a727140e33",
       "title": "ChainwireKuCoin Brings Trust, Music and Community Together During an Unforgettable First Weekend at Tomorrowland Belgium",
       "url": "https://www.tradingview.com/news/chainwire:8c88340ed094b:0-kucoin-brings-trust-music-and-community-together-during-an-unforgettable-first-weekend-at-tomorrowland-belgium/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.931Z"
+      "scraped_at": "2026-07-22T16:22:58.011Z"
     },
     {
       "id": "e74cf62f1b940c764052a4c2d8c7d66b0d395c5d6c04904a6a83e67e95e3a268",
       "title": "The BlockTokenized equity perps drive RWA trading boom to $470 billion monthly volume",
       "url": "https://www.tradingview.com/news/the_block:8d3723fca094b:0-tokenized-equity-perps-drive-rwa-trading-boom-to-470-billion-monthly-volume/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.931Z"
+      "scraped_at": "2026-07-22T16:22:58.011Z"
     },
     {
-      "id": "84a7bdfa9abfb337911550b157e6d3d698d150ee75d299e4c307220af4b91a90",
-      "title": "FinanceWireRedotPay Recognized as One of the World's Top Fintech Companies by CNBC",
-      "url": "https://www.tradingview.com/news/financewire:cca44f7c0094b:0-redotpay-recognized-as-one-of-the-world-s-top-fintech-companies-by-cnbc/",
+      "id": "4044c8591ae6aba40967d792a72ca86fa1667e2b29967e140f67aa6a940e038a",
+      "title": "Finance MagnatesMarket Makers Can Access Kalshi Through Existing Talos Trading Workflows",
+      "url": "https://www.tradingview.com/news/financemagnates:ef8351792094b:0-market-makers-can-access-kalshi-through-existing-talos-trading-workflows/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.931Z"
-    },
-    {
-      "id": "0ace5405f97b91c755d34db9f80072184baef83d1988797db86e62444d17262e",
-      "title": "CointelegraphFranklin Templeton calls agentic AI next ‘killer’ use case for blockchain",
-      "url": "https://www.tradingview.com/news/cointelegraph:723bccc74094b:0-franklin-templeton-calls-agentic-ai-next-killer-use-case-for-blockchain/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.931Z"
-    },
-    {
-      "id": "4eec8763f0c04640b5d3b27e7b285b59e6f94cc350b0230d7e43d764b25834d6",
-      "title": "ChainwireFlyfi Launches Hotel Booking Platform With Cryptocurrency Payments and No Account Registration",
-      "url": "https://www.tradingview.com/news/chainwire:9c2aee6c6094b:0-flyfi-launches-hotel-booking-platform-with-cryptocurrency-payments-and-no-account-registration/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.931Z"
-    },
-    {
-      "id": "6255305c70ea05a64458f00adac27f5f1214647c92ac43d9c30b624ee372d1f3",
-      "title": "ChainwireHashi Testnet Is Live, Bringing Native Bitcoin Finance One Step Closer to Global Adoption",
-      "url": "https://www.tradingview.com/news/chainwire:93383e4d0094b:0-hashi-testnet-is-live-bringing-native-bitcoin-finance-one-step-closer-to-global-adoption/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.931Z"
-    },
-    {
-      "id": "d926e8738083bee8f87f5ce0e6ab84d38e38560412fac497c623a5e15589ded5",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:69144ed68094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.932Z"
-    },
-    {
-      "id": "fc5a91e8cecfd2c51205bdefdc5cb7ed93b58a4fcfafefc27e78d81e1d6e45b6",
-      "title": "CoinpediaHyperliquid (HYPE) Price Falls After $120M Multicoin Unstake—Can Key Support Hold?",
-      "url": "https://www.tradingview.com/news/coinpedia:c8c3167ac094b:0-hyperliquid-hype-price-falls-after-120m-multicoin-unstake-can-key-support-hold/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.932Z"
-    },
-    {
-      "id": "7727567f2cdee7b9265ccd853c615fec6c07bf3eb155b2a0a313257ff9d07f70",
-      "title": "BeincryptoSolana Prepares for the Alpenglow Upgrade. How Will SOL React?",
-      "url": "https://www.tradingview.com/news/beincrypto:6fb44174b094b:0-solana-prepares-for-the-alpenglow-upgrade-how-will-sol-react/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.932Z"
-    },
-    {
-      "id": "98d0f666078ee20bf35e5e8bcaefa47a45c757d6caaa757bd2b5c71e6cfe49f0",
-      "title": "The BlockZilliqa halts native transactions over bug in its Ledger app dating to 2019",
-      "url": "https://www.tradingview.com/news/the_block:8672c575f094b:0-zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.932Z"
-    },
-    {
-      "id": "b88ad3078df41e0b77869fb4e5abfe93c103c215d869368664352cf309d8e5b4",
-      "title": "ReutersPolymarket intends to challenge France's decision to block its website",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N43O17K:0-polymarket-intends-to-challenge-france-s-decision-to-block-its-website/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.932Z"
-    },
-    {
-      "id": "f03ed1824a1ffb4be7bfca4dc71bd2ac13e9ce7505d4df41f1d24ea727941ca2",
-      "title": "TradingViewKey facts: BTC $66,910; $227M ETF inflows; 67k neckline, $69,720 SMA",
-      "url": "https://www.tradingview.com/news/tradingview:973f08c0e72c4:0-key-facts-btc-66-910-227m-etf-inflows-67k-neckline-69-720-sma/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.932Z"
-    },
-    {
-      "id": "44a9ab23d40781553e4ae8a618b79d960de70da87544bd617a2d27ac98acfcc4",
-      "title": "TradingViewKey facts: ADA/USD under 50-day EMA; TVL, activity fall after upgrade",
-      "url": "https://www.tradingview.com/news/tradingview:bb35d603110fe:0-key-facts-ada-usd-under-50-day-ema-tvl-activity-fall-after-upgrade/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T14:47:47.932Z"
+      "scraped_at": "2026-07-22T16:22:58.011Z"
     }
   ]
 }
