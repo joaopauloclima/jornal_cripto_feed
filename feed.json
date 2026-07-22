@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-22T12:15:37.233Z",
+  "generated_at": "2026-07-22T14:47:47.934Z",
   "total": 15,
   "items": [
+    {
+      "id": "ef83182f60708fc2a15466dc4eb6a7f01c6fb7377b48dd44a2c81ab757ce8e54",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260722005525:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.931Z"
+    },
+    {
+      "id": "f8e418393c9780cd522827b34b16bc4a53ed0f2c8a167af92d5311254b550be5",
+      "title": "dpa-AFXGeopolitics, Earnings Sway Market Sentiment",
+      "url": "https://www.tradingview.com/news/dpa_afx:f9661964f518a:0-geopolitics-earnings-sway-market-sentiment/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.931Z"
+    },
+    {
+      "id": "643792715667878807fd74d9d8974f998b9cd713833f37a7d5f061a727140e33",
+      "title": "ChainwireKuCoin Brings Trust, Music and Community Together During an Unforgettable First Weekend at Tomorrowland Belgium",
+      "url": "https://www.tradingview.com/news/chainwire:8c88340ed094b:0-kucoin-brings-trust-music-and-community-together-during-an-unforgettable-first-weekend-at-tomorrowland-belgium/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.931Z"
+    },
+    {
+      "id": "e74cf62f1b940c764052a4c2d8c7d66b0d395c5d6c04904a6a83e67e95e3a268",
+      "title": "The BlockTokenized equity perps drive RWA trading boom to $470 billion monthly volume",
+      "url": "https://www.tradingview.com/news/the_block:8d3723fca094b:0-tokenized-equity-perps-drive-rwa-trading-boom-to-470-billion-monthly-volume/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.931Z"
+    },
+    {
+      "id": "84a7bdfa9abfb337911550b157e6d3d698d150ee75d299e4c307220af4b91a90",
+      "title": "FinanceWireRedotPay Recognized as One of the World's Top Fintech Companies by CNBC",
+      "url": "https://www.tradingview.com/news/financewire:cca44f7c0094b:0-redotpay-recognized-as-one-of-the-world-s-top-fintech-companies-by-cnbc/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.931Z"
+    },
+    {
+      "id": "0ace5405f97b91c755d34db9f80072184baef83d1988797db86e62444d17262e",
+      "title": "CointelegraphFranklin Templeton calls agentic AI next ‘killer’ use case for blockchain",
+      "url": "https://www.tradingview.com/news/cointelegraph:723bccc74094b:0-franklin-templeton-calls-agentic-ai-next-killer-use-case-for-blockchain/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.931Z"
+    },
+    {
+      "id": "4eec8763f0c04640b5d3b27e7b285b59e6f94cc350b0230d7e43d764b25834d6",
+      "title": "ChainwireFlyfi Launches Hotel Booking Platform With Cryptocurrency Payments and No Account Registration",
+      "url": "https://www.tradingview.com/news/chainwire:9c2aee6c6094b:0-flyfi-launches-hotel-booking-platform-with-cryptocurrency-payments-and-no-account-registration/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.931Z"
+    },
+    {
+      "id": "6255305c70ea05a64458f00adac27f5f1214647c92ac43d9c30b624ee372d1f3",
+      "title": "ChainwireHashi Testnet Is Live, Bringing Native Bitcoin Finance One Step Closer to Global Adoption",
+      "url": "https://www.tradingview.com/news/chainwire:93383e4d0094b:0-hashi-testnet-is-live-bringing-native-bitcoin-finance-one-step-closer-to-global-adoption/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.931Z"
+    },
+    {
+      "id": "d926e8738083bee8f87f5ce0e6ab84d38e38560412fac497c623a5e15589ded5",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:69144ed68094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.932Z"
+    },
+    {
+      "id": "fc5a91e8cecfd2c51205bdefdc5cb7ed93b58a4fcfafefc27e78d81e1d6e45b6",
+      "title": "CoinpediaHyperliquid (HYPE) Price Falls After $120M Multicoin Unstake—Can Key Support Hold?",
+      "url": "https://www.tradingview.com/news/coinpedia:c8c3167ac094b:0-hyperliquid-hype-price-falls-after-120m-multicoin-unstake-can-key-support-hold/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.932Z"
+    },
+    {
+      "id": "7727567f2cdee7b9265ccd853c615fec6c07bf3eb155b2a0a313257ff9d07f70",
+      "title": "BeincryptoSolana Prepares for the Alpenglow Upgrade. How Will SOL React?",
+      "url": "https://www.tradingview.com/news/beincrypto:6fb44174b094b:0-solana-prepares-for-the-alpenglow-upgrade-how-will-sol-react/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.932Z"
+    },
+    {
+      "id": "98d0f666078ee20bf35e5e8bcaefa47a45c757d6caaa757bd2b5c71e6cfe49f0",
+      "title": "The BlockZilliqa halts native transactions over bug in its Ledger app dating to 2019",
+      "url": "https://www.tradingview.com/news/the_block:8672c575f094b:0-zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.932Z"
+    },
+    {
+      "id": "b88ad3078df41e0b77869fb4e5abfe93c103c215d869368664352cf309d8e5b4",
+      "title": "ReutersPolymarket intends to challenge France's decision to block its website",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N43O17K:0-polymarket-intends-to-challenge-france-s-decision-to-block-its-website/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-22T14:47:47.932Z"
+    },
     {
       "id": "f03ed1824a1ffb4be7bfca4dc71bd2ac13e9ce7505d4df41f1d24ea727941ca2",
       "title": "TradingViewKey facts: BTC $66,910; $227M ETF inflows; 67k neckline, $69,720 SMA",
       "url": "https://www.tradingview.com/news/tradingview:973f08c0e72c4:0-key-facts-btc-66-910-227m-etf-inflows-67k-neckline-69-720-sma/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.229Z"
+      "scraped_at": "2026-07-22T14:47:47.932Z"
     },
     {
       "id": "44a9ab23d40781553e4ae8a618b79d960de70da87544bd617a2d27ac98acfcc4",
       "title": "TradingViewKey facts: ADA/USD under 50-day EMA; TVL, activity fall after upgrade",
       "url": "https://www.tradingview.com/news/tradingview:bb35d603110fe:0-key-facts-ada-usd-under-50-day-ema-tvl-activity-fall-after-upgrade/",
       "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "f0ca792f785ca3e3689da1323f8b1927a6b581f21beb7453bf1214d50e1419ba",
-      "title": "TradingViewKey facts: XRPUSD $191M OI, funding +; large +2.8%, micro -5.2%; ledger 1M txns",
-      "url": "https://www.tradingview.com/news/tradingview:ade5d76459dee:0-key-facts-xrpusd-191m-oi-funding-large-2-8-micro-5-2-ledger-1m-txns/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "b2cc1dc23f96f304fe8af8fbc60f734fcfa3284b8bdc1d9065d1063267296e91",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260722004057:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "c8af7b44439b45236447c4fe58397bf130c361eb4abcf5d85a9dbe9083838c10",
-      "title": "ChainwireSquad Gold Rush Offers Top Bybit Referral Teams a Share of Up to 100,000 USDT Airdrop, Plus XAUT Lucky-Draw Rewards",
-      "url": "https://www.tradingview.com/news/chainwire:4a0f47e94094b:0-squad-gold-rush-offers-top-bybit-referral-teams-a-share-of-up-to-100-000-usdt-airdrop-plus-xaut-lucky-draw-rewards/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "72e97bd43dfb532d94355ca43c6987c84325878bceaadb4ef6e46021b7404a46",
-      "title": "BusinessWireBitGo and OTC Markets Group to Pursue Alliance Focused on Advancing Digital Asset Access for Over 150 Registered Broker-Dealers",
-      "url": "https://www.tradingview.com/news/business_wire:ac811763332dc:0-bitgo-and-otc-markets-group-to-pursue-alliance-focused-on-advancing-digital-asset-access-for-over-150-registered-broker-dealers/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "a4ba698a74d35ef4c80b96d9c990f9f9c874e6643391183be9bde06a2b60e6ff",
-      "title": "dpa-AFXCryptos Slip Amidst Oil Price Spike, Big Tech Caution",
-      "url": "https://www.tradingview.com/news/dpa_afx:c6759896d9778:0-cryptos-slip-amidst-oil-price-spike-big-tech-caution/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "6ea8c4fbb5359b5512ec0b6941ddfc110c7cd1a9c6b20e90470185f560625376",
-      "title": "CointelegraphBitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow",
-      "url": "https://www.tradingview.com/news/cointelegraph:2293a24d3094b:0-bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "c9a397ae0665427ccc4ec583eb6067bbcca184be88faaebc50460200b932c441",
-      "title": "CointelegraphZilliqa Ledger app vulnerability lets attackers recover signer’s private keys",
-      "url": "https://www.tradingview.com/news/cointelegraph:8b56d212f094b:0-zilliqa-ledger-app-vulnerability-lets-attackers-recover-signer-s-private-keys/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "c20dc6b615cded24ef8fa43fd62fdbe20f82cd8efd6dcd9b0ed24a16af2b7b61",
-      "title": "CointelegraphUS seeks forfeiture of $25M in crypto tied to romance, investment scams",
-      "url": "https://www.tradingview.com/news/cointelegraph:053fc0074094b:0-us-seeks-forfeiture-of-25m-in-crypto-tied-to-romance-investment-scams/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "4f948292f25c7f9c88894f650ac7ad7aa27420ab9aed2ae490f80920b8590c0e",
-      "title": "ChainwireTalos Brings Prediction Markets Onto Institutional Trading Infrastructure",
-      "url": "https://www.tradingview.com/news/chainwire:3e62f8161094b:0-talos-brings-prediction-markets-onto-institutional-trading-infrastructure/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "09a5d9f0808ad6e4ac483a5f37361915f3718d9661366cbb2db041d518ff6916",
-      "title": "InvezzMovement (MOVE) files for Chapter 11 as $141.4M in funding fails to prevent collapse",
-      "url": "https://www.tradingview.com/news/invezz:a21ce6793094b:0-movement-move-files-for-chapter-11-as-141-4m-in-funding-fails-to-prevent-collapse/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "29459f4d706d0c26ae2fa0591b2248aecc9908464780013f992572e6a675f994",
-      "title": "CoinMarketCalADI: begins trade corridor pilots - Q4 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:618f17559094b:0-adi-begins-trade-corridor-pilots-q4-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "eb358ab02f3d35ad2b86dbd75456df4687d7c349fbf5b50b5d9d34130ec24652",
-      "title": "CointelegraphCrypto institutions look beyond audits as trust signals falter: Hacken",
-      "url": "https://www.tradingview.com/news/cointelegraph:f7ab2de40094b:0-crypto-institutions-look-beyond-audits-as-trust-signals-falter-hacken/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
-    },
-    {
-      "id": "398acc4cd6b363ed0b14382c4dba0a75ce6e7cbd7c36f098544ea7554a60aba1",
-      "title": "PR NewswireGalaxy Schedules Webcast and Investor Call to Review Second Quarter 2026 Results on August 5, 2026",
-      "url": "https://www.tradingview.com/news/prnewswire:dbeed3139e960:0-galaxy-schedules-webcast-and-investor-call-to-review-second-quarter-2026-results-on-august-5-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-22T12:15:37.230Z"
+      "scraped_at": "2026-07-22T14:47:47.932Z"
     }
   ]
 }
