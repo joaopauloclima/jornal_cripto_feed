@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-07-23T18:02:10.092Z",
-  "total": 16,
+  "generated_at": "2026-07-23T20:00:53.672Z",
+  "total": 15,
   "items": [
     {
-      "id": "96e2c875bf36af2cd2a99feb5d0cad5f2a31fcf2dc81648dad1791d5008ba819",
-      "title": "The BlockRobinhood CEO’s X account apparently hacked to promote Vladhood memecoin flagged as ‘scam’",
-      "url": "https://www.tradingview.com/news/the_block:a7af510a7094b:0-robinhood-ceo-s-x-account-apparently-hacked-to-promote-vladhood-memecoin-flagged-as-scam/",
+      "id": "0a9515a20008f853b45844365efa96c9aa8bbc4bf0451ea22db8c5de5cb62c9b",
+      "title": "NewsBTCMarathon’s Utah Landfill Gas Pilot Shows Bitcoin Mining’s Energy Story Is Getting More Practical",
+      "url": "https://www.tradingview.com/news/newsbtc:569de7d2b094b:0-marathon-s-utah-landfill-gas-pilot-shows-bitcoin-mining-s-energy-story-is-getting-more-practical/",
       "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
+      "scraped_at": "2026-07-23T20:00:53.668Z"
+    },
+    {
+      "id": "f2458149a9dc86dbf82e0039193cabe45c83547f5e3f6bb8d7866b9ab7dbe069",
+      "title": "CointelegraphCrypto industry to contribute $55B to US economy in 2026: NCA study",
+      "url": "https://www.tradingview.com/news/cointelegraph:79ba627c6094b:0-crypto-industry-to-contribute-55b-to-us-economy-in-2026-nca-study/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "759a2812b3937d8cf570ef5426883256c25ab4735b870e724a9c4c876e8c5551",
+      "title": "CointelegraphAs BitMEX exits, analysts warn crypto consolidation is accelerating",
+      "url": "https://www.tradingview.com/news/cointelegraph:74f60df9e094b:0-as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "b1c30a4fc8d175d07bf5c5dfeff6fdeac1060a58f9cf11eccfd7f05dc91987bc",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260723010062:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "5609d2027c7424e1f8ffd0d792597dc4305f13f0f87682e4e2de072d4f2857a2",
+      "title": "NewsBTCBlackRock IBIT And MicroStrategy Show Two Very Different Ways To Accumulate Bitcoin",
+      "url": "https://www.tradingview.com/news/newsbtc:8f5544893094b:0-blackrock-ibit-and-microstrategy-show-two-very-different-ways-to-accumulate-bitcoin/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "41e62870b0f4d7782514dfaf2aba489fc1042828d6664e177ea8e6e4cb16a7ff",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:6d0379d72094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "250221be6f3db018951edc58b9254e5d4ef9d96ce3f52127d49140218f8cf344",
+      "title": "ChainwireCoinRabbit and GoMining Report: Managing Bitcoin Matters More Than Mining Volume",
+      "url": "https://www.tradingview.com/news/chainwire:11a1fc1de094b:0-coinrabbit-and-gomining-report-managing-bitcoin-matters-more-than-mining-volume/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "88ad4db6504eeda3fdd4740956be7ad744e3efe3a4ce8c930ae6962e5bbe9520",
+      "title": "NChainwireSTX Q2 Report: Stacks Surpasses 1.6 Million Wallets as Bitcoin Staking Enters Public Testnet Ahead of Q3 Launch",
+      "url": "https://www.tradingview.com/news/chainwire:618718128094b:0-stx-q2-report-stacks-surpasses-1-6-million-wallets-as-bitcoin-staking-enters-public-testnet-ahead-of-q3-launch/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "cf7be4100b762788ef31b1088d0d0bd051be06820fdf5b0c8130d17a25bbd44d",
+      "title": "MFN by Modular FinanceGoobit seeks reconsideration and appeals Finansinspektionen's MiCA decision",
+      "url": "https://www.tradingview.com/news/modular_finance:e7940df8b8326:0-goobit-seeks-reconsideration-and-appeals-finansinspektionen-s-mica-decision/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "4d678693cb6422b936e1588e47826a715d7fa5e05c0b7bda0bba33836cb4fab7",
+      "title": "NewsBTC$67M Ethereum Short On Hyperliquid Shows How Institutional Trading Is Moving On-Chain",
+      "url": "https://www.tradingview.com/news/newsbtc:40ad0d450094b:0-67m-ethereum-short-on-hyperliquid-shows-how-institutional-trading-is-moving-on-chain/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "2c5cc90073ff979418f98bf3a4cbeef7bfdb0bf131ffff8b11d98333fbe2cd01",
+      "title": "CointelegraphRobinhood CEO’s X account hacked in apparent memecoin scam",
+      "url": "https://www.tradingview.com/news/cointelegraph:ddb453590094b:0-robinhood-ceo-s-x-account-hacked-in-apparent-memecoin-scam/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "23657a439e238c9ed2991df1b926359991b30e4eddc03ec20518cafb949da98f",
+      "title": "Finance MagnatesFive Regulatory Moves This Week That Will Shape Crypto Trading in the Second Half of 2026",
+      "url": "https://www.tradingview.com/news/financemagnates:6d6c7bae4094b:0-five-regulatory-moves-this-week-that-will-shape-crypto-trading-in-the-second-half-of-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "1a2a4e1687e6503b991d75674f8fa5ba80e6993f1e8611d90a4fb1f6e0ec6063",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:1e194df3f094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
+    },
+    {
+      "id": "f1d6d67741251f0ce4efafdb0f3759ae72f3ff84007df92b404dce2e61b68e79",
+      "title": "The BlockRobinhood CEO’s X account hacked to promote Vladhood memecoin flagged as ‘scam’",
+      "url": "https://www.tradingview.com/news/the_block:a7af510a7094b:0-robinhood-ceo-s-x-account-hacked-to-promote-vladhood-memecoin-flagged-as-scam/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-23T20:00:53.669Z"
     },
     {
       "id": "50cc0a8b06a51b295cc0b8600b068c56eab5cd9592f1201ce21cc19f4957ef5e",
       "title": "CoindarWazirX to Conduct Scheduled Maintenance on July 25th",
       "url": "https://www.tradingview.com/news/coindar:7afb03d85094b:0-wazirx-to-conduct-scheduled-maintenance-on-july-25th/",
       "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "b6d3987e7ea8530f1a48858cd9a67171c50ae4a8c53ae2941670aac52f6a88f9",
-      "title": "CoindarBNB to Hold Live Stream on X on July 24th",
-      "url": "https://www.tradingview.com/news/coindar:9d57ca213094b:0-bnb-to-hold-live-stream-on-x-on-july-24th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "58a384734fea49311a5c843420bcc397ba72fa62b4b35b33d61ca82984aa1ecf",
-      "title": "CoindarThe Sandbox Released Studio Engine Update",
-      "url": "https://www.tradingview.com/news/coindar:ec5836239094b:0-the-sandbox-released-studio-engine-update/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "f23b1047ed981dd8bf122075d0c880ccf581ee677fd08b128e6afe6ab56fffa5",
-      "title": "CoindarWazirX Released TaxLyst",
-      "url": "https://www.tradingview.com/news/coindar:af85307f3094b:0-wazirx-released-taxlyst/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "51b7ba1dfe1daf2ce3975209aed78fb769b341a0e4a5b57cf4d66c31ffa4fafe",
-      "title": "CoindarYield Guild Games to Hold Live Stream on Discord on July 24th",
-      "url": "https://www.tradingview.com/news/coindar:950758c11094b:0-yield-guild-games-to-hold-live-stream-on-discord-on-july-24th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "93b25553a3a5a477f9e320ad14e62f50de91901787bef698eeb0987b1d4a2990",
-      "title": "NewsBTCS&P And Pantera Launch Crypto Index Built Around Protocol Fundamentals",
-      "url": "https://www.tradingview.com/news/newsbtc:7eb2b0ee6094b:0-s-p-and-pantera-launch-crypto-index-built-around-protocol-fundamentals/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "c4b9e5ac61d932264f5cb3fc4bfd94e8edfe7d3773c39f737d4053d482a9f046",
-      "title": "CoindarLido DAO Approved CSM v3 and Curated Module v2",
-      "url": "https://www.tradingview.com/news/coindar:16078477a094b:0-lido-dao-approved-csm-v3-and-curated-module-v2/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "365e1fc63bede52ede60ca93dbb8957c22ad5e1398d36c7af21ab761277c1c24",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260723009284:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "08f5aab77fde2951bb25c5778ea4a092cc5147e133c104e1853749efa40bca94",
-      "title": "The BlockMoonPay now accepts Discover Network cards for crypto purchases and sales in US",
-      "url": "https://www.tradingview.com/news/the_block:0d1d05b86094b:0-moonpay-now-accepts-discover-network-cards-for-crypto-purchases-and-sales-in-us/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "026d1ce6e1440d252b5ebcd6c61623b3f7ce5ab79d0d0f060fc78997a3ab7461",
-      "title": "CoinMarketCalSolana: hosts Doppler market infrastructure - 23 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:b150b02f7094b:0-solana-hosts-doppler-market-infrastructure-23-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "08a24cc5eafaf2dbe17d90aee32abcc277d8b7ef19ca42fe9944b6fbf203fc18",
-      "title": "CoinMarketCalZama: launches confidential RFQ beta - 23 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:9ed1949c4094b:0-zama-launches-confidential-rfq-beta-23-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "f5cd6a31aca8a9c492959674e185b34032578b07f06e46e259e8d08c80468bfe",
-      "title": "CoinMarketCalUniswap: introduces Permissioned Pools on v4 - 23 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:87caf5330094b:0-uniswap-introduces-permissioned-pools-on-v4-23-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "2465eb799098731fd430e4db716c6f62501bfe919b900f3a3fb59c747b14f9fc",
-      "title": "CointelegraphGoldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
-      "url": "https://www.tradingview.com/news/cointelegraph:4b449b815094b:0-goldman-sachs-ceo-backs-not-perfect-clarity-act-as-vote-expected-soon/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "0f1e65df1d4e53e8408c1778f1d4f4da07bed6a3a413911fa14cdb460c0b780e",
-      "title": "StocktwitsGoldman Sachs CEO David Solomon Reportedly Backs CLARITY Act In Split From JPMorgan’s Jamie Dimon",
-      "url": "https://www.tradingview.com/news/stocktwits:9012373eb094b:0-goldman-sachs-ceo-david-solomon-reportedly-backs-clarity-act-in-split-from-jpmorgan-s-jamie-dimon/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
-    },
-    {
-      "id": "302d272d32923e040af17aaae716d60cfd1f4c80a87bb64beb67ab26c50549b0",
-      "title": "CryptoNews$981M Bitcoin ETF Streak Signals Institutional Re-Entry, $70K in Sight",
-      "url": "https://www.tradingview.com/news/cryptonews:23cba3361094b:0-981m-bitcoin-etf-streak-signals-institutional-re-entry-70k-in-sight/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-23T18:02:10.088Z"
+      "scraped_at": "2026-07-23T20:00:53.669Z"
     }
   ]
 }
