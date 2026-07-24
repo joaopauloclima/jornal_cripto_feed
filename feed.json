@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-07-24T13:55:44.970Z",
-  "total": 14,
+  "generated_at": "2026-07-24T15:34:40.846Z",
+  "total": 15,
   "items": [
+    {
+      "id": "931fd9cd0c23e54facd3473b7c2fb1d20d0a1a10e5fc12cbdca68c1daa3320c0",
+      "title": "CointelegraphCrypto Biz: Is the AI-to-crypto rotation underway?",
+      "url": "https://www.tradingview.com/news/cointelegraph:32cef24ee094b:0-crypto-biz-is-the-ai-to-crypto-rotation-underway/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.841Z"
+    },
+    {
+      "id": "8acd0bc63afc56603e206f05c33244d8ef7e324316f0f25e5d597bbf7a60b8f7",
+      "title": "The BlockGalaxy cuts Clarity Act passage odds to 30%, says bill needs ‘last-ditch effort’",
+      "url": "https://www.tradingview.com/news/the_block:c90aa9bb8094b:0-galaxy-cuts-clarity-act-passage-odds-to-30-says-bill-needs-last-ditch-effort/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.841Z"
+    },
+    {
+      "id": "e26c7c82734e689a4eaca074c1b9dbad5b4c04e25b28c96bde0ddaca548b2986",
+      "title": "CointelegraphWorld Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
+      "url": "https://www.tradingview.com/news/cointelegraph:ad46abbe1094b:0-world-foundation-raises-52-5m-in-pantera-led-funding-to-expand-world-id-infrastructure/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.841Z"
+    },
+    {
+      "id": "87a631eccb5d01a92d2b34220103e7e444f8cc2d07e7196e36f69f0a8a528e0f",
+      "title": "The BlockWorld Foundation raises $52.5 million in WLD token sale with one-year lockup",
+      "url": "https://www.tradingview.com/news/the_block:5f6fa684c094b:0-world-foundation-raises-52-5-million-in-wld-token-sale-with-one-year-lockup/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.841Z"
+    },
+    {
+      "id": "5187b453161e208a0f81ba37e5f60286eca0a5937c74ae6bb5b5c2d543d7aade",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260724004861:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.841Z"
+    },
+    {
+      "id": "97174e173cbf9b7cd2814f0fb3c31681c372789072c829deb3ff614961f607aa",
+      "title": "London Stock ExchangeREG - Kainos Group plc - Annual Report 2026",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-07-24:newsml_RSX8455Na:0-reg-kainos-group-plc-annual-report-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.841Z"
+    },
+    {
+      "id": "e79bcb7a46426000061f3e73a9cce15a435a46718406c11e4c346ddac87758b7",
+      "title": "CointelegraphBitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
+      "url": "https://www.tradingview.com/news/cointelegraph:bb2e37f6b094b:0-bitcoin-falls-under-64k-as-surging-us-bond-yields-boost-fed-rate-hike-odds/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.841Z"
+    },
+    {
+      "id": "3fc8da46ecfae3633461cec1c4a82c7290d82c7a65c96256f6a8ca7b992b38f7",
+      "title": "Finance MagnatesEU Adds HTX to Russia Sanctions Two Months After UK's Action Against Crypto Networks",
+      "url": "https://www.tradingview.com/news/financemagnates:f532a9700094b:0-eu-adds-htx-to-russia-sanctions-two-months-after-uk-s-action-against-crypto-networks/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.841Z"
+    },
+    {
+      "id": "562ec561e36c2dc55a26884c1a23d8134b7669ef538c08a45fd90a99fff0ff51",
+      "title": "dpa-AFXMarkets Muted Amidst Rate Hike Fears",
+      "url": "https://www.tradingview.com/news/dpa_afx:9586ca1d7e9db:0-markets-muted-amidst-rate-hike-fears/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.842Z"
+    },
+    {
+      "id": "6e1762374bad8b79e83bdf5cdafe50d60ce60ad23fe6e1cb4a1cf6a2774ac8bf",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260724004560:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.842Z"
+    },
+    {
+      "id": "7e4842130f7e7c8b99bb6bb9de50b1a3f364401fd7d24510d4b7071799228b5d",
+      "title": "CoinMarketCalZama: supports CMTAT Confidential launch - 24 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:2366cafc7094b:0-zama-supports-cmtat-confidential-launch-24-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.842Z"
+    },
+    {
+      "id": "868df6ece6b97a3dc4ee0a9206abc85c6153836350925b410abe1a095f1d6f2b",
+      "title": "CoinMarketCalLAB: enables LAB staking - 24 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:be70f2240094b:0-lab-enables-lab-staking-24-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.842Z"
+    },
+    {
+      "id": "acac92c8f42edaea423faaf241d747541fecad92d45ee417b512d6640a32a8fa",
+      "title": "BeincryptoCircle Pushes a MiCA Fix That Could Bring Tether Back to Europe",
+      "url": "https://www.tradingview.com/news/beincrypto:080fdfaa2094b:0-circle-pushes-a-mica-fix-that-could-bring-tether-back-to-europe/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T15:34:40.842Z"
+    },
     {
       "id": "36d6b2d3f0ac3f1c9a76945021696ca03d2271e963a1c27be9e7b449b784094c",
       "title": "StocktwitsWhy Are CRCL, COIN Stocks Rising Pre-Market Despite Bitcoin’s Dip, Price Target Cuts?",
       "url": "https://www.tradingview.com/news/stocktwits:0cbb35910094b:0-why-are-crcl-coin-stocks-rising-pre-market-despite-bitcoin-s-dip-price-target-cuts/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.966Z"
+      "scraped_at": "2026-07-24T15:34:40.842Z"
     },
     {
       "id": "a22e9f899e0d4f3eb0fc4188d644da21aa619e0f12c96dda0d2cbc1e238bde6b",
       "title": "BusinessWireWestern Alliance Bank Launches WA VenueX™ — Always-On Institutional Liquidity Hub and Financial Platform for the On-Chain Economy",
       "url": "https://www.tradingview.com/news/business_wire:a6afb3756c343:0-western-alliance-bank-launches-wa-venuex-always-on-institutional-liquidity-hub-and-financial-platform-for-the-on-chain-economy/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.966Z"
-    },
-    {
-      "id": "c9050a500fbf01612b489afdcf6e76f442e276b6a7bc3f9e510c914efd03d28a",
-      "title": "CointelegraphThailand SEC files complaint against Bitkub over alleged false disclosures",
-      "url": "https://www.tradingview.com/news/cointelegraph:edc67f1c1094b:0-thailand-sec-files-complaint-against-bitkub-over-alleged-false-disclosures/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.966Z"
-    },
-    {
-      "id": "dde2faff69a9cc51cbcf3ed23ef1b7c9dff90f83c6bdfa625d539b44cc0f05a5",
-      "title": "The BlockArthur Hayes, BitMEX co-founders face fraud claims over alleged ‘Insider Trading Desk’ as exchange winds down",
-      "url": "https://www.tradingview.com/news/the_block:7b92970e1094b:0-arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "336a8ebf1f36ca99f22b3b6fe5d6456f4394e581833fba26da6ff28acb9f5bf1",
-      "title": "SDow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260724003735:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "bc60851ddf7c3723cb771d08e5a9b19212f28a10d503e3b170055d43749ea757",
-      "title": "ChainwireBTCC Exchange Closes World Cup Showdown with Over 80,000 Participants and 22% Trading Volume Surge",
-      "url": "https://www.tradingview.com/news/chainwire:4b691a23f094b:0-btcc-exchange-closes-world-cup-showdown-with-over-80-000-participants-and-22-trading-volume-surge/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "db653a5a81e698cbee39a0b082bb71c9070b771b9e50211bfd594c408ba61f03",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:94c1301c9094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "d8f63c047463779f4f53f76724f9888184e117e080d7a61bbf8c89af36ec7a67",
-      "title": "TradingViewKey facts: Bitcoin up on $981M ETF inflows; LTH losses; Sharpe -23",
-      "url": "https://www.tradingview.com/news/tradingview:49fd99097c0e3:0-key-facts-bitcoin-up-on-981m-etf-inflows-lth-losses-sharpe-23/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "605c21c61e6ed5ec94d8cb7f24d2c44f7bfd3b715e890b397f7a37deead7e9b5",
-      "title": "TradingViewKey facts: ETHUSD eyes $2,108; $67M Hyperliquid short; Binance withdrawals",
-      "url": "https://www.tradingview.com/news/tradingview:899ae6bd67896:0-key-facts-ethusd-eyes-2-108-67m-hyperliquid-short-binance-withdrawals/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "5597ef4bf4d90205182c33cabeb4b1eda5089f89e87d639f99a101bf2aa70d75",
-      "title": "dpa-AFXCryptos Extend Losses Amidst Energy, Tech Shocks",
-      "url": "https://www.tradingview.com/news/dpa_afx:3916a965d4816:0-cryptos-extend-losses-amidst-energy-tech-shocks/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "984a24fc113823ed97fd843c4358ba5a9794af7250c13ad42177b32c06eb3ec6",
-      "title": "ChainwireRISEx Launches 'Ignite' Season 1 Points Program, Following $3B in Volume During the Early Access Phase",
-      "url": "https://www.tradingview.com/news/chainwire:d6b676ce8094b:0-risex-launches-ignite-season-1-points-program-following-3b-in-volume-during-the-early-access-phase/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "1baa60218c2e6f369e08bb3b9963a778249d6678e76e6f96faaea4c2def69b72",
-      "title": "CoinpediaArthur Hayes Sued Again as BitMEX Hit With New Class Action Lawsuit",
-      "url": "https://www.tradingview.com/news/coinpedia:489dd35a2094b:0-arthur-hayes-sued-again-as-bitmex-hit-with-new-class-action-lawsuit/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "0d33c567ca9753b4b7ae40a73ce352b1f4a5a932bc95e0ed09a396d17a6a6fd2",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:f4a31c3fe094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
-    },
-    {
-      "id": "4e9601045a10b3879e19ea90fa34382fa430b41334358774dc9599210f92838c",
-      "title": "BeincryptoAmid Gaza Ruins, One Trader Keeps His Crypto Screens Running",
-      "url": "https://www.tradingview.com/news/beincrypto:141346cca094b:0-amid-gaza-ruins-one-trader-keeps-his-crypto-screens-running/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T13:55:44.967Z"
+      "scraped_at": "2026-07-24T15:34:40.842Z"
     }
   ]
 }
