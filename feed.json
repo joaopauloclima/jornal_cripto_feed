@@ -1,111 +1,118 @@
 {
-  "generated_at": "2026-07-24T04:54:25.168Z",
-  "total": 15,
+  "generated_at": "2026-07-24T07:35:42.560Z",
+  "total": 16,
   "items": [
+    {
+      "id": "7e9adf493e1544361ab535c54fe4bb473d549f020c13c4aa9391951d1fd05c56",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260724001267:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "543bcb3d641ab38f5d4f5c27fc032574921c7642b24a1e66d5b2173a7fc68f77",
+      "title": "CointelegraphBitcoin ETFs snap seven-day inflow streak with $225M in outflows",
+      "url": "https://www.tradingview.com/news/cointelegraph:edfeaf1b5094b:0-bitcoin-etfs-snap-seven-day-inflow-streak-with-225m-in-outflows/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "255466f3bf5984e71c9c7c64998022c0e0717a3d3de0e763b700a38aa47baccf",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260724001246:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "cc1d391260d56fbd142f498a0a854aeb34faaabe93414753ba6997099faafa22",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260724001167:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "eba4a0ef4acb9395d28b2a608d7224b5e54f5f5853706eac3d3e7e78880a7c09",
+      "title": "BeincryptoRipple Just Made 2 Moves to Push RLUSD Into Institutions",
+      "url": "https://www.tradingview.com/news/beincrypto:bd9b95ed9094b:0-ripple-just-made-2-moves-to-push-rlusd-into-institutions/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "f058e5d5d887b25703339e3f2afc7f06dd92bcad49d308bde5e48955d70e2363",
+      "title": "CoinpediaAudiera (BEAT) Price Analysis: Can Bulls Break Above $3.51 After a Four-Day Rally?",
+      "url": "https://www.tradingview.com/news/coinpedia:35fc38be0094b:0-audiera-beat-price-analysis-can-bulls-break-above-3-51-after-a-four-day-rally/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "0a3b960c7767fbb7d81e8fdc536724a65ca7126289dc51c84a36f183f38a6dad",
+      "title": "CointelegraphBitMEX hit with 623 BTC lawsuit on day it announces shutdown",
+      "url": "https://www.tradingview.com/news/cointelegraph:6067d8f40094b:0-bitmex-hit-with-623-btc-lawsuit-on-day-it-announces-shutdown/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "75295f4b829ab917647066f1759b7f74e123d49a3dba0f74d915ee852f72a829",
+      "title": "CoinMarketCalStacks: begins the first PoX-5 restacking cycles - 29 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:4b02dafed094b:0-stacks-begins-the-first-pox-5-restacking-cycles-29-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "89006f19a65c1f1caf3d2654de46c993eabe4908ea52fa82b1e2d99e0804cf64",
+      "title": "CoinMarketCalSun Token: announces a recurring buyback and burn - 24 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:a6c88cc78094b:0-sun-token-announces-a-recurring-buyback-and-burn-24-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "0f2ee860a0ac39176e2e8edbe74d1e8c4de7e79683bcdd301fec3412bec10f23",
+      "title": "CoinpediaCLARITY Act Faces Make-or-Break Senate Test as Scaramucci Warns of “Brutal Death” Without Vote",
+      "url": "https://www.tradingview.com/news/coinpedia:addbb2dcb094b:0-clarity-act-faces-make-or-break-senate-test-as-scaramucci-warns-of-brutal-death-without-vote/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "4dd0bcca22be0f65bc20c1cbcbf0e2bc0f701210d3a974f9da3159081e18c1a9",
+      "title": "Crypto BriefingIran strikes Gulf states, sirens sound in Bahrain amid second week of conflict",
+      "url": "https://www.tradingview.com/news/cryptobriefing:18b1897be094b:0-iran-strikes-gulf-states-sirens-sound-in-bahrain-amid-second-week-of-conflict/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
+    {
+      "id": "03b5628bedbb6ec0c0bf13a56bd2515a539b50f69f3581461aea4ed94941ac8c",
+      "title": "Finance MagnatesMiCA Is Not Only for Crypto. It Will Also Decide Prediction Markets’ European Future",
+      "url": "https://www.tradingview.com/news/financemagnates:aed5d95eb094b:0-mica-is-not-only-for-crypto-it-will-also-decide-prediction-markets-european-future/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T07:35:42.556Z"
+    },
     {
       "id": "f1d0750828bcde33d3f21a0e88b60b36f589290b12e84c3825598c1e82e47a98",
       "title": "Crypto BriefingUS drone strike in Khorramabad wounds two amid ongoing Iran conflict",
       "url": "https://www.tradingview.com/news/cryptobriefing:10abb2fa3094b:0-us-drone-strike-in-khorramabad-wounds-two-amid-ongoing-iran-conflict/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
+      "scraped_at": "2026-07-24T07:35:42.556Z"
     },
     {
       "id": "5bb27cd3244e90e77f9094fcf7b700187a8444e1c6e304bda172d7c9cd6771d9",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260723014001:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
+      "scraped_at": "2026-07-24T07:35:42.556Z"
     },
     {
-      "id": "ded4ae5f949db23c6cda98497cbdb96d1e147a78fd3641d2a3308f3aa4e6e2b9",
-      "title": "CointelegraphDem senator calls GOP’s CLARITY ethics proposal a ‘piece of shit’: Politico",
-      "url": "https://www.tradingview.com/news/cointelegraph:fb33d883f094b:0-dem-senator-calls-gop-s-clarity-ethics-proposal-a-piece-of-shit-politico/",
+      "id": "e30bd507a8647096be93605fc5f8cbaf6349ad5b029d657d6e3db826e3216ddf",
+      "title": "CointelegraphDem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico",
+      "url": "https://www.tradingview.com/news/cointelegraph:fb33d883f094b:0-dem-senator-calls-gop-s-clarity-ethics-proposal-a-piece-of-s-politico/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
+      "scraped_at": "2026-07-24T07:35:42.556Z"
     },
     {
       "id": "ecd9fbed9f4ce67488d6ea102501e4ac7a8f3e4f4411fdc1929935cda6102194",
       "title": "CointelegraphBitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown",
       "url": "https://www.tradingview.com/news/cointelegraph:08578712a094b:0-bitmex-delists-65-trading-pairs-derivatives-in-july-amid-exchange-shutdown/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "e9eefec2be69f6b99ef17793117e495d910e7df289643f3dca755425e58612f1",
-      "title": "CoinMarketCalVelo: hosts a community townhall - 31 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:379dfe067094b:0-velo-hosts-a-community-townhall-31-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "84f1e6b08d71be0ab21ebeb144b15900cba0e039d754c630debe7f1f0684975a",
-      "title": "CoinMarketCalAster: introduces card payments - Q3 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:aefc70b6a094b:0-aster-introduces-card-payments-q3-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "1252f8a638def69cd75fa2861b6de903ead77ddffcb6e25f90c06283dd765615",
-      "title": "Binance NewsCircle Mints 250 Million USDC on Solana for the Fourth Time in Two Days",
-      "url": "https://www.tradingview.com/news/binance_news:4d982a355094b:0-circle-mints-250-million-usdc-on-solana-for-the-fourth-time-in-two-days/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "186f4004c050333a39b49f1ab931189724c17a1fe629ccfc550c3c5d51396d84",
-      "title": "BeincryptoAdam Back Calls Bitcoin BIP-110 Idiocracy",
-      "url": "https://www.tradingview.com/news/beincrypto:186c84a4a094b:0-adam-back-calls-bitcoin-bip-110-idiocracy/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "0b42fa8382bf37721fcc197d1c1f9ed8206741b6e1bad349c74deba4fca91d82",
-      "title": "Binance NewsXDC Integrates Bridge For Stablecoin Payments And AI Agent Settlement",
-      "url": "https://www.tradingview.com/news/binance_news:b2508c108094b:0-xdc-integrates-bridge-for-stablecoin-payments-and-ai-agent-settlement/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "452f174956340482644a380dbf1834f92fea01e9413de8d8febaa1d0fa521ba6",
-      "title": "Binance NewsARK Invest’s Lorenzo Valente Says Hyperliquid RWA Volume Surpassed Crypto Trading",
-      "url": "https://www.tradingview.com/news/binance_news:3db640d82094b:0-ark-invest-s-lorenzo-valente-says-hyperliquid-rwa-volume-surpassed-crypto-trading/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "c3e75eec0c2f19ef00c7f427d9e7c046fc71667ec7f91112d7ba5ba55c74b2a3",
-      "title": "Binance NewsBitcoin Could Break Above $72,000 After Range Trading, Whale Says",
-      "url": "https://www.tradingview.com/news/binance_news:684ee2d03094b:0-bitcoin-could-break-above-72-000-after-range-trading-whale-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "71b59ad232e5396a123f0ca4b090a574f96936c5ba4e82c11c1f721b50710c86",
-      "title": "Binance NewsOdos Will Stop App Services on July 30 as Operating Company Winds Down",
-      "url": "https://www.tradingview.com/news/binance_news:0b6559122094b:0-odos-will-stop-app-services-on-july-30-as-operating-company-winds-down/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "8bc39a12106bddcec3b49964d6e7586aac56d2ef09e1a9d35e016ff040d32fac",
-      "title": "CoinMarketCalAster: launches Strategy Vault - Q3 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:96f1bd86a094b:0-aster-launches-strategy-vault-q3-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "a73eef560e1f8a9ac9a14a757a2c1a5a206ad5e5a1e6f4450f4e24d621389fbe",
-      "title": "CoinMarketCalPOL (ex-MATIC): Ithaca hardfork goes live on Polygon mainnet - 29 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:03e6936e9094b:0-pol-ex-matic-ithaca-hardfork-goes-live-on-polygon-mainnet-29-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
-    },
-    {
-      "id": "bec49b6f459dc6eab7bc6a5a709594cc42cc48af7f072cc466945acbdc40c2a0",
-      "title": "CoinMarketCalBitTorrent: completes its first BTT token burn - Oct 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:7ab5cb79e094b:0-bittorrent-completes-its-first-btt-token-burn-oct-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T04:54:25.165Z"
+      "scraped_at": "2026-07-24T07:35:42.556Z"
     }
   ]
 }
