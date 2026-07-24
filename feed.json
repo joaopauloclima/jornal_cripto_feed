@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-07-24T10:00:25.008Z",
-  "total": 14,
+  "generated_at": "2026-07-24T11:51:38.085Z",
+  "total": 15,
   "items": [
+    {
+      "id": "8486bf39e976b43dc8d144561e2deb8dfb0fa6a36263fc070d6e2a956f2e31f8",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260724003007:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T11:51:38.083Z"
+    },
+    {
+      "id": "93137a8ecf5719070c00466da35aa8778adebb21783374ae78c3d109ce269b0b",
+      "title": "CoinMarketCalZama: opens Confidential RFQ to the public - Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:fb1521bf1094b:0-zama-opens-confidential-rfq-to-the-public-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T11:51:38.083Z"
+    },
+    {
+      "id": "e0c78d8f7d6edd506b238341edd1bb6283c87517f4e7f43ba0c3ee0ed642aff1",
+      "title": "InvezzCryptoRank study finds Bitget rTokens saw up to 58% lower slippage on $50K orders",
+      "url": "https://www.tradingview.com/news/invezz:1537d7b30094b:0-cryptorank-study-finds-bitget-rtokens-saw-up-to-58-lower-slippage-on-50k-orders/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T11:51:38.083Z"
+    },
+    {
+      "id": "7ce23234d89f1d13e6f36a75d0f1b901d7bd5d5d56bad2efd5635029e73704a6",
+      "title": "ChainwireHTX Genesis Hackathon Successfully Concludes: Fueling Ecosystem Growth and Long-Term $HTX Value",
+      "url": "https://www.tradingview.com/news/chainwire:8df07d259094b:0-htx-genesis-hackathon-successfully-concludes-fueling-ecosystem-growth-and-long-term-htx-value/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T11:51:38.083Z"
+    },
+    {
+      "id": "035b82e6ba79426888b576aa5d7bf284a0f047b4a84a25de1d6b4c2d05a6fb57",
+      "title": "CointelegraphBrazil puts tokenized cows to work as loan collateral: Report",
+      "url": "https://www.tradingview.com/news/cointelegraph:61cfe14c6094b:0-brazil-puts-tokenized-cows-to-work-as-loan-collateral-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T11:51:38.083Z"
+    },
+    {
+      "id": "c1c2926d9a38c19e060ae8068443654e62e1a8f7904d7bc4414f5df588be5f69",
+      "title": "CointelegraphSamsung Wallet plans stablecoin support in digital payments expansion",
+      "url": "https://www.tradingview.com/news/cointelegraph:77b7ec68b094b:0-samsung-wallet-plans-stablecoin-support-in-digital-payments-expansion/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T11:51:38.083Z"
+    },
+    {
+      "id": "5fd116f8ed7ea5988517e0ef165ceebf03a23c22969ef58c60091a50fe694a27",
+      "title": "CointelegraphPhilippine bank BPI plans stablecoin payments pilot",
+      "url": "https://www.tradingview.com/news/cointelegraph:a4543201d094b:0-philippine-bank-bpi-plans-stablecoin-payments-pilot/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T11:51:38.083Z"
+    },
     {
       "id": "4f134c400fb015a966849089063076a1395a447cc2e664ada9d10ba1630f9ff9",
       "title": "BusinessWireNETSCOUT Strengthens Operational Resilience of Critical Infrastructure Against AI-Driven, Internet-Scale DDoS Attacks",
       "url": "https://www.tradingview.com/news/business_wire:d59a2039e1c2c:0-netscout-strengthens-operational-resilience-of-critical-infrastructure-against-ai-driven-internet-scale-ddos-attacks/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
+      "scraped_at": "2026-07-24T11:51:38.083Z"
     },
     {
       "id": "aed7b93ce80ec1ef4786eee61ce644a7fa87a04d844da2fdc7ed8cb726088a32",
       "title": "The BlockFormer bitcoin miner Poolin files Chapter 11, sets $52 million floor bid for Texas operations",
       "url": "https://www.tradingview.com/news/the_block:fd9b30a21094b:0-former-bitcoin-miner-poolin-files-chapter-11-sets-52-million-floor-bid-for-texas-operations/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
+      "scraped_at": "2026-07-24T11:51:38.083Z"
     },
     {
       "id": "be35169e4816f98b02bef221ddc9b64a560558a4a6feb84c581fe103f1c60d50",
       "title": "FinanceWireSHIBCAT Expands the Robinhood Chain Ecosystem with the Launch of Its Community-Driven Meme Token",
       "url": "https://www.tradingview.com/news/financewire:ec0f5d3ac094b:0-shibcat-expands-the-robinhood-chain-ecosystem-with-the-launch-of-its-community-driven-meme-token/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
+      "scraped_at": "2026-07-24T11:51:38.083Z"
+    },
+    {
+      "id": "fd51405ba385eaa9d4ed784b036ee412244a21f09bdc22d5407110547d5489e4",
+      "title": "CoinpediaBitcoin Treasury Companies Reverse Course as Growing List Abandons Crypto Accumulation",
+      "url": "https://www.tradingview.com/news/coinpedia:58d65487f094b:0-bitcoin-treasury-companies-reverse-course-as-growing-list-abandons-crypto-accumulation/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T11:51:38.083Z"
     },
     {
       "id": "bac3a24db819460b3d59b98ccdcd6c67b174bcf115250260105f987238be5385",
       "title": "CointelegraphBTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’",
       "url": "https://www.tradingview.com/news/cointelegraph:79dc33176094b:0-btc-supply-in-profit-eyes-60-but-analysis-hints-recovery-may-roll-back-over/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
+      "scraped_at": "2026-07-24T11:51:38.083Z"
     },
     {
       "id": "ea86ca1d2c6a6b75934d77d8010fd1c93d531183f97165b45133f13516a8e462",
       "title": "ChainwirePhotonPay Releases Emerging Markets Payment Report: Unlocking Africa's B2B Potential Through Multi-Rail Architecture",
       "url": "https://www.tradingview.com/news/chainwire:791cba4d9094b:0-photonpay-releases-emerging-markets-payment-report-unlocking-africa-s-b2b-potential-through-multi-rail-architecture/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
+      "scraped_at": "2026-07-24T11:51:38.083Z"
+    },
+    {
+      "id": "bd6c71e4e20136041f309ef1f7ca07008174347e197785a4ea5190442fb0660e",
+      "title": "CoinpediaCharles Hoskinson Says Crypto Needs 3-6 More Months, Names Ripple as a Key Player",
+      "url": "https://www.tradingview.com/news/coinpedia:c85ae5faf094b:0-charles-hoskinson-says-crypto-needs-3-6-more-months-names-ripple-as-a-key-player/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-24T11:51:38.083Z"
     },
     {
       "id": "6707d58afd932e35f8202f436d37ef87a3d284d17d07745017fe565f7511ed30",
       "title": "CointelegraphSouth Korea’s Korbit to rebrand as Digital X under Mirae: Report",
       "url": "https://www.tradingview.com/news/cointelegraph:83def1ff1094b:0-south-korea-s-korbit-to-rebrand-as-digital-x-under-mirae-report/",
       "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
-    },
-    {
-      "id": "6f0967e17c1abb656c6ff23ef1100c8b6ee90bd67359f81a5f39b001f2fb1944",
-      "title": "CointelegraphRipple launches Mint to expand institutional access to RLUSD",
-      "url": "https://www.tradingview.com/news/cointelegraph:918d35798094b:0-ripple-launches-mint-to-expand-institutional-access-to-rlusd/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
-    },
-    {
-      "id": "23d3494a475f7ffc708de0c810e7dc245e0b184203baf867607306cd8b49293a",
-      "title": "CointelegraphBitcoin mining pool Poolin files for Chapter 11 bankruptcy",
-      "url": "https://www.tradingview.com/news/cointelegraph:d622b4b2e094b:0-bitcoin-mining-pool-poolin-files-for-chapter-11-bankruptcy/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
-    },
-    {
-      "id": "493b0c9ca8fe2794b35c47980ce2106ecb446681d2a381e636b6dccc9620c633",
-      "title": "Finance MagnatesBitMEX Is Closing, but the Perpetual Swap Is Just Getting Started",
-      "url": "https://www.tradingview.com/news/financemagnates:c7d054755094b:0-bitmex-is-closing-but-the-perpetual-swap-is-just-getting-started/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
-    },
-    {
-      "id": "4a3ba4078e362d0c248dc1835a0304cd4b7469358420a7b5e3190b5f2f95032c",
-      "title": "BeincryptoSolana Tokenized-Equity Volume Is Up Roughly 2,400x Year-Over-Year",
-      "url": "https://www.tradingview.com/news/beincrypto:6bda85d59094b:0-solana-tokenized-equity-volume-is-up-roughly-2-400x-year-over-year/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
-    },
-    {
-      "id": "204b63f9a4ff6f6ad2e44da5ac8c33ad33cce23613b8b486c911be7b34b70ef4",
-      "title": "CointelegraphEU widens Belarus ownership ban to all crypto service providers",
-      "url": "https://www.tradingview.com/news/cointelegraph:eb79a4bf9094b:0-eu-widens-belarus-ownership-ban-to-all-crypto-service-providers/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
-    },
-    {
-      "id": "1f0fa5fd3d1690d05242d96c72424970cdcfa5c07f4b0e7ee33372999b517913",
-      "title": "CoinMarketCalSolana: adds market maker infrastructure through Flint - 24 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:6c4c1e201094b:0-solana-adds-market-maker-infrastructure-through-flint-24-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
-    },
-    {
-      "id": "1fcddf8ee3f473dae764e8a5b0ef6158ff6c51cdf4fcd93cdffe39d7232b8346",
-      "title": "BeincryptoEthereum’s Falling Fees Do Not Mean Falling Use, Bitwise Finds",
-      "url": "https://www.tradingview.com/news/beincrypto:924aefead094b:0-ethereum-s-falling-fees-do-not-mean-falling-use-bitwise-finds/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
-    },
-    {
-      "id": "c1409a8ae1a4eb81b8c65f8a20ed0d7f76c1fa6aa9b3d968b32ad16d989fe2ed",
-      "title": "ChainwireLavarage Brings Spot Leverage Trading to Any Solana Token — From Day-One Launches to Tokenized Stocks",
-      "url": "https://www.tradingview.com/news/chainwire:25bf0dc30094b:0-lavarage-brings-spot-leverage-trading-to-any-solana-token-from-day-one-launches-to-tokenized-stocks/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-24T10:00:25.004Z"
+      "scraped_at": "2026-07-24T11:51:38.083Z"
     }
   ]
 }
