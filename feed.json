@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-27T15:31:18.444Z",
+  "generated_at": "2026-07-27T17:22:41.267Z",
   "total": 15,
   "items": [
+    {
+      "id": "9dcf0ec368f5eb0e4f964ef9d9daf782ee1cddf3b000fe8cdece782fd92d4a3b",
+      "title": "The BlockTD Cowen cuts David Bailey’s Nakamoto target 58% after bitcoin outlook reset",
+      "url": "https://www.tradingview.com/news/the_block:f5a75c3fa094b:0-td-cowen-cuts-david-bailey-s-nakamoto-target-58-after-bitcoin-outlook-reset/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "42dc2b073893a03786872e049c682081810f3463613360a0e098b40b42f218b7",
+      "title": "CoinMarketCalAkedo: ADODO Node buyback wallet verification closes - 05 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:030e8a17d094b:0-akedo-adodo-node-buyback-wallet-verification-closes-05-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "a8dc70d372b68dd906462d6c4ed350065ffa001924654238adec589c9a20cb16",
+      "title": "CoinMarketCalVirtuals Protocol: launches Hyperboost for bonding tokens - 27 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:2a69778fa094b:0-virtuals-protocol-launches-hyperboost-for-bonding-tokens-27-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "dd8f58b3d9b16d69ef80dbebe04e74a273575299b5869f1de15f4ca0d1a014bf",
+      "title": "CoinMarketCalXYO Network: XL1 and XYO list on Crypto.com - 27 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:422fdbdaa094b:0-xyo-network-xl1-and-xyo-list-on-crypto-com-27-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "1f159c77a1671d053a61c243e7593bdfdadfbc69eaf5cf8b54b8a990a967132d",
+      "title": "CoindarTHORChain to Hold Community Member Spotlight Podcast on August 1st",
+      "url": "https://www.tradingview.com/news/coindar:b97071c03094b:0-thorchain-to-hold-community-member-spotlight-podcast-on-august-1st/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "cc304f5f2ddb712b29874671aa1ed3dd487c679aa6312531985b72339e80de1b",
+      "title": "CointelegraphTether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
+      "url": "https://www.tradingview.com/news/cointelegraph:c2e99ca18094b:0-tether-s-xaut-gold-token-receives-shariah-certification-to-expand-islamic-finance-access/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "ff9fc83b0ddfe1b514e91095279358f64050bb9c16cabaa0ecc7164b59b675c6",
+      "title": "ChainwireBybit named among CNBC’s World’s Top Fintech Companies 2026",
+      "url": "https://www.tradingview.com/news/chainwire:ae1d21b50094b:0-bybit-named-among-cnbc-s-world-s-top-fintech-companies-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "eee2673dc6b936bb353d072a8ddf4b6676a9cd137bf17ba79ea8b16f12bd8de0",
+      "title": "CointelegraphKraken parent Payward acquires Magic Labs’ wallet business",
+      "url": "https://www.tradingview.com/news/cointelegraph:78f5958a4094b:0-kraken-parent-payward-acquires-magic-labs-wallet-business/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "6b14dbe91b9f10ac5f9ea077e480b993a0a79e6350f17dce82dfcca3343bc988",
+      "title": "StocktwitsAnthony Scaramucci Says Trump's Meme Coins 'Karate Chopped' Crypto's Image But Vouches For Bitcoin’s $10T Market Cap",
+      "url": "https://www.tradingview.com/news/stocktwits:b9d712aa3094b:0-anthony-scaramucci-says-trump-s-meme-coins-karate-chopped-crypto-s-image-but-vouches-for-bitcoin-s-10t-market-cap/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "1da140cbde0afdf8362795c5895bde9bb6f2e5d8428db1e96da6aea4268c576f",
+      "title": "The BlockOndo launches new execution network, calling it ‘evolution’ of Ondo Chain",
+      "url": "https://www.tradingview.com/news/the_block:37e92acdb094b:0-ondo-launches-new-execution-network-calling-it-evolution-of-ondo-chain/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "1252b53baa32adefbb5aaa9cc47b7f5c0e1cfd79c8500091e80ae20e90d2e198",
+      "title": "StocktwitsZcash's Ironwood Upgrade Activates Tomorrow After 60-Day 'Wartime Mode' Sprint, But ZEC Doesn’t Move",
+      "url": "https://www.tradingview.com/news/stocktwits:4cf8661a7094b:0-zcash-s-ironwood-upgrade-activates-tomorrow-after-60-day-wartime-mode-sprint-but-zec-doesn-t-move/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "21e5ecec61ea1bab303c62c7b02e9640494bbe03e19f441c07da300a963bc9b5",
+      "title": "ZacksIREN vs. MSTR: Which Bitcoin Stock Is the Better Choice for Investors?",
+      "url": "https://www.tradingview.com/news/zacks:131379d68094b:0-iren-vs-mstr-which-bitcoin-stock-is-the-better-choice-for-investors/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "f991c5bd0ada34aecb9d56d980e94f2b96f8d8773d92bd5a2394d54fb267ec0d",
+      "title": "ChainwireMargex Unveils $2.7M Bitcoin Airdrop Campaign With \"Never Sell — But Trade\" Initiative",
+      "url": "https://www.tradingview.com/news/chainwire:937f9f647094b:0-margex-unveils-2-7m-bitcoin-airdrop-campaign-with-never-sell-but-trade-initiative/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
+    {
+      "id": "3f055181c918bf3d3aa7d305f3ea7d0479150fc94b7e557d840d1431c5685bfa",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260727005536:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-27T17:22:41.264Z"
+    },
     {
       "id": "04e68eb29f3aab71e70f49a35b9b700d6de3e4efced23b3ae88ca43a4daa6f05",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260727005469:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "b721c9dd78acc11de3a397ce92bf73cce879bea222d2e85a42307be978bb2f0a",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260727005468:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "0eece7391f7671cce97c2544cc006add0ad86a44b4bf16c1ca8719abc4b3009d",
-      "title": "The BlockMetaplanet’s brokerage deal ‘badly undersells’ plans for bitcoin-backed ‘Bitbonds,’ Benchmark says",
-      "url": "https://www.tradingview.com/news/the_block:a90869d50094b:0-metaplanet-s-brokerage-deal-badly-undersells-plans-for-bitcoin-backed-bitbonds-benchmark-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "65b9704f4139f4e54499fda5dcdeef1f42f9c889329690b9dbd30a851fd53d95",
-      "title": "The BlockLido begins consolidating $16 billion worth of staked ETH as Curated Module v2 rolls out",
-      "url": "https://www.tradingview.com/news/the_block:980685631094b:0-lido-begins-consolidating-16-billion-worth-of-staked-eth-as-curated-module-v2-rolls-out/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "d290918d69f5aefac78e8f1fc395ebf0bcb8b7c925d391fc7de9981c6c3b386f",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260727005315:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "02e60943890d2cf7657fda6bd11e7c61c408e5c25e9464b823fd1202774793a7",
-      "title": "CointelegraphBitcoin price eyes $66K as US stocks rise on Iran-strike pause",
-      "url": "https://www.tradingview.com/news/cointelegraph:f7f7f903f094b:0-bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "b111e802b0611c1ebe3e7f988021fa0df6f67d170eba8c979aa2526c1a8072f0",
-      "title": "BeincryptoBitcoin Course at Risk in El Salvador? 2027 Election Rivals Challenge Nayib Bukele",
-      "url": "https://www.tradingview.com/news/beincrypto:cbabbe634094b:0-bitcoin-course-at-risk-in-el-salvador-2027-election-rivals-challenge-nayib-bukele/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "a9aad1dfde0ce7fb08f11ebeb9f2552095297aa3e8828a9bdfcbf731af99f582",
-      "title": "The BlockBitmine adds nearly 10,000 ETH while repurchasing 6.1 million common shares",
-      "url": "https://www.tradingview.com/news/the_block:2a99bea9f094b:0-bitmine-adds-nearly-10-000-eth-while-repurchasing-6-1-million-common-shares/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "2d5b545ea2e5a0d85d1c3668ed284aa894c3f090426526c92acc356d435c5bc5",
-      "title": "StocktwitsBitcoin Heads Into Fed Week With Least Downside Protection Since June, Bitfinex Analysts Say",
-      "url": "https://www.tradingview.com/news/stocktwits:df1a6b534094b:0-bitcoin-heads-into-fed-week-with-least-downside-protection-since-june-bitfinex-analysts-say/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "2b3ce8b66245a481c049368eaaa577ee1c697aa10a6228794fa7b7bf300b62b6",
-      "title": "The BlockIBM portfolio acquisition makes Circle the largest US blockchain patent holder",
-      "url": "https://www.tradingview.com/news/the_block:3b8696bca094b:0-ibm-portfolio-acquisition-makes-circle-the-largest-us-blockchain-patent-holder/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "249a48759eb6c6203138588df7c5abb0efd90a72cc70b4dcafb6c40b9e0fcf58",
-      "title": "StocktwitsCRCL Stock Rallies After Circle Acquires Nearly 1,000 Blockchain Patents From IBM",
-      "url": "https://www.tradingview.com/news/stocktwits:cb04b4bd3094b:0-crcl-stock-rallies-after-circle-acquires-nearly-1-000-blockchain-patents-from-ibm/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.440Z"
-    },
-    {
-      "id": "a0241c37a661fa9249a43c0b75fb34ea4090681c77864c446b9e8a74bd750686",
-      "title": "ChainwireNOWPayments and BlockSec Release Crypto Payment Security and Technical Compliance Checklist",
-      "url": "https://www.tradingview.com/news/chainwire:742047280094b:0-nowpayments-and-blocksec-release-crypto-payment-security-and-technical-compliance-checklist/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.441Z"
-    },
-    {
-      "id": "b799713b919e09013dd3f251a01cb0c263b9a34d70cfb96f5fa67ed4a93d019c",
-      "title": "CoinMarketCalInjective: Trade Finance Pilot Completes a Transaction - 27 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:06118fc18094b:0-injective-trade-finance-pilot-completes-a-transaction-27-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.441Z"
-    },
-    {
-      "id": "1940b5b20f524f9ea9ed29252458ca9bc3dcfd63fcd0f6d8037c700e853d424c",
-      "title": "CoinMarketCalInjective: August community buyback takes place - 05 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:850797943094b:0-injective-august-community-buyback-takes-place-05-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.441Z"
-    },
-    {
-      "id": "5d667ca42f7b8df45964a161dcebcea0a351cb9448bff05d21d8c63d5a4568a9",
-      "title": "CoinMarketCalStellar: deJTRSY Price Feed Goes Live - 27 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:e80ae424f094b:0-stellar-dejtrsy-price-feed-goes-live-27-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-27T15:31:18.441Z"
+      "scraped_at": "2026-07-27T17:22:41.264Z"
     }
   ]
 }
