@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-07-28T13:19:49.858Z",
-  "total": 14,
+  "generated_at": "2026-07-28T15:54:11.785Z",
+  "total": 15,
   "items": [
     {
-      "id": "c336a80b4ce9d806ae7d3223d37e98b4d36dc89299b132068418822e2997c204",
+      "id": "a83b34b8ec7bf1587b2b4805f52a1edcf0b1a2917544fbeb0e4f762eb18d1220",
+      "title": "ReutersCoinbase Says Aware That Some Users May Be Experiencing Delayed Sends & Receives On Stacks Network",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43U1C2:0-coinbase-says-aware-that-some-users-may-be-experiencing-delayed-sends-receives-on-stacks-network/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "33133dac522baf0c1e138cde67de9538ac0164ea50f7b60d617edc90df9973fb",
+      "title": "CNBC TV18Start a free trial to read this news",
+      "url": "https://www.tradingview.com/news/cnbctv:c0513b052094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "4b2d7faeb650ece8d1aa00c2b02f4a931651cd35e3beb5d70770179d4cca5f9c",
+      "title": "The BlockNansen CEO bets on AI agents to overtake human traders within two years",
+      "url": "https://www.tradingview.com/news/the_block:61a0e8fb4094b:0-nansen-ceo-bets-on-ai-agents-to-overtake-human-traders-within-two-years/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "e9a48eb36a0e8e1cdafc39400dfafb66a0dd351edb05562d30f3cc0798954a22",
+      "title": "ChainwireZest Protocol Announces Stacks Vaults, Bringing Automated Yield Strategies to Bitcoin-Native Finance",
+      "url": "https://www.tradingview.com/news/chainwire:da50246a2094b:0-zest-protocol-announces-stacks-vaults-bringing-automated-yield-strategies-to-bitcoin-native-finance/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "cc5623e3611cf29a6247545839e80435d7525c1d4bff541618c5f55f736b9f26",
+      "title": "The BlockBarry Silbert-backed Zcash miner Fortitude brings Nebraska facility online to cut its ZEC production costs",
+      "url": "https://www.tradingview.com/news/the_block:482520f25094b:0-barry-silbert-backed-zcash-miner-fortitude-brings-nebraska-facility-online-to-cut-its-zec-production-costs/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "8951dd9337748347e18d7900914830ee4335020ca2aab35b18f93f83ae3593e8",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260728006636:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "a4f98499f624ea71f08d52dbc45a862674f3e0c1f8a46f488d47b1987623843e",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260728006605:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "edea32147b9b1e6b6e045f97fdb7b7bf931b10b66ae074168b33e29f760e256c",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260728006429:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "d3fd952fa4154f352966edc97797383725f4070def86935b51b4e898fa42fe53",
+      "title": "BusinessWireMorgan Stanley Investment Management Selects Figment as a Staking Provider for Its New Ether and SOL ETPs",
+      "url": "https://www.tradingview.com/news/business_wire:64a78e18e81a6:0-morgan-stanley-investment-management-selects-figment-as-a-staking-provider-for-its-new-ether-and-sol-etps/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "b01bcfb55e0e2e917f52a549bf7cbd2bbcbc394996b3cbe79078fdf8a18b68dd",
+      "title": "dpa-AFXCryptos Decline As Chip Sell Off Worsens Ahead Of FOMC",
+      "url": "https://www.tradingview.com/news/dpa_afx:dd9a29e3387a2:0-cryptos-decline-as-chip-sell-off-worsens-ahead-of-fomc/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "de4085537d9a79df7e688e3effb28b5c35741dea98570d7f34798afc064f778b",
+      "title": "StocktwitsGLXY Stock Plummets To 3-Month Low Despite Firm’s 500-Acre Texas AI Data Center Push",
+      "url": "https://www.tradingview.com/news/stocktwits:43049cf1a094b:0-glxy-stock-plummets-to-3-month-low-despite-firm-s-500-acre-texas-ai-data-center-push/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "92cfc18e63e82cb8daaad612c60de36e16f5eaaa7bef464cb25a92eecd131bb0",
+      "title": "CoinpediaTom Lee Reveals Why CLARITY Act Matters for Bitcoin, Ethereum, XRP and Crypto",
+      "url": "https://www.tradingview.com/news/coinpedia:ee6254425094b:0-tom-lee-reveals-why-clarity-act-matters-for-bitcoin-ethereum-xrp-and-crypto/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "4a974ee90aa33a1748a4129de0e983ba094cdebc36beb0c566a363ef357e68da",
+      "title": "CoinMarketCal1INCH: 1inch Aqua adds LP incentive program - 28 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:af7b57e7a094b:0-1inch-1inch-aqua-adds-lp-incentive-program-28-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "b04e335db26b7e5cc0e66600c406754903deaee1bbe0fc37442dca5da6335b8a",
+      "title": "CoinMarketCalPOL (ex-MATIC): Polygon activates Ithaca hard fork - 29 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:baa097a0a094b:0-pol-ex-matic-polygon-activates-ithaca-hard-fork-29-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T15:54:11.782Z"
+    },
+    {
+      "id": "30f04e0f746815263aebc01ae2428d9ef8fc10805f92e7f92d87e3759f427c19",
       "title": "StocktwitsBuying Bitcoin Now Is Like Buying Amazon – You Just Don’t Know Which Part Of The Ride, Says Wall Street Veteran Dave Weisberger",
-      "url": "https://www.tradingview.com/news/stocktwits:2d8724eef094b:0-buying-bitcoin-now-is-like-buying-amazon-you-just-don-t-know-which-part-of-the-ride-says-wall-street-veteran-dave-weisberger/",
+      "url": "https://www.tradingview.com/news/stocktwits:129654f56094b:0-buying-bitcoin-now-is-like-buying-amazon-you-just-don-t-know-which-part-of-the-ride-says-wall-street-veteran-dave-weisberger/",
       "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.855Z"
-    },
-    {
-      "id": "5dc679fae0016d49dc6b13e6791a53a496bba9b562a06eb365b474320f264777",
-      "title": "CointelegraphEthereum, Solana led crypto hack losses in H1 2026: Blockaid",
-      "url": "https://www.tradingview.com/news/cointelegraph:b5b0378c6094b:0-ethereum-solana-led-crypto-hack-losses-in-h1-2026-blockaid/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.855Z"
-    },
-    {
-      "id": "ffee7a0f9bca6a1e12ebc0be8b46191271d638077afdd281dc8d60dea9096946",
-      "title": "BusinessWireMorgan Stanley Investment Management Expands ETP Offerings With Launch of Ethereum and Solana Exchange-Traded Products",
-      "url": "https://www.tradingview.com/news/business_wire:ce670cebd174b:0-morgan-stanley-investment-management-expands-etp-offerings-with-launch-of-ethereum-and-solana-exchange-traded-products/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.855Z"
-    },
-    {
-      "id": "303302a306451a9d8cce8a4e5d741498a3d9a62e71872173692ef9c07044d4af",
-      "title": "StocktwitsBitmine's Tom Lee Says CLARITY Act Will 'Open Flood Gates' Institutional Money Into Crypto As ETH Outpaces Memory Stocks",
-      "url": "https://www.tradingview.com/news/stocktwits:0f17e652f094b:0-bitmine-s-tom-lee-says-clarity-act-will-open-flood-gates-institutional-money-into-crypto-as-eth-outpaces-memory-stocks/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.855Z"
-    },
-    {
-      "id": "65aef2cf38cd4087746c07dec47e39daaf9493355163f5f7262bc771fafda461",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260728005193:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.855Z"
-    },
-    {
-      "id": "0df697840a055e443f451149cf0c0b052b6ec05f1c60f955ef2715e48b33df2b",
-      "title": "The Block1inch launches Aqua publicly, a shared liquidity layer for DeFi across 13 chains",
-      "url": "https://www.tradingview.com/news/the_block:8966c002c094b:0-1inch-launches-aqua-publicly-a-shared-liquidity-layer-for-defi-across-13-chains/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.855Z"
-    },
-    {
-      "id": "d890540698e71de8c7bb9d4fc98dac67fa26f2330286eef9b437b51c2cd4b372",
-      "title": "TradingViewKey facts: CRYPTO:BTCUSD $64.5k; El Salvador ends BTC; Polymarket drop",
-      "url": "https://www.tradingview.com/news/tradingview:d7bb9f7bd1dc8:0-key-facts-crypto-btcusd-64-5k-el-salvador-ends-btc-polymarket-drop/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.855Z"
-    },
-    {
-      "id": "2012985ac49ade6ea7ad5ee90bed4b409b22b49f3b7bd1bf4a7b6ea598d49beb",
-      "title": "TradingViewKey facts: CRYPTO:ETHUSD $630M+ Liquidations; 10-Week High, $2K–$2.5K",
-      "url": "https://www.tradingview.com/news/tradingview:d97f2c2afd4ca:0-key-facts-crypto-ethusd-630m-liquidations-10-week-high-2k-2-5k/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.855Z"
-    },
-    {
-      "id": "496b541f2fc54f07a69ea076ef4cb9aeac99af725b9b415a1dc5274b0c923c58",
-      "title": "Beincrypto3 Bullish Ethereum Signals and 1 Reason to Stay Careful",
-      "url": "https://www.tradingview.com/news/beincrypto:179c2f6ea094b:0-3-bullish-ethereum-signals-and-1-reason-to-stay-careful/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.855Z"
-    },
-    {
-      "id": "57169c09388753dfc0dabecdff953ad0b397c00ac46a52777fec758fce867052",
-      "title": "PR NewswireEPAM and OpenAI Partner to Help Enterprises Unlock Higher Value Through Applied AI",
-      "url": "https://www.tradingview.com/news/prnewswire:56c298e15f8f0:0-epam-and-openai-partner-to-help-enterprises-unlock-higher-value-through-applied-ai/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.856Z"
-    },
-    {
-      "id": "6657b2cc96d1ed7c857eab247fc4e4151e2d251a0bc99b5471ed19bee5385508",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260728004477_20260728004730:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.856Z"
-    },
-    {
-      "id": "19b308c24fc1626482678f9f1390906691a2bcb2d58f7bf75cdb59ac64f8203b",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260728004477_20260728004711:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.856Z"
-    },
-    {
-      "id": "fb3f9eb3c649815fc93ead3a4a31f366b32177c84dc63a19a530bf4508a4b59b",
-      "title": "Zacks5 Best-Performing Leveraged ETFs of Last Week",
-      "url": "https://www.tradingview.com/news/zacks:4de408535094b:0-5-best-performing-leveraged-etfs-of-last-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.856Z"
-    },
-    {
-      "id": "fc925a3decc019f7feac0ca5f5dbecb47e24b7a60a02f180e32042fe9a5b1467",
-      "title": "BusinessWireBitGo Expands Go Network with Gate US Integration, Giving Institutions Secure Access to Exchange Liquidity",
-      "url": "https://www.tradingview.com/news/business_wire:66f198f77fbf3:0-bitgo-expands-go-network-with-gate-us-integration-giving-institutions-secure-access-to-exchange-liquidity/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T13:19:49.856Z"
+      "scraped_at": "2026-07-28T15:54:11.782Z"
     }
   ]
 }
