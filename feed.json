@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-28T17:39:26.465Z",
+  "generated_at": "2026-07-28T18:58:02.390Z",
   "total": 15,
   "items": [
+    {
+      "id": "2b4d73b9f13b3170d1030883ff3d3c83ab6b8dd0ae6d5ed948008ab515e9a84a",
+      "title": "ReutersKraken Launches Fixed Rate Rewards",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43U17R:0-kraken-launches-fixed-rate-rewards/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "d0d2caef4aa4a69be9a1aa919e06cb742a7cfd8dbb740a31a869e923dae1c30d",
+      "title": "ReutersRefinitivCoinbase Users May Experience Latency In Dex Token Price Charts, Asset Price History",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43U17F:0-coinbase-users-may-experience-latency-in-dex-token-price-charts-asset-price-history/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "903eb994dd5c0f5c81a6f6aada2cbe5d5c315d4e62a657647a3b7dabba194580",
+      "title": "CointelegraphAmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
+      "url": "https://www.tradingview.com/news/cointelegraph:79ff14f1a094b:0-americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "4c3748b029594f4a8af478306127ca2fed9298dbddf214e6bdf90d4c076b68b6",
+      "title": "The BlockEthereum L2 ecosystem loses momentum as TVL drops to two-year low",
+      "url": "https://www.tradingview.com/news/the_block:cc8b68d44094b:0-ethereum-l2-ecosystem-loses-momentum-as-tvl-drops-to-two-year-low/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "2b1e1d733d1424bf2336e1745d53672f8b38fbd4c494835b23e0b68212844be4",
+      "title": "CointelegraphGalaxy, MARA Holdings deepen Texas expansion with land acquisitions",
+      "url": "https://www.tradingview.com/news/cointelegraph:61b75c369094b:0-galaxy-mara-holdings-deepen-texas-expansion-with-land-acquisitions/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "798d0b73bfa3d7ba6a5e4c387867f0372ee608c4e28bbb5df86385c68818059f",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260728008206:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "1a973c3dd16465d06434b751aec6ea4cb699416269228fe2f5d5d9229a4c09c7",
+      "title": "CoindarPancakeSwap to Host Meetup in Kuala Lumpur on July 29th",
+      "url": "https://www.tradingview.com/news/coindar:55fae443c094b:0-pancakeswap-to-host-meetup-in-kuala-lumpur-on-july-29th/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "c418d508fbd30a5befbb56b5dd3c4d617a5c2738737e9a9367885797948d122e",
+      "title": "CoindarSolana to Host Community Call on July 30th",
+      "url": "https://www.tradingview.com/news/coindar:df08054cc094b:0-solana-to-host-community-call-on-july-30th/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "1fbc9a0623822aadb6a1d84602c19a714d2ea2529866a2239090a6ac33ee3efb",
+      "title": "CoindarStellar to Hold Live Stream on X, LinkedIn and YouTube on July 30th",
+      "url": "https://www.tradingview.com/news/coindar:19efe6396094b:0-stellar-to-hold-live-stream-on-x-linkedin-and-youtube-on-july-30th/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "8bf6137d08b901609d63c12c56e3b55ad6467eb131b3c06cd52f4371b5916901",
+      "title": "ReutersKraken Now Supports Deposits & Withdrawals Of PYUSD On Stellar",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43U1HF:0-kraken-now-supports-deposits-withdrawals-of-pyusd-on-stellar/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
+    {
+      "id": "15c5f20eedd2e9009054d43a6886abf000d7ceef5765d4f529e5d759d5d8ddd7",
+      "title": "The BlockZcash activates Ironwood upgrade, launching new shielded pool after Orchard vulnerability",
+      "url": "https://www.tradingview.com/news/the_block:7d298f721094b:0-zcash-activates-ironwood-upgrade-launching-new-shielded-pool-after-orchard-vulnerability/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-28T18:58:02.387Z"
+    },
     {
       "id": "53a80f2ac0210ce76f6dca5672b900452be3fe7ebd76a183263cdf2d194905ac",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260728007900:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
+      "scraped_at": "2026-07-28T18:58:02.387Z"
     },
     {
       "id": "5b1e71677797717981e28f644bf3ff60024b5107dc21e89f69c1dd1ac9f42622",
       "title": "ACCESS NewswireSign up to read this news",
       "url": "https://www.tradingview.com/news/reuters.com,2026-07-28:newsml_ACSGNThTa:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
+      "scraped_at": "2026-07-28T18:58:02.387Z"
     },
     {
       "id": "054d5f91d45e1eea7e06adc7ec4036a80580445bd26d02e867cd4d51fd5c85f7",
       "title": "CoinMarketCalZIGChain: Tokenomics 2.0 governance proposal opens validator vote - 28 Jul 2026 to 01 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:7288a1dc5094b:0-zigchain-tokenomics-2-0-governance-proposal-opens-validator-vote-28-jul-2026-to-01-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
+      "scraped_at": "2026-07-28T18:58:02.387Z"
     },
     {
       "id": "81b348cfb0c6e5357065eb798328bd1a2046f8ce49017c99ecc906999a3a8815",
       "title": "CoinMarketCalBitcoin: Next halving is predicted for 4:00 AM EDT - By 15 Apr 2028",
       "url": "https://www.tradingview.com/news/coinmarketcal:d0854ccd9094b:0-bitcoin-next-halving-is-predicted-for-4-00-am-edt-by-15-apr-2028/",
       "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "aeba807ce2a218cd24f2de1f8c7a710b7ddc9585a1172b6f4614c589a5e04d46",
-      "title": "CoinMarketCalSolana: Morgan Stanley launches $MSOL ETP on NYSE Arca - 28 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:4d77c5c82094b:0-solana-morgan-stanley-launches-msol-etp-on-nyse-arca-28-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "929af08cc6028e84d22a579f1e1a637d5392ecf5a6b618f71e2704f1eeb10739",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260728007851:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "6189b8ebc6c809a7ebec2cd5dfadfefb8c59961493a72a8d2fa3435dfaf75b19",
-      "title": "BeincryptoCameron Winklevoss Pushes 2 Cryptos as AI Trade Rout Sinks Kospi 11%",
-      "url": "https://www.tradingview.com/news/beincrypto:fcf30018e094b:0-cameron-winklevoss-pushes-2-cryptos-as-ai-trade-rout-sinks-kospi-11/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "f1184d76dfe6acd749f4044d7873a65d442c1925e56270984486ce20319e970a",
-      "title": "CoindarBasic Attention to Host Community Call on July 28th",
-      "url": "https://www.tradingview.com/news/coindar:8e5498d3c094b:0-basic-attention-to-host-community-call-on-july-28th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "1ce297cb604f2294231c3af109b3e193d26880bd04a3a069654f40685fb69860",
-      "title": "CoindarSuperRare to Release Loss of Language NFT Collection on August 3rd",
-      "url": "https://www.tradingview.com/news/coindar:b36ae7a0f094b:0-superrare-to-release-loss-of-language-nft-collection-on-august-3rd/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "279d2f325523befd84cf978ff374054cf122fd800848f19cb3f74c7e0f8feea2",
-      "title": "CoindarMetis to Hold Live Stream on X on July 30th",
-      "url": "https://www.tradingview.com/news/coindar:ff8870c3b094b:0-metis-to-hold-live-stream-on-x-on-july-30th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "07219ba83624150242f1776bed6a6ea82269a84fc6679c4bb38f6fa58279e80b",
-      "title": "CointelegraphBitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
-      "url": "https://www.tradingview.com/news/cointelegraph:33086413c094b:0-bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spreads-to-wall-street/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "b3fb3d1be94a7cef3b22d337317b4f3cb6afc697ad984486fb26433a1e7ed601",
-      "title": "CoindarGolem to Host Community Call on July 29th",
-      "url": "https://www.tradingview.com/news/coindar:7b8b09157094b:0-golem-to-host-community-call-on-july-29th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "492182bb1a7ea6b2aff7bf8da85cab944c0577afec6ed129721121b4d5fb8bad",
-      "title": "CoindarCardano Partners With Reef Data",
-      "url": "https://www.tradingview.com/news/coindar:7082bd99e094b:0-cardano-partners-with-reef-data/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "88be9ba1e1fc44d0d662d0c658377503234c3e85e05d698dfd7aa368037deac5",
-      "title": "CoinpediaZEC Price Climbs After Zcash Ironwood Upgrade Goes Live",
-      "url": "https://www.tradingview.com/news/coinpedia:c08d2c742094b:0-zec-price-climbs-after-zcash-ironwood-upgrade-goes-live/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
-    },
-    {
-      "id": "b60e646d9612443122ade3f2ff639d6638ec4e1e00dc3a7ec0bd7404d8d4bc12",
-      "title": "StocktwitsAfter Bitcoin Success, Morgan Stanley Bets Bigger On Ethereum And Solana ETFs",
-      "url": "https://www.tradingview.com/news/stocktwits:3b15ce58f094b:0-after-bitcoin-success-morgan-stanley-bets-bigger-on-ethereum-and-solana-etfs/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-28T17:39:26.462Z"
+      "scraped_at": "2026-07-28T18:58:02.387Z"
     }
   ]
 }
