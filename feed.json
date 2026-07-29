@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-29T16:58:42.208Z",
+  "generated_at": "2026-07-29T18:12:54.667Z",
   "total": 15,
   "items": [
+    {
+      "id": "2d33cab53a2fd4a8d63fbdcb347d8d78b8729226032ce3cfdf1d56492084544e",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260729010115:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.664Z"
+    },
+    {
+      "id": "464bbe8500bfd5534ffb8666f821301e5f4c173c75b0c75b615da722e3336e7c",
+      "title": "The Block‘Ethereum Cypherpunk Manifesto’ author joins Ethereum Foundation as fourth board member",
+      "url": "https://www.tradingview.com/news/the_block:750687525094b:0-ethereum-cypherpunk-manifesto-author-joins-ethereum-foundation-as-fourth-board-member/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.664Z"
+    },
+    {
+      "id": "7b4ca1db349c4d7a3f148136fd7fd837bce2831c05806ce606e7cae36ae4f7e7",
+      "title": "CointelegraphBinance launches regulated gold, silver options through ADGM exchange",
+      "url": "https://www.tradingview.com/news/cointelegraph:5cd08d379094b:0-binance-launches-regulated-gold-silver-options-through-adgm-exchange/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.664Z"
+    },
+    {
+      "id": "490b81a3ac4b40f7fd05ca3176b708db41534ff5f7e51ded431b3d603f72947e",
+      "title": "CointelegraphBitcoin price wedged into ‘most divided’ FOMC as Iran war spikes oil prices 8%",
+      "url": "https://www.tradingview.com/news/cointelegraph:110b13954094b:0-bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices-8/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.664Z"
+    },
+    {
+      "id": "de87c64f1af6c3cdf827c5a5d89c4932206bdc32c6cd2090f2379259afaa38bb",
+      "title": "The BlockVisa CEO sidesteps labeling Open USD a challenger to Tether and USDC: ‘Our role is not to pick winners’",
+      "url": "https://www.tradingview.com/news/the_block:a8be21a28094b:0-visa-ceo-sidesteps-labeling-open-usd-a-challenger-to-tether-and-usdc-our-role-is-not-to-pick-winners/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.664Z"
+    },
+    {
+      "id": "a6bcd6e5174a48bf78d273b2b75c65e6ca8f835f2c3d828998118d28e90fa9ee",
+      "title": "The BlockAnchorage Digital says Fed’s proposed payment account is no ‘workable substitute’ for master account",
+      "url": "https://www.tradingview.com/news/the_block:e90dfea2e094b:0-anchorage-digital-says-fed-s-proposed-payment-account-is-no-workable-substitute-for-master-account/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.665Z"
+    },
+    {
+      "id": "e496141cfa3edc8d691176c9f74cc0a3dca014080ea9d0511b83c892b94e9e96",
+      "title": "CoinMarketCalBeldex: Native Cross-Chain Bridge launches - Q4 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:7ccd250d2094b:0-beldex-native-cross-chain-bridge-launches-q4-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.665Z"
+    },
+    {
+      "id": "d7538518f56c69310b4166321b491518a5c8b328df5d403a043492aa8faaf744",
+      "title": "CoinMarketCalBeldex: EVM sidechain testnet launches - Q2 2027",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b8c90c30c094b:0-beldex-evm-sidechain-testnet-launches-q2-2027/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.665Z"
+    },
+    {
+      "id": "66a9fb1db6a34cf6ab11993d4bc816a29b2e9741eeb50a4fe7685f9404ed8133",
+      "title": "CoinMarketCalBeldex: EVM sidechain mainnet launches - 01 Jul 2027 to 31 Dec 2027",
+      "url": "https://www.tradingview.com/news/coinmarketcal:61878c616094b:0-beldex-evm-sidechain-mainnet-launches-01-jul-2027-to-31-dec-2027/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.665Z"
+    },
     {
       "id": "a2333a8cc425cfd575b1fdb3366fa3b5ae2ced78565621ce2e34324e40b54c1b",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260729009784:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
+      "scraped_at": "2026-07-29T18:12:54.665Z"
     },
     {
       "id": "8da68bc8c8bb1eda14910259f757e0bfd19bfeed8710b402034f40e8b0327747",
       "title": "StocktwitsDCG Says US Faces 'Alarming' Offshore Flight Without CLARITY Act, Demands Vote Before August Recess",
       "url": "https://www.tradingview.com/news/stocktwits:0b90ae9ba094b:0-dcg-says-us-faces-alarming-offshore-flight-without-clarity-act-demands-vote-before-august-recess/",
       "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
+      "scraped_at": "2026-07-29T18:12:54.665Z"
     },
     {
       "id": "3327293807228933b7988ff661ed5c628a2825aa1198a3db164313b910e614f0",
       "title": "CointelegraphMoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
       "url": "https://www.tradingview.com/news/cointelegraph:ce9701122094b:0-moonpay-vault-enables-chatgpt-and-claude-users-to-authorize-crypto-transactions/",
       "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
+      "scraped_at": "2026-07-29T18:12:54.665Z"
     },
     {
       "id": "487b146802d6ca2b4db5f694eade9c9f55c1bf54ec4d700206726563074852cd",
       "title": "MarketWatchStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_SN20260729011028:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
+      "scraped_at": "2026-07-29T18:12:54.665Z"
+    },
+    {
+      "id": "aee17f9582b7e694afddbd50b8755fa42d99b5a68903ce6326b9a18ecf723a9f",
+      "title": "CoinpediaHYPE Price Slides as Whale Selling Grows, But Grayscale Sees Long-Term Value",
+      "url": "https://www.tradingview.com/news/coinpedia:950de1fc8094b:0-hype-price-slides-as-whale-selling-grows-but-grayscale-sees-long-term-value/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T18:12:54.665Z"
     },
     {
       "id": "8372efe75dfbc367773b752bb2516a601385490614080ab43700eba91fff4478",
       "title": "ZacksShould You Buy, Sell or Hold MSTR Stock Before Q2 Earnings?",
       "url": "https://www.tradingview.com/news/zacks:4495daa9e094b:0-should-you-buy-sell-or-hold-mstr-stock-before-q2-earnings/",
       "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "4bae35cafa10991396db4b9b84a8df41df1c503605ef927018bd45023656e6b0",
-      "title": "BenzingaBitcoin's Fair Value Is $95,000, Schwab Research Chief Says: Here's Why",
-      "url": "https://www.tradingview.com/news/benzinga:acf9580f2094b:0-bitcoin-s-fair-value-is-95-000-schwab-research-chief-says-here-s-why/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "e42d4244eab422d70b58d9096b284d038e0a00ac5579f7b2cd835c2d69a2e8d4",
-      "title": "StocktwitsJordi Visser Says Michael Saylor Saw It First: Bitcoin Is The Only AI Trade AI Can't Destroy",
-      "url": "https://www.tradingview.com/news/stocktwits:0ed13c651094b:0-jordi-visser-says-michael-saylor-saw-it-first-bitcoin-is-the-only-ai-trade-ai-can-t-destroy/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "fca6861cfad4f18c61a3786eea3c4c506312e3d045a620c521fe1847ef273d44",
-      "title": "The BlockSoFi crypto transaction revenue grows 10% to $134 million in Q2",
-      "url": "https://www.tradingview.com/news/the_block:ad2d1808a094b:0-sofi-crypto-transaction-revenue-grows-10-to-134-million-in-q2/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "7afb6f854c57cd2f2fcce2df997ca72d4d8faaa564f022495f7aa9b3a3a7137f",
-      "title": "ZacksTop-Performing ETF Areas of Last Week",
-      "url": "https://www.tradingview.com/news/zacks:ebf2cb451094b:0-top-performing-etf-areas-of-last-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "7474d345364c85a7fc9d0088962736db2df37d70968df867e6b0ccd87c6ff281",
-      "title": "BeincryptoWhy Does XRP Fall Faster Than Every Other Major Coin?",
-      "url": "https://www.tradingview.com/news/beincrypto:adc997046094b:0-why-does-xrp-fall-faster-than-every-other-major-coin/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "2d68f272ebd734026efb8cc665fbaea5992ef72b54ef90a6232126d9d4111f7e",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260729008640:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "a1bfab4747afb22eb5b665ceb23da1cf1a3a4ec27fbea57dfc93b9ee2aa1982b",
-      "title": "BenzingaGrayscale CEO Sells GXRP as XRP Trades 70% off the Highs: What's Happening?",
-      "url": "https://www.tradingview.com/news/benzinga:f4c3522ac094b:0-grayscale-ceo-sells-gxrp-as-xrp-trades-70-off-the-highs-what-s-happening/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "9b53d2257b59d9d4dfbae709ab34aac9e3e6d690cbd0fdc12450b41cb630de8f",
-      "title": "ChainwireTria Returns More Than $600,000 to the Community That Helped Build Its Ecosystem",
-      "url": "https://www.tradingview.com/news/chainwire:922dfb0b7094b:0-tria-returns-more-than-600-000-to-the-community-that-helped-build-its-ecosystem/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "7bf48862a449e1f169469d1fa69484484dda502bda746eba5afde39b0d728f9f",
-      "title": "The Block‘The moment to act is now’: Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
-      "url": "https://www.tradingview.com/news/the_block:d847ebc1e094b:0-the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
-    },
-    {
-      "id": "159347c3aa63c9c11401a173accda6972264ac69baa8a51056e5926f33a2019f",
-      "title": "StocktwitsPompliano Says Bitcoin Doesn’t Need CLARITY Act — Real Battle Is Over Bank Control of Stablecoin Yield",
-      "url": "https://www.tradingview.com/news/stocktwits:c4a65662d094b:0-pompliano-says-bitcoin-doesn-t-need-clarity-act-real-battle-is-over-bank-control-of-stablecoin-yield/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T16:58:42.204Z"
+      "scraped_at": "2026-07-29T18:12:54.665Z"
     }
   ]
 }
