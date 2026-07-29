@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-07-29T07:46:55.493Z",
-  "total": 15,
+  "generated_at": "2026-07-29T10:44:06.533Z",
+  "total": 14,
   "items": [
+    {
+      "id": "0def613b1273b5f6c299550d27935c8242f824e369caaeea17368136d766d249",
+      "title": "ChainwireMEXC Integrates World-Check to Fortify Institutional Grade Compliance Architecture",
+      "url": "https://www.tradingview.com/news/chainwire:78bf395d2094b:0-mexc-integrates-world-check-to-fortify-institutional-grade-compliance-architecture/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
+    {
+      "id": "080ea15ac26b68868d625184efb9bfd51838aa224014dcb3a7a08a561872c849",
+      "title": "CointelegraphCrypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
+      "url": "https://www.tradingview.com/news/cointelegraph:c3c6850ad094b:0-crypto-tradfi-grows-fivefold-to-6-6b-as-exchanges-expand-into-stocks-commodities-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
+    {
+      "id": "4c20ee27abda62f30166812f6ac751475162eef2b899278e287f4d0db0aca28e",
+      "title": "StocktwitsHyperliquid Is Building A $1B Business, Says Grayscale – But Traders Just Got Reminded Of The Risks Amid SK Hynix Turmoil",
+      "url": "https://www.tradingview.com/news/stocktwits:2a15cb907094b:0-hyperliquid-is-building-a-1b-business-says-grayscale-but-traders-just-got-reminded-of-the-risks-amid-sk-hynix-turmoil/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
+    {
+      "id": "05e847d0fb5472ebeb158640d917f4e8163e396eb716336b3d753fe0683a17b4",
+      "title": "CointelegraphHungary repeals crypto checks as first MiCA license is granted",
+      "url": "https://www.tradingview.com/news/cointelegraph:62cc3056f094b:0-hungary-repeals-crypto-checks-as-first-mica-license-is-granted/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
+    {
+      "id": "372b77505ee1a80ab5fd25fbc0548fbd72dfa8df07930d790f9f5831b12070ac",
+      "title": "CNBC TV18Start a free trial to read this news",
+      "url": "https://www.tradingview.com/news/cnbctv:36d78b8ee094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
+    {
+      "id": "f7dcef1481866a89db066edafc9fc8aca9fee30c8f8c9615691827ae44937c3e",
+      "title": "ChainwireBybit Introduces Finloop’s FUIDL backed by an AAA-rated Money Market Fund",
+      "url": "https://www.tradingview.com/news/chainwire:269ee83ca094b:0-bybit-introduces-finloop-s-fuidl-backed-by-an-aaa-rated-money-market-fund/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
+    {
+      "id": "7dbc443d5510e1e82818a335891eddbc31e5c0be1f8805797e85fecef8d907e4",
+      "title": "CoinpediaAudiera (BEAT) Price Rebounds After a 45% Correction—Can It Break Above $5?",
+      "url": "https://www.tradingview.com/news/coinpedia:95643e8a3094b:0-audiera-beat-price-rebounds-after-a-45-correction-can-it-break-above-5/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
+    {
+      "id": "02b633d474b7a02d3b56aa74a5fce599ed8a20b7c3cc7f500c496e9b03579307",
+      "title": "CoinMarketCalSolana: 100M CU blocks go live on mainnet - 29 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:4131f4c68094b:0-solana-100m-cu-blocks-go-live-on-mainnet-29-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
     {
       "id": "97e9edf74820d287779d1a7d80e28f4a2e378b1b33e54f13898845edb65589a6",
       "title": "The BlockRussia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant: report",
       "url": "https://www.tradingview.com/news/the_block:e16949d90094b:0-russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism-issues-arrest-warrant-report/",
       "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.489Z"
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
+    {
+      "id": "c359b2903b56a7ace24d57878787f4374e210ee417da70201862d8b310e47c1d",
+      "title": "CoinpediaTelegram Founder Pavel Durov Is Added to the International Wanted List by the Russian FSB",
+      "url": "https://www.tradingview.com/news/coinpedia:c3df52379094b:0-telegram-founder-pavel-durov-is-added-to-the-international-wanted-list-by-the-russian-fsb/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
+    },
+    {
+      "id": "1322c5385da12f31844ca9afc36dc8be51fe01e5309f06e632b00d657aa21829",
+      "title": "CoinpediaTop AI Crypto Coins in August 2026",
+      "url": "https://www.tradingview.com/news/coinpedia:e4be36130094b:0-top-ai-crypto-coins-in-august-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-29T10:44:06.530Z"
     },
     {
       "id": "c8e095880af6ff17976741e7eabaaddddd68288733dcef4ed1938ec45bcf15d5",
       "title": "CointelegraphBitcoin ETFs extend outflow streak as BTC fails to hold $65K",
       "url": "https://www.tradingview.com/news/cointelegraph:27ebc16f4094b:0-bitcoin-etfs-extend-outflow-streak-as-btc-fails-to-hold-65k/",
       "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
+      "scraped_at": "2026-07-29T10:44:06.530Z"
     },
     {
-      "id": "fbcfac8dec122ca43b656e728f460c4cc826bf7cbf3bd84ced324a407bb188a3",
-      "title": "CointelegraphUK policy sprint finds cross-border payments are stablecoins’ top use case",
-      "url": "https://www.tradingview.com/news/cointelegraph:bb356fe9c094b:0-uk-policy-sprint-finds-cross-border-payments-are-stablecoins-top-use-case/",
+      "id": "0eaf962fba574c86b52f2bc8d7b693550566e547fc1c322a17e330f2cd580f40",
+      "title": "99BitcoinsCrypto News Today (July 29): BTC Reclaims $64K Ahead of FOMC, 1inch Launches New DeFi Liquidity Layer, and Ionic Digital Shares Jump 25% on Nasdaq Debut",
+      "url": "https://www.tradingview.com/news/99Bitcoins:bb52aaef7094b:0-crypto-news-today-july-29-btc-reclaims-64k-ahead-of-fomc-1inch-launches-new-defi-liquidity-layer-and-ionic-digital-shares-jump-25-on-nasdaq-debut/",
       "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
+      "scraped_at": "2026-07-29T10:44:06.530Z"
     },
     {
-      "id": "784b8521b64bad95708c946a0745894c596a366e19652a328a05de993f6ecf5b",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260729001863:0/",
+      "id": "51de7c8231820d378be27b4a73f7ba6809bb734b5fefbd3bd1302d2cc215c6a9",
+      "title": "CoinpediaWhy Everyone Is Watching Cardano Price Today",
+      "url": "https://www.tradingview.com/news/coinpedia:78457916d094b:0-why-everyone-is-watching-cardano-price-today/",
       "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "c7ecd1c34a8795414c5902f7eacb4972daf52ec57ee9b251ac810191909e32c3",
-      "title": "Binance NewsBitcoin Briefly Splits Into Two Competing Chains After Conflicting Block 941,881",
-      "url": "https://www.tradingview.com/news/binance_news:0278953f6094b:0-bitcoin-briefly-splits-into-two-competing-chains-after-conflicting-block-941-881/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "d0a2b260088fde355d4328fadcd6791ce431b8615dc89fcaa4f243e601f34f9a",
-      "title": "CointelegraphTelegram founder Pavel Durov internationally wanted, Russia’s FSB says",
-      "url": "https://www.tradingview.com/news/cointelegraph:6827dac2f094b:0-telegram-founder-pavel-durov-internationally-wanted-russia-s-fsb-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "4efcb04cf4b3817d9ea1c22530ae0f39a77ded9304e36fedf27302fcabc7a63a",
-      "title": "Binance NewsBinance Spot Will List 10 bStocks Trading Pairs and Open Spot Algo Trading Bot Services",
-      "url": "https://www.tradingview.com/news/binance_news:8ae67c9e5094b:0-binance-spot-will-list-10-bstocks-trading-pairs-and-open-spot-algo-trading-bot-services/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "01c5529672822289c08a368861e9a75450ad036fa7f656ab236146d39fe68223",
-      "title": "Binance NewsSelini Capital-Linked Wallet Deposits 495,473 HYPE to CEX, Suggesting Possible Sale",
-      "url": "https://www.tradingview.com/news/binance_news:db00e9cfd094b:0-selini-capital-linked-wallet-deposits-495-473-hype-to-cex-suggesting-possible-sale/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "c830ca14b2597060565d4ac9a4ef9ebb4cb42cc41e397145ea610e5375a11b06",
-      "title": "Binance NewsJurassic Finance Plans First Tokenized Dinosaur On Solana",
-      "url": "https://www.tradingview.com/news/binance_news:337519aaa094b:0-jurassic-finance-plans-first-tokenized-dinosaur-on-solana/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "3b65d37b21956a3af7d3b30afd9f14fc0da03e754ab8cb3e36624235c16188b8",
-      "title": "CoinpediaSouth Korea FSC Pushes One Bill to Unite Stablecoin Rules",
-      "url": "https://www.tradingview.com/news/coinpedia:558307adc094b:0-south-korea-fsc-pushes-one-bill-to-unite-stablecoin-rules/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "0d0b4fe7f22bfe464279cea0ea0d19d46be870dacdaa527fdb23f45bc727faab",
-      "title": "Binance News129,396 ZEC Moved to Zcash's Ironwood Shielded Pool",
-      "url": "https://www.tradingview.com/news/binance_news:50cdccb09094b:0-129-396-zec-moved-to-zcash-s-ironwood-shielded-pool/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "1e30037a3c1bbc3658d987719ea5e41d968aa056c167d4bcdc6d3a78f27d3d3a",
-      "title": "Binance NewsBinance Will Support BNB Smart Chain (BEP20) Network Upgrade and Hard Fork",
-      "url": "https://www.tradingview.com/news/binance_news:179596bf9094b:0-binance-will-support-bnb-smart-chain-bep20-network-upgrade-and-hard-fork/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "f81af83579bb310a2e2c830e154e67b7f795691dd57bf1a79bd2514e93893746",
-      "title": "London Stock ExchangeREG - Sterling Digital PLC - Commencement of On-Site Power & Issue of Warrants",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-07-29:newsml_RSc2607Oa:0-reg-sterling-digital-plc-commencement-of-on-site-power-issue-of-warrants/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "da80efea52ce9fa39fb397bd40eba0957e70ac34eaec41ae70e2387c404d096c",
-      "title": "IBeincryptoBitcoin ETFs Bleed While Ethereum Funds Post Third Straight Weekly Inflow",
-      "url": "https://www.tradingview.com/news/beincrypto:f5be8877f094b:0-bitcoin-etfs-bleed-while-ethereum-funds-post-third-straight-weekly-inflow/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
-    },
-    {
-      "id": "9788592643742f0c195a094ae950a6f63d122286fefdef1f19b3fd98ff679c5d",
-      "title": "BeincryptoMeet the Strangest RWA on Solana Yet: A Dinosaur Skull",
-      "url": "https://www.tradingview.com/news/beincrypto:11f445a31094b:0-meet-the-strangest-rwa-on-solana-yet-a-dinosaur-skull/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-29T07:46:55.490Z"
+      "scraped_at": "2026-07-29T10:44:06.530Z"
     }
   ]
 }
