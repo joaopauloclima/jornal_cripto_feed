@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-07-30T16:40:09.860Z",
-  "total": 16,
+  "generated_at": "2026-07-30T18:03:41.756Z",
+  "total": 15,
   "items": [
     {
-      "id": "9e3f5201510048eedefa4999881cb191a87a0a2b3b1369e8b469f0ea5de69c12",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260730012987:0/",
+      "id": "3bd6b900cc584733ab9bffdd87d7f8968e133bddab43ed6c8999af71bd0974ec",
+      "title": "The BlockJPMorgan says crypto bill’s fading odds hurt outlook, warns parts could discourage institutional adoption",
+      "url": "https://www.tradingview.com/news/the_block:526c77b87094b:0-jpmorgan-says-crypto-bill-s-fading-odds-hurt-outlook-warns-parts-could-discourage-institutional-adoption/",
       "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
+      "scraped_at": "2026-07-30T18:03:41.753Z"
     },
     {
-      "id": "f58d8233a515cd2fece22697f421ee57f2cf654fe89d310a0f1cbaaff6be108e",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260730012985:0/",
+      "id": "d71f115832cc60fa46be7bf4962f41552c102db6b0a299ed2a7923cedff21ce5",
+      "title": "ACCESS NewswireSign up to read this news",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-07-30:newsml_ACSpwZ6va:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
+      "scraped_at": "2026-07-30T18:03:41.753Z"
+    },
+    {
+      "id": "82e85c80d462d6e3c13434ead15cedfa124a93a7f3fe4b68da83fac6e5123e4f",
+      "title": "ChainwireStacks Successfully Activates PoX-5, Laying the Foundation for Bitcoin Staking",
+      "url": "https://www.tradingview.com/news/chainwire:634265e0b094b:0-stacks-successfully-activates-pox-5-laying-the-foundation-for-bitcoin-staking/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-30T18:03:41.753Z"
+    },
+    {
+      "id": "a130b52787207152df1b12fbfb706b17d6a4ebd9ed4a24898ae70199158d6716",
+      "title": "CointelegraphCanadian crypto ownership increases to 25%: Ontario survey",
+      "url": "https://www.tradingview.com/news/cointelegraph:a825b16eb094b:0-canadian-crypto-ownership-increases-to-25-ontario-survey/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-30T18:03:41.753Z"
+    },
+    {
+      "id": "7a8d742fae4348e6d995f3fe34512d6c192405346b7ed68d501f9cd5b4f8fa05",
+      "title": "CoinMarketCalBitcoin Cash: Knuth v1.3.0 goes live - 30 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:71772b039094b:0-bitcoin-cash-knuth-v1-3-0-goes-live-30-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-30T18:03:41.753Z"
+    },
+    {
+      "id": "cef1d74a6da2ea0d23b8c6f432df660a2bb7931358283de4995ead1ab8e66545",
+      "title": "CoinMarketCalChiliz: Fan Tokens go live on Solana and Base - 30 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:8297497ea094b:0-chiliz-fan-tokens-go-live-on-solana-and-base-30-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-30T18:03:41.753Z"
+    },
+    {
+      "id": "399c8c037f969d19be6cc51f7eaabab35dd2d1bf24045341b09dff1a52ace877",
+      "title": "BeincryptoThe Web’s Missing Payment Primitive Didn’t Need Better Tech, It Needed to Ditch Humans",
+      "url": "https://www.tradingview.com/news/beincrypto:7cf6c9fa3094b:0-the-web-s-missing-payment-primitive-didn-t-need-better-tech-it-needed-to-ditch-humans/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-30T18:03:41.753Z"
     },
     {
       "id": "94b07c5d0f394d8ad9ba97537ae9d9ae2d26c7e5a52ac7714a4ffe2bf8bb94d1",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260730012984:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
+      "scraped_at": "2026-07-30T18:03:41.753Z"
+    },
+    {
+      "id": "37b06b08ab9f7fec6a0d114e642af5fa00abec57eecb6c34486a7f211bd8b33d",
+      "title": "BenzingaBitcoin Stress Index Spikes for Second Time in Three Days: What's Happening?",
+      "url": "https://www.tradingview.com/news/benzinga:e81c76d13094b:0-bitcoin-stress-index-spikes-for-second-time-in-three-days-what-s-happening/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-30T18:03:41.753Z"
     },
     {
       "id": "af05ce7556c58f67dd6734e7ff7c3900c56ba0eaeba523767177eee57db086d9",
       "title": "CointelegraphBitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
       "url": "https://www.tradingview.com/news/cointelegraph:a1d7d85cc094b:0-bitcoin-stable-as-fed-fave-pce-inflation-sees-first-monthly-drop-in-six-years/",
       "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
+      "scraped_at": "2026-07-30T18:03:41.753Z"
     },
     {
       "id": "bdd0e2b15eac4039d7849f85e602eaaf077c83621eae906e52a34b48e477df9b",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260730012482:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
+      "scraped_at": "2026-07-30T18:03:41.753Z"
     },
     {
       "id": "d9da9de73b1974aefd400fca946db2928eb60bfc53540ef539e025c6e990da34",
       "title": "CointelegraphHyperscale Data sells 100 BTC to fund Michigan AI data center",
       "url": "https://www.tradingview.com/news/cointelegraph:ba9fddb42094b:0-hyperscale-data-sells-100-btc-to-fund-michigan-ai-data-center/",
       "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
+      "scraped_at": "2026-07-30T18:03:41.753Z"
     },
     {
       "id": "ba3d61a84dd4038c2b3900524401574234d7387769b44789e532ee02405632f0",
       "title": "CointelegraphTokenized gold passes DeFi stress test, but less than 2% is used as collateral",
       "url": "https://www.tradingview.com/news/cointelegraph:ec15b5466094b:0-tokenized-gold-passes-defi-stress-test-but-less-than-2-is-used-as-collateral/",
       "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
+      "scraped_at": "2026-07-30T18:03:41.753Z"
+    },
+    {
+      "id": "144e76d041fd7f69ad87422bb869bef5e24464289d00dc9caf8b68214bf41691",
+      "title": "BenzingaJPMorgan Warns Crypto Faces Setback As CLARITY Act Odds Drop To 37%",
+      "url": "https://www.tradingview.com/news/benzinga:9db3dea43094b:0-jpmorgan-warns-crypto-faces-setback-as-clarity-act-odds-drop-to-37/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-30T18:03:41.753Z"
     },
     {
       "id": "3736e18b5505937358ffb8f9561792f3658f669576880efd0483533e396527ef",
       "title": "CoindarAnkr to Hold Live Stream on X on August 5th",
       "url": "https://www.tradingview.com/news/coindar:6f93a66a2094b:0-ankr-to-hold-live-stream-on-x-on-august-5th/",
       "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
-    },
-    {
-      "id": "9fe7782a86f63edd260074577ea5821d9f8a28201c4845301848125d47f8313c",
-      "title": "CoindarIOTA to Complete Pyth Pro Migration on August 18th",
-      "url": "https://www.tradingview.com/news/coindar:6ca9fde8c094b:0-iota-to-complete-pyth-pro-migration-on-august-18th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
-    },
-    {
-      "id": "b9d71d024b9ac1829331edcb2007a9d794448267034b62d75352e5d8bdf4e5db",
-      "title": "BeincryptoVeteran Macro Investor Says AI’s Easy Money Is Over and Bitcoin Is Next",
-      "url": "https://www.tradingview.com/news/beincrypto:56455b94b094b:0-veteran-macro-investor-says-ai-s-easy-money-is-over-and-bitcoin-is-next/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
-    },
-    {
-      "id": "d9a295968b4ba5a12f293fe23893976a12cc4102ad27be7de23251524ebbf690",
-      "title": "CNBC TV18Start a free trial to read this news",
-      "url": "https://www.tradingview.com/news/cnbctv:c4e43b9d0094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
-    },
-    {
-      "id": "0513e73961a2b3ba038cd0fa674cc621cc7c6810332d6028354f4918ed569017",
-      "title": "The BlockFortitude targets 145% Zcash mining capacity increase with $31.5 million Bitmain order",
-      "url": "https://www.tradingview.com/news/the_block:f14791320094b:0-fortitude-targets-145-zcash-mining-capacity-increase-with-31-5-million-bitmain-order/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
-    },
-    {
-      "id": "b871271a9c54a09228302defa6b6da56753e649f88a3c62ddd11e17c25abd324",
-      "title": "CoindarEnjin Coin to Host Community Call on July 30th",
-      "url": "https://www.tradingview.com/news/coindar:1021f27f1094b:0-enjin-coin-to-host-community-call-on-july-30th/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
-    },
-    {
-      "id": "852515c6dfe44b7a273c713c02e68f9e2b0a650e8b1200bba124ec20dc9384f6",
-      "title": "The Block‘Paid to wait’: Bitcoin presses toward $65,000 as Treasuries out-yield the carry trade for only second time on record",
-      "url": "https://www.tradingview.com/news/the_block:1de4957ea094b:0-paid-to-wait-bitcoin-presses-toward-65-000-as-treasuries-out-yield-the-carry-trade-for-only-second-time-on-record/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
-    },
-    {
-      "id": "4f7ae74c9463f6dea77850657d18f8a324ddb6c612da1a24fda7d842f6eeb524",
-      "title": "BenzingaBitcoin, Ethereum Showed 'Remarkable Resilience' During AI Rout: Is This the Bottom?",
-      "url": "https://www.tradingview.com/news/benzinga:63e2d1396094b:0-bitcoin-ethereum-showed-remarkable-resilience-during-ai-rout-is-this-the-bottom/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.857Z"
-    },
-    {
-      "id": "3414d131d47c359e25084b018dfa395d011271f0dcbc1ffe2bf46f102b55c2b7",
-      "title": "dpa-AFXCryptos Rise As Soft PCE Reading Eclipses Fed's Hawkish Pause",
-      "url": "https://www.tradingview.com/news/dpa_afx:10110392a9506:0-cryptos-rise-as-soft-pce-reading-eclipses-fed-s-hawkish-pause/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-30T16:40:09.858Z"
+      "scraped_at": "2026-07-30T18:03:41.753Z"
     }
   ]
 }
