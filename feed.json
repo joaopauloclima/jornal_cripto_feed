@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-07-31T15:48:56.846Z",
-  "total": 16,
+  "generated_at": "2026-07-31T17:44:41.781Z",
+  "total": 15,
   "items": [
     {
-      "id": "3a1ca2b7f2960a2fae8a480cdd79a82a7aad9488baa91786dd6f6a700c01856b",
+      "id": "409ac96df478c1862c04df7a6b306aa0cebf809009e9f592b3691bbe9d234343",
+      "title": "NewsBTCKansai Electric Rewards App Opens JPYC Stablecoin Conversion On Polygon",
+      "url": "https://www.tradingview.com/news/newsbtc:6ccde4ee9094b:0-kansai-electric-rewards-app-opens-jpyc-stablecoin-conversion-on-polygon/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "ada607e5702f42270e63521bead66795f696b5854ca4165b27ba18c7509eda3f",
+      "title": "GuruFocusCoinbase Stock Tumbles 10% After Wider Loss and Weak Q3 Outlook",
+      "url": "https://www.tradingview.com/news/gurufocus:1fd30ff8b094b:0-coinbase-stock-tumbles-10-after-wider-loss-and-weak-q3-outlook/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "4c6455eb9043d2df8f48af69a1522746b1ce644ca7da97a69ce22b0b4c0b965a",
+      "title": "CoinMarketCalHedera: Asseto Access provides institutional tokenization environments - 31 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:a4ec940ca094b:0-hedera-asseto-access-provides-institutional-tokenization-environments-31-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "29dbe7431b573329ad306191470904345dbb452a2e0ec7f61077df6a35a2efb3",
+      "title": "CoinMarketCalAvantis: V2 expands RWA access and introduces zero-commission trading - 12 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:2a86cb8cd094b:0-avantis-v2-expands-rwa-access-and-introduces-zero-commission-trading-12-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "3d448474f3e895db86fb1b7c83362a97b176b10469aac5bf7ff901fbabd223e6",
+      "title": "CoinMarketCalSei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:6c4ef5e0e094b:0-sei-ares-becomes-default-as-eidos-begins-giga-mainnet-upgrade-31-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "856b20ec6e943d911bafaa7217c8a349f1275d7d044cd8b4188ab2873e268b81",
+      "title": "CointelegraphEx-FTX users report funds being released in $900M distribution round",
+      "url": "https://www.tradingview.com/news/cointelegraph:2bbb81e9f094b:0-ex-ftx-users-report-funds-being-released-in-900m-distribution-round/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "456fee55acb6870f09a07b5dbbbc97cc9a8922f9c86b87f1d6841a899e86ff56",
+      "title": "The BlockWorld Cup 2026 prediction markets topped $20 billion, with Ronaldo tears among the biggest wagers",
+      "url": "https://www.tradingview.com/news/the_block:b6b50c7b6094b:0-world-cup-2026-prediction-markets-topped-20-billion-with-ronaldo-tears-among-the-biggest-wagers/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "f060e556615b930f3a073bc0dc7b2afaffb5e5ef53bbcc3dd3a4a5343bd10774",
+      "title": "NewsBTCLite Strategy Funds $5.4M Buyback With Litecoin Sales And Covered Calls",
+      "url": "https://www.tradingview.com/news/newsbtc:7a115a9d1094b:0-lite-strategy-funds-5-4m-buyback-with-litecoin-sales-and-covered-calls/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "c9f937865d80f31cd41ac6b01a999293408e33c296c241c877362d2eef1ba767",
+      "title": "CointelegraphTether earns $1.5B in Q2 as US Treasury holdings fuel profits",
+      "url": "https://www.tradingview.com/news/cointelegraph:4a2cbd652094b:0-tether-earns-1-5b-in-q2-as-us-treasury-holdings-fuel-profits/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "8534077f08d73f4547e21c49635e33a785d6629fb745ab60cf5e99b4e49493b4",
+      "title": "CointelegraphBybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
+      "url": "https://www.tradingview.com/news/cointelegraph:934550e31094b:0-bybit-adds-tokenized-nvidia-apple-tesla-stocks-as-loan-collateral/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.778Z"
+    },
+    {
+      "id": "005485c3262ec4d14756ae2d2fb7f9c88e18e10398990551bbe0e0288452c21b",
+      "title": "ReutersTether bought 14 t of gold for USDT reserves in second quarter",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N43X2L0:0-tether-bought-14-t-of-gold-for-usdt-reserves-in-second-quarter/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.779Z"
+    },
+    {
+      "id": "0d87ab2bdb3f2d65720d52cefdc542c00e4bc69a3ebb7bdcb9436051c47c04d9",
+      "title": "BenzingaQUICK SPARK: Michael Saylor Says Stop Watching Bitcoin's Price. Watch This Number Instead",
+      "url": "https://www.tradingview.com/news/benzinga:088a61b8a094b:0-quick-spark-michael-saylor-says-stop-watching-bitcoin-s-price-watch-this-number-instead/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.779Z"
+    },
+    {
+      "id": "d17d077c2c526dd94073ab17a5ac76e26f94255c19493a7beed864398c777b7a",
+      "title": "ReutersKraken Probes Issue Preventing Clients From Paying With Balance For Prop Evaluations",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN43X2NE:0-kraken-probes-issue-preventing-clients-from-paying-with-balance-for-prop-evaluations/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.779Z"
+    },
+    {
+      "id": "721910ea8c7512f523f42a100a4ef786e8cf94e9307cdadb5c18c06e5b2c0f20",
+      "title": "BenzingaSBET Price Targets Slashed to $13 on CLARITY Act Delays: TD Cowen Says ETH Will Suffer",
+      "url": "https://www.tradingview.com/news/benzinga:e5d431469094b:0-sbet-price-targets-slashed-to-13-on-clarity-act-delays-td-cowen-says-eth-will-suffer/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T17:44:41.779Z"
+    },
+    {
+      "id": "d2c4cbb5445afe8f2d5ec618db5de7947550be0d8cb847a1afdf1f72bfc114c5",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260731008134:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260731008352:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.842Z"
-    },
-    {
-      "id": "abe2508399c1d71e687caf7b883e1281b096a02d69104ebfc1469743ae989ad3",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260731008133:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.842Z"
-    },
-    {
-      "id": "575a0042b0e3de2b5c09ab6ac10e7379039bf4060c4f4dc2526213fdb80037e7",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260731007990:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.842Z"
-    },
-    {
-      "id": "721d2f76f0804942498541ace9525f597e33beb17c95498b4ee77c8172135e7e",
-      "title": "NewsBTCGranite Protocol Listing Shows Bitcoin DeFi Is Still Building On Stacks",
-      "url": "https://www.tradingview.com/news/newsbtc:abd848c74094b:0-granite-protocol-listing-shows-bitcoin-defi-is-still-building-on-stacks/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.842Z"
-    },
-    {
-      "id": "cfe56649f3e97af5658b184d044850abdb4a48be6f1a28445180fd25477d6aa6",
-      "title": "Stock StoryWhy Coinbase (COIN) Stock Is Falling Today",
-      "url": "https://www.tradingview.com/news/stockstory:8f458fc7e094b:0-why-coinbase-coin-stock-is-falling-today/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.842Z"
-    },
-    {
-      "id": "5dd6f45347239fac996c697a5de4f6be4b134764c478045122d79696ae6a4ef3",
-      "title": "The BlockUniswap launches ‘Earn’ with Morpho to let users earn yield on idle crypto assets",
-      "url": "https://www.tradingview.com/news/the_block:13536439d094b:0-uniswap-launches-earn-with-morpho-to-let-users-earn-yield-on-idle-crypto-assets/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.842Z"
-    },
-    {
-      "id": "7a985af3d800a6b6a92ca13cf7761f086e9c91afe5945f923193454396428e60",
-      "title": "BenzingaXRP ETFs Saw $5.98M Inflows on Thursday: Here's Why That Isn't Automatically Bullish",
-      "url": "https://www.tradingview.com/news/benzinga:c9327326d094b:0-xrp-etfs-saw-5-98m-inflows-on-thursday-here-s-why-that-isn-t-automatically-bullish/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.842Z"
-    },
-    {
-      "id": "76ecdd2a270a9237c131cff6f5c24a66c65203f94659364c17bf5f8f0ab63005",
-      "title": "ZacksCrypto Slump vs. Trading Boom: What Lies Ahead for Robinhood Stock?",
-      "url": "https://www.tradingview.com/news/zacks:2d45e3534094b:0-crypto-slump-vs-trading-boom-what-lies-ahead-for-robinhood-stock/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.842Z"
-    },
-    {
-      "id": "288474406188995b78826205460254efa7f38aca242e4b469aa7a07ab8b8807a",
-      "title": "BenzingaMichael Saylor Says SpaceX, Google and Meta's AI Spending Is a 'Headwind' for Bitcoin",
-      "url": "https://www.tradingview.com/news/benzinga:b1fc863f9094b:0-michael-saylor-says-spacex-google-and-meta-s-ai-spending-is-a-headwind-for-bitcoin/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.843Z"
-    },
-    {
-      "id": "31878f9c3ff243ec699096923fe9413bce7171db87eb9f9bda421feed83ad8f4",
-      "title": "The BlockEthereum’s 43-day staking queue isn’t a clean demand signal, Sygnum says",
-      "url": "https://www.tradingview.com/news/the_block:f513e9071094b:0-ethereum-s-43-day-staking-queue-isn-t-a-clean-demand-signal-sygnum-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.843Z"
-    },
-    {
-      "id": "ef8dad1af351eb548a21ae35f12b9a8fd0e8a7b997b4a72e7774bab9996c6e7c",
-      "title": "NewsBTCColdcard Security Notice Puts Bitcoin Wallet Entropy Risk Back In Focus",
-      "url": "https://www.tradingview.com/news/newsbtc:105b214f2094b:0-coldcard-security-notice-puts-bitcoin-wallet-entropy-risk-back-in-focus/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.843Z"
-    },
-    {
-      "id": "e8fbfe55444698f01c5231936954a3d2e14d17674e9a5e9f8a912d209c16ca9a",
-      "title": "CoinpediaSolana Price Consolidates Below $78 as Open Interest Declines: What’s Next for SOL?",
-      "url": "https://www.tradingview.com/news/coinpedia:a43b7cfb7094b:0-solana-price-consolidates-below-78-as-open-interest-declines-what-s-next-for-sol/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.843Z"
-    },
-    {
-      "id": "9c628dc06b2d4fe4ee5cfd6d7de9394526df6d042685626332f0efac6656e841",
-      "title": "CoinpediaBitcoin Price Today Falls Below $64K; Altcoins HYPE, ADA, PUMP Rally",
-      "url": "https://www.tradingview.com/news/coinpedia:cabb30ce8094b:0-bitcoin-price-today-falls-below-64k-altcoins-hype-ada-pump-rally/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.843Z"
-    },
-    {
-      "id": "ed13f7e6722dd9912d5fa936f2baf61d0c2016bafe9ad0483b3eebe8905b3723",
-      "title": "CoinMarketCalStacks: PoX-5 undergoes audit before mainnet launch - Q3 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:e2bd8beed094b:0-stacks-pox-5-undergoes-audit-before-mainnet-launch-q3-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.843Z"
-    },
-    {
-      "id": "951edb900bae0bc60b5b80b31fc8697e0a62e09901bfc8e6024a3f8437d810eb",
-      "title": "CoinMarketCalCOTI: Privacy-on-Demand rolls out cross-chain privacy - 31 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:9df964d71094b:0-coti-privacy-on-demand-rolls-out-cross-chain-privacy-31-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.843Z"
-    },
-    {
-      "id": "79c6d4f9b77555b8f726d7cfcade7ca49e39b9f8c69ca2a0742c471912e4f846",
-      "title": "CoinMarketCalZilliqa: Retires Legacy Network Through Zilliqa EVM Migration - 31 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:c217d514a094b:0-zilliqa-retires-legacy-network-through-zilliqa-evm-migration-31-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T15:48:56.843Z"
+      "scraped_at": "2026-07-31T17:44:41.779Z"
     }
   ]
 }
