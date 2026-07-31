@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-31T05:18:10.339Z",
+  "generated_at": "2026-07-31T08:21:18.816Z",
   "total": 15,
   "items": [
+    {
+      "id": "dcf983ae8397e91cc92a5e64c4d2656c60c723d7225eb55af1812ff6aa3ff99b",
+      "title": "CoinMarketCalAster: Aster Vault opens to all - 31 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:8eb593c3a094b:0-aster-aster-vault-opens-to-all-31-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.813Z"
+    },
+    {
+      "id": "0046ff156c654b036f8d981cf9425970068e37db1b1a4d39cb014fa207523f3a",
+      "title": "CoinMarketCalMorpho: Vault access expands through Bitget and Bitget Wallet - 31 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:83ae688ab094b:0-morpho-vault-access-expands-through-bitget-and-bitget-wallet-31-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.813Z"
+    },
+    {
+      "id": "629a139571af99ba0f0dfcd9354a7c676311f9f94eaea118224714895bdea93a",
+      "title": "CoinMarketCalConflux: Upbit opens CFX trading in KRW, BTC, and USDT markets - By 31 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:847ba31d4094b:0-conflux-upbit-opens-cfx-trading-in-krw-btc-and-usdt-markets-by-31-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.814Z"
+    },
+    {
+      "id": "249da3c0dc4c5f56881fccab4bd8b838d03a28b1d91e0da7b79bf14b9f4a6718",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260731002443:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.814Z"
+    },
+    {
+      "id": "7c19a9272defe549340920dd886aba1aa0e2766e9fcb567e108fd3c5271b6002",
+      "title": "BeincryptoColdcard Bitcoin Theft Ongoing: Is Your Wallet Affected?",
+      "url": "https://www.tradingview.com/news/beincrypto:a2091c5f4094b:0-coldcard-bitcoin-theft-ongoing-is-your-wallet-affected/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.814Z"
+    },
+    {
+      "id": "715b1ef038230e429d30fd2383c5efa194210d0770659af0e68efb583bdba1c3",
+      "title": "CointelegraphBitcoin ETFs post $233M inflows, pushing week back into the green",
+      "url": "https://www.tradingview.com/news/cointelegraph:cc2bc6757094b:0-bitcoin-etfs-post-233m-inflows-pushing-week-back-into-the-green/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.814Z"
+    },
+    {
+      "id": "c46e7f8dc9d3b2d64aa02b5249e2dbb6c02c90cd0318d19f4ee47b8d8562a30a",
+      "title": "BeincryptoFake XRP Staking Scheme Stole $19 Million: Three Suspects Arrested",
+      "url": "https://www.tradingview.com/news/beincrypto:b7e71e786094b:0-fake-xrp-staking-scheme-stole-19-million-three-suspects-arrested/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.814Z"
+    },
+    {
+      "id": "e796f07204d9d1cc1a5699870a159099b28b9e61592171f86cf52846926d8336",
+      "title": "BenzingaPavel Durov Says Russia Branded Him a 'Terrorist' After He Rejected 'Mass Surveillance' on Telegram— GRAM Token Drops",
+      "url": "https://www.tradingview.com/news/benzinga:be124fdac094b:0-pavel-durov-says-russia-branded-him-a-terrorist-after-he-rejected-mass-surveillance-on-telegram-gram-token-drops/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.814Z"
+    },
+    {
+      "id": "9b04eeb04147a0f55eb788f1f831b96968402984512961d6de9b8a18a727dffb",
+      "title": "London Stock ExchangeREG - KR1 PLC - Infrastructure Income & Holdings (June ‘26)",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-07-31:newsml_RSe6479Oa:0-reg-kr1-plc-infrastructure-income-holdings-june-26/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.814Z"
+    },
+    {
+      "id": "761e769d103b11c16dc2f0ae52dca2c79f0fbee8c8bc44d708ce32e1dc8ef7cd",
+      "title": "London Stock ExchangeREG - Africa Bitcoin Corp - Application for Admission to Aquis Growth Market",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-07-31:newsml_RSe6312Oa:0-reg-africa-bitcoin-corp-application-for-admission-to-aquis-growth-market/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.814Z"
+    },
     {
       "id": "d439927ae5c1577c5b5ecd5ad9d21abadedd02e1201ed6ec9a0d2c4ddbb53beb",
       "title": "Crypto BriefingAnthropic reports its AI models breached three organizations during cybersecurity tests",
       "url": "https://www.tradingview.com/news/cryptobriefing:fef4720b4094b:0-anthropic-reports-its-ai-models-breached-three-organizations-during-cybersecurity-tests/",
       "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
+      "scraped_at": "2026-07-31T08:21:18.814Z"
+    },
+    {
+      "id": "7f09493d25999faf5fb5e8b489be06ed50f4bbae92b34166af9afd59e66af596",
+      "title": "BeincryptoETH/BTC Ratio Hits 3-Month High: But Don’t Count on Altcoin Season Yet",
+      "url": "https://www.tradingview.com/news/beincrypto:e0cd86b2f094b:0-eth-btc-ratio-hits-3-month-high-but-don-t-count-on-altcoin-season-yet/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T08:21:18.814Z"
     },
     {
       "id": "9e2c815db027f8c5c15849e8d1985575e7cf98c9fd1277d29762f172bac73398",
       "title": "CoinMarketCalAtoshi: Mainnet launch makes miners eligible for distribution - Q3 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:282bea590094b:0-atoshi-mainnet-launch-makes-miners-eligible-for-distribution-q3-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
+      "scraped_at": "2026-07-31T08:21:18.814Z"
     },
     {
       "id": "632a751eb1e66342c956f40423c367a0461cbcca4d57d09e3b7c7947696fc8fe",
       "title": "CoinMarketCalMultiversX: Mainnet v1.11.10.0 upgrades VM operations - 06 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:532f7c5df094b:0-multiversx-mainnet-v1-11-10-0-upgrades-vm-operations-06-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
+      "scraped_at": "2026-07-31T08:21:18.814Z"
     },
     {
       "id": "06c1537578b810a19abf7cd667f57bafb7ecb559c78dc8cb3ecaeedbab6ea476",
       "title": "CoinMarketCalCap: CAP goes live on Bitunix Spot - 31 Jul 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:34e1ad066094b:0-cap-cap-goes-live-on-bitunix-spot-31-jul-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "50aa089e9f7abb3955b9198a0b0df8d7102017ca8dd7807b86522e17178600b8",
-      "title": "CointelegraphCrypto’s next altseason may have fewer winners: Wintermute",
-      "url": "https://www.tradingview.com/news/cointelegraph:289f11889094b:0-crypto-s-next-altseason-may-have-fewer-winners-wintermute/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "fd001b0b985461f9f396a1e3372ad7d74546b99030e6617d798ee99040eb1713",
-      "title": "BenzingaElizabeth Warren Highlights Survey Indicating 55% of Voters 'Disapprove' of Trump's Billion-Dollar Crypto Earnings",
-      "url": "https://www.tradingview.com/news/benzinga:ab9853363094b:0-elizabeth-warren-highlights-survey-indicating-55-of-voters-disapprove-of-trump-s-billion-dollar-crypto-earnings/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "cda6aa4f21c5bc11fa944f8a21112104523aee8d92389499a2bd41e1d2151192",
-      "title": "The Block‘Funds may be at risk’: Coinkite issues warning for Coldcard Mk3 users amid 594 BTC theft reports",
-      "url": "https://www.tradingview.com/news/the_block:10798b242094b:0-funds-may-be-at-risk-coinkite-issues-warning-for-coldcard-mk3-users-amid-594-btc-theft-reports/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "33f34e1ef353c04aa11cc3c635ff8f250d2bbdc119cbe600dc987840a5187feb",
-      "title": "CointelegraphColdcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
-      "url": "https://www.tradingview.com/news/cointelegraph:43ee49822094b:0-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "d319707284fbf34b156cbabefe429765712192216b0cd9e0efb598fdca53d9d0",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260730019550:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "963b162c83fd3064131615e0897df374b33da956d50de68efdf90657dd894070",
-      "title": "BenzingaBitcoin, Ethereum Spike, XRP and Dogecoin Climb Amid Sharp Crypto Recovery: Analyst Says 'Don't Fear' BTC Dropping to $60,000",
-      "url": "https://www.tradingview.com/news/benzinga:364b89e6c094b:0-bitcoin-ethereum-spike-xrp-and-dogecoin-climb-amid-sharp-crypto-recovery-analyst-says-don-t-fear-btc-dropping-to-60-000/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "eb9167287beadca4dee66287c7a74dff3c96ed7b0a17cf699dd5f116417bc9b0",
-      "title": "CoinMarketCalPendle: Enables deposits into Alchemix Mix-Yield Tokens - 31 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:3ab91c029094b:0-pendle-enables-deposits-into-alchemix-mix-yield-tokens-31-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "d11e6a4da48e9cb7d6b13f17ee9b66b0e1d30457df0c86022769064dd96cc1eb",
-      "title": "CoinMarketCalApeCoin: ApeChain migrates its stablecoin to USDC - 31 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:033033d63094b:0-apecoin-apechain-migrates-its-stablecoin-to-usdc-31-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "c59ba7cb54288e0a60b17c3fd3b99f79865cf2f4d67f01c19a2150949958f182",
-      "title": "CoinpediaCrypto Regulation Sparks Crime: IRS Issues Phishing Warning, Lummis Gets Hacked",
-      "url": "https://www.tradingview.com/news/coinpedia:2a5b18ef5094b:0-crypto-regulation-sparks-crime-irs-issues-phishing-warning-lummis-gets-hacked/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "119346d8baa67f7114843405a1a5edf5d864aac796be15d8d36108dbf0d54287",
-      "title": "Binance NewsMetronomeDAO Reports msUSD Depeg and Collateral Shortfall on Ethereum, Base, and Optimism",
-      "url": "https://www.tradingview.com/news/binance_news:ac1f759f3094b:0-metronomedao-reports-msusd-depeg-and-collateral-shortfall-on-ethereum-base-and-optimism/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
-    },
-    {
-      "id": "d74196010f779a32b34dcdf52b2613963ccee34445971be3d0b87e2f00e5a541",
-      "title": "Binance NewsENS DAO Community Proposes Empowering ENS Foundation With Full-Time Operations",
-      "url": "https://www.tradingview.com/news/binance_news:a3fb49dbd094b:0-ens-dao-community-proposes-empowering-ens-foundation-with-full-time-operations/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T05:18:10.336Z"
+      "scraped_at": "2026-07-31T08:21:18.814Z"
     }
   ]
 }
