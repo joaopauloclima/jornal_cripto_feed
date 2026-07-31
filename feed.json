@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-07-31T18:59:33.733Z",
+  "generated_at": "2026-07-31T20:26:14.483Z",
   "total": 15,
   "items": [
+    {
+      "id": "0db9370335d64a1948fad4daf97d34c706574314d3c3517d8e8d030a46fc37d6",
+      "title": "The BlockBitcoin losses linked to Coldcard vulnerability grows to $70 million, Galaxy Research says",
+      "url": "https://www.tradingview.com/news/the_block:9feb6716c094b:0-bitcoin-losses-linked-to-coldcard-vulnerability-grows-to-70-million-galaxy-research-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.477Z"
+    },
+    {
+      "id": "84f8e3075d0099c815b90a41ab98335066eaa1d67bff65c968e43d9f66ec841e",
+      "title": "CointelegraphBank of Italy finds no consistent cost advantage for stablecoin remittances",
+      "url": "https://www.tradingview.com/news/cointelegraph:38d48ded3094b:0-bank-of-italy-finds-no-consistent-cost-advantage-for-stablecoin-remittances/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.477Z"
+    },
+    {
+      "id": "0c9a0864e9ebb113de7c80925c2f62b1e32c4478a4ad9d2925a5efc07f0b41d3",
+      "title": "CoinMarketCalGeodnet: Crypto.com App lists GEOD - 31 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b45338e7f094b:0-geodnet-crypto-com-app-lists-geod-31-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.477Z"
+    },
+    {
+      "id": "41b6ef9e4c8619f70806b14f271fee51d33aefbd8ea75478978b5da4bc2495d6",
+      "title": "TCoinMarketCalThe Innovation Game: Prometheus Swarm goes live - 31 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:0c682b3e6094b:0-the-innovation-game-prometheus-swarm-goes-live-31-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.477Z"
+    },
+    {
+      "id": "1345991c0c6ea0514bba9c53b0e59c9b14234a1d77d9eb870e57a396ebcf64b7",
+      "title": "CoinMarketCalStacks: PoX-5 activates Bitcoin staking infrastructure - 31 Jul 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b85c22797094b:0-stacks-pox-5-activates-bitcoin-staking-infrastructure-31-jul-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.478Z"
+    },
+    {
+      "id": "9e37e33d8246b7e23273a5ca37ad0bed972df79f55aefc11974b5c162bbcb1c2",
+      "title": "NewsBTCENS Labs Scales Back Treasury Proposal After Delegate Pushback",
+      "url": "https://www.tradingview.com/news/newsbtc:cb3b15a7c094b:0-ens-labs-scales-back-treasury-proposal-after-delegate-pushback/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.478Z"
+    },
+    {
+      "id": "bca77de10bfcec9d89a3297bfc8a3be842c27d73b956c13ea55505b10313dd69",
+      "title": "The BlockCoinbase’s Q2 miss sparks split on Wall Street, analysts debate growth beyond crypto trading",
+      "url": "https://www.tradingview.com/news/the_block:e943ba084094b:0-coinbase-s-q2-miss-sparks-split-on-wall-street-analysts-debate-growth-beyond-crypto-trading/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.478Z"
+    },
+    {
+      "id": "c9cb76527ece4550c6c1411a0191cccc5b252e60675e231865716b0ecc7eb3bb",
+      "title": "CointelegraphPump.fun laid off workers before they received millions in PUMP tokens: Report",
+      "url": "https://www.tradingview.com/news/cointelegraph:30c5819c2094b:0-pump-fun-laid-off-workers-before-they-received-millions-in-pump-tokens-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.478Z"
+    },
+    {
+      "id": "3ff496d2267a82e952a85cfe91bd3fecb8797b3872fb98201d9e91a0d53a73c4",
+      "title": "GuruFocusCoinbase Stock Plunges 11.8% After Third Consecutive Loss",
+      "url": "https://www.tradingview.com/news/gurufocus:7975a2c82094b:0-coinbase-stock-plunges-11-8-after-third-consecutive-loss/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.478Z"
+    },
+    {
+      "id": "4f82c8b6a23c93b9e37361f6a348a4ae0bde407be449ac28fd0696f3dc9f2937",
+      "title": "NewsBTCUniswap Fee Switch Activation Puts UNI Burn Mechanics Back In Focus",
+      "url": "https://www.tradingview.com/news/newsbtc:481abe54c094b:0-uniswap-fee-switch-activation-puts-uni-burn-mechanics-back-in-focus/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.478Z"
+    },
+    {
+      "id": "c4a9c7bd6de1d0ae4d6175eb3dddf37a8cab7b19232fec554dc50383f07b6187",
+      "title": "CoinpediaHyperliquid Launches HIP-4 Testnet as HYPE Price Tests $53",
+      "url": "https://www.tradingview.com/news/coinpedia:2f4ccc8f5094b:0-hyperliquid-launches-hip-4-testnet-as-hype-price-tests-53/",
+      "source": "tradingview",
+      "scraped_at": "2026-07-31T20:26:14.479Z"
+    },
     {
       "id": "ac5021558aff459514de343e51aa34efc6e1a0b582d8f9b5f9b332071bff1f13",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260731009477:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.725Z"
+      "scraped_at": "2026-07-31T20:26:14.479Z"
     },
     {
       "id": "c2bdcc92a66bf9ea9fb708450bf4cf3230780d4e901fe710285c707385da6dda",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260731009359:0/",
       "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.725Z"
+      "scraped_at": "2026-07-31T20:26:14.479Z"
     },
     {
-      "id": "93155ef4a908965494ff72fec81f44636e3613bba25fc2fc0d25fa17c89e1965",
-      "title": "NewsBTCCleanCore’s $800M AI Contract Shows Dogecoin Treasury Firms Are Changing Shape",
-      "url": "https://www.tradingview.com/news/newsbtc:ec0e2c786094b:0-cleancore-s-800m-ai-contract-shows-dogecoin-treasury-firms-are-changing-shape/",
+      "id": "f6ad848fe23b99db5d58ef5e803b3482f9f6bf7f804e9b5222537261eb462efb",
+      "title": "BenzingaBitcoin Stuck at $63,000, Ethereum, XRP, Dogecoin Down up to 2% on Weak Friday",
+      "url": "https://www.tradingview.com/news/benzinga:bd1d6b5a8094b:0-bitcoin-stuck-at-63-000-ethereum-xrp-dogecoin-down-up-to-2-on-weak-friday/",
       "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.725Z"
+      "scraped_at": "2026-07-31T20:26:14.479Z"
     },
     {
-      "id": "f73b5c0e066660d7b03cd7a1fcf43eac01377306d8da3fcb27f06defdd20916f",
-      "title": "IBeincryptoBlackRock Bitcoin Buying Rebounds as ETF Investors Sit 22% Underwater",
-      "url": "https://www.tradingview.com/news/beincrypto:81005b3c9094b:0-blackrock-bitcoin-buying-rebounds-as-etf-investors-sit-22-underwater/",
+      "id": "6ddffb0d1115147e40106b08642d5197ca36822cda115376653ea1d416819688",
+      "title": "CoinpediaTAO Price Holds Key Demand Zone as Bittensor Gears Up for September Exploit Summit",
+      "url": "https://www.tradingview.com/news/coinpedia:8f2b6afc3094b:0-tao-price-holds-key-demand-zone-as-bittensor-gears-up-for-september-exploit-summit/",
       "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.725Z"
-    },
-    {
-      "id": "7addec8bcc39b781f53dca5f3946734baa9f78dc61142ceb17a31e23b557c190",
-      "title": "BeincryptoConsensus Is the Last Middleman: The Case for Quantum Money",
-      "url": "https://www.tradingview.com/news/beincrypto:b585855ed094b:0-consensus-is-the-last-middleman-the-case-for-quantum-money/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.725Z"
-    },
-    {
-      "id": "8d179f0acfb66ba51d82e71bf132b66adcc754f62204d9531f75374b9084992d",
-      "title": "The BlockTether’s excess reserves fall by more than $4 billion amid weaker Q2 financial results",
-      "url": "https://www.tradingview.com/news/the_block:f5bb3a595094b:0-tether-s-excess-reserves-fall-by-more-than-4-billion-amid-weaker-q2-financial-results/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.725Z"
-    },
-    {
-      "id": "e061c93a8fca9601c9c9aa54da079ccb0fe63cd952efefd9dbabdfcefa30c881",
-      "title": "BenzingaRay Dalio Owns 1% in Bitcoin as 'Money That You Can’t Print' but 'Prefers the Gold Bars'",
-      "url": "https://www.tradingview.com/news/benzinga:8549734d9094b:0-ray-dalio-owns-1-in-bitcoin-as-money-that-you-can-t-print-but-prefers-the-gold-bars/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.725Z"
-    },
-    {
-      "id": "409ac96df478c1862c04df7a6b306aa0cebf809009e9f592b3691bbe9d234343",
-      "title": "NewsBTCKansai Electric Rewards App Opens JPYC Stablecoin Conversion On Polygon",
-      "url": "https://www.tradingview.com/news/newsbtc:6ccde4ee9094b:0-kansai-electric-rewards-app-opens-jpyc-stablecoin-conversion-on-polygon/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.725Z"
-    },
-    {
-      "id": "a829d091f8bd9c93dfcfc4c8ea7199cfb802a1085e6078267691604b8c559a7a",
-      "title": "CoinpediaFIL Price Hits All-Time Low as Filecoin Network Activity Shows Signs of Recovery",
-      "url": "https://www.tradingview.com/news/coinpedia:204a6f5f5094b:0-fil-price-hits-all-time-low-as-filecoin-network-activity-shows-signs-of-recovery/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.726Z"
-    },
-    {
-      "id": "ada607e5702f42270e63521bead66795f696b5854ca4165b27ba18c7509eda3f",
-      "title": "GuruFocusCoinbase Stock Tumbles 10% After Wider Loss and Weak Q3 Outlook",
-      "url": "https://www.tradingview.com/news/gurufocus:1fd30ff8b094b:0-coinbase-stock-tumbles-10-after-wider-loss-and-weak-q3-outlook/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.726Z"
-    },
-    {
-      "id": "4c6455eb9043d2df8f48af69a1522746b1ce644ca7da97a69ce22b0b4c0b965a",
-      "title": "CoinMarketCalHedera: Asseto Access provides institutional tokenization environments - 31 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:a4ec940ca094b:0-hedera-asseto-access-provides-institutional-tokenization-environments-31-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.726Z"
-    },
-    {
-      "id": "29dbe7431b573329ad306191470904345dbb452a2e0ec7f61077df6a35a2efb3",
-      "title": "CoinMarketCalAvantis: V2 expands RWA access and introduces zero-commission trading - 12 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:2a86cb8cd094b:0-avantis-v2-expands-rwa-access-and-introduces-zero-commission-trading-12-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.726Z"
-    },
-    {
-      "id": "3d448474f3e895db86fb1b7c83362a97b176b10469aac5bf7ff901fbabd223e6",
-      "title": "CoinMarketCalSei: Ares becomes default as Eidos begins Giga mainnet upgrade - 31 Jul 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:6c4ef5e0e094b:0-sei-ares-becomes-default-as-eidos-begins-giga-mainnet-upgrade-31-jul-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.726Z"
-    },
-    {
-      "id": "856b20ec6e943d911bafaa7217c8a349f1275d7d044cd8b4188ab2873e268b81",
-      "title": "CointelegraphEx-FTX users report funds being released in $900M distribution round",
-      "url": "https://www.tradingview.com/news/cointelegraph:2bbb81e9f094b:0-ex-ftx-users-report-funds-being-released-in-900m-distribution-round/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.726Z"
-    },
-    {
-      "id": "456fee55acb6870f09a07b5dbbbc97cc9a8922f9c86b87f1d6841a899e86ff56",
-      "title": "The BlockWorld Cup 2026 prediction markets topped $20 billion, with Ronaldo tears among the biggest wagers",
-      "url": "https://www.tradingview.com/news/the_block:b6b50c7b6094b:0-world-cup-2026-prediction-markets-topped-20-billion-with-ronaldo-tears-among-the-biggest-wagers/",
-      "source": "tradingview",
-      "scraped_at": "2026-07-31T18:59:33.726Z"
+      "scraped_at": "2026-07-31T20:26:14.479Z"
     }
   ]
 }
