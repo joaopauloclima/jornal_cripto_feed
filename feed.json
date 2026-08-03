@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-03T17:28:54.534Z",
+  "generated_at": "2026-08-03T19:10:30.742Z",
   "total": 15,
   "items": [
+    {
+      "id": "e829ac53114de3d5fc45910f4057b451db9a27ddb8d596049b72847f40bd0fdf",
+      "title": "The BlockFBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans",
+      "url": "https://www.tradingview.com/news/the_block:4cff7b78e094b:0-fbi-agent-accused-of-stealing-1-million-in-crypto-allegedly-turned-to-chatgpt-for-vacation-plans/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-03T19:10:30.739Z"
+    },
+    {
+      "id": "4c573463d1fa064f523110cc194d9f69cd50060a9cbe6bf83a40b2056d7a7f98",
+      "title": "The BlockKalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit",
+      "url": "https://www.tradingview.com/news/the_block:a4c79f653094b:0-kalshi-ceo-invokes-nasdaq-uber-and-airbnb-in-defense-against-new-york-lawsuit/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-03T19:10:30.739Z"
+    },
+    {
+      "id": "d9ca2ff262d91968d69b9ea5061d7922dcd7baa50e48f3d21f66043776b001a2",
+      "title": "The BlockProof of Attendance Protocol is shutting down after 5+ years",
+      "url": "https://www.tradingview.com/news/the_block:100b8503d094b:0-proof-of-attendance-protocol-is-shutting-down-after-5-years/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-03T19:10:30.739Z"
+    },
+    {
+      "id": "05475596ec7daac3d8a4967a1106f86b61a911dc955fa7d8b73b2a5fd37e83a3",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260803007331:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-03T19:10:30.739Z"
+    },
+    {
+      "id": "502b2ab76ff4ac22002adae1a57dd49ee4eff26599718e79b9a779b6c45a000e",
+      "title": "ZacksCipher Digital Gears Up to Report Q2 Earnings: What's in Store?",
+      "url": "https://www.tradingview.com/news/zacks:91e8c879f094b:0-cipher-digital-gears-up-to-report-q2-earnings-what-s-in-store/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-03T19:10:30.739Z"
+    },
+    {
+      "id": "29abfe9b34f1e9434d75b267d4c539ca845fba609f909841d3d873b8df28c9aa",
+      "title": "The BlockBlackRock launches two tokenized money market funds for stablecoin reserves",
+      "url": "https://www.tradingview.com/news/the_block:7c21d5ca3094b:0-blackrock-launches-two-tokenized-money-market-funds-for-stablecoin-reserves/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-03T19:10:30.739Z"
+    },
+    {
+      "id": "d752524d30600aaf98516b7355365db97549636e3ccbba3f53b47cb73b7b46c4",
+      "title": "SStocktwitsBlackRock Rolls Out Two Tokenized Funds, Aims To Become Stablecoin Reserve Manager Ahead Of CLARITY Act",
+      "url": "https://www.tradingview.com/news/stocktwits:66c839a0b094b:0-blackrock-rolls-out-two-tokenized-funds-aims-to-become-stablecoin-reserve-manager-ahead-of-clarity-act/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-03T19:10:30.739Z"
+    },
     {
       "id": "b9c19d493439b653645397363ee327de9bebde3e54fbf34a3a95fd8e13750313",
       "title": "ReutersRuihe Data Technology Receives 32.73 Bitcoins As Mining Rewards Valued At $2.71 MLN",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4400TJ:0-ruihe-data-technology-receives-32-73-bitcoins-as-mining-rewards-valued-at-2-71-mln/",
       "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
+      "scraped_at": "2026-08-03T19:10:30.739Z"
     },
     {
       "id": "f2319793af19a10636c02d414208814176d5863664486ff1bb14b53b043b79f2",
       "title": "CoinMarketCalHyperliquid: TWAP orders support expanded execution controls - 03 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:319b9ea19094b:0-hyperliquid-twap-orders-support-expanded-execution-controls-03-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
+      "scraped_at": "2026-08-03T19:10:30.739Z"
     },
     {
       "id": "dec1ee3290a8af88b8c1b6a9acc1c5ee30406d578545cc1857240025d6637648",
       "title": "CoinMarketCalCardano: IBC testnet connection enables cross-ecosystem asset use - 03 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:102e3aa4a094b:0-cardano-ibc-testnet-connection-enables-cross-ecosystem-asset-use-03-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
+      "scraped_at": "2026-08-03T19:10:30.739Z"
     },
     {
       "id": "3a11384e6844418e0a6aadb05b3ad3bd479b6f3084d2313461e93d15298397a4",
       "title": "CoinMarketCalEthereum: Glamsterdam upgrade lands - Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:ee6d1f699094b:0-ethereum-glamsterdam-upgrade-lands-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
+      "scraped_at": "2026-08-03T19:10:30.739Z"
     },
     {
       "id": "5f298ff899f30a64e9b2232014581696675b60013e4e1b065febe2685eb6036a",
       "title": "The BlockJameson Lopp says Coldcard exploit exposes limits of Bitcoin’s ‘don’t trust, verify’ mantra",
       "url": "https://www.tradingview.com/news/the_block:77e5d61b0094b:0-jameson-lopp-says-coldcard-exploit-exposes-limits-of-bitcoin-s-don-t-trust-verify-mantra/",
       "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
+      "scraped_at": "2026-08-03T19:10:30.739Z"
     },
     {
       "id": "a8ccdfed018675c1c21e5d86639e09a0f6552b38fda26e1c50106925f5672102",
       "title": "The BlockMichael Saylor says he’s never sold his personal bitcoin after Strategy dumps more BTC",
       "url": "https://www.tradingview.com/news/the_block:b315f1b30094b:0-michael-saylor-says-he-s-never-sold-his-personal-bitcoin-after-strategy-dumps-more-btc/",
       "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
+      "scraped_at": "2026-08-03T19:10:30.739Z"
     },
     {
       "id": "fccdaa223483c3c918732b4105f9dec58e5718cef1eebd0f2af047c120bfc6ef",
       "title": "CointelegraphKenya moves 30 million academic credentials onto Avalanche blockchain",
       "url": "https://www.tradingview.com/news/cointelegraph:021ef966f094b:0-kenya-moves-30-million-academic-credentials-onto-avalanche-blockchain/",
       "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
+      "scraped_at": "2026-08-03T19:10:30.739Z"
     },
     {
       "id": "fa59e0de4d66ed7a45956ee886b537e4628eba742356eeab20895adedff2c5bc",
       "title": "StocktwitsWULF, CORZ, CLSK Stocks Get A Thumbs Up From B. Riley – MSTR Sees A Price Target Cut",
       "url": "https://www.tradingview.com/news/stocktwits:e10074ba9094b:0-wulf-corz-clsk-stocks-get-a-thumbs-up-from-b-riley-mstr-sees-a-price-target-cut/",
       "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
-    },
-    {
-      "id": "872e6d7d7ef7cdef086651fe041e3913c093376ccd719dcac112c4429167404b",
-      "title": "GuruFocusStrategy Sells Bitcoin and Stock in the Same Week",
-      "url": "https://www.tradingview.com/news/gurufocus:f6e07ccaf094b:0-strategy-sells-bitcoin-and-stock-in-the-same-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
-    },
-    {
-      "id": "cbae6e0bfbf39a037f4014718f82d720b37cca726f75c858c8220400e2006391",
-      "title": "Binance NewsHyperliquid HIP-3 March Trading Volume Reaches Record $111.75 Billion",
-      "url": "https://www.tradingview.com/news/binance_news:dbfc1861e094b:0-hyperliquid-hip-3-march-trading-volume-reaches-record-111-75-billion/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
-    },
-    {
-      "id": "d24335c749787207699734ae581893b14e07505507c8459a7a7f372ecdfb698b",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260803006534:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
-    },
-    {
-      "id": "7fe223e4a82e24a2de072eec077f073b09cb9ff61bb04dba46a416c6c18b6d7b",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:2850fff56094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
-    },
-    {
-      "id": "4385f4203623f6cb91adcbdc6b4d1e698fcca59aa3b053ca6cc8b9503c56fc71",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260803005583:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
-    },
-    {
-      "id": "e06104c02d723422c476a78ae89830c22359930bffd8f3e0b846e14be8ea24e9",
-      "title": "Binance NewsFalconX Cuts 10% of Staff Amid Prolonged Crypto Slump",
-      "url": "https://www.tradingview.com/news/binance_news:425bb90f0094b:0-falconx-cuts-10-of-staff-amid-prolonged-crypto-slump/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
-    },
-    {
-      "id": "f2f9ce6530d5219f2c91d54f4d08a571d384b03f42d677ceb4a3c78cb0b980ab",
-      "title": "dpa-AFXTech Strength Boosts Crypto Market Sentiment",
-      "url": "https://www.tradingview.com/news/dpa_afx:004fd1e6edf2e:0-tech-strength-boosts-crypto-market-sentiment/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-03T17:28:54.527Z"
+      "scraped_at": "2026-08-03T19:10:30.739Z"
     }
   ]
 }
