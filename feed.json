@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-08-04T16:31:53.665Z",
-  "total": 16,
+  "generated_at": "2026-08-04T18:18:19.142Z",
+  "total": 15,
   "items": [
     {
-      "id": "f9462e7b1d69374d0f093241a887f7996de41954f0a7b1d6bafddede547c0b55",
+      "id": "9e95c221463781be22aae63f2c651a1a82047cd18d65c980ae3522b23077f268",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260804008960:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260804009461:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
+      "scraped_at": "2026-08-04T18:18:19.138Z"
     },
     {
-      "id": "337ee629207a7731e1e525eaf07351f290e2321eb36f628be31e79a1cf3fc860",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260804008961:0/",
+      "id": "127189a49929d18b24e2798bc0e2837f84ae1ec2923e470546acc7e1750ecd54",
+      "title": "ZacksCoinbase vs. CME Group: Which Crypto Stock Is the Better Buy Now?",
+      "url": "https://www.tradingview.com/news/zacks:de2db9272094b:0-coinbase-vs-cme-group-which-crypto-stock-is-the-better-buy-now/",
       "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
+      "scraped_at": "2026-08-04T18:18:19.138Z"
+    },
+    {
+      "id": "ed42be4e64b34f6405d826692c843539d42a6c6bcb0790878c79f48b5d782b60",
+      "title": "The BlockSenators seek SEC probe of President Trump’s memecoin as crypto bill enters into a pivotal week",
+      "url": "https://www.tradingview.com/news/the_block:c254347ac094b:0-senators-seek-sec-probe-of-president-trump-s-memecoin-as-crypto-bill-enters-into-a-pivotal-week/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.138Z"
+    },
+    {
+      "id": "35144492246da991bd03d288d2b2ba63458ca0c986044f08f04752f613083f5f",
+      "title": "CointelegraphBNY to offer institutional crypto staking through Galaxy partnership",
+      "url": "https://www.tradingview.com/news/cointelegraph:88b51a293094b:0-bny-to-offer-institutional-crypto-staking-through-galaxy-partnership/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.138Z"
+    },
+    {
+      "id": "2a659f26c5aabe53a1e4af186126813b85b926efac2418decb6ffdd2f581d6c1",
+      "title": "CoinMarketCalChainlink: BitGo migrates WBTC to CCIP - 04 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:4159a2691094b:0-chainlink-bitgo-migrates-wbtc-to-ccip-04-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.138Z"
+    },
+    {
+      "id": "7a3a26efe939b7e09f1416cc8e1faa5df8f40b287a4d4e3b0203e685c11ef510",
+      "title": "CoinMarketCalQubic: QubicPay makes QUBIC spendable across 50 million merchants - 06 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b663f2d5a094b:0-qubic-qubicpay-makes-qubic-spendable-across-50-million-merchants-06-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.138Z"
+    },
+    {
+      "id": "d831dd725573d90d142e7f7e879f777ef9472ac5109816742c68f5de896bc2e3",
+      "title": "The BlockRobinhood shrugs off crypto slump as Coinbase activity remains tied to trading cycle",
+      "url": "https://www.tradingview.com/news/the_block:775e4dc41094b:0-robinhood-shrugs-off-crypto-slump-as-coinbase-activity-remains-tied-to-trading-cycle/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.138Z"
+    },
+    {
+      "id": "fb1c3c599d9b7ace031b4d5578f8c5d399b6f54b93b79c9d7380dfa9f1086849",
+      "title": "BenzingaXRP Holders Can Use Tokens as Collateral for RLUSD Loans on Ethereum",
+      "url": "https://www.tradingview.com/news/benzinga:ad807e207094b:0-xrp-holders-can-use-tokens-as-collateral-for-rlusd-loans-on-ethereum/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.138Z"
+    },
+    {
+      "id": "9deb5812d3e0cadbf6b209eb62fae7ffffd66822b19837819005f2f8c6584e92",
+      "title": "BenzingaWells Fargo Joins JPMorgan, Citi In Race To Tokenize Wall Street",
+      "url": "https://www.tradingview.com/news/benzinga:e9e0fca0d094b:0-wells-fargo-joins-jpmorgan-citi-in-race-to-tokenize-wall-street/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.138Z"
+    },
+    {
+      "id": "d161e3a74f9a8039945c3df3da64b4f5c209b35cd15826479fb600320c0d0951",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260804009080:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.139Z"
+    },
+    {
+      "id": "f2ebf572eafc76b49c2a20d80648d970b3bea770873768154c033963a30b758c",
+      "title": "CointelegraphBitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
+      "url": "https://www.tradingview.com/news/cointelegraph:cc5d03048094b:0-bitcoin-coils-at-64k-as-hormuz-reopening-timeline-sends-s-p-500-to-70t-record/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.139Z"
     },
     {
       "id": "a4de3f02fbda6332777f61c2d5583abba6f7ab1a723bfe1f010461e793417dda",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260804008959:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
+      "scraped_at": "2026-08-04T18:18:19.139Z"
+    },
+    {
+      "id": "4b3f7994bb9a7f048e1607eaba99c619786e4a4172d33283c90c4ada6d931510",
+      "title": "BenzingaHut 8 Stock Drops Following Q2 Results: What Investors Need to Know",
+      "url": "https://www.tradingview.com/news/benzinga:e69330815094b:0-hut-8-stock-drops-following-q2-results-what-investors-need-to-know/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-04T18:18:19.139Z"
     },
     {
       "id": "9965a55f3f0f4b4284cd746652241db9dca3376a8fb2de9b5e8f1e9fe50db617",
       "title": "ChainwireCasper and AmericanFortress Partner on Quantum-Safe, Compliant Privacy for Regulated Real-World Assets",
       "url": "https://www.tradingview.com/news/chainwire:5fc18f4af094b:0-casper-and-americanfortress-partner-on-quantum-safe-compliant-privacy-for-regulated-real-world-assets/",
       "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
+      "scraped_at": "2026-08-04T18:18:19.139Z"
     },
     {
       "id": "618285f72c2bdae231830abf7124b73f6effd3ed65333e86c5687d2a1a13c9e8",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260804008698:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "7e085f35fdf608da0cb871a925ff2e92d7af8450991b298955e04d5e387763ce",
-      "title": "CointelegraphBitdeer expands AI infrastructure with long-term $4.7B data center lease",
-      "url": "https://www.tradingview.com/news/cointelegraph:8f30563fd094b:0-bitdeer-expands-ai-infrastructure-with-long-term-4-7b-data-center-lease/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "7b101b8f34aa3ddb83a3fc5154530315419ec2ef21a4eb257abd66efe93f92d4",
-      "title": "BeincryptoA New Ethereum Proposal Could Halve Staking Rewards: Who Feels It First?",
-      "url": "https://www.tradingview.com/news/beincrypto:30132a65c094b:0-a-new-ethereum-proposal-could-halve-staking-rewards-who-feels-it-first/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "e22f6d2695a34168db9bb731f7332872633e00e298b6189e09c725427505d7b2",
-      "title": "The BlockBitGo moves $7.4 billion Wrapped Bitcoins to Chainlink CCIP in latest LayerZero exodus",
-      "url": "https://www.tradingview.com/news/the_block:75b7d4a6b094b:0-bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "71df4fd509db00d073a369278e20b41a56739470c3465dd2a05550ccb37292c1",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:5c0e61e8c094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "47b2a9a7e994cb0ee0c683461ab1a05013c1374ba0c07ff09222ba1460270766",
-      "title": "ChainwireChangeNOW and CoinRabbit Release Joint Research on Financial Privacy in Digital Assets",
-      "url": "https://www.tradingview.com/news/chainwire:4cea7ba5f094b:0-changenow-and-coinrabbit-release-joint-research-on-financial-privacy-in-digital-assets/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "1cdd37bc2fd8dc4a13af8ab828ca65e831a7222acbb932dac07494c4e6341b1f",
-      "title": "dpa-AFXU.S.-Iran Peace Deal Hopes Lift Crypto Market Sentiment",
-      "url": "https://www.tradingview.com/news/dpa_afx:da95b2d668121:0-u-s-iran-peace-deal-hopes-lift-crypto-market-sentiment/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "71071ff3e094e46f42b369f47ceb4c236afbccd07919f3d786e101e62e9378a0",
-      "title": "ChainwireBybit.eu Expands European Offering as Bybit Payments GmbH Secures Electronic Money Institution Licence",
-      "url": "https://www.tradingview.com/news/chainwire:acb5ea236094b:0-bybit-eu-expands-european-offering-as-bybit-payments-gmbh-secures-electronic-money-institution-licence/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "e19ac0b2edbaf8cb704e5a0ece0cd0c972849965df9b99c546cc2adecf2e21a4",
-      "title": "ReutersKraken Investigating Issue Causing Delays On Crypto & Fiat Withdrawals",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4410VV:0-kraken-investigating-issue-causing-delays-on-crypto-fiat-withdrawals/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "f95ab3f05d28e813323284bc9ea2cc3410fff2844fea7363fae728690c745941",
-      "title": "BenzingaElizabeth Warren, Richard Blumenthal Demand SEC Investigation Into 'Illegal Scam' TRUMP Meme Coin",
-      "url": "https://www.tradingview.com/news/benzinga:5908ad7dc094b:0-elizabeth-warren-richard-blumenthal-demand-sec-investigation-into-illegal-scam-trump-meme-coin/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "e6f4b89e90b150d8a692b51b8ac8bdc16c701ee754334559897b8261de53a635",
-      "title": "ReutersKraken Is Investigating An Issue Causing Delays On Crypto Withdrawals",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4411C2:0-kraken-is-investigating-an-issue-causing-delays-on-crypto-withdrawals/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
-    },
-    {
-      "id": "882724206f8e9dceed6e378546053066ba5fffb9137feb424977b5d7e27c9e17",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260804008121:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-04T16:31:53.662Z"
+      "scraped_at": "2026-08-04T18:18:19.139Z"
     }
   ]
 }
