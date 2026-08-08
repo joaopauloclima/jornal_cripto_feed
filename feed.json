@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-08T00:31:36.510Z",
+  "generated_at": "2026-08-08T02:44:35.148Z",
   "total": 15,
   "items": [
+    {
+      "id": "9c3919c5767c1e1808163aa70f5075ffe0fdcb61372f2b41b026b66a533e31c4",
+      "title": "Binance NewsAI Financial Sells Canadian Subsidiary to Prime Delta",
+      "url": "https://www.tradingview.com/news/binance_news:136a5a8b1094b:0-ai-financial-sells-canadian-subsidiary-to-prime-delta/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-08T02:44:35.144Z"
+    },
+    {
+      "id": "bef9787706bf69cc7e9d2ca5f6d4c4b5520639dbf4a2f68164e9a60fb4bd32f7",
+      "title": "CoinMarketCalRollbit Coin: RLB supply drops below 1.6 billion - By 08 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:4923be4b9094b:0-rollbit-coin-rlb-supply-drops-below-1-6-billion-by-08-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-08T02:44:35.144Z"
+    },
+    {
+      "id": "e390c22491045b5d59b00b0d5857dc226b96039ea2a67e7ad267d989349a0369",
+      "title": "CoinMarketCalUSD.AI: Funds QumulusAI's $15M Loan - 08 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:fa4f0e63b094b:0-usd-ai-funds-qumulusai-s-15m-loan-08-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-08T02:44:35.144Z"
+    },
+    {
+      "id": "eb7c143c63b275761a3bdf024a767237fbe46d1cf24027c58375d31789c656e3",
+      "title": "CoinMarketCalDigiByte: Community time-locks DGB to mint DigiDollars - 17 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:fa10441e4094b:0-digibyte-community-time-locks-dgb-to-mint-digidollars-17-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-08T02:44:35.144Z"
+    },
+    {
+      "id": "f42f127ed76bd1e46a33e96e480451a434aec5cf4ff55a2627903ec274ab01f5",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260807012093:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-08T02:44:35.144Z"
+    },
+    {
+      "id": "97eabdce8b77cb600451733225e72b7453a2bf3aad06cdb09a1fbdc18103e886",
+      "title": "Binance NewsWhale Moves 36,530 ETH to a New Address After Buying 50,000 ETH From Fidelity-Linked Wallet",
+      "url": "https://www.tradingview.com/news/binance_news:7f35cd304094b:0-whale-moves-36-530-eth-to-a-new-address-after-buying-50-000-eth-from-fidelity-linked-wallet/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-08T02:44:35.144Z"
+    },
+    {
+      "id": "a70f3d4f07763c1887cfa291bce01f6b0c196202c00fecd1fea556ec9b712271",
+      "title": "Binance NewsPolymarket's Angeles-Marlins O/U 9.5 Over Odds Drop to 13.5%",
+      "url": "https://www.tradingview.com/news/binance_news:12638daaa094b:0-polymarket-s-angeles-marlins-o-u-9-5-over-odds-drop-to-13-5/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-08T02:44:35.144Z"
+    },
     {
       "id": "169912b2d01123f06add191369745292ae012928f4a5bb72a16e198607ccd24f",
       "title": "StocktwitsDJT Stock Gains As The Truth Social Company Reportedly Pulls Back From Two Crypto.com Deals",
       "url": "https://www.tradingview.com/news/stocktwits:8e54d5e92094b:0-djt-stock-gains-as-the-truth-social-company-reportedly-pulls-back-from-two-crypto-com-deals/",
       "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
+      "scraped_at": "2026-08-08T02:44:35.144Z"
     },
     {
       "id": "60a0bf93843f6493183f30c424727278b95d57052f7b3c750d0743fa72ae2b13",
       "title": "CoinMarketCalAztec: Galactica brings private x402 settlement - By 21 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:947675d06094b:0-aztec-galactica-brings-private-x402-settlement-by-21-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
+      "scraped_at": "2026-08-08T02:44:35.144Z"
     },
     {
       "id": "2f125eab36a71024df085267b883662f3f49ed92de8685d5804c302784c4bf26",
       "title": "CoinMarketCalStacks: stBTC brings staking yield to Stacks DeFi - Q3 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:91209b0e1094b:0-stacks-stbtc-brings-staking-yield-to-stacks-defi-q3-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
+      "scraped_at": "2026-08-08T02:44:35.144Z"
     },
     {
       "id": "5a4873e7eff8094fe35c06ad615652bc0cce7233f3379f8df114062efb21d671",
       "title": "CoinMarketCalStacks: Bitcoin Staking mainnet launches with institutional partners - Q3 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:81d735d2e094b:0-stacks-bitcoin-staking-mainnet-launches-with-institutional-partners-q3-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
+      "scraped_at": "2026-08-08T02:44:35.144Z"
     },
     {
       "id": "af0d297a466e16a3bf75a7a1724b3202d5fc19fd9830a3059fedcc791f2f9438",
       "title": "ReutersBrazil tightens crypto transfers to curb fraud",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N444116:0-brazil-tightens-crypto-transfers-to-curb-fraud/",
       "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
+      "scraped_at": "2026-08-08T02:44:35.144Z"
     },
     {
       "id": "641daa68675c3667da40040a3cd531967b16a143206feb2eb0d2ae1eeaddeaa9",
       "title": "BenzingaWhy Wall Street's Crypto Bet Is Just Getting Started",
       "url": "https://www.tradingview.com/news/benzinga:516aff87d094b:0-why-wall-street-s-crypto-bet-is-just-getting-started/",
       "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
+      "scraped_at": "2026-08-08T02:44:35.144Z"
     },
     {
       "id": "a01ba3e5dde10fdef29b3ce3cce166c75a31390f1031d5595df4485690707434",
       "title": "CointelegraphDonald Trump’s media company to terminate Crypto.com deal",
       "url": "https://www.tradingview.com/news/cointelegraph:2a5a5a9b9094b:0-donald-trump-s-media-company-to-terminate-crypto-com-deal/",
       "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
+      "scraped_at": "2026-08-08T02:44:35.144Z"
     },
     {
       "id": "fd2d0c04b0f66c98de295d5c90f651fab3e1ec564d07d7972ffb3f88ea5a3103",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260807011555:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
-    },
-    {
-      "id": "8e6f1f9295b4324e0fc12a42b53ebc20b59b67f2769d2efbf11ea240422acf8f",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260807011399:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
-    },
-    {
-      "id": "0e252be5c364fc74ed4e0fa4c82d6f6a5664c726993317cf7bf5fcef158bb890",
-      "title": "BeincryptoCanada Economy Just Outran America: Is Its Crypto Industry Next?",
-      "url": "https://www.tradingview.com/news/beincrypto:29e379f8b094b:0-canada-economy-just-outran-america-is-its-crypto-industry-next/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
-    },
-    {
-      "id": "82fc86aa383802d08883ac73653c4ee87e5d73c173bd634623a99fa06db47413",
-      "title": "The BlockTrump Media and Crypto.com end partnerships as companies shift priorities",
-      "url": "https://www.tradingview.com/news/the_block:6535116de094b:0-trump-media-and-crypto-com-end-partnerships-as-companies-shift-priorities/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
-    },
-    {
-      "id": "dd426100f4c7cb3ace9d474e0d22095e50593cdd6e2e22e5675f5e037dda27ee",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260807011162_20260807011171:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
-    },
-    {
-      "id": "01b791d4a654d7a9d43e9147041b96a6b19f04cd5c8e6eebb867b43de00d179c",
-      "title": "ReutersTrump Media And Technology Is Pulling Back From A Pair Of Crypto.Com Deals - Axios",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44417D:0-trump-media-and-technology-is-pulling-back-from-a-pair-of-crypto-com-deals-axios/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
-    },
-    {
-      "id": "4ba171ec112624bcb9a2799d07d2ebb39c3abd139cdb2b12dbb7961fb9060c37",
-      "title": "CointelegraphUS Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
-      "url": "https://www.tradingview.com/news/cointelegraph:f6ffa2203094b:0-us-treasury-s-ofac-sanctions-2-iran-linked-crypto-exchanges/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
-    },
-    {
-      "id": "2d4f2098d0d1bf2bbe8f3c421a4df37e1b596c62fe1f7d674a4aa3f1ffe8a922",
-      "title": "CoinMarketCalKAITO: Staking upgrade reallocates unclaimed drops - 07 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:df3a4a206094b:0-kaito-staking-upgrade-reallocates-unclaimed-drops-07-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-08T00:31:36.507Z"
+      "scraped_at": "2026-08-08T02:44:35.144Z"
     }
   ]
 }
