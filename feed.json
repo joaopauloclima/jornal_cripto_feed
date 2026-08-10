@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-10T14:07:13.844Z",
+  "generated_at": "2026-08-10T15:39:59.965Z",
   "total": 15,
   "items": [
+    {
+      "id": "b420cde6f8f87f260423b66f6c3958100088d0396bdc4096daa6b93f8b055355",
+      "title": "ACCESS NewswireSign up to read this news",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-08-10:newsml_ACSwrzvCa:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T15:39:59.961Z"
+    },
+    {
+      "id": "982bc2ad265a78bb5d5f4651760009748aa98f7a562ba4ca3418f2906a4bfc3e",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260810007042:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T15:39:59.961Z"
+    },
+    {
+      "id": "1d8f1ca807f2b37b1286bce3b6ab0cc20d85d1dff763989590254e30a46d4119",
+      "title": "dpa-AFXCryptos Slip Amidst Middle East Uncertainty",
+      "url": "https://www.tradingview.com/news/dpa_afx:f585344dd4331:0-cryptos-slip-amidst-middle-east-uncertainty/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T15:39:59.961Z"
+    },
+    {
+      "id": "ae4221630930d53d459905a394016dd712bba047ced8fc5ff3de8c7f307140cf",
+      "title": "MFN by Modular FinanceHilbert Group Strategy Goes On-Chain as Syntetika Opens Deposits for BTC Basis+",
+      "url": "https://www.tradingview.com/news/modular_finance:ee148c3c1bf0f:0-hilbert-group-strategy-goes-on-chain-as-syntetika-opens-deposits-for-btc-basis/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T15:39:59.961Z"
+    },
+    {
+      "id": "7e5a11fa4e138221acba21ecc13dfbd55f688ee611f13282de55364b1cc211de",
+      "title": "The BlockAdam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal",
+      "url": "https://www.tradingview.com/news/the_block:67605a196094b:0-adam-back-backed-h100-more-than-triples-bitcoin-holdings-to-3-506-btc-in-acquisition-deal/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T15:39:59.961Z"
+    },
+    {
+      "id": "6ae8d6c7abec7632d1002bb185e0eff339ebbabff5ebae23b7141e92407d461d",
+      "title": "ReutersCrypto bill faces long odds after Senate punts vote to September",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4440NU:0-crypto-bill-faces-long-odds-after-senate-punts-vote-to-september/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T15:39:59.961Z"
+    },
+    {
+      "id": "96f5c1b87b17f76690b3ff67e1bb3905bf8d5c120ae78fefe78c13373e3eacac",
+      "title": "BeincryptoBitcoin Killed the BIP-110 Fork: Breakaway Coin by September 1?",
+      "url": "https://www.tradingview.com/news/beincrypto:44da74f71094b:0-bitcoin-killed-the-bip-110-fork-breakaway-coin-by-september-1/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T15:39:59.961Z"
+    },
+    {
+      "id": "689df1c1c0a3e6a0851f72e6f7e159166da985b4563cccb90ebbfa6f390ba605",
+      "title": "BenzingaRating Ethereum, Solana, XRP: Prominent Trader Says One's a 'Hold' and One's a 'Beta Bet'",
+      "url": "https://www.tradingview.com/news/benzinga:ee843a980094b:0-rating-ethereum-solana-xrp-prominent-trader-says-one-s-a-hold-and-one-s-a-beta-bet/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T15:39:59.961Z"
+    },
     {
       "id": "1f437545e568e21f5fcbd69b3d0694f050bdc9c70745fe4ea76f158f5f64c5bf",
       "title": "CoinMarketCalLitecoin: Blox offers a one-month yield campaign - 10 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:576645056094b:0-litecoin-blox-offers-a-one-month-yield-campaign-10-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.839Z"
+      "scraped_at": "2026-08-10T15:39:59.961Z"
+    },
+    {
+      "id": "a7230bedb5dadbec3546a74de499af74c070ef710589ad09cb8beba8ec5fe965",
+      "title": "ChainwireSyntetika Launches Tokenization Hub Bringing Regulated Investment Strategies Onchain",
+      "url": "https://www.tradingview.com/news/chainwire:31ee62cf2094b:0-syntetika-launches-tokenization-hub-bringing-regulated-investment-strategies-onchain/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T15:39:59.961Z"
     },
     {
       "id": "b1cd2831e757b4a8ba3e0a309fd1db1a8f8bc3cf9fab7f723eac8de7e66b778a",
       "title": "CoinMarketCalDUSK: DuskEVM testnet enables Solidity and Hardhat application testing - 10 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:358c90986094b:0-dusk-duskevm-testnet-enables-solidity-and-hardhat-application-testing-10-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.840Z"
+      "scraped_at": "2026-08-10T15:39:59.962Z"
     },
     {
       "id": "f1ab633d49206076ba90c44707ed4e4eab5e269ef59a719af743a91b3bcd3213",
       "title": "CoinMarketCalRiver: satUSD is available on Tangem - 10 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:49ef52415094b:0-river-satusd-is-available-on-tangem-10-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.840Z"
+      "scraped_at": "2026-08-10T15:39:59.962Z"
     },
     {
       "id": "17bd6379d0cd24f049aa3ef7cbc9af5e7a87473f13f91270b3d736bac7cbae7b",
       "title": "The BlockCrypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi",
       "url": "https://www.tradingview.com/news/the_block:89f950ca0094b:0-crypto-lost-110-million-to-hacks-in-july-amid-rising-bug-bounty-activity-immunefi/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.840Z"
+      "scraped_at": "2026-08-10T15:39:59.962Z"
     },
     {
       "id": "486c2988bc77e0e619bf0c4002a53d87881455c47df506620510c515e22c81af",
       "title": "The BlockBitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH",
       "url": "https://www.tradingview.com/news/the_block:b7adfa62b094b:0-bitmine-adds-7-391-ether-in-a-week-bringing-total-ethereum-holdings-to-5-81-million-eth/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.840Z"
+      "scraped_at": "2026-08-10T15:39:59.962Z"
     },
     {
-      "id": "940172e4b1449fcf3be4191a387ab2284401ac99f840e355e3ea0c202d6faee6",
-      "title": "CointelegraphBitdeer increased Bitcoin mining output by nearly fivefold in Q2",
-      "url": "https://www.tradingview.com/news/cointelegraph:bb43457da094b:0-bitdeer-increased-bitcoin-mining-output-by-nearly-fivefold-in-q2/",
+      "id": "63756a015872f69b7976b5f603265da6122f2a91ba6ced9e0bb18784117c3fe6",
+      "title": "Finance MagnatesRobinhood Turns to Bitstamp as UK Crypto Trading Begins",
+      "url": "https://www.tradingview.com/news/financemagnates:f65735efa094b:0-robinhood-turns-to-bitstamp-as-uk-crypto-trading-begins/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.840Z"
-    },
-    {
-      "id": "0e067018d7e82681a79ea792a9cec3c4d54442e134d9931064351878d94e2894",
-      "title": "The Block‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom",
-      "url": "https://www.tradingview.com/news/the_block:af6503612094b:0-owning-the-rails-standard-chartered-sees-link-at-200-by-2030-as-chainlink-underpins-tokenized-asset-boom/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.841Z"
-    },
-    {
-      "id": "9a1c5acc527d81e6c11a36652c27a9ff9f42bfa849225ef3b3d79a47937e3f1e",
-      "title": "BusinessWireNorthern Trust Engages Lukka to Enhance Digital Asset Data and Reporting Capabilities",
-      "url": "https://www.tradingview.com/news/business_wire:715f73931013d:0-northern-trust-engages-lukka-to-enhance-digital-asset-data-and-reporting-capabilities/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.841Z"
-    },
-    {
-      "id": "5f980ee9a00e68065e19a1be6203afc0d6d4ca292b0db6bb8384b8251a5a1bc7",
-      "title": "BeincryptoMicroStrategy Sells More Bitcoin to Fix STRC Stock: Will It Work?",
-      "url": "https://www.tradingview.com/news/beincrypto:1ecea9eaa094b:0-microstrategy-sells-more-bitcoin-to-fix-strc-stock-will-it-work/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.841Z"
-    },
-    {
-      "id": "287d8b43365bbf08a5bb2c36026b40311de040a97981c90ff97a82eb731067ac",
-      "title": "ChainwireBitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.81 Million Tokens, and Total Crypto and Total Cash Holdings of $11.6 Billion",
-      "url": "https://www.tradingview.com/news/chainwire:933775528094b:0-bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-81-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-6-billion/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.841Z"
-    },
-    {
-      "id": "41d69b5111fea5a26b9c0701b90650d7905cf049809d000f59dfb4d5e541303f",
-      "title": "CoinpediaPi Network News: Protocol 26 Upgrade Deadline Set for August 11",
-      "url": "https://www.tradingview.com/news/coinpedia:b131cf32e094b:0-pi-network-news-protocol-26-upgrade-deadline-set-for-august-11/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.841Z"
-    },
-    {
-      "id": "e6d50b21ff680295cd2fecaad7faf04ba317c15c6a6168b208b48ffa2b3735bd",
-      "title": "BenzingaGalaxy Digital in Focus After Q2 Miss, New $125 Million Sharplink Partnership",
-      "url": "https://www.tradingview.com/news/benzinga:9270dca26094b:0-galaxy-digital-in-focus-after-q2-miss-new-125-million-sharplink-partnership/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.841Z"
-    },
-    {
-      "id": "7c28e0c9049c11eb44817a0bed83820ff40eb33367b790357d8c5817476bb741",
-      "title": "CointelegraphStrategy turns 1,690 BTC into $108.6M STRC buyback",
-      "url": "https://www.tradingview.com/news/cointelegraph:3e9429ef0094b:0-strategy-turns-1-690-btc-into-108-6m-strc-buyback/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.841Z"
-    },
-    {
-      "id": "ac975cb9f4255e819e4cf1d70cf0b5a47b2949e10c46baa6d8b4c767f59cfb9f",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260810005312:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.841Z"
-    },
-    {
-      "id": "88b01655cefeacc97903c9b9c9d8f8358d3dd61d3c49a3cda1c68a328698d500",
-      "title": "PR NewswireBitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.81 Million Tokens, and Total Crypto and Total Cash Holdings of $11.6 Billion",
-      "url": "https://www.tradingview.com/news/prnewswire:eca585802bb5c:0-bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-81-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-6-billion/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T14:07:13.841Z"
+      "scraped_at": "2026-08-10T15:39:59.962Z"
     }
   ]
 }
