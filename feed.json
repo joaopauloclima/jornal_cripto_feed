@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-10T16:34:24.624Z",
+  "generated_at": "2026-08-10T17:37:56.663Z",
   "total": 15,
   "items": [
+    {
+      "id": "f341688f72bdbcd74f66f6d3090991caed4d1f243cb6a98733d5cf39f21abeb7",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260810008101:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T17:37:56.660Z"
+    },
+    {
+      "id": "9ce58197d69d53a1a909aff2b2c97c655717ad12f8091c470694a37f2fc29db2",
+      "title": "Cointelegraph‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
+      "url": "https://www.tradingview.com/news/cointelegraph:f1dc4f0ab094b:0-disappointing-crypto-advocates-react-to-delay-in-clarity-vote/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T17:37:56.660Z"
+    },
+    {
+      "id": "eff47518eba8adf1b6a3d4dfb00b8929e19779626c979a91bb3f8e2abec4cbaa",
+      "title": "The BlockKeel shutters all US bitcoin mining operations amid continuing AI pivot",
+      "url": "https://www.tradingview.com/news/the_block:032c2b909094b:0-keel-shutters-all-us-bitcoin-mining-operations-amid-continuing-ai-pivot/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T17:37:56.660Z"
+    },
+    {
+      "id": "85eadd6ddbd49e3ddc478e92c62b3ab16db8b1847becc4b8d367f40a348dad35",
+      "title": "CoinMarketCalJupiter: Lend v2 launches Smart Vaults - 10 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:af25beed2094b:0-jupiter-lend-v2-launches-smart-vaults-10-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T17:37:56.660Z"
+    },
+    {
+      "id": "ab640b612588eccd2ee15c130cb0a6b587e7fec56c549f74a3ffb85e1fba98b7",
+      "title": "CoinMarketCalZcash: red·bridge goes live - Q4 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:4c87014f8094b:0-zcash-red-bridge-goes-live-q4-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T17:37:56.660Z"
+    },
+    {
+      "id": "3ad64eece5ab1e6df0c28b3aec3ec23580e36209e482f961d7da502a229e2a7d",
+      "title": "CoinMarketCalStacks: PoX-5 advances toward launch - Q3 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:3c78dec0b094b:0-stacks-pox-5-advances-toward-launch-q3-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T17:37:56.660Z"
+    },
+    {
+      "id": "b269a46145b72549898e47a41317e361a0b01106bea9ad6d2b471ef9c5c3f6f2",
+      "title": "ChainwireSCANDIC TRADE Ultimate 2.6 is now complete – the SNC SCANDIC ECO-System is now fully operational",
+      "url": "https://www.tradingview.com/news/chainwire:368dba6eb094b:0-scandic-trade-ultimate-2-6-is-now-complete-the-snc-scandic-eco-system-is-now-fully-operational/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T17:37:56.660Z"
+    },
     {
       "id": "d5f58e07dd9d3ede0ef971b51d7018a284fccb28a8439f9ccf665638e2dabddb",
       "title": "The BlockVitalik Buterin puts privacy and quantum resistance front and center in Ethereum’s latest roadmap",
       "url": "https://www.tradingview.com/news/the_block:931d598b8094b:0-vitalik-buterin-puts-privacy-and-quantum-resistance-front-and-center-in-ethereum-s-latest-roadmap/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.620Z"
+      "scraped_at": "2026-08-10T17:37:56.660Z"
     },
     {
       "id": "f90c00df11c8879e72fd17981c190e7e6455e0d1dc9865161c6ececa91ade3c2",
       "title": "CointelegraphBitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
       "url": "https://www.tradingview.com/news/cointelegraph:199197e35094b:0-bitcoin-price-slip-wipes-weekend-gains-as-oil-surge-hits-5-on-hormuz-disappointment/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
+      "scraped_at": "2026-08-10T17:37:56.660Z"
+    },
+    {
+      "id": "811995737f241e320b87c85771e6cacd6af5c358d0da78c90a5907f4e68f99a1",
+      "title": "CoinpediaYounger Investors Are Looking Beyond Stocks and Bonds, Grayscale Says",
+      "url": "https://www.tradingview.com/news/coinpedia:864fc9ed9094b:0-younger-investors-are-looking-beyond-stocks-and-bonds-grayscale-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-10T17:37:56.660Z"
     },
     {
       "id": "42b93127976f4a7460d9462aabeeac6fbfa43dfe929dbb4c3b3aa056b9c4e33c",
       "title": "CointelegraphBlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
       "url": "https://www.tradingview.com/news/cointelegraph:29cadb99b094b:0-blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
+      "scraped_at": "2026-08-10T17:37:56.660Z"
     },
     {
       "id": "398900d30a1bf7e45fc06484b1a59e874750a11b8deb57f8e7b2e187099f8f76",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260810007434:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
+      "scraped_at": "2026-08-10T17:37:56.660Z"
     },
     {
       "id": "b420cde6f8f87f260423b66f6c3958100088d0396bdc4096daa6b93f8b055355",
       "title": "ACCESS NewswireSign up to read this news",
       "url": "https://www.tradingview.com/news/reuters.com,2026-08-10:newsml_ACSwrzvCa:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
+      "scraped_at": "2026-08-10T17:37:56.660Z"
     },
     {
       "id": "982bc2ad265a78bb5d5f4651760009748aa98f7a562ba4ca3418f2906a4bfc3e",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260810007042:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
+      "scraped_at": "2026-08-10T17:37:56.660Z"
     },
     {
       "id": "1d8f1ca807f2b37b1286bce3b6ab0cc20d85d1dff763989590254e30a46d4119",
       "title": "dpa-AFXCryptos Slip Amidst Middle East Uncertainty",
       "url": "https://www.tradingview.com/news/dpa_afx:f585344dd4331:0-cryptos-slip-amidst-middle-east-uncertainty/",
       "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
-    },
-    {
-      "id": "8ddb04c4d136aea70d75310fba8822ee9b3a7ed1eb835ecd62fe8ba3cb309dc7",
-      "title": "BenzingaXRP Mad Lowest Weekly Close In Nearly 2 Years: Is $0.75 Next?",
-      "url": "https://www.tradingview.com/news/benzinga:895b6fd8e094b:0-xrp-mad-lowest-weekly-close-in-nearly-2-years-is-0-75-next/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
-    },
-    {
-      "id": "ae4221630930d53d459905a394016dd712bba047ced8fc5ff3de8c7f307140cf",
-      "title": "MFN by Modular FinanceHilbert Group Strategy Goes On-Chain as Syntetika Opens Deposits for BTC Basis+",
-      "url": "https://www.tradingview.com/news/modular_finance:ee148c3c1bf0f:0-hilbert-group-strategy-goes-on-chain-as-syntetika-opens-deposits-for-btc-basis/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
-    },
-    {
-      "id": "7e5a11fa4e138221acba21ecc13dfbd55f688ee611f13282de55364b1cc211de",
-      "title": "The BlockAdam Back-backed H100 more than triples bitcoin holdings to 3,506 BTC in acquisition deal",
-      "url": "https://www.tradingview.com/news/the_block:67605a196094b:0-adam-back-backed-h100-more-than-triples-bitcoin-holdings-to-3-506-btc-in-acquisition-deal/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
-    },
-    {
-      "id": "6ae8d6c7abec7632d1002bb185e0eff339ebbabff5ebae23b7141e92407d461d",
-      "title": "ReutersCrypto bill faces long odds after Senate punts vote to September",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4440NU:0-crypto-bill-faces-long-odds-after-senate-punts-vote-to-september/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
-    },
-    {
-      "id": "96f5c1b87b17f76690b3ff67e1bb3905bf8d5c120ae78fefe78c13373e3eacac",
-      "title": "BeincryptoBitcoin Killed the BIP-110 Fork: Breakaway Coin by September 1?",
-      "url": "https://www.tradingview.com/news/beincrypto:44da74f71094b:0-bitcoin-killed-the-bip-110-fork-breakaway-coin-by-september-1/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
-    },
-    {
-      "id": "7fecaf3deab0a5edd21b12142cd810c511fda6c0d491d09ee1da539d2e93d5bc",
-      "title": "Finance MagnatesGate.io Launches $3M Grant Program for Event Contracts Infrastructure",
-      "url": "https://www.tradingview.com/news/financemagnates:913556c5c094b:0-gate-io-launches-3m-grant-program-for-event-contracts-infrastructure/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
-    },
-    {
-      "id": "689df1c1c0a3e6a0851f72e6f7e159166da985b4563cccb90ebbfa6f390ba605",
-      "title": "BenzingaRating Ethereum, Solana, XRP: Prominent Trader Says One's a 'Hold' and One's a 'Beta Bet'",
-      "url": "https://www.tradingview.com/news/benzinga:ee843a980094b:0-rating-ethereum-solana-xrp-prominent-trader-says-one-s-a-hold-and-one-s-a-beta-bet/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
-    },
-    {
-      "id": "1f437545e568e21f5fcbd69b3d0694f050bdc9c70745fe4ea76f158f5f64c5bf",
-      "title": "CoinMarketCalLitecoin: Blox offers a one-month yield campaign - 10 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:576645056094b:0-litecoin-blox-offers-a-one-month-yield-campaign-10-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-10T16:34:24.621Z"
+      "scraped_at": "2026-08-10T17:37:56.660Z"
     }
   ]
 }
