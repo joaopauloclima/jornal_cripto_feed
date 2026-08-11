@@ -1,111 +1,118 @@
 {
-  "generated_at": "2026-08-11T14:06:42.978Z",
-  "total": 15,
+  "generated_at": "2026-08-11T15:41:21.874Z",
+  "total": 16,
   "items": [
+    {
+      "id": "90ffd9660afb2143a86312670644173b3c3ef7fa9369b1db52743cb75b717eb1",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260811006481:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
+    {
+      "id": "d29ed57431f5ac4b6e371c23468bad6beb5be0b5f862735a71122de272e90686",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260811006485:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
+    {
+      "id": "0a0c85ffb88435e485d289fcb46a717042e50ea088d67114c697718dee3fe536",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260811005150:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
+    {
+      "id": "dab1dc25ab8cd58b1d086fdd919ef53c52a00d2b1ac1030f0d2ef7facd4b947d",
+      "title": "dpa-AFXFresh Peace Deal Hopes Fail To Lift Cryptocurrencies",
+      "url": "https://www.tradingview.com/news/dpa_afx:5ce13c15d430a:0-fresh-peace-deal-hopes-fail-to-lift-cryptocurrencies/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
+    {
+      "id": "1e18ddef3c93b52276a76e284ef9b9fbab964971944f8c4ff02faf5efc6e1486",
+      "title": "The BlockBitcoin slips toward $64,000 as traders await Wednesday’s inflation test",
+      "url": "https://www.tradingview.com/news/the_block:cc6d6722e094b:0-bitcoin-slips-toward-64-000-as-traders-await-wednesday-s-inflation-test/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
+    {
+      "id": "b0d095d9ad6df0cc80790594b8a02bb2da39047e91a5cbd6d68a7a6ed7eeb4be",
+      "title": "The BlockBenchmark sees over 150% upside for Bitdeer on bitcoin mining, AI outlook",
+      "url": "https://www.tradingview.com/news/the_block:efe2ba5b2094b:0-benchmark-sees-over-150-upside-for-bitdeer-on-bitcoin-mining-ai-outlook/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
+    {
+      "id": "6c18e85a978a88ab22b86a9c9509f349e669901bc9e747ceb5f6d4f75d04f4be",
+      "title": "Finance MagnatesTradFi Is Getting Easier Access to DeFi. FATF Says Institutions Still Own the Risk",
+      "url": "https://www.tradingview.com/news/financemagnates:9b4a47cea094b:0-tradfi-is-getting-easier-access-to-defi-fatf-says-institutions-still-own-the-risk/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
     {
       "id": "741b161e80932704c126127d831dac7854104771850384b5ccda3b20f1a50a12",
       "title": "CoinMarketCalSolana: MoneyGram Ramps goes live - 11 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:46e66a4be094b:0-solana-moneygram-ramps-goes-live-11-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
+      "scraped_at": "2026-08-11T15:41:21.869Z"
     },
     {
       "id": "9220dc68ea152cdff494ab16dd143d32c2e37c4650fb01d1a65760b6dbeec643",
       "title": "CoinMarketCalRE: reUSD is live on Solana - 11 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:7e653b120094b:0-re-reusd-is-live-on-solana-11-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
+      "scraped_at": "2026-08-11T15:41:21.869Z"
     },
     {
       "id": "4e0d62ac874334be1f3d99061daeceae157c431bf6339698fad646f1840f3ea0",
       "title": "CoinMarketCalAPEX: Payment integration expands AEON merchant access - 11 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:b256f5e63094b:0-apex-payment-integration-expands-aeon-merchant-access-11-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
+    {
+      "id": "8f5d41ac7e1563064977f38343011dd13d8b8d117b80234f37c1acf8a107b66c",
+      "title": "ZacksCRCL Q2 Earnings Call Highlights Arc-Led Revenue Outlook",
+      "url": "https://www.tradingview.com/news/zacks:9757e93f4094b:0-crcl-q2-earnings-call-highlights-arc-led-revenue-outlook/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
     },
     {
       "id": "b6906a6804b781b91f9cc06c78e62b4b94d131af9cfabf50d866cae1bf1cfbbc",
       "title": "CointelegraphADI Chain, Shipfinex partner to tokenize $500M vessel pipeline",
       "url": "https://www.tradingview.com/news/cointelegraph:5811f9c1d094b:0-adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
+    {
+      "id": "a6e5d243de20d97935ecb5ec5ca8f532738835688801d024ee26078fbcd01e0c",
+      "title": "BenzingaRobinhood Expands UK Crypto Ecosystem With Trading and AI Tools",
+      "url": "https://www.tradingview.com/news/benzinga:7ad41ab14094b:0-robinhood-expands-uk-crypto-ecosystem-with-trading-and-ai-tools/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
+    },
+    {
+      "id": "376e3aa2197fc28ccfe0c1735cd750783293d4109d13a320540bc50ad12e6cb8",
+      "title": "BeincryptoBitcoin Whales Add 46,000 BTC but Weak Network Activity Clouds Recovery",
+      "url": "https://www.tradingview.com/news/beincrypto:add46fcac094b:0-bitcoin-whales-add-46-000-btc-but-weak-network-activity-clouds-recovery/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T15:41:21.869Z"
     },
     {
       "id": "d67012114137f3f449ba0500a05687ac4b3acb535a11348799cd51c09c501e58",
       "title": "ChainwireBlockchain for Good Alliance and Bybit Join the Mauritius Internet Governance Forum to Advance Digital Trust for Small Island States",
       "url": "https://www.tradingview.com/news/chainwire:650c34b24094b:0-blockchain-for-good-alliance-and-bybit-join-the-mauritius-internet-governance-forum-to-advance-digital-trust-for-small-island-states/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
+      "scraped_at": "2026-08-11T15:41:21.870Z"
     },
     {
       "id": "59ce0ac50dc9da3ba2a753201b69d4d5868c345a901873c2bbb3c62c1e2cd68f",
       "title": "BusinessWireSolmate Infrastructure PLC (NASDAQ: SLMT) Launches Public Treasury Dashboard",
       "url": "https://www.tradingview.com/news/business_wire:4603add02c848:0-solmate-infrastructure-plc-nasdaq-slmt-launches-public-treasury-dashboard/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
-    },
-    {
-      "id": "2c6e6b75e3ae1fc66082b79c198a401157a99a9e1cdb02698611f7cb77bf99b1",
-      "title": "CointelegraphSharpLink reports $394M in Q2 net loss fueled by ETH decline",
-      "url": "https://www.tradingview.com/news/cointelegraph:77ca155ad094b:0-sharplink-reports-394m-in-q2-net-loss-fueled-by-eth-decline/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
-    },
-    {
-      "id": "ebb889b219b2bea7130eafe16d0056e37110faa887bf8e80e3a75f3abd502afa",
-      "title": "The BlockGrvt eyes $100 million USDY position in Ondo Finance tie-up",
-      "url": "https://www.tradingview.com/news/the_block:0449ab8c1094b:0-grvt-eyes-100-million-usdy-position-in-ondo-finance-tie-up/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
-    },
-    {
-      "id": "ef066c067fc657957f12bd468029df0b5b5010e49fdf9fa8b7eb05f605f7ccab",
-      "title": "BusinessWireStrategy to Host Live Q&A with Investors Featuring Michael Saylor and Phong Le",
-      "url": "https://www.tradingview.com/news/business_wire:34f138d8ac30f:0-strategy-to-host-live-q-a-with-investors-featuring-michael-saylor-and-phong-le/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
-    },
-    {
-      "id": "eba572d1de0ff5e44cab7c07fcdd766ec82211bfa8264760bd38ae2e0c6733eb",
-      "title": "BenzingaCardano Flashes 3 Warning Signals as Grayscale Exits: Is $0.17 Next?",
-      "url": "https://www.tradingview.com/news/benzinga:363edce7e094b:0-cardano-flashes-3-warning-signals-as-grayscale-exits-is-0-17-next/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
-    },
-    {
-      "id": "4d0a79e6b9efff1ed295258ae928bd01312abfd759e7b99607057b3aacf6db35",
-      "title": "CoindarGnosis GIP-152 Vote to Close on August 12th",
-      "url": "https://www.tradingview.com/news/coindar:7c89c2eb2094b:0-gnosis-gip-152-vote-to-close-on-august-12th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
-    },
-    {
-      "id": "9bb47e27bfb11c380ed6b40cce80dd377f7c0f93335276444e83bce07cc2725e",
-      "title": "CoindarOriginTrail to Attend W3C × GS1 Workshop in Zurich on September 8th",
-      "url": "https://www.tradingview.com/news/coindar:afb62218b094b:0-origintrail-to-attend-w3c-gs1-workshop-in-zurich-on-september-8th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
-    },
-    {
-      "id": "61f0bcf95802b1d694934b81d8de3ae5894275eab7c96846e9df91c987aeb3a6",
-      "title": "CoindarNEXO to Hold Giveaway",
-      "url": "https://www.tradingview.com/news/coindar:f56608466094b:0-nexo-to-hold-giveaway/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
-    },
-    {
-      "id": "d05cac397849f25c3149e74a807e0d2360e28c8089622afb0bb305bd576fa634",
-      "title": "BenzingaArthur Hayes Backs Bitcoin, Says US Will Have to 'Print Trillions' to Save the Yen",
-      "url": "https://www.tradingview.com/news/benzinga:c18334744094b:0-arthur-hayes-backs-bitcoin-says-us-will-have-to-print-trillions-to-save-the-yen/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
-    },
-    {
-      "id": "69b826aac4bf1c5f03bcb86f693a989275cdf7031bd71a2c650c60436feaf48c",
-      "title": "CoindarBasic Attention to Host Community Call",
-      "url": "https://www.tradingview.com/news/coindar:c066cff6e094b:0-basic-attention-to-host-community-call/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T14:06:42.974Z"
+      "scraped_at": "2026-08-11T15:41:21.870Z"
     }
   ]
 }
