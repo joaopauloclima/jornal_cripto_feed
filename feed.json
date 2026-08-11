@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-11T11:32:12.881Z",
+  "generated_at": "2026-08-11T12:29:22.804Z",
   "total": 15,
   "items": [
+    {
+      "id": "56b6637669637190e3b25f999b72a8ae4654207980c0ef4e3326117c1ecd6c35",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260811004353:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T12:29:22.801Z"
+    },
+    {
+      "id": "2493afa2c970735ce294201c54cab608194cb0e08b076e5711caf7f6c3c8cb7f",
+      "title": "TradingViewKey facts: CRYPTO:BTCUSD $65,050; ETF inflows $865M; 3,895 BTC shorts",
+      "url": "https://www.tradingview.com/news/tradingview:f84d0889cdf70:0-key-facts-crypto-btcusd-65-050-etf-inflows-865m-3-895-btc-shorts/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T12:29:22.801Z"
+    },
+    {
+      "id": "7469270f3f5a47a1c22f5e7f229e03ea5ec46437846580b71b8f52162a5faf86",
+      "title": "TradingViewKey facts: LINKUSD $110B+ Secured; $200 2030 Target; New UIs",
+      "url": "https://www.tradingview.com/news/tradingview:d169daed0ec90:0-key-facts-linkusd-110b-secured-200-2030-target-new-uis/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T12:29:22.801Z"
+    },
+    {
+      "id": "321991646d7425e5366d6f54020bb67a65bc99c5a654a93677038aeda065fcf2",
+      "title": "CointelegraphRussia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+      "url": "https://www.tradingview.com/news/cointelegraph:52cf3a94b094b:0-russia-proposes-exchange-trading-of-bitcoin-ether-and-tether-s-usdt/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T12:29:22.801Z"
+    },
+    {
+      "id": "dcf56aaf2b90221f3bb079ba7ec663e392d6b3090f5dbee79dd5b5bd37247fce",
+      "title": "ACCESS NewswireSign up to read this news",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-08-11:newsml_ACShqzsFa:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T12:29:22.801Z"
+    },
+    {
+      "id": "41d9e554410a76bdfd9ccedb6dd2566ebd56c4ad3bf76b72ba2f5f96c3215b04",
+      "title": "The BlockTrump Media records $360.6 million unrealized loss on digital assets in first half of the year",
+      "url": "https://www.tradingview.com/news/the_block:b5c324b14094b:0-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T12:29:22.801Z"
+    },
     {
       "id": "e30ec94e8bb89657157730982be6cef72608fe39527c832f8e370062cf57b585",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260811003381:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
+      "scraped_at": "2026-08-11T12:29:22.801Z"
     },
     {
       "id": "3d41054cf2b953a1d1864904c3fec10a1845afec60821e1ed00310efaf74c161",
       "title": "StocktwitsXRP Price Drops To Its Lowest Level Since 2024 After Bitcoin’s Fourth Failed Attempt To Hold Above $64K",
       "url": "https://www.tradingview.com/news/stocktwits:ab887f032094b:0-xrp-price-drops-to-its-lowest-level-since-2024-after-bitcoin-s-fourth-failed-attempt-to-hold-above-64k/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
+      "scraped_at": "2026-08-11T12:29:22.801Z"
     },
     {
       "id": "7f2075cb1fcf14cf52e8a068a0e5cca47d5365dacb9176747c05fa6402b2daba",
       "title": "The Block‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime",
       "url": "https://www.tradingview.com/news/the_block:294a6778d094b:0-one-of-the-single-biggest-barriers-to-growth-uk-lawmakers-press-banks-over-crypto-access-ahead-of-new-fca-regime/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
+      "scraped_at": "2026-08-11T12:29:22.801Z"
+    },
+    {
+      "id": "87fc62b5efcedd487ee5318728d2f9f39d1f12e8bea8d43a8951c037ce1fc8ed",
+      "title": "Finance MagnatesAnother Crypto Platform Enters CFDs as BingX Adds Forex, Commodities and Indices",
+      "url": "https://www.tradingview.com/news/financemagnates:106a21f4c094b:0-another-crypto-platform-enters-cfds-as-bingx-adds-forex-commodities-and-indices/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T12:29:22.801Z"
     },
     {
       "id": "ef2ef8ce488e65861e81838436ae367d11702c5f56beffa6df0c401ceb5dfd4d",
       "title": "CoinMarketCalAethir: B300 GPU fleet goes live - 11 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:f39934a98094b:0-aethir-b300-gpu-fleet-goes-live-11-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
+      "scraped_at": "2026-08-11T12:29:22.801Z"
     },
     {
       "id": "e2bc431e4886f586a8d0c8e3011c63be96d59da4d8e8671fcebf5aeea55e1491",
       "title": "CoinMarketCalRequest: Request Network integrates with Safe Smart Accounts - 11 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:c388c50bb094b:0-request-request-network-integrates-with-safe-smart-accounts-11-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
+      "scraped_at": "2026-08-11T12:29:22.801Z"
     },
     {
       "id": "1bdc6af36a4f9ae42b5cfe600043142064c681803bb7219c24cf09d142105cdc",
       "title": "CoinMarketCalZama: Revolut lists ZAMA for trading - 11 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:86702a98f094b:0-zama-revolut-lists-zama-for-trading-11-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
+      "scraped_at": "2026-08-11T12:29:22.801Z"
     },
     {
       "id": "7536e7133ee52d7c391c0eb2a9d7bb5b951ec1788b83cf897e354612831bc3a8",
       "title": "CointelegraphBitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
       "url": "https://www.tradingview.com/news/cointelegraph:4955a3e15094b:0-bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
+      "scraped_at": "2026-08-11T12:29:22.801Z"
     },
     {
       "id": "05c77242faffcc67e1e2bb54e3e2f3331fc041f83e77d0b4a8f38f1bcd1abd4e",
       "title": "BusinessWireTwenty One Capital Issues Letter from CEO, Raphael Zagury",
       "url": "https://www.tradingview.com/news/business_wire:44ec8830b6c8a:0-twenty-one-capital-issues-letter-from-ceo-raphael-zagury/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
-    },
-    {
-      "id": "771a32331e48f8d236558ec187f092e170f77dc2b6ffb1b46082f82708106a2f",
-      "title": "ChainwireKuCoin Strengthens Operational Resilience with ISO 22301:2019 Certification",
-      "url": "https://www.tradingview.com/news/chainwire:a6ff59ead094b:0-kucoin-strengthens-operational-resilience-with-iso-22301-2019-certification/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
-    },
-    {
-      "id": "c19fc1d1c6e44ba45f11f7d81da891c3d0bfe05f6c17b90955719b27637ea014",
-      "title": "ChainwireMEXC Report: 74.2% of Traditional Finance Users Have Shifted Their Trading Activity to Crypto Exchanges",
-      "url": "https://www.tradingview.com/news/chainwire:f18e0b581094b:0-mexc-report-74-2-of-traditional-finance-users-have-shifted-their-trading-activity-to-crypto-exchanges/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
-    },
-    {
-      "id": "ff63e2067230f0e4c0c62ee87d7b01b9418a87ee7bd3f18a3e64b1d2759b17cb",
-      "title": "CointelegraphColdcard hack losses: How investigators trace stolen Bitcoin",
-      "url": "https://www.tradingview.com/news/cointelegraph:fcacba238094b:0-coldcard-hack-losses-how-investigators-trace-stolen-bitcoin/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
-    },
-    {
-      "id": "3184e5342fa5b9e139b4e306423acc98769894b2b7fbb26ce91ecc900ad1e36a",
-      "title": "BenzingaTrump Media Holds a Massive Bitcoin Stash, But It’s Also Sitting on Millions of Dollars Worth of This Coin",
-      "url": "https://www.tradingview.com/news/benzinga:e8c5223a4094b:0-trump-media-holds-a-massive-bitcoin-stash-but-it-s-also-sitting-on-millions-of-dollars-worth-of-this-coin/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
-    },
-    {
-      "id": "18ae85c7a8e0e881a69ba2cde93b0c9c2a23f8bc7ae3a008936922b0829622ef",
-      "title": "ChainwireMEXC Lists DAPPOS (DOS) With $60,000 Worth of DOS and 10,000 USDT in Airdrop+ Rewards",
-      "url": "https://www.tradingview.com/news/chainwire:e08ef5188094b:0-mexc-lists-dappos-dos-with-60-000-worth-of-dos-and-10-000-usdt-in-airdrop-rewards/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
-    },
-    {
-      "id": "7a290706fcb46600e8e9da23bb49dadc1e8108a8ca35377fa7ca160c3f521568",
-      "title": "99BitcoinsJupiter Lend v2 Links Lending Returns to Trading Fees",
-      "url": "https://www.tradingview.com/news/99Bitcoins:9d9cd91bb094b:0-jupiter-lend-v2-links-lending-returns-to-trading-fees/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
-    },
-    {
-      "id": "efd91105dccf06dcdbd8b86e36744bf16ac80cff4ecf02bb0d86cda2e286d3f8",
-      "title": "CoindarTHORChain to Release Community Member Spotlight Podcast on August 15th",
-      "url": "https://www.tradingview.com/news/coindar:4e8085edb094b:0-thorchain-to-release-community-member-spotlight-podcast-on-august-15th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T11:32:12.878Z"
+      "scraped_at": "2026-08-11T12:29:22.801Z"
     }
   ]
 }
