@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-08-11T15:41:21.874Z",
-  "total": 16,
+  "generated_at": "2026-08-11T16:38:48.353Z",
+  "total": 15,
   "items": [
+    {
+      "id": "f6e62ba632f52e5ac0ca686afdbd1fde65f94ba79c751cb5bbe16120554e75f7",
+      "title": "CointelegraphBitcoin drops to one-week low as retail buys gold at highest prices since June",
+      "url": "https://www.tradingview.com/news/cointelegraph:e6feb019e094b:0-bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T16:38:48.350Z"
+    },
+    {
+      "id": "2ffd01036533d9dafe8a27f9582659b1dd7f61525d2553e1ad30adb7d696d008",
+      "title": "NewsBTCBTCPay Server Patches Critical LND Credential Bug After Lightning Wallet Drain",
+      "url": "https://www.tradingview.com/news/newsbtc:9523470b0094b:0-btcpay-server-patches-critical-lnd-credential-bug-after-lightning-wallet-drain/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T16:38:48.350Z"
+    },
+    {
+      "id": "f9bfe559fa1b704d5328dcff25fdf06c00b46bc1be87bdb5070b2d44dead7edb",
+      "title": "ReutersCoolpad Group May Buy Up To $5 MLN Of US-Listed Crypto Assets Securities",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4481EG:0-coolpad-group-may-buy-up-to-5-mln-of-us-listed-crypto-assets-securities/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T16:38:48.350Z"
+    },
+    {
+      "id": "ede8147875b2ec0cf9f869299332bba0595585feb7303f07ea673f265f395f41",
+      "title": "The BlockFrom bitcoin bull to ‘complete demolition’: Keel CEO bets on AI’s greater value",
+      "url": "https://www.tradingview.com/news/the_block:0347edc44094b:0-from-bitcoin-bull-to-complete-demolition-keel-ceo-bets-on-ai-s-greater-value/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T16:38:48.350Z"
+    },
     {
       "id": "90ffd9660afb2143a86312670644173b3c3ef7fa9369b1db52743cb75b717eb1",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260811006481:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
+      "scraped_at": "2026-08-11T16:38:48.350Z"
     },
     {
       "id": "d29ed57431f5ac4b6e371c23468bad6beb5be0b5f862735a71122de272e90686",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260811006485:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
+      "scraped_at": "2026-08-11T16:38:48.350Z"
     },
     {
       "id": "0a0c85ffb88435e485d289fcb46a717042e50ea088d67114c697718dee3fe536",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260811005150:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
+      "scraped_at": "2026-08-11T16:38:48.350Z"
+    },
+    {
+      "id": "a6047b68783b4646d6a580f7804c963bb480dfd1b5ca2fd2ab45798d8d2eb33c",
+      "title": "BenzingaStrategy CEO Phong Le Calls MSTR an 'Amplified Bitcoin Play,' Says 'We'll Get Back To Buying More'",
+      "url": "https://www.tradingview.com/news/benzinga:14ce5fa32094b:0-strategy-ceo-phong-le-calls-mstr-an-amplified-bitcoin-play-says-we-ll-get-back-to-buying-more/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T16:38:48.350Z"
+    },
+    {
+      "id": "e171d4c4ad127d3b0a4b9ba69aace06b3cc1815617c142ffd072378e80c13010",
+      "title": "Chainwire$ZAMA Lists on Revolut, Bringing Blockchain Privacy Into the Mainstream",
+      "url": "https://www.tradingview.com/news/chainwire:27ed48408094b:0-zama-lists-on-revolut-bringing-blockchain-privacy-into-the-mainstream/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T16:38:48.350Z"
+    },
+    {
+      "id": "6c5ac38d21aaa84296ff0876891ac8687ab729160c28d6bdfd269a4c6dca8a2a",
+      "title": "ChainwireForumPay Expands Payment Infrastructure with New Card and Bank Transfer Acceptance Solution",
+      "url": "https://www.tradingview.com/news/chainwire:c5c35f876094b:0-forumpay-expands-payment-infrastructure-with-new-card-and-bank-transfer-acceptance-solution/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-11T16:38:48.350Z"
     },
     {
       "id": "dab1dc25ab8cd58b1d086fdd919ef53c52a00d2b1ac1030f0d2ef7facd4b947d",
       "title": "dpa-AFXFresh Peace Deal Hopes Fail To Lift Cryptocurrencies",
       "url": "https://www.tradingview.com/news/dpa_afx:5ce13c15d430a:0-fresh-peace-deal-hopes-fail-to-lift-cryptocurrencies/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
+      "scraped_at": "2026-08-11T16:38:48.350Z"
     },
     {
       "id": "1e18ddef3c93b52276a76e284ef9b9fbab964971944f8c4ff02faf5efc6e1486",
       "title": "The BlockBitcoin slips toward $64,000 as traders await Wednesday’s inflation test",
       "url": "https://www.tradingview.com/news/the_block:cc6d6722e094b:0-bitcoin-slips-toward-64-000-as-traders-await-wednesday-s-inflation-test/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
+      "scraped_at": "2026-08-11T16:38:48.350Z"
     },
     {
       "id": "b0d095d9ad6df0cc80790594b8a02bb2da39047e91a5cbd6d68a7a6ed7eeb4be",
       "title": "The BlockBenchmark sees over 150% upside for Bitdeer on bitcoin mining, AI outlook",
       "url": "https://www.tradingview.com/news/the_block:efe2ba5b2094b:0-benchmark-sees-over-150-upside-for-bitdeer-on-bitcoin-mining-ai-outlook/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
+      "scraped_at": "2026-08-11T16:38:48.350Z"
     },
     {
       "id": "6c18e85a978a88ab22b86a9c9509f349e669901bc9e747ceb5f6d4f75d04f4be",
       "title": "Finance MagnatesTradFi Is Getting Easier Access to DeFi. FATF Says Institutions Still Own the Risk",
       "url": "https://www.tradingview.com/news/financemagnates:9b4a47cea094b:0-tradfi-is-getting-easier-access-to-defi-fatf-says-institutions-still-own-the-risk/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
+      "scraped_at": "2026-08-11T16:38:48.350Z"
     },
     {
-      "id": "741b161e80932704c126127d831dac7854104771850384b5ccda3b20f1a50a12",
-      "title": "CoinMarketCalSolana: MoneyGram Ramps goes live - 11 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:46e66a4be094b:0-solana-moneygram-ramps-goes-live-11-aug-2026/",
+      "id": "999e04ef8b79a95d0e31a7bd9ef2b5f5990952670ad02bff87f8cfff24439800",
+      "title": "CoinpediaCoinbase Opens Abu Dhabi Tokenization Hub With FSRA Approval",
+      "url": "https://www.tradingview.com/news/coinpedia:b8b424b71094b:0-coinbase-opens-abu-dhabi-tokenization-hub-with-fsra-approval/",
       "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
-    },
-    {
-      "id": "9220dc68ea152cdff494ab16dd143d32c2e37c4650fb01d1a65760b6dbeec643",
-      "title": "CoinMarketCalRE: reUSD is live on Solana - 11 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:7e653b120094b:0-re-reusd-is-live-on-solana-11-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
-    },
-    {
-      "id": "4e0d62ac874334be1f3d99061daeceae157c431bf6339698fad646f1840f3ea0",
-      "title": "CoinMarketCalAPEX: Payment integration expands AEON merchant access - 11 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:b256f5e63094b:0-apex-payment-integration-expands-aeon-merchant-access-11-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
-    },
-    {
-      "id": "8f5d41ac7e1563064977f38343011dd13d8b8d117b80234f37c1acf8a107b66c",
-      "title": "ZacksCRCL Q2 Earnings Call Highlights Arc-Led Revenue Outlook",
-      "url": "https://www.tradingview.com/news/zacks:9757e93f4094b:0-crcl-q2-earnings-call-highlights-arc-led-revenue-outlook/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
-    },
-    {
-      "id": "b6906a6804b781b91f9cc06c78e62b4b94d131af9cfabf50d866cae1bf1cfbbc",
-      "title": "CointelegraphADI Chain, Shipfinex partner to tokenize $500M vessel pipeline",
-      "url": "https://www.tradingview.com/news/cointelegraph:5811f9c1d094b:0-adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
-    },
-    {
-      "id": "a6e5d243de20d97935ecb5ec5ca8f532738835688801d024ee26078fbcd01e0c",
-      "title": "BenzingaRobinhood Expands UK Crypto Ecosystem With Trading and AI Tools",
-      "url": "https://www.tradingview.com/news/benzinga:7ad41ab14094b:0-robinhood-expands-uk-crypto-ecosystem-with-trading-and-ai-tools/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
-    },
-    {
-      "id": "376e3aa2197fc28ccfe0c1735cd750783293d4109d13a320540bc50ad12e6cb8",
-      "title": "BeincryptoBitcoin Whales Add 46,000 BTC but Weak Network Activity Clouds Recovery",
-      "url": "https://www.tradingview.com/news/beincrypto:add46fcac094b:0-bitcoin-whales-add-46-000-btc-but-weak-network-activity-clouds-recovery/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.869Z"
-    },
-    {
-      "id": "d67012114137f3f449ba0500a05687ac4b3acb535a11348799cd51c09c501e58",
-      "title": "ChainwireBlockchain for Good Alliance and Bybit Join the Mauritius Internet Governance Forum to Advance Digital Trust for Small Island States",
-      "url": "https://www.tradingview.com/news/chainwire:650c34b24094b:0-blockchain-for-good-alliance-and-bybit-join-the-mauritius-internet-governance-forum-to-advance-digital-trust-for-small-island-states/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.870Z"
-    },
-    {
-      "id": "59ce0ac50dc9da3ba2a753201b69d4d5868c345a901873c2bbb3c62c1e2cd68f",
-      "title": "BusinessWireSolmate Infrastructure PLC (NASDAQ: SLMT) Launches Public Treasury Dashboard",
-      "url": "https://www.tradingview.com/news/business_wire:4603add02c848:0-solmate-infrastructure-plc-nasdaq-slmt-launches-public-treasury-dashboard/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-11T15:41:21.870Z"
+      "scraped_at": "2026-08-11T16:38:48.351Z"
     }
   ]
 }
