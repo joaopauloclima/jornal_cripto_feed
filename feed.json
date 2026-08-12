@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-12T14:07:18.238Z",
-  "total": 14,
+  "generated_at": "2026-08-12T15:40:19.112Z",
+  "total": 15,
   "items": [
+    {
+      "id": "784b1d98fa58ce540bd9470e85eaf347133d12a50446b35d39d952d2ccaf5bf9",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260812008079:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "dafc46587a7628a37b853ca0e2b061927ebff84a81ed78e2d487ecd94bcddca8",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260812008080:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "c312683bfe01a8caeda54a47854cd9221ca8b91e773fd88367bc991ee9b1ef00",
+      "title": "The BlockAttackers keep hitting the wrong house in rural France after crypto millionaire moved: report",
+      "url": "https://www.tradingview.com/news/the_block:c3e07ba7a094b:0-attackers-keep-hitting-the-wrong-house-in-rural-france-after-crypto-millionaire-moved-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "e8ee13e6361ddb00c03397f725572221fa21e9566b556ad4e58314a52b4db83a",
+      "title": "The BlockNew York City Council opens probe into prediction market platforms",
+      "url": "https://www.tradingview.com/news/the_block:061d8246d094b:0-new-york-city-council-opens-probe-into-prediction-market-platforms/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "560a65689a63ba6ed427c71eb6f35effe73f2430392d3e75197e5de54ffe1530",
+      "title": "ReutersIs Yatirim Decides To Buy 100% Of Futurance Kripto Varlik Alim Satim Platformu For $3.65 Million",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44914Z:0-is-yatirim-decides-to-buy-100-of-futurance-kripto-varlik-alim-satim-platformu-for-3-65-million/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "56def4758a8bb6d856fc189f7c8e46289f8bc366e0ce6fc24e85e35dab2c3569",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260812007762:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "2a5ae2364ed97870a053ef1f6ee90a83999bcb570216d37e367127c30ce4fbe5",
+      "title": "CointelegraphBitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+      "url": "https://www.tradingview.com/news/cointelegraph:a05c96e20094b:0-bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "8bc1063e3fadde70207745acc27166239d5b8c1950c7548d64d353644d61338e",
+      "title": "dpa-AFXCryptos Slip Amidst In-line CPI",
+      "url": "https://www.tradingview.com/news/dpa_afx:44630cd2cae4d:0-cryptos-slip-amidst-in-line-cpi/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "93b3f426b971b8d0340a1d45932c78bde76ad44bd6ba6b7034ac9df3f245639e",
+      "title": "BeincryptoSolana Network Nearly Stopped Working Today. Should SOL Investors Worry?",
+      "url": "https://www.tradingview.com/news/beincrypto:f90d61f6a094b:0-solana-network-nearly-stopped-working-today-should-sol-investors-worry/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "184b18e14bf341123df52678d80f37384f3dc63e366a4cdaa79f2112d185c437",
+      "title": "PR NewswireAnchorpoint and HashKey Exchange Partner on HKDAP Beta Access",
+      "url": "https://www.tradingview.com/news/prnewswire:41a3bcf09ca02:0-anchorpoint-and-hashkey-exchange-partner-on-hkdap-beta-access/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
+    {
+      "id": "0d9b58d54fc247e8a510b85b5b5ac0385cfc0dc51c67809974b9e2f886849ae1",
+      "title": "The BlockBitcoin dips under $64,000 as in-line CPI buys the Fed time, not conviction: analysts",
+      "url": "https://www.tradingview.com/news/the_block:f630fabcb094b:0-bitcoin-dips-under-64-000-as-in-line-cpi-buys-the-fed-time-not-conviction-analysts/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T15:40:19.109Z"
+    },
     {
       "id": "dab88749e22adc24f1a6035db88a1413b1d2a837c693c370729dd223c76a1b70",
       "title": "CoinMarketCalCurve DAO: LlamaLend launches svZCHF borrowing market - 12 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:79daed6a7094b:0-curve-dao-llamalend-launches-svzchf-borrowing-market-12-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
+      "scraped_at": "2026-08-12T15:40:19.109Z"
     },
     {
       "id": "6a9437d7d983685c03cfc1748fee6f89da767cf5ebef41fcc9c41bbcafb50d7d",
       "title": "CoinMarketCalPendle: Ecosystem USDC vault goes live on Morpho - 12 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:69c354045094b:0-pendle-ecosystem-usdc-vault-goes-live-on-morpho-12-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
+      "scraped_at": "2026-08-12T15:40:19.109Z"
     },
     {
       "id": "8e7c50c6ade9deab3e8e23d9757bb499c8efda8a4c2d046a6af74a0a18c826fd",
       "title": "The BlockKalshi first prediction market to stream full order books via DoubleZero",
       "url": "https://www.tradingview.com/news/the_block:5975f8417094b:0-kalshi-first-prediction-market-to-stream-full-order-books-via-doublezero/",
       "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
+      "scraped_at": "2026-08-12T15:40:19.109Z"
     },
     {
-      "id": "ee36b289da146477e6b7882aa128af30fce598ac4334bcc45ec26e4f7d771046",
-      "title": "ChainwireLTP Makes Strategic Investment in Digital Prime Technologies to Accelerate Global Expansion of Tokenet Across Asia-Pacific",
-      "url": "https://www.tradingview.com/news/chainwire:e139b4c8e094b:0-ltp-makes-strategic-investment-in-digital-prime-technologies-to-accelerate-global-expansion-of-tokenet-across-asia-pacific/",
+      "id": "cc1c8557221eb9d2e8677230fa131748075dfa9d806e633048ea190ea8bc0f8e",
+      "title": "CointelegraphKalshi launches sports and crypto perps data feed on DoubleZero",
+      "url": "https://www.tradingview.com/news/cointelegraph:1d3f45622094b:0-kalshi-launches-sports-and-crypto-perps-data-feed-on-doublezero/",
       "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "9f359e030d03c1ea4ead6e23c98ed21c622abdb166af56a253dc08ffcdfdbcd1",
-      "title": "London Stock ExchangeREG - Valereum PLC - Valereum Plc Announces AGM 2026",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-08-12:newsml_RSL4351Qa:0-reg-valereum-plc-valereum-plc-announces-agm-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "15e128b5a99ad504fb7f80f22b8eec47de8bb3ec1e13e2c196d441b9243394fc",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260812007024:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "39e4c16bb0bf03dd829253fc073c12fdd06d419c9af9ad3326a24b6dc41eba84",
-      "title": "CointelegraphSlovenia joins EU’s MiCA stablecoin register with first issuer",
-      "url": "https://www.tradingview.com/news/cointelegraph:1385c310a094b:0-slovenia-joins-eu-s-mica-stablecoin-register-with-first-issuer/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "bd9cc77c69e40b8dd408f8c0e6ae03e5223a9d9e43d8564cbd70efca1f6854a4",
-      "title": "CointelegraphWintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report",
-      "url": "https://www.tradingview.com/news/cointelegraph:9ce56dff1094b:0-wintermute-to-pour-1b-into-ai-high-frequency-trading-amid-tradfi-expansion-report/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "c305779171399239dda4de7b4ce4fb4f9e0a4fc2b3d085a48cfaa26f904a13ec",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260812006648:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "5b3c424db482cbafdbd469ca68724e48ea30849e1fa235edbf47fa6c57426f29",
-      "title": "ACCESS NewswireSign up to read this news",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-08-12:newsml_ACSYdyFSa:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "138dfee9c8d251fe13207cdbbd0576e0dc4ba9d08228999a5ecc8862c079f7d9",
-      "title": "BenzingaAre Bitcoin Miners Abandoning Mining for AI? Riot’s Anthropic Deal Has the Answer",
-      "url": "https://www.tradingview.com/news/benzinga:4757ce704094b:0-are-bitcoin-miners-abandoning-mining-for-ai-riot-s-anthropic-deal-has-the-answer/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "8d6b327bf2a290590652f9cfef04c781fe21f95e1537b343c12ec4c1e63d0273",
-      "title": "CointelegraphFidelity files with SEC to add staking to Ethereum ETF",
-      "url": "https://www.tradingview.com/news/cointelegraph:cd489c0b1094b:0-fidelity-files-with-sec-to-add-staking-to-ethereum-etf/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "3d9dce1355dce7bb7920d44212cc01f4b2cd6d3537a9e3c7c0673a1f3300fc9b",
-      "title": "CoindarMetis to Hold Live Stream on X on August 13th",
-      "url": "https://www.tradingview.com/news/coindar:20c4e63b3094b:0-metis-to-hold-live-stream-on-x-on-august-13th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
-    },
-    {
-      "id": "cfdc41d876fb9e0a76c8c83446c2d8a2ddc02bcada7f9a0cdf24e689207883c3",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260812003528:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T14:07:18.234Z"
+      "scraped_at": "2026-08-12T15:40:19.109Z"
     }
   ]
 }
