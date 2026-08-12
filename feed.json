@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-12T19:49:04.250Z",
+  "generated_at": "2026-08-12T20:51:37.846Z",
   "total": 15,
   "items": [
+    {
+      "id": "45e2448e03d7b82b6248c59aff046121feeba65fa4bf8faa1656ca0c145b242a",
+      "title": "ReutersDeFi Development Q2 revenue rises on digital asset treasury growth",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44913D:0-defi-development-q2-revenue-rises-on-digital-asset-treasury-growth/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "b8418309a9ac54a5934182defeaf6d2b136db613f42de58a89ed091a47b53e05",
+      "title": "CointelegraphGoldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+      "url": "https://www.tradingview.com/news/cointelegraph:61f977f79094b:0-goldman-sachs-to-acquire-etf-manager-neos-in-2-25b-deal/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "d4da1d81bbb1fa52f379c88c5f2fe7059a8679cba3734152e57cd2083ef059d0",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260812010979_20260812011468:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "a2911d185f703c18c5eb4fadb4984ca2c7e98a03fccc8d141876891127126057",
+      "title": "ReutersBitGo Q2 revenue jumps on higher asset sales",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44912E:0-bitgo-q2-revenue-jumps-on-higher-asset-sales/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "ed9af75e0d8a9e9eaa6ef5482a9ac095d8bc14e06241caa83bf8bc3250528314",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260812010979:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "b01acbf7fc452905a112723ba591ae1debc9e1b48286bb19782fe8192342d094",
+      "title": "CoinMarketCalFilecoin: Onchain Cloud goes live on mainnet - 12 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:26e555e98094b:0-filecoin-onchain-cloud-goes-live-on-mainnet-12-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "12eb8eb46691a1f245bbb1032cc5fdad5d58ced33488271f31f671826154e0e5",
+      "title": "CoinMarketCalREAL: ASSET staking window opens - 12 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:c09ed3978094b:0-real-asset-staking-window-opens-12-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "bce1dc3f5f163cdf6aa432178483e4ac3de4ae852808ff61aa596418484902cb",
+      "title": "CoinMarketCalAave: GHO Stability Module enables USDC swaps on Monad - 12 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:74d97f52a094b:0-aave-gho-stability-module-enables-usdc-swaps-on-monad-12-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "df1734d4c0b72d300026b55ded32fe83413c063333d7fd7e160e1da2632c8bde",
+      "title": "BenzingaBitcoin, Ethereum, XRP, Dogecoin Sluggish on Unsurprising July Inflation Data",
+      "url": "https://www.tradingview.com/news/benzinga:d679cb3eb094b:0-bitcoin-ethereum-xrp-dogecoin-sluggish-on-unsurprising-july-inflation-data/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "60e478dcf697c202a56ba70ecc2de923510921e2ba43d996780efd06519d1cf2",
+      "title": "Finance MagnatesKalshi Launches Real-Time Level 2 Data Feed for Institutional Traders",
+      "url": "https://www.tradingview.com/news/financemagnates:fb13b15e7094b:0-kalshi-launches-real-time-level-2-data-feed-for-institutional-traders/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.843Z"
+    },
+    {
+      "id": "bfa78149c26f706dcc672217d96d391e734a1a9b3069f5d7768d1714bb11ef35",
+      "title": "Finance MagnatesFCA Crypto Registration Rate Rose to 56%, but the Denominator Changes the Story",
+      "url": "https://www.tradingview.com/news/financemagnates:93d7bef10094b:0-fca-crypto-registration-rate-rose-to-56-but-the-denominator-changes-the-story/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-12T20:51:37.844Z"
+    },
     {
       "id": "43db67682c77e363b3f4fa2f25f7594446a47302da1d8866e706c652852704de",
       "title": "The BlockEthereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields",
       "url": "https://www.tradingview.com/news/the_block:3b2fd341e094b:0-ethereum-staking-climbs-to-34-as-proposal-targets-validator-rewards-and-eth-treasury-firm-yields/",
       "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
+      "scraped_at": "2026-08-12T20:51:37.844Z"
     },
     {
       "id": "7361149353130e172dba921847153eeab76e38035f6c6a80b38948bd8b7588f7",
       "title": "CointelegraphKraken adds S&P 500 to funded trading program, commodities to follow",
       "url": "https://www.tradingview.com/news/cointelegraph:5d730143a094b:0-kraken-adds-s-p-500-to-funded-trading-program-commodities-to-follow/",
       "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
+      "scraped_at": "2026-08-12T20:51:37.844Z"
     },
     {
       "id": "f12e0e3df15a1db79d8593209fa188d52cee84f332bc9f2f03a0a59a2167a545",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260812009305:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
+      "scraped_at": "2026-08-12T20:51:37.844Z"
     },
     {
       "id": "d97299231d165669b9f7e70da06fb46c5448788153cbde735ac9ed52452582a0",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:7d41fd674094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "a5dd8930ac8f2ddea2f07ab60c4c898d2603a5fb007081dd216b87759d5bc4d8",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260812009169:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "9c9f384ea1d4842025a161f3ffb0f3646f9681097d26e0e63f00c4f232089f08",
-      "title": "CointelegraphBitwise cuts 14% of staff while still expecting growth",
-      "url": "https://www.tradingview.com/news/cointelegraph:33803dc74094b:0-bitwise-cuts-14-of-staff-while-still-expecting-growth/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "5098d40cb37030068ab88ffc271eed85b382d360ab130babea5a393cc06125e6",
-      "title": "The BlockPolymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth",
-      "url": "https://www.tradingview.com/news/the_block:0f4aa993d094b:0-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "05b94382b0a8a014891f633acb394e79b7c4fc29487c207e67d13743db471acb",
-      "title": "Finance MagnatesPepperstone Appoints CTO Following Australian Crypto Exchange Launch",
-      "url": "https://www.tradingview.com/news/financemagnates:97addc57c094b:0-pepperstone-appoints-cto-following-australian-crypto-exchange-launch/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "e2de492ba4d75509a4b9cf0e5299499c0e1798fef9ce67ddbecad832e2434654",
-      "title": "ChainwireCoinFello launches Fello 2, an AI agent that builds, runs and automates DeFi strategies from plain language",
-      "url": "https://www.tradingview.com/news/chainwire:f926c2611094b:0-coinfello-launches-fello-2-an-ai-agent-that-builds-runs-and-automates-defi-strategies-from-plain-language/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "775a1f5008f0142928bde829f579e40194ec7118b10858ef04a36e4d3718b30a",
-      "title": "BenzingaXRP Whales Buy the Dip as Futures Open Interest Hits 10-Month High— So Why Is Price Down 6%?",
-      "url": "https://www.tradingview.com/news/benzinga:48771eeb8094b:0-xrp-whales-buy-the-dip-as-futures-open-interest-hits-10-month-high-so-why-is-price-down-6/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "a5264aaa182328a745dcd65fe83eec03d2dcf1e32cd9c5bde1c4ac810679feb2",
-      "title": "BeincryptoGold Price Climbed After July Inflation Data, But Bitcoin Didn’t. Why?",
-      "url": "https://www.tradingview.com/news/beincrypto:e43a94db9094b:0-gold-price-climbed-after-july-inflation-data-but-bitcoin-didn-t-why/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "66842db2b94168a03b0074daeb7acdf653c89a39388fc305734a6b48e6cc1978",
-      "title": "The BlockGoldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition",
-      "url": "https://www.tradingview.com/news/the_block:3d5db60b5094b:0-goldman-sachs-to-gain-bitcoin-and-eth-income-etfs-in-up-to-2-25-billion-neos-acquisition/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "d28628f0c1792f077ae7177a01d8a52049a2d5f7f3a61d66078a0ebeb1a12494",
-      "title": "CoinMarketCalPOL (ex-MATIC): Polygon Labs joins Digital Pound Lab - 12 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:41d67552f094b:0-pol-ex-matic-polygon-labs-joins-digital-pound-lab-12-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "603af263ef1e0b40d1407a6e33167da0dba09bf768db7206661233f0e28dbd4e",
-      "title": "CoinMarketCalAlgorand: Node runners vote on v5.0.0 consensus upgrade - 12 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:796c64f45094b:0-algorand-node-runners-vote-on-v5-0-0-consensus-upgrade-12-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
-    },
-    {
-      "id": "8369c5ac72b4cc6bc9be1441dfb739fdf27ad283c26aaad441823ea3388b4976",
-      "title": "Finance MagnatesRiver Markets Raises $8.5M to Build the First Prime Broker for Prediction Markets",
-      "url": "https://www.tradingview.com/news/financemagnates:2aecb5c7f094b:0-river-markets-raises-8-5m-to-build-the-first-prime-broker-for-prediction-markets/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-12T19:49:04.244Z"
+      "scraped_at": "2026-08-12T20:51:37.844Z"
     }
   ]
 }
