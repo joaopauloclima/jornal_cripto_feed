@@ -1,111 +1,118 @@
 {
-  "generated_at": "2026-08-13T17:44:23.538Z",
-  "total": 15,
+  "generated_at": "2026-08-13T18:40:58.574Z",
+  "total": 16,
   "items": [
+    {
+      "id": "834374820c35ab8604e8871344da7d122350e21b06c56c0ce285afa02bf85254",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260813010036:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "185805b10ec31c84d54067ad157ed9f8ef36126f650850de132172f7319e0e47",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260813010035:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "7c1f01c2962778665a15684beb0f775745bff68374d84303b35a28b47f574722",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260813010006:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "a2a5a966aa1cc16919efa8363a74c425ae621f11acb50cce4a5071f7de88caa9",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:f333c3593094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "de7c4275e9f014573b1d4009a3c517cd00c346ec1d31e86a3e79a978eafe4106",
+      "title": "CointelegraphCFTC to join SEC in exploring crypto regulations without CLARITY bill",
+      "url": "https://www.tradingview.com/news/cointelegraph:7ede63165094b:0-cftc-to-join-sec-in-exploring-crypto-regulations-without-clarity-bill/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "9db0d90d150e2de874f3a69b0d067e6fd8fc10527b05f5be768d8ee7619e3a68",
+      "title": "CoindarFilecoin Users Face Infura IPFS Shutdown on August 15th",
+      "url": "https://www.tradingview.com/news/coindar:9cddb6d8f094b:0-filecoin-users-face-infura-ipfs-shutdown-on-august-15th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "d54b67954124ae0d1f11f1f9add05c711f70ef546873629f12916d20b01481b3",
+      "title": "CoindarIoTeX Tick Sizes to Be Updated on Binance on August 20th",
+      "url": "https://www.tradingview.com/news/coindar:8ad46a3fd094b:0-iotex-tick-sizes-to-be-updated-on-binance-on-august-20th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "725812ea9312fe0aadbd46ae59596a60674a2f607b0dd705ad86e51c66b4647d",
+      "title": "CoindarWanchain Integrated VeChain on August 13th",
+      "url": "https://www.tradingview.com/news/coindar:ff9fefb33094b:0-wanchain-integrated-vechain-on-august-13th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "5fb564c2e0e358e668a06998478182fed7c31264ac3f3e4e30b491c07d28c7db",
+      "title": "CoindarInjective to Host Community Call on August 14th",
+      "url": "https://www.tradingview.com/news/coindar:a8475e88d094b:0-injective-to-host-community-call-on-august-14th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "7301b3c8a4a941be5e1757ba496cc6687357f4439827bedadef2f3e738a6fad6",
+      "title": "CoindarSuperRare to Open Futurespective Exhibition on September 3rd",
+      "url": "https://www.tradingview.com/news/coindar:6a3cfd79e094b:0-superrare-to-open-futurespective-exhibition-on-september-3rd/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.570Z"
+    },
+    {
+      "id": "87c163c6a2ad5a7a0225c89142f9bd8158e0afc700b6dcf8d51ab47d95d3e28c",
+      "title": "CoindarThe Sandbox to Hold Hackathon on September 11th",
+      "url": "https://www.tradingview.com/news/coindar:59d180bb5094b:0-the-sandbox-to-hold-hackathon-on-september-11th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.571Z"
+    },
+    {
+      "id": "7fcc95a5970c9d7143454b66d7e975163c53a6f42588006ef5dbfb68b6792a9b",
+      "title": "The BlockCitigroup CEO Fraser on Clarity Act: ‘We would like to see a good bill go through,’ as stablecoin reward issues simmer",
+      "url": "https://www.tradingview.com/news/the_block:257f8ad10094b:0-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-a-good-bill-go-through-as-stablecoin-reward-issues-simmer/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.571Z"
+    },
+    {
+      "id": "38e4cfb595e44e6b9f4aed9413474381b7ba34e51e6ecec4ded0f37087fe2c48",
+      "title": "CoindarSyscoin Expects Liberty v5.1.0 Activation Around August 17th",
+      "url": "https://www.tradingview.com/news/coindar:7cce69d4a094b:0-syscoin-expects-liberty-v5-1-0-activation-around-august-17th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.571Z"
+    },
+    {
+      "id": "1364bed14a96a7e97bcf33d2a87ede33f6315f8443e5b54c4ae379cf97a2f860",
+      "title": "CoindarSingularityNET to Hold OmegaClaw Workshop on August 13th",
+      "url": "https://www.tradingview.com/news/coindar:3a5346504094b:0-singularitynet-to-hold-omegaclaw-workshop-on-august-13th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T18:40:58.571Z"
+    },
     {
       "id": "992c5c6d031c1ec4eb80ebb59a16a23f664e4d03e1bc039286659c3f48235846",
       "title": "CoindarTHORChain to Hold Live Stream on Riverside",
       "url": "https://www.tradingview.com/news/coindar:005a1b44f094b:0-thorchain-to-hold-live-stream-on-riverside/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
+      "scraped_at": "2026-08-13T18:40:58.571Z"
     },
     {
-      "id": "587d0bcbc9a68f72fced3e66b6bb64d83f948d509ecee07504760e9e5a70795e",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260813009786:0/",
+      "id": "344fa4fa6177df82c73abeab50af4ff296c05e93cc0c830e08372979215c7cc3",
+      "title": "CointelegraphCrypto group backs Custodia in Supreme Court battle over Fed access",
+      "url": "https://www.tradingview.com/news/cointelegraph:bdb37696e094b:0-crypto-group-backs-custodia-in-supreme-court-battle-over-fed-access/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "1f0f6b8974cc6e3bd41ec78e2257fa19f9db51910cf4647481c458ec78aa1c8d",
-      "title": "CoindarOntology to Undergo Hard Fork on August 21st",
-      "url": "https://www.tradingview.com/news/coindar:aa524d57d094b:0-ontology-to-undergo-hard-fork-on-august-21st/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "d794afcf8ce62b2bea78e1c38ac7e935dc7e3476924ee72c95abc3a0d7a0b136",
-      "title": "ReutersFintech Chime explores stablecoins as new feature on its app - Bloomberg News",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44A17R:0-fintech-chime-explores-stablecoins-as-new-feature-on-its-app-bloomberg-news/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "bb469fb705f5a0085bbbcc8afe662b14598f3a884e30573bdbff28500979ea1e",
-      "title": "CointelegraphRobinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
-      "url": "https://www.tradingview.com/news/cointelegraph:2312cfc89094b:0-robinhood-chain-nears-1b-tvl-as-uniswap-drives-liquidity-standard-chartered/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "b74d48e35e39e834c1dc47db66dea5bccf87cbcf036cf956becabaa057a79ef8",
-      "title": "CoinMarketCalConflux: v3.1.0 network hardfork upgrades network functionality - By 25 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:67c8ae36b094b:0-conflux-v3-1-0-network-hardfork-upgrades-network-functionality-by-25-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "ae7f3860853c118de16252ca2a4b3e7c1a0dc617593e48675e7fd29771790329",
-      "title": "CoinMarketCalEther.fi: Crypto neobank upgrade goes live - 13 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:a18aa4585094b:0-ether-fi-crypto-neobank-upgrade-goes-live-13-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "12a990ea8b591da5d6d44eeb97c3b211498dd520d7b00bdc504cddcbe8caf226",
-      "title": "BenzingaTrezor Warns of Phishing Risk After 13,689 Customers' Data Exposed: What Happened?",
-      "url": "https://www.tradingview.com/news/benzinga:b335c219a094b:0-trezor-warns-of-phishing-risk-after-13-689-customers-data-exposed-what-happened/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "ed1569dcb3740976ca08ddc9b832fefaa87ad6da6abc97f59386ebf3a51cf1a2",
-      "title": "ChainwireThailand Advances Toward Global Digital Asset Standards as Bitazza Achieves Travel Rule Readiness with Sumsub",
-      "url": "https://www.tradingview.com/news/chainwire:5e7e3d6e5094b:0-thailand-advances-toward-global-digital-asset-standards-as-bitazza-achieves-travel-rule-readiness-with-sumsub/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "f0f89be8bb7c1a753fcbbf69ae28069f19e2851e436505e35d15aec6fd320bca",
-      "title": "CointelegraphPublic Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
-      "url": "https://www.tradingview.com/news/cointelegraph:05dfd1e1c094b:0-public-bitcoin-miners-cut-hashrate-13-4-as-ai-infrastructure-revenue-grows/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "bea018c2dedab7c8bc2f8f81c1eb8e6a1208a05ccff5e90f9615e4a9c8a48c4d",
-      "title": "BenzingaAre Bitcoin 'OGs' Turning Bullish Again? Yes, but There's a Catch",
-      "url": "https://www.tradingview.com/news/benzinga:232297b5c094b:0-are-bitcoin-ogs-turning-bullish-again-yes-but-there-s-a-catch/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "01fcb8fef9eddd9c940704b3f5662a762dfdc7204d107591e25605269c88b5e9",
-      "title": "CointelegraphBullish shares jump 10% as Q2 adjusted EBITDA more than triples",
-      "url": "https://www.tradingview.com/news/cointelegraph:f96597357094b:0-bullish-shares-jump-10-as-q2-adjusted-ebitda-more-than-triples/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "a0a42aa0b4be014977a2c4f4ab9700b87254ec76fbc5944e8af8677d5c1a7eee",
-      "title": "CointelegraphTrezor reports data from 14K users exposed through shipping provider",
-      "url": "https://www.tradingview.com/news/cointelegraph:edc29ff2f094b:0-trezor-reports-data-from-14k-users-exposed-through-shipping-provider/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "49c915c2a72f9873820a2a8c6f7f15de1fd0d4964784a1577ff50b5a87dd0922",
-      "title": "CointelegraphBitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
-      "url": "https://www.tradingview.com/news/cointelegraph:247aaf2c6094b:0-bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
-    },
-    {
-      "id": "9d6a34e37dba7f76010a77c97fb1d6b585654914597ed4b4c223f95fa21bf7cc",
-      "title": "dpa-AFXCryptos Muted Despite Soft Producer Prices",
-      "url": "https://www.tradingview.com/news/dpa_afx:18b892c36dd1d:0-cryptos-muted-despite-soft-producer-prices/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T17:44:23.535Z"
+      "scraped_at": "2026-08-13T18:40:58.571Z"
     }
   ]
 }
