@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-13T20:49:27.149Z",
+  "generated_at": "2026-08-13T21:52:18.114Z",
   "total": 15,
   "items": [
+    {
+      "id": "0fc908fe248c18eeab2591abbe5c8302dcbe79b0c8daf7b8ed632d3444549feb",
+      "title": "ReutersUS securities regulator cancels meeting to vote on crypto rules",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44A1A5:0-us-securities-regulator-cancels-meeting-to-vote-on-crypto-rules/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T21:52:18.109Z"
+    },
+    {
+      "id": "d4fc8a779f9f6f382302387a4ad197d65bfbc5edec75f97a11a237ca90795ce0",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260813013429:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T21:52:18.109Z"
+    },
+    {
+      "id": "f254e36deb2c5884d4b2ab0cfd0b4e6222e0cdab17b817a520a28dc87ed2638c",
+      "title": "ReutersKULR Technology Q2 revenue falls 43%; bitcoin loss widens net loss",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44A1AV:0-kulr-technology-q2-revenue-falls-43-bitcoin-loss-widens-net-loss/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T21:52:18.109Z"
+    },
+    {
+      "id": "5faa775dd9a0f36e5783c6e610c4bfb8af9854ef0d78a17e5d21d85735904305",
+      "title": "ReutersCanada's DeFi Technologies Q2 revenue falls amid challenging digital asset market conditions",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44A1AG:0-canada-s-defi-technologies-q2-revenue-falls-amid-challenging-digital-asset-market-conditions/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T21:52:18.109Z"
+    },
     {
       "id": "9aece520df54fcb4b30285b3a6958be3101eef492802cb3c5e7b3787e61f3746",
       "title": "CointelegraphTether completes first full financial audit, receives clean KPMG opinion",
       "url": "https://www.tradingview.com/news/cointelegraph:767563f23094b:0-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.146Z"
+      "scraped_at": "2026-08-13T21:52:18.109Z"
+    },
+    {
+      "id": "8556a6c01e94677a685045f607126f754d9a708486a7d880a77e5127c6b995a9",
+      "title": "BeincryptoXRP Defends $1 by a Cent Since CLARITY Act Slipped. Now CFTC Steps In",
+      "url": "https://www.tradingview.com/news/beincrypto:32e060292094b:0-xrp-defends-1-by-a-cent-since-clarity-act-slipped-now-cftc-steps-in/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T21:52:18.109Z"
+    },
+    {
+      "id": "3e6922d8bc734c72b03fefe56e2b625f3238013ed661e9800f2e6a61a33a87f6",
+      "title": "Finance MagnatesDeribit to Route Most Spot Orders to Coinbase under New Dubai Licence",
+      "url": "https://www.tradingview.com/news/financemagnates:39c6397d6094b:0-deribit-to-route-most-spot-orders-to-coinbase-under-new-dubai-licence/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T21:52:18.110Z"
     },
     {
       "id": "63f75718bd89d1564941889cb4051297d4af57ff8895ca3796347dddf53d835e",
       "title": "AReutersAVAX One Q2 revenue rises on staking rewards, bitcoin mining",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44A14Z:0-avax-one-q2-revenue-rises-on-staking-rewards-bitcoin-mining/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.146Z"
+      "scraped_at": "2026-08-13T21:52:18.110Z"
+    },
+    {
+      "id": "bfd67423d5cf066aa72dc56fd8a8924cba6798a5d5b365fcebf85e9d3858a412",
+      "title": "BenzingaBitcoin, Ethereum Will Outperform XRP, Solana in the Future, Star Analyst Says",
+      "url": "https://www.tradingview.com/news/benzinga:243dcef6f094b:0-bitcoin-ethereum-will-outperform-xrp-solana-in-the-future-star-analyst-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-13T21:52:18.110Z"
     },
     {
       "id": "251016d1fef65e87584890917a21fdd191480181927e96bc2944aed2134a98e9",
       "title": "CoinMarketCalSui: Hadron integration enables institutional asset issuance - 13 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:d0ea7d0bc094b:0-sui-hadron-integration-enables-institutional-asset-issuance-13-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.146Z"
+      "scraped_at": "2026-08-13T21:52:18.110Z"
     },
     {
       "id": "e9786872fc49991f77af1cb2760eaea6a9738f574a564a7d729e97da549f342d",
       "title": "CoinMarketCalEther.fi: Begins programmatic ETHFI buybacks - 13 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:82d59d4ef094b:0-ether-fi-begins-programmatic-ethfi-buybacks-13-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.146Z"
+      "scraped_at": "2026-08-13T21:52:18.110Z"
     },
     {
       "id": "21b087b1134412d56c006d91b156a7d99fe719ae3a0ee15a41760524f6a3d02d",
       "title": "CoinMarketCalCurve DAO: Epoch 6 cuts annual CRV emissions - 13 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:c308e5030094b:0-curve-dao-epoch-6-cuts-annual-crv-emissions-13-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.146Z"
+      "scraped_at": "2026-08-13T21:52:18.110Z"
     },
     {
       "id": "e94b65b933db656ed379bbd3b6b7421bd229a3bb413d6a4918f43cc162347caf",
       "title": "CointelegraphDelio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
       "url": "https://www.tradingview.com/news/cointelegraph:5d0db3afe094b:0-delio-ceo-sentenced-to-15-years-in-prison-on-crypto-fraud-in-south-korea/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.146Z"
+      "scraped_at": "2026-08-13T21:52:18.110Z"
     },
     {
       "id": "ce2c03ab5ca424b6ac4522d8e5817e38696cb0e6eadccc31a2a19330a69adb66",
       "title": "Finance MagnatesFATF Says 83% Have Crypto Travel Rules, but Action Stays Near 40%",
       "url": "https://www.tradingview.com/news/financemagnates:c4e7e32a5094b:0-fatf-says-83-have-crypto-travel-rules-but-action-stays-near-40/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.146Z"
+      "scraped_at": "2026-08-13T21:52:18.110Z"
     },
     {
       "id": "95a11ad2ab766e017a12868e1635a178ebd11d6b84a3be1db069b40098710f89",
       "title": "The BlockTether says KPMG issued ‘clean’ opinion in first full audit of USDT issuer’s financials",
       "url": "https://www.tradingview.com/news/the_block:f4e67bb61094b:0-tether-says-kpmg-issued-clean-opinion-in-first-full-audit-of-usdt-issuer-s-financials/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.146Z"
-    },
-    {
-      "id": "3aa4de410b43bb52c11e8dfab28775995402d9989dcb25fdf4733b532344e6e8",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260813010168:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.146Z"
-    },
-    {
-      "id": "7fd796a64fe207d194c7c680e345320f7c1e143380f915011e5e19558f18c9e1",
-      "title": "ChainwireZebec Introduces “Earn on Pay” Capability with Solstice’s USX",
-      "url": "https://www.tradingview.com/news/chainwire:93f12a7ac094b:0-zebec-introduces-earn-on-pay-capability-with-solstice-s-usx/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.147Z"
-    },
-    {
-      "id": "8aee5e09102bed7c2e60c5ff9506f6d630ec7cfd3d305be45107d02da4c73cba",
-      "title": "The BlockBaltimore sues Kalshi and Polymarket, roping Coinbase, Robinhood and Webull into the fight",
-      "url": "https://www.tradingview.com/news/the_block:6ed1e686e094b:0-baltimore-sues-kalshi-and-polymarket-roping-coinbase-robinhood-and-webull-into-the-fight/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.147Z"
-    },
-    {
-      "id": "cf23b19fa86b9040afb84d18a7fb085cd088dede6e9eb1c0a157c04a78009c30",
-      "title": "BenzingaWhat's Going On With the Fall in MARA Shares?",
-      "url": "https://www.tradingview.com/news/benzinga:28759b2d4094b:0-what-s-going-on-with-the-fall-in-mara-shares/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.147Z"
-    },
-    {
-      "id": "9d72242404d67fc082888d265d0bbd1395b5136b2da019d5b376db76d729eb88",
-      "title": "ReutersKraken Partners With Mesh To Simplify Crypto Deposits",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44A1FJ:0-kraken-partners-with-mesh-to-simplify-crypto-deposits/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.147Z"
-    },
-    {
-      "id": "d8bab1c553aa532fae38510019bedcb99017c8dace08116d2249762da6621c43",
-      "title": "The BlockGoogle ad phishing scam drains $550,000 from Hyperliquid user, security specialist says",
-      "url": "https://www.tradingview.com/news/the_block:bd327a582094b:0-google-ad-phishing-scam-drains-550-000-from-hyperliquid-user-security-specialist-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.147Z"
-    },
-    {
-      "id": "185805b10ec31c84d54067ad157ed9f8ef36126f650850de132172f7319e0e47",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260813010035:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T20:49:27.147Z"
+      "scraped_at": "2026-08-13T21:52:18.110Z"
     }
   ]
 }
