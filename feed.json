@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-14T16:34:31.849Z",
+  "generated_at": "2026-08-14T17:39:40.450Z",
   "total": 15,
   "items": [
+    {
+      "id": "fc9caf51860bce501110b2db5ea7b6e306085b296e5b1f347f288c7494ceb0b5",
+      "title": "The BlockIsrael’s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
+      "url": "https://www.tradingview.com/news/the_block:fc3f730cc094b:0-israel-s-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.446Z"
+    },
+    {
+      "id": "fd8c9b8161d5116a008f9745787452c42819b2a02d59e28cc3291f0501002b5a",
+      "title": "CointelegraphUK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
+      "url": "https://www.tradingview.com/news/cointelegraph:eabd81a79094b:0-uk-authorities-continue-probe-into-nigel-farage-s-crypto-gifts-after-by-election-win/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "5ae8b17dcddf4e5b88b59437bfe04bf18912abe4985db420f7ba2fe6e41a43d8",
+      "title": "CoinMarketCalDerive: expands XAUT product access - 14 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:9a665aed6094b:0-derive-expands-xaut-product-access-14-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "0318074804f332c995d857fb3d373c2370c1f5e9c77ea126c12302399893ce40",
+      "title": "CoinMarketCalMaple Finance: SYRUP buybacks begin - Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:f0e285a1c094b:0-maple-finance-syrup-buybacks-begin-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "7a3e7f7b7e5c4f72136404a406b22a3735a2205d0c41c352e6c15e9d766fe601",
+      "title": "CoinMarketCalHolo: Holochain 0.7 becomes available - 14 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:d10239f6d094b:0-holo-holochain-0-7-becomes-available-14-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "be17469e72305020c3d65640f322df927d5db5fdd5dbf06f3a9cee6c89a6897d",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260814007261:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "a54d0f863a24bcb5e2e20f231867c6391a1cd37facecdeab2e47a7089aa916e8",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:1a3d8e1b5094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "ca2dac988f6187eadb7b3db3cebe6623c003711eb9f6eaa7fb24f6fe9d43611d",
+      "title": "Stock StoryWhy Strategy (MSTR) Shares Are Trading Lower Today",
+      "url": "https://www.tradingview.com/news/stockstory:c59078a6f094b:0-why-strategy-mstr-shares-are-trading-lower-today/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "cd8ce0968cc32d50a6d68eedbc142c745dfff74d803854e8c6656fce73a3c3b0",
+      "title": "Finance MagnatesBinance Blocks HTX and EXMO. Sixteen Platforms Cut Off Amid Sanctions Push",
+      "url": "https://www.tradingview.com/news/financemagnates:2869ccb04094b:0-binance-blocks-htx-and-exmo-sixteen-platforms-cut-off-amid-sanctions-push/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "16404ff63674184bd0df14e7cc55d4e6d738433bc92a571e0a52af5ffbe9cd31",
+      "title": "Stock StoryWhy Coinbase (COIN) Stock Is Falling Today",
+      "url": "https://www.tradingview.com/news/stockstory:80c1be49d094b:0-why-coinbase-coin-stock-is-falling-today/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
     {
       "id": "5babe668990eec3f2916d5492d0899b2f55d52a59b030f7fe5db285031093679",
       "title": "ChainwireBybit TradFi Perpetuals Extend 24/7 Exposure to Over 200 Global Equities and Pre-IPO Assets",
       "url": "https://www.tradingview.com/news/chainwire:13fd5f40b094b:0-bybit-tradfi-perpetuals-extend-24-7-exposure-to-over-200-global-equities-and-pre-ipo-assets/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.845Z"
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "315ace5d10d5f667a9969aed7c9398437abae12a7ed71760fdef1805c1b215bc",
+      "title": "BenzingaBitcoin, Ethereum, Solana, XRP Remain Trapped: 'Crypto Bottom May Take Months,' Trader Cautions",
+      "url": "https://www.tradingview.com/news/benzinga:078399d1b094b:0-bitcoin-ethereum-solana-xrp-remain-trapped-crypto-bottom-may-take-months-trader-cautions/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
+    },
+    {
+      "id": "c52bf758164c0e2d271384c133c2b5fad0773c6af8d0416fbb9da22bdc3d0af9",
+      "title": "BeincryptoXRP Price Falls Below $1 Again Despite Record Network Adoption",
+      "url": "https://www.tradingview.com/news/beincrypto:a417794ec094b:0-xrp-price-falls-below-1-again-despite-record-network-adoption/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T17:39:40.447Z"
     },
     {
       "id": "284e51c2a3bcfa26652329488e5e519ddc221141a043ca1bb57886202dcb35cd",
       "title": "StocktwitsMSTR, BMNR, COIN, CRCL Stocks Slide After Bitcoin Falls Below $63K",
       "url": "https://www.tradingview.com/news/stocktwits:422244a1b094b:0-mstr-bmnr-coin-crcl-stocks-slide-after-bitcoin-falls-below-63k/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
+      "scraped_at": "2026-08-14T17:39:40.447Z"
     },
     {
       "id": "533761c335aa086ed68e27442322626bde5adf3e2c3410613f0f89c608bfda45",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260814006551:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "4bbb1f2d1b5b179f434895ac2ad05f2d55fabc94efb8a964682ce874df83954b",
-      "title": "The BlockBinance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
-      "url": "https://www.tradingview.com/news/the_block:aa1686f23094b:0-binance-to-block-transactions-with-htx-10-other-exchanges-under-eu-russia-sanctions/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "f7e37dcc1e8da3c0acac510871bc96ae4b34f76497705395e63727edef3e1a2a",
-      "title": "CointelegraphIsrael’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-      "url": "https://www.tradingview.com/news/cointelegraph:95798ceed094b:0-israel-s-largest-bank-taps-galaxy-to-offer-bitcoin-ether-solana-trading/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "235131446fd44d8424ea575a039a5d36712b236df16ea3e09aa93a0cfa2ff1cf",
-      "title": "CointelegraphCrypto Biz: Bitcoin’s $116M self-custody wake-up call",
-      "url": "https://www.tradingview.com/news/cointelegraph:34853b53c094b:0-crypto-biz-bitcoin-s-116m-self-custody-wake-up-call/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "c1d1d11fce150f2c9b1aa5d1734004be7ed41c0ffe583b37285ac3c12530aa6c",
-      "title": "Benzinga'Crypto is Dead' Chatter Is Back but Here's Why That's Bullish for BTC, ETH, XRP",
-      "url": "https://www.tradingview.com/news/benzinga:9ec9d587e094b:0-crypto-is-dead-chatter-is-back-but-here-s-why-that-s-bullish-for-btc-eth-xrp/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "351a107a422e6f4675a63e6a93f83072539fd1046a2c0415287c7ec438f9a31d",
-      "title": "The BlockEthena treasury company StablecoinX shares jump 12% after revealing 20% stake in ENA supply",
-      "url": "https://www.tradingview.com/news/the_block:d9761a45a094b:0-ethena-treasury-company-stablecoinx-shares-jump-12-after-revealing-20-stake-in-ena-supply/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "2e90e26252a3c0a20a7742bf7d2cbb8c2d3c066bcd12ccfa8c15d58fee1b4004",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260814006431:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "26e1e2d67388c0e37d196517d0905e73ae43782f7c025b028e7a320d10df1205",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260814006393:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "97dc127f2c2af83eefdd548c226da14ce2b2a2ed6baac67f7b4d93c534d51a8b",
-      "title": "CoindarVenus to End SKHYB Incentives on August 17th",
-      "url": "https://www.tradingview.com/news/coindar:6826aa2a4094b:0-venus-to-end-skhyb-incentives-on-august-17th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "a6aa4d00ec213a14e948fe01e7350a9762abc2c679fda2b4523f6403b79786f9",
-      "title": "CointelegraphBitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
-      "url": "https://www.tradingview.com/news/cointelegraph:f7d14c942094b:0-bitcoin-price-drops-to-62-5k-as-trader-warns-weekly-close-may-spark-more-losses/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "0e11d9e1bcfe4df8c1960eec5d9ee32dd2a5acb1bfb632edc573afbaf1753b52",
-      "title": "ZacksHIVE Digital Technologies to Report Q1 Earnings: What to Expect?",
-      "url": "https://www.tradingview.com/news/zacks:5d2aea5a1094b:0-hive-digital-technologies-to-report-q1-earnings-what-to-expect/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "b5ca7e3d704465a4836b12537f87942b9e82472777aa6c1effb2a02e064ef8f7",
-      "title": "BenzingaTrump-Affiliated WLFI Token Delays Expansion Plans Over Iran War",
-      "url": "https://www.tradingview.com/news/benzinga:ed8352f16094b:0-trump-affiliated-wlfi-token-delays-expansion-plans-over-iran-war/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
-    },
-    {
-      "id": "3538018be9f13fc93d47ad2d96078db874da345a1024b6e37e889259a8505856",
-      "title": "CoindarBella Protocol Partners With Starchild",
-      "url": "https://www.tradingview.com/news/coindar:0ef9d8fda094b:0-bella-protocol-partners-with-starchild/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T16:34:31.846Z"
+      "scraped_at": "2026-08-14T17:39:40.447Z"
     }
   ]
 }
