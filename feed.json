@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-14T10:42:49.728Z",
-  "total": 14,
+  "generated_at": "2026-08-14T11:31:45.694Z",
+  "total": 15,
   "items": [
+    {
+      "id": "ecc411d765d125b62c3b7f08386dccea1d669ab95b3960554a6f0771d37e72e5",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260814003801:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.691Z"
+    },
+    {
+      "id": "86644da79187cb3a8efb731bc797c89f24a3bc39e45c4f6261e31f234f3a9203",
+      "title": "PR NewswireBTQ Technologies Provides Q2 2026 Corporate Update Highlighting Commercial Progress Across Trusted Quantum Technologies Platform",
+      "url": "https://www.tradingview.com/news/prnewswire:eb709ea74c1e7:0-btq-technologies-provides-q2-2026-corporate-update-highlighting-commercial-progress-across-trusted-quantum-technologies-platform/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "9af53ba3d95092e638592d18c489d6db2013fc08de48984542b24181028270f7",
+      "title": "PR NewswireBTQ Technologies Provides Q2 2026 Corporate Update Highlighting Commercial Progress Across Trusted Quantum Technologies Platform",
+      "url": "https://www.tradingview.com/news/prnewswire:3bf540469f19a:0-btq-technologies-provides-q2-2026-corporate-update-highlighting-commercial-progress-across-trusted-quantum-technologies-platform/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "5224417b701c69307591d2cdd6dbe3a3c13e2930cd2bb8c4db6e77083804e38d",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260814003800:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "10dba7d2ff4db00c83669dcbe754013c1434e5e665cc9d52e897c6f7b8eecb5c",
+      "title": "ReutersBank Leumi Partners With Galaxy To Be The First Bank In Israel To Offer Digital Asset Trading",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44B0TX:0-bank-leumi-partners-with-galaxy-to-be-the-first-bank-in-israel-to-offer-digital-asset-trading/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "c35dfc27d9abd8ecf776a4caebedca9a70b3a3f16aef838b7e4fe37f69482541",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260814003602:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "99cd461ba47e1b23e7908f786e489dd71ca771e3c0920f761b45ddc7aa03cdf7",
+      "title": "PDow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260814003329_20260814003452:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "11cccb66849f4835a85defebdecb6b3f0710fb2bd587b0aa5b6a03a1bb0e52b1",
+      "title": "PDow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260814003329_20260814003439:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "8854bbe21a62138acf5c4ed64b9900f581a5ff690597c3ce0fcaf872e061d2f8",
+      "title": "CoinMarketCalKUB Coin: Completes 3rd Coin Burn - 14 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:068d0f242094b:0-kub-coin-completes-3rd-coin-burn-14-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "9d618542074e91b7ae8bcf5210207af14251c04fff7080260c0617d2fb2257f6",
+      "title": "CoinMarketCalSui: Socket routing is available through the Socket API - 14 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:63bacf236094b:0-sui-socket-routing-is-available-through-the-socket-api-14-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "b591bdcaba7ac1ea007526382cb4c242b8b529b7131c3b48eae8fde056d93be5",
+      "title": "CoinMarketCalBitcoin Cash: Post-Quantum Verifier goes live on BCH chipnet - 14 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:e48784afa094b:0-bitcoin-cash-post-quantum-verifier-goes-live-on-bch-chipnet-14-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
+    {
+      "id": "caaeda7b779a6388a54b847a890244f1fe62246103c5951dc9fb9d3f63d4e83e",
+      "title": "CointelegraphBitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’",
+      "url": "https://www.tradingview.com/news/cointelegraph:dd0b1a31b094b:0-bitcoin-eyes-new-august-lows-as-binance-longs-face-a-cleanout/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T11:31:45.692Z"
+    },
     {
       "id": "26e94b21577a5c19d9c8fa6447cdee2c37f3d6a8d6c0c80f9222c7a96d253d59",
       "title": "ReutersHyperscale Data Holds About 275 Bitcoin After Sale",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA2D98XD:0-hyperscale-data-holds-about-275-bitcoin-after-sale/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
+      "scraped_at": "2026-08-14T11:31:45.692Z"
     },
     {
       "id": "af27a6218329a00b650c50bbc2c16ed64bd3cf714ff1b425bd457c11ac4c1845",
       "title": "ReutersStablecoin issuer Tether says KPMG US has audited its 2025 statements",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44B0LG:0-stablecoin-issuer-tether-says-kpmg-us-has-audited-its-2025-statements/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
+      "scraped_at": "2026-08-14T11:31:45.692Z"
     },
     {
-      "id": "937bd48829b4e7c32641180483b6fc5c869fe166eb9373db0b86f2c5e7511e36",
-      "title": "ChainwireMEXC's August 2026 Proof of Reserves Confirms User Assets Fully Backed as Reserve Ratios Remain Above 100%",
-      "url": "https://www.tradingview.com/news/chainwire:81a4ca66c094b:0-mexc-s-august-2026-proof-of-reserves-confirms-user-assets-fully-backed-as-reserve-ratios-remain-above-100/",
+      "id": "c7ee30cdba9d46e5ac2adc246521eac45442fc7fc0b18c9c42797df8cb45cd7b",
+      "title": "BenzingaXRP Whales Go on an Accumulation Spree—Crypto Analyst Says 'Are They Preparing for a Bull Rally?'",
+      "url": "https://www.tradingview.com/news/benzinga:f8c4a940b094b:0-xrp-whales-go-on-an-accumulation-spree-crypto-analyst-says-are-they-preparing-for-a-bull-rally/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
-    },
-    {
-      "id": "7d7e2d9ec32cbf19c1f107869f7d97cf3a43cbf9fbbae1cd28591e56b4aed01e",
-      "title": "PR NewswireHyperscale Data Has Sold Approximately 685 Bitcoin for Approximately $43 Million, Reduces Debt by Approximately $30 Million and Strengthens Liquidity to Support Michigan Data Center Buildout",
-      "url": "https://www.tradingview.com/news/prnewswire:1d06f1e2adf25:0-hyperscale-data-has-sold-approximately-685-bitcoin-for-approximately-43-million-reduces-debt-by-approximately-30-million-and-strengthens-liquidity-to-support-michigan-data-center-buildout/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
-    },
-    {
-      "id": "2bdf43a7dde24ff5baf16b2aec5bda6b42480996c3e3913f94ce1e35b0c0ab3c",
-      "title": "CoinpediaWhy Bitcoin Failed to Rally After CPI & PPI—Will the Correction Extend to $60,000?",
-      "url": "https://www.tradingview.com/news/coinpedia:0d845d132094b:0-why-bitcoin-failed-to-rally-after-cpi-ppi-will-the-correction-extend-to-60-000/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
-    },
-    {
-      "id": "d868ae06e8a5c50c17d267564d4595af485d1a89b6e239a7e0f586597fadfb15",
-      "title": "BenzingaPeter Thiel-Backed Bullish Sees Tokenized Stocks as a 'Giant Growth Opportunity' No One Saw Coming",
-      "url": "https://www.tradingview.com/news/benzinga:b3cf8416e094b:0-peter-thiel-backed-bullish-sees-tokenized-stocks-as-a-giant-growth-opportunity-no-one-saw-coming/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
-    },
-    {
-      "id": "f981518a3a4a9facd86ed8755f0c616e57c57f01e332ad92cfa30ddcbe1dd2c7",
-      "title": "CointelegraphJPMorgan cut Polymarket banking ties over regulatory concerns: Report",
-      "url": "https://www.tradingview.com/news/cointelegraph:43d7bb9f2094b:0-jpmorgan-cut-polymarket-banking-ties-over-regulatory-concerns-report/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
-    },
-    {
-      "id": "99618e1c74195977e022049a17cb4ffdc6fed58cca31bf77e405e50b33b98bfa",
-      "title": "BeincryptoEthereum Makes Major Cryptography Pivot to Prepare for Quantum Era",
-      "url": "https://www.tradingview.com/news/beincrypto:2736e0e2f094b:0-ethereum-makes-major-cryptography-pivot-to-prepare-for-quantum-era/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
-    },
-    {
-      "id": "92a580ba2f52a5e96d1dc516da3e174332a8d561c4645e767ef28210ab929e8b",
-      "title": "CointelegraphCrypto payments barely register among euro area merchants, ECB finds",
-      "url": "https://www.tradingview.com/news/cointelegraph:289bfe73b094b:0-crypto-payments-barely-register-among-euro-area-merchants-ecb-finds/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
-    },
-    {
-      "id": "95077f505ca809c8ee32dc97ac76e29795956924036b886747398464fcd4c752",
-      "title": "CointelegraphSEC cancels key crypto regulatory meeting",
-      "url": "https://www.tradingview.com/news/cointelegraph:ba6862f26094b:0-sec-cancels-key-crypto-regulatory-meeting/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.724Z"
-    },
-    {
-      "id": "652fe3069245a12a9d70a247b4f666cbb6927b9fddd243e33ae5e79262f31ff5",
-      "title": "CoinMarketCalTHORChain: Unstoppable Wallet adds iOS support - By 23 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:86895b666094b:0-thorchain-unstoppable-wallet-adds-ios-support-by-23-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.725Z"
-    },
-    {
-      "id": "57ac1c4597c9dc86c2b8514480e9be402b9d9935eb9aaa42f77fc7fcf1b2d363",
-      "title": "CoinMarketCalTHORChain: Unstoppable Wallet adds Android support - By 17 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:d1b661cc9094b:0-thorchain-unstoppable-wallet-adds-android-support-by-17-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.725Z"
-    },
-    {
-      "id": "85645643396e85ece607039ce3f85c67da70a521d83096ed4b9783d22b72f542",
-      "title": "CoinMarketCalJasmyCoin: Upbit ends market support - 14 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:f6ea23d2e094b:0-jasmycoin-upbit-ends-market-support-14-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.725Z"
-    },
-    {
-      "id": "533ade25d58fb89d2896383fd72697ce6ccd5f8a545f924a2068ab475e5e2fd3",
-      "title": "BenzingaGavin Newsom's Democratic Presidential Nomination Prospects Sink as AOC Emerges as Frontrunner on Crypto Prediction Market",
-      "url": "https://www.tradingview.com/news/benzinga:df876cc87094b:0-gavin-newsom-s-democratic-presidential-nomination-prospects-sink-as-aoc-emerges-as-frontrunner-on-crypto-prediction-market/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T10:42:49.725Z"
+      "scraped_at": "2026-08-14T11:31:45.692Z"
     }
   ]
 }
