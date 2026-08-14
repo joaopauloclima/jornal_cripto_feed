@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-08-14T09:44:10.046Z",
-  "total": 15,
+  "generated_at": "2026-08-14T10:42:49.728Z",
+  "total": 14,
   "items": [
+    {
+      "id": "26e94b21577a5c19d9c8fa6447cdee2c37f3d6a8d6c0c80f9222c7a96d253d59",
+      "title": "ReutersHyperscale Data Holds About 275 Bitcoin After Sale",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA2D98XD:0-hyperscale-data-holds-about-275-bitcoin-after-sale/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T10:42:49.724Z"
+    },
+    {
+      "id": "af27a6218329a00b650c50bbc2c16ed64bd3cf714ff1b425bd457c11ac4c1845",
+      "title": "ReutersStablecoin issuer Tether says KPMG US has audited its 2025 statements",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44B0LG:0-stablecoin-issuer-tether-says-kpmg-us-has-audited-its-2025-statements/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T10:42:49.724Z"
+    },
+    {
+      "id": "937bd48829b4e7c32641180483b6fc5c869fe166eb9373db0b86f2c5e7511e36",
+      "title": "ChainwireMEXC's August 2026 Proof of Reserves Confirms User Assets Fully Backed as Reserve Ratios Remain Above 100%",
+      "url": "https://www.tradingview.com/news/chainwire:81a4ca66c094b:0-mexc-s-august-2026-proof-of-reserves-confirms-user-assets-fully-backed-as-reserve-ratios-remain-above-100/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T10:42:49.724Z"
+    },
+    {
+      "id": "7d7e2d9ec32cbf19c1f107869f7d97cf3a43cbf9fbbae1cd28591e56b4aed01e",
+      "title": "PR NewswireHyperscale Data Has Sold Approximately 685 Bitcoin for Approximately $43 Million, Reduces Debt by Approximately $30 Million and Strengthens Liquidity to Support Michigan Data Center Buildout",
+      "url": "https://www.tradingview.com/news/prnewswire:1d06f1e2adf25:0-hyperscale-data-has-sold-approximately-685-bitcoin-for-approximately-43-million-reduces-debt-by-approximately-30-million-and-strengthens-liquidity-to-support-michigan-data-center-buildout/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T10:42:49.724Z"
+    },
+    {
+      "id": "2bdf43a7dde24ff5baf16b2aec5bda6b42480996c3e3913f94ce1e35b0c0ab3c",
+      "title": "CoinpediaWhy Bitcoin Failed to Rally After CPI & PPI—Will the Correction Extend to $60,000?",
+      "url": "https://www.tradingview.com/news/coinpedia:0d845d132094b:0-why-bitcoin-failed-to-rally-after-cpi-ppi-will-the-correction-extend-to-60-000/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T10:42:49.724Z"
+    },
+    {
+      "id": "d868ae06e8a5c50c17d267564d4595af485d1a89b6e239a7e0f586597fadfb15",
+      "title": "BenzingaPeter Thiel-Backed Bullish Sees Tokenized Stocks as a 'Giant Growth Opportunity' No One Saw Coming",
+      "url": "https://www.tradingview.com/news/benzinga:b3cf8416e094b:0-peter-thiel-backed-bullish-sees-tokenized-stocks-as-a-giant-growth-opportunity-no-one-saw-coming/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T10:42:49.724Z"
+    },
     {
       "id": "f981518a3a4a9facd86ed8755f0c616e57c57f01e332ad92cfa30ddcbe1dd2c7",
       "title": "CointelegraphJPMorgan cut Polymarket banking ties over regulatory concerns: Report",
       "url": "https://www.tradingview.com/news/cointelegraph:43d7bb9f2094b:0-jpmorgan-cut-polymarket-banking-ties-over-regulatory-concerns-report/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
+      "scraped_at": "2026-08-14T10:42:49.724Z"
     },
     {
       "id": "99618e1c74195977e022049a17cb4ffdc6fed58cca31bf77e405e50b33b98bfa",
       "title": "BeincryptoEthereum Makes Major Cryptography Pivot to Prepare for Quantum Era",
       "url": "https://www.tradingview.com/news/beincrypto:2736e0e2f094b:0-ethereum-makes-major-cryptography-pivot-to-prepare-for-quantum-era/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
+      "scraped_at": "2026-08-14T10:42:49.724Z"
     },
     {
       "id": "92a580ba2f52a5e96d1dc516da3e174332a8d561c4645e767ef28210ab929e8b",
       "title": "CointelegraphCrypto payments barely register among euro area merchants, ECB finds",
       "url": "https://www.tradingview.com/news/cointelegraph:289bfe73b094b:0-crypto-payments-barely-register-among-euro-area-merchants-ecb-finds/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
+      "scraped_at": "2026-08-14T10:42:49.724Z"
     },
     {
       "id": "95077f505ca809c8ee32dc97ac76e29795956924036b886747398464fcd4c752",
       "title": "CointelegraphSEC cancels key crypto regulatory meeting",
       "url": "https://www.tradingview.com/news/cointelegraph:ba6862f26094b:0-sec-cancels-key-crypto-regulatory-meeting/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
+      "scraped_at": "2026-08-14T10:42:49.724Z"
     },
     {
       "id": "652fe3069245a12a9d70a247b4f666cbb6927b9fddd243e33ae5e79262f31ff5",
       "title": "CoinMarketCalTHORChain: Unstoppable Wallet adds iOS support - By 23 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:86895b666094b:0-thorchain-unstoppable-wallet-adds-ios-support-by-23-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
+      "scraped_at": "2026-08-14T10:42:49.725Z"
     },
     {
       "id": "57ac1c4597c9dc86c2b8514480e9be402b9d9935eb9aaa42f77fc7fcf1b2d363",
       "title": "CoinMarketCalTHORChain: Unstoppable Wallet adds Android support - By 17 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:d1b661cc9094b:0-thorchain-unstoppable-wallet-adds-android-support-by-17-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
+      "scraped_at": "2026-08-14T10:42:49.725Z"
     },
     {
       "id": "85645643396e85ece607039ce3f85c67da70a521d83096ed4b9783d22b72f542",
       "title": "CoinMarketCalJasmyCoin: Upbit ends market support - 14 Sep 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:f6ea23d2e094b:0-jasmycoin-upbit-ends-market-support-14-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
+      "scraped_at": "2026-08-14T10:42:49.725Z"
     },
     {
       "id": "533ade25d58fb89d2896383fd72697ce6ccd5f8a545f924a2068ab475e5e2fd3",
       "title": "BenzingaGavin Newsom's Democratic Presidential Nomination Prospects Sink as AOC Emerges as Frontrunner on Crypto Prediction Market",
       "url": "https://www.tradingview.com/news/benzinga:df876cc87094b:0-gavin-newsom-s-democratic-presidential-nomination-prospects-sink-as-aoc-emerges-as-frontrunner-on-crypto-prediction-market/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
-    },
-    {
-      "id": "ffa604df0af3e482a35feb7007d64b93b22f001034d1a8ea6c0d0d30bbc1d8b9",
-      "title": "Finance MagnatesRevolut Appoints Ex-Trading.com CEO Georgios Vasiliou to Head Cyprus Crypto Unit",
-      "url": "https://www.tradingview.com/news/financemagnates:17f347593094b:0-revolut-appoints-ex-trading-com-ceo-georgios-vasiliou-to-head-cyprus-crypto-unit/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
-    },
-    {
-      "id": "6a18d9695b0a5dc5f036f4e9131c79b90d2a6343a5f2ea5231bc5cec0ef4b030",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260814001625:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
-    },
-    {
-      "id": "a973e7e5c28b44c779d34e6beca9696e51ca4b878b38c28df1bf50666b826cc9",
-      "title": "CoinpediaSEC Crypto Rules Delayed: What It Means for XRP, HBAR and XLM",
-      "url": "https://www.tradingview.com/news/coinpedia:c615076f5094b:0-sec-crypto-rules-delayed-what-it-means-for-xrp-hbar-and-xlm/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
-    },
-    {
-      "id": "b81d7f43dd1c235d807e08812dc84db4ffa4b246a3efd2e1211aadb762aa21c6",
-      "title": "London Stock ExchangeREG - Africa Bitcoin Corp - Update regarding Admission to Aquis",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-08-14:newsml_RSN7209Qa:0-reg-africa-bitcoin-corp-update-regarding-admission-to-aquis/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
-    },
-    {
-      "id": "3e099e03f7254dc66d03f211dfad26c9eb43bdbdb29509fbea87aef9fd222c05",
-      "title": "Finance MagnatesFrom MiCA to GENIUS: Why Crypto's Next Regulatory Test Is Cross-Border Coordination",
-      "url": "https://www.tradingview.com/news/financemagnates:d47412cb1094b:0-from-mica-to-genius-why-crypto-s-next-regulatory-test-is-cross-border-coordination/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
-    },
-    {
-      "id": "d4eead277cd91425e4ee25ffed2f882d6a2e09fd9d9942dafe60892dfaa76fee",
-      "title": "BeincryptoSpaceX Ownership: How Much of the $2 Trillion Company Does Musk Own?",
-      "url": "https://www.tradingview.com/news/beincrypto:45f9a2246094b:0-spacex-ownership-how-much-of-the-2-trillion-company-does-musk-own/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
-    },
-    {
-      "id": "844363eadb03b3d6bdf704b521def67e1ce4660f6e801a5edbb561059854e9e3",
-      "title": "CointelegraphNeutrl pauses NUSD redemptions over undisclosed reserve issue",
-      "url": "https://www.tradingview.com/news/cointelegraph:5e5768f61094b:0-neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T09:44:10.043Z"
+      "scraped_at": "2026-08-14T10:42:49.725Z"
     }
   ]
 }
