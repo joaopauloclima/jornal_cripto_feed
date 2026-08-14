@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-13T23:48:14.689Z",
+  "generated_at": "2026-08-14T02:22:39.803Z",
   "total": 15,
   "items": [
+    {
+      "id": "1dcbf11eec97234d9498f290826dae783d122904598b39beec256a183b4a02d3",
+      "title": "Binance NewsHarmony Protocol Confirms Unauthorized ONE Minting and Suspends Bridge Services",
+      "url": "https://www.tradingview.com/news/binance_news:ab40e2b99094b:0-harmony-protocol-confirms-unauthorized-one-minting-and-suspends-bridge-services/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.799Z"
+    },
+    {
+      "id": "f42605ea49c0e3adb9c6ad1479f7fbff7c9b90f82456ed0090d6cf1b59330214",
+      "title": "Binance NewsHarmony Reports Minting Vulnerability, Says Cross-Shard Replay Bug Led to Unauthorized ONE Issuance",
+      "url": "https://www.tradingview.com/news/binance_news:a873fd1c8094b:0-harmony-reports-minting-vulnerability-says-cross-shard-replay-bug-led-to-unauthorized-one-issuance/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.799Z"
+    },
+    {
+      "id": "9c7f56fcac1f85d66d4a2cdbf85b9b07d9fa2685ec6531c96f02554f9579c214",
+      "title": "CoinMarketCalRE: Kamino increases the reUSD supply cap - By 14 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b49f558d4094b:0-re-kamino-increases-the-reusd-supply-cap-by-14-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.799Z"
+    },
+    {
+      "id": "ea743f39b40de82211c50748c500fbf4725bfca176715e9e3d09a1b94706f294",
+      "title": "CoinMarketCalCanton: BOOSTRY launches multi-chain wallet service - Dec 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:5fbc18700094b:0-canton-boostry-launches-multi-chain-wallet-service-dec-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.799Z"
+    },
+    {
+      "id": "1f75323d8c7309f61af940b80461363947d9aa990e3882bbd0d675009336f576",
+      "title": "Binance NewsEric Balchunas Says Anthony Pompliano-Linked Silvia Filed Five ETF Applications",
+      "url": "https://www.tradingview.com/news/binance_news:1380953ab094b:0-eric-balchunas-says-anthony-pompliano-linked-silvia-filed-five-etf-applications/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.799Z"
+    },
+    {
+      "id": "4f1c8ff1329f63957f443be72222d877ed794789ec6e5edf6cb7e7b4c8f47fcf",
+      "title": "Binance NewsCitigroup CEO Jane Fraser Backs CLARITY Act Despite Stablecoin Reward Concerns",
+      "url": "https://www.tradingview.com/news/binance_news:8ebdf94bd094b:0-citigroup-ceo-jane-fraser-backs-clarity-act-despite-stablecoin-reward-concerns/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.799Z"
+    },
+    {
+      "id": "3016381127da648f6d27ec604bd810f19e0c24544140bfd5cdc77775e8fab7c5",
+      "title": "Binance NewsVanEck Says Bitcoin Is Nearing A Cycle Bottom",
+      "url": "https://www.tradingview.com/news/binance_news:7f7940575094b:0-vaneck-says-bitcoin-is-nearing-a-cycle-bottom/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.799Z"
+    },
+    {
+      "id": "e3f16bb977851c9313fccd9d81bfe163cab8cd3644e0db0e60a0c6c108c8eddf",
+      "title": "Binance NewsFormer SEC Staffer Says CLARITY Act Would Still Need Months of Rulemaking",
+      "url": "https://www.tradingview.com/news/binance_news:008da0290094b:0-former-sec-staffer-says-clarity-act-would-still-need-months-of-rulemaking/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.799Z"
+    },
+    {
+      "id": "ad5304cde4bc3885eb1d579337fa10b80eee31b35a76a3121dddb07a370b9a2c",
+      "title": "Binance NewsBitwise Asset Management Partners With Superstate to Develop Fund Tokenization",
+      "url": "https://www.tradingview.com/news/binance_news:91e8a5582094b:0-bitwise-asset-management-partners-with-superstate-to-develop-fund-tokenization/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.800Z"
+    },
+    {
+      "id": "ac5fa7dad65adb21c8840e9f4f6d58d525cfaf7f1576a8136ffa9cc03304a9be",
+      "title": "Binance NewsSolstice Finance Launches strcUSX on Solana With Two-Tier STRC Yield Tokens",
+      "url": "https://www.tradingview.com/news/binance_news:c32e2158d094b:0-solstice-finance-launches-strcusx-on-solana-with-two-tier-strc-yield-tokens/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.800Z"
+    },
+    {
+      "id": "40eb26b911e8df126394674f88999f96939bd7dcfcced244e3047e80f1c2614c",
+      "title": "Binance NewsSEC Delays Tokenized Asset Innovation Exemption Again",
+      "url": "https://www.tradingview.com/news/binance_news:76e7bd4da094b:0-sec-delays-tokenized-asset-innovation-exemption-again/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.800Z"
+    },
+    {
+      "id": "e68a00cbdd95c1ce83413897c3790b76405f879ba39f87d6d51e7e66192c50ec",
+      "title": "Binance NewsVida Says He Hedged Bitcoin at $63,000 and Trimmed One-Third of His Position",
+      "url": "https://www.tradingview.com/news/binance_news:4edbc7460094b:0-vida-says-he-hedged-bitcoin-at-63-000-and-trimmed-one-third-of-his-position/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.800Z"
+    },
+    {
+      "id": "8232549cc0bcc6d0704687b5c6fbd25c217b5a3b02388d37edd3c277fd7737a8",
+      "title": "Binance NewsForward Industries Resumes SOL Purchases, Lifting Holdings Above 7.8 Million",
+      "url": "https://www.tradingview.com/news/binance_news:0402065a2094b:0-forward-industries-resumes-sol-purchases-lifting-holdings-above-7-8-million/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.800Z"
+    },
+    {
+      "id": "b3a1223bf1114cc7cb90893d63738405506a25debbfbf805c345e475204dac90",
+      "title": "Binance NewsBinance to Launch RLUSD Airdrop Campaign Rewarding Eligible Holders With XRP",
+      "url": "https://www.tradingview.com/news/binance_news:8b4a9df3d094b:0-binance-to-launch-rlusd-airdrop-campaign-rewarding-eligible-holders-with-xrp/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T02:22:39.800Z"
+    },
     {
       "id": "89f499d21adcb54f9a777060ab683f5a7f439c30b1e343831146ffcd6a3120ff",
       "title": "CointelegraphEthereum Foundation pivots away from Poseidon in post-quantum plan",
       "url": "https://www.tradingview.com/news/cointelegraph:94d0d54b3094b:0-ethereum-foundation-pivots-away-from-poseidon-in-post-quantum-plan/",
       "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.684Z"
-    },
-    {
-      "id": "7581c3f860450f7aafe468c938fa96588f3fe12504d2888bc2277a3d5246da46",
-      "title": "CoinMarketCalOntology: MainNet v3.1.2 activates - 21 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:30f56d536094b:0-ontology-mainnet-v3-1-2-activates-21-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.684Z"
-    },
-    {
-      "id": "eb3483afc30999e2bbbdba550baa3fa2e26a9aaaa1825a62bda8927aafc616e7",
-      "title": "CoinMarketCalStellar: Adapter Protocol 28 enters mainnet vote - 16 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:f3b8ee1a1094b:0-stellar-adapter-protocol-28-enters-mainnet-vote-16-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.684Z"
-    },
-    {
-      "id": "587d0bcbc9a68f72fced3e66b6bb64d83f948d509ecee07504760e9e5a70795e",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260813009786:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.684Z"
-    },
-    {
-      "id": "5484a7adc0bf4bfbb6be4e6d5e3dea6cf230904b7f09d8cb46eb6314eb7ccf9e",
-      "title": "BenzingaT. Rowe Price Crypto Chief Says AI Stole Crypto's 'Marginal Buyer' but She Still Remains Bullish",
-      "url": "https://www.tradingview.com/news/benzinga:5c24d73a7094b:0-t-rowe-price-crypto-chief-says-ai-stole-crypto-s-marginal-buyer-but-she-still-remains-bullish/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.684Z"
-    },
-    {
-      "id": "064e46dbbada1d3365f1d4f3270a903b08b25facad4333d469ab9ffb8056e0a5",
-      "title": "PR NewswireBitwise To Explore Tokenizing Bitwise Solana Staking ETF (BSOL) With Superstate; Other ETFs May Follow",
-      "url": "https://www.tradingview.com/news/prnewswire:da7e8bd48af8c:0-bitwise-to-explore-tokenizing-bitwise-solana-staking-etf-bsol-with-superstate-other-etfs-may-follow/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.684Z"
-    },
-    {
-      "id": "4ec7b47eadb14eef53b4083988e99100e92af98f48074812ab33acf67b8d6aa3",
-      "title": "ChainwireMyEtherWallet (MEW) Integrates Ondo Perps, Unlocking 24/7 Leveraged Trading for Onchain Equities, & ETFs.",
-      "url": "https://www.tradingview.com/news/chainwire:ff5daf41b094b:0-myetherwallet-mew-integrates-ondo-perps-unlocking-24-7-leveraged-trading-for-onchain-equities-etfs/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.684Z"
-    },
-    {
-      "id": "f22ea24da3b96e9da62d11ddceda04320f3f28c051ebf10592572911a923e664",
-      "title": "BeincryptoNBA Champion Reveals His Daily Bitcoin Habit",
-      "url": "https://www.tradingview.com/news/beincrypto:b22b2a029094b:0-nba-champion-reveals-his-daily-bitcoin-habit/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.685Z"
-    },
-    {
-      "id": "0fc908fe248c18eeab2591abbe5c8302dcbe79b0c8daf7b8ed632d3444549feb",
-      "title": "ReutersUS securities regulator cancels meeting to vote on crypto rules",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44A1A5:0-us-securities-regulator-cancels-meeting-to-vote-on-crypto-rules/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.685Z"
-    },
-    {
-      "id": "d4fc8a779f9f6f382302387a4ad197d65bfbc5edec75f97a11a237ca90795ce0",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260813013429:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.685Z"
-    },
-    {
-      "id": "f254e36deb2c5884d4b2ab0cfd0b4e6222e0cdab17b817a520a28dc87ed2638c",
-      "title": "ReutersKULR Technology Q2 revenue falls 43%; bitcoin loss widens net loss",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44A1AV:0-kulr-technology-q2-revenue-falls-43-bitcoin-loss-widens-net-loss/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.685Z"
-    },
-    {
-      "id": "5faa775dd9a0f36e5783c6e610c4bfb8af9854ef0d78a17e5d21d85735904305",
-      "title": "ReutersCanada's DeFi Technologies Q2 revenue falls amid challenging digital asset market conditions",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44A1AG:0-canada-s-defi-technologies-q2-revenue-falls-amid-challenging-digital-asset-market-conditions/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.685Z"
-    },
-    {
-      "id": "9aece520df54fcb4b30285b3a6958be3101eef492802cb3c5e7b3787e61f3746",
-      "title": "CointelegraphTether completes first full financial audit, receives clean KPMG opinion",
-      "url": "https://www.tradingview.com/news/cointelegraph:767563f23094b:0-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.685Z"
-    },
-    {
-      "id": "8556a6c01e94677a685045f607126f754d9a708486a7d880a77e5127c6b995a9",
-      "title": "BeincryptoXRP Defends $1 by a Cent Since CLARITY Act Slipped. Now CFTC Steps In",
-      "url": "https://www.tradingview.com/news/beincrypto:32e060292094b:0-xrp-defends-1-by-a-cent-since-clarity-act-slipped-now-cftc-steps-in/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.685Z"
-    },
-    {
-      "id": "3e6922d8bc734c72b03fefe56e2b625f3238013ed661e9800f2e6a61a33a87f6",
-      "title": "Finance MagnatesDeribit to Route Most Spot Orders to Coinbase under New Dubai Licence",
-      "url": "https://www.tradingview.com/news/financemagnates:39c6397d6094b:0-deribit-to-route-most-spot-orders-to-coinbase-under-new-dubai-licence/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-13T23:48:14.685Z"
+      "scraped_at": "2026-08-14T02:22:39.800Z"
     }
   ]
 }
