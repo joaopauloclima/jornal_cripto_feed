@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-14T06:05:29.325Z",
-  "total": 14,
+  "generated_at": "2026-08-14T08:02:39.221Z",
+  "total": 15,
   "items": [
+    {
+      "id": "1f2264183dc2aeadb0734357e7ae08b1e4cf408dbfbb38b3a087ec62ecf9190f",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260814001624:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T08:02:39.217Z"
+    },
+    {
+      "id": "b81d7f43dd1c235d807e08812dc84db4ffa4b246a3efd2e1211aadb762aa21c6",
+      "title": "London Stock ExchangeREG - Africa Bitcoin Corp - Update regarding Admission to Aquis",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-08-14:newsml_RSN7209Qa:0-reg-africa-bitcoin-corp-update-regarding-admission-to-aquis/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T08:02:39.217Z"
+    },
+    {
+      "id": "3e099e03f7254dc66d03f211dfad26c9eb43bdbdb29509fbea87aef9fd222c05",
+      "title": "Finance MagnatesFrom MiCA to GENIUS: Why Crypto's Next Regulatory Test Is Cross-Border Coordination",
+      "url": "https://www.tradingview.com/news/financemagnates:d47412cb1094b:0-from-mica-to-genius-why-crypto-s-next-regulatory-test-is-cross-border-coordination/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T08:02:39.217Z"
+    },
     {
       "id": "d4eead277cd91425e4ee25ffed2f882d6a2e09fd9d9942dafe60892dfaa76fee",
       "title": "BeincryptoSpaceX Ownership: How Much of the $2 Trillion Company Does Musk Own?",
       "url": "https://www.tradingview.com/news/beincrypto:45f9a2246094b:0-spacex-ownership-how-much-of-the-2-trillion-company-does-musk-own/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.217Z"
     },
     {
       "id": "844363eadb03b3d6bdf704b521def67e1ce4660f6e801a5edbb561059854e9e3",
       "title": "CointelegraphNeutrl pauses NUSD redemptions over undisclosed reserve issue",
       "url": "https://www.tradingview.com/news/cointelegraph:5e5768f61094b:0-neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.217Z"
     },
     {
       "id": "73f196a31f49940af66522b3125a4315c824f6d19ff72030fbac2eca3b8f7b89",
       "title": "The BlockBitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
       "url": "https://www.tradingview.com/news/the_block:e771141c6094b:0-bitwise-mulls-tokenizing-its-solana-staking-etf-via-superstate-partnership/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.217Z"
     },
     {
       "id": "2ffbde371d20761840990250a392efef78d8b92a4d59ca5e4ed639dc220e42d4",
       "title": "BenzingaTrump Has 'Broken Every Norm' and 'Gone Too Far,' Says Anthony Scaramucci: Memecoin, Market Manipulation Reasons Why CLARITY Act 'Stalled'",
       "url": "https://www.tradingview.com/news/benzinga:6b08b8602094b:0-trump-has-broken-every-norm-and-gone-too-far-says-anthony-scaramucci-memecoin-market-manipulation-reasons-why-clarity-act-stalled/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.217Z"
     },
     {
       "id": "26da64b5437d34dee4da5ec0f71e5430d389554ad29346ea1c003629770b6985",
       "title": "BeincryptoTwo Bitcoin Treasury Firms and a Uranium Company Face MSCI Index Removal",
       "url": "https://www.tradingview.com/news/beincrypto:31ab06707094b:0-two-bitcoin-treasury-firms-and-a-uranium-company-face-msci-index-removal/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.217Z"
     },
     {
       "id": "3f47417e5005af2b633236a609aa732b6e965cd74b83b32e5c32647e0fa537f6",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260814000031:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.218Z"
+    },
+    {
+      "id": "2f9c05de45590e6baea5892c03de1486db1967d86073cd7290eea5cbd1210695",
+      "title": "CoinpediaXRP Price Today: Whales Accumulate 72 Million XRP As Price Falls",
+      "url": "https://www.tradingview.com/news/coinpedia:42680a0fd094b:0-xrp-price-today-whales-accumulate-72-million-xrp-as-price-falls/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-14T08:02:39.218Z"
     },
     {
       "id": "66f7de81231a45f884862c99fc8c11ad0266945f6ec47bf249b8379b15f5e903",
       "title": "BenzingaTrump White House to Reportedly Host Crypto, Prediction Market Executives as SEC Cancels Crucial Digital Assets Meeting",
       "url": "https://www.tradingview.com/news/benzinga:cf048bfbe094b:0-trump-white-house-to-reportedly-host-crypto-prediction-market-executives-as-sec-cancels-crucial-digital-assets-meeting/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.218Z"
     },
     {
       "id": "c4dab90d6ad4068c03b4b4abe4641ba7ccd64fa6161ec48239d90f6203c5d596",
       "title": "CointelegraphFigure reports $4.3B in loan marketplace volume as profit nearly triples",
       "url": "https://www.tradingview.com/news/cointelegraph:ca61e0bb9094b:0-figure-reports-4-3b-in-loan-marketplace-volume-as-profit-nearly-triples/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.218Z"
     },
     {
       "id": "1dcbf11eec97234d9498f290826dae783d122904598b39beec256a183b4a02d3",
       "title": "Binance NewsHarmony Protocol Confirms Unauthorized ONE Minting and Suspends Bridge Services",
       "url": "https://www.tradingview.com/news/binance_news:ab40e2b99094b:0-harmony-protocol-confirms-unauthorized-one-minting-and-suspends-bridge-services/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.218Z"
     },
     {
       "id": "f42605ea49c0e3adb9c6ad1479f7fbff7c9b90f82456ed0090d6cf1b59330214",
       "title": "Binance NewsHarmony Reports Minting Vulnerability, Says Cross-Shard Replay Bug Led to Unauthorized ONE Issuance",
       "url": "https://www.tradingview.com/news/binance_news:a873fd1c8094b:0-harmony-reports-minting-vulnerability-says-cross-shard-replay-bug-led-to-unauthorized-one-issuance/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.218Z"
     },
     {
       "id": "9c7f56fcac1f85d66d4a2cdbf85b9b07d9fa2685ec6531c96f02554f9579c214",
       "title": "CoinMarketCalRE: Kamino increases the reUSD supply cap - By 14 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:b49f558d4094b:0-re-kamino-increases-the-reusd-supply-cap-by-14-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
-    },
-    {
-      "id": "ec52840d99bede8549e3f752910c5789f79c7f5c8c6905c9685ff20f5accfabc",
-      "title": "BenzingaBitcoin Slides; Ethereum, XRP, Dogecoin Gain Amid Softer PPI Inflation: Crypto 'Dead' Chatter Shows Retail Patience 'Breaking,' Says Market Intelligence Firm",
-      "url": "https://www.tradingview.com/news/benzinga:5373b0e6d094b:0-bitcoin-slides-ethereum-xrp-dogecoin-gain-amid-softer-ppi-inflation-crypto-dead-chatter-shows-retail-patience-breaking-says-market-intelligence-firm/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
-    },
-    {
-      "id": "ea743f39b40de82211c50748c500fbf4725bfca176715e9e3d09a1b94706f294",
-      "title": "CoinMarketCalCanton: BOOSTRY launches multi-chain wallet service - Dec 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:5fbc18700094b:0-canton-boostry-launches-multi-chain-wallet-service-dec-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
-    },
-    {
-      "id": "4f1c8ff1329f63957f443be72222d877ed794789ec6e5edf6cb7e7b4c8f47fcf",
-      "title": "Binance NewsCitigroup CEO Jane Fraser Backs CLARITY Act Despite Stablecoin Reward Concerns",
-      "url": "https://www.tradingview.com/news/binance_news:8ebdf94bd094b:0-citigroup-ceo-jane-fraser-backs-clarity-act-despite-stablecoin-reward-concerns/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-14T06:05:29.321Z"
+      "scraped_at": "2026-08-14T08:02:39.218Z"
     }
   ]
 }
