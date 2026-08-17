@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-17T14:09:01.261Z",
+  "generated_at": "2026-08-17T15:03:09.067Z",
   "total": 15,
   "items": [
+    {
+      "id": "8b22221b264f7d5fbc52666a1453dbbf8c7cf9bc58512331497beba7ef5c7758",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260817004953:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-17T15:03:09.062Z"
+    },
+    {
+      "id": "e1a5befcf91331922b29e88ebed8729f744650d5492e1412cb3a07a2b3396357",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260817004952:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-17T15:03:09.062Z"
+    },
     {
       "id": "fd9c6d2d77c71cc54ab4f33aec7d19c5faa1e970569354455e1f83df2e2d4c54",
       "title": "CoinMarketCalSolana: Corda networks connect to Solana - 17 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:dad06e732094b:0-solana-corda-networks-connect-to-solana-17-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.062Z"
     },
     {
       "id": "c5c1a82ab3dc0df2c6b8f68bede9fcf8bd32ef2458de1e9a63b7ea68660ea0f1",
       "title": "CoinMarketCalVirtuals Protocol: Beefy launches autocompounding vaults - 17 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:4822e6b48094b:0-virtuals-protocol-beefy-launches-autocompounding-vaults-17-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.062Z"
     },
     {
       "id": "824e2461de7580255689612458339d0ecee4a85ddf132367822dc8df1ca964f3",
       "title": "CoinMarketCalTHORChain: Unstoppable Wallet adds native support - 17 Aug 2026 to 23 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:6752e70d2094b:0-thorchain-unstoppable-wallet-adds-native-support-17-aug-2026-to-23-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.062Z"
     },
     {
       "id": "cf8a577db5116999eb5a095fc0d78e01428db052eb4f5374b3e8aef448b3ff42",
       "title": "The BlockBitmine adds 9,926 ETH, taking total holdings to roughly $11 billion",
       "url": "https://www.tradingview.com/news/the_block:a1e2e3895094b:0-bitmine-adds-9-926-eth-taking-total-holdings-to-roughly-11-billion/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.062Z"
     },
     {
       "id": "fb1a311e1be06fd52c81a162f5b7c15017c57e948ac184dceac58c793f920259",
       "title": "CryptoNewsGerber Warns Strategy’s Bitcoin Leverage Could Trigger a Selloff",
       "url": "https://www.tradingview.com/news/cryptonews:dc59d6125094b:0-gerber-warns-strategy-s-bitcoin-leverage-could-trigger-a-selloff/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.062Z"
     },
     {
-      "id": "08e81c1feacbc3ee29fc4a069ee8b5bf71bafcae0d41c06966b7452080a4fd36",
+      "id": "2b4d21e5aae8b976d621bc8e58f05474ef70218f336daf77d7eda48f6ee90d52",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260817004355:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260817004354:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.063Z"
+    },
+    {
+      "id": "a18ba20394e03c492ebacb159c38caea726ef9aa5e887aca4302b2a7d3c77786",
+      "title": "BenzingaStrategy's Bitcoin Drought Hits 7 Weeks as Saylor Skips His Sunday Ritual",
+      "url": "https://www.tradingview.com/news/benzinga:0b4e389da094b:0-strategy-s-bitcoin-drought-hits-7-weeks-as-saylor-skips-his-sunday-ritual/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-17T15:03:09.063Z"
     },
     {
       "id": "665ff66b57e851ee91a5ab504340563cc58ac647ac5732b3d97577fed87b6f1c",
       "title": "ReutersCanaan Inc. Provides July 2026 Bitcoin Production And Mining Operation Updates",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA4NXDDN:0-canaan-inc-provides-july-2026-bitcoin-production-and-mining-operation-updates/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.063Z"
     },
     {
       "id": "2fd45578925ce26c419680719323614d451950bba770f753f1f1c91d451cff8b",
       "title": "The BlockAustria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty",
       "url": "https://www.tradingview.com/news/the_block:cc84b047c094b:0-austria-s-fma-fines-crypto-broker-bitpanda-81-000-in-first-published-mica-penalty/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.063Z"
     },
     {
       "id": "6e0900cb0ce7a7e00219d3868624df5662496579525f1e257edf1c66f06cd3fb",
       "title": "Asian Corporate NewswireEX DeFi Announces AI-Driven Digital Asset Infrastructure Platform Supporting BTC, ETH and XRP",
       "url": "https://www.tradingview.com/news/reuters.com,2026-08-17:newsml_ACN109141:0-ex-defi-announces-ai-driven-digital-asset-infrastructure-platform-supporting-btc-eth-and-xrp/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.063Z"
     },
     {
       "id": "44b9e9c3dbe539a194a18613329ec75f61b64cea1ea638e77af1f5aaf67c05ab",
       "title": "BeincryptoWhy is XRP Failing to Hold $1? Binance Data Holds the Answer",
       "url": "https://www.tradingview.com/news/beincrypto:91f5735b6094b:0-why-is-xrp-failing-to-hold-1-binance-data-holds-the-answer/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.063Z"
     },
     {
       "id": "13c7a0d8fa2b3e0fd92728f0129674a539bd5cc2a1daa1a34de26097c5ec9db2",
       "title": "ChainwireBitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion",
       "url": "https://www.tradingview.com/news/chainwire:7fe919a4e094b:0-bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-82-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.063Z"
     },
     {
       "id": "6a17e9bcd5a394cad84fe97b0eadedcc6f5aced28e43f37e9170eb2e1936c127",
       "title": "CointelegraphStrategy raises $334M through stock sales but buys no Bitcoin",
       "url": "https://www.tradingview.com/news/cointelegraph:0d08ef78a094b:0-strategy-raises-334m-through-stock-sales-but-buys-no-bitcoin/",
       "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
-    },
-    {
-      "id": "89490dbb63aa08d32101c2ef86fe7ddcd96855d493eac5114900d8841ae8fdc0",
-      "title": "BenzingaXRP Tests $1 For 8 Days in a Row: Which Way Does It Break?",
-      "url": "https://www.tradingview.com/news/benzinga:71ca7588d094b:0-xrp-tests-1-for-8-days-in-a-row-which-way-does-it-break/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
-    },
-    {
-      "id": "5d7d861ac5e0c2f013844e009a7718b243974998cd655eff124f4e91ae4a16da",
-      "title": "CoinpediaONDO Price Jumps 5%: Bulls Are Loading the Next Leg Toward $0.50",
-      "url": "https://www.tradingview.com/news/coinpedia:2b9d48293094b:0-ondo-price-jumps-5-bulls-are-loading-the-next-leg-toward-0-50/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
-    },
-    {
-      "id": "cd45fcff89e5fb34171db2339ad6f33db2abe0b17c972a9e4cf30d35c75482e2",
-      "title": "ReutersAmerican Fusion Inc. (Otc Amfn) Appoints Asian Financial Markets And Digital Assets Executive Samson Lee As Independent Director",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA1QBRJV:0-american-fusion-inc-otc-amfn-appoints-asian-financial-markets-and-digital-assets-executive-samson-lee-as-independent-director/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-17T14:09:01.258Z"
+      "scraped_at": "2026-08-17T15:03:09.063Z"
     }
   ]
 }
