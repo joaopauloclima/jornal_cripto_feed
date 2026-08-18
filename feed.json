@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-08-18T09:15:30.775Z",
-  "total": 15,
+  "generated_at": "2026-08-18T10:04:13.041Z",
+  "total": 14,
   "items": [
+    {
+      "id": "cdd9bb3d188c8442d7f3d0d5ec82187e70d32b0c1e3e4201f7cbdd60a0f4f4db",
+      "title": "BusinessWireNETSCOUT Extends Adaptive DDoS Defense Protection to Address the Rising Business Cost of Weaponized Broadband and IoT Devices",
+      "url": "https://www.tradingview.com/news/business_wire:30c45b42b9bb8:0-netscout-extends-adaptive-ddos-defense-protection-to-address-the-rising-business-cost-of-weaponized-broadband-and-iot-devices/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-18T10:04:13.036Z"
+    },
+    {
+      "id": "5fa3280edd47500a2894fd153b61b28e0d7d7d5c37b9b620e6659a96025ca7fb",
+      "title": "ReutersTrump agencies to set crypto policy as bill stalls, limiting industry's gains",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4490UR:0-trump-agencies-to-set-crypto-policy-as-bill-stalls-limiting-industry-s-gains/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-18T10:04:13.037Z"
+    },
+    {
+      "id": "8a31b0312c721fcdad7a151d4caa85fd1d6ab0ee62f75af8f153fa2e805aceb2",
+      "title": "StocktwitsARK Invest Boosts Crypto Exposure With Block, Securitize, And Solana ETF Buys",
+      "url": "https://www.tradingview.com/news/stocktwits:c23c829cd094b:0-ark-invest-boosts-crypto-exposure-with-block-securitize-and-solana-etf-buys/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-18T10:04:13.037Z"
+    },
+    {
+      "id": "5b14a9b5d7ff28173493bb647fdc1f351d461eae44a679b44680a81a8e5c4f50",
+      "title": "The BlockBlockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits",
+      "url": "https://www.tradingview.com/news/the_block:c4c5f3d8d094b:0-blockchain-association-backs-sec-s-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-18T10:04:13.037Z"
+    },
+    {
+      "id": "f9c641eb752156d4158f0ed1773152661f53af0f5ccdff515571619513c985c2",
+      "title": "CointelegraphBitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+      "url": "https://www.tradingview.com/news/cointelegraph:1553219ad094b:0-bitcoin-price-spike-to-64-5k-was-low-volume-liquidity-trap-analysis/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-18T10:04:13.037Z"
+    },
+    {
+      "id": "5c3d5fca7f6416c3aa1823c19659f27efb7e900cb86463fbbeaf3cf489b91145",
+      "title": "StocktwitsBitcoin’s Historic Calm Could Set Stage For 30% Move Over Next 2 Months: Fundstrat",
+      "url": "https://www.tradingview.com/news/stocktwits:92cb68a70094b:0-bitcoin-s-historic-calm-could-set-stage-for-30-move-over-next-2-months-fundstrat/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-18T10:04:13.037Z"
+    },
     {
       "id": "06a87d80afd437cc177900e4cb70527c920421b90f854504629a4109afb8cc64",
       "title": "CointelegraphChina adds 8 banks to digital yuan network as operator count hits 30",
       "url": "https://www.tradingview.com/news/cointelegraph:77341daf6094b:0-china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30/",
       "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.770Z"
+      "scraped_at": "2026-08-18T10:04:13.037Z"
     },
     {
       "id": "a450997699e55760fdda86efab0cae1c25dc76866e90200e368821b217c261c9",
       "title": "CointelegraphSouth Korea moves to block Polymarket over gambling concerns",
       "url": "https://www.tradingview.com/news/cointelegraph:78f4c4c4d094b:0-south-korea-moves-to-block-polymarket-over-gambling-concerns/",
       "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.770Z"
+      "scraped_at": "2026-08-18T10:04:13.037Z"
     },
     {
       "id": "972f4c22c846ac60f61193222a422ff6905744f282308e10ed9c7282b0d17ff3",
       "title": "CointelegraphBitBox patches ‘severe’ wallet flaws that could put funds at risk",
       "url": "https://www.tradingview.com/news/cointelegraph:0b9da8891094b:0-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk/",
       "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.770Z"
+      "scraped_at": "2026-08-18T10:04:13.037Z"
     },
     {
       "id": "6268a16f37e20c853775443672b2c496e681018f542408a38d18c08bda0542b9",
       "title": "CoinMarketCalEthereum: Delays its next major upgrade - Q4 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:030cdc923094b:0-ethereum-delays-its-next-major-upgrade-q4-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
+      "scraped_at": "2026-08-18T10:04:13.037Z"
     },
     {
       "id": "38fc80ad660b77d0766d18e6d528b658a1543873c48966032af7117ebae7020d",
       "title": "BenzingaJane Street's Q2 Filing Reveals Nearly $1 Billion Bet on These Bitcoin ETFs — and a Major Stake in Michael Saylor's MSTR",
       "url": "https://www.tradingview.com/news/benzinga:51b24376c094b:0-jane-street-s-q2-filing-reveals-nearly-1-billion-bet-on-these-bitcoin-etfs-and-a-major-stake-in-michael-saylor-s-mstr/",
       "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
+      "scraped_at": "2026-08-18T10:04:13.037Z"
     },
     {
       "id": "cde9d03491291f52eac20485bef87b73e2312da7068cac9083e08c522171d5be",
       "title": "CoinpediaTrump’s Crypto Summit Tomorrow: CLARITY Get Push, or SEC-CFTC Go For Plan B?",
       "url": "https://www.tradingview.com/news/coinpedia:879844f00094b:0-trump-s-crypto-summit-tomorrow-clarity-get-push-or-sec-cftc-go-for-plan-b/",
       "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
+      "scraped_at": "2026-08-18T10:04:13.037Z"
     },
     {
       "id": "59202e65bdf80cbcb91b07efd2df417b55d62f298ea93b3574046b274df497ee",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260818000913:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
+      "scraped_at": "2026-08-18T10:04:13.037Z"
     },
     {
       "id": "03bc6b3c942f6b183fb34c84aa31b9b7e6240cfd8c1757147deacef29d8a39cf",
       "title": "CoinpediaPOL Price Surges 5% as Volume Explodes 334%—Is $0.10 the Next Target?",
       "url": "https://www.tradingview.com/news/coinpedia:ddabfb8f1094b:0-pol-price-surges-5-as-volume-explodes-334-is-0-10-the-next-target/",
       "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
-    },
-    {
-      "id": "14efb2c2101ec3697de8e9e1584984eb02156669d3d8e17bf8591203a30ef72c",
-      "title": "CoinpediaBitcoin Liquidation Heatmap Puts $64.6K in Focus",
-      "url": "https://www.tradingview.com/news/coinpedia:8bce3385a094b:0-bitcoin-liquidation-heatmap-puts-64-6k-in-focus/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
-    },
-    {
-      "id": "946084066ef0ba801bc0f83c6268ba281d629907713206ff5dc80e4f0c080dbf",
-      "title": "ChainwireBlockchain.com Admitted to Nigeria SEC's Accelerated Regulatory Incubation Programme",
-      "url": "https://www.tradingview.com/news/chainwire:c969f9686094b:0-blockchain-com-admitted-to-nigeria-sec-s-accelerated-regulatory-incubation-programme/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
-    },
-    {
-      "id": "ac8c419b6b6d67fe04d3bbdbad99860755694a83bedf4c5dde9ca36d2290b130",
-      "title": "99BitcoinsRipple Payments Adopted by Jeonbuk Bank for Cross-Border Transfers",
-      "url": "https://www.tradingview.com/news/99Bitcoins:d6df2fe3f094b:0-ripple-payments-adopted-by-jeonbuk-bank-for-cross-border-transfers/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
-    },
-    {
-      "id": "25b99803629cc68de17b45b53400c71c21aa7aea990f069be0b3cf924e891e35",
-      "title": "The BlockRipple partners with South Korea’s Jeonbuk Bank for cross-border payments",
-      "url": "https://www.tradingview.com/news/the_block:fa710a3a7094b:0-ripple-partners-with-south-korea-s-jeonbuk-bank-for-cross-border-payments/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
-    },
-    {
-      "id": "8ede0125f8d9da0e63cf17b05414175ef3d3ed05a66c475554f7929a05b483e4",
-      "title": "BenzingaShiba Inu Says Even Ghosts Need a 'Guard Dog,' Then Casually Auditions Its Canine Mascot as the Ultimate Spirit Guardian",
-      "url": "https://www.tradingview.com/news/benzinga:446ac906b094b:0-shiba-inu-says-even-ghosts-need-a-guard-dog-then-casually-auditions-its-canine-mascot-as-the-ultimate-spirit-guardian/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
-    },
-    {
-      "id": "0dfee22365f767fcd46ef2afcb64fb5ec67b228dcc794966f6b4baa891c06b7a",
-      "title": "Binance NewsNeynar Hunts New Owner for Farcaster Just Seven Months After Buying It",
-      "url": "https://www.tradingview.com/news/binance_news:0246d5233094b:0-neynar-hunts-new-owner-for-farcaster-just-seven-months-after-buying-it/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
-    },
-    {
-      "id": "72db00a442e4065e8e8b8a6c610a523806b415721cd728e286a4afa8bbeb8e64",
-      "title": "CoinpediaXRP News Today : Ripple and Jeonbuk Bank Partner To Bring Faster Payments to Korea",
-      "url": "https://www.tradingview.com/news/coinpedia:c485d1425094b:0-xrp-news-today-ripple-and-jeonbuk-bank-partner-to-bring-faster-payments-to-korea/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-18T09:15:30.771Z"
+      "scraped_at": "2026-08-18T10:04:13.037Z"
     }
   ]
 }
