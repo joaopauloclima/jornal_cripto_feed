@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-19T16:03:40.905Z",
+  "generated_at": "2026-08-19T17:04:46.153Z",
   "total": 15,
   "items": [
+    {
+      "id": "5f486c431dc1676d0774edf2a1401f8e331ffbd90c53deb0c356e649599624a3",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819007238:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T17:04:46.150Z"
+    },
+    {
+      "id": "b08b4229aebef10e5a3dfa0c3527a0bb90bad1e1a892a61204a0a10fdc7b4fcd",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819007398:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T17:04:46.150Z"
+    },
+    {
+      "id": "1dd63fd6feac141f2542686c76f959518343100ef752ae3c1d6593826e59f76f",
+      "title": "CointelegraphStanChart, HSBC execute first live transaction on Swift blockchain ledger",
+      "url": "https://www.tradingview.com/news/cointelegraph:77e6423df094b:0-stanchart-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T17:04:46.150Z"
+    },
+    {
+      "id": "6d80c8eb8c241c0a575c10fdeb30f667ab40730c6ea00e60115041d8f6787d3c",
+      "title": "The BlockInjective becomes SEC-registered transfer agent as it expands tokenization push",
+      "url": "https://www.tradingview.com/news/the_block:54991384e094b:0-injective-becomes-sec-registered-transfer-agent-as-it-expands-tokenization-push/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T17:04:46.150Z"
+    },
+    {
+      "id": "e48e4a5150cb2a163a97ae69013524e45c8ca18168e1b4491b683cb0962b1590",
+      "title": "StocktwitsSolana, Ethereum, XRP Outperform Bitcoin In $69K Rally – $1.6B In Crypto Bets Get Wiped Out",
+      "url": "https://www.tradingview.com/news/stocktwits:8549b1ec0094b:0-solana-ethereum-xrp-outperform-bitcoin-in-69k-rally-1-6b-in-crypto-bets-get-wiped-out/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T17:04:46.150Z"
+    },
+    {
+      "id": "01924904220c34be569189714755a3ca52a99837730758e4c7ab89bc67789b79",
+      "title": "BeincryptoCrypto Shorts Lose $1.23 Billion in 1 Hour: 3 Bitcoin Whales Wiped Out",
+      "url": "https://www.tradingview.com/news/beincrypto:a47aac90b094b:0-crypto-shorts-lose-1-23-billion-in-1-hour-3-bitcoin-whales-wiped-out/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T17:04:46.150Z"
+    },
     {
       "id": "1db06bd78bf747b8030270a0f1fc34f0601b4f76b78c51c10b97b0c8f0cceb79",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260819007036:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
+      "scraped_at": "2026-08-19T17:04:46.150Z"
     },
     {
-      "id": "fc067558d434b8fc3ac0a07011c43aca66e52b969e8dd92fc10d9751a4efecea",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819007037:0/",
+      "id": "0134f1619335c12eecb77b79bed1c16cee71ebfe97a540f39628235a11c8fee2",
+      "title": "The BlockEthereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
+      "url": "https://www.tradingview.com/news/the_block:73d330514094b:0-ethereum-engineering-firm-nethermind-leaves-layerzero-verifier-role-for-chainlink/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
+      "scraped_at": "2026-08-19T17:04:46.150Z"
+    },
+    {
+      "id": "cbeab5eabb4cd9d3e07488b4b164bbe6f5736457e98d0dbba46648db323c7862",
+      "title": "CointelegraphStandard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
+      "url": "https://www.tradingview.com/news/cointelegraph:1d75cb8d3094b:0-standard-chartered-analyst-eyes-100k-btc-as-us-treasury-doubles-long-end-buybacks/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T17:04:46.150Z"
     },
     {
       "id": "90634f5b05214b4a1a0534f4ae21edb5f31def05129c9884370a8426835c4854",
       "title": "CointelegraphUS commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
       "url": "https://www.tradingview.com/news/cointelegraph:0ca902048094b:0-us-commodities-regulator-imposes-5-year-trading-ban-on-ex-alameda-ftx-execs/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
+      "scraped_at": "2026-08-19T17:04:46.150Z"
+    },
+    {
+      "id": "3c6dc3e4e72d5fa22f7f88d3e895222b1acb8012a5f02eec2a06c0c24f86de96",
+      "title": "InvezzBitcoin rises above $68,000 for first time since June as whales resume buying",
+      "url": "https://www.tradingview.com/news/invezz:7bae312ad094b:0-bitcoin-rises-above-68-000-for-first-time-since-june-as-whales-resume-buying/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T17:04:46.151Z"
+    },
+    {
+      "id": "5259934678e3ad5adfde4360b331af08bf3172148136ffe66aebcf8ac83aa1c9",
+      "title": "BenzingaCoinbase Stock Catches a Bid as Bitcoin Climbs",
+      "url": "https://www.tradingview.com/news/benzinga:6adf3be99094b:0-coinbase-stock-catches-a-bid-as-bitcoin-climbs/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T17:04:46.151Z"
     },
     {
       "id": "ece4e6126fb3340c097fa4e11c6d5dca75db8db886f3a3750dd3f43c19a98085",
       "title": "CointelegraphBitcoin price hits 11-week high as US Treasury doubles debt buyback size",
       "url": "https://www.tradingview.com/news/cointelegraph:ca22d3b1d094b:0-bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
+      "scraped_at": "2026-08-19T17:04:46.151Z"
     },
     {
       "id": "11c78479a8649a2f83dd2e616da34ba82f497351379a15561ff3ee19891359e9",
       "title": "StocktwitsBitcoin Pushes Past $67K After US Treasury Doubles Bond Buyback Operations, VanEck Sees Late-Stage Drawdown",
       "url": "https://www.tradingview.com/news/stocktwits:4cfe6b6e7094b:0-bitcoin-pushes-past-67k-after-us-treasury-doubles-bond-buyback-operations-vaneck-sees-late-stage-drawdown/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
+      "scraped_at": "2026-08-19T17:04:46.151Z"
     },
     {
-      "id": "c7e64bde78be0c7a78066740e69963aebc27c11a95eff386dfc8b0e0e2922e94",
-      "title": "CointelegraphInjective receives SEC transfer agent registration for institutional services arm",
-      "url": "https://www.tradingview.com/news/cointelegraph:6fe3711a2094b:0-injective-receives-sec-transfer-agent-registration-for-institutional-services-arm/",
+      "id": "1b8bfc752c1815a83929dcea67f1e700301f3fd6f84758056009cfeddebe70b6",
+      "title": "BenzingaBitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns",
+      "url": "https://www.tradingview.com/news/benzinga:707776e42094b:0-bitcoin-ethereum-xrp-explode-over-6-higher-treasury-s-move-will-send-inflation-soaring-peter-schiff-warns/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
-    },
-    {
-      "id": "3a79143a8a412f68b18c72c6a56285dd8786955ba1a42b00194177f9294a7b72",
-      "title": "BeincryptoTreasury Just Drew a Line in the Sand at 5.3%, and Bitcoin Noticed",
-      "url": "https://www.tradingview.com/news/beincrypto:2f23c2d59094b:0-treasury-just-drew-a-line-in-the-sand-at-5-3-and-bitcoin-noticed/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
-    },
-    {
-      "id": "29860127a831d4c865743cc6681cb313cc3ba2eb0507d56a0ed489cd221a11d1",
-      "title": "BenzingaCLARITY Act Has a 'Really Good Shot' to Pass in September, Tim Scott Says",
-      "url": "https://www.tradingview.com/news/benzinga:86d644a05094b:0-clarity-act-has-a-really-good-shot-to-pass-in-september-tim-scott-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
-    },
-    {
-      "id": "aae899955f8acea5a8457b25d8023223d92d22525d8afd67deb0ef2480530218",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819006351:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
-    },
-    {
-      "id": "6c56e8d8ea83b9c462c23002bed935eff84f58ffe89987048cd6421133ee3219",
-      "title": "StocktwitsArthur Hayes Says AI Bubble Could Fuel His New 'FLOP' Project",
-      "url": "https://www.tradingview.com/news/stocktwits:0dde1bec9094b:0-arthur-hayes-says-ai-bubble-could-fuel-his-new-flop-project/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
-    },
-    {
-      "id": "27f628399c7a45acc7626181e9ae27d1b240018550379f20b5c5e6ee80caa94e",
-      "title": "BenzingaCameron Winklevoss Calls Bitcoin at $65,000 an 'Unprecedented' Buy: Does the Data Agree?",
-      "url": "https://www.tradingview.com/news/benzinga:4efa80658094b:0-cameron-winklevoss-calls-bitcoin-at-65-000-an-unprecedented-buy-does-the-data-agree/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
-    },
-    {
-      "id": "432e0ae2a0c893cba5e8e7400f3f3e1f7c684670482aec553b7afc0b49098f41",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819006071:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
-    },
-    {
-      "id": "0c6ec367089296800b7f67fbb7a48d4895b046166635b624e7a22b8eecd4168c",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819006046:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
-    },
-    {
-      "id": "ee1325ecef46828bc803030496a913481bf32f6f1f8da4fc9c96813537f9bf85",
-      "title": "CoinMarketCalAllora: Mainnet v0.17 adds multi-output predictions - 19 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:a1a9a871f094b:0-allora-mainnet-v0-17-adds-multi-output-predictions-19-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
-    },
-    {
-      "id": "928330e7f82fcfa283a8538a4cbc039d3c9844bd4fa62e1a30048c8f8fde55cc",
-      "title": "CoinMarketCalCentrifuge: Liquid Lane provides instant USDC liquidity - 19 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:74bc91b12094b:0-centrifuge-liquid-lane-provides-instant-usdc-liquidity-19-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T16:03:40.900Z"
+      "scraped_at": "2026-08-19T17:04:46.151Z"
     }
   ]
 }
