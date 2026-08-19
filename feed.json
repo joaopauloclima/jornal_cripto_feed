@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-19T05:14:58.229Z",
-  "total": 14,
+  "generated_at": "2026-08-19T06:04:08.927Z",
+  "total": 15,
   "items": [
+    {
+      "id": "308d1f194b788107df69a7c97a59372622ad36b913413ddc31f8523f57417894",
+      "title": "London Stock ExchangeREG - Tap Global Group PLC - OTCID Application Submitted",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-08-19:newsml_RSS1873Ra:0-reg-tap-global-group-plc-otcid-application-submitted/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T06:04:08.923Z"
+    },
+    {
+      "id": "675989ed2750e6c1047f13dc9500b450921a5f6135114ccf0831bc01b4f191b0",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819000952:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T06:04:08.923Z"
+    },
+    {
+      "id": "4a184ca154ab6f6edebb623ff5aec48eeb8fd9230911e8db9024e174850e0f8b",
+      "title": "CNBC TV18Start a free trial to read this news",
+      "url": "https://www.tradingview.com/news/cnbctv:2920b7b72094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T06:04:08.923Z"
+    },
+    {
+      "id": "5440b99b00939519850b916533fccbd00f6262e29c0740fda530c8b307e99d82",
+      "title": "CointelegraphMAYAChain halts network after estimated $1.7M exploit",
+      "url": "https://www.tradingview.com/news/cointelegraph:1cdc87a5a094b:0-mayachain-halts-network-after-estimated-1-7m-exploit/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T06:04:08.923Z"
+    },
     {
       "id": "edefe3b1296c8a1885b3d4639f885dd9a79402ea043b5c85dbbd1aec3f4740f9",
       "title": "ChainwireBybit Strengthens Security Defences Against Evolving Crypto Threats, Intercepting $700 Million in Potential User Losses",
       "url": "https://www.tradingview.com/news/chainwire:177aa3d91094b:0-bybit-strengthens-security-defences-against-evolving-crypto-threats-intercepting-700-million-in-potential-user-losses/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.923Z"
+    },
+    {
+      "id": "38d379e38f476f78bc861ce344c572c6dcddafddec901fddb68e3c85917ce4a2",
+      "title": "BenzingaAnthony Scaramucci Predicts Bitcoin Will Surpass $100,000, Standard Chartered Says 2026-End Target Remains on Track— But Crypto Punters Have This to Say",
+      "url": "https://www.tradingview.com/news/benzinga:e39a84fb6094b:0-anthony-scaramucci-predicts-bitcoin-will-surpass-100-000-standard-chartered-says-2026-end-target-remains-on-track-but-crypto-punters-have-this-to-say/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T06:04:08.923Z"
     },
     {
       "id": "e5320b721a6a2df5670d067d47df0f97e1c610fe415d12e77552c34a8f9950e6",
       "title": "Japan Corporate NewsJCB, in Collaboration with Digital Garage, to Conduct a Proof of Concept (PoC) for Stablecoin-Based Payments at a Lawson Store",
       "url": "https://www.tradingview.com/news/reuters.com,2026-08-19:newsml_JCN109206:0-jcb-in-collaboration-with-digital-garage-to-conduct-a-proof-of-concept-poc-for-stablecoin-based-payments-at-a-lawson-store/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.923Z"
     },
     {
       "id": "b1fa99d40ececef01ae090ae05457d7a2a2171c1a7da2615ece03ca3412173d6",
       "title": "CointelegraphUS accounting board FASB proposes conditions for stablecoins as cash equivalents",
       "url": "https://www.tradingview.com/news/cointelegraph:039cb1d6b094b:0-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.923Z"
     },
     {
       "id": "d12a885af187cae65cf80a42325b8436795f1fd80e0e518290b3a0c888a1c74e",
       "title": "BenzingaPaul Atkins Says, America 'Must and Will Lead' in Crypto, as SEC Chair Hails 'Most Historic Step' to Modernize Securities Laws for Digital Assets",
       "url": "https://www.tradingview.com/news/benzinga:802a2490b094b:0-paul-atkins-says-america-must-and-will-lead-in-crypto-as-sec-chair-hails-most-historic-step-to-modernize-securities-laws-for-digital-assets/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.923Z"
     },
     {
       "id": "23aa8f2c6ff5fe6c14ec32d3d70f82182450ef74414eefea3b54a43415f7bb59",
       "title": "BeincryptoTom Lee Uses BlackRock’s Bitcoin Report to Pitch Ethereum as AI’s Verification Layer",
       "url": "https://www.tradingview.com/news/beincrypto:9357d3ac6094b:0-tom-lee-uses-blackrock-s-bitcoin-report-to-pitch-ethereum-as-ai-s-verification-layer/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.924Z"
     },
     {
       "id": "79f47afd71b869c72d2ec2a2661a9d6c99ca0727c772a447230a81d11e876aee",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260818009270:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.924Z"
     },
     {
       "id": "72add3b8fb1eb0b35886169c8da5799ef8f26cc89d706f2f1174438f125564d0",
       "title": "CNBC TV18Start a free trial to read this news",
       "url": "https://www.tradingview.com/news/cnbctv:10302331c094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.924Z"
     },
     {
       "id": "93876bbf62697773bbf8051a65e1a761bbd39cb59edc640ab7fa78220546ff33",
       "title": "BenzingaBitcoin, Ethereum Gain; XRP, Dogecoin Dip as Trump Denies Iran Talks: Analyst Says BTC May 'Resume Its Advance' if This Support Holds",
       "url": "https://www.tradingview.com/news/benzinga:6a591bf27094b:0-bitcoin-ethereum-gain-xrp-dogecoin-dip-as-trump-denies-iran-talks-analyst-says-btc-may-resume-its-advance-if-this-support-holds/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.924Z"
     },
     {
       "id": "736bd425ba59e51b3091757b0d83c162bbbfac753e79d0ca163708892166ab68",
       "title": "CoinpediaBitcoin Bulls vs. Bears: Why BTC Is Consolidating Despite Massive Institutional Dumps",
       "url": "https://www.tradingview.com/news/coinpedia:21d35cbb8094b:0-bitcoin-bulls-vs-bears-why-btc-is-consolidating-despite-massive-institutional-dumps/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.924Z"
     },
     {
       "id": "796488d74cd3804ccc5a83dd5a1f3ab55b75cb24eb5d70399dad2487d57ed7c7",
       "title": "Binance NewsGoogle Searches for “Buy Bitcoin” Fall to One-Year Low, Kalshi Says",
       "url": "https://www.tradingview.com/news/binance_news:46f6f64df094b:0-google-searches-for-buy-bitcoin-fall-to-one-year-low-kalshi-says/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
-    },
-    {
-      "id": "360faaed1340152916d0e20d97929f391dab315b0e490488c63cd8dbe220f204",
-      "title": "Binance NewsYankees Option on Polymarket Jumps to 86.5% in Orioles Market",
-      "url": "https://www.tradingview.com/news/binance_news:715f57e43094b:0-yankees-option-on-polymarket-jumps-to-86-5-in-orioles-market/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
-    },
-    {
-      "id": "5f2bda8f0bc9dd4c0305c09393169d3d3675b4df0655afba0fe0f508e34c18ad",
-      "title": "Binance NewsTrader Opens 10x Leveraged Long on 1.94 Billion PUMP Tokens",
-      "url": "https://www.tradingview.com/news/binance_news:bc0af861f094b:0-trader-opens-10x-leveraged-long-on-1-94-billion-pump-tokens/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
-    },
-    {
-      "id": "7bde5edd4bb802f69c66850fe5de83b4ac11ae720459ac54366d9212565a6c08",
-      "title": "Binance NewsNew Address Sells KTA and GALA for 1,902 ETH, Tokens Fall",
-      "url": "https://www.tradingview.com/news/binance_news:4769cf1ef094b:0-new-address-sells-kta-and-gala-for-1-902-eth-tokens-fall/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
-    },
-    {
-      "id": "7c5520143d039d5f5184d81b14cc8bcfdde2178337a5e2473c493e827f7f9606",
-      "title": "Binance NewsMaya Protocol Says Attack Led to Bitcoin and Asset Theft",
-      "url": "https://www.tradingview.com/news/binance_news:7b7c41f74094b:0-maya-protocol-says-attack-led-to-bitcoin-and-asset-theft/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T05:14:58.224Z"
+      "scraped_at": "2026-08-19T06:04:08.924Z"
     }
   ]
 }
