@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-08-19T18:49:06.358Z",
-  "total": 16,
+  "generated_at": "2026-08-19T19:30:17.527Z",
+  "total": 15,
   "items": [
     {
-      "id": "3c1f3cfaceb2e3ee70d716c9461e4aaf4ca81259f5cffcf7aaa612c194491a7a",
-      "title": "ReutersRefinitivCrypto firm OKX bars Claude use in Hong Kong - Bloomberg News",
+      "id": "a36efefe00d1874bfd6b93b2a9ddf261110db8c0d95fca1ffd3729d27c63a4f1",
+      "title": "ReutersKraken Investigates Issue With Hedera Funding Gateway",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44G1BN:0-kraken-investigates-issue-with-hedera-funding-gateway/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T19:30:17.524Z"
+    },
+    {
+      "id": "e3b2fdd8bbd34ee61e4c514d1e66595a177f2ab211274547061b9bb7acd139a7",
+      "title": "The BlockBitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
+      "url": "https://www.tradingview.com/news/the_block:5833da1c0094b:0-bitcoin-hits-69-000-ether-jumps-10-as-treasury-buybacks-sec-crypto-proposal-fuel-market-rally/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T19:30:17.524Z"
+    },
+    {
+      "id": "5af9ad88ebbf3a954d33c1a5d128f396b906b4a7c02605ddcdf2bdcea09cd95b",
+      "title": "CointelegraphCrypto PAC notches primary wins, but loses $2M Florida race",
+      "url": "https://www.tradingview.com/news/cointelegraph:0ee4548c7094b:0-crypto-pac-notches-primary-wins-but-loses-2m-florida-race/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T19:30:17.524Z"
+    },
+    {
+      "id": "b70b97754de80b97a590ee61dd2779c735aec6ffa988741ee2e7f639e9ad2e87",
+      "title": "ReutersCrypto firm OKX bars Claude use in Hong Kong - Bloomberg News",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44G165:0-crypto-firm-okx-bars-claude-use-in-hong-kong-bloomberg-news/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.354Z"
+      "scraped_at": "2026-08-19T19:30:17.524Z"
     },
     {
       "id": "505fcbb96d680fbb14492bab77cf9a03c4ead775a0e4c4e6a320260307eded92",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260819007927:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.354Z"
+      "scraped_at": "2026-08-19T19:30:17.524Z"
+    },
+    {
+      "id": "1b9de13493e01bd11e3afe89fc865f2d4f7b217e175055dc0b060783df39a5a3",
+      "title": "BeincryptoBitcoin is a “Cheat Code” to Retire Without Selling, Analyst Explains Why",
+      "url": "https://www.tradingview.com/news/beincrypto:33d5ca15b094b:0-bitcoin-is-a-cheat-code-to-retire-without-selling-analyst-explains-why/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T19:30:17.524Z"
     },
     {
       "id": "dfe32a0da1839f8b20ab1e582ea7626546e8e33c1ff737f326419f7bf81e2b9d",
       "title": "ReutersGlobal yields fall after US Treasury boosts debt buybacks",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44G0RC:0-global-yields-fall-after-us-treasury-boosts-debt-buybacks/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.354Z"
+      "scraped_at": "2026-08-19T19:30:17.524Z"
+    },
+    {
+      "id": "663f9c25c66bedfb8f1818910f29f497dd6ec1b71251df2333f7d7987968a59a",
+      "title": "BenzingaEthereum Jumps 8% to $2,080 as Tom Lee Backs Vlad Tenev's 'Global Tokenization Supercycle'",
+      "url": "https://www.tradingview.com/news/benzinga:6c2f40719094b:0-ethereum-jumps-8-to-2-080-as-tom-lee-backs-vlad-tenev-s-global-tokenization-supercycle/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T19:30:17.524Z"
     },
     {
       "id": "b62f3f01a69eb19e77ed3a64df931398fb926c4e5e61f40ab04aa316ca5d7627",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260819007825:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.354Z"
+      "scraped_at": "2026-08-19T19:30:17.524Z"
+    },
+    {
+      "id": "c09f93f44fca74f06364e066af62558f13ff8d3d1df658f0ae71e751bc47d033",
+      "title": "BeincryptoCrypto Prices Explode With Surprise Rally: Is the Bull Market Back?",
+      "url": "https://www.tradingview.com/news/beincrypto:5c95ebf8c094b:0-crypto-prices-explode-with-surprise-rally-is-the-bull-market-back/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T19:30:17.524Z"
     },
     {
       "id": "5b42623a729ddfc2fbb9fcfe5d859e1277ce3aab600fd424d38d54db1568f7e6",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260819007708:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.354Z"
+      "scraped_at": "2026-08-19T19:30:17.524Z"
     },
     {
       "id": "216631d5f16b560b0b59c02b4b390a40de39d116f646d944313043444604e1c0",
       "title": "ChainwireCryptoCapitalFund Makes Major Investment in IBNAi with Acquisition of 200 Million Tokens",
       "url": "https://www.tradingview.com/news/chainwire:a5e608e03094b:0-cryptocapitalfund-makes-major-investment-in-ibnai-with-acquisition-of-200-million-tokens/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.354Z"
+      "scraped_at": "2026-08-19T19:30:17.524Z"
+    },
+    {
+      "id": "931e4325d7e8d5bd7add5e5baebb82776311f49067c7f4f5f9113ce78050e280",
+      "title": "BenzingaBitcoin Rampage Triggers Biggest Short-Liquidation Event in History: 'It Cannot Be Understated How Insane This Is'",
+      "url": "https://www.tradingview.com/news/benzinga:548e8c757094b:0-bitcoin-rampage-triggers-biggest-short-liquidation-event-in-history-it-cannot-be-understated-how-insane-this-is/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T19:30:17.524Z"
     },
     {
       "id": "a3f12052c905874e99e81ac98460f1f6fc7d5c01fb12f6814daff48fa20506e3",
       "title": "Dow Jones NewswiresCrypto-Linked Stocks Climb After SEC Pens Rules for Raising Capital",
       "url": "https://www.tradingview.com/news/DJN_DN20260819007632:0-crypto-linked-stocks-climb-after-sec-pens-rules-for-raising-capital/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.354Z"
+      "scraped_at": "2026-08-19T19:30:17.524Z"
     },
     {
       "id": "5aeb2351787ef90b9da4418ea3edac8f566647f8ceee5895e8e47e6b4fd43ac1",
       "title": "CointelegraphFalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
       "url": "https://www.tradingview.com/news/cointelegraph:a305b3015094b:0-falconx-ethena-bring-usde-backing-assets-into-1b-institutional-credit-facility/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.354Z"
-    },
-    {
-      "id": "a9ec44d4c8d5be8b15aa3cfff77f9a03c83375f675726861d3e0f78eba1f19dc",
-      "title": "ReutersKraken Investigating An Issue With The Ethereum ERC20 Funding Gateway",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44G16B:0-kraken-investigating-an-issue-with-the-ethereum-erc20-funding-gateway/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.354Z"
-    },
-    {
-      "id": "9083362a4c16b8d0c695a5ac2aa9767362cc1a178a3210c3b4e646c6c8f64ffd",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819007525:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.355Z"
-    },
-    {
-      "id": "c2988b78e342af0f39ed854e52fcbbdfd1cb9e283db8ec016191782c2e057721",
-      "title": "BenzingaQUICK SPARK: Tom Lee Says Avoid Robinhood Stock in 2026",
-      "url": "https://www.tradingview.com/news/benzinga:a47a72d3b094b:0-quick-spark-tom-lee-says-avoid-robinhood-stock-in-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.355Z"
-    },
-    {
-      "id": "a688ec2dca5cb858a9dc746ea90d27569c0ba0ede0bc8f73cb0d9359cf4f7736",
-      "title": "Stock StoryWhy Coinbase (COIN) Stock Is Trading Up Today",
-      "url": "https://www.tradingview.com/news/stockstory:91cb464df094b:0-why-coinbase-coin-stock-is-trading-up-today/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.355Z"
-    },
-    {
-      "id": "edfafe8fc665e342e77bc052bd124bfa1d6689a019e38dd6ae5306fbe7e1ad62",
-      "title": "The BlockOCC races to finalize GENIUS Act stablecoin rules by November",
-      "url": "https://www.tradingview.com/news/the_block:0b63c9566094b:0-occ-races-to-finalize-genius-act-stablecoin-rules-by-november/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.355Z"
-    },
-    {
-      "id": "5f486c431dc1676d0774edf2a1401f8e331ffbd90c53deb0c356e649599624a3",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819007238:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.355Z"
-    },
-    {
-      "id": "8200dab36775fd4f352475a8f687f7736ce94e7935785186159caca9c8192937",
-      "title": "CoinMarketCalChainlink: Nethermind migrates infrastructure and becomes a node operator - 19 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:ad60e75b4094b:0-chainlink-nethermind-migrates-infrastructure-and-becomes-a-node-operator-19-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.355Z"
-    },
-    {
-      "id": "4788c0334061b0195f3f189b739294c75400c3767246daa5922af7b08a4392c6",
-      "title": "CoinMarketCalEthereum: Glamsterdam upgrade activates - By 24 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:185dc1c1b094b:0-ethereum-glamsterdam-upgrade-activates-by-24-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T18:49:06.355Z"
+      "scraped_at": "2026-08-19T19:30:17.524Z"
     }
   ]
 }
