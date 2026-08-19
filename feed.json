@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-19T13:31:47.006Z",
-  "total": 14,
+  "generated_at": "2026-08-19T14:17:41.732Z",
+  "total": 15,
   "items": [
+    {
+      "id": "432e0ae2a0c893cba5e8e7400f3f3e1f7c684670482aec553b7afc0b49098f41",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819006071:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T14:17:41.729Z"
+    },
+    {
+      "id": "0c6ec367089296800b7f67fbb7a48d4895b046166635b624e7a22b8eecd4168c",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819006046:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T14:17:41.729Z"
+    },
+    {
+      "id": "ee1325ecef46828bc803030496a913481bf32f6f1f8da4fc9c96813537f9bf85",
+      "title": "CoinMarketCalAllora: Mainnet v0.17 adds multi-output predictions - 19 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:a1a9a871f094b:0-allora-mainnet-v0-17-adds-multi-output-predictions-19-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T14:17:41.729Z"
+    },
+    {
+      "id": "928330e7f82fcfa283a8538a4cbc039d3c9844bd4fa62e1a30048c8f8fde55cc",
+      "title": "CoinMarketCalCentrifuge: Liquid Lane provides instant USDC liquidity - 19 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:74bc91b12094b:0-centrifuge-liquid-lane-provides-instant-usdc-liquidity-19-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T14:17:41.729Z"
+    },
+    {
+      "id": "f9e03eaa087615c4466e6f2d71bedcd72031b6ebbe26429f8f7b5582353bbd1a",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819005922:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T14:17:41.729Z"
+    },
+    {
+      "id": "20b025e0ceef16bcf3c87faec43fa243f30838e383247aa4b3b85ca4655dcbf7",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819005826:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T14:17:41.729Z"
+    },
     {
       "id": "724cc08b5585960adba960b5ea51a6ceda579dca8103bd4d1db0a9cf2c6b2855",
       "title": "CryptoNewsStrategy Just Stopped Bitcoin News: Is the Market’s Biggest Corporate Bid Gone for Good?",
       "url": "https://www.tradingview.com/news/cryptonews:57c19e190094b:0-strategy-just-stopped-bitcoin-news-is-the-market-s-biggest-corporate-bid-gone-for-good/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.002Z"
+      "scraped_at": "2026-08-19T14:17:41.729Z"
+    },
+    {
+      "id": "f5620898721a3ab7be6490cff53de5d71193d318b867aae1b831563396baaa0c",
+      "title": "CointelegraphSEC regulatory proposal marks ‘important’ step forward from ‘inapt’ crypto rules: Commissioner Peirce",
+      "url": "https://www.tradingview.com/news/cointelegraph:89b371ff6094b:0-sec-regulatory-proposal-marks-important-step-forward-from-inapt-crypto-rules-commissioner-peirce/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T14:17:41.729Z"
     },
     {
       "id": "edb65236ec1f7f45916c95aa38d86ae620d30cfae1c97bc4a0ae0b3d60f790c2",
       "title": "StocktwitsBitcoin Mega-Whale Wallets Surge To 6-Month High As Big Buyers Hold $64K Support",
       "url": "https://www.tradingview.com/news/stocktwits:8ed799e15094b:0-bitcoin-mega-whale-wallets-surge-to-6-month-high-as-big-buyers-hold-64k-support/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
+      "scraped_at": "2026-08-19T14:17:41.729Z"
     },
     {
       "id": "b247c11c37300e04dd1aea174df46d6567a5b89a198b7aebe0ac32dd2a45166f",
       "title": "London Stock ExchangeREG - WisdomTree Issuer X - BTCW eCash Hard Fork Notice",
       "url": "https://www.tradingview.com/news/reuters.com,2026-08-19:newsml_RSS3745Ra:0-reg-wisdomtree-issuer-x-btcw-ecash-hard-fork-notice/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
+      "scraped_at": "2026-08-19T14:17:41.729Z"
     },
     {
       "id": "aa98d4316a50382baf34e488110ae0943c4909e69440f2a054e6d2debccf29df",
       "title": "The BlockEx-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global",
       "url": "https://www.tradingview.com/news/the_block:1ae16688a094b:0-ex-signature-bank-chair-warns-big-banks-could-use-blockchain-to-take-market-share-from-smaller-rivals-as-n3xt-goes-global/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
+      "scraped_at": "2026-08-19T14:17:41.729Z"
     },
     {
       "id": "fcef45fbc8b407edf7381452c332f754ae61663df8ad521e6d5ef75e9b75a801",
       "title": "ReutersTrump to host crypto executives as SEC considers regulations",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44G0GU:0-trump-to-host-crypto-executives-as-sec-considers-regulations/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
+      "scraped_at": "2026-08-19T14:17:41.729Z"
     },
     {
       "id": "bda477d739d1388865093daa90630efb650e20704d4f438bc425258e90710166",
       "title": "ACCESS NewswireSign up to read this news",
       "url": "https://www.tradingview.com/news/reuters.com,2026-08-19:newsml_ACSq0BqMa:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
+      "scraped_at": "2026-08-19T14:17:41.729Z"
     },
     {
       "id": "f92b321173055ddeafb206c9e06eddc203c14ace25b273693dbed19090032ee8",
       "title": "ReutersTrump to host crypto executives as SEC weighs regulations",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44G0F3:0-trump-to-host-crypto-executives-as-sec-weighs-regulations/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
+      "scraped_at": "2026-08-19T14:17:41.729Z"
     },
     {
-      "id": "6cfcada12208cde148e6b55d40c8ef5905e5300f024e59b04e9589473dfad98b",
-      "title": "TradingViewKey facts: BTCUSD +0.5%; CryptoQuant near‑zero; 43k BTC; Citi custody",
-      "url": "https://www.tradingview.com/news/tradingview:531efe022bf18:0-key-facts-btcusd-0-5-cryptoquant-near-zero-43k-btc-citi-custody/",
+      "id": "33c63f706c9a81834db83f2dad1836154c6ea5ed6f229c05038e07471028e119",
+      "title": "Finance MagnatesRetail Brokers Are Trying On New Suits for the Multi-Asset Frontier",
+      "url": "https://www.tradingview.com/news/financemagnates:9cea6d93d094b:0-retail-brokers-are-trying-on-new-suits-for-the-multi-asset-frontier/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
-    },
-    {
-      "id": "d311adf23cc7a4f0922bbe4d031ea759721fa3755e134a46e6155a2120dd77e8",
-      "title": "TradingViewKey facts: CRYPTO:ETHUSD $1,900; Below 200d; $735M/$604M; U.S. Adds ETH",
-      "url": "https://www.tradingview.com/news/tradingview:5239fcb79e4e3:0-key-facts-crypto-ethusd-1-900-below-200d-735m-604m-u-s-adds-eth/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
-    },
-    {
-      "id": "be44180b2221cf28dedd582881656fe4e835379ef43a9e9a3b6d928c2948948d",
-      "title": "TradingViewKey facts: CRYPTO:XRPUSD near $1; SEC proposes crypto safe harbor",
-      "url": "https://www.tradingview.com/news/tradingview:ac5f649bf3cd6:0-key-facts-crypto-xrpusd-near-1-sec-proposes-crypto-safe-harbor/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
-    },
-    {
-      "id": "977f450a8ef1c74fea1aca6728de279e257d7bfd31f315722670f51a0f4824cf",
-      "title": "ChainwireBybit's RLUSD Hold & Earn Surpasses $50M AUC, Launches Phase 2 with Boosted XRP-RLUSD Rewards in Partnership with Ripple",
-      "url": "https://www.tradingview.com/news/chainwire:41053e83f094b:0-bybit-s-rlusd-hold-earn-surpasses-50m-auc-launches-phase-2-with-boosted-xrp-rlusd-rewards-in-partnership-with-ripple/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
-    },
-    {
-      "id": "daa5a3102fc34fc207989f985357b3fe60f84e4a493828fd9ee3312248ba283b",
-      "title": "ReutersDatavault Ai Completes Acquisition Of Nyiax, Adding Institutional-Grade Exchange Technology To Its Digital Asset And Real-World Asset Tokenization Platform",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA1RPR81:0-datavault-ai-completes-acquisition-of-nyiax-adding-institutional-grade-exchange-technology-to-its-digital-asset-and-real-world-asset-tokenization-platform/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
-    },
-    {
-      "id": "a6c15991e738482b15e27e84f00278bb895cf7d9aa40bc42caf7515b26c60125",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819004937:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
-    },
-    {
-      "id": "930bab40a7743fe5fe1d2fcd48d5083c6233130433b3998a9a8928f3a8214325",
-      "title": "BusinessWireDatavault AI Completes Acquisition of NYIAX, Adding Institutional-Grade Exchange Technology to Its Digital Asset and Real-World Asset Tokenization Platform",
-      "url": "https://www.tradingview.com/news/business_wire:5ebab53af53d9:0-datavault-ai-completes-acquisition-of-nyiax-adding-institutional-grade-exchange-technology-to-its-digital-asset-and-real-world-asset-tokenization-platform/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T13:31:47.003Z"
+      "scraped_at": "2026-08-19T14:17:41.729Z"
     }
   ]
 }
