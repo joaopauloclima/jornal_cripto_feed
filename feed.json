@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-08-19T12:01:24.375Z",
-  "total": 15,
+  "generated_at": "2026-08-19T13:31:47.006Z",
+  "total": 14,
   "items": [
     {
-      "id": "9c43611f006a7b618484b9d858827b0aebce79a37555e34cfc2f41f687dcaded",
-      "title": "BusinessWireNo-Loss Trading Platform UpsideOnly Crosses 300,000 Users, Adding 100,000 Users Per Month",
-      "url": "https://www.tradingview.com/news/business_wire:8489a8bb71e22:0-no-loss-trading-platform-upsideonly-crosses-300-000-users-adding-100-000-users-per-month/",
+      "id": "724cc08b5585960adba960b5ea51a6ceda579dca8103bd4d1db0a9cf2c6b2855",
+      "title": "CryptoNewsStrategy Just Stopped Bitcoin News: Is the Market’s Biggest Corporate Bid Gone for Good?",
+      "url": "https://www.tradingview.com/news/cryptonews:57c19e190094b:0-strategy-just-stopped-bitcoin-news-is-the-market-s-biggest-corporate-bid-gone-for-good/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
+      "scraped_at": "2026-08-19T13:31:47.002Z"
     },
     {
-      "id": "34b37d5729d14e2eecc12bc0c9b224ff212c1c20821627678ea110c9d365e6d2",
-      "title": "StocktwitsMichael Saylor Says ‘Bringing Bitcoin To Billions’ Matters – Bitwise Points To Wall Street’s $20T Pipeline",
-      "url": "https://www.tradingview.com/news/stocktwits:2eaae839f094b:0-michael-saylor-says-bringing-bitcoin-to-billions-matters-bitwise-points-to-wall-street-s-20t-pipeline/",
+      "id": "edb65236ec1f7f45916c95aa38d86ae620d30cfae1c97bc4a0ae0b3d60f790c2",
+      "title": "StocktwitsBitcoin Mega-Whale Wallets Surge To 6-Month High As Big Buyers Hold $64K Support",
+      "url": "https://www.tradingview.com/news/stocktwits:8ed799e15094b:0-bitcoin-mega-whale-wallets-surge-to-6-month-high-as-big-buyers-hold-64k-support/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
+      "scraped_at": "2026-08-19T13:31:47.003Z"
     },
     {
-      "id": "57f62f18372a740561b6b01509dcd443f374b1677dc5ce4fbecf5d1ca2fe6ee6",
+      "id": "b247c11c37300e04dd1aea174df46d6567a5b89a198b7aebe0ac32dd2a45166f",
+      "title": "London Stock ExchangeREG - WisdomTree Issuer X - BTCW eCash Hard Fork Notice",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-08-19:newsml_RSS3745Ra:0-reg-wisdomtree-issuer-x-btcw-ecash-hard-fork-notice/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "aa98d4316a50382baf34e488110ae0943c4909e69440f2a054e6d2debccf29df",
+      "title": "The BlockEx-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global",
+      "url": "https://www.tradingview.com/news/the_block:1ae16688a094b:0-ex-signature-bank-chair-warns-big-banks-could-use-blockchain-to-take-market-share-from-smaller-rivals-as-n3xt-goes-global/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "fcef45fbc8b407edf7381452c332f754ae61663df8ad521e6d5ef75e9b75a801",
+      "title": "ReutersTrump to host crypto executives as SEC considers regulations",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44G0GU:0-trump-to-host-crypto-executives-as-sec-considers-regulations/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "bda477d739d1388865093daa90630efb650e20704d4f438bc425258e90710166",
+      "title": "ACCESS NewswireSign up to read this news",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-08-19:newsml_ACSq0BqMa:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "f92b321173055ddeafb206c9e06eddc203c14ace25b273693dbed19090032ee8",
+      "title": "ReutersTrump to host crypto executives as SEC weighs regulations",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44G0F3:0-trump-to-host-crypto-executives-as-sec-weighs-regulations/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "6cfcada12208cde148e6b55d40c8ef5905e5300f024e59b04e9589473dfad98b",
+      "title": "TradingViewKey facts: BTCUSD +0.5%; CryptoQuant near‑zero; 43k BTC; Citi custody",
+      "url": "https://www.tradingview.com/news/tradingview:531efe022bf18:0-key-facts-btcusd-0-5-cryptoquant-near-zero-43k-btc-citi-custody/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "d311adf23cc7a4f0922bbe4d031ea759721fa3755e134a46e6155a2120dd77e8",
+      "title": "TradingViewKey facts: CRYPTO:ETHUSD $1,900; Below 200d; $735M/$604M; U.S. Adds ETH",
+      "url": "https://www.tradingview.com/news/tradingview:5239fcb79e4e3:0-key-facts-crypto-ethusd-1-900-below-200d-735m-604m-u-s-adds-eth/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "be44180b2221cf28dedd582881656fe4e835379ef43a9e9a3b6d928c2948948d",
+      "title": "TradingViewKey facts: CRYPTO:XRPUSD near $1; SEC proposes crypto safe harbor",
+      "url": "https://www.tradingview.com/news/tradingview:ac5f649bf3cd6:0-key-facts-crypto-xrpusd-near-1-sec-proposes-crypto-safe-harbor/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "977f450a8ef1c74fea1aca6728de279e257d7bfd31f315722670f51a0f4824cf",
+      "title": "ChainwireBybit's RLUSD Hold & Earn Surpasses $50M AUC, Launches Phase 2 with Boosted XRP-RLUSD Rewards in Partnership with Ripple",
+      "url": "https://www.tradingview.com/news/chainwire:41053e83f094b:0-bybit-s-rlusd-hold-earn-surpasses-50m-auc-launches-phase-2-with-boosted-xrp-rlusd-rewards-in-partnership-with-ripple/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "daa5a3102fc34fc207989f985357b3fe60f84e4a493828fd9ee3312248ba283b",
+      "title": "ReutersDatavault Ai Completes Acquisition Of Nyiax, Adding Institutional-Grade Exchange Technology To Its Digital Asset And Real-World Asset Tokenization Platform",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA1RPR81:0-datavault-ai-completes-acquisition-of-nyiax-adding-institutional-grade-exchange-technology-to-its-digital-asset-and-real-world-asset-tokenization-platform/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T13:31:47.003Z"
+    },
+    {
+      "id": "a6c15991e738482b15e27e84f00278bb895cf7d9aa40bc42caf7515b26c60125",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819004685:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819004937:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
+      "scraped_at": "2026-08-19T13:31:47.003Z"
     },
     {
-      "id": "60776d21b192aae828a82dd601fbddbc00175e57fe4c9787bb1ec8f807319c25",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819004673:0/",
+      "id": "930bab40a7743fe5fe1d2fcd48d5083c6233130433b3998a9a8928f3a8214325",
+      "title": "BusinessWireDatavault AI Completes Acquisition of NYIAX, Adding Institutional-Grade Exchange Technology to Its Digital Asset and Real-World Asset Tokenization Platform",
+      "url": "https://www.tradingview.com/news/business_wire:5ebab53af53d9:0-datavault-ai-completes-acquisition-of-nyiax-adding-institutional-grade-exchange-technology-to-its-digital-asset-and-real-world-asset-tokenization-platform/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "8d86ad4685a2a8896aea3e9fdc04c00a5c954af4f19cf07a132442bc2124ee40",
-      "title": "dpa-AFXInvestors Lose Heavily To 'Ponzi-style' Crypto Scheme In UK",
-      "url": "https://www.tradingview.com/news/dpa_afx:492d5d611c3cc:0-investors-lose-heavily-to-ponzi-style-crypto-scheme-in-uk/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "f792e8095026d003d65072286bf9c54d654bc644dbdf4d96e6712cbfb8c7df58",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819004628:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "995a0ac7c0d7ba59e7a17e75f768a28122d2c9e44442f556bea0e36c9f1834b0",
-      "title": "The BlockBitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets",
-      "url": "https://www.tradingview.com/news/the_block:16ab484c5094b:0-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "fb2694520e75649f1c9e7b662535352b78a6dd357bd9afa4e0d744f29d52de24",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819004215:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "e814c7d7f1bb8b687da09395cd422084f6f1d426bf675e1a17948a2dbd0cfba7",
-      "title": "CoinMarketCalUnitas: Makes Tether Gold Live on Its Platform - 19 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:983544b69094b:0-unitas-makes-tether-gold-live-on-its-platform-19-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "036aff746eeab8ff99c8596b3d00986a96dfbd855c94cf10f0c8a2c68b49660a",
-      "title": "CoinMarketCalTRON: Plans Mainnet Upgrade Vote - 25 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:e45efd800094b:0-tron-plans-mainnet-upgrade-vote-25-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "06d3fcf278c46c68f68fcfb0d72bd681682042baa1eaefbc5737865e7f0a2d74",
-      "title": "CoinMarketCalVenus: RWA Vault Goes Live on BNB Chain - 20 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:17a663d46094b:0-venus-rwa-vault-goes-live-on-bnb-chain-20-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "f41e6abe32cacc28f9e859a1ac7265c2a691edbf78d16eae9825642f2c4c6ef7",
-      "title": "The BlockScaramucci points to $100,000 bitcoin as ‘magic number’ for OG sellers, eyes AI-blockchain convergence",
-      "url": "https://www.tradingview.com/news/the_block:efab55ce4094b:0-scaramucci-points-to-100-000-bitcoin-as-magic-number-for-og-sellers-eyes-ai-blockchain-convergence/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "7ac1b35e5b8656fa9cd166dd63d470a25a1dcec9aba7f91e3c44529bd21c5656",
-      "title": "99BitcoinsSam Altman ChatGPT AI Predicts Solana Could Challenge Its All-Time High Again",
-      "url": "https://www.tradingview.com/news/99Bitcoins:12d97f1c4094b:0-sam-altman-chatgpt-ai-predicts-solana-could-challenge-its-all-time-high-again/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "c588cbc77176ca677c1c9466389aa8b9c55e1db6476fa65d99af4a59a9958f2c",
-      "title": "ReutersStanChart Says Co And HSBC Execute Tokenised Deposit Transaction On Swift’S Ledger",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44G0EK:0-stanchart-says-co-and-hsbc-execute-tokenised-deposit-transaction-on-swift-s-ledger/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
-    },
-    {
-      "id": "e1cd145234f41eee60f3cda57d677b2f1259043dc10e057ceecd26a55536107e",
-      "title": "CointelegraphNexo launches regulated crypto-backed credit in Australia",
-      "url": "https://www.tradingview.com/news/cointelegraph:f51144ee5094b:0-nexo-launches-regulated-crypto-backed-credit-in-australia/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T12:01:24.367Z"
+      "scraped_at": "2026-08-19T13:31:47.003Z"
     }
   ]
 }
