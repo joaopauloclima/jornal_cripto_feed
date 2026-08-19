@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-19T17:04:46.153Z",
+  "generated_at": "2026-08-19T18:00:05.242Z",
   "total": 15,
   "items": [
+    {
+      "id": "a3f12052c905874e99e81ac98460f1f6fc7d5c01fb12f6814daff48fa20506e3",
+      "title": "Dow Jones NewswiresCrypto-Linked Stocks Climb After SEC Pens Rules for Raising Capital",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819007632:0-crypto-linked-stocks-climb-after-sec-pens-rules-for-raising-capital/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.238Z"
+    },
+    {
+      "id": "5aeb2351787ef90b9da4418ea3edac8f566647f8ceee5895e8e47e6b4fd43ac1",
+      "title": "CointelegraphFalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+      "url": "https://www.tradingview.com/news/cointelegraph:a305b3015094b:0-falconx-ethena-bring-usde-backing-assets-into-1b-institutional-credit-facility/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.238Z"
+    },
+    {
+      "id": "a9ec44d4c8d5be8b15aa3cfff77f9a03c83375f675726861d3e0f78eba1f19dc",
+      "title": "ReutersKraken Investigating An Issue With The Ethereum ERC20 Funding Gateway",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44G16B:0-kraken-investigating-an-issue-with-the-ethereum-erc20-funding-gateway/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.238Z"
+    },
+    {
+      "id": "7b3353d707fae2e9b33d6caec20c4521066cea44f8d9ee8a02e8b310cd4e833a",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260819007524:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.238Z"
+    },
+    {
+      "id": "a688ec2dca5cb858a9dc746ea90d27569c0ba0ede0bc8f73cb0d9359cf4f7736",
+      "title": "Stock StoryWhy Coinbase (COIN) Stock Is Trading Up Today",
+      "url": "https://www.tradingview.com/news/stockstory:91cb464df094b:0-why-coinbase-coin-stock-is-trading-up-today/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.238Z"
+    },
+    {
+      "id": "edfafe8fc665e342e77bc052bd124bfa1d6689a019e38dd6ae5306fbe7e1ad62",
+      "title": "The BlockOCC races to finalize GENIUS Act stablecoin rules by November",
+      "url": "https://www.tradingview.com/news/the_block:0b63c9566094b:0-occ-races-to-finalize-genius-act-stablecoin-rules-by-november/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.239Z"
+    },
     {
       "id": "5f486c431dc1676d0774edf2a1401f8e331ffbd90c53deb0c356e649599624a3",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260819007238:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
+      "scraped_at": "2026-08-19T18:00:05.239Z"
+    },
+    {
+      "id": "8200dab36775fd4f352475a8f687f7736ce94e7935785186159caca9c8192937",
+      "title": "CoinMarketCalChainlink: Nethermind migrates infrastructure and becomes a node operator - 19 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:ad60e75b4094b:0-chainlink-nethermind-migrates-infrastructure-and-becomes-a-node-operator-19-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.239Z"
+    },
+    {
+      "id": "4788c0334061b0195f3f189b739294c75400c3767246daa5922af7b08a4392c6",
+      "title": "CoinMarketCalEthereum: Glamsterdam upgrade activates - By 24 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:185dc1c1b094b:0-ethereum-glamsterdam-upgrade-activates-by-24-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.239Z"
+    },
+    {
+      "id": "46e6422c9d3b801dee3092716def66955772aca1caffa1847a6bb4d5cc74d5d5",
+      "title": "CoinMarketCalInjective: Becomes an SEC-Registered Transfer Agent - 19 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:7b9e67ca7094b:0-injective-becomes-an-sec-registered-transfer-agent-19-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.239Z"
+    },
+    {
+      "id": "443c7a28b90be048c57193091ea53a36264503687750549a1f1c284fa483ddbe",
+      "title": "CointelegraphOCC head promises final GENIUS rules by November",
+      "url": "https://www.tradingview.com/news/cointelegraph:f29296ddb094b:0-occ-head-promises-final-genius-rules-by-november/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.239Z"
+    },
+    {
+      "id": "3ad0c47e875b9920b03c79542926d9aaf4cf0fea7662278a179aab611f4934c8",
+      "title": "The BlockGrayscale’s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund",
+      "url": "https://www.tradingview.com/news/the_block:a6d0fde37094b:0-grayscale-s-latest-zcash-etf-amendment-shows-dcg-in-talks-to-contribute-200-000-zec-to-fund/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-19T18:00:05.239Z"
     },
     {
       "id": "b08b4229aebef10e5a3dfa0c3527a0bb90bad1e1a892a61204a0a10fdc7b4fcd",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260819007398:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
+      "scraped_at": "2026-08-19T18:00:05.239Z"
     },
     {
       "id": "1dd63fd6feac141f2542686c76f959518343100ef752ae3c1d6593826e59f76f",
       "title": "CointelegraphStanChart, HSBC execute first live transaction on Swift blockchain ledger",
       "url": "https://www.tradingview.com/news/cointelegraph:77e6423df094b:0-stanchart-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
+      "scraped_at": "2026-08-19T18:00:05.239Z"
     },
     {
       "id": "6d80c8eb8c241c0a575c10fdeb30f667ab40730c6ea00e60115041d8f6787d3c",
       "title": "The BlockInjective becomes SEC-registered transfer agent as it expands tokenization push",
       "url": "https://www.tradingview.com/news/the_block:54991384e094b:0-injective-becomes-sec-registered-transfer-agent-as-it-expands-tokenization-push/",
       "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
-    },
-    {
-      "id": "e48e4a5150cb2a163a97ae69013524e45c8ca18168e1b4491b683cb0962b1590",
-      "title": "StocktwitsSolana, Ethereum, XRP Outperform Bitcoin In $69K Rally – $1.6B In Crypto Bets Get Wiped Out",
-      "url": "https://www.tradingview.com/news/stocktwits:8549b1ec0094b:0-solana-ethereum-xrp-outperform-bitcoin-in-69k-rally-1-6b-in-crypto-bets-get-wiped-out/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
-    },
-    {
-      "id": "01924904220c34be569189714755a3ca52a99837730758e4c7ab89bc67789b79",
-      "title": "BeincryptoCrypto Shorts Lose $1.23 Billion in 1 Hour: 3 Bitcoin Whales Wiped Out",
-      "url": "https://www.tradingview.com/news/beincrypto:a47aac90b094b:0-crypto-shorts-lose-1-23-billion-in-1-hour-3-bitcoin-whales-wiped-out/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
-    },
-    {
-      "id": "1db06bd78bf747b8030270a0f1fc34f0601b4f76b78c51c10b97b0c8f0cceb79",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819007036:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
-    },
-    {
-      "id": "0134f1619335c12eecb77b79bed1c16cee71ebfe97a540f39628235a11c8fee2",
-      "title": "The BlockEthereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
-      "url": "https://www.tradingview.com/news/the_block:73d330514094b:0-ethereum-engineering-firm-nethermind-leaves-layerzero-verifier-role-for-chainlink/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
-    },
-    {
-      "id": "cbeab5eabb4cd9d3e07488b4b164bbe6f5736457e98d0dbba46648db323c7862",
-      "title": "CointelegraphStandard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
-      "url": "https://www.tradingview.com/news/cointelegraph:1d75cb8d3094b:0-standard-chartered-analyst-eyes-100k-btc-as-us-treasury-doubles-long-end-buybacks/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
-    },
-    {
-      "id": "90634f5b05214b4a1a0534f4ae21edb5f31def05129c9884370a8426835c4854",
-      "title": "CointelegraphUS commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-      "url": "https://www.tradingview.com/news/cointelegraph:0ca902048094b:0-us-commodities-regulator-imposes-5-year-trading-ban-on-ex-alameda-ftx-execs/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.150Z"
-    },
-    {
-      "id": "3c6dc3e4e72d5fa22f7f88d3e895222b1acb8012a5f02eec2a06c0c24f86de96",
-      "title": "InvezzBitcoin rises above $68,000 for first time since June as whales resume buying",
-      "url": "https://www.tradingview.com/news/invezz:7bae312ad094b:0-bitcoin-rises-above-68-000-for-first-time-since-june-as-whales-resume-buying/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.151Z"
-    },
-    {
-      "id": "5259934678e3ad5adfde4360b331af08bf3172148136ffe66aebcf8ac83aa1c9",
-      "title": "BenzingaCoinbase Stock Catches a Bid as Bitcoin Climbs",
-      "url": "https://www.tradingview.com/news/benzinga:6adf3be99094b:0-coinbase-stock-catches-a-bid-as-bitcoin-climbs/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.151Z"
-    },
-    {
-      "id": "ece4e6126fb3340c097fa4e11c6d5dca75db8db886f3a3750dd3f43c19a98085",
-      "title": "CointelegraphBitcoin price hits 11-week high as US Treasury doubles debt buyback size",
-      "url": "https://www.tradingview.com/news/cointelegraph:ca22d3b1d094b:0-bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.151Z"
-    },
-    {
-      "id": "11c78479a8649a2f83dd2e616da34ba82f497351379a15561ff3ee19891359e9",
-      "title": "StocktwitsBitcoin Pushes Past $67K After US Treasury Doubles Bond Buyback Operations, VanEck Sees Late-Stage Drawdown",
-      "url": "https://www.tradingview.com/news/stocktwits:4cfe6b6e7094b:0-bitcoin-pushes-past-67k-after-us-treasury-doubles-bond-buyback-operations-vaneck-sees-late-stage-drawdown/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.151Z"
-    },
-    {
-      "id": "1b8bfc752c1815a83929dcea67f1e700301f3fd6f84758056009cfeddebe70b6",
-      "title": "BenzingaBitcoin, Ethereum, XRP Explode Over 6% Higher: Treasury's Move Will Send 'Inflation Soaring,' Peter Schiff Warns",
-      "url": "https://www.tradingview.com/news/benzinga:707776e42094b:0-bitcoin-ethereum-xrp-explode-over-6-higher-treasury-s-move-will-send-inflation-soaring-peter-schiff-warns/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-19T17:04:46.151Z"
+      "scraped_at": "2026-08-19T18:00:05.239Z"
     }
   ]
 }
