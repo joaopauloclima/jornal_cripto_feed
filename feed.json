@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-08-20T01:46:56.567Z",
-  "total": 15,
+  "generated_at": "2026-08-20T03:01:37.975Z",
+  "total": 14,
   "items": [
+    {
+      "id": "15125582e3f9c5758d99d80e25b4ee2788822c03c55198563fd9424bf104479e",
+      "title": "Binance NewsAIxCrypto Plans Orderly Crypto Asset Sale and Expands RoboShare Commercial Operations",
+      "url": "https://www.tradingview.com/news/binance_news:e4a860683094b:0-aixcrypto-plans-orderly-crypto-asset-sale-and-expands-roboshare-commercial-operations/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
+    {
+      "id": "6bc74dc3cb5ecc085dad50897cf9332ed66aa3a0d7965ebba35655c4c1867f29",
+      "title": "StocktwitsMSTR Stock Climbs As Bitcoin Surges Past $69K For First Time Since June: Trump Urges Congress To Pass CLARITY Act",
+      "url": "https://www.tradingview.com/news/stocktwits:e23927229094b:0-mstr-stock-climbs-as-bitcoin-surges-past-69k-for-first-time-since-june-trump-urges-congress-to-pass-clarity-act/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
+    {
+      "id": "5d6166bf18ea63e7cd6d588a322feeb767be522981fc12a0960b3055603491ba",
+      "title": "CoinMarketCalSolana: Network clock moves to 350ms - 21 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:076b41dda094b:0-solana-network-clock-moves-to-350ms-21-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
+    {
+      "id": "a66b8ff5df137bf447a40b91fdc0072ac1ef144e897d2a91c5fcad7bcc411cc0",
+      "title": "BusinessWireBitGo Korea Becomes First New Korean Entity Established by a Global Digital Asset Company to Secure VASP Registration in South Korea",
+      "url": "https://www.tradingview.com/news/business_wire:9797bb1ef6c7d:0-bitgo-korea-becomes-first-new-korean-entity-established-by-a-global-digital-asset-company-to-secure-vasp-registration-in-south-korea/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
+    {
+      "id": "76ee45ca00e874224003700a9481f80239071408c91df045818dc99ae75247a3",
+      "title": "Binance NewsWhale Opens 20,000 ETH Long on Hyperliquid With 4x Leverage",
+      "url": "https://www.tradingview.com/news/binance_news:f14c56807094b:0-whale-opens-20-000-eth-long-on-hyperliquid-with-4x-leverage/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
+    {
+      "id": "bafd9df376ea843e5a52207fac49775053bdf2d1590e7767874adb27c50298be",
+      "title": "Binance NewsEspresso Foundation Adds $230,000 Initial Liquidity to ESP/stESP Curve Pool",
+      "url": "https://www.tradingview.com/news/binance_news:61a08622f094b:0-espresso-foundation-adds-230-000-initial-liquidity-to-esp-stesp-curve-pool/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
+    {
+      "id": "8b51eb890dac1d837d004e5cc0c3b9db58055f4e5c2d564739c0c1c08d0ac54e",
+      "title": "CoinpediaTrump Crypto Summit Details: Attendees, Clarity Act, Hyperliquid and More",
+      "url": "https://www.tradingview.com/news/coinpedia:af2f5bc3e094b:0-trump-crypto-summit-details-attendees-clarity-act-hyperliquid-and-more/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
+    {
+      "id": "d7abb027b0b4cb76fa5c9a383fd055ad41ee7bba4c6ec7a4a77f8bc1c2b46f2f",
+      "title": "Binance NewsU.S. President Donald Trump Says Mike Selig Approved First Bitcoin Perpetual Contract",
+      "url": "https://www.tradingview.com/news/binance_news:b897c6489094b:0-u-s-president-donald-trump-says-mike-selig-approved-first-bitcoin-perpetual-contract/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
+    {
+      "id": "c5ae3dc8b6675a36f380c75ced79b2421d28bd4d306f860b413129a93672b81d",
+      "title": "Binance NewsCrypto Executives Met With U.S. Commerce Secretary Lutnick Before White House Remarks",
+      "url": "https://www.tradingview.com/news/binance_news:f96b43063094b:0-crypto-executives-met-with-u-s-commerce-secretary-lutnick-before-white-house-remarks/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
     {
       "id": "91fc1ac1830753fb5f589b092e2864706773748a5741a2cd2384a636355d1dc1",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:47696ae4a094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
+      "scraped_at": "2026-08-20T03:01:37.970Z"
+    },
+    {
+      "id": "44043ac51aa6ae3293dba8d9d8af27a3ed891efa31728e429189b45dc985069b",
+      "title": "Binance NewsBIP-110 Supporters Discuss Hard Fork to Change Stalled Chain Mining Algorithm to BLAKE2b",
+      "url": "https://www.tradingview.com/news/binance_news:37a863891094b:0-bip-110-supporters-discuss-hard-fork-to-change-stalled-chain-mining-algorithm-to-blake2b/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.971Z"
+    },
+    {
+      "id": "7184f9a66f9a21b38d04dbd05a923fb685041c7970b944bfd9ceda9f86b2e6f3",
+      "title": "Binance NewsSEC Chair Paul Atkins Says CLARITY Act Is Top Priority for White House Crypto Push",
+      "url": "https://www.tradingview.com/news/binance_news:2ebeceaa9094b:0-sec-chair-paul-atkins-says-clarity-act-is-top-priority-for-white-house-crypto-push/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.971Z"
+    },
+    {
+      "id": "4c0d126146ed556a4503c6eb320fd2388500965452d3710d9e4eb6f9db4a0b7c",
+      "title": "Binance NewsChen Guo: U.S. Move to Suppress Long-Term Yields Bodes Well for Gold, Crypto and RMB Assets",
+      "url": "https://www.tradingview.com/news/binance_news:3f8a9a4ba094b:0-chen-guo-u-s-move-to-suppress-long-term-yields-bodes-well-for-gold-crypto-and-rmb-assets/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-20T03:01:37.971Z"
     },
     {
       "id": "02594e96f8f68eae8a75e794b40f4a1933ed7fc4d299b5d5e120edef5fef299d",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:76f062939094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "2456093d11e924311491cea14105c652639829d185d8ae66ac7c082d024680c5",
-      "title": "CoinpediaBitcoin Hits $69K After Key Capitulation Signals: What’s Next?",
-      "url": "https://www.tradingview.com/news/coinpedia:a3f51291c094b:0-bitcoin-hits-69k-after-key-capitulation-signals-what-s-next/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "b570498954e76800aa481c9c7f674190bc03c07affb882f928b36596c9b32d60",
-      "title": "CoinMarketCalLombard: Bitwise runs institutional LBTC yield strategy - 20 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:455d3bb0c094b:0-lombard-bitwise-runs-institutional-lbtc-yield-strategy-20-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "0b7bfb3cede4297dc3b74170401f53ab8b70d55ffbee82fd0c56b6612f441748",
-      "title": "CoinMarketCalADI: 30-day staking incentive opens for claim - 20 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:cd43a511f094b:0-adi-30-day-staking-incentive-opens-for-claim-20-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "71aa595af8ad81c0ea38849eaf5093388e178470f971d595decd5b8b57f3e06e",
-      "title": "CoinMarketCalMina Protocol: schedules Mainnet Upgrade - 03 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:435d0ea90094b:0-mina-protocol-schedules-mainnet-upgrade-03-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "97469f87339ff44b5c50293458a0acdd556efa9838b8c8572a5b8a7ffb488aea",
-      "title": "The BlockCongress can still ‘land this plane’ on crypto bill as ethics talks stall, says Democratic Sen. Gallego",
-      "url": "https://www.tradingview.com/news/the_block:c91be02d9094b:0-congress-can-still-land-this-plane-on-crypto-bill-as-ethics-talks-stall-says-democratic-sen-gallego/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "d4c81e7a26b9f5aa66043d26e83536d2698eda5f0b299fc1e759479f9e661bbe",
-      "title": "BeincryptoUS Debt Tops $40 Trillion: Will the Doom Loop Drive Bitcoin Demand?",
-      "url": "https://www.tradingview.com/news/beincrypto:88afbef2e094b:0-us-debt-tops-40-trillion-will-the-doom-loop-drive-bitcoin-demand/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "820fe612534f76684f90a071fbf027954908b978fe502955a21b2475b798dcc0",
-      "title": "BeincryptoBitcoin Reclaims $70,000 First Time Since June and Trump Just Hinted at More",
-      "url": "https://www.tradingview.com/news/beincrypto:72334e21b094b:0-bitcoin-reclaims-70-000-first-time-since-june-and-trump-just-hinted-at-more/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "6ce87cbb798ad773d0b7ffe4d21e3755401c0e7e508a5b9c67805cf08f14d3fc",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260819009847:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "402bbd82d84c401328ff2538b46db44ad82f4de341c7ed5212221f30df516e7d",
-      "title": "Beincrypto3 Altcoins Grayscale Says Could Win From New US Token Rules",
-      "url": "https://www.tradingview.com/news/beincrypto:2d35c8431094b:0-3-altcoins-grayscale-says-could-win-from-new-us-token-rules/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "b3abb1a0277ec458b07dbfb49b4ebdc2a0160e565892bbc3103866e88522682f",
-      "title": "BenzingaBitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day",
-      "url": "https://www.tradingview.com/news/benzinga:343eb6086094b:0-bitcoin-hits-69-000-ethereum-goes-on-20-bull-rampage-xrp-sol-pump-10-on-historic-crypto-day/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "6276e8a4a9aed6d9a811c5c2d1bd5788ad3d68c6c510f64f54e8ca35377430da",
-      "title": "CoindarDash to Attend Coinfest Asia on August 20th",
-      "url": "https://www.tradingview.com/news/coindar:402d9682a094b:0-dash-to-attend-coinfest-asia-on-august-20th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "836fec62da6ee45d4485e5f6598d910be7a09627b9437bb7a54b4f821dfcd3b8",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:4f9789b8a094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
-    },
-    {
-      "id": "5a2709be377da9ee98f1e2f994f7bb225615229675a7a7710cbe9b42f634f216",
-      "title": "Finance MagnatesCoinbase Routes Base App Users to Hyperliquid's Perps. No US Access Yet",
-      "url": "https://www.tradingview.com/news/financemagnates:be1cc4ed6094b:0-coinbase-routes-base-app-users-to-hyperliquid-s-perps-no-us-access-yet/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-20T01:46:56.565Z"
+      "scraped_at": "2026-08-20T03:01:37.971Z"
     }
   ]
 }
