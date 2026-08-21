@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-21T19:14:40.361Z",
+  "generated_at": "2026-08-21T19:59:08.538Z",
   "total": 15,
   "items": [
+    {
+      "id": "53c6540de2cfa663b48b0828559cd508bb8326a8ce72ab78def02e869b183f40",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260821007137:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T19:59:08.535Z"
+    },
+    {
+      "id": "37f4e053fb0087c99cd85a5b07b2cab0e7c88f262c204c8bc6f0d253763dfcbc",
+      "title": "NewsBTCSEC Reg Crypto Proposal Starts 60-Day Federal Register Comment Clock",
+      "url": "https://www.tradingview.com/news/newsbtc:007f3ee5c094b:0-sec-reg-crypto-proposal-starts-60-day-federal-register-comment-clock/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T19:59:08.535Z"
+    },
+    {
+      "id": "3105572e7b50eae4919cdd7f13809969701123fb02b02defa397319457e5417c",
+      "title": "CointelegraphOnchain, in court: What happened in crypto legal news this week",
+      "url": "https://www.tradingview.com/news/cointelegraph:02ecf2845094b:0-onchain-in-court-what-happened-in-crypto-legal-news-this-week/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T19:59:08.535Z"
+    },
+    {
+      "id": "de62150f7265c64f8585265e01046c04dca76555c16082f4a10d36f973bb8688",
+      "title": "CointelegraphBitcoin seeks support near $77K as BTC, gold near 100-day highs",
+      "url": "https://www.tradingview.com/news/cointelegraph:96e9007c8094b:0-bitcoin-seeks-support-near-77k-as-btc-gold-near-100-day-highs/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T19:59:08.535Z"
+    },
     {
       "id": "e7e650b84a01d7568010949ffb48435ee256cf6a4c045043fc5355621cdaa93e",
       "title": "NewsBTCHashdex Liquidates DEFI As First US Spot Bitcoin ETF Closure Arrives",
       "url": "https://www.tradingview.com/news/newsbtc:b51bd1c14094b:0-hashdex-liquidates-defi-as-first-us-spot-bitcoin-etf-closure-arrives/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.357Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
+    },
+    {
+      "id": "9f81716d0c7ebe3b2cd9f8e6ea014d81ec555f779bc08d8dfb6e10730792fbf4",
+      "title": "BenzingaBitcoin Posts Best Week Since 2023 as Ethereum, XRP, Dogecoin Rally Over 25% on Treasury Buybacks",
+      "url": "https://www.tradingview.com/news/benzinga:784b53f4a094b:0-bitcoin-posts-best-week-since-2023-as-ethereum-xrp-dogecoin-rally-over-25-on-treasury-buybacks/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     },
     {
       "id": "53aeb862f4add0b217e0dc56555d41be2cfa2ae829cfd417a06ceede8cf77f5a",
       "title": "Dow Jones NewswiresBitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge — 2nd Update",
       "url": "https://www.tradingview.com/news/DJN_DN20260821006499:0-bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-2nd-update/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.357Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     },
     {
       "id": "54ea044bfd7d0b4c361a15f25b602e5a6a35c5f04cbba7aeb73ed81a1843e11c",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260821006496:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.357Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     },
     {
       "id": "926c5a3c58e1c0b48787245709393e4d9abcfea5adb43d51644a6dc83c21fbab",
       "title": "NewsBTCSEC Opens Comment Period On Cboe 3x Bitcoin And Ethereum ETF Proposal",
       "url": "https://www.tradingview.com/news/newsbtc:307a1e65b094b:0-sec-opens-comment-period-on-cboe-3x-bitcoin-and-ethereum-etf-proposal/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.357Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     },
     {
       "id": "3495894235df6126306913495baf595aabbff5f00265ae543fccab14ef76c179",
       "title": "CoinpediaInjective Price Tests $5 as RWA Infrastructure Expands",
       "url": "https://www.tradingview.com/news/coinpedia:7164880be094b:0-injective-price-tests-5-as-rwa-infrastructure-expands/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.357Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     },
     {
       "id": "0c8b5952f953482891c65c299f0513c2af44dc0bf358cf8bde100da20c1d452a",
       "title": "BenzingaStock of the Day: Will CrowdStrike Reverse off of this Important Level?",
       "url": "https://www.tradingview.com/news/benzinga:39b2e3ff1094b:0-stock-of-the-day-will-crowdstrike-reverse-off-of-this-important-level/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.357Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     },
     {
       "id": "f4154decfdeb1adb00196313fd9a2a593574b5d12e2e35f089eb6687de06ea6d",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260821006303:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.357Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     },
     {
       "id": "a898ad86b0fd65103093cfde9b23bb779bd53ff9f98f9376d4853234bcae5916",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260821006298:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.357Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     },
     {
       "id": "1ffab3350962b8071a81fbbd01b755597d9c1b3b6da78ea950174eabe63e0641",
       "title": "NewsBTCCanary Files Fourth Staked TRX ETF Amendment With 1.10% Fee",
       "url": "https://www.tradingview.com/news/newsbtc:b101f98b5094b:0-canary-files-fourth-staked-trx-etf-amendment-with-1-10-fee/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.358Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     },
     {
       "id": "2ed7f818aacb501f0a649be7248f0606211470155852d0df7360147673ec1ec2",
       "title": "The BlockBounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
       "url": "https://www.tradingview.com/news/the_block:5bfeea55c094b:0-bouncebit-to-sunset-blockchain-migrate-to-bnb-chain-after-3-million-exploit/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.358Z"
-    },
-    {
-      "id": "af7ca3e1eea27c5f52f1c13cb3e546c898cb24829c085d4e11e65894c546a7bc",
-      "title": "The BlockXRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto",
-      "url": "https://www.tradingview.com/news/the_block:3f8c98bc0094b:0-xrp-leads-broad-altcoin-rally-as-bitcoin-s-biggest-weekly-gain-in-two-years-lifts-crypto/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.358Z"
-    },
-    {
-      "id": "3189cd3f27014c1cac3bdf4e904b8d18f08c7e0a3bac8d928e2ff65d6a23c4d6",
-      "title": "CoinpediaCrypto Rally Alert: XRP Posts 13% Daily Gain, Surpassing Bitcoin and Ethereum",
-      "url": "https://www.tradingview.com/news/coinpedia:03d067d15094b:0-crypto-rally-alert-xrp-posts-13-daily-gain-surpassing-bitcoin-and-ethereum/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.358Z"
-    },
-    {
-      "id": "e283f59f3e0990f3d8676604ff8fa284117ba12046ebdeca49653c40d93cab7a",
-      "title": "CoinpediaXRP News: Why Ripple Might Never Go Public, According to One Crypto Analyst",
-      "url": "https://www.tradingview.com/news/coinpedia:288861e9a094b:0-xrp-news-why-ripple-might-never-go-public-according-to-one-crypto-analyst/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.358Z"
-    },
-    {
-      "id": "6923998b3d2aacdaed715e4b81065f06bd90c7b494aa68e8587394c69d174db7",
-      "title": "BenzingaBitcoin Jumps Above $77,000, Gold Hits 3-Month Highs: Stock Market Today",
-      "url": "https://www.tradingview.com/news/benzinga:7360faa7f094b:0-bitcoin-jumps-above-77-000-gold-hits-3-month-highs-stock-market-today/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.358Z"
-    },
-    {
-      "id": "b5b1d7a1c11a7802404dc895074142bfcc071e36dc151b053e80ebaba4932f78",
-      "title": "Finance MagnatesWhy Japan Approved a New Crypto Exchange for the First Time Since 2022",
-      "url": "https://www.tradingview.com/news/financemagnates:19af4784b094b:0-why-japan-approved-a-new-crypto-exchange-for-the-first-time-since-2022/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T19:14:40.358Z"
+      "scraped_at": "2026-08-21T19:59:08.535Z"
     }
   ]
 }
