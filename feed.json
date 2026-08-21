@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-21T17:12:49.582Z",
+  "generated_at": "2026-08-21T18:04:25.065Z",
   "total": 15,
   "items": [
+    {
+      "id": "f4154decfdeb1adb00196313fd9a2a593574b5d12e2e35f089eb6687de06ea6d",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260821006303:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T18:04:25.061Z"
+    },
+    {
+      "id": "a898ad86b0fd65103093cfde9b23bb779bd53ff9f98f9376d4853234bcae5916",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260821006298:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T18:04:25.061Z"
+    },
+    {
+      "id": "1ffab3350962b8071a81fbbd01b755597d9c1b3b6da78ea950174eabe63e0641",
+      "title": "NewsBTCCanary Files Fourth Staked TRX ETF Amendment With 1.10% Fee",
+      "url": "https://www.tradingview.com/news/newsbtc:b101f98b5094b:0-canary-files-fourth-staked-trx-etf-amendment-with-1-10-fee/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T18:04:25.061Z"
+    },
+    {
+      "id": "2ed7f818aacb501f0a649be7248f0606211470155852d0df7360147673ec1ec2",
+      "title": "The BlockBounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+      "url": "https://www.tradingview.com/news/the_block:5bfeea55c094b:0-bouncebit-to-sunset-blockchain-migrate-to-bnb-chain-after-3-million-exploit/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T18:04:25.061Z"
+    },
+    {
+      "id": "af7ca3e1eea27c5f52f1c13cb3e546c898cb24829c085d4e11e65894c546a7bc",
+      "title": "The BlockXRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto",
+      "url": "https://www.tradingview.com/news/the_block:3f8c98bc0094b:0-xrp-leads-broad-altcoin-rally-as-bitcoin-s-biggest-weekly-gain-in-two-years-lifts-crypto/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T18:04:25.061Z"
+    },
     {
       "id": "19b5b1554091d1158984c93e4f952736f70336dca57d5959ff1c05ee8c1c16f6",
       "title": "CoinMarketCalOriginTrail: Election Guardian launches across the Americas - 21 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:eb8c178e2094b:0-origintrail-election-guardian-launches-across-the-americas-21-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.579Z"
+      "scraped_at": "2026-08-21T18:04:25.061Z"
     },
     {
       "id": "e3105aeeb877856daec16197a15ba849c0c2af3072141f0ef59cf2070bb0045b",
       "title": "CoinMarketCalCardano: Constitutional Committee vote expires - 01 Sep 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:52530794a094b:0-cardano-constitutional-committee-vote-expires-01-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.579Z"
+      "scraped_at": "2026-08-21T18:04:25.061Z"
     },
     {
       "id": "ed12198505b95b2070527fd5914219cdd1faab09146bcca61198738629c41c1f",
       "title": "CoinMarketCalpeaq: World ID integration goes live on peaqOS - 21 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:b6fcfeafc094b:0-peaq-world-id-integration-goes-live-on-peaqos-21-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.579Z"
+      "scraped_at": "2026-08-21T18:04:25.061Z"
     },
     {
       "id": "742b2c9866ec0a01bffe1640d46e4e212786d14df943d9112e1f2250a4439aa2",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260821006104:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.579Z"
+      "scraped_at": "2026-08-21T18:04:25.061Z"
     },
     {
       "id": "70c4e76257d4112a6e0170fa25cba121028ce7b2a6b811c46e30856c6c2854a8",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260821006097:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.579Z"
+      "scraped_at": "2026-08-21T18:04:25.061Z"
     },
     {
       "id": "6a230ee843807568e13c0738779ec7c45b1789a83a1b0a07c6a6145b153a7981",
       "title": "NewsBTCBTCS Repays $8.2M Aave Debt As Ethereum Balance Sheet Strategy Shifts",
       "url": "https://www.tradingview.com/news/newsbtc:4de3266b7094b:0-btcs-repays-8-2m-aave-debt-as-ethereum-balance-sheet-strategy-shifts/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.579Z"
+      "scraped_at": "2026-08-21T18:04:25.061Z"
+    },
+    {
+      "id": "52be457c9c1757e2b227938796055a91104a3a728d067b91197b649181b52e25",
+      "title": "BenzingaQUICK SPARK: Bitcoin Posts Best Week Since 2023 On Bond Fix, Crypto Bill",
+      "url": "https://www.tradingview.com/news/benzinga:9f055751c094b:0-quick-spark-bitcoin-posts-best-week-since-2023-on-bond-fix-crypto-bill/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T18:04:25.061Z"
     },
     {
       "id": "4b07d28720c5a5a6912ec259448aa81afb4ceab28c37667e6857cef42db2e84e",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260821006014:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.579Z"
+      "scraped_at": "2026-08-21T18:04:25.061Z"
     },
     {
       "id": "ca227bb2d139ff2d00264d89c2b425d6f24b43f2a820ac4b9c4fcf95c38f79e5",
       "title": "CointelegraphDigital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
       "url": "https://www.tradingview.com/news/cointelegraph:6af6c959a094b:0-digital-asset-paul-ryan-foundation-target-us-state-benefits-with-canton-pilot/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.580Z"
+      "scraped_at": "2026-08-21T18:04:25.061Z"
     },
     {
-      "id": "6bc958532fdbfbb065d249168d74448dd9e503fcf58dcfb30391ca04a15f8d4e",
-      "title": "CointelegraphBitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-      "url": "https://www.tradingview.com/news/cointelegraph:43e59462c094b:0-bitcoin-rally-sends-crypto-stocks-soaring-as-miners-treasury-companies-jump/",
+      "id": "d63600b35697504ff01b11666eab27fa66edf93447177236352a293eb8d8b1b7",
+      "title": "CoinpediaAptos Price Lags as Network Throughput Hits Record",
+      "url": "https://www.tradingview.com/news/coinpedia:f7768e0eb094b:0-aptos-price-lags-as-network-throughput-hits-record/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.580Z"
-    },
-    {
-      "id": "691a7cc32a476ad2f8e41f7d88512b9907437ec7b091efa7df5701d874672ecc",
-      "title": "NewsBTCUniswap Founder Warns CFTC That US Crypto Builders Are Moving Overseas",
-      "url": "https://www.tradingview.com/news/newsbtc:ac7504d5c094b:0-uniswap-founder-warns-cftc-that-us-crypto-builders-are-moving-overseas/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.580Z"
-    },
-    {
-      "id": "87b062efe27debfe3faec766d6cc8482b8589381597c37e43fd3b3f78b532482",
-      "title": "CointelegraphCrypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
-      "url": "https://www.tradingview.com/news/cointelegraph:2cd2978b6094b:0-crypto-biz-treasury-s-not-qe-playbook-sends-bitcoin-higher/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.580Z"
-    },
-    {
-      "id": "888a97ab3af9b444a531ba8c09939bb781c3891b3744585ab6d0f5a71043d02a",
-      "title": "BenzingaMicroCloud Hologram Doubles Down on Bitcoin-Linked Assets With Strategy Stake",
-      "url": "https://www.tradingview.com/news/benzinga:93295024e094b:0-microcloud-hologram-doubles-down-on-bitcoin-linked-assets-with-strategy-stake/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.580Z"
-    },
-    {
-      "id": "75c770a3419fb691c6f8f3a4abec62f234b5fe96e1447eaf8cbf7c8c1a4f82c1",
-      "title": "BenzingaData Shows Bitcoin's 20% 3-Day Rally Was Historic: Here's What Happened After Comparable Rallies",
-      "url": "https://www.tradingview.com/news/benzinga:0b6114064094b:0-data-shows-bitcoin-s-20-3-day-rally-was-historic-here-s-what-happened-after-comparable-rallies/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.580Z"
-    },
-    {
-      "id": "21bd8a4110bd025809d63c69263d1e6c02bbdf468b7e5aea7491d3d12f1209f5",
-      "title": "The BlockStrategy shares hit two-month high as STRC rebounds toward $100 alongside bitcoin",
-      "url": "https://www.tradingview.com/news/the_block:e8d86d27f094b:0-strategy-shares-hit-two-month-high-as-strc-rebounds-toward-100-alongside-bitcoin/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.580Z"
-    },
-    {
-      "id": "3ab2930f99af908c0c121457b338b79fe951570d02382b1c88f75ca334ef6f70",
-      "title": "InvezzRobinhood stock jumps 11% as BTC rally fuels crypto shares: Can HOOD hold the gains?",
-      "url": "https://www.tradingview.com/news/invezz:e68cad933094b:0-robinhood-stock-jumps-11-as-btc-rally-fuels-crypto-shares-can-hood-hold-the-gains/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T17:12:49.580Z"
+      "scraped_at": "2026-08-21T18:04:25.061Z"
     }
   ]
 }
