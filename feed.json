@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-21T02:13:15.259Z",
+  "generated_at": "2026-08-21T03:36:42.295Z",
   "total": 15,
   "items": [
+    {
+      "id": "b0a88e5e10510d41e8c899132d74c8c218c8f59fee1b9d4532fd88b697d670ee",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260820011388:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T03:36:42.290Z"
+    },
+    {
+      "id": "51f16de08f26a29ba3695677869dec98ed7ab31d5ad95ed1e02a9302db9e234c",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260820011389:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T03:36:42.290Z"
+    },
+    {
+      "id": "d8515c08f0b9bcf31be39c97da8cbf8283b76c660dd824166e312dc47dbe1038",
+      "title": "The BlockBitcoin breaks through $75,500 while analyst calls current rally ‘premature’",
+      "url": "https://www.tradingview.com/news/the_block:3ee899cc6094b:0-bitcoin-breaks-through-75-500-while-analyst-calls-current-rally-premature/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T03:36:42.290Z"
+    },
+    {
+      "id": "a9a5bd5045c4f2287ca4e64c40eb450aef026754c637ea815f89068f08484baf",
+      "title": "Binance NewsDeFi TVL Jumps 9.15% to $83.2 Billion as Spot DEX Volume Tops $10 Billion",
+      "url": "https://www.tradingview.com/news/binance_news:c886f0a87094b:0-defi-tvl-jumps-9-15-to-83-2-billion-as-spot-dex-volume-tops-10-billion/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T03:36:42.290Z"
+    },
+    {
+      "id": "4dd223c3291670e13be2511a4ad43ef8e6b2409f6e99da4ccaca0c131c9c6e50",
+      "title": "Binance NewsChainlink Co-Founder Sergey Nazarov Urges Unified U.S. Crypto Regulation and Tokenization Push",
+      "url": "https://www.tradingview.com/news/binance_news:9100b63d5094b:0-chainlink-co-founder-sergey-nazarov-urges-unified-u-s-crypto-regulation-and-tokenization-push/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T03:36:42.290Z"
+    },
     {
       "id": "5ce44cdcc51811ca234d7f8c206905f25a1b96f774246b7bc234f882e3249cd8",
       "title": "CoinMarketCalETHGas: Upbit opens GWEI trading - 21 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:2e06d4a22094b:0-ethgas-upbit-opens-gwei-trading-21-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
+      "scraped_at": "2026-08-21T03:36:42.290Z"
     },
     {
       "id": "345f805ce889b8d7ba37c819eb168f25595bfbe72fa81f1fdff756f6f1a52892",
       "title": "CoinMarketCalSolana: Tokenized fund MOU advances proof-of-concept - 21 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:2d62c6116094b:0-solana-tokenized-fund-mou-advances-proof-of-concept-21-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
+      "scraped_at": "2026-08-21T03:36:42.290Z"
     },
     {
       "id": "67ae409d5447d1d41a7e5bed72aa3797d9ead678bae6555d31852bc7fa3cf459",
       "title": "CoinMarketCalCronos: Plans native tokenomics revision - Q4 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:18d3f7a53094b:0-cronos-plans-native-tokenomics-revision-q4-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
+      "scraped_at": "2026-08-21T03:36:42.290Z"
+    },
+    {
+      "id": "f86deb499a62c188aa0a51905ee8a675f72033cd34043676523a33a2c8e89fd8",
+      "title": "Binance NewsStrategy's Bitcoin Unrealized Loss Narrows to $685 Million as BTC Rebounds",
+      "url": "https://www.tradingview.com/news/binance_news:5964935fd094b:0-strategy-s-bitcoin-unrealized-loss-narrows-to-685-million-as-btc-rebounds/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T03:36:42.290Z"
     },
     {
       "id": "e45b7120abf28d1b992d0946cd8fc79c5e4b83bcb3159dd71fc7969a464d946e",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260820011244_20260820011244:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
+      "scraped_at": "2026-08-21T03:36:42.290Z"
     },
     {
-      "id": "1d494a261b1af169f7ac1afd84b14c61eb1010cf4b8bf01feca1fa442e0cb8d2",
-      "title": "CoinMarketCalArbitrum: Tokenized Stocks launch through Uniswap - 24 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:5d9537a0d094b:0-arbitrum-tokenized-stocks-launch-through-uniswap-24-aug-2026/",
+      "id": "736927c217b8287291ee9b85b37e0105cace465a00ef402f5653be0819bce930",
+      "title": "BenzingaBitcoin Hits $74,000, Ethereum, XRP, Dogecoin Also Advance After Trump-Hosted Crypto Summit: Analyst Says BTC's 'First Real Test' Will Start Here",
+      "url": "https://www.tradingview.com/news/benzinga:fb6b26f6e094b:0-bitcoin-hits-74-000-ethereum-xrp-dogecoin-also-advance-after-trump-hosted-crypto-summit-analyst-says-btc-s-first-real-test-will-start-here/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
+      "scraped_at": "2026-08-21T03:36:42.290Z"
     },
     {
-      "id": "d8af9901a5f9a71842b44dc0acd545e096588ceaf864de8f88404ea26f1ed481",
-      "title": "CoinMarketCalThe Sandbox: Sync Multiplayer release adds competitive play - Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:bffcfa01e094b:0-the-sandbox-sync-multiplayer-release-adds-competitive-play-sep-2026/",
+      "id": "70c10f08784c11e96af02c456f76f1d1c42253b27ba39ef89be232997622cff4",
+      "title": "Binance NewsCrypto Liquidations Reach $156 Million in One Hour, With BTC Accounting for $126 Million",
+      "url": "https://www.tradingview.com/news/binance_news:85f78ac25094b:0-crypto-liquidations-reach-156-million-in-one-hour-with-btc-accounting-for-126-million/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
+      "scraped_at": "2026-08-21T03:36:42.290Z"
     },
     {
-      "id": "747c3695f1deafa6be7b03c015cfeb257cf2befd8e6a9f5e770f609baa741fad",
-      "title": "CoinMarketCalReserve Rights: opens vote on revised unlocking plan - 27 Aug 2026 to 03 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:e7932c8b0094b:0-reserve-rights-opens-vote-on-revised-unlocking-plan-27-aug-2026-to-03-sep-2026/",
+      "id": "fc84906beb6a65216dd20668bdd40fdcb8a014d185b6464bc37ba48330eee7d8",
+      "title": "Binance News7 Siblings Sells 9,000 ETH After Ether Rises More Than 20%",
+      "url": "https://www.tradingview.com/news/binance_news:7339422a2094b:0-7-siblings-sells-9-000-eth-after-ether-rises-more-than-20/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
+      "scraped_at": "2026-08-21T03:36:42.290Z"
     },
     {
-      "id": "bbf5ea3a232e0a8402cf43cbb80b4c828968539f4c0afc2f41cde75e0b48abef",
-      "title": "BeincryptoBitcoin Is Suddenly a Hedge Again, VanEck Says: What Changed?",
-      "url": "https://www.tradingview.com/news/beincrypto:ba646d568094b:0-bitcoin-is-suddenly-a-hedge-again-vaneck-says-what-changed/",
+      "id": "e5b669245903c6649ef2c0f17644324a774bdd4350b35b97ead170cbc2bfc20b",
+      "title": "Binance NewsSharpLink Gaming Stakes Another 39,300 ETH",
+      "url": "https://www.tradingview.com/news/binance_news:07f7447df094b:0-sharplink-gaming-stakes-another-39-300-eth/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
+      "scraped_at": "2026-08-21T03:36:42.290Z"
     },
     {
-      "id": "5e6e4c4acd9f2f7229c8e1acb996f24aac4009e818ba4beeb47c609c136ec233",
-      "title": "BeincryptoTreasury Secretary Bessent Says Buybacks Can Exceed $4B: Bullish for Bitcoin?",
-      "url": "https://www.tradingview.com/news/beincrypto:e090ad869094b:0-treasury-secretary-bessent-says-buybacks-can-exceed-4b-bullish-for-bitcoin/",
+      "id": "910c192dcf7b9849c252dc050a3ad0ae8ade89ea46756155edfd8fc2b0a59ac9",
+      "title": "Binance NewsEntity Buys Another 3,385.82 ETH Through Cowswap, Bringing Total Purchases to 16,699.32 ETH",
+      "url": "https://www.tradingview.com/news/binance_news:ffca3142a094b:0-entity-buys-another-3-385-82-eth-through-cowswap-bringing-total-purchases-to-16-699-32-eth/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
-    },
-    {
-      "id": "858a498c76996aa7f59b5b9215425f14bc7471666ea03ccce54d19313bb85739",
-      "title": "CointelegraphBitcoin breaks above 200-day moving average for first time since November",
-      "url": "https://www.tradingview.com/news/cointelegraph:ca96817f2094b:0-bitcoin-breaks-above-200-day-moving-average-for-first-time-since-november/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
-    },
-    {
-      "id": "213dc25271cb0f598dc2367c177fa27f67805283f47ac113c49982c2b4f16348",
-      "title": "ReutersTwo Binance employees were detained in UAE in recent weeks, NYT reports",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44H14O:0-two-binance-employees-were-detained-in-uae-in-recent-weeks-nyt-reports/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
-    },
-    {
-      "id": "21a469ccfc31ff8aa01a9ac7ffc2d0bc6e64d38ff7fb689f319281d3819a9dcc",
-      "title": "CointelegraphCFTC chair says agency will move forward on crypto regulation if CLARITY fails",
-      "url": "https://www.tradingview.com/news/cointelegraph:2e05907a1094b:0-cftc-chair-says-agency-will-move-forward-on-crypto-regulation-if-clarity-fails/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
-    },
-    {
-      "id": "73002080ad767e6b82797ed6050128d8bc56fca304241a7ef5735df8e24f6555",
-      "title": "The BlockKraken parent Payward explores becoming a ‘full bank’ outside the US",
-      "url": "https://www.tradingview.com/news/the_block:21765401f094b:0-kraken-parent-payward-explores-becoming-a-full-bank-outside-the-us/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
-    },
-    {
-      "id": "0e68ec3415b3de72eb0244b79935299d17866cbed806d41df5b1a1cf3cc0074e",
-      "title": "Finance MagnatesCapital.com Ring-Fences UAE Crypto Business Under New Licence",
-      "url": "https://www.tradingview.com/news/financemagnates:4e31985b3094b:0-capital-com-ring-fences-uae-crypto-business-under-new-licence/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
-    },
-    {
-      "id": "042967814a0c40f04f2e40d1e8759f8b1ab0c17cff31a6ec368875a7abbf6cb2",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:bc82af223094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T02:13:15.256Z"
+      "scraped_at": "2026-08-21T03:36:42.290Z"
     }
   ]
 }
