@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-21T11:04:13.468Z",
+  "generated_at": "2026-08-21T12:03:31.034Z",
   "total": 15,
   "items": [
+    {
+      "id": "15392b312de2c42738beb03503b2d026ae9d55fcab07972353960736ff900378",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260821003808:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T12:03:31.030Z"
+    },
+    {
+      "id": "8d0716d642f0ab0a8ddf22e2c3dd13137632cfdb2f9b8f282c8a86e170122f33",
+      "title": "StocktwitsBitcoin’s Best Week In 3 Years Amid Record Short Liquidations Puts $126K Overshoot Back In Play, Standard Chartered Says",
+      "url": "https://www.tradingview.com/news/stocktwits:93897c4a2094b:0-bitcoin-s-best-week-in-3-years-amid-record-short-liquidations-puts-126k-overshoot-back-in-play-standard-chartered-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T12:03:31.030Z"
+    },
     {
       "id": "5726ffd161ccd6b4593b2a65ee05451057e95c291d14267a01f1a11eaf058905",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260821003596:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
+      "scraped_at": "2026-08-21T12:03:31.030Z"
+    },
+    {
+      "id": "3cd2b8c4e0d587d2cc646d358a97503e1b128ad01063c90f7cc533e8f30ef939",
+      "title": "CoinMarketCalETHGas: Crypto.com lists ETHGas for USD trading - 21 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b021f8c66094b:0-ethgas-crypto-com-lists-ethgas-for-usd-trading-21-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T12:03:31.030Z"
+    },
+    {
+      "id": "ae76eca00ab081017f9b371792fcc967c9881e99bc1ee73a0729fd6a23e04c7d",
+      "title": "CoinMarketCalRain: Credit Refund supply is permanently burned - 25 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:107dbae0e094b:0-rain-credit-refund-supply-is-permanently-burned-25-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T12:03:31.030Z"
+    },
+    {
+      "id": "9e8a8d494c77044b4b5df436e076536c181eda7262b49f164cbc7f477926ddac",
+      "title": "CoinMarketCalNEXO: Upbit opens USDT trading - 21 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:793a4ae25094b:0-nexo-upbit-opens-usdt-trading-21-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T12:03:31.030Z"
+    },
+    {
+      "id": "aaf3805971da5d5c7114f3c7ad4884a4ea1ca6e26df4c8436164f29a03ff9c13",
+      "title": "The BlockBitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein",
+      "url": "https://www.tradingview.com/news/the_block:1f79d79da094b:0-bitcoin-surge-toward-80k-points-to-liquidity-driven-momentum-shift-as-etf-flows-rebound-bernstein/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T12:03:31.030Z"
     },
     {
       "id": "983acbf3aaa8a36c4b64989717c6ebdcbb228c3586eea9f0aafbd8983ee10719",
       "title": "CryptoNewsEthereum ETF Pulls $221M as ETH Eyes Another Breakout",
       "url": "https://www.tradingview.com/news/cryptonews:d70328f5b094b:0-ethereum-etf-pulls-221m-as-eth-eyes-another-breakout/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
+      "scraped_at": "2026-08-21T12:03:31.030Z"
+    },
+    {
+      "id": "d6a9e75a50423507848a8d7f8195c73a2ef355a134ca1e10c5fbf7829c024f62",
+      "title": "CoinpediaChainlink Price Surges 8% as LINK Breaks Out — Can ETF Inflows Push It Toward $16?",
+      "url": "https://www.tradingview.com/news/coinpedia:06fbe298c094b:0-chainlink-price-surges-8-as-link-breaks-out-can-etf-inflows-push-it-toward-16/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-21T12:03:31.030Z"
     },
     {
       "id": "54bb5d866a43f562c07dd88d8be53f427658e5aa49332d120481012f212cca60",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260821003243:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
+      "scraped_at": "2026-08-21T12:03:31.030Z"
     },
     {
       "id": "fba17ed114176f26b7c92cb762d44508cb34ec0c69302b731e38365e4b705f6d",
       "title": "CointelegraphColdcard strengthens seed generation with firmware update",
       "url": "https://www.tradingview.com/news/cointelegraph:8c46d841d094b:0-coldcard-strengthens-seed-generation-with-firmware-update/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
+      "scraped_at": "2026-08-21T12:03:31.030Z"
     },
     {
       "id": "d049272973c2db618ae6661b30a6d98ae5e50e557d1882f5902309b5d8c0b8ae",
       "title": "PR NewswireRobo.ai Inc. Announces Appointment of Wang Hao, Senior Executive Officer of UAE Independent Digital Asset Custodian Changer.ae, as Independent Director",
       "url": "https://www.tradingview.com/news/prnewswire:776f93437cb40:0-robo-ai-inc-announces-appointment-of-wang-hao-senior-executive-officer-of-uae-independent-digital-asset-custodian-changer-ae-as-independent-director/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
+      "scraped_at": "2026-08-21T12:03:31.030Z"
     },
     {
       "id": "21ebbbd3cf6ddf8619c9465167165c82e5ab53e5483a683981000ccfc727e64e",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260821003234:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
+      "scraped_at": "2026-08-21T12:03:31.030Z"
     },
     {
       "id": "368429e303766fd894e9a9d690d216e16d70df88ec0ed45430a8204ff58ff0f4",
       "title": "ChainwireMEXC Lists Ondo Tokenized Stock Moderna (MRNAON), Expanding Access to U.S. Biotech Exposure",
       "url": "https://www.tradingview.com/news/chainwire:b8bb51d54094b:0-mexc-lists-ondo-tokenized-stock-moderna-mrnaon-expanding-access-to-u-s-biotech-exposure/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
+      "scraped_at": "2026-08-21T12:03:31.030Z"
     },
     {
       "id": "ffe95fcebd0c1ae826c2af2cbb7ed1dce6c333742ffcf3cf72a9011aad85c932",
       "title": "ReutersHow Tether's bitcoin mining plans in Uruguay unraveled",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44H0TJ:0-how-tether-s-bitcoin-mining-plans-in-uruguay-unraveled/",
       "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
-    },
-    {
-      "id": "d39bf9cf001b66bac4133a2999bf271a6b7aeb5b865dce6a42f24e58468f0fe3",
-      "title": "BeincryptoEthereum’s 29% Price Rally Divides Whales Across the Market",
-      "url": "https://www.tradingview.com/news/beincrypto:623b20edb094b:0-ethereum-s-29-price-rally-divides-whales-across-the-market/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
-    },
-    {
-      "id": "9ed6926b04da8027d6874e8efec21b305505953d81521d26c783596db4ee17ff",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260821002988:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
-    },
-    {
-      "id": "e2c39ade3c31cde9ea9a996550735e889abf606a4d588bd5bba57879df504187",
-      "title": "StocktwitsBitcoin’s $77K Breakout Has Retail Buying The Rally – But Over $4.1B Crypto Bets Got Wiped Out In 2 Days",
-      "url": "https://www.tradingview.com/news/stocktwits:09fe7c6d7094b:0-bitcoin-s-77k-breakout-has-retail-buying-the-rally-but-over-4-1b-crypto-bets-got-wiped-out-in-2-days/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
-    },
-    {
-      "id": "c00fb54afff0dc190bf2fb434d10a057a4346679dc5ece0352a53014b8deba28",
-      "title": "BenzingaXST Token Surges 13%, but Thin Liquidity and Concentrated Supply Raise Red Flags",
-      "url": "https://www.tradingview.com/news/benzinga:df9d3b612094b:0-xst-token-surges-13-but-thin-liquidity-and-concentrated-supply-raise-red-flags/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
-    },
-    {
-      "id": "53f3ed2019ecae915093ac235e4f96f854451dfeba0e7faf54da3f65ef9e2d81",
-      "title": "BeincryptoWhat Is Bitcoin Infinity Day? The 8/21 Ritual That Bans Selling for a Day",
-      "url": "https://www.tradingview.com/news/beincrypto:c3020b908094b:0-what-is-bitcoin-infinity-day-the-8-21-ritual-that-bans-selling-for-a-day/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.465Z"
-    },
-    {
-      "id": "33e451ccc610f7588211f6e857ddf359428eb2a4cb219290192f0607546da993",
-      "title": "The BlockUpbit trading volume spikes 273% as South Korean investors re-enter crypto",
-      "url": "https://www.tradingview.com/news/the_block:c81536c99094b:0-upbit-trading-volume-spikes-273-as-south-korean-investors-re-enter-crypto/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.466Z"
-    },
-    {
-      "id": "4891a25beb4b2c77ca686f03f14e71cb12ca41fedcbef51eb89d66e57b838aeb",
-      "title": "The BlockAvalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto",
-      "url": "https://www.tradingview.com/news/the_block:e62832230094b:0-avalanche-s-nahas-token-prices-are-down-but-i-ve-never-seen-more-opportunities-in-crypto/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-21T11:04:13.466Z"
+      "scraped_at": "2026-08-21T12:03:31.030Z"
     }
   ]
 }
