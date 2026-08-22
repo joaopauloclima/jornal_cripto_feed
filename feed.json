@@ -1,118 +1,111 @@
 {
-  "generated_at": "2026-08-22T11:59:06.919Z",
-  "total": 16,
+  "generated_at": "2026-08-22T12:55:42.677Z",
+  "total": 15,
   "items": [
+    {
+      "id": "fe59252f4e81545154cf42834ef44df195f50a6779647e062c1e32d8bb27197f",
+      "title": "CoindarReserve to Begin RSR Unlocking Vote on August 27th",
+      "url": "https://www.tradingview.com/news/coindar:80dae976e094b:0-reserve-to-begin-rsr-unlocking-vote-on-august-27th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-22T12:55:42.674Z"
+    },
+    {
+      "id": "43ee108e273a775f19e4950615202db3c3b71966cb118a86f8a3f7be19ac23f5",
+      "title": "CoindarRender to Hold Hackathon on August 26th",
+      "url": "https://www.tradingview.com/news/coindar:77427eaa8094b:0-render-to-hold-hackathon-on-august-26th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-22T12:55:42.674Z"
+    },
+    {
+      "id": "daf335c5042cc2061d822f89155c74bf15b2aff95510c194966c78d3487e4a9c",
+      "title": "CoindarAccess Protocol to Attend Bitcoin Asia in Hong Kong on August 27th",
+      "url": "https://www.tradingview.com/news/coindar:180812218094b:0-access-protocol-to-attend-bitcoin-asia-in-hong-kong-on-august-27th/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-22T12:55:42.674Z"
+    },
+    {
+      "id": "48c20134a0aef161ce2a43d27fbccc7be2d5265f6aa07298c6f16eb813bb9313",
+      "title": "TradingViewKey facts: Grayscale Seeks ZCH ETF; Cypherpunk Mining, CRYPTO:ZECUSD",
+      "url": "https://www.tradingview.com/news/tradingview:58f6916f7fc32:0-key-facts-grayscale-seeks-zch-etf-cypherpunk-mining-crypto-zecusd/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-22T12:55:42.674Z"
+    },
+    {
+      "id": "2cbe7eeca76db7ad68cfb5cb7e5138160761a0e9419d14da66d049f5334a8d6e",
+      "title": "TradingViewKey facts: LINKUSD adoption by regulators and Pangea; under trendline",
+      "url": "https://www.tradingview.com/news/tradingview:60496822abb68:0-key-facts-linkusd-adoption-by-regulators-and-pangea-under-trendline/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-22T12:55:42.674Z"
+    },
+    {
+      "id": "2b6bdd26da70b15571542d980b6b77d007e325d99f57b0ad13c6b1cbf4785ec3",
+      "title": "TradingViewKey facts: BTCUSD up ~21–23%; Standard Chartered raises target to $100k",
+      "url": "https://www.tradingview.com/news/tradingview:487da3ef5af32:0-key-facts-btcusd-up-21-23-standard-chartered-raises-target-to-100k/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-22T12:55:42.674Z"
+    },
+    {
+      "id": "99980d2d73c29005554ad6a5784cd63b7bc461b9198e761cc2bc7e823d774db7",
+      "title": "TradingViewKey facts: CRYPTO:ETHUSD OI-$3B; Liquidations $308M; ETF Inflows $220M",
+      "url": "https://www.tradingview.com/news/tradingview:573ebefb7b829:0-key-facts-crypto-ethusd-oi-3b-liquidations-308m-etf-inflows-220m/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-22T12:55:42.674Z"
+    },
     {
       "id": "72343e461c1a4d7ad34a16366c9fb376d47a0a403f16aeb462ffc6a5588bccad",
       "title": "StocktwitsTRUMP, ZEC And POL Leave Bitcoin And Ethereum In The Dust – Is An Altseason On The Way?",
       "url": "https://www.tradingview.com/news/stocktwits:acf003d02094b:0-trump-zec-and-pol-leave-bitcoin-and-ethereum-in-the-dust-is-an-altseason-on-the-way/",
       "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
+      "scraped_at": "2026-08-22T12:55:42.674Z"
     },
     {
       "id": "b61a1c2440932487ae6341e073d60f17789cab74e52b461d854a5f85d162ce48",
       "title": "CoindarBNB Chain to Undergo Hard Fork on August 25th",
       "url": "https://www.tradingview.com/news/coindar:997fc8b2b094b:0-bnb-chain-to-undergo-hard-fork-on-august-25th/",
       "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
+      "scraped_at": "2026-08-22T12:55:42.674Z"
     },
     {
       "id": "d12f8b732c2c78d77599cb3949578c8f51c81df04aa67d41cf116dbaef532e14",
       "title": "CoindarGnosis to Close GIP-154 Voting on August 27th",
       "url": "https://www.tradingview.com/news/coindar:260b43a12094b:0-gnosis-to-close-gip-154-voting-on-august-27th/",
       "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
+      "scraped_at": "2026-08-22T12:55:42.674Z"
     },
     {
       "id": "d64ede015146085d33b4796a86c347eaa364ee689034658b218cb890230a6034",
       "title": "CoindarCelo to Hold Hackathon on August 28th",
       "url": "https://www.tradingview.com/news/coindar:3df7e5a97094b:0-celo-to-hold-hackathon-on-august-28th/",
       "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
+      "scraped_at": "2026-08-22T12:55:42.674Z"
     },
     {
       "id": "f878a98ae8ab91116a3b2a7e18c6b640db8ea71d5d879c89f493eb16ebdade3b",
       "title": "CoindarCelo to Host Community Call on August 28th",
       "url": "https://www.tradingview.com/news/coindar:fa0fe1121094b:0-celo-to-host-community-call-on-august-28th/",
       "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
+      "scraped_at": "2026-08-22T12:55:42.674Z"
     },
     {
       "id": "d6e9ab0ba83a66575663baa6334fa0c4b2ef0700c2bca58e80574131334fe31b",
       "title": "CoinMarketCalpeaq: peaqOS integrates World ID for private human verification - 22 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:d5130620e094b:0-peaq-peaqos-integrates-world-id-for-private-human-verification-22-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
+      "scraped_at": "2026-08-22T12:55:42.674Z"
     },
     {
       "id": "4231bd81efee34804c6a8bc94cfb8e16b7afae87462f5b9cdddb0c05c7c92f99",
       "title": "CoinMarketCalBitway: BTW begins spot trading on Gate - 24 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:14613ce1e094b:0-bitway-btw-begins-spot-trading-on-gate-24-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
+      "scraped_at": "2026-08-22T12:55:42.674Z"
     },
     {
       "id": "fa194f17ecbf21dc6eb22bc55a64605db149c410b386938551e5e81db73c90e8",
       "title": "BeincryptoXRP Price Suffers a Brutal Flash Crash as $1.35 Billion Crypto Liquidation",
       "url": "https://www.tradingview.com/news/beincrypto:ab06d405f094b:0-xrp-price-suffers-a-brutal-flash-crash-as-1-35-billion-crypto-liquidation/",
       "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
-    },
-    {
-      "id": "038c1e20c105b2fb49b25a1891a51228470131cafeb6000b8de118f97b620bb7",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:86fdfc44c094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
-    },
-    {
-      "id": "a93501703449cf13852aa14984aefd220461caeb7eddd56d85ba8f79d77c87e1",
-      "title": "StocktwitsBitcoin Just Had One Of Its ‘10 Best Days’ And A Rare Signal — Tom Lee Says ‘HODL’",
-      "url": "https://www.tradingview.com/news/stocktwits:100402317094b:0-bitcoin-just-had-one-of-its-10-best-days-and-a-rare-signal-tom-lee-says-hodl/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
-    },
-    {
-      "id": "b3ea669002eeb1107df90feee79e2af479604d4092ccb0d3d360fff9889205c1",
-      "title": "CoinpediaBitcoin, Ethereum, and XRP Crash as $1.7B Got Liquidated in 24 Hours",
-      "url": "https://www.tradingview.com/news/coinpedia:f8fcecf7a094b:0-bitcoin-ethereum-and-xrp-crash-as-1-7b-got-liquidated-in-24-hours/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
-    },
-    {
-      "id": "ff2afee05c76a16583d007166819354a0014a9b62916e087564f9e04561f0cfb",
-      "title": "CoinpediaHow Low Can Bitcoin Price Drop After the Flash Crash?",
-      "url": "https://www.tradingview.com/news/coinpedia:7a69f156a094b:0-how-low-can-bitcoin-price-drop-after-the-flash-crash/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
-    },
-    {
-      "id": "ac034b0764d4b331a7980940f6363712030bf189c9d12731d281a7eeac8dcce4",
-      "title": "CoinpediaPEPE Price Surges 18% After Breakout — Is $0.000005 the Next Target?",
-      "url": "https://www.tradingview.com/news/coinpedia:2bc382f8d094b:0-pepe-price-surges-18-after-breakout-is-0-000005-the-next-target/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
-    },
-    {
-      "id": "9c9d844d8b6a511e34381037615b326fbd6fc717bd66e18368a383a6ee680ff1",
-      "title": "CoinpediaThe Sandbox SAND Exploit: $49B in New Tokens Flood Base",
-      "url": "https://www.tradingview.com/news/coinpedia:452038594094b:0-the-sandbox-sand-exploit-49b-in-new-tokens-flood-base/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
-    },
-    {
-      "id": "57b18743db7f0f1908df481ddfd40295820f2f0c3c2767f60a22cd2231c8cce9",
-      "title": "MintExplained | How Bitcoin rally led to skyrocketing of crypto stocks | What's fuelling surge of both? Climbing in tandem",
-      "url": "https://www.tradingview.com/news/moodys:c7dbf1139ae79:0-explained-how-bitcoin-rally-led-to-skyrocketing-of-crypto-stocks-what-s-fuelling-surge-of-both-climbing-in-tandem/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
-    },
-    {
-      "id": "6bdb9f6db0a3170a8982f339cc27313303afacbc8ac9fec2c17ee158463726e6",
-      "title": "CoinpediaOFFICIAL TRUMP Surges Over 60% as Bears Lose Control—Is This the Start of a Rally or a Bull Trap?",
-      "url": "https://www.tradingview.com/news/coinpedia:dad1f27ac094b:0-official-trump-surges-over-60-as-bears-lose-control-is-this-the-start-of-a-rally-or-a-bull-trap/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-22T11:59:06.915Z"
+      "scraped_at": "2026-08-22T12:55:42.674Z"
     }
   ]
 }
