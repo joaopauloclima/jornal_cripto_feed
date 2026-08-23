@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-23T01:54:29.388Z",
+  "generated_at": "2026-08-23T03:07:35.154Z",
   "total": 15,
   "items": [
+    {
+      "id": "d8b2856ec74d4e00920f5ba090add66c0ddad9555cd8973cd48665011e66a767",
+      "title": "Binance NewsLORACLE Recovers About $3 Million as HYPE Pulls Back From Record High",
+      "url": "https://www.tradingview.com/news/binance_news:d090e372b094b:0-loracle-recovers-about-3-million-as-hype-pulls-back-from-record-high/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "bf42e9196c7b054f14549718d79dc855432db76524dc381a9c39743dd511f760",
+      "title": "Binance NewsHyperliquid Whale Positions Reach $7.02 Billion, Coinglass Data Shows",
+      "url": "https://www.tradingview.com/news/binance_news:0b2304372094b:0-hyperliquid-whale-positions-reach-7-02-billion-coinglass-data-shows/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "7dd6604f084f228e8f39ea09eee439f80c73948003c5034a4df69be60d8dd5a2",
+      "title": "Binance NewsKendrick Says Rally Driven by Short Liquidations as Open Interest Remains Low",
+      "url": "https://www.tradingview.com/news/binance_news:ed219b808094b:0-kendrick-says-rally-driven-by-short-liquidations-as-open-interest-remains-low/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "ba97a1bf0db7f3710d8e85b41880793254296150cedcb66776829849b144aade",
+      "title": "Binance NewsTAC Investigates Vulnerability Attack on Its Cosmos-Based EVM Side",
+      "url": "https://www.tradingview.com/news/binance_news:161da35e1094b:0-tac-investigates-vulnerability-attack-on-its-cosmos-based-evm-side/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "1b843a18812879d524ff39a8fd2aec474ec444418f31e56aaa2b44b64c734da2",
+      "title": "Binance NewsTAC Investigates Cosmos-Based EVM Side Vulnerability Attack",
+      "url": "https://www.tradingview.com/news/binance_news:6eed56b84094b:0-tac-investigates-cosmos-based-evm-side-vulnerability-attack/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "106e968c35f00c67e79cbe762e0be2998ead8a89fbe4100dc451d65435fc0b71",
+      "title": "Binance NewsDormant Address Resurfaces and Buys ETH After Eight Months",
+      "url": "https://www.tradingview.com/news/binance_news:989d7c37d094b:0-dormant-address-resurfaces-and-buys-eth-after-eight-months/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "0c8b1b241d797db698ffce43f630527da5507b28920fb17eeaab3d045ba3e767",
+      "title": "Binance NewsKeeta Network CEO Says Attack Investigation Identified Evidence and Demands Funds Return Within 72 Hours",
+      "url": "https://www.tradingview.com/news/binance_news:a5564dff1094b:0-keeta-network-ceo-says-attack-investigation-identified-evidence-and-demands-funds-return-within-72-hours/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "0a5a6c18ac0dcc8feb727d7a762bfd5c7ea39a79f41d5a88b411afe4e2e62448",
+      "title": "Binance NewsStandard Chartered's Geoff Kendrick Sees Bitcoin Moving Toward $126,000 by Year-End",
+      "url": "https://www.tradingview.com/news/binance_news:c563c4a29094b:0-standard-chartered-s-geoff-kendrick-sees-bitcoin-moving-toward-126-000-by-year-end/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "ed5f47abd2af4e28309813f2978af664a980ca4e827080bc357981b6fc294836",
+      "title": "Binance NewsEric Trump Denies Claims That Donald Trump Will Launch New Token",
+      "url": "https://www.tradingview.com/news/binance_news:035797201094b:0-eric-trump-denies-claims-that-donald-trump-will-launch-new-token/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "1325a8942c44bba5c45d90af204f9104c597d19e854414dd6469c2571559a2ac",
+      "title": "Binance NewsTRUMP Token Team Transfers 3.837 Million Tokens to CEX via BitGo",
+      "url": "https://www.tradingview.com/news/binance_news:7612a6578094b:0-trump-token-team-transfers-3-837-million-tokens-to-cex-via-bitgo/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
+    {
+      "id": "3ef2ada8156376585870f7e8e2baffea9fbb87ebd842996a61a42cf141543a38",
+      "title": "Binance NewsNFT Sales Rise 155.23% to $97.86 Million as Ethereum Leads Weekly Growth",
+      "url": "https://www.tradingview.com/news/binance_news:0dc2535ce094b:0-nft-sales-rise-155-23-to-97-86-million-as-ethereum-leads-weekly-growth/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-23T03:07:35.151Z"
+    },
     {
       "id": "b04304d0f457ac61f011ae745914fddfd2a64ba014223bb89a1829e7add62fc5",
       "title": "BeincryptoArthur Hayes Shares Surprising Tip on Stocks, Gold, and Bitcoin",
       "url": "https://www.tradingview.com/news/beincrypto:43292cf83094b:0-arthur-hayes-shares-surprising-tip-on-stocks-gold-and-bitcoin/",
       "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.385Z"
+      "scraped_at": "2026-08-23T03:07:35.151Z"
     },
     {
-      "id": "a1d65dd047792961654b14a5799698d6cbd0dbad3bf448b340c9ddc7d9d89b0a",
-      "title": "CryptoProwlZcash Hits Eight-Year High After Grayscale Advances U.S. ETF Push",
-      "url": "https://www.tradingview.com/news/cryptoprowl:83a6eb972094b:0-zcash-hits-eight-year-high-after-grayscale-advances-u-s-etf-push/",
+      "id": "e5d7f77f7c63584c0e9bd43789b39c03a9cda9b80948c5a86b7b879ed1a8a9fb",
+      "title": "Binance NewsEric Trump Denies Rumors of New Trump Meme Coin Launch",
+      "url": "https://www.tradingview.com/news/binance_news:e4a1450e1094b:0-eric-trump-denies-rumors-of-new-trump-meme-coin-launch/",
       "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.385Z"
+      "scraped_at": "2026-08-23T03:07:35.151Z"
     },
     {
-      "id": "86072da8f8d50f13f641534460f0cdcb4f6e8422117cbc1db84b6ac2bd277045",
-      "title": "CoinMarketCalAlgorand: v5 Mainnet goes live - 22 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:dfbee0366094b:0-algorand-v5-mainnet-goes-live-22-aug-2026/",
+      "id": "0df2527b0108ec3dca62a5d58af42faaa66ba632219b18960df4c41168d41c17",
+      "title": "Binance NewsPolygon Co-Founder Says Staking and Tokenomics Reform Proposal Is Moving Forward",
+      "url": "https://www.tradingview.com/news/binance_news:22dfa462c094b:0-polygon-co-founder-says-staking-and-tokenomics-reform-proposal-is-moving-forward/",
       "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.385Z"
+      "scraped_at": "2026-08-23T03:07:35.151Z"
     },
     {
-      "id": "98169c39551698f911e65f097000e9d62dd5d4ad7d3c9fef8299802daa7528e0",
-      "title": "The BlockBitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
-      "url": "https://www.tradingview.com/news/the_block:b3db7b510094b:0-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume/",
+      "id": "7ab285938cbc2305251acb7a0045440f830ab1a8bab0bfebf27f2d81f590fac6",
+      "title": "Binance NewsCardone Capital Buys 350 Bitcoin for $26.9 Million",
+      "url": "https://www.tradingview.com/news/binance_news:91d58732b094b:0-cardone-capital-buys-350-bitcoin-for-26-9-million/",
       "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.385Z"
-    },
-    {
-      "id": "f15dd2a41378a9970d7bf6c0059e9288656cf7b7c36dc57bf1e8a82f9c9d5f43",
-      "title": "CoinpediaZachXBT’s New Crypto Support Site To Block UK, India, Canada",
-      "url": "https://www.tradingview.com/news/coinpedia:2146dfa65094b:0-zachxbt-s-new-crypto-support-site-to-block-uk-india-canada/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.385Z"
-    },
-    {
-      "id": "fb6ff0c711429df6ee51dff9b1b7ef92f38988d9cad80343d95102dfc265bcb4",
-      "title": "Beincrypto$830 Million in an Hour: XRP and TRUMP Drive New Record in South Korea",
-      "url": "https://www.tradingview.com/news/beincrypto:707c0da99094b:0-830-million-in-an-hour-xrp-and-trump-drive-new-record-in-south-korea/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.385Z"
-    },
-    {
-      "id": "0c55bdae38c53a46b55d051923b405c24bce7b830c67e9b2e32bbb2ef05da716",
-      "title": "BeincryptoBitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion",
-      "url": "https://www.tradingview.com/news/beincrypto:db2dbb266094b:0-bitcoin-and-ethereum-etfs-score-biggest-week-since-october-with-2-3-billion/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.385Z"
-    },
-    {
-      "id": "9a4689377dfd94759d221727faeb83fe0379641f6f5d40a29d53a65098f02843",
-      "title": "The BlockZcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
-      "url": "https://www.tradingview.com/news/the_block:170425933094b:0-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.386Z"
-    },
-    {
-      "id": "af825520894c6476866d54f7f69d87b2d5b73f9843850cf9b55a694c3ac5986f",
-      "title": "CoinpediaCan ARB Price Break the $0.25 Barrier Soon?",
-      "url": "https://www.tradingview.com/news/coinpedia:6044cdbdb094b:0-can-arb-price-break-the-0-25-barrier-soon/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.386Z"
-    },
-    {
-      "id": "5962e9636f7acc45ef3602d8d4b1e92233b7bfa7d7e8bb1a250cfde9bc028ffc",
-      "title": "StocktwitsRipple CEO Brad Garlinghouse Calls CFTC’s New Crypto Panel An ‘Olympic Roster’",
-      "url": "https://www.tradingview.com/news/stocktwits:5f28f73ee094b:0-ripple-ceo-brad-garlinghouse-calls-cftc-s-new-crypto-panel-an-olympic-roster/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.386Z"
-    },
-    {
-      "id": "8a90389509e1b65a732e6f70f819d6dd47192779f95e358f5d97d539e1d57eb3",
-      "title": "CoinpediaLTC Price Tests Weekly Demand as Bulls Eye $80",
-      "url": "https://www.tradingview.com/news/coinpedia:c88ec255d094b:0-ltc-price-tests-weekly-demand-as-bulls-eye-80/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.386Z"
-    },
-    {
-      "id": "22749a00dcb08203723d73b8a9d867f51ecdd6f64bb631e40cc61bd6def28fa8",
-      "title": "StocktwitsMichael Howell Says 2026 Won't Be A Big Year For Bitcoin, Sees 30-Year Yield Going Higher",
-      "url": "https://www.tradingview.com/news/stocktwits:ac68eae53094b:0-michael-howell-says-2026-won-t-be-a-big-year-for-bitcoin-sees-30-year-yield-going-higher/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.386Z"
-    },
-    {
-      "id": "f70d7c3b0608df6df45060dbd5b081f2aa377f318ab36b52dd0b60c305b500a3",
-      "title": "CoinpediaCoinbase Stock Jumps 8% as Crypto Market Roars Back — Is $200 Breakout Next?",
-      "url": "https://www.tradingview.com/news/coinpedia:1d642ff87094b:0-coinbase-stock-jumps-8-as-crypto-market-roars-back-is-200-breakout-next/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.386Z"
-    },
-    {
-      "id": "c1f5a1ffab5263b63d1ede09bfa4536ca99903a907e023f92241400649e83448",
-      "title": "BeincryptoBounceBit Retires Its Chain After Attacker Moves 286.5 Million Tokens",
-      "url": "https://www.tradingview.com/news/beincrypto:e8c672529094b:0-bouncebit-retires-its-chain-after-attacker-moves-286-5-million-tokens/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.386Z"
-    },
-    {
-      "id": "a49c8d6f0ccb3960bdc2407f814dcfa0ebcd8264ee48b3cc24fa224e6fc5c5c8",
-      "title": "The BlockSolana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-      "url": "https://www.tradingview.com/news/the_block:942153ba2094b:0-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-23T01:54:29.386Z"
+      "scraped_at": "2026-08-23T03:07:35.151Z"
     }
   ]
 }
