@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-24T04:30:06.028Z",
-  "total": 14,
+  "generated_at": "2026-08-24T05:24:58.595Z",
+  "total": 15,
   "items": [
+    {
+      "id": "001a60ecd532a8bb48f1623df89c5030bea664cc8f592ca0b6af40dda679df2a",
+      "title": "CoinMarketCalLighter: Upbit opens LIT trading in the KRW market - 24 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b67f822ed094b:0-lighter-upbit-opens-lit-trading-in-the-krw-market-24-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T05:24:58.592Z"
+    },
+    {
+      "id": "86b4b59f4ac8a65efac728994b2639dc3cac52e053b3be2f3022f3dc267745f4",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260824000129:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T05:24:58.592Z"
+    },
+    {
+      "id": "75dccdb0ea1d07d563b3e8372c2fc4f27df54834b8adb14d777b4eb0fe5b3a22",
+      "title": "Crypto BriefingOman’s foreign minister to visit Tehran for Strait of Hormuz talks",
+      "url": "https://www.tradingview.com/news/cryptobriefing:8fa478055094b:0-oman-s-foreign-minister-to-visit-tehran-for-strait-of-hormuz-talks/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T05:24:58.592Z"
+    },
+    {
+      "id": "1c21c6326fca6fd1f56665da8f6206302962cd07faef338c1f5ec5a7565f4444",
+      "title": "ChainwireConsortium Launches Cross-Regional Pilot on Post-Quantum Security With Banks and Regulators",
+      "url": "https://www.tradingview.com/news/chainwire:4d43dadf7094b:0-consortium-launches-cross-regional-pilot-on-post-quantum-security-with-banks-and-regulators/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T05:24:58.592Z"
+    },
     {
       "id": "27689986a385e16a99b0422d711cc1253cae66793f6238ad5387faa825223998",
       "title": "CointelegraphTerm Finance loses estimated $8.5M in vault governance exploit",
       "url": "https://www.tradingview.com/news/cointelegraph:525038852094b:0-term-finance-loses-estimated-8-5m-in-vault-governance-exploit/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.021Z"
+      "scraped_at": "2026-08-24T05:24:58.592Z"
+    },
+    {
+      "id": "230c7141ed3162ae6458d4d9e892765aeded87b9dcc2130fb3a591a2f3975a81",
+      "title": "BenzingaPeter Schiff Says Hitching Bitcoin to Artificial Intelligence Wagon is a Mistake: AI Isn't 'Bullish' for BTC, It's a 'Threat'",
+      "url": "https://www.tradingview.com/news/benzinga:7b73ddd71094b:0-peter-schiff-says-hitching-bitcoin-to-artificial-intelligence-wagon-is-a-mistake-ai-isn-t-bullish-for-btc-it-s-a-threat/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T05:24:58.592Z"
+    },
+    {
+      "id": "c97f9433d3d82ec333275f0c15ce84568cefb582cc8fc1ab85e5f5dac6ca75f4",
+      "title": "The BlockBitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
+      "url": "https://www.tradingview.com/news/the_block:086d1f829094b:0-bitcoin-records-largest-weekly-dollar-gain-in-history-strive-ceo-predicts-strongest-cycle-ever/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T05:24:58.592Z"
+    },
+    {
+      "id": "bca8be7709a83feb327197def604eda9b9323187b7f2b21cd26728207fea122d",
+      "title": "BenzingaTrump Memecoin Explodes 80% in a Week, Trades among Biggest Gainers After White House Crypto Summit",
+      "url": "https://www.tradingview.com/news/benzinga:debd568e1094b:0-trump-memecoin-explodes-80-in-a-week-trades-among-biggest-gainers-after-white-house-crypto-summit/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T05:24:58.592Z"
     },
     {
       "id": "60fd67d62d9f75dd662ca11672315dabb8c04f9b2eec0ba7da60a146ca5220b7",
       "title": "BeincryptoPeter Schiff Says “I Could Have Made a Lot of Money With Bitcoin”",
       "url": "https://www.tradingview.com/news/beincrypto:10025f102094b:0-peter-schiff-says-i-could-have-made-a-lot-of-money-with-bitcoin/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.021Z"
+      "scraped_at": "2026-08-24T05:24:58.592Z"
     },
     {
       "id": "26ab99d08ca8af369192d55759c91ae425e57d3794542528e19ad9609dd4d667",
       "title": "BenzingaBitcoin, Ethereum Gain, XRP, Dogecoin Slide as Crypto Market Takes a Breather: Analyst Predicts 'Little Dip' Before BTC Hits 'New Highs'",
       "url": "https://www.tradingview.com/news/benzinga:38ce8773d094b:0-bitcoin-ethereum-gain-xrp-dogecoin-slide-as-crypto-market-takes-a-breather-analyst-predicts-little-dip-before-btc-hits-new-highs/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.021Z"
+      "scraped_at": "2026-08-24T05:24:58.592Z"
     },
     {
       "id": "0e3c1f4486e7e56e7843c92579462517183c5bedf2c88422a4749bf24663bf72",
       "title": "Binance NewsCircle Stablecoin Supply Rises $1.7 Billion in 7 Days, Nearing Five Times Ripple's Increase",
       "url": "https://www.tradingview.com/news/binance_news:f906801f5094b:0-circle-stablecoin-supply-rises-1-7-billion-in-7-days-nearing-five-times-ripple-s-increase/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
+      "scraped_at": "2026-08-24T05:24:58.592Z"
     },
     {
       "id": "24ea1de9036202b7dadd900dfb44db58f377fc4e5165728436d5986492b421c7",
       "title": "Binance NewsGalaxy Research Head Says BIP-110 Nodes Peaked at About 20% of Network",
       "url": "https://www.tradingview.com/news/binance_news:66f34db45094b:0-galaxy-research-head-says-bip-110-nodes-peaked-at-about-20-of-network/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
+      "scraped_at": "2026-08-24T05:24:58.592Z"
     },
     {
       "id": "2d5805527fa0fa4fdcb28a07b63370d7d96a520ef228048c5e2e2490ed6d68a7",
       "title": "Binance NewsSolana Governance Proposals Enter On-Chain Vote, Deadline Set for August 26",
       "url": "https://www.tradingview.com/news/binance_news:e1d11d7bb094b:0-solana-governance-proposals-enter-on-chain-vote-deadline-set-for-august-26/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
+      "scraped_at": "2026-08-24T05:24:58.592Z"
     },
     {
       "id": "eb195469198e726f8b251b9526f306e8a34faa64a0fc14e18a30c42b832d4cdf",
       "title": "Binance NewsPhantom to End Sui Support on September 24",
       "url": "https://www.tradingview.com/news/binance_news:efd541bcf094b:0-phantom-to-end-sui-support-on-september-24/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
+      "scraped_at": "2026-08-24T05:24:58.592Z"
     },
     {
       "id": "aba89976bceeac11f015d9faa74250347b561c3a0d0a9bd0d660e8030d8a8b9f",
       "title": "Binance NewsTether Ends Uruguay Bitcoin Mining Operations After Power Dispute",
       "url": "https://www.tradingview.com/news/binance_news:4ef3113bf094b:0-tether-ends-uruguay-bitcoin-mining-operations-after-power-dispute/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
-    },
-    {
-      "id": "efaadcb831c629a30107a61d217fde94b5876c5f93ebb7e6dfd6f31a4376ef3b",
-      "title": "Binance NewsBitwise CEO Says Investors Poured Over $1.8 Billion Into Products in First Half",
-      "url": "https://www.tradingview.com/news/binance_news:d8a415451094b:0-bitwise-ceo-says-investors-poured-over-1-8-billion-into-products-in-first-half/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
-    },
-    {
-      "id": "234f8eca1279dd8668d53d594b7faaae96b790ab648a5d7795bf4549ae8b3466",
-      "title": "Binance NewsStrive CEO Matt Cole Says BTC-Gold Ratio Signals Bitcoin's Strongest Cycle Yet",
-      "url": "https://www.tradingview.com/news/binance_news:ec581634d094b:0-strive-ceo-matt-cole-says-btc-gold-ratio-signals-bitcoin-s-strongest-cycle-yet/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
-    },
-    {
-      "id": "cbfe2ce71f6049d9e221bf5371523b806704719a32b5cdba994ba1aa41c4039a",
-      "title": "Binance NewsSolana Co-Founder Anatoly Yakovenko Says PRAW Is Best Base Fee Proposal",
-      "url": "https://www.tradingview.com/news/binance_news:216aa6a43094b:0-solana-co-founder-anatoly-yakovenko-says-praw-is-best-base-fee-proposal/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
-    },
-    {
-      "id": "37c1e110e31c03595e31f151885352063e1cf643c0d60ee30051d7e84e67aab2",
-      "title": "Binance NewsBTC.TOP Founder Jiang Zhuoer Bets Ethereum Will Beat Bitcoin This Cycle",
-      "url": "https://www.tradingview.com/news/binance_news:f966e0858094b:0-btc-top-founder-jiang-zhuoer-bets-ethereum-will-beat-bitcoin-this-cycle/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
-    },
-    {
-      "id": "765dd928f3321c711e39e75f1f893130a08a0a5fd67ac46f7ffd9996f490db9d",
-      "title": "Binance NewsBTC.TOP Founder Jiang Zhuoer Bets Ethereum Will Outperform Bitcoin",
-      "url": "https://www.tradingview.com/news/binance_news:22d3bd3f4094b:0-btc-top-founder-jiang-zhuoer-bets-ethereum-will-outperform-bitcoin/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
-    },
-    {
-      "id": "fa6ce3797902d422b5a40cef62ff7258fdd3d6d9ad0ea8139381ed6a01eeb577",
-      "title": "Binance NewsWintermute Raises Hyperliquid Short Position to $190 Million",
-      "url": "https://www.tradingview.com/news/binance_news:44d79e75c094b:0-wintermute-raises-hyperliquid-short-position-to-190-million/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T04:30:06.022Z"
+      "scraped_at": "2026-08-24T05:24:58.592Z"
     }
   ]
 }
