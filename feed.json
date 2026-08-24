@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-24T07:44:46.221Z",
+  "generated_at": "2026-08-24T08:30:37.770Z",
   "total": 15,
   "items": [
+    {
+      "id": "a8cc25d1b9327fa7fa68e86bedcf0e66373faa760d7dc08910faec4f15fbf99a",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260824001142:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.765Z"
+    },
+    {
+      "id": "91bfab2c8b8f173e6cf24ab421d340275182c0bb13f4a63fd1e25c102647ba20",
+      "title": "Binance NewsUser Loses 550,000 USDC After Clicking Fake Hyperliquid Ad",
+      "url": "https://www.tradingview.com/news/binance_news:79684a239094b:0-user-loses-550-000-usdc-after-clicking-fake-hyperliquid-ad/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.765Z"
+    },
+    {
+      "id": "3754ef91747c466f6cb030f88c612699d0980c530a961f6d60b30915a7cb9c2d",
+      "title": "Binance NewsUser Loses 550,000 USDC After Clicking Google Ad for Fake Hyperliquid Site",
+      "url": "https://www.tradingview.com/news/binance_news:77596e2fb094b:0-user-loses-550-000-usdc-after-clicking-google-ad-for-fake-hyperliquid-site/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.765Z"
+    },
+    {
+      "id": "b13d477bd43a0af673acec48fd47d49ad84de0497b258cc434e69cac1e041101",
+      "title": "Binance NewsCryptoQuant Analyst Says Bitcoin Short-Term Holders Return to Profit as Exchange Inflows Turn Positive",
+      "url": "https://www.tradingview.com/news/binance_news:f2801c3e4094b:0-cryptoquant-analyst-says-bitcoin-short-term-holders-return-to-profit-as-exchange-inflows-turn-positive/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.765Z"
+    },
+    {
+      "id": "e4580206fc9bb6760130a47a54d090724608105e9bccd9488bc3b8a0588d8ec5",
+      "title": "Binance NewsU.S. Treasury Doubles Buyback Cap as Bitcoin Rallies on Liquidity Hopes",
+      "url": "https://www.tradingview.com/news/binance_news:4a4e724cd094b:0-u-s-treasury-doubles-buyback-cap-as-bitcoin-rallies-on-liquidity-hopes/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.765Z"
+    },
+    {
+      "id": "fe1e6a517f19ceb1e1cda54dca2acc28e1dd7af1efb708f6c521e52515f25293",
+      "title": "CoinMarketCalMidnight: NIGHT becomes available on S.BLOX in Japan - 24 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:bdb91a454094b:0-midnight-night-becomes-available-on-s-blox-in-japan-24-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.765Z"
+    },
+    {
+      "id": "1d1a6d0eea68ce407fca1f42d8c577c1306e568bbbfa081a405f6c0da0cffe69",
+      "title": "The BlockFasset reaches unicorn status after $68 million raise led by SBI Group",
+      "url": "https://www.tradingview.com/news/the_block:afc33c287094b:0-fasset-reaches-unicorn-status-after-68-million-raise-led-by-sbi-group/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.765Z"
+    },
+    {
+      "id": "0f3b55f6f089cf48953dbdb7eb8f58951d6035d4900c83889bc0920c7d93615e",
+      "title": "Binance NewsFour-Year Cycle Intact, AI Payments Inevitable, Indonesian Assets Missing — CZ's Bali AMA Recap",
+      "url": "https://www.tradingview.com/news/binance_news:039662ddc094b:0-four-year-cycle-intact-ai-payments-inevitable-indonesian-assets-missing-cz-s-bali-ama-recap/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.765Z"
+    },
+    {
+      "id": "4c203c877b6d7b0e1031edfb67999e8db26c913221ebe3c669dc53f69b30fc69",
+      "title": "Binance NewsCryptoQuant Analyst Darkfost Says Bull-Bear Market Indicator Has Entered Early Bull Phase",
+      "url": "https://www.tradingview.com/news/binance_news:0ebf73ddc094b:0-cryptoquant-analyst-darkfost-says-bull-bear-market-indicator-has-entered-early-bull-phase/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.766Z"
+    },
+    {
+      "id": "d36a9e82a3121dd5b111ee7e02ed8266136a8757a0c17cd59214e65f34fd6198",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260824001037:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.766Z"
+    },
+    {
+      "id": "370eb8640f2d364e8f83d4f42a475c80641e9c265bfe6d8960883e72559bdd39",
+      "title": "Binance NewsPolymarket Bitcoin August 24 Breakout Bet Jumps to 43.5%",
+      "url": "https://www.tradingview.com/news/binance_news:6aab4fea3094b:0-polymarket-bitcoin-august-24-breakout-bet-jumps-to-43-5/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.766Z"
+    },
+    {
+      "id": "1bc10fa3779260880541dadb353ba2f6963086f2c01ebdaf66c974755e5b5c92",
+      "title": "BenzingaJohn Cena Once Casually Shared a Bitcoin Stock Photo on Instagram Without Saying a Word — Here’s What $100 Invested into BTC Then Would Be Worth Now",
+      "url": "https://www.tradingview.com/news/benzinga:e7d7a1753094b:0-john-cena-once-casually-shared-a-bitcoin-stock-photo-on-instagram-without-saying-a-word-here-s-what-100-invested-into-btc-then-would-be-worth-now/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T08:30:37.766Z"
+    },
     {
       "id": "5cb69ec4a99358114625964962e9a93559b56539c622ad62bd66148c7d17cb99",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260824000887:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.217Z"
+      "scraped_at": "2026-08-24T08:30:37.766Z"
     },
     {
-      "id": "80d425dd9a7459a7b0f88739dc9ad80ac5a2270a3c5919aec214bbe0cacb39c1",
-      "title": "ReutersLondon BTC Company Plans To Expand US Gold, Silver, & Critical Minerals Projects In Nevada, Arizona, Texas",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC6VSJWL:0-london-btc-company-plans-to-expand-us-gold-silver-critical-minerals-projects-in-nevada-arizona-texas/",
+      "id": "c86f2c7785bfaeb82ad8cb841f9ee62b6319065586be5efc234cde3f837b48a6",
+      "title": "Binance NewsTron Inc. Treasury Tops 711.2 Million TRX As Stock Jumps 7.49%",
+      "url": "https://www.tradingview.com/news/binance_news:9300f1400094b:0-tron-inc-treasury-tops-711-2-million-trx-as-stock-jumps-7-49/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.217Z"
+      "scraped_at": "2026-08-24T08:30:37.766Z"
     },
     {
-      "id": "e3b79c9a8d096568b98b4fd40c15e903230b8e901b740088681c7b7774d62001",
-      "title": "London Stock ExchangeREG - Tap Global Group PLC - Adoption of Digital Asset Income Strategy",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-08-24:newsml_RSX7781Ra:0-reg-tap-global-group-plc-adoption-of-digital-asset-income-strategy/",
+      "id": "7e8e5072852ef471cbf10c97a4016081b1674a1d2ddd2076ce284c216a4f0192",
+      "title": "Binance NewsTRON Global Accounts Surpass 400 Million as On-Chain Activity Rises",
+      "url": "https://www.tradingview.com/news/binance_news:41ab2588e094b:0-tron-global-accounts-surpass-400-million-as-on-chain-activity-rises/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.217Z"
-    },
-    {
-      "id": "87f440cf15804825e372c56998b656672c6087124bda51df7db9081c3ed038a2",
-      "title": "EQSCoinsilium Group Limited: Predictive Labs Achieves Further Development Milestones; Coinsilium Increases Investment with Further Subscription",
-      "url": "https://www.tradingview.com/news/eqs:64d455572094b:0-coinsilium-group-limited-predictive-labs-achieves-further-development-milestones-coinsilium-increases-investment-with-further-subscription/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.217Z"
-    },
-    {
-      "id": "67874e8495e7da453c0b929ff90989a78a9684cedfae6df154ac865f901b7215",
-      "title": "MFN by Modular FinanceK33 Expands Effective Bitcoin Exposure Through Sixty Six Capital’s Option for up to 200 BTC",
-      "url": "https://www.tradingview.com/news/modular_finance:22a008f3ec99f:0-k33-expands-effective-bitcoin-exposure-through-sixty-six-capital-s-option-for-up-to-200-btc/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.217Z"
-    },
-    {
-      "id": "207119bfe20880ea37c52dc576216ee48c21fb8361ca39214edef69b97e3e373",
-      "title": "BeincryptoStrive CEO Says Bitcoin’s Bear Market Is Over After Double Breakout",
-      "url": "https://www.tradingview.com/news/beincrypto:03c5c026a094b:0-strive-ceo-says-bitcoin-s-bear-market-is-over-after-double-breakout/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.217Z"
-    },
-    {
-      "id": "d559123be123c91d1ae871ad88df069738dd3365b83ac06258624399cbe33ce3",
-      "title": "CointelegraphBanks, regulators join quantum-resistant crypto transfer pilot",
-      "url": "https://www.tradingview.com/news/cointelegraph:825e8078d094b:0-banks-regulators-join-quantum-resistant-crypto-transfer-pilot/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.217Z"
-    },
-    {
-      "id": "e078d207e901079cb8d5f985dd2170e084d372adf3ff757e280e1891c52aa086",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260824000374:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.217Z"
-    },
-    {
-      "id": "a4b886f7b95504f1ac147501e78c01579a0af7d5d57b66faaa82a7a4b0c9bb20",
-      "title": "BenzingaElon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus in the Market, Says This Analyst — Crypto Prediction Market Weighs 2026 Launch Odds",
-      "url": "https://www.tradingview.com/news/benzinga:91681f3e5094b:0-elon-musk-s-tesla-has-massive-advantage-before-selling-optimus-in-the-market-says-this-analyst-crypto-prediction-market-weighs-2026-launch-odds/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.218Z"
-    },
-    {
-      "id": "66a2eaebf6fc1bfa99711520b5f2ee4d20a1de634291729b5cc797813e8da2e7",
-      "title": "TradingViewBTC/USD: Bitcoin Rockets 23% in a Volatile Week. Is $80,000 the Next Big Swing?",
-      "url": "https://www.tradingview.com/news/tradingview:d6ca32922094b:0-btc-usd-bitcoin-rockets-23-in-a-volatile-week-is-80-000-the-next-big-swing/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.218Z"
-    },
-    {
-      "id": "8ab4fbcce6b1bc6a21346ac7845d56ae938e83be068d0a3df947291850049c50",
-      "title": "CointelegraphPakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
-      "url": "https://www.tradingview.com/news/cointelegraph:d8ba3e9a8094b:0-pakistan-opens-crypto-licensing-portal-sets-sept-5-deadline-for-existing-firms/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.218Z"
-    },
-    {
-      "id": "b1338bb687d7f57d877c1d6339d786691b9522953f2f644ea59a9b7d29ad89c9",
-      "title": "BeincryptoThis Week’s Big Events Are Priced In for Stocks: Will Bitcoin Agree?",
-      "url": "https://www.tradingview.com/news/beincrypto:cc6313860094b:0-this-week-s-big-events-are-priced-in-for-stocks-will-bitcoin-agree/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.218Z"
-    },
-    {
-      "id": "001a60ecd532a8bb48f1623df89c5030bea664cc8f592ca0b6af40dda679df2a",
-      "title": "CoinMarketCalLighter: Upbit opens LIT trading in the KRW market - 24 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:b67f822ed094b:0-lighter-upbit-opens-lit-trading-in-the-krw-market-24-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.218Z"
-    },
-    {
-      "id": "86b4b59f4ac8a65efac728994b2639dc3cac52e053b3be2f3022f3dc267745f4",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260824000129:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.218Z"
-    },
-    {
-      "id": "75dccdb0ea1d07d563b3e8372c2fc4f27df54834b8adb14d777b4eb0fe5b3a22",
-      "title": "Crypto BriefingOman’s foreign minister to visit Tehran for Strait of Hormuz talks",
-      "url": "https://www.tradingview.com/news/cryptobriefing:8fa478055094b:0-oman-s-foreign-minister-to-visit-tehran-for-strait-of-hormuz-talks/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T07:44:46.218Z"
+      "scraped_at": "2026-08-24T08:30:37.766Z"
     }
   ]
 }
