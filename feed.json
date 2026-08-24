@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-24T09:30:15.510Z",
+  "generated_at": "2026-08-24T10:22:32.684Z",
   "total": 15,
   "items": [
+    {
+      "id": "4815b0ca04123d6c60f2e3bf9e44b40ee7e3866d2473b89ebf6b30f1004b6e24",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260824001829:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T10:22:32.680Z"
+    },
+    {
+      "id": "5641efe48f692c25175f082c82241189c291bbd2fba49e2bf3126f726c51a33c",
+      "title": "ReutersMapping the Market: Cryptocurrency ether's technical picture brightens after sharp rebound",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44I0S3:0-mapping-the-market-cryptocurrency-ether-s-technical-picture-brightens-after-sharp-rebound/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T10:22:32.680Z"
+    },
+    {
+      "id": "923e210b45bdbe0860a4ddddabaa5b507d5601d85c2bcd4082a35ebf05652ef3",
+      "title": "StocktwitsHYPE Is Surging – And These Three Trading Firms Are Sitting On $600M In BTC, ETH Shorts",
+      "url": "https://www.tradingview.com/news/stocktwits:5e05713ae094b:0-hype-is-surging-and-these-three-trading-firms-are-sitting-on-600m-in-btc-eth-shorts/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T10:22:32.680Z"
+    },
+    {
+      "id": "a094f4d44d965c25c067df2f90edae2e27be07cc1f50a6a338350c259d8b1d26",
+      "title": "ChainwireFlyEdge Opens Public Preview of Aviation-Focused Blockchain for Tokenized Airline Loyalty",
+      "url": "https://www.tradingview.com/news/chainwire:cff7159af094b:0-flyedge-opens-public-preview-of-aviation-focused-blockchain-for-tokenized-airline-loyalty/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T10:22:32.680Z"
+    },
+    {
+      "id": "e1bcef56c026136b1557848da49253cee0e162e08dbd7604e0d685e281ce215a",
+      "title": "99BitcoinsCrypto Card Purchases Set New $1 Billion Monthly Record",
+      "url": "https://www.tradingview.com/news/99Bitcoins:65ece4c95094b:0-crypto-card-purchases-set-new-1-billion-monthly-record/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T10:22:32.680Z"
+    },
     {
       "id": "c67df57c4480f4b02bd352d93aa67d7403839d9cb549a4487b85577b5b62e2ea",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260824001536:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
+      "scraped_at": "2026-08-24T10:22:32.680Z"
+    },
+    {
+      "id": "76591c8f8086cec7dd0a13ab999460526db1a3aee6dbf4eb3fbbbd8320baa775",
+      "title": "BeincryptoXRP ETF Inflows Hit $1.55 Billion Record Amid 70% Price Surge",
+      "url": "https://www.tradingview.com/news/beincrypto:d7fa3bbb4094b:0-xrp-etf-inflows-hit-1-55-billion-record-amid-70-price-surge/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T10:22:32.681Z"
     },
     {
       "id": "f110645dcad0ed61427214a22879c70f05930434f22a389427ae4193397115ca",
       "title": "CointelegraphBitcoin ETF inflows hit $1.9B in strongest week since October 2025",
       "url": "https://www.tradingview.com/news/cointelegraph:38d99de8a094b:0-bitcoin-etf-inflows-hit-1-9b-in-strongest-week-since-october-2025/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
+      "scraped_at": "2026-08-24T10:22:32.681Z"
     },
     {
       "id": "3307434baf303466c7eb2e6dce4f5f73a819c6de72ad189c28ad689266ecf3c3",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260824001280:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
+      "scraped_at": "2026-08-24T10:22:32.681Z"
     },
     {
       "id": "a8cc25d1b9327fa7fa68e86bedcf0e66373faa760d7dc08910faec4f15fbf99a",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260824001142:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
+      "scraped_at": "2026-08-24T10:22:32.681Z"
     },
     {
       "id": "91bfab2c8b8f173e6cf24ab421d340275182c0bb13f4a63fd1e25c102647ba20",
       "title": "Binance NewsUser Loses 550,000 USDC After Clicking Fake Hyperliquid Ad",
       "url": "https://www.tradingview.com/news/binance_news:79684a239094b:0-user-loses-550-000-usdc-after-clicking-fake-hyperliquid-ad/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
+      "scraped_at": "2026-08-24T10:22:32.681Z"
     },
     {
       "id": "3754ef91747c466f6cb030f88c612699d0980c530a961f6d60b30915a7cb9c2d",
       "title": "Binance NewsUser Loses 550,000 USDC After Clicking Google Ad for Fake Hyperliquid Site",
       "url": "https://www.tradingview.com/news/binance_news:77596e2fb094b:0-user-loses-550-000-usdc-after-clicking-google-ad-for-fake-hyperliquid-site/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
+      "scraped_at": "2026-08-24T10:22:32.681Z"
     },
     {
       "id": "b13d477bd43a0af673acec48fd47d49ad84de0497b258cc434e69cac1e041101",
       "title": "Binance NewsCryptoQuant Analyst Says Bitcoin Short-Term Holders Return to Profit as Exchange Inflows Turn Positive",
       "url": "https://www.tradingview.com/news/binance_news:f2801c3e4094b:0-cryptoquant-analyst-says-bitcoin-short-term-holders-return-to-profit-as-exchange-inflows-turn-positive/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
+      "scraped_at": "2026-08-24T10:22:32.681Z"
     },
     {
       "id": "e4580206fc9bb6760130a47a54d090724608105e9bccd9488bc3b8a0588d8ec5",
       "title": "Binance NewsU.S. Treasury Doubles Buyback Cap as Bitcoin Rallies on Liquidity Hopes",
       "url": "https://www.tradingview.com/news/binance_news:4a4e724cd094b:0-u-s-treasury-doubles-buyback-cap-as-bitcoin-rallies-on-liquidity-hopes/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
+      "scraped_at": "2026-08-24T10:22:32.681Z"
     },
     {
       "id": "fe1e6a517f19ceb1e1cda54dca2acc28e1dd7af1efb708f6c521e52515f25293",
       "title": "CoinMarketCalMidnight: NIGHT becomes available on S.BLOX in Japan - 24 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:bdb91a454094b:0-midnight-night-becomes-available-on-s-blox-in-japan-24-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
-    },
-    {
-      "id": "1d1a6d0eea68ce407fca1f42d8c577c1306e568bbbfa081a405f6c0da0cffe69",
-      "title": "The BlockFasset reaches unicorn status after $68 million raise led by SBI Group",
-      "url": "https://www.tradingview.com/news/the_block:afc33c287094b:0-fasset-reaches-unicorn-status-after-68-million-raise-led-by-sbi-group/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
-    },
-    {
-      "id": "0f3b55f6f089cf48953dbdb7eb8f58951d6035d4900c83889bc0920c7d93615e",
-      "title": "Binance NewsFour-Year Cycle Intact, AI Payments Inevitable, Indonesian Assets Missing — CZ's Bali AMA Recap",
-      "url": "https://www.tradingview.com/news/binance_news:039662ddc094b:0-four-year-cycle-intact-ai-payments-inevitable-indonesian-assets-missing-cz-s-bali-ama-recap/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
-    },
-    {
-      "id": "4c203c877b6d7b0e1031edfb67999e8db26c913221ebe3c669dc53f69b30fc69",
-      "title": "Binance NewsCryptoQuant Analyst Darkfost Says Bull-Bear Market Indicator Has Entered Early Bull Phase",
-      "url": "https://www.tradingview.com/news/binance_news:0ebf73ddc094b:0-cryptoquant-analyst-darkfost-says-bull-bear-market-indicator-has-entered-early-bull-phase/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
-    },
-    {
-      "id": "d36a9e82a3121dd5b111ee7e02ed8266136a8757a0c17cd59214e65f34fd6198",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260824001037:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
-    },
-    {
-      "id": "370eb8640f2d364e8f83d4f42a475c80641e9c265bfe6d8960883e72559bdd39",
-      "title": "Binance NewsPolymarket Bitcoin August 24 Breakout Bet Jumps to 43.5%",
-      "url": "https://www.tradingview.com/news/binance_news:6aab4fea3094b:0-polymarket-bitcoin-august-24-breakout-bet-jumps-to-43-5/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
-    },
-    {
-      "id": "1bc10fa3779260880541dadb353ba2f6963086f2c01ebdaf66c974755e5b5c92",
-      "title": "BenzingaJohn Cena Once Casually Shared a Bitcoin Stock Photo on Instagram Without Saying a Word — Here’s What $100 Invested into BTC Then Would Be Worth Now",
-      "url": "https://www.tradingview.com/news/benzinga:e7d7a1753094b:0-john-cena-once-casually-shared-a-bitcoin-stock-photo-on-instagram-without-saying-a-word-here-s-what-100-invested-into-btc-then-would-be-worth-now/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T09:30:15.508Z"
+      "scraped_at": "2026-08-24T10:22:32.681Z"
     }
   ]
 }
