@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-24T13:38:18.854Z",
-  "total": 14,
+  "generated_at": "2026-08-24T14:26:36.635Z",
+  "total": 15,
   "items": [
+    {
+      "id": "1393bb5d91bf7cb7897721def33c22a7d32810c133598cc9f58cbb409007eb34",
+      "title": "StocktwitsTeraWulf Wins Approval For 482 MW Kentucky Data Center Power Deal, Estimates $4.5B Investment",
+      "url": "https://www.tradingview.com/news/stocktwits:4182952f2094b:0-terawulf-wins-approval-for-482-mw-kentucky-data-center-power-deal-estimates-4-5b-investment/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T14:26:36.631Z"
+    },
+    {
+      "id": "24d92c56dd93060a2aa6d3634fa760f9269ace8c6003d0ef7eb878359933eac3",
+      "title": "CointelegraphZondacrypto boss seeks leniency for testimony on political ties: Report",
+      "url": "https://www.tradingview.com/news/cointelegraph:2c1717803094b:0-zondacrypto-boss-seeks-leniency-for-testimony-on-political-ties-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T14:26:36.631Z"
+    },
+    {
+      "id": "262a911e79652e0908d2a0a8fad2c7cdf957c37cac8e6afeade64902d2d76fab",
+      "title": "CoinMarketCalProm: Bithumb opens PROM trading in KRW market - 24 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:00b325bd7094b:0-prom-bithumb-opens-prom-trading-in-krw-market-24-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T14:26:36.631Z"
+    },
+    {
+      "id": "d5b2d7a55ec29de44f327459243a0f34442a31613a1c534213fc31203ee7ca98",
+      "title": "CoinMarketCalVenus: Ceffu integration enables institutional lending - 24 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:bf2e16cfa094b:0-venus-ceffu-integration-enables-institutional-lending-24-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T14:26:36.631Z"
+    },
+    {
+      "id": "ab88d334cd8aae5726590c763b914828b9df9ce1a8aa2d0ece74465def20822c",
+      "title": "The BlockX post test",
+      "url": "https://www.tradingview.com/news/the_block:23bcff4b1094b:0-x-post-test/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T14:26:36.631Z"
+    },
+    {
+      "id": "e922b3a53cc07206da56d4474e5020794a0fcb82f769825f700c7a8b7da2b766",
+      "title": "The Block‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether",
+      "url": "https://www.tradingview.com/news/the_block:5910ee42e094b:0-upside-move-in-eth-was-overdue-tom-lee-says-as-bitmine-buys-another-32-447-ether/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T14:26:36.631Z"
+    },
     {
       "id": "21816c3520e42b295cf4a9621205a34013179517bfc834f571ee0718de99af7a",
       "title": "ReutersStrategy earmarks $1.6 billion cash pool for treasury operations, buybacks",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N44L0XO:0-strategy-earmarks-1-6-billion-cash-pool-for-treasury-operations-buybacks/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
+      "scraped_at": "2026-08-24T14:26:36.631Z"
+    },
+    {
+      "id": "e03b4a1b75b2b19d77ecb1993dfee07931f1d32c82143a09da7ee61236a8f2ae",
+      "title": "BenzingaBitmine Immersion Technologies Stock Climbs Monday: What's Driving the Action?",
+      "url": "https://www.tradingview.com/news/benzinga:2c73679f6094b:0-bitmine-immersion-technologies-stock-climbs-monday-what-s-driving-the-action/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T14:26:36.631Z"
+    },
+    {
+      "id": "86984aec470c248b673668c104e196d01a174ebc06c066a2ba4eb3b696e731bf",
+      "title": "BeincryptoBitcoin Braces for Warsh's Jackson Hole Debut: Will 2022 Repeat?",
+      "url": "https://www.tradingview.com/news/beincrypto:765f26051094b:0-bitcoin-braces-for-warsh-s-jackson-hole-debut-will-2022-repeat/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-24T14:26:36.631Z"
     },
     {
       "id": "54eb7e9f5b561be2f157cbdd8584bfffb9868467ca16ddcf4d05bc169a521a84",
       "title": "Chainwirehuman.tech Launches Wallet Protocol on Ika Network for Decentralized Apps and AI agents",
       "url": "https://www.tradingview.com/news/chainwire:3c2474592094b:0-human-tech-launches-wallet-protocol-on-ika-network-for-decentralized-apps-and-ai-agents/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
+      "scraped_at": "2026-08-24T14:26:36.631Z"
     },
     {
       "id": "b8f25a03c84f3774befecf2f13c1b849ec26adddb84c6ca24089da95c36b76ec",
       "title": "ChainwireBitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion",
       "url": "https://www.tradingview.com/news/chainwire:2d5698b80094b:0-bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
+      "scraped_at": "2026-08-24T14:26:36.631Z"
     },
     {
       "id": "b5947c4d9782308407ed222edb0ebd9174229daa956e7049612504f24f04f6ff",
       "title": "BeincryptoCrypto ETFs Lose Their Bull-Market Halo as Outflows Test Demand",
       "url": "https://www.tradingview.com/news/beincrypto:3262a1112094b:0-crypto-etfs-lose-their-bull-market-halo-as-outflows-test-demand/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
+      "scraped_at": "2026-08-24T14:26:36.631Z"
     },
     {
       "id": "cf7f2c2b7c93c789eaec0239d38f541612ac3ecba08b913cd65d9fd56df92dcc",
       "title": "BenzingaEthereum Surged 30%, Watch Stocks to See What Happens Next, Top Analyst Says",
       "url": "https://www.tradingview.com/news/benzinga:fe5dfe87c094b:0-ethereum-surged-30-watch-stocks-to-see-what-happens-next-top-analyst-says/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
+      "scraped_at": "2026-08-24T14:26:36.631Z"
     },
     {
       "id": "137b46883b47bb5bbf4a89ac93e6dbb72a0643914fdabb394c27f4ecd50a2447",
       "title": "PR NewswireBitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.85 Million Tokens, and Total Crypto and Total Cash Holdings of $14.9 Billion",
       "url": "https://www.tradingview.com/news/prnewswire:420070c3ed8ce:0-bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
+      "scraped_at": "2026-08-24T14:26:36.631Z"
     },
     {
       "id": "3187ae2d1766a3f4eae4db2ad5922bc303b30794a3b269871c75c49cfa08bcaf",
       "title": "ReutersCoinbase-backed crypto advocacy group endorses 32 US midterm candidates",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44H0YA:0-coinbase-backed-crypto-advocacy-group-endorses-32-us-midterm-candidates/",
       "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
-    },
-    {
-      "id": "fbf9f40586dffbc045c311dd692194a093de562b657de814a63f074b207933a3",
-      "title": "TradingViewKey facts: BTCUSD $81k/$74k outlook; 15 shorts cost $4.56M; 20% odds",
-      "url": "https://www.tradingview.com/news/tradingview:3a2a87db04c6c:0-key-facts-btcusd-81k-74k-outlook-15-shorts-cost-4-56m-20-odds/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
-    },
-    {
-      "id": "8a0341adc190abe98085e8b8dc42629ea63e0b23d48f90d8fb69b2aadc633c2d",
-      "title": "TradingViewKey facts: ETHUSD liquidation $871M longs, $294M shorts; $2,200 retest",
-      "url": "https://www.tradingview.com/news/tradingview:642c8719ebf69:0-key-facts-ethusd-liquidation-871m-longs-294m-shorts-2-200-retest/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
-    },
-    {
-      "id": "345cf1d8793079e9dcc90d3430b58702f374f628860af1ac56ed40e54d65bccc",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260824003249:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
-    },
-    {
-      "id": "b8fc532f1a8a02e8fa332f5434e06d4a298c965299fe18fcef332c44b7bd6c1a",
-      "title": "99BitcoinsXRP Ripple Faces $386M Liquidation Shock",
-      "url": "https://www.tradingview.com/news/99Bitcoins:5b32318f3094b:0-xrp-ripple-faces-386m-liquidation-shock/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
-    },
-    {
-      "id": "da3f3c02184d7a9103489b80574f79f3cc73d7c546df9ce84f25a1f5c3e6ae4d",
-      "title": "BenzingaThe Bitcoin, Ethereum, XRP Record Week Was Just 'The Beginning,' Prominent Analyst Says",
-      "url": "https://www.tradingview.com/news/benzinga:691740e91094b:0-the-bitcoin-ethereum-xrp-record-week-was-just-the-beginning-prominent-analyst-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
-    },
-    {
-      "id": "f57b7386b24824caaf412bc76986a362228484d688752996eaf3a26ca9fb23cf",
-      "title": "ZacksBest-Performing Leveraged ETF Areas of Last Week",
-      "url": "https://www.tradingview.com/news/zacks:7d065455f094b:0-best-performing-leveraged-etf-areas-of-last-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
-    },
-    {
-      "id": "666a06647271ac79677f0ed793ba78182adfb3650e61e1839110ede0a7dc2b27",
-      "title": "BenzingaWhat's Going On With Olenox Industries Stock Monday?",
-      "url": "https://www.tradingview.com/news/benzinga:11e655bff094b:0-what-s-going-on-with-olenox-industries-stock-monday/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-24T13:38:18.851Z"
+      "scraped_at": "2026-08-24T14:26:36.631Z"
     }
   ]
 }
