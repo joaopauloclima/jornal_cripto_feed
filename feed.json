@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-25T13:36:14.320Z",
+  "generated_at": "2026-08-25T14:28:22.145Z",
   "total": 15,
   "items": [
+    {
+      "id": "e7460f9358bf94f3647fe973d8e1738811464f6f6e15239478e8117e23c4bafd",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260825004748:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
+    {
+      "id": "80d4fabc312db105ad570baaef0cf32a08cb6feeed3a3818f74a5f3c289feccc",
+      "title": "StocktwitsGENIUS Act Could Create $2.3T Treasury Bill Demand As Stablecoins Grow, Says Senator Bill Hagerty",
+      "url": "https://www.tradingview.com/news/stocktwits:f52af2272094b:0-genius-act-could-create-2-3t-treasury-bill-demand-as-stablecoins-grow-says-senator-bill-hagerty/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
+    {
+      "id": "0e6a2f2388ff34d0d3047fb7203acd4eb66b4b14336a4329971d5ace22dc61c1",
+      "title": "CoinMarketCalSQD: Partners with Google Cloud Web3 on blockchain analytics through SQD 360 - 25 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:255b17ce8094b:0-sqd-partners-with-google-cloud-web3-on-blockchain-analytics-through-sqd-360-25-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
+    {
+      "id": "2ccf52d1965c261236592b115016aa4867b864429a77855af0a5111d6d1be7da",
+      "title": "ChainwireTHORChain 3.20 Unlocks Native Monero and Zcash Swaps With Bitcoin, Ethereum and Stablecoins",
+      "url": "https://www.tradingview.com/news/chainwire:c7d0d20bc094b:0-thorchain-3-20-unlocks-native-monero-and-zcash-swaps-with-bitcoin-ethereum-and-stablecoins/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
+    {
+      "id": "ad32b57e1c94d6056d7ffef6ab00bf000ef3d3ec1681eb548507407d4ad12990",
+      "title": "CoinMarketCalEnjin Coin: Platform 3 goes live - 25 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:7621c150c094b:0-enjin-coin-platform-3-goes-live-25-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
+    {
+      "id": "1b54df9038444b24335f6881d05568fd6deb8ae3b54b04bfa376eb33e30b436e",
+      "title": "CointelegraphArcus launches tokenized perp positions on Robinhood Chain",
+      "url": "https://www.tradingview.com/news/cointelegraph:b9ca5bf79094b:0-arcus-launches-tokenized-perp-positions-on-robinhood-chain/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
+    {
+      "id": "dee977bc77ce37f76a573386f15823e2613adfe0cb5bab8129a1ef90a69f3e82",
+      "title": "FinanceWireBlockchain Infrastructure Firm tZERO Integrates with Sui for Institutional-Grade Digital Asset Securities",
+      "url": "https://www.tradingview.com/news/financewire:853646bbd094b:0-blockchain-infrastructure-firm-tzero-integrates-with-sui-for-institutional-grade-digital-asset-securities/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
+    {
+      "id": "51b6f895bea2868040b14ad8656aef9b0a9f04d8e6e403bd38c67cbda2971218",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260825004381:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
+    {
+      "id": "7ffc771b0e90bd3e7ea1ee142a08c3a6f6f7b54d34571cf64d89642ac37857c1",
+      "title": "ChainwireEDGE Markets Partners with ProphetX to Bring 24/7 Banking Rails to the Exchange",
+      "url": "https://www.tradingview.com/news/chainwire:50dfe7cb2094b:0-edge-markets-partners-with-prophetx-to-bring-24-7-banking-rails-to-the-exchange/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
+    {
+      "id": "4a4779d334c58683797c99b0fd887b3102c19f20ce6cf6c8902c999d5f9bb39d",
+      "title": "CointelegraphHugging Face hack exposes the open-weight AI cybersecurity paradox",
+      "url": "https://www.tradingview.com/news/cointelegraph:084b18ed2094b:0-hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T14:28:22.140Z"
+    },
     {
       "id": "5a0790ac7453ff204338c8874fb21fab06e09f31cbd4c72322e488363779512c",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260825004105:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.317Z"
+      "scraped_at": "2026-08-25T14:28:22.141Z"
     },
     {
       "id": "4117afad5c100bcc64b3f2f6fd8b9711720c7617145f6f3f199f01b77b95d646",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260825004067:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.317Z"
-    },
-    {
-      "id": "09416e9684ff378dfc3d28ad13c8de2ee0de3fb1e864e941fc91b015fb7c0a19",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260825004010:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.317Z"
+      "scraped_at": "2026-08-25T14:28:22.141Z"
     },
     {
       "id": "5f44cfe9f52a883fbb56bb8bae0c5ed4a461dd13cdc58c05d1058e715dae454c",
       "title": "ChainwirePayouts.com and Casper Association Partner on AI Agent Payments",
       "url": "https://www.tradingview.com/news/chainwire:b044cdbbf094b:0-payouts-com-and-casper-association-partner-on-ai-agent-payments/",
       "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.317Z"
+      "scraped_at": "2026-08-25T14:28:22.141Z"
     },
     {
       "id": "28a6a93b943634fc2acbc4af29d853921b101cd19f1cee2376ae8b717a03d76a",
       "title": "CointelegraphChainalysis-led operation flags 7,700 accounts in child abuse probe",
       "url": "https://www.tradingview.com/news/cointelegraph:7fcb126b5094b:0-chainalysis-led-operation-flags-7-700-accounts-in-child-abuse-probe/",
       "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.317Z"
+      "scraped_at": "2026-08-25T14:28:22.141Z"
     },
     {
-      "id": "f9396fa7e60fb4727d78f9f90043add0101e9b1af3afeac49b1d448973d0bbeb",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260825003724:0/",
+      "id": "550e97301da9aa732ff0e179f4ca8f9546a6f9b7fa6b370521fbb3e5d0cecd38",
+      "title": "Finance MagnatesWall Street Trading Booms on Crypto Exchanges as MEXC Volume Jumps 3,000%",
+      "url": "https://www.tradingview.com/news/financemagnates:1dd3ecefc094b:0-wall-street-trading-booms-on-crypto-exchanges-as-mexc-volume-jumps-3-000/",
       "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.317Z"
-    },
-    {
-      "id": "afb661ceda43265d91408e00538fd24ceb66bbbd7fa386bc005dcd44ff1c021a",
-      "title": "PR NewswireEDX Markets Integrates Figure's YLDS as Collateral and Treasury Asset",
-      "url": "https://www.tradingview.com/news/prnewswire:33dc5bf34a258:0-edx-markets-integrates-figure-s-ylds-as-collateral-and-treasury-asset/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.317Z"
-    },
-    {
-      "id": "f2d8d2c38a089431cee6ce17472878a10b6239979456533ef17a4aa3faa8871c",
-      "title": "ACCESS NewswireSign up to read this news",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-08-25:newsml_ACSGhLCBa:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.317Z"
-    },
-    {
-      "id": "bfd032ad86f62f7ba5217c556bd632069766baade292381f5fe86af981d00694",
-      "title": "StocktwitsArthur Hayes Says ‘Back Up The Truck And Buy Crypto’ As Bessent's Treasury Buybacks Could Boost Dollar Liquidity",
-      "url": "https://www.tradingview.com/news/stocktwits:3964c06be094b:0-arthur-hayes-says-back-up-the-truck-and-buy-crypto-as-bessent-s-treasury-buybacks-could-boost-dollar-liquidity/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.317Z"
-    },
-    {
-      "id": "c066df435a5de4920c7f6a8145402abe1b5f3ac4e49215cacca615335f68aa64",
-      "title": "TradingViewKey facts: CRYPTO:BTCUSD 5d +22%; 20x short ~$82.9k; $1.38B shorts",
-      "url": "https://www.tradingview.com/news/tradingview:e440cf7acc656:0-key-facts-crypto-btcusd-5d-22-20x-short-82-9k-1-38b-shorts/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.318Z"
-    },
-    {
-      "id": "e18caa14fa166bb0cfbc051eff9958ea95425c4686c55b08002cc60234ab5adc",
-      "title": "TradingViewKey facts: CRYPTO:ETHUSD; BitMine 5.85M ETH; Staked >42M; Retail +300%",
-      "url": "https://www.tradingview.com/news/tradingview:f5da8f0ed4b35:0-key-facts-crypto-ethusd-bitmine-5-85m-eth-staked-42m-retail-300/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.318Z"
-    },
-    {
-      "id": "a7d3cfc0cddca186949c54e1a735e28692cd7df94a5fbdf308cfc44c66ee97a1",
-      "title": "TradingViewKey facts: CRYPTO:SOLUSD $101.7; SGP-0002 Proposes Cut, Low Support",
-      "url": "https://www.tradingview.com/news/tradingview:ab88a7addc4e1:0-key-facts-crypto-solusd-101-7-sgp-0002-proposes-cut-low-support/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.318Z"
-    },
-    {
-      "id": "7930b84c2e4353cb50661432a40556b7ee04ffb8ad18f7518c3416fdaba63d06",
-      "title": "TradingViewKey facts: XRPUSD jumps to $1.69; market-makers hold $1.3B+ shorts",
-      "url": "https://www.tradingview.com/news/tradingview:1bed1835c65f9:0-key-facts-xrpusd-jumps-to-1-69-market-makers-hold-1-3b-shorts/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.318Z"
-    },
-    {
-      "id": "626afa130819e77d300129c8958ef36869ce3fbdd2d86ba8d1a512edfccb2582",
-      "title": "BenzingaDoes Bitcoin at $79,000 Mean a Bull Run Has Started? Experts Say 'It's Complicated'",
-      "url": "https://www.tradingview.com/news/benzinga:b345a1ef9094b:0-does-bitcoin-at-79-000-mean-a-bull-run-has-started-experts-say-it-s-complicated/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.318Z"
-    },
-    {
-      "id": "dce04a6309676cb9b904b577bd58e882286e817289fdd663e564ea69d0ae3ecd",
-      "title": "The BlockGrayscale debuts first Zcash ETF of its kind as privacy coin surges",
-      "url": "https://www.tradingview.com/news/the_block:2e8f52705094b:0-grayscale-debuts-first-zcash-etf-of-its-kind-as-privacy-coin-surges/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T13:36:14.318Z"
+      "scraped_at": "2026-08-25T14:28:22.141Z"
     }
   ]
 }
