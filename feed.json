@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-25T16:19:01.894Z",
+  "generated_at": "2026-08-25T17:16:42.294Z",
   "total": 15,
   "items": [
+    {
+      "id": "bb9508253336744d10e036469c4ed746d025e8feab7bb02cdabcb4e6117a10d7",
+      "title": "CoinMarketCalCysic: Reward multipliers begin for Cysic Cubes and CYS reserves - 27 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:74bc85783094b:0-cysic-reward-multipliers-begin-for-cysic-cubes-and-cys-reserves-27-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "f6fa821d5dfe602804dc9d6666045839ef7a7aa67275d95ec59a071794c1346e",
+      "title": "CoinMarketCalZcash: ZCSH begins trading as an exchange-traded product - 25 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:9461b0e35094b:0-zcash-zcsh-begins-trading-as-an-exchange-traded-product-25-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "bf0b3b1bd35f786d8c7faf75ede967d989d67433362d9a3f0bc72eabf5e7aa93",
+      "title": "CoinMarketCalCelo: Supports Lisk ecosystem transition - 25 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:1818206c5094b:0-celo-supports-lisk-ecosystem-transition-25-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "522857be1d6745e16102f99dd6cf9c31ec06692b22c7b576991efb60d0bd720f",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260825006041:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "eff1a9f86a0b4ec67ecd9873170dc4b821f71aaf569c83172f4174d05dd8de63",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260825006006:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "1e4e55d6dfc2033aa664bda56f880fbfbe1013f06955cc9e7f5b320562e1f8a8",
+      "title": "CointelegraphStrategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
+      "url": "https://www.tradingview.com/news/cointelegraph:bbf39b628094b:0-strategy-s-66b-bitcoin-machine-hinges-on-capital-markets-not-btc-price-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "19c9691d0f887ec6941653553c0486af9c985ee7e66b6dc97a67c7413b20983c",
+      "title": "StocktwitsBitcoin Rally Faces $80K Test As Jackson Hole Summit Looms: Analysts Warn Short Squeeze Is Not Enough",
+      "url": "https://www.tradingview.com/news/stocktwits:669d046ed094b:0-bitcoin-rally-faces-80k-test-as-jackson-hole-summit-looms-analysts-warn-short-squeeze-is-not-enough/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "60cc585680af067ecdabaf9f43ca6781884be6fa4e12c70605e04622d53deeda",
+      "title": "CointelegraphBitwise launches self-custodied tokenized stock portfolios with Coinbase",
+      "url": "https://www.tradingview.com/news/cointelegraph:59f8a8c32094b:0-bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "212ee128641841d6762fac75cbd1bdddeeac8d2dd2ed00be01c92cfc67d035ab",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260825005914:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "ae9f5b2c6fc951834990b89c2c9d1e45f0082f4bb0a4ef8bee5eb2bb424720cf",
+      "title": "London Stock ExchangeREG - B HODL PLC - TR-1: Notification of major holdings",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-08-25:newsml_RSY1318Sa:0-reg-b-hodl-plc-tr-1-notification-of-major-holdings/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
+    {
+      "id": "929723d77399dfcf3075d06f1208d3db91096a7181ae3af7698b22ceac81a04e",
+      "title": "ChainwireMantle Vault Expands to DeFi, Bringing Institutional-Grade RWA Yield On-chain with Grove, CIAN, and Fluxion",
+      "url": "https://www.tradingview.com/news/chainwire:44f6ca8b6094b:0-mantle-vault-expands-to-defi-bringing-institutional-grade-rwa-yield-on-chain-with-grove-cian-and-fluxion/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-25T17:16:42.289Z"
+    },
     {
       "id": "06b9c1cd17a8462f6af75307399ca29aa6ec82293a391723a9b8961c4fa1bd38",
       "title": "The BlockGalaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
       "url": "https://www.tradingview.com/news/the_block:215fbd4d0094b:0-galaxy-expands-retail-crypto-lending-with-new-btc-eth-and-sol-backed-credit-line/",
       "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.890Z"
+      "scraped_at": "2026-08-25T17:16:42.289Z"
     },
     {
       "id": "bcd53be40ee006c4109fa6bc416686e0551206119f3f7009c671d8eecc2f5b34",
       "title": "StocktwitsPURR Stock Hits Record High Ahead Of Earnings After HYPE Token Outperforms Bitcoin, Reclaims $80",
       "url": "https://www.tradingview.com/news/stocktwits:06d57a9c1094b:0-purr-stock-hits-record-high-ahead-of-earnings-after-hype-token-outperforms-bitcoin-reclaims-80/",
       "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
+      "scraped_at": "2026-08-25T17:16:42.289Z"
     },
     {
       "id": "df6d1b0cc9a0729195f3127454faa6e3afa12470069ba1b70d4920df886a7593",
       "title": "CointelegraphDGrid AI token jumps 93% after launch as decentralized AI network goes live",
       "url": "https://www.tradingview.com/news/cointelegraph:ef93982b8094b:0-dgrid-ai-token-jumps-93-after-launch-as-decentralized-ai-network-goes-live/",
       "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
+      "scraped_at": "2026-08-25T17:16:42.289Z"
     },
     {
       "id": "5b35b3939706d52160e00d8d710fb89d95a24936636a522425e1630cad1439dc",
       "title": "StocktwitsBill Miller’s Son Says AI Trade Is Losing Its ‘Luster’ With Bitcoin Staging A Comeback After ‘Summer Break’",
       "url": "https://www.tradingview.com/news/stocktwits:cb27ce455094b:0-bill-miller-s-son-says-ai-trade-is-losing-its-luster-with-bitcoin-staging-a-comeback-after-summer-break/",
       "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "f87b4d48e03e8276e76507d2b1056dd2a1192b388e3156bff061e675039cf884",
-      "title": "CoindarSafePal Expanded Gas Station to Eight Networks on August 25th",
-      "url": "https://www.tradingview.com/news/coindar:7ae6497ec094b:0-safepal-expanded-gas-station-to-eight-networks-on-august-25th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "d7f8f22dc66a260898b5c89feff64b8d63188cbadb6ebd0fa5b68ba83270c7f6",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260825005343:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "6fba839b9864f33f38dc844d1714a92f87d417f78eee0e632c681e3a1f35a57c",
-      "title": "CointelegraphBitcoin slips from $80K as gold cools with falling US bond yields",
-      "url": "https://www.tradingview.com/news/cointelegraph:6a3981601094b:0-bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "95d4e6322bbe331e6034f35c74b9cf541b3676524232fce26552172a8dd5be2c",
-      "title": "dpa-AFXBitcoin Retreats After Crossing $81k",
-      "url": "https://www.tradingview.com/news/dpa_afx:5e11f03ad45fa:0-bitcoin-retreats-after-crossing-81k/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "ef4fd7da2e8d7e468bc3a77ee2471d4e14ceb62945f40ea7459b4bf6286b63fe",
-      "title": "Dow Jones NewswiresBitcoin Rally Pauses After Jumping to Three-Month High — Update",
-      "url": "https://www.tradingview.com/news/DJN_DN20260825005101:0-bitcoin-rally-pauses-after-jumping-to-three-month-high-update/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "76e37013fc3a3aec68e70fae8740bf56b414d6ea252a5ac0893432308b9e0982",
-      "title": "InvezzBMNR stock: Top 3 reasons why Tom Lee’s BitMine is about to soar",
-      "url": "https://www.tradingview.com/news/invezz:ee38c1694094b:0-bmnr-stock-top-3-reasons-why-tom-lee-s-bitmine-is-about-to-soar/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "f276830fac0c9e04143c3ac9bcc44c8afc0a521f7bc963a3c9941756d126c997",
-      "title": "ChainwireBybit Introduces Zero-Fee Apple Pay Crypto Purchases",
-      "url": "https://www.tradingview.com/news/chainwire:e16d469d1094b:0-bybit-introduces-zero-fee-apple-pay-crypto-purchases/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "fd7d09eceae44fecb4c5657f3bdec5321b44fc26a34f0410aae0288a888900f7",
-      "title": "BenzingaBitcoin, Ethereum Are 'Really Underowned,' Analyst Says: 'Two of the Best Assets in the World'",
-      "url": "https://www.tradingview.com/news/benzinga:c8e491d72094b:0-bitcoin-ethereum-are-really-underowned-analyst-says-two-of-the-best-assets-in-the-world/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "8fe456f041dc5b66d5eda071b53bada29321f7dfec579f06fcfd0835ee51639a",
-      "title": "Finance MagnatesEDX Taps Figure's YLDS for Collateral, Joining BlackRock in Tokenised Treasury Race",
-      "url": "https://www.tradingview.com/news/financemagnates:282f428fe094b:0-edx-taps-figure-s-ylds-for-collateral-joining-blackrock-in-tokenised-treasury-race/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "f15a818a97b8e95d32c6538890c2767d365d770b75bea627cf00f08fd1ef31af",
-      "title": "BenzingaCan Dogecoin Hold Key Support? If Yes, Traders See a Clear Path to $0.10",
-      "url": "https://www.tradingview.com/news/benzinga:044f03a10094b:0-can-dogecoin-hold-key-support-if-yes-traders-see-a-clear-path-to-0-10/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
-    },
-    {
-      "id": "e7460f9358bf94f3647fe973d8e1738811464f6f6e15239478e8117e23c4bafd",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260825004748:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-25T16:19:01.891Z"
+      "scraped_at": "2026-08-25T17:16:42.290Z"
     }
   ]
 }
