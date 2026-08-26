@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-26T13:40:58.574Z",
+  "generated_at": "2026-08-26T14:27:58.813Z",
   "total": 15,
   "items": [
+    {
+      "id": "a53997f97d1b1eebaae8132e526fc6cf9803c108b93598abbb830042811c483f",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260826005634:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T14:27:58.810Z"
+    },
+    {
+      "id": "465cc24e08e9718b92376d6464f8da853557a49004050bdf7e77dbdfba3645f8",
+      "title": "The BlockSOL treasury firm DeFi Development launches real-time ‘State of Solana’ intelligence platform",
+      "url": "https://www.tradingview.com/news/the_block:e065f8830094b:0-sol-treasury-firm-defi-development-launches-real-time-state-of-solana-intelligence-platform/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T14:27:58.810Z"
+    },
+    {
+      "id": "534cce7044ec3c7fda57b4242ed4fb2711cbc10149d865cea9dbb8eda957ab58",
+      "title": "CoinMarketCalInjective: Community buyback takes place - 26 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:43486ddc3094b:0-injective-community-buyback-takes-place-26-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T14:27:58.810Z"
+    },
+    {
+      "id": "b17b5d689134025f10c644b7ef09210794e35d2264ea8e9f47acc361a652c004",
+      "title": "CoinMarketCalThe Graph: Rewards Eligibility Oracle goes live - 26 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b17f27c6a094b:0-the-graph-rewards-eligibility-oracle-goes-live-26-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T14:27:58.810Z"
+    },
+    {
+      "id": "398f7844053bf81b9298f68eefaf3e83b457fe1b6fb7cf6ce926517d3a2ac821",
+      "title": "CoinMarketCalVision: VSN conducts first token buyback - 01 Sep 2026 to 31 Dec 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:61ea5cf43094b:0-vision-vsn-conducts-first-token-buyback-01-sep-2026-to-31-dec-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T14:27:58.810Z"
+    },
+    {
+      "id": "db1dfcf9ef3742bbed84c0206ad76e67fea901e680ea1b1c6a1daa5c5e6af351",
+      "title": "ChainwireRent TRON Energy and Reduce USDT Fees : TronBid Expands Marketplace",
+      "url": "https://www.tradingview.com/news/chainwire:e984529a3094b:0-rent-tron-energy-and-reduce-usdt-fees-tronbid-expands-marketplace/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T14:27:58.810Z"
+    },
     {
       "id": "43485c2c01ccc22d8efbacde69b029c496c0b537dcb257bdad4171f5341c0585",
       "title": "StocktwitsTom Lee-Led BitMine Reportedly Scoops Up $48.89 Million Of Ethereum During Crypto’s ‘AI Downstream’ Story",
       "url": "https://www.tradingview.com/news/stocktwits:bf8e037ad094b:0-tom-lee-led-bitmine-reportedly-scoops-up-48-89-million-of-ethereum-during-crypto-s-ai-downstream-story/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
+      "scraped_at": "2026-08-26T14:27:58.810Z"
     },
     {
       "id": "a74075df912933be94ea93ad0eea80bbcac17e7a7d37b734a27af5aa850c4fd0",
       "title": "ACCESS NewswireSign up to read this news",
       "url": "https://www.tradingview.com/news/reuters.com,2026-08-26:newsml_ACSFRKZ0a:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
+      "scraped_at": "2026-08-26T14:27:58.810Z"
     },
     {
       "id": "ea5b67d888d5fb6a5d193bef314cae880febcb2a892d2e0e3891509a68c21982",
       "title": "BeincryptoCharles Hoskinson Says Cardano Will Win, But With Ethereum’s Help",
       "url": "https://www.tradingview.com/news/beincrypto:150a2ff5d094b:0-charles-hoskinson-says-cardano-will-win-but-with-ethereum-s-help/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
+      "scraped_at": "2026-08-26T14:27:58.810Z"
     },
     {
       "id": "0461635fd9b9b3cfed1418c80f45d5a06bdb09f6745513a373be56a5a7b8e0be",
       "title": "CointelegraphStudents want crypto classes but learn on social media: OKX survey",
       "url": "https://www.tradingview.com/news/cointelegraph:6d7f48680094b:0-students-want-crypto-classes-but-learn-on-social-media-okx-survey/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
+      "scraped_at": "2026-08-26T14:27:58.810Z"
     },
     {
       "id": "d1829ef8375023fb2a58f97181f7b1dca5c187b7b3be8a9d6583405528945d2e",
       "title": "BeincryptoBiggest Bitcoin Catalyst Is Not the Halving: Will US Debt Drive BTC to $300,000?",
       "url": "https://www.tradingview.com/news/beincrypto:e9be3db9b094b:0-biggest-bitcoin-catalyst-is-not-the-halving-will-us-debt-drive-btc-to-300-000/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
+      "scraped_at": "2026-08-26T14:27:58.810Z"
     },
     {
       "id": "fc612faeedbe9cf0ca3e8925d987bfd72c609c5fe855e285237b11fee7fcd8f8",
       "title": "BeincryptoSolana Set a Record in Everything Except the Part Holders Care About",
       "url": "https://www.tradingview.com/news/beincrypto:016f1afec094b:0-solana-set-a-record-in-everything-except-the-part-holders-care-about/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
+      "scraped_at": "2026-08-26T14:27:58.810Z"
     },
     {
       "id": "4d8a9914e72dbf06b47c18487ac18bb8ab6f4e0840f644458d3c9b6f4fb4154a",
       "title": "ReutersCryptocurrency chief facing extradition from UK to US on fraud charges",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44N0GH:0-cryptocurrency-chief-facing-extradition-from-uk-to-us-on-fraud-charges/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
+      "scraped_at": "2026-08-26T14:27:58.810Z"
     },
     {
       "id": "b5a659741b9a99709712433c8b98b7b12c29aa75b016c2fe8e0261a126d018bb",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:ebda6a503094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
+      "scraped_at": "2026-08-26T14:27:58.810Z"
     },
     {
-      "id": "21611dff48bc609c0415eec6ab5fcafe96c8c7effb5c62fac5321341a36997fc",
-      "title": "CointelegraphBernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
-      "url": "https://www.tradingview.com/news/cointelegraph:ca8e9e2ee094b:0-bernstein-forecasts-bitcoin-to-reclaim-125k-by-late-2026-ahead-of-cycle-peak/",
+      "id": "77c039aea4ffef9c0245d408925a80ed6b2a05d4d78414a801610d18356586b7",
+      "title": "BenzingaArthur Hayes Predicts Bitcoin to Reach $250,000, Holds 10 Times More BTC Than Gold",
+      "url": "https://www.tradingview.com/news/benzinga:19ade657f094b:0-arthur-hayes-predicts-bitcoin-to-reach-250-000-holds-10-times-more-btc-than-gold/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
-    },
-    {
-      "id": "fdc4a279a977b51494533d34840c8fe9223e493538cceac46aaa78c5d96dff93",
-      "title": "StocktwitsMSTR Stock Price Target Slashed By $100, Bernstein Pushes Bitcoin $150K Forecast To 2027",
-      "url": "https://www.tradingview.com/news/stocktwits:fd3398ff5094b:0-mstr-stock-price-target-slashed-by-100-bernstein-pushes-bitcoin-150k-forecast-to-2027/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
-    },
-    {
-      "id": "d5677d3ef19398bc191bc9c4b86980b90ff9abbfbf0962bb3e3aa883f1f6c1b6",
-      "title": "TradingViewKey facts: CRYPTO:BTCUSD could reach $82,830; spot+futures surge, $67K",
-      "url": "https://www.tradingview.com/news/tradingview:567e86874effc:0-key-facts-crypto-btcusd-could-reach-82-830-spot-futures-surge-67k/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
-    },
-    {
-      "id": "1fda31d7e32c7aa2a33a60b63dbbe1e996b99a2c14a980decfc3facbd914a7c6",
-      "title": "BenzingaBitcoin Stuck Below $80,000 as Ethereum Funding Rates Hit 1-Year High",
-      "url": "https://www.tradingview.com/news/benzinga:8823e68ed094b:0-bitcoin-stuck-below-80-000-as-ethereum-funding-rates-hit-1-year-high/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
-    },
-    {
-      "id": "724e6ebb1991760ef7c56daf3b53b50435398ff16ee7a7e78532a0375f7e7c6e",
-      "title": "CointelegraphTaurus links digital asset platforms to Swift’s blockchain ledger",
-      "url": "https://www.tradingview.com/news/cointelegraph:c5a4fb4c8094b:0-taurus-links-digital-asset-platforms-to-swift-s-blockchain-ledger/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
-    },
-    {
-      "id": "1f7301c30c0d849da501113b0f53153b655391da1ed5a17fe93560b176c338c6",
-      "title": "The Block‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
-      "url": "https://www.tradingview.com/news/the_block:9de7ed239094b:0-altitude-sickness-can-wait-bitcoin-s-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
-    },
-    {
-      "id": "520a988998d093732c3a0fdf0a7bc9cd0ecce9a789aca582e248ba77f9aff19b",
-      "title": "StocktwitsArthur Hayes Says Bitcoin Can Hit $250,000 Without A Credit Crisis – But Warns Of 75% Crash",
-      "url": "https://www.tradingview.com/news/stocktwits:9674236d8094b:0-arthur-hayes-says-bitcoin-can-hit-250-000-without-a-credit-crisis-but-warns-of-75-crash/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T13:40:58.570Z"
+      "scraped_at": "2026-08-26T14:27:58.810Z"
     }
   ]
 }
