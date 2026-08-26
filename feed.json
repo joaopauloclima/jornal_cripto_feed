@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-26T14:27:58.813Z",
+  "generated_at": "2026-08-26T16:05:11.843Z",
   "total": 15,
   "items": [
+    {
+      "id": "96ededc2b7764c09d3c62a94a9dec2507d9ddd678f73f855f35fc0dbbbb42677",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260826006293:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T16:05:11.839Z"
+    },
+    {
+      "id": "0f4b1a339f2db6abdfe8bfc40add1ced10282bcf1efb81e38fdc512c25c49778",
+      "title": "CointelegraphBitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
+      "url": "https://www.tradingview.com/news/cointelegraph:1dff3e411094b:0-bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-inflation-data/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T16:05:11.840Z"
+    },
+    {
+      "id": "be67fcfc9714f98b9a6fb4c2d171115491c97438d43e1714f56cc253ae61279e",
+      "title": "London Stock ExchangeREG - B HODL PLC - TR-1: Notification of major holdings",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-08-26:newsml_RSZ3094Sa:0-reg-b-hodl-plc-tr-1-notification-of-major-holdings/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T16:05:11.840Z"
+    },
+    {
+      "id": "7c6bb1686da9a90a3e276f3a935bd4522f70d0c4ffcceb65b7ce58f9f02c167e",
+      "title": "London Stock ExchangeREG - Valereum PLC - Directorate Change",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-08-26:newsml_RSZ3061Sa:0-reg-valereum-plc-directorate-change/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T16:05:11.840Z"
+    },
+    {
+      "id": "9d166f019de14c06caeb8dc6d63068654e0aa434142889c1b63756119bf9c155",
+      "title": "The BlockCoinbase, Better make token-backed mortgages generally available",
+      "url": "https://www.tradingview.com/news/the_block:931b59d76094b:0-coinbase-better-make-token-backed-mortgages-generally-available/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T16:05:11.840Z"
+    },
+    {
+      "id": "34126516404b91f11fff875d0d50460068209d13f9fcc71ebbbb7c9109e3d449",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260826005942:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T16:05:11.840Z"
+    },
+    {
+      "id": "bc4853a00d96a1cd90b2e20cb09f66dc31f1b814e21573570fb9b18de1610509",
+      "title": "The BlockSEC sends crypto custody rule changes to White House for review",
+      "url": "https://www.tradingview.com/news/the_block:9f545c2b2094b:0-sec-sends-crypto-custody-rule-changes-to-white-house-for-review/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T16:05:11.840Z"
+    },
+    {
+      "id": "8918640a5ad141caf526bc8572161c18633505b57d85ea73154ee11755a24dd2",
+      "title": "BenzingaSHIB Joins XRP, Bitcoin on Japan's First New Crypto Exchange in 4 Years",
+      "url": "https://www.tradingview.com/news/benzinga:58ff6d57b094b:0-shib-joins-xrp-bitcoin-on-japan-s-first-new-crypto-exchange-in-4-years/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T16:05:11.840Z"
+    },
     {
       "id": "a53997f97d1b1eebaae8132e526fc6cf9803c108b93598abbb830042811c483f",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260826005634:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
+      "scraped_at": "2026-08-26T16:05:11.840Z"
     },
     {
       "id": "465cc24e08e9718b92376d6464f8da853557a49004050bdf7e77dbdfba3645f8",
       "title": "The BlockSOL treasury firm DeFi Development launches real-time ‘State of Solana’ intelligence platform",
       "url": "https://www.tradingview.com/news/the_block:e065f8830094b:0-sol-treasury-firm-defi-development-launches-real-time-state-of-solana-intelligence-platform/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
+      "scraped_at": "2026-08-26T16:05:11.840Z"
     },
     {
       "id": "534cce7044ec3c7fda57b4242ed4fb2711cbc10149d865cea9dbb8eda957ab58",
       "title": "CoinMarketCalInjective: Community buyback takes place - 26 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:43486ddc3094b:0-injective-community-buyback-takes-place-26-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
+      "scraped_at": "2026-08-26T16:05:11.840Z"
     },
     {
       "id": "b17b5d689134025f10c644b7ef09210794e35d2264ea8e9f47acc361a652c004",
       "title": "CoinMarketCalThe Graph: Rewards Eligibility Oracle goes live - 26 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:b17f27c6a094b:0-the-graph-rewards-eligibility-oracle-goes-live-26-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
+      "scraped_at": "2026-08-26T16:05:11.840Z"
     },
     {
       "id": "398f7844053bf81b9298f68eefaf3e83b457fe1b6fb7cf6ce926517d3a2ac821",
       "title": "CoinMarketCalVision: VSN conducts first token buyback - 01 Sep 2026 to 31 Dec 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:61ea5cf43094b:0-vision-vsn-conducts-first-token-buyback-01-sep-2026-to-31-dec-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
+      "scraped_at": "2026-08-26T16:05:11.840Z"
+    },
+    {
+      "id": "78cc7d3558c3deef4eae3ee8928a80868089bab7007e4e0921c962f9cc62c64e",
+      "title": "BenzingaXRP Eyes $1.88 as Leverage Hits 7-Month High: What's Going On?",
+      "url": "https://www.tradingview.com/news/benzinga:eff518220094b:0-xrp-eyes-1-88-as-leverage-hits-7-month-high-what-s-going-on/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T16:05:11.840Z"
     },
     {
       "id": "db1dfcf9ef3742bbed84c0206ad76e67fea901e680ea1b1c6a1daa5c5e6af351",
       "title": "ChainwireRent TRON Energy and Reduce USDT Fees : TronBid Expands Marketplace",
       "url": "https://www.tradingview.com/news/chainwire:e984529a3094b:0-rent-tron-energy-and-reduce-usdt-fees-tronbid-expands-marketplace/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
-    },
-    {
-      "id": "43485c2c01ccc22d8efbacde69b029c496c0b537dcb257bdad4171f5341c0585",
-      "title": "StocktwitsTom Lee-Led BitMine Reportedly Scoops Up $48.89 Million Of Ethereum During Crypto’s ‘AI Downstream’ Story",
-      "url": "https://www.tradingview.com/news/stocktwits:bf8e037ad094b:0-tom-lee-led-bitmine-reportedly-scoops-up-48-89-million-of-ethereum-during-crypto-s-ai-downstream-story/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
-    },
-    {
-      "id": "a74075df912933be94ea93ad0eea80bbcac17e7a7d37b734a27af5aa850c4fd0",
-      "title": "ACCESS NewswireSign up to read this news",
-      "url": "https://www.tradingview.com/news/reuters.com,2026-08-26:newsml_ACSFRKZ0a:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
-    },
-    {
-      "id": "ea5b67d888d5fb6a5d193bef314cae880febcb2a892d2e0e3891509a68c21982",
-      "title": "BeincryptoCharles Hoskinson Says Cardano Will Win, But With Ethereum’s Help",
-      "url": "https://www.tradingview.com/news/beincrypto:150a2ff5d094b:0-charles-hoskinson-says-cardano-will-win-but-with-ethereum-s-help/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
-    },
-    {
-      "id": "0461635fd9b9b3cfed1418c80f45d5a06bdb09f6745513a373be56a5a7b8e0be",
-      "title": "CointelegraphStudents want crypto classes but learn on social media: OKX survey",
-      "url": "https://www.tradingview.com/news/cointelegraph:6d7f48680094b:0-students-want-crypto-classes-but-learn-on-social-media-okx-survey/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
-    },
-    {
-      "id": "d1829ef8375023fb2a58f97181f7b1dca5c187b7b3be8a9d6583405528945d2e",
-      "title": "BeincryptoBiggest Bitcoin Catalyst Is Not the Halving: Will US Debt Drive BTC to $300,000?",
-      "url": "https://www.tradingview.com/news/beincrypto:e9be3db9b094b:0-biggest-bitcoin-catalyst-is-not-the-halving-will-us-debt-drive-btc-to-300-000/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
-    },
-    {
-      "id": "fc612faeedbe9cf0ca3e8925d987bfd72c609c5fe855e285237b11fee7fcd8f8",
-      "title": "BeincryptoSolana Set a Record in Everything Except the Part Holders Care About",
-      "url": "https://www.tradingview.com/news/beincrypto:016f1afec094b:0-solana-set-a-record-in-everything-except-the-part-holders-care-about/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
-    },
-    {
-      "id": "4d8a9914e72dbf06b47c18487ac18bb8ab6f4e0840f644458d3c9b6f4fb4154a",
-      "title": "ReutersCryptocurrency chief facing extradition from UK to US on fraud charges",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N44N0GH:0-cryptocurrency-chief-facing-extradition-from-uk-to-us-on-fraud-charges/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
-    },
-    {
-      "id": "b5a659741b9a99709712433c8b98b7b12c29aa75b016c2fe8e0261a126d018bb",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:ebda6a503094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
-    },
-    {
-      "id": "77c039aea4ffef9c0245d408925a80ed6b2a05d4d78414a801610d18356586b7",
-      "title": "BenzingaArthur Hayes Predicts Bitcoin to Reach $250,000, Holds 10 Times More BTC Than Gold",
-      "url": "https://www.tradingview.com/news/benzinga:19ade657f094b:0-arthur-hayes-predicts-bitcoin-to-reach-250-000-holds-10-times-more-btc-than-gold/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T14:27:58.810Z"
+      "scraped_at": "2026-08-26T16:05:11.840Z"
     }
   ]
 }
