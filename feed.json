@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-08-26T00:00:40.913Z",
+  "generated_at": "2026-08-26T02:14:12.904Z",
   "total": 15,
   "items": [
+    {
+      "id": "b32374ef8f55e2aa8ec114146465c10a2be4ef0cb1d21b2be20a7340c7081227",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260825009424:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.899Z"
+    },
+    {
+      "id": "12546e103197c6d6f2166ca6401f861fa5fe10c003e4f69dffce0fe266c86a3d",
+      "title": "Binance NewsShinhan Financial Group Signs Strategic Cooperation Agreement With Visa on Digital Assets",
+      "url": "https://www.tradingview.com/news/binance_news:a591859b4094b:0-shinhan-financial-group-signs-strategic-cooperation-agreement-with-visa-on-digital-assets/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "d6c4d04aefb45f675abec3bd4e253cd84115ee91c53d558b83c6aea62364d078",
+      "title": "Binance NewsAI Gold Rush Draws Crypto Firms Away From Bitcoin",
+      "url": "https://www.tradingview.com/news/binance_news:25bb797f2094b:0-ai-gold-rush-draws-crypto-firms-away-from-bitcoin/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "bce677ec237f87327ce0a3b7f52d0a746fe3eca6520e8d0beeed63599d182044",
+      "title": "Binance NewsBinance Spot Will Open DJTB/USDT Trading and Spot Algo Trading Bots Services",
+      "url": "https://www.tradingview.com/news/binance_news:288c40a64094b:0-binance-spot-will-open-djtb-usdt-trading-and-spot-algo-trading-bots-services/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "68d03641df88de601108bb824b79438c8bff9942c57c62c6951d89ec65ead4b0",
+      "title": "Binance NewsAbout 40 Japanese Banks to Test Digital Currency Transfers",
+      "url": "https://www.tradingview.com/news/binance_news:479738d54094b:0-about-40-japanese-banks-to-test-digital-currency-transfers/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "4057a00e43c4ff3dd86955587b2f2a7309a4d2c7635cdd5d5c81fbfe8abef832",
+      "title": "PR NewswireCaladan Goes Live on BitGo's Go Network for Institutional Settlement",
+      "url": "https://www.tradingview.com/news/prnewswire:8b810817a47db:0-caladan-goes-live-on-bitgo-s-go-network-for-institutional-settlement/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "30e9e16b832589ff4f8ee2bb0ecd4f44102127a97e70875d923e16c8315026ac",
+      "title": "Binance NewsOndo Perps Adds CRCLon, SPCXon And SNDKon As Collateral",
+      "url": "https://www.tradingview.com/news/binance_news:ab60565b2094b:0-ondo-perps-adds-crclon-spcxon-and-sndkon-as-collateral/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "5445df2ef5ab6d156e03733207fda2132d2a5596df28c135ae44405a66327f01",
+      "title": "Binance NewsEthereum Foundation Warns Glamsterdam Upgrade Will Change Gas Costs",
+      "url": "https://www.tradingview.com/news/binance_news:73fe7b586094b:0-ethereum-foundation-warns-glamsterdam-upgrade-will-change-gas-costs/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "20191c9827d603e7ee0f3f92860224be7edd4b3a4a2bf6964d335c2f01af8714",
+      "title": "Binance NewsEthereum Foundation Says Glamsterdam Upgrade Will Adjust Gas Fees",
+      "url": "https://www.tradingview.com/news/binance_news:fb9876214094b:0-ethereum-foundation-says-glamsterdam-upgrade-will-adjust-gas-fees/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "c91398dae8c0d71462a51d955a514710a9e1d01aaf32b49fa4b0a0bc83691893",
+      "title": "Binance NewsRobinhood Ecosystem Meme Coin MARTIANS Tops $6 Million Market Cap",
+      "url": "https://www.tradingview.com/news/binance_news:88aee8a57094b:0-robinhood-ecosystem-meme-coin-martians-tops-6-million-market-cap/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "78bad8be9e40cf227cd0ac458b1112d45667ebb1d31da891c4bece71ada750bd",
+      "title": "Binance NewsPOSCO International Tokenizes Trade Receivables on Avalanche",
+      "url": "https://www.tradingview.com/news/binance_news:88072bc1c094b:0-posco-international-tokenizes-trade-receivables-on-avalanche/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "4f7d2a8518968a45a432416f3a3093f002ed1be8db30d86136fbfef314428551",
+      "title": "Binance NewsEric Balchunas Says Gold and Bitcoin ETFs Rejoin Top 10 by Trading Volume",
+      "url": "https://www.tradingview.com/news/binance_news:d5e16f26b094b:0-eric-balchunas-says-gold-and-bitcoin-etfs-rejoin-top-10-by-trading-volume/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "86f22e7655fc048493ad71172cd43531355f4ac8d14b5e9f59410b03d9bbb4c7",
+      "title": "Binance NewsPolymarket Brewers-Mets Overtime Odds Jump to 50%",
+      "url": "https://www.tradingview.com/news/binance_news:a3a5ac7ca094b:0-polymarket-brewers-mets-overtime-odds-jump-to-50/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
+    {
+      "id": "8f7f6bb96a32db2d59a41a713365af72266e1796641b209ede84a5f24b3eb3e5",
+      "title": "CoinpediaUN Adopts DFINITY AI & Cloud Tech for Governments – Why Isn’t ICP Rallying?",
+      "url": "https://www.tradingview.com/news/coinpedia:02d9dbf13094b:0-un-adopts-dfinity-ai-cloud-tech-for-governments-why-isn-t-icp-rallying/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-26T02:14:12.900Z"
+    },
     {
       "id": "4cc86273334e9432e77f5f3ce43121f6478999bba6d4bc20bd37bcbff58165ea",
       "title": "CoinMarketCalKamino: Fixed Rates becomes publicly available - Q3 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:2dc24c3ca094b:0-kamino-fixed-rates-becomes-publicly-available-q3-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.910Z"
-    },
-    {
-      "id": "fd66b910dd07533f1b0ddc5b1e4a1595fdeb290bd39cf26955b643d7ca7b6870",
-      "title": "CoinMarketCalTellor Tributes: Palmito Testnet upgrades to v6.1.7 - 26 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:855e8037a094b:0-tellor-tributes-palmito-testnet-upgrades-to-v6-1-7-26-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.910Z"
-    },
-    {
-      "id": "de14ea5a15231170ffd8f5ca3c886413b21103c45aad10562d60be158ca6525b",
-      "title": "CoinMarketCalQubic: expects another halving - Aug 2027",
-      "url": "https://www.tradingview.com/news/coinmarketcal:ce95f3af7094b:0-qubic-expects-another-halving-aug-2027/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.910Z"
-    },
-    {
-      "id": "d5b9e6a2086ac8046ce7dc0db41a0326968ee8e3e75b24075c57f1f885e534ec",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260825008736_20260825008751:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.910Z"
-    },
-    {
-      "id": "21ccce580b80973854f45fd83e66794fcfe37320a8290ed72805b0e8054b0970",
-      "title": "BenzingaTom Lee Sees ETH 'Easily' Hitting $10,000, Says BitMine Could Buy More Than 5%",
-      "url": "https://www.tradingview.com/news/benzinga:1931ce94d094b:0-tom-lee-sees-eth-easily-hitting-10-000-says-bitmine-could-buy-more-than-5/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.910Z"
-    },
-    {
-      "id": "718d2feee76208c1f47988a5894ef986af7e4705a20459894a734b28667186d3",
-      "title": "CoindarTHORChain to Hold Rujira Podcast on August 29th",
-      "url": "https://www.tradingview.com/news/coindar:360671106094b:0-thorchain-to-hold-rujira-podcast-on-august-29th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.910Z"
-    },
-    {
-      "id": "a6edb7ed6c25458a5873172830fb1cf29e3daaecc49018ee31aadc9f39e82b64",
-      "title": "CoindarGMT to Conclude Marathon Round 2 on September 7th",
-      "url": "https://www.tradingview.com/news/coindar:a506c5884094b:0-gmt-to-conclude-marathon-round-2-on-september-7th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.910Z"
-    },
-    {
-      "id": "c91119c1f7a4e092d8614adeab9d4f77c36edd944951061a339bb6c1b0051742",
-      "title": "CoindarNEXO to Join Future Proof in Huntington Beach on September 14th–17th",
-      "url": "https://www.tradingview.com/news/coindar:a2613730b094b:0-nexo-to-join-future-proof-in-huntington-beach-on-september-14th-17th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.910Z"
-    },
-    {
-      "id": "a4163a2dd2674cb480904832fa9e97d5259d5496fe5e01ac468ed4301b06bb93",
-      "title": "ReutersEquities rise with tech boost and yields fall with oil prices",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N44M12F:0-equities-rise-with-tech-boost-and-yields-fall-with-oil-prices/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.910Z"
-    },
-    {
-      "id": "25adf9135203fce745cea3a2f8b171665b7b7c2763949c4e1028b16ffed0db51",
-      "title": "CointelegraphWorld Liberty Financial launches USD1 natively on Canton Network",
-      "url": "https://www.tradingview.com/news/cointelegraph:a89ce8e6e094b:0-world-liberty-financial-launches-usd1-natively-on-canton-network/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.911Z"
-    },
-    {
-      "id": "abcc1c2a423511085d26273c0942b8162294e4a2baab800caccd986e39f45da0",
-      "title": "CoindarSolana to Host Community Call on August 27th",
-      "url": "https://www.tradingview.com/news/coindar:030f0a8f8094b:0-solana-to-host-community-call-on-august-27th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.911Z"
-    },
-    {
-      "id": "7f993c1fbfca52b1eabb4ad61151d4416668ad689264ef9fe83f5142aee04075",
-      "title": "CoindarHorizen to Close Vela Applications on August 31st",
-      "url": "https://www.tradingview.com/news/coindar:aae20fe36094b:0-horizen-to-close-vela-applications-on-august-31st/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.911Z"
-    },
-    {
-      "id": "016491c19869102944090f14bc9768d7d7a3c7c950966dbf22c3694f8461ee1c",
-      "title": "BenzingaWintermute: Bitcoin, XRP, Gold Benefited From 'Debasement Board' Last Week",
-      "url": "https://www.tradingview.com/news/benzinga:4f9667d6a094b:0-wintermute-bitcoin-xrp-gold-benefited-from-debasement-board-last-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.911Z"
-    },
-    {
-      "id": "757246ea5ea1c2bd4f7bd97f385c5d02be88d72df48b0f8009d83d577a1c8ac4",
-      "title": "BeincryptoCopper Hits Highest Close in History as Debasement Trade Lifts Metals and Crypto Alike",
-      "url": "https://www.tradingview.com/news/beincrypto:a18b78cf5094b:0-copper-hits-highest-close-in-history-as-debasement-trade-lifts-metals-and-crypto-alike/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.911Z"
-    },
-    {
-      "id": "b691038fc45b3a9faf6d36260e88856c74e5b6a9b06fdb5c4b9594fce418e9f5",
-      "title": "Finance MagnatesMEXC to Offboard Dutch Users, Recommends Bybit as MiCAR-Compliant Alternative",
-      "url": "https://www.tradingview.com/news/financemagnates:1c06577ea094b:0-mexc-to-offboard-dutch-users-recommends-bybit-as-micar-compliant-alternative/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-26T00:00:40.911Z"
+      "scraped_at": "2026-08-26T02:14:12.900Z"
     }
   ]
 }
