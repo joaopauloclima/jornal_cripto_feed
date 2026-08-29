@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-08-29T02:27:40.602Z",
-  "total": 15,
+  "generated_at": "2026-08-29T09:23:37.516Z",
+  "total": 14,
   "items": [
+    {
+      "id": "6c2f03438d06323e20eb9d53bf952dc11ad2146fe5b89d76b349e9b8e424238a",
+      "title": "StocktwitsBitwise's Matt Hougan Says Ethereum And Solana Are Betting On Opposite Valuation Models, 'My Favorite Approach Is Just To Own Them Both'",
+      "url": "https://www.tradingview.com/news/stocktwits:ffdfb7638094b:0-bitwise-s-matt-hougan-says-ethereum-and-solana-are-betting-on-opposite-valuation-models-my-favorite-approach-is-just-to-own-them-both/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T09:23:37.513Z"
+    },
+    {
+      "id": "1506939e7d709675a5ff851a3b165e9f21f7b3877b6ae51e38758c252f5baea4",
+      "title": "CointelegraphStablecoins not credible for payments at scale, BIS chief says",
+      "url": "https://www.tradingview.com/news/cointelegraph:2d3fd01f8094b:0-stablecoins-not-credible-for-payments-at-scale-bis-chief-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T09:23:37.513Z"
+    },
+    {
+      "id": "e8cabe1fe6025d0b5af81e8d590b2230ba7592e99167db811a73a30f4753bc0e",
+      "title": "CoinpediaTrump Digital Gold Token Crashes 99% After a Suspected Rug Pull",
+      "url": "https://www.tradingview.com/news/coinpedia:95e140c2c094b:0-trump-digital-gold-token-crashes-99-after-a-suspected-rug-pull/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T09:23:37.513Z"
+    },
+    {
+      "id": "d5175d08f803dfbc08573f5ab00821d2bdd8bfbc9272c4e08ca795e72fb19a26",
+      "title": "Finance MagnatesWeekly Review: Revolut Launches Euro Stablecoin; IG Faces Outage",
+      "url": "https://www.tradingview.com/news/financemagnates:3133b788c094b:0-weekly-review-revolut-launches-euro-stablecoin-ig-faces-outage/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T09:23:37.513Z"
+    },
+    {
+      "id": "b8b8f15829847df86752fcff3b60c12f12bed0e5a217061f3b77e379896e3997",
+      "title": "CoinpediaHYPE Price Explodes Higher: Whale Activity Hints at Another Leg Up",
+      "url": "https://www.tradingview.com/news/coinpedia:53fca929c094b:0-hype-price-explodes-higher-whale-activity-hints-at-another-leg-up/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T09:23:37.513Z"
+    },
+    {
+      "id": "4755a0e11964258e1aa1c8cac0fd6a106255a75222446c7d6c1ecafbb7335dcf",
+      "title": "CointelegraphBitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+      "url": "https://www.tradingview.com/news/cointelegraph:442eb20cb094b:0-bitcoin-etfs-end-9-day-inflow-streak-as-btc-dips-below-78k/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T09:23:37.513Z"
+    },
+    {
+      "id": "ce5642003bb883b6f6b24ff99a7636b2f9e895161238542d4f658499c7d30823",
+      "title": "Crypto BriefingLoss of Control Observatory reports surge in AI incidents in July",
+      "url": "https://www.tradingview.com/news/cryptobriefing:b06616d30094b:0-loss-of-control-observatory-reports-surge-in-ai-incidents-in-july/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T09:23:37.513Z"
+    },
+    {
+      "id": "01f0e86615e64d78902592fbc4c91ec8ef9be81f369fc7e24da8dffbbbf02711",
+      "title": "BeincryptoTrump Digital Gold Crashes 98% in Hours After Suspected $330,000 Rug Pull",
+      "url": "https://www.tradingview.com/news/beincrypto:921669fdf094b:0-trump-digital-gold-crashes-98-in-hours-after-suspected-330-000-rug-pull/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T09:23:37.513Z"
+    },
+    {
+      "id": "e253b5f30909b1f3e9ef13956cd9e106099d07728aa69778f429bd1cae84a1a7",
+      "title": "BenzingaKalshi Loses Nevada Court Fight as Prediction Markets Battle Over Who Gets to Regulate Them",
+      "url": "https://www.tradingview.com/news/benzinga:a958b78cf094b:0-kalshi-loses-nevada-court-fight-as-prediction-markets-battle-over-who-gets-to-regulate-them/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T09:23:37.513Z"
+    },
     {
       "id": "c65e855d9d2587fd2168cd3664896dcaf471ef206a44b55f4b90e0b31acae07a",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260828009401:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.598Z"
+      "scraped_at": "2026-08-29T09:23:37.513Z"
     },
     {
       "id": "bda022f38a895243590662b2fa737d64bb45fa710e32fd65d613ad6eca961e7e",
       "title": "Binance NewsInterchain Foundation to Set Up Discretionary Grant Program After Cosmos EVM Incident",
       "url": "https://www.tradingview.com/news/binance_news:5e2066830094b:0-interchain-foundation-to-set-up-discretionary-grant-program-after-cosmos-evm-incident/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.598Z"
+      "scraped_at": "2026-08-29T09:23:37.513Z"
     },
     {
       "id": "6a9afaf45976bdf1b465351cc5ad769fb858f0b786c585cedbd1d8ae1dc4e15c",
       "title": "Binance NewsJurrien Timmer Says Bitcoin Has Held Its Power-Law Curve Bottom",
       "url": "https://www.tradingview.com/news/binance_news:7382d171a094b:0-jurrien-timmer-says-bitcoin-has-held-its-power-law-curve-bottom/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.598Z"
+      "scraped_at": "2026-08-29T09:23:37.513Z"
     },
     {
       "id": "ea2392725ccc550f3647d38416629dc67164c53d57f0501ac803b541e21fba7d",
       "title": "Binance NewsPolymarket Overtime Odds for Pirates-Cardinals Game Swing to 50%",
       "url": "https://www.tradingview.com/news/binance_news:80e272f2b094b:0-polymarket-overtime-odds-for-pirates-cardinals-game-swing-to-50/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.598Z"
+      "scraped_at": "2026-08-29T09:23:37.513Z"
     },
     {
       "id": "ded0a9d67704fe70a88b60e49fc8204174c048e6eedba15228a2dfaf170487bf",
       "title": "Binance NewsRain Says Vulnerability Affected Some Programs Using Outdated Solana Contracts",
       "url": "https://www.tradingview.com/news/binance_news:e5b10ac2f094b:0-rain-says-vulnerability-affected-some-programs-using-outdated-solana-contracts/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.598Z"
-    },
-    {
-      "id": "6d103a5a52b7ec0b7fb434cfdde079b797d947d3569c06151df803573f6283a2",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260828009186_20260828009187:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.598Z"
-    },
-    {
-      "id": "573c4149ecf7587474f3745c23835bddab3089c1555d0067d04f4e421ab8024a",
-      "title": "Binance NewsAbraxas Capital Holds Over $472 Million in Perpetual Short Positions",
-      "url": "https://www.tradingview.com/news/binance_news:c7cc95a57094b:0-abraxas-capital-holds-over-472-million-in-perpetual-short-positions/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.598Z"
-    },
-    {
-      "id": "86ce0b250833610869ebf6f18e632563fa425a601c99c006e3a2e864c2862d90",
-      "title": "CryptoProwlTom Lee Sees Ethereum at $6K if Bitcoin Reaches $150K",
-      "url": "https://www.tradingview.com/news/cryptoprowl:f49242801094b:0-tom-lee-sees-ethereum-at-6k-if-bitcoin-reaches-150k/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.598Z"
-    },
-    {
-      "id": "64e99de7df27cd8c74c319927347e1391e69a843ad1aa5ae450eca90b7f5c172",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260828009053:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.598Z"
-    },
-    {
-      "id": "6f6c0d5e057428f966b13814404fb201e94dd0e00654529b253fa11538d9a2d9",
-      "title": "Binance NewsBrian Armstrong Says Bitcoin Can Be Used as Mortgage Collateral for Home Down Payments",
-      "url": "https://www.tradingview.com/news/binance_news:bccd52e3f094b:0-brian-armstrong-says-bitcoin-can-be-used-as-mortgage-collateral-for-home-down-payments/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.599Z"
-    },
-    {
-      "id": "70d8ca3b52e73b9d2da899fd4109cd80e950f6015c678cc77660e49785235c01",
-      "title": "BeincryptoSolana Neobank Avici Hacked for $650,000. Token Crashes 40%",
-      "url": "https://www.tradingview.com/news/beincrypto:b3ecd3ba7094b:0-solana-neobank-avici-hacked-for-650-000-token-crashes-40/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.599Z"
-    },
-    {
-      "id": "dac6c5ab7d2cda5eb1dc03dbda66e0d2b256b41d653085a87d2526a6f8d5196e",
-      "title": "Binance NewsGrayscale Says Debasement Trade Is Benefiting Bitcoin",
-      "url": "https://www.tradingview.com/news/binance_news:ec0358dd7094b:0-grayscale-says-debasement-trade-is-benefiting-bitcoin/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.599Z"
-    },
-    {
-      "id": "84fe1171a6a4afdffc229172f173d37b75cebe9cb3cd803ba67d18a161321ced",
-      "title": "BeincryptoJustin Sun Says His Girlfriend Asked for $50 Million. AI Told Him No",
-      "url": "https://www.tradingview.com/news/beincrypto:484de8c19094b:0-justin-sun-says-his-girlfriend-asked-for-50-million-ai-told-him-no/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.599Z"
-    },
-    {
-      "id": "909d56dbb4eea272d9f8a297fe8ff9087b7c0a48eb05d518ed0dddbf497df1e5",
-      "title": "Binance NewsBrian Armstrong Says U.S. Needs Clarity Act for Clear Crypto Rules",
-      "url": "https://www.tradingview.com/news/binance_news:859f3ce9c094b:0-brian-armstrong-says-u-s-needs-clarity-act-for-clear-crypto-rules/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.599Z"
-    },
-    {
-      "id": "dd3f9bd837ee9a2d61bbd473e37dea1a0ecc8b890af21b42916bc31db4da3444",
-      "title": "HBenzingaQUICK SPARK: Hedgeye Launches Bitcoin ETF with a Dynamic Hedge",
-      "url": "https://www.tradingview.com/news/benzinga:8d68b26aa094b:0-quick-spark-hedgeye-launches-bitcoin-etf-with-a-dynamic-hedge/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T02:27:40.599Z"
+      "scraped_at": "2026-08-29T09:23:37.513Z"
     }
   ]
 }
