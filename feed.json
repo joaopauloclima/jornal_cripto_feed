@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-29T17:55:43.692Z",
-  "total": 14,
+  "generated_at": "2026-08-29T20:46:15.190Z",
+  "total": 15,
   "items": [
+    {
+      "id": "4accc93457b1b0df01c3f9ca43d0e5310125f5e4dc3d0926d29e3eab7e9729bf",
+      "title": "CointelegraphPolygon discloses security flaws fixed in recent hard forks",
+      "url": "https://www.tradingview.com/news/cointelegraph:daf75c4ab094b:0-polygon-discloses-security-flaws-fixed-in-recent-hard-forks/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T20:46:15.185Z"
+    },
+    {
+      "id": "b46717738a14cdbc2a4ebfeaf4ea8751bd3650ca874059b5d367a223281a0d1b",
+      "title": "The BlockCosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+      "url": "https://www.tradingview.com/news/the_block:358f329f5094b:0-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T20:46:15.185Z"
+    },
+    {
+      "id": "96ddc49687fd5ce0453347f481d9cfdb3266a19e2aa66834bfb3449d4810c22c",
+      "title": "CoinMarketCalCanton: mPerps launches perpetuals trading - 29 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:fcf45ca02094b:0-canton-mperps-launches-perpetuals-trading-29-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T20:46:15.185Z"
+    },
+    {
+      "id": "8f29f6e1158282e1ac4b10b15d3fe954e4e24fdc2f5bb3bca3f4b0d588d4a470",
+      "title": "CoinMarketCalCOTI: GC reaches general availability - 29 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:f8b79d6f9094b:0-coti-gc-reaches-general-availability-29-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T20:46:15.185Z"
+    },
+    {
+      "id": "7ba5cd2b0acc935cfc61b8cf15ce891721ef7b21267e0040b4ef0b87c1534ab8",
+      "title": "CoinMarketCalCollector Crypt: CARDS burn executes on-chain - 29 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:dd40ab3b6094b:0-collector-crypt-cards-burn-executes-on-chain-29-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T20:46:15.185Z"
+    },
+    {
+      "id": "5af8f13b5e7618818cb3a4188c991fcb0b436aa677d0aeefd6fe6758e00a2969",
+      "title": "CointelegraphStellar tokenized RWA market more than quadruples to nearly $4B",
+      "url": "https://www.tradingview.com/news/cointelegraph:69c1131e9094b:0-stellar-tokenized-rwa-market-more-than-quadruples-to-nearly-4b/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T20:46:15.185Z"
+    },
     {
       "id": "b6ce992b44e69eb17763678278be92267674b49f1ca95fc193826512e1c8d03f",
       "title": "CoinMarketCalQubic: Ant Colony Mining goes live - 29 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:cf5527c12094b:0-qubic-ant-colony-mining-goes-live-29-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
+      "scraped_at": "2026-08-29T20:46:15.185Z"
     },
     {
       "id": "dc31748bd24924c89bd239e087696d7871b2f65ceac42e7b63cba505a38a8803",
       "title": "BenzingaMark Cuban Got 'Really Disappointed' by Ethereum: Here's Why the Second-Largest Crypto Failed to Live Up to the Former Shark's Hopes",
       "url": "https://www.tradingview.com/news/benzinga:81c32a87f094b:0-mark-cuban-got-really-disappointed-by-ethereum-here-s-why-the-second-largest-crypto-failed-to-live-up-to-the-former-shark-s-hopes/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
+      "scraped_at": "2026-08-29T20:46:15.185Z"
     },
     {
       "id": "acc995f8453a3afb5e536854fd08dcb3ffe4519534623296c77257dd701c2a67",
       "title": "CointelegraphTokenized stock transfer volume jumps 415% in 30 days to $29.5B",
       "url": "https://www.tradingview.com/news/cointelegraph:0820082ba094b:0-tokenized-stock-transfer-volume-jumps-415-in-30-days-to-29-5b/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
+      "scraped_at": "2026-08-29T20:46:15.185Z"
     },
     {
       "id": "a27d1e4d1952e7cafe5a9ffe529cc8758497b33b32dd512aa2b708b8c84c7e18",
       "title": "StocktwitsJordi Visser Dismisses Warsh’s Hawkish Fed Talk As ‘Showmanship,’ Says Scott Bessent’s Playbook Matters Far More For Crypto",
       "url": "https://www.tradingview.com/news/stocktwits:a9e592495094b:0-jordi-visser-dismisses-warsh-s-hawkish-fed-talk-as-showmanship-says-scott-bessent-s-playbook-matters-far-more-for-crypto/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
+      "scraped_at": "2026-08-29T20:46:15.185Z"
     },
     {
       "id": "efc7f801fc4c7b20ee1845181f573bbcd5b7d05845bae0f97fa56083bb811b68",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260829000923:0/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
+      "scraped_at": "2026-08-29T20:46:15.185Z"
     },
     {
       "id": "eb344862e2a763d8430aaf882145d5314c5a0353964b30ba2a0cb3e676ef3c84",
       "title": "StocktwitsArthur Hayes Names Ethereum His ‘No. 1 Crypto Pick’, Sees ETH Surging 3X To 5X ‘Pretty Quickly’",
       "url": "https://www.tradingview.com/news/stocktwits:0c5deb60e094b:0-arthur-hayes-names-ethereum-his-no-1-crypto-pick-sees-eth-surging-3x-to-5x-pretty-quickly/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
+      "scraped_at": "2026-08-29T20:46:15.185Z"
+    },
+    {
+      "id": "dcb1ec2e06964f38a02c2ce593a258a3538decb30ef6760d6810d1802f15d128",
+      "title": "U.Today'This Seems Incorrect': Ripple CTO Emeritus Slams Kalshi CFTC Argument",
+      "url": "https://www.tradingview.com/news/u_today:d3101e187094b:0-this-seems-incorrect-ripple-cto-emeritus-slams-kalshi-cftc-argument/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-29T20:46:15.185Z"
     },
     {
       "id": "096768504ddbc62ffc1d35a382a6a911b0085f5d92d7e0a8c4664358657e4ef6",
       "title": "CoinMarketCalOnyxcoin: OIP-3 becomes executable - By 31 Aug 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:2558eeab9094b:0-onyxcoin-oip-3-becomes-executable-by-31-aug-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
+      "scraped_at": "2026-08-29T20:46:15.185Z"
     },
     {
       "id": "dd1018a40a69ae0a4355db6401373ab43c32d5055a721b96680a209335081324",
       "title": "BeincryptoReform UK Drops Crypto Sponsors: What Does Farage Want Instead?",
       "url": "https://www.tradingview.com/news/beincrypto:414f9f893094b:0-reform-uk-drops-crypto-sponsors-what-does-farage-want-instead/",
       "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
-    },
-    {
-      "id": "ab72f1a54463495aa831f06839095b47a4b3899de0899f581356cbe460dd6e12",
-      "title": "BeincryptoXRP ETFs Hit a New 2026 Record at $1.6 Billion",
-      "url": "https://www.tradingview.com/news/beincrypto:1d8ceb53e094b:0-xrp-etfs-hit-a-new-2026-record-at-1-6-billion/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
-    },
-    {
-      "id": "d7d92de6a2edfc47fdcbb13fcb074faf4f4f3a51ab23b7c3812ac4bb6a35b0b5",
-      "title": "StocktwitsZcash Beats Hyperliquid In August Rally As ZEC’s Monetary Asset Case Outshines HYPE’s Revenue Engine",
-      "url": "https://www.tradingview.com/news/stocktwits:d52032fed094b:0-zcash-beats-hyperliquid-in-august-rally-as-zec-s-monetary-asset-case-outshines-hype-s-revenue-engine/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
-    },
-    {
-      "id": "152451266a11bb4ebeb9b8245f0197f839389de68a6c0b25ed190aeccfe012b2",
-      "title": "U.TodayJapanese Tech Giant Announces 'Real SHIB Coin' Giveaway for Holders",
-      "url": "https://www.tradingview.com/news/u_today:16874bd0f094b:0-japanese-tech-giant-announces-real-shib-coin-giveaway-for-holders/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
-    },
-    {
-      "id": "cb3e6a2cce987f61a80cfc97976e3fd73f5b93583c1a051cff9a2f6789b3f72a",
-      "title": "CoinpediaRipple Plans Four-Stage Upgrade to Make XRP Ledger Quantum-Ready",
-      "url": "https://www.tradingview.com/news/coinpedia:62d6fbf17094b:0-ripple-plans-four-stage-upgrade-to-make-xrp-ledger-quantum-ready/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
-    },
-    {
-      "id": "1515c2c0565c5d5240f317ed771080aa597e3ccc562c39164968f0e1d5b0de6f",
-      "title": "CoinpediaBitcoin Price Holds $73K as Whales Accumulate — Is $100K the Next Target?",
-      "url": "https://www.tradingview.com/news/coinpedia:e68d979d2094b:0-bitcoin-price-holds-73k-as-whales-accumulate-is-100k-the-next-target/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
-    },
-    {
-      "id": "52ad992fb24b45da98656ddeb7367c2142d11b1f9973b8b490c9a22b194d5e80",
-      "title": "CoinpediaPolkadot Price Faces Sell Pressure Despite Decentralization Lead, Can It Recover Past $1?",
-      "url": "https://www.tradingview.com/news/coinpedia:70a42a7c0094b:0-polkadot-price-faces-sell-pressure-despite-decentralization-lead-can-it-recover-past-1/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-29T17:55:43.687Z"
+      "scraped_at": "2026-08-29T20:46:15.185Z"
     }
   ]
 }
