@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-30T13:18:42.753Z",
-  "total": 14,
+  "generated_at": "2026-08-30T17:47:07.777Z",
+  "total": 15,
   "items": [
+    {
+      "id": "a38adfeecd227a054d14d47e72c3060bf74911225c595d0603aa9ad561b08e53",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:d689417ce094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-30T17:47:07.773Z"
+    },
+    {
+      "id": "efce6daaf363fcd937a1e14b7b4da697e30e0d72c83c11f34f06bb046d76f44e",
+      "title": "AStocktwitsEric Trump Says ‘The Tides Have Turned’ For Bitcoin As AI And Institutions Fuel Crypto Adoption",
+      "url": "https://www.tradingview.com/news/stocktwits:b1811d419094b:0-eric-trump-says-the-tides-have-turned-for-bitcoin-as-ai-and-institutions-fuel-crypto-adoption/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-30T17:47:07.774Z"
+    },
+    {
+      "id": "d9fa0e16c660efbf019025c17b818f5b14378b18866ffc0ec76df88b1b32a02e",
+      "title": "CoinMarketCalInjective: Robinhood Tokens Are Live - 30 Aug 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b788fee39094b:0-injective-robinhood-tokens-are-live-30-aug-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-30T17:47:07.774Z"
+    },
     {
       "id": "752157682ab4a64778350c8680487f37052783fd5a4290bbff32ff59500283c2",
       "title": "StocktwitsTether CEO Says Bank For International Settlements Is ‘Rightfully Worried’ Stablecoins Expose Banking’s Fractional-Reserve Problem",
       "url": "https://www.tradingview.com/news/stocktwits:138b07c15094b:0-tether-ceo-says-bank-for-international-settlements-is-rightfully-worried-stablecoins-expose-banking-s-fractional-reserve-problem/",
       "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
+      "scraped_at": "2026-08-30T17:47:07.774Z"
+    },
+    {
+      "id": "4df5a9ea957ca28e0749f335ff5a3b9e783522b9863f111e24270f39b05e95fd",
+      "title": "BenzingaWeekend Round-Up: Ethereum's Potential, Bitcoin's Future and Japan's Blockchain Ambitions",
+      "url": "https://www.tradingview.com/news/benzinga:522c3e155094b:0-weekend-round-up-ethereum-s-potential-bitcoin-s-future-and-japan-s-blockchain-ambitions/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-30T17:47:07.774Z"
+    },
+    {
+      "id": "236b7528cb51096e1a70ed5d82df04cf0555e63eaac9d539250f412644868d3b",
+      "title": "U.TodayShiba Inu (SHIB) Loses 42% of Exchange Outflows: Is Sellout Closer?",
+      "url": "https://www.tradingview.com/news/u_today:07e884d06094b:0-shiba-inu-shib-loses-42-of-exchange-outflows-is-sellout-closer/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-30T17:47:07.774Z"
+    },
+    {
+      "id": "210377041fcb4cd1188e4f5e1f299af48bb83e2272abfa797efc659b52cd6d61",
+      "title": "CoinpediaBitcoin News: Sberbank Plans BTC, ETH, and USDT-Backed Loans in Russia",
+      "url": "https://www.tradingview.com/news/coinpedia:177356650094b:0-bitcoin-news-sberbank-plans-btc-eth-and-usdt-backed-loans-in-russia/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-30T17:47:07.774Z"
     },
     {
       "id": "2f9fde38cb313ff7264d17d46bef25bb20619c451748114bb2e48ee5bf0014fb",
       "title": "TradingViewKey facts: CRYPTO:BTCUSD Nears $80,000; Small Sellers, Big Accumulation",
       "url": "https://www.tradingview.com/news/tradingview:c91c1c9f9fd06:0-key-facts-crypto-btcusd-nears-80-000-small-sellers-big-accumulation/",
       "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
+      "scraped_at": "2026-08-30T17:47:07.774Z"
     },
     {
       "id": "b5d64e1aaf626cdd9cc6fb3807c13fa078e377ce945cd25c045079a142bd6c35",
       "title": "TradingViewKey facts: CRYPTO:ETHUSD $988M Short at $2,555; Hayes Sees 3-5x",
       "url": "https://www.tradingview.com/news/tradingview:5a282d5104c14:0-key-facts-crypto-ethusd-988m-short-at-2-555-hayes-sees-3-5x/",
       "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
+      "scraped_at": "2026-08-30T17:47:07.774Z"
     },
     {
       "id": "0e4fc057de5d223884ec4a4c65ddfcdd7286b7c105d4c3251c878ec9dd563d94",
       "title": "TradingViewKey facts: SOLUSD up ~12% this week; validators approve disinflation",
       "url": "https://www.tradingview.com/news/tradingview:63d473a59f27a:0-key-facts-solusd-up-12-this-week-validators-approve-disinflation/",
       "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
+      "scraped_at": "2026-08-30T17:47:07.774Z"
+    },
+    {
+      "id": "aab4f20f4fa83b4d7b4b09aaf3c7babefa449d2a7edf444df1e1928d13a2a205",
+      "title": "CoinpediaBritish Man Recovers 61 Bitcoin Lost for 12 Years, Now Worth $5M",
+      "url": "https://www.tradingview.com/news/coinpedia:8781881ce094b:0-british-man-recovers-61-bitcoin-lost-for-12-years-now-worth-5m/",
+      "source": "tradingview",
+      "scraped_at": "2026-08-30T17:47:07.774Z"
     },
     {
       "id": "5b271cde27f79a44fe042e89ac32120e8d9e069bf1a6a9effd4af856718da843",
       "title": "StocktwitsBitcoin Buyers Step Back In As Realized Cap Gains $4.6 Billion, Is A Bull Market Finally Here?",
       "url": "https://www.tradingview.com/news/stocktwits:02ccac825094b:0-bitcoin-buyers-step-back-in-as-realized-cap-gains-4-6-billion-is-a-bull-market-finally-here/",
       "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
+      "scraped_at": "2026-08-30T17:47:07.774Z"
     },
     {
       "id": "756afb9d0620c9a01f772150a686c24c7d4632d82120a1fd323147cb6304a0b8",
       "title": "BeincryptoTim Cook Owns Crypto But Apple Never Bought Bitcoin: Will This Change?",
       "url": "https://www.tradingview.com/news/beincrypto:402752393094b:0-tim-cook-owns-crypto-but-apple-never-bought-bitcoin-will-this-change/",
       "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
+      "scraped_at": "2026-08-30T17:47:07.774Z"
     },
     {
-      "id": "6db460ed5e9609f6dbc100982e8036c120a84a69bd9b9e32f7f57e9f2762ed6c",
-      "title": "CoinpediaRipple News: XRP Surges 46% Versus BTC’s 21% As Expert Points to New Institutional Investor Class",
-      "url": "https://www.tradingview.com/news/coinpedia:780dc0f1b094b:0-ripple-news-xrp-surges-46-versus-btc-s-21-as-expert-points-to-new-institutional-investor-class/",
+      "id": "e9c5064a62166093d01d1bac5b29a5420193e2e4f8891ea7db3e12b6ce8ddb17",
+      "title": "U.TodayBitwise CEO Drops Crucial XRP Reality Check as Solana Fund Crosses $1 Billion Threshold",
+      "url": "https://www.tradingview.com/news/u_today:e2ccf31bc094b:0-bitwise-ceo-drops-crucial-xrp-reality-check-as-solana-fund-crosses-1-billion-threshold/",
       "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
+      "scraped_at": "2026-08-30T17:47:07.774Z"
     },
     {
-      "id": "a604d7907b090235868c04b20af9ca3b3f8a7d0a6e1d6801df9d5dcc39d31730",
-      "title": "StocktwitsLawrence Lepard Calls Bitcoin A ‘Liquidity Smoke Alarm,’ Explains Why It’s Lagging Despite M2 Growth",
-      "url": "https://www.tradingview.com/news/stocktwits:91a4c30a8094b:0-lawrence-lepard-calls-bitcoin-a-liquidity-smoke-alarm-explains-why-it-s-lagging-despite-m2-growth/",
+      "id": "77e4e383b457186e432f7a9e0d103b01d8d7c22190b94124b81bc7edc636d41e",
+      "title": "CoinpediaXRP News: CEO Garlinghouse Says Ripple Revenue Set To More Than Double",
+      "url": "https://www.tradingview.com/news/coinpedia:3402ba063094b:0-xrp-news-ceo-garlinghouse-says-ripple-revenue-set-to-more-than-double/",
       "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
-    },
-    {
-      "id": "99f2f356176ee17f0be4012bb223bbd38528aa8acccb53a409419d2747135629",
-      "title": "CointelegraphRussia’s Sber eyes USDT loans, questions digital ruble demand",
-      "url": "https://www.tradingview.com/news/cointelegraph:2160b7e9f094b:0-russia-s-sber-eyes-usdt-loans-questions-digital-ruble-demand/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
-    },
-    {
-      "id": "35d6c3aaeafd86d2417caac375e34367eaa6fa66734249fe7a6d2b4794405401",
-      "title": "StocktwitsRipple CEO Says Companies Blaming AI For Layoffs Were Already ‘Bloated’ As His Own Firm's Revenue Set To More Than Double",
-      "url": "https://www.tradingview.com/news/stocktwits:5a7a9f870094b:0-ripple-ceo-says-companies-blaming-ai-for-layoffs-were-already-bloated-as-his-own-firm-s-revenue-set-to-more-than-double/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
-    },
-    {
-      "id": "f18ea821e9e3206ff70669e062cef10894da326d36a57131c38389cc099866ef",
-      "title": "CointelegraphReal Trump Coins denies launching GOLD token, blames ‘bad actors’",
-      "url": "https://www.tradingview.com/news/cointelegraph:a92eae2cd094b:0-real-trump-coins-denies-launching-gold-token-blames-bad-actors/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
-    },
-    {
-      "id": "08f25621b8d3ed487466c20f7241630ec59e24501b78dffff6017a70666cab90",
-      "title": "CoinMarketCalSoSoValue: Holders approve SIP-3 allocation - 30 Aug 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:cabfa0ca2094b:0-sosovalue-holders-approve-sip-3-allocation-30-aug-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
-    },
-    {
-      "id": "265339d691558dde1eb5f1a0c50d12bd2a9a4b3ce56c3cc23e579d0785b943b5",
-      "title": "U.Today503,364% Gain: BTC From 2011 Moves After 15 Years",
-      "url": "https://www.tradingview.com/news/u_today:6c45fdf19094b:0-503-364-gain-btc-from-2011-moves-after-15-years/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
-    },
-    {
-      "id": "8df0bb4e548a078f83e116cde81003f7c9c8878b48d7a89155b6d8aa0ed8914e",
-      "title": "BenzingaCoinbase CEO Says Tokenized Assets Could Do For Finance What the iPhone Did For Tech: ‘An Entirely New Wave of Companies’",
-      "url": "https://www.tradingview.com/news/benzinga:4d3f175fb094b:0-coinbase-ceo-says-tokenized-assets-could-do-for-finance-what-the-iphone-did-for-tech-an-entirely-new-wave-of-companies/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-30T13:18:42.750Z"
+      "scraped_at": "2026-08-30T17:47:07.774Z"
     }
   ]
 }
