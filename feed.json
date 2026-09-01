@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-08-31T21:06:31.462Z",
-  "total": 14,
+  "generated_at": "2026-09-01T00:48:15.069Z",
+  "total": 15,
   "items": [
+    {
+      "id": "dedd577d028532c1eb73b3ae692a8464314a6c583a3ec7ca3c14dec244a956c9",
+      "title": "BusinessWireCoincheck Group and DFNS Announce Strategic Partnership to Bring Institutional-Grade Digital Asset Custody to Japan",
+      "url": "https://www.tradingview.com/news/business_wire:58134274889b0:0-coincheck-group-and-dfns-announce-strategic-partnership-to-bring-institutional-grade-digital-asset-custody-to-japan/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-01T00:48:15.065Z"
+    },
+    {
+      "id": "25ba9196208fc23e0f0c42714d9fb3badc05790238206aceb72c851164d192fa",
+      "title": "The BlockRobinhood Chain hits record $989 million in daily DEX volume as TVL grows",
+      "url": "https://www.tradingview.com/news/the_block:ba4bceb66094b:0-robinhood-chain-hits-record-989-million-in-daily-dex-volume-as-tvl-grows/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-01T00:48:15.065Z"
+    },
+    {
+      "id": "64a006121f2e5a6f5c46cca295d1c2e69efe833dd71adf0e5315eb46dc5ee5f6",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:49f1655bc094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-01T00:48:15.065Z"
+    },
     {
       "id": "eb10d90b8ba22a330433815e114494b2d65f590854f063fdea41994e105272cd",
       "title": "CPR NewswireCango Inc. Reports Second Quarter 2026 Unaudited Financial Results",
       "url": "https://www.tradingview.com/news/prnewswire:a8ae003d59ba7:0-cango-inc-reports-second-quarter-2026-unaudited-financial-results/",
       "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
+      "scraped_at": "2026-09-01T00:48:15.065Z"
+    },
+    {
+      "id": "6ff25ec1da38aba230662511fb4facf20e5997ee5eea3bd3b79cf9d5b054e9f5",
+      "title": "BeincryptoWall Street Crypto Treasuries Are Buying Bitcoin and Ethereum Again. Why?",
+      "url": "https://www.tradingview.com/news/beincrypto:dfee22b82094b:0-wall-street-crypto-treasuries-are-buying-bitcoin-and-ethereum-again-why/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-01T00:48:15.065Z"
     },
     {
       "id": "71a0184ab09f021664472dd4e5d6bf586a2ec717712919eacf8dd817f7e84819",
       "title": "The BlockSolana fees hit record as validators double pace of inflation cuts",
       "url": "https://www.tradingview.com/news/the_block:b1e6650cc094b:0-solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts/",
       "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
+      "scraped_at": "2026-09-01T00:48:15.065Z"
     },
     {
       "id": "41ae08a818c042085b7500407c57b5416afc7c7d452b2c6338185117bc40b4df",
       "title": "GlobeNewswireOxbridge Re to Attend Rendez-Vous de Septembre in Monte-Carlo as Company Advances Reinsurance, Tokenization and AI Infrastructure Strategy",
       "url": "https://www.tradingview.com/news/globenewswire:c34c0b4f8094b:0-oxbridge-re-to-attend-rendez-vous-de-septembre-in-monte-carlo-as-company-advances-reinsurance-tokenization-and-ai-infrastructure-strategy/",
       "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
+      "scraped_at": "2026-09-01T00:48:15.066Z"
     },
     {
       "id": "51656803b7f87120abf4bc1387d792ffe3eb10c69c97864fabe22a3e0a85d2bb",
       "title": "ReutersBitdeer AI Announces Sell-Out Of Its 9.5MW A102 Malaysia Data Center",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44S0JC:0-bitdeer-ai-announces-sell-out-of-its-9-5mw-a102-malaysia-data-center/",
       "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
+      "scraped_at": "2026-09-01T00:48:15.066Z"
+    },
+    {
+      "id": "45abceeef923b0deeb6595c0786abe477de2c088d52cf711d06530dec47af9a5",
+      "title": "BenzingaBitcoin Could Hit $1M if AI Agents Fuel Tokenization Demand, Macro Expert Says",
+      "url": "https://www.tradingview.com/news/benzinga:c4b87557e094b:0-bitcoin-could-hit-1m-if-ai-agents-fuel-tokenization-demand-macro-expert-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-01T00:48:15.066Z"
+    },
+    {
+      "id": "5e03580450ba47b0ad9e5978e1537d5435515a26aed4512402049f729d057a36",
+      "title": "BenzingaXRP Faces $1.55 Resistance as Ripple Prepares XRPL for Quantum Threat",
+      "url": "https://www.tradingview.com/news/benzinga:b68cbf9a5094b:0-xrp-faces-1-55-resistance-as-ripple-prepares-xrpl-for-quantum-threat/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-01T00:48:15.066Z"
     },
     {
       "id": "e7d96f052145d43ea9b5fe9f5d504f9fc215911a57abb9181a06b49ddfd9247d",
       "title": "Finance MagnatesICE Taps tZERO to Help Build NYSE Tokenized Securities Infrastructure",
       "url": "https://www.tradingview.com/news/financemagnates:21ac97ef2094b:0-ice-taps-tzero-to-help-build-nyse-tokenized-securities-infrastructure/",
       "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
+      "scraped_at": "2026-09-01T00:48:15.066Z"
+    },
+    {
+      "id": "9e93baf0896d86f87865de628e84a6ad4643779a9556aa4ffbbd47fdd4ae948a",
+      "title": "CoinpediaBitcoin Price Forecast: What Top 3 Models Predict for September After $78K Close",
+      "url": "https://www.tradingview.com/news/coinpedia:e4c30abfc094b:0-bitcoin-price-forecast-what-top-3-models-predict-for-september-after-78k-close/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-01T00:48:15.066Z"
     },
     {
       "id": "dc5d92e427b6bbe37b08c330a9f752ff24dce7ca8b562536741d082c2497ff60",
       "title": "CoindarYield Guild Games to Hold Live Stream on Discord on September 2nd",
       "url": "https://www.tradingview.com/news/coindar:1f4a2daeb094b:0-yield-guild-games-to-hold-live-stream-on-discord-on-september-2nd/",
       "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
+      "scraped_at": "2026-09-01T00:48:15.066Z"
     },
     {
       "id": "bd2573271bbbe01be86e6bad4ef180e2914141cb45ffd6975706285e23a3a7c0",
       "title": "BenzingaBitcoin, Ethereum, XRP, Dogecoin Trade Sideways After Strategy's BTC Purchase",
       "url": "https://www.tradingview.com/news/benzinga:d422f5f4c094b:0-bitcoin-ethereum-xrp-dogecoin-trade-sideways-after-strategy-s-btc-purchase/",
       "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
+      "scraped_at": "2026-09-01T00:48:15.066Z"
     },
     {
       "id": "a7ffb45b1e4a389297f712e08d198a1e41bf94049ecdac9516c6d2b6013ee729",
       "title": "CoindariExec RLC to Participate in Common S3nse in Amsterdam on September 4th",
       "url": "https://www.tradingview.com/news/coindar:38285f9c0094b:0-iexec-rlc-to-participate-in-common-s3nse-in-amsterdam-on-september-4th/",
       "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
-    },
-    {
-      "id": "5c98c1b5d05df33a792f445f74d83991d2e7e4867d130142ac70dd411624793a",
-      "title": "CoindarTHORChain to Hold Live Stream on Riverside on September 5th",
-      "url": "https://www.tradingview.com/news/coindar:c83145250094b:0-thorchain-to-hold-live-stream-on-riverside-on-september-5th/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
-    },
-    {
-      "id": "1ab98cfd7eb64d4532a5c6c49c5948c5b0fb6f000a5cf594fefbd3d387b41ab3",
-      "title": "CoinpediaXRP News Today: Goldman Sachs Tops Wall Street XRP ETF Holders",
-      "url": "https://www.tradingview.com/news/coinpedia:c5d3c1d90094b:0-xrp-news-today-goldman-sachs-tops-wall-street-xrp-etf-holders/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
-    },
-    {
-      "id": "7dbba848105747e662da916f49e658205544db7cfbe40fc6c8207f88ecd52458",
-      "title": "BenzingaMetaplanet CEO Says Bitcoin's Next Cycle Could Belong To Asia: 'The Bottom Is In'",
-      "url": "https://www.tradingview.com/news/benzinga:e306d37cb094b:0-metaplanet-ceo-says-bitcoin-s-next-cycle-could-belong-to-asia-the-bottom-is-in/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
-    },
-    {
-      "id": "2790f7c08979959e0210d0519e1a2eeee1d6d65512032a696d18ddffda28a506",
-      "title": "MFN by Modular FinanceValuno Group publishes year-end report for '25/26",
-      "url": "https://www.tradingview.com/news/modular_finance:27f8ca075baab:0-valuno-group-publishes-year-end-report-for-25-26/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
-    },
-    {
-      "id": "f90b984171d975ea1a9d48cdf5fc05f62481bb8526228a9fe046b6fdb649ce7d",
-      "title": "The BlockHyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
-      "url": "https://www.tradingview.com/news/the_block:53026d848094b:0-hyperliquid-seeks-us-foothold-through-kraken-parent-payward-in-crypto-perpetuals-deal-bloomberg/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
-    },
-    {
-      "id": "a0c94b85ba48a776c6f82e12548cb74babf70b0c2982276f06f94e681bb91b1d",
-      "title": "The BlockOpenSea adds Solana NFT trading more than four years after initial beta",
-      "url": "https://www.tradingview.com/news/the_block:b10aef5cc094b:0-opensea-adds-solana-nft-trading-more-than-four-years-after-initial-beta/",
-      "source": "tradingview",
-      "scraped_at": "2026-08-31T21:06:31.458Z"
+      "scraped_at": "2026-09-01T00:48:15.066Z"
     }
   ]
 }
