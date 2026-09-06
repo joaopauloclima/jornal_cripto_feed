@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-06T11:22:27.535Z",
+  "generated_at": "2026-09-06T14:25:22.226Z",
   "total": 15,
   "items": [
+    {
+      "id": "5938492454a09829b78d5c03af81f65cd841fd6ff839e88851b42e5bfe076e6f",
+      "title": "CoinMarketCalOriginTrail: OT-RFC-27 Proposes Paid Inference for the Decentralized Knowledge Graph - 06 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:45d7074d4094b:0-origintrail-ot-rfc-27-proposes-paid-inference-for-the-decentralized-knowledge-graph-06-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.222Z"
+    },
+    {
+      "id": "cc5ed7caf664b57e793c4d0cadbc3a0f2f8d824b84f1d99d61320d30b31cd20c",
+      "title": "Crypto BriefingAltcoins surpass Bitcoin in open interest for the first time since December 2024",
+      "url": "https://www.tradingview.com/news/cryptobriefing:c1b787170094b:0-altcoins-surpass-bitcoin-in-open-interest-for-the-first-time-since-december-2024/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.222Z"
+    },
+    {
+      "id": "4ab94a4bb57fd28b09e373711d7311fed4f9e5130200eb6878c4114fe1f846c9",
+      "title": "StocktwitsRobinhood Chain Now Earns 240x The Fees Of Arbitrum Itself - And ARB Is Up 45% On The Cut It Gets",
+      "url": "https://www.tradingview.com/news/stocktwits:a621f57d3094b:0-robinhood-chain-now-earns-240x-the-fees-of-arbitrum-itself-and-arb-is-up-45-on-the-cut-it-gets/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.222Z"
+    },
+    {
+      "id": "4ae703c7e496cf8f180b5bafc2970e64495b121240037d2ad30e02dbee882285",
+      "title": "Crypto BriefingBitcoin moves 600 BTC after 16 years of dormancy",
+      "url": "https://www.tradingview.com/news/cryptobriefing:7494d1a84094b:0-bitcoin-moves-600-btc-after-16-years-of-dormancy/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.222Z"
+    },
+    {
+      "id": "9c40d64dd88b99ac8641d599e312de191862fd6e1e7d82da723e201e17dd21fc",
+      "title": "Crypto BriefingZcash leads $212M in crypto liquidations as price jumps 15%",
+      "url": "https://www.tradingview.com/news/cryptobriefing:8d1067598094b:0-zcash-leads-212m-in-crypto-liquidations-as-price-jumps-15/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.222Z"
+    },
+    {
+      "id": "b61f499fee75f5028ea084118cd3f5451664c6e3a4ddb7b82f5ce4355b637019",
+      "title": "CointelegraphSatoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+      "url": "https://www.tradingview.com/news/cointelegraph:946d7e281094b:0-satoshi-era-bitcoin-wakes-after-16-years-of-dormancy-as-600-btc-moves/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.222Z"
+    },
+    {
+      "id": "80ff5dadd506b2b93299bf44fcf5e6c6fd87a2c1ddc89c97584990cfe059ca8d",
+      "title": "BeincryptoNew Ethereum Upgrade Could Overhaul Crypto Transactions and Fees",
+      "url": "https://www.tradingview.com/news/beincrypto:e6c25bd2e094b:0-new-ethereum-upgrade-could-overhaul-crypto-transactions-and-fees/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.222Z"
+    },
+    {
+      "id": "2ac8bb78de71f6d814c7a53a470e3664cf33df2e88491e6cb3a93f0c1edca049",
+      "title": "StocktwitsHYPE Hits Record High As Jane Street, UBS Among 30 Firms With $75M In ETF Exposure",
+      "url": "https://www.tradingview.com/news/stocktwits:d04c31779094b:0-hype-hits-record-high-as-jane-street-ubs-among-30-firms-with-75m-in-etf-exposure/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.223Z"
+    },
+    {
+      "id": "a65c64d77b95f080fc2fe8266f7287dbc9d69d5376a71cd12605e76db1c3d095",
+      "title": "TradingViewKey facts: BTCUSD STH SOPR >1; IMF: Donations Funded; El Salvador Clarifies Chivo Move",
+      "url": "https://www.tradingview.com/news/tradingview:01f5d08ec422b:0-key-facts-btcusd-sth-sopr-1-imf-donations-funded-el-salvador-clarifies-chivo-move/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.223Z"
+    },
+    {
+      "id": "a1a24dcd4e07d1267baf974e1a018799cfeb117b85435fd471a6a60d9234e38c",
+      "title": "Crypto BriefingZcash surges over 6,300% from 2024 lows as first US spot ETF fuels institutional frenzy",
+      "url": "https://www.tradingview.com/news/cryptobriefing:fac5dd31d094b:0-zcash-surges-over-6-300-from-2024-lows-as-first-us-spot-etf-fuels-institutional-frenzy/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.223Z"
+    },
+    {
+      "id": "b682cf3946c8fe6f8703a80d3d9eee8ac54bae2b8ec68bb59fd78e1ebbe246d2",
+      "title": "Binance NewsMachi Big Brother Address Holds $146 Million in BTC and ETH Longs",
+      "url": "https://www.tradingview.com/news/binance_news:4ee196b28094b:0-machi-big-brother-address-holds-146-million-in-btc-and-eth-longs/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.223Z"
+    },
+    {
+      "id": "a1f97be97629cbfab2d058fc818f0db067b78f3659fe04626939c9af72b0efc5",
+      "title": "Binance NewsSolana DEX Volume Tops $1.96 Billion in 24 Hours, Reclaims First Place",
+      "url": "https://www.tradingview.com/news/binance_news:9638477d1094b:0-solana-dex-volume-tops-1-96-billion-in-24-hours-reclaims-first-place/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-06T14:25:22.223Z"
+    },
     {
       "id": "2ad21015f145d945c73835d1d8e3f92df7808b9468735176c3c75486a5a106cf",
       "title": "StocktwitsBitcoin-Gold Correlation Hits Nearly Six-Year High As BTC Breaks From Tech Stocks",
       "url": "https://www.tradingview.com/news/stocktwits:c3b8ace99094b:0-bitcoin-gold-correlation-hits-nearly-six-year-high-as-btc-breaks-from-tech-stocks/",
       "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
+      "scraped_at": "2026-09-06T14:25:22.223Z"
     },
     {
-      "id": "57327a496d2e93873e61a852d3a444649d8d99a59990b14ca323ee3613010620",
-      "title": "CointelegraphTether-backed Orionx to shut down after audit flags $7M custody gap",
-      "url": "https://www.tradingview.com/news/cointelegraph:179af9887094b:0-tether-backed-orionx-to-shut-down-after-audit-flags-7m-custody-gap/",
+      "id": "5502f85cbcef51809a48c389088a74d4a7ef6b925b8c23f55c57136f40e3b762",
+      "title": "Binance NewsOffchain Labs Co-Founder Says ARB Unlocks Near Completion, DAO Holds 2.84 Billion Tokens",
+      "url": "https://www.tradingview.com/news/binance_news:1b3437031094b:0-offchain-labs-co-founder-says-arb-unlocks-near-completion-dao-holds-2-84-billion-tokens/",
       "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
+      "scraped_at": "2026-09-06T14:25:22.223Z"
     },
     {
-      "id": "94d17ba3a589a82bd0aac8d9bafd58c097e649257b43ab6c2084bd0271c1799d",
-      "title": "StocktwitsZcash Flips HYPE As $2.4B Open Interest Raises The Stakes For Its Rally",
-      "url": "https://www.tradingview.com/news/stocktwits:209e42386094b:0-zcash-flips-hype-as-2-4b-open-interest-raises-the-stakes-for-its-rally/",
+      "id": "3ed571f4d3771bc0def155166fdead28d4bd22faa4ddaaccea4b8019283effc4",
+      "title": "Binance NewsBalancer Suspected of V1 Attack as Attacker Moves Funds",
+      "url": "https://www.tradingview.com/news/binance_news:7a9a8c46c094b:0-balancer-suspected-of-v1-attack-as-attacker-moves-funds/",
       "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "8eb0331429b0f283066890b95cbc102db6c212f49421ab77c46baec61d719cd5",
-      "title": "CoinMarketCalOnyxcoin: OIP-4 Becomes Executable for Chain Technology Acquisition - By 06 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:985bcb956094b:0-onyxcoin-oip-4-becomes-executable-for-chain-technology-acquisition-by-06-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "0ab3788773c40f48d206742caad6788c13a60b4fcd697e86ed758bfbf8899762",
-      "title": "CoinMarketCalMorpho: DAO Enables Vaults to Allocate to Midnight Markets - Q4 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:9ccdf6d24094b:0-morpho-dao-enables-vaults-to-allocate-to-midnight-markets-q4-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "ed4dfc23689bd3ce187cd504d01fc7d33182f709926716cffa45180900a010fe",
-      "title": "InvezzCrypto price predictions: Dogecoin, XRP, Venice Token (VVV)",
-      "url": "https://www.tradingview.com/news/invezz:8843c19fd094b:0-crypto-price-predictions-dogecoin-xrp-venice-token-vvv/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "acf19522b98768aaeaf9450b2ad627f08756a7aead4ec6de38d73e6e38253503",
-      "title": "Binance NewsPolymarket Bitcoin September 6 Breakout Bet Sees Sharp Drop in 80,000 Yes Odds",
-      "url": "https://www.tradingview.com/news/binance_news:5de10c960094b:0-polymarket-bitcoin-september-6-breakout-bet-sees-sharp-drop-in-80-000-yes-odds/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "7b30c3c54b210a4fcf389a685d09dabb03f126fa0508f1a3b7b41666a65d12c5",
-      "title": "Binance NewsBitcoin Miner Holdings Rise for First Time in Two Weeks as Hashrate and Puell Multiple Increase",
-      "url": "https://www.tradingview.com/news/binance_news:2c6acb60b094b:0-bitcoin-miner-holdings-rise-for-first-time-in-two-weeks-as-hashrate-and-puell-multiple-increase/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "04194b5e02d1a3871a92f15a1a6122bd44cd9b86faf8754829db9153ec8cfc44",
-      "title": "InvezzZcash price prediction: Here’s why ZEC token has gone parabolic",
-      "url": "https://www.tradingview.com/news/invezz:57e62bdce094b:0-zcash-price-prediction-here-s-why-zec-token-has-gone-parabolic/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "d34a90fba92d8a8d92b3a87e6cf692e464f01a7afe64939bef4490d009589730",
-      "title": "Binance NewsBinance Alpha to Feature Canopy (CNPY) With Airdrop Claim Available for Eligible Users",
-      "url": "https://www.tradingview.com/news/binance_news:5645837b3094b:0-binance-alpha-to-feature-canopy-cnpy-with-airdrop-claim-available-for-eligible-users/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "38eb537db5905416a92d69cfacb6e774a01b06992edc1468601c906e2f74042e",
-      "title": "U.TodayAlex Jones Issues Alarming Warning to XRP Holders",
-      "url": "https://www.tradingview.com/news/u_today:5463f5219094b:0-alex-jones-issues-alarming-warning-to-xrp-holders/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "564a23466cba4d7b7524c42b07cb06b331b90e0b51c38865a03c01759b8803c3",
-      "title": "Binance NewsSolana Address Realizes $1.57 Million Profit on ZCAT Holdings",
-      "url": "https://www.tradingview.com/news/binance_news:b8d7c65c3094b:0-solana-address-realizes-1-57-million-profit-on-zcat-holdings/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "10fde1df21ef17e2e7acb535922f4204dbd878f32492018d3d9e3c2510448fcd",
-      "title": "InvezzARB price prediction: How Robinhood Chain growth is boosting Arbitrum",
-      "url": "https://www.tradingview.com/news/invezz:2636b90c2094b:0-arb-price-prediction-how-robinhood-chain-growth-is-boosting-arbitrum/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "e0b262526571984d8b950e48fbc4a797995969ed70d6832e6bf164de5a03dbd8",
-      "title": "Binance NewsBinance Futures to Launch PONSUSDT and 哈基米USDT Perpetual Contracts",
-      "url": "https://www.tradingview.com/news/binance_news:f91220ee2094b:0-binance-futures-to-launch-ponsusdt-and-usdt-perpetual-contracts/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
-    },
-    {
-      "id": "362deebfd4b2d4e231e1b746a61df6a919d586589f9a89251cfa58e1ea42c1e7",
-      "title": "Binance NewsPons Says Its Tokens Accounted for 73.5% of Robinhood Chain Launchpad Volume",
-      "url": "https://www.tradingview.com/news/binance_news:0af5407e6094b:0-pons-says-its-tokens-accounted-for-73-5-of-robinhood-chain-launchpad-volume/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-06T11:22:27.532Z"
+      "scraped_at": "2026-09-06T14:25:22.223Z"
     }
   ]
 }
