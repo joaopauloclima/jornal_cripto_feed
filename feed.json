@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-08T21:26:58.481Z",
+  "generated_at": "2026-09-08T23:41:01.772Z",
   "total": 15,
   "items": [
+    {
+      "id": "6384c972511aed12abcf1f0e64c5cb4218ce2e170056ec79f92bac65c969d586",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:ea6e36917094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.768Z"
+    },
+    {
+      "id": "260fa108da37649873ce67d917aa67d8181f22066062e458221dea370f6ebab9",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:59c26d3b6094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.768Z"
+    },
+    {
+      "id": "103396d92b4f315359072cec1ee9fbf4cb714659640ca09e1e779d2839b312b6",
+      "title": "CoinMarketCalPirate Chain: Ironwood Hardfork Changes Network Consensus Rules - 03 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:717f06b83094b:0-pirate-chain-ironwood-hardfork-changes-network-consensus-rules-03-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.768Z"
+    },
+    {
+      "id": "43d5f272cc7510770f9f0205882109d792f033c0073cddc5cddc100087a00455",
+      "title": "CoinMarketCalCasper Network: AstralBeam Cross-Chain Bridge Goes Live on Mainnet - Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:ef72246fd094b:0-casper-network-astralbeam-cross-chain-bridge-goes-live-on-mainnet-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.768Z"
+    },
+    {
+      "id": "a27a63ca7b8bf23b712ed75238a56a10ea0f31580112cad856aa013529e5e609",
+      "title": "CoinMarketCalStacks: Institutional BTC staking goes live with UTXO Management as first staker - By 10 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b2a9657ca094b:0-stacks-institutional-btc-staking-goes-live-with-utxo-management-as-first-staker-by-10-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.768Z"
+    },
+    {
+      "id": "032ec8a8054c97621b73c9dd2f653b20e50ad129bc15a0ca0049021f3f865423",
+      "title": "Dow Jones NewswiresBlock Applies to Establish Builders Bank & Trust — Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20260908009453:0-block-applies-to-establish-builders-bank-trust-update/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.768Z"
+    },
+    {
+      "id": "3f0d61af8626b2baaee04e31d46149bfe61c0b6f44cf695f7a3e773caa725a23",
+      "title": "The BlockPons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles",
+      "url": "https://www.tradingview.com/news/the_block:4285bb16c094b:0-pons-propels-robinhood-chain-fees-to-record-6-million-in-daily-fees-as-dex-volume-doubles/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.768Z"
+    },
+    {
+      "id": "cd47775aa75d10ae6ae262513b2d1b844d5e895099827fb3d77ea0b4cad1862b",
+      "title": "BenzingaBitcoin Braces For CPI as Oil Nears $100 and ETF Inflows Hit $3.8 Billion",
+      "url": "https://www.tradingview.com/news/benzinga:71ae84e6e094b:0-bitcoin-braces-for-cpi-as-oil-nears-100-and-etf-inflows-hit-3-8-billion/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.768Z"
+    },
+    {
+      "id": "adbab48deecbd14c5f8d2479a5121624ab1b758d0216a4f69cbd7553a1f01f8c",
+      "title": "Crypto BriefingPolkadot leads market rotation into legacy layer-1 tokens as Fed rate hike bets grow",
+      "url": "https://www.tradingview.com/news/cryptobriefing:c3d5acf02094b:0-polkadot-leads-market-rotation-into-legacy-layer-1-tokens-as-fed-rate-hike-bets-grow/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.768Z"
+    },
+    {
+      "id": "3920460e5ed708e1f898217f3c5ead30c45c05e858f627123b5a12dc265ed95e",
+      "title": "CointelegraphNew York town weighs crypto mining and AI data center ban",
+      "url": "https://www.tradingview.com/news/cointelegraph:d002e22fa094b:0-new-york-town-weighs-crypto-mining-and-ai-data-center-ban/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.769Z"
+    },
+    {
+      "id": "0ebd50b00348b75e32614d1d2dbe400b24768921ef20927be74e67dc1297e1a3",
+      "title": "CoindarEthereum Classic to Host Community Call on September 11th",
+      "url": "https://www.tradingview.com/news/coindar:520f952e3094b:0-ethereum-classic-to-host-community-call-on-september-11th/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-08T23:41:01.769Z"
+    },
     {
       "id": "ee8b0a4a24dc916520443189b2e2636544c82c588282a4a814299dd98c4d6f2a",
       "title": "CoindarCardano to Participate in Crypto Expo Dubai in Dubai on September 9th",
       "url": "https://www.tradingview.com/news/coindar:c56c98fbf094b:0-cardano-to-participate-in-crypto-expo-dubai-in-dubai-on-september-9th/",
       "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
+      "scraped_at": "2026-09-08T23:41:01.769Z"
     },
     {
       "id": "33c0da44cc088f14418cfbdfed9e38c00011f46594f71e60aac974482fda9c1b",
       "title": "CointelegraphFranklin Templeton digital asset veteran takes helm at StablecoinX",
       "url": "https://www.tradingview.com/news/cointelegraph:f62ab2b25094b:0-franklin-templeton-digital-asset-veteran-takes-helm-at-stablecoinx/",
       "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
+      "scraped_at": "2026-09-08T23:41:01.769Z"
     },
     {
       "id": "4fffbf73d9351c2b2191ef2f90c5c91aa220ddff7febf0a64defc90b0e83f589",
       "title": "CoindarCosmos Hub to Participate in Finovate Fall on September 10th",
       "url": "https://www.tradingview.com/news/coindar:c04922f83094b:0-cosmos-hub-to-participate-in-finovate-fall-on-september-10th/",
       "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
+      "scraped_at": "2026-09-08T23:41:01.769Z"
     },
     {
-      "id": "630915edbb2a675cacd1ccd99291159891a11e0531a36ffd064a70a97556e445",
-      "title": "CoindarLCX to Participate in 13th Annual Wyoming Global Technology Summit in Jackson Hole on September 10th",
-      "url": "https://www.tradingview.com/news/coindar:84392046a094b:0-lcx-to-participate-in-13th-annual-wyoming-global-technology-summit-in-jackson-hole-on-september-10th/",
+      "id": "ed6eb0f5bab381894b4e71e57dd2ed42f4f804eba16d2acbb710464fa13ff81b",
+      "title": "Finance MagnatesArchax Gains US Broker-Dealer Entry Through tZERO Infrastructure",
+      "url": "https://www.tradingview.com/news/financemagnates:a0082f92d094b:0-archax-gains-us-broker-dealer-entry-through-tzero-infrastructure/",
       "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "b6e96b1db32aa3fa39dbe88ec08b97adc3452ada1eef2ce092b6621750a9e5eb",
-      "title": "Dow Jones NewswiresBlock Applies to Establish Builders Bank & Trust",
-      "url": "https://www.tradingview.com/news/DJN_DN20260908008746:0-block-applies-to-establish-builders-bank-trust/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "047fb596929f638e0c5d78a2ddbc39fb986deb2c51afc88008a4ccf763d14dac",
-      "title": "Crypto BriefingCleanSpark produces 593 Bitcoins in August, holds 13,703 BTC in treasury",
-      "url": "https://www.tradingview.com/news/cryptobriefing:ec6f52816094b:0-cleanspark-produces-593-bitcoins-in-august-holds-13-703-btc-in-treasury/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "d9159382fa2cc1c28d490241de817c35485caf0d062616649e947813e68fab1d",
-      "title": "BenzingaThe US Is 'Long-Term Insolvent,' Says Macro Guru—And Bitcoin Will Benefit",
-      "url": "https://www.tradingview.com/news/benzinga:36ac1ddc9094b:0-the-us-is-long-term-insolvent-says-macro-guru-and-bitcoin-will-benefit/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "f1dcf4f043d0cbd82461a27e552ecfa2fc6fa9ce07deac3a1017f97649b3e949",
-      "title": "PR NewswireCleanSpark Releases August 2026 Operational Update",
-      "url": "https://www.tradingview.com/news/prnewswire:106957b291de8:0-cleanspark-releases-august-2026-operational-update/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "6f96abc7460635cd2449df17017025a61386dea711b35049a73fcadf7fb34fed",
-      "title": "BenzingaBitcoin, Ethereum, Dogecoin Flat as XRP Jumps 2%: Traders Call BTC Pullback 'Normal'",
-      "url": "https://www.tradingview.com/news/benzinga:17f991efd094b:0-bitcoin-ethereum-dogecoin-flat-as-xrp-jumps-2-traders-call-btc-pullback-normal/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "f9961e4a0bb8611d1abbea1ff5cff9d01e126cb2937dcfcd5341b736bc6b86b3",
-      "title": "The BlockHyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high",
-      "url": "https://www.tradingview.com/news/the_block:d78cca976094b:0-hyperliquid-open-interest-climbs-to-14-3-billion-as-hype-hits-all-time-high/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "57087f1ec3ebef40bb693201c4f68f12c98a999596a2966384e597a84cad0c96",
-      "title": "BusinessWireBlock Applies to Establish Builders Bank, a National Trust Bank",
-      "url": "https://www.tradingview.com/news/business_wire:806a510af719b:0-block-applies-to-establish-builders-bank-a-national-trust-bank/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "5000986f3038bf6052bdcdf80e67b77c956164c1811edea85999541c41739986",
-      "title": "Crypto BriefingBitcoin hashrate rebounds from triple bottom at 850M TH/s",
-      "url": "https://www.tradingview.com/news/cryptobriefing:6525ebf2c094b:0-bitcoin-hashrate-rebounds-from-triple-bottom-at-850m-th-s/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "12e746d17c8d5c0db81cbc141b57db79ec8024ab7757414032cf1adf643d3de0",
-      "title": "CoindarCelo to Participate in Merkle Science Meet in Washington, D.C. on September 8th",
-      "url": "https://www.tradingview.com/news/coindar:9a663b1e9094b:0-celo-to-participate-in-merkle-science-meet-in-washington-d-c-on-september-8th/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "af0329d844e867213426cad2d614cc8f86caac3bc61206520734bba3c20f8d2b",
-      "title": "FinanceWireTetherMax Names South Korean Actor Yun Si Yun as Brand Ambassador as It Expands Across Asia",
-      "url": "https://www.tradingview.com/news/financewire:b526101f7094b:0-tethermax-names-south-korean-actor-yun-si-yun-as-brand-ambassador-as-it-expands-across-asia/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
-    },
-    {
-      "id": "28c5267bf40d9dd4e8bfee59833a8d73bb195e4554e039ee3e126ff0ff9dae1f",
-      "title": "ReutersKraken Says Investigating Reduced Funding Limits & Crypto Deposit Delays For Some Clients",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4500GC:0-kraken-says-investigating-reduced-funding-limits-crypto-deposit-delays-for-some-clients/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-08T21:26:58.478Z"
+      "scraped_at": "2026-09-08T23:41:01.769Z"
     }
   ]
 }
