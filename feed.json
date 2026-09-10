@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-10T20:41:13.796Z",
+  "generated_at": "2026-09-10T22:47:45.084Z",
   "total": 15,
   "items": [
+    {
+      "id": "8a7341028b73014c246ddd4ed2b79322b146262159013c41db8fcc6c9af8caf2",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260910009928_20260910009931:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T22:47:45.081Z"
+    },
+    {
+      "id": "78ed5cae932b94ecc104333bc9c4f0cc123fa161b8270150034aa9233a11b275",
+      "title": "BenzingaCLARITY Act Faces New Fight Over 'Vertical Integration' In Crypto",
+      "url": "https://www.tradingview.com/news/benzinga:6d8f9a3ac094b:0-clarity-act-faces-new-fight-over-vertical-integration-in-crypto/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T22:47:45.081Z"
+    },
+    {
+      "id": "56dbf47b0521fb5506cb728f3940cc64a045033c9664e2e46ddb994c31959d69",
+      "title": "BenzingaBitcoin, XRP, Solana, Dogecoin Remain Rangebound: Why Has the Rally Stalled?",
+      "url": "https://www.tradingview.com/news/benzinga:853e54556094b:0-bitcoin-xrp-solana-dogecoin-remain-rangebound-why-has-the-rally-stalled/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T22:47:45.081Z"
+    },
+    {
+      "id": "cd2de83ff5bed7434cdede497c49e45f672682f5a7e151bcb39def21cade8552",
+      "title": "Crypto BriefingBitcoin, Ethereum options worth $3B expire as ETH traders shift defensively toward puts",
+      "url": "https://www.tradingview.com/news/cryptobriefing:3e8a75f52094b:0-bitcoin-ethereum-options-worth-3b-expire-as-eth-traders-shift-defensively-toward-puts/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T22:47:45.081Z"
+    },
+    {
+      "id": "9f189b3683adc1aef446c81096f23988c5fb87b1f52f1efdb7abd8578bb49c93",
+      "title": "BeincryptoFormer Ripple CTO Makes Surprising XRP Prediction",
+      "url": "https://www.tradingview.com/news/beincrypto:b0d055c58094b:0-former-ripple-cto-makes-surprising-xrp-prediction/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T22:47:45.081Z"
+    },
+    {
+      "id": "b6fa1b64b3b75b5af024ea3deec42bce12e97330f394d8c638f265242f22558c",
+      "title": "BeincryptoBitwise Dogecoin ETF Shuts Down With $722,000 Left: Will Rival Funds Follow?",
+      "url": "https://www.tradingview.com/news/beincrypto:849f1dffd094b:0-bitwise-dogecoin-etf-shuts-down-with-722-000-left-will-rival-funds-follow/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T22:47:45.081Z"
+    },
+    {
+      "id": "edaaf71ce238865eb8430c35dcaceea0ff096abd01f7bbd0d495844290885172",
+      "title": "BenzingaXRP to $1.85? Here's What Technical Analysis Says",
+      "url": "https://www.tradingview.com/news/benzinga:3689912d0094b:0-xrp-to-1-85-here-s-what-technical-analysis-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T22:47:45.081Z"
+    },
     {
       "id": "ddddca0d83cf7de536d099a3f10f582430d0af72ad2b1f2c1f9e0787a8f92b65",
       "title": "The BlockBitwise shuts down Dogecoin ETF less than a year after launch",
       "url": "https://www.tradingview.com/news/the_block:9fda1b47e094b:0-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
+      "scraped_at": "2026-09-10T22:47:45.081Z"
     },
     {
       "id": "431e3183dace49327ffb03266ffdbc76de4b41d52907bf33a3bdc903e000f76d",
       "title": "CointelegraphESMA warns growing crypto ties could amplify risks to traditional finance",
       "url": "https://www.tradingview.com/news/cointelegraph:96afbf35b094b:0-esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
+      "scraped_at": "2026-09-10T22:47:45.081Z"
     },
     {
       "id": "346a8e0038643362860cc78a0a12bdbf6de5186d37fde379bea58bb7ec0c6e13",
       "title": "CoinMarketCalSpark: RLUSD Joins Stablecoin FX Layer on Uniswap V4 - 10 Sep 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:abf864d3e094b:0-spark-rlusd-joins-stablecoin-fx-layer-on-uniswap-v4-10-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
+      "scraped_at": "2026-09-10T22:47:45.081Z"
     },
     {
       "id": "509a919ad99f6ffd011e3b16d8bbf8914f7e2ec93009786030ae815a21d5b0c3",
       "title": "CoinMarketCalStacks: Genesis Bond Goes Live With Institutions Earning Self-Custodial BTC Yield - 10 Sep 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:64cf1e483094b:0-stacks-genesis-bond-goes-live-with-institutions-earning-self-custodial-btc-yield-10-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
+      "scraped_at": "2026-09-10T22:47:45.081Z"
+    },
+    {
+      "id": "cba18a679cca82ca4dc6b6485135bb03f4c31465df725bd908f281e5b5df4ba1",
+      "title": "BenzingaWhy Bitcoin Could Become a Quiet Winner in the AI Economy",
+      "url": "https://www.tradingview.com/news/benzinga:df1a33830094b:0-why-bitcoin-could-become-a-quiet-winner-in-the-ai-economy/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T22:47:45.081Z"
     },
     {
       "id": "d12c9760648a065bdf66fb9391094dbefcfe1436cc28122399926057334518e9",
       "title": "The BlockSenate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
       "url": "https://www.tradingview.com/news/the_block:0d44c0ec5094b:0-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
+      "scraped_at": "2026-09-10T22:47:45.081Z"
     },
     {
       "id": "1a8f7a3b5ac949525c00f87ced5e13500cb555768090c8b5cf9c2510bf10fb75",
       "title": "BenzingaWhite House Crypto Advisor Is Bullish on CLARITY Act: 'Either Way It's Coming'",
       "url": "https://www.tradingview.com/news/benzinga:602077d56094b:0-white-house-crypto-advisor-is-bullish-on-clarity-act-either-way-it-s-coming/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
+      "scraped_at": "2026-09-10T22:47:45.081Z"
     },
     {
       "id": "7afcecb057691c17f9dab2623310d8393432c7b563e19f873206b79448d69b17",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260910008010:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
-    },
-    {
-      "id": "f80021471f84201f731c7989a26e24b66d033cf63d15b702f908b9fb9d907010",
-      "title": "ChainwireUniswap Labs Launches StablePair Hook, a Dynamic-Fee Hook for Stable Pairs",
-      "url": "https://www.tradingview.com/news/chainwire:f2ee2cb7e094b:0-uniswap-labs-launches-stablepair-hook-a-dynamic-fee-hook-for-stable-pairs/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
-    },
-    {
-      "id": "d7a6d3d59d0896e5d34f6db3167d77d3a243567d441fc84b3be04489493c0efa",
-      "title": "BenzingaBitcoin, Ethereum Fall 2% as XRP, Dogecoin Tumble Over 5% on Macro Uncertainty",
-      "url": "https://www.tradingview.com/news/benzinga:423a33609094b:0-bitcoin-ethereum-fall-2-as-xrp-dogecoin-tumble-over-5-on-macro-uncertainty/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
-    },
-    {
-      "id": "d1ce78914b4a74930e9bdea253fa47ce2ced9bd67166cb74737776a12af872ea",
-      "title": "Crypto BriefingBitcoin declines for fourth consecutive session, falls below $80,000",
-      "url": "https://www.tradingview.com/news/cryptobriefing:aa0e3e6f5094b:0-bitcoin-declines-for-fourth-consecutive-session-falls-below-80-000/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
-    },
-    {
-      "id": "752bc89f0b42fccf9b70c811b035cc5bf3d97b7e538027ad3649e63d25cfd393",
-      "title": "The BlockCoinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
-      "url": "https://www.tradingview.com/news/the_block:b899f4864094b:0-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
-    },
-    {
-      "id": "ad66c6d95bf09b9638f68a7b895770e4f87ecf2e7fd19b9d26e531f09beab755",
-      "title": "CointelegraphUK House of Lords backs mandatory digital asset strategy over Labour position",
-      "url": "https://www.tradingview.com/news/cointelegraph:380e32482094b:0-uk-house-of-lords-backs-mandatory-digital-asset-strategy-over-labour-position/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
-    },
-    {
-      "id": "1acda94b4a2eee877775c17ed73b714e3283585a9d8f5e06366e3613419c3f89",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260910007567:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
-    },
-    {
-      "id": "c6a7c8fcb3dd383660844bbc0334455c79315c1f0a9731cb09d0b6ba31e7c026",
-      "title": "BenzingaCoinbase CEO Says CLARITY Act Nears 'Finish Line' and Bitcoin Has 'Seen The Bottom'",
-      "url": "https://www.tradingview.com/news/benzinga:45e4a58cc094b:0-coinbase-ceo-says-clarity-act-nears-finish-line-and-bitcoin-has-seen-the-bottom/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
-    },
-    {
-      "id": "817f2f610780e606ae554f38599db1c90ea5391466bb68faf7d3e780307562c6",
-      "title": "Crypto BriefingBitcoin OP_RETURN usage surges toward 700K codes as data-embedding protocols reshape the network",
-      "url": "https://www.tradingview.com/news/cryptobriefing:c1a6723d7094b:0-bitcoin-op_return-usage-surges-toward-700k-codes-as-data-embedding-protocols-reshape-the-network/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T20:41:13.793Z"
+      "scraped_at": "2026-09-10T22:47:45.081Z"
     }
   ]
 }
