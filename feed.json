@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-10T17:54:24.935Z",
+  "generated_at": "2026-09-10T20:41:13.796Z",
   "total": 15,
   "items": [
+    {
+      "id": "ddddca0d83cf7de536d099a3f10f582430d0af72ad2b1f2c1f9e0787a8f92b65",
+      "title": "The BlockBitwise shuts down Dogecoin ETF less than a year after launch",
+      "url": "https://www.tradingview.com/news/the_block:9fda1b47e094b:0-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "431e3183dace49327ffb03266ffdbc76de4b41d52907bf33a3bdc903e000f76d",
+      "title": "CointelegraphESMA warns growing crypto ties could amplify risks to traditional finance",
+      "url": "https://www.tradingview.com/news/cointelegraph:96afbf35b094b:0-esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "346a8e0038643362860cc78a0a12bdbf6de5186d37fde379bea58bb7ec0c6e13",
+      "title": "CoinMarketCalSpark: RLUSD Joins Stablecoin FX Layer on Uniswap V4 - 10 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:abf864d3e094b:0-spark-rlusd-joins-stablecoin-fx-layer-on-uniswap-v4-10-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "509a919ad99f6ffd011e3b16d8bbf8914f7e2ec93009786030ae815a21d5b0c3",
+      "title": "CoinMarketCalStacks: Genesis Bond Goes Live With Institutions Earning Self-Custodial BTC Yield - 10 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:64cf1e483094b:0-stacks-genesis-bond-goes-live-with-institutions-earning-self-custodial-btc-yield-10-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "d12c9760648a065bdf66fb9391094dbefcfe1436cc28122399926057334518e9",
+      "title": "The BlockSenate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
+      "url": "https://www.tradingview.com/news/the_block:0d44c0ec5094b:0-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "1a8f7a3b5ac949525c00f87ced5e13500cb555768090c8b5cf9c2510bf10fb75",
+      "title": "BenzingaWhite House Crypto Advisor Is Bullish on CLARITY Act: 'Either Way It's Coming'",
+      "url": "https://www.tradingview.com/news/benzinga:602077d56094b:0-white-house-crypto-advisor-is-bullish-on-clarity-act-either-way-it-s-coming/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "7afcecb057691c17f9dab2623310d8393432c7b563e19f873206b79448d69b17",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260910008010:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "f80021471f84201f731c7989a26e24b66d033cf63d15b702f908b9fb9d907010",
+      "title": "ChainwireUniswap Labs Launches StablePair Hook, a Dynamic-Fee Hook for Stable Pairs",
+      "url": "https://www.tradingview.com/news/chainwire:f2ee2cb7e094b:0-uniswap-labs-launches-stablepair-hook-a-dynamic-fee-hook-for-stable-pairs/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "d7a6d3d59d0896e5d34f6db3167d77d3a243567d441fc84b3be04489493c0efa",
+      "title": "BenzingaBitcoin, Ethereum Fall 2% as XRP, Dogecoin Tumble Over 5% on Macro Uncertainty",
+      "url": "https://www.tradingview.com/news/benzinga:423a33609094b:0-bitcoin-ethereum-fall-2-as-xrp-dogecoin-tumble-over-5-on-macro-uncertainty/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "d1ce78914b4a74930e9bdea253fa47ce2ced9bd67166cb74737776a12af872ea",
+      "title": "Crypto BriefingBitcoin declines for fourth consecutive session, falls below $80,000",
+      "url": "https://www.tradingview.com/news/cryptobriefing:aa0e3e6f5094b:0-bitcoin-declines-for-fourth-consecutive-session-falls-below-80-000/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "752bc89f0b42fccf9b70c811b035cc5bf3d97b7e538027ad3649e63d25cfd393",
+      "title": "The BlockCoinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
+      "url": "https://www.tradingview.com/news/the_block:b899f4864094b:0-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "ad66c6d95bf09b9638f68a7b895770e4f87ecf2e7fd19b9d26e531f09beab755",
+      "title": "CointelegraphUK House of Lords backs mandatory digital asset strategy over Labour position",
+      "url": "https://www.tradingview.com/news/cointelegraph:380e32482094b:0-uk-house-of-lords-backs-mandatory-digital-asset-strategy-over-labour-position/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
     {
       "id": "1acda94b4a2eee877775c17ed73b714e3283585a9d8f5e06366e3613419c3f89",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260910007567:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.932Z"
+      "scraped_at": "2026-09-10T20:41:13.793Z"
+    },
+    {
+      "id": "c6a7c8fcb3dd383660844bbc0334455c79315c1f0a9731cb09d0b6ba31e7c026",
+      "title": "BenzingaCoinbase CEO Says CLARITY Act Nears 'Finish Line' and Bitcoin Has 'Seen The Bottom'",
+      "url": "https://www.tradingview.com/news/benzinga:45e4a58cc094b:0-coinbase-ceo-says-clarity-act-nears-finish-line-and-bitcoin-has-seen-the-bottom/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T20:41:13.793Z"
     },
     {
       "id": "817f2f610780e606ae554f38599db1c90ea5391466bb68faf7d3e780307562c6",
       "title": "Crypto BriefingBitcoin OP_RETURN usage surges toward 700K codes as data-embedding protocols reshape the network",
       "url": "https://www.tradingview.com/news/cryptobriefing:c1a6723d7094b:0-bitcoin-op_return-usage-surges-toward-700k-codes-as-data-embedding-protocols-reshape-the-network/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.932Z"
-    },
-    {
-      "id": "b992fb3bd8882ddad38135ddbb135bfb6ee29611694e73c09087d0d9de238a3d",
-      "title": "CoinMarketCalZama: Aragon Launches Confidential Voting Plugin on Zama Protocol - 10 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:1ef360330094b:0-zama-aragon-launches-confidential-voting-plugin-on-zama-protocol-10-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "72efe3504acfb44bb5bb2c7ccb48e3f51aa1c7039619fe33b9edce1ec2bb34f3",
-      "title": "CoinMarketCalStacks: Bonding Period 2 of the Genesis Bond opens for institutional BTC registration - 10 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:da390c9dd094b:0-stacks-bonding-period-2-of-the-genesis-bond-opens-for-institutional-btc-registration-10-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "949ecec2bf135b4a5b92e93db2875433a831622747f7905d87dbd846d2e2de38",
-      "title": "CoinMarketCalStellar: MoneyGram Card by Rain Goes Live for Visa Stablecoin Spending - 10 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:16de3eb0d094b:0-stellar-moneygram-card-by-rain-goes-live-for-visa-stablecoin-spending-10-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "ed909019df7f0705ccd3f5ee09cf49e14b8c5e99876fed8b26bb1d6cb97ac820",
-      "title": "Crypto Briefing$21B raised year-to-date in Bitcoin bear market signals industry maturation",
-      "url": "https://www.tradingview.com/news/cryptobriefing:9439c8f0d094b:0-21b-raised-year-to-date-in-bitcoin-bear-market-signals-industry-maturation/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "b5a2ef4fed3fc93ec68c2f1fed91dce19c729aa28d500ebc63265375519db8f9",
-      "title": "CointelegraphLiquid Network resumes block production after $320M exploit",
-      "url": "https://www.tradingview.com/news/cointelegraph:4fd65cf87094b:0-liquid-network-resumes-block-production-after-320m-exploit/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "0f1badc84dcdea5d71d44835abb4e2925a90520691ad4ef44c7e1f1f5324a1c6",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260910007051:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "d1b520a03a1255b6ac6145001a3c71cc523bd78b16a08975ff22b4ea2c68d04e",
-      "title": "CoinpediaKAS Price Eyes $0.076 as Kaspa Activity Picks Up",
-      "url": "https://www.tradingview.com/news/coinpedia:35649483b094b:0-kas-price-eyes-0-076-as-kaspa-activity-picks-up/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "ca8ecb065835d6fda75438dd7902cdd9d792297de3efda98f87dad123811a6d4",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:862a57b8c094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "23b6c43e64e660cab4ef62131238ac1c9b3592847d78dd0fa204ad8a7370b4f0",
-      "title": "99BitcoinsWorld Liberty Financial USD1 Plan Clears Initial Hurdle for National Trust Bank",
-      "url": "https://www.tradingview.com/news/99Bitcoins:fa506bdfb094b:0-world-liberty-financial-usd1-plan-clears-initial-hurdle-for-national-trust-bank/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "c43a57f954c2022fbeeeea3e57a3cc5ccd55b419a8cb8cc7a27496789163449a",
-      "title": "PR NewswireBitwise Announces Updates to ETF Lineup",
-      "url": "https://www.tradingview.com/news/prnewswire:9e3943fb6b1d1:0-bitwise-announces-updates-to-etf-lineup/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "3c99c8cefe955f64d6fb1af82cd4b83106170e178efdca257c3d6e9bf3670397",
-      "title": "Finance MagnatesIf MiCA Can Crack DeFi, Its Slow-and-Steady Approach Could Beat CLARITY",
-      "url": "https://www.tradingview.com/news/financemagnates:cb548c741094b:0-if-mica-can-crack-defi-its-slow-and-steady-approach-could-beat-clarity/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "f6302e9383a20c46767ee2f2697952f0a39057c8be104f4104ff2676be2879b0",
-      "title": "BeincryptoTRON Expands MetaMask Connectivity Across B.AI, SUN.io, JustLend DAO and BitTorrent",
-      "url": "https://www.tradingview.com/news/beincrypto:d35699574094b:0-tron-expands-metamask-connectivity-across-b-ai-sun-io-justlend-dao-and-bittorrent/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
-    },
-    {
-      "id": "63e34b5dc5847fbe5c6bec88816aae57ba883490b089d2d413282b0968f8b543",
-      "title": "CointelegraphEU finance groups push to remove tokenized securities cap",
-      "url": "https://www.tradingview.com/news/cointelegraph:5366984dc094b:0-eu-finance-groups-push-to-remove-tokenized-securities-cap/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T17:54:24.933Z"
+      "scraped_at": "2026-09-10T20:41:13.793Z"
     }
   ]
 }
