@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-09-10T14:39:35.064Z",
-  "total": 14,
+  "generated_at": "2026-09-10T17:54:24.935Z",
+  "total": 15,
   "items": [
     {
-      "id": "0ae02a950c8fc4b1ec57f4c7b41252c7af3c9588e01f1d0c3756d760d0e14c57",
-      "title": "Crypto BriefingBitcoin ETFs shed $120M in a day while Ethereum ETFs quietly attract inflows",
-      "url": "https://www.tradingview.com/news/cryptobriefing:98d9f4a20094b:0-bitcoin-etfs-shed-120m-in-a-day-while-ethereum-etfs-quietly-attract-inflows/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
-    },
-    {
-      "id": "b69bf4164bd27d08034c5f1eeb8e914bb063c106ec30c6efec5b5bb489550471",
-      "title": "The BlockMoneyGram launches first stablecoin-backed Visa card in Colombia",
-      "url": "https://www.tradingview.com/news/the_block:e60b07053094b:0-moneygram-launches-first-stablecoin-backed-visa-card-in-colombia/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
-    },
-    {
-      "id": "ae452b20f31c5161a0a827f56a04b587bc2c3730d77e9740b08b734ea4df80d5",
-      "title": "Crypto BriefingBitcoin treasuries report zero forced liquidations during 54% drop",
-      "url": "https://www.tradingview.com/news/cryptobriefing:89de44305094b:0-bitcoin-treasuries-report-zero-forced-liquidations-during-54-drop/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
-    },
-    {
-      "id": "7d7f896d4b2fcb12fd1b392504ba5fa511cfdee25834efb00091c7a60dbd4e0f",
-      "title": "ChainwireBTCC Exchange Launches $1M \"Trade to Win\" Competition Ahead of TOKEN2049, with Tesla Cybertruck as Top Prize",
-      "url": "https://www.tradingview.com/news/chainwire:6be9e7ed4094b:0-btcc-exchange-launches-1m-trade-to-win-competition-ahead-of-token2049-with-tesla-cybertruck-as-top-prize/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
-    },
-    {
-      "id": "cc028f783af8f8fb09b94fc28d14f76b4000510bcc44a24bd98ff03245c78b32",
-      "title": "CoinMarketCalPolkadot: dotUSD Stablecoin Referendum Goes Live on DOT DAO Governance - 10 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:8eae814bb094b:0-polkadot-dotusd-stablecoin-referendum-goes-live-on-dot-dao-governance-10-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
-    },
-    {
-      "id": "8520ea40e8a5cdb2306703b30bb11e1c8a4acbb3b7f61699b85dd4d977148b5b",
-      "title": "CoinMarketCalOriginTrail: OT-RFC-27 proposes a NeuroSymbolic Marketplace for TRAC-settled DKG queries and AI inference - 10 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:0ee208d84094b:0-origintrail-ot-rfc-27-proposes-a-neurosymbolic-marketplace-for-trac-settled-dkg-queries-and-ai-inference-10-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
-    },
-    {
-      "id": "967e72f37b56ab83d191e933d9708bbaaddfb2fc8e0383c64cab6132732ecdec",
-      "title": "FinanceWireGlobal Tokenized Real Estate Market to Hit up to $3 Trillion by 2030, ScienceSoft Predicts",
-      "url": "https://www.tradingview.com/news/financewire:ce3e0c325094b:0-global-tokenized-real-estate-market-to-hit-up-to-3-trillion-by-2030-sciencesoft-predicts/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
-    },
-    {
-      "id": "42c766447f44d8d1a79d0618f9e3a2c767cd4e321a57f0760f4f4a86523eb8ed",
-      "title": "CoinMarketCalAvalanche: Arya.ag Brings Agri Credit Onchain With Major Lenders - 10 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:f83a3fee0094b:0-avalanche-arya-ag-brings-agri-credit-onchain-with-major-lenders-10-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
-    },
-    {
-      "id": "edb17275f3391bbb3168feefe6d7af1f83084d0d32939fa19e904ed5c803019c",
+      "id": "1acda94b4a2eee877775c17ed73b714e3283585a9d8f5e06366e3613419c3f89",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260910005588:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260910007567:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
+      "scraped_at": "2026-09-10T17:54:24.932Z"
     },
     {
-      "id": "5f2ad7d0816f76336065a6cbf96afc9b731beaa73f7ca47fb0ca70a4408d31ea",
-      "title": "Crypto BriefingEigen Labs leads quantum circuit challenge, surpasses Google by over 50%",
-      "url": "https://www.tradingview.com/news/cryptobriefing:e43016795094b:0-eigen-labs-leads-quantum-circuit-challenge-surpasses-google-by-over-50/",
+      "id": "817f2f610780e606ae554f38599db1c90ea5391466bb68faf7d3e780307562c6",
+      "title": "Crypto BriefingBitcoin OP_RETURN usage surges toward 700K codes as data-embedding protocols reshape the network",
+      "url": "https://www.tradingview.com/news/cryptobriefing:c1a6723d7094b:0-bitcoin-op_return-usage-surges-toward-700k-codes-as-data-embedding-protocols-reshape-the-network/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
+      "scraped_at": "2026-09-10T17:54:24.932Z"
     },
     {
-      "id": "a6a82a3c0dbf66cd51909816cceee46eee1afbf2440ef1ea92bd21a6e4418d81",
-      "title": "BEMace NewsMORE ECB’S LAGARDE: I HOPE THAT LEGISLATION TO ENABLR DIGITAL EURO WILL PASS BY YEAR END",
-      "url": "https://www.tradingview.com/news/macenews:4f8f7ad71094b:0-more-ecb-s-lagarde-i-hope-that-legislation-to-enablr-digital-euro-will-pass-by-year-end/",
+      "id": "b992fb3bd8882ddad38135ddbb135bfb6ee29611694e73c09087d0d9de238a3d",
+      "title": "CoinMarketCalZama: Aragon Launches Confidential Voting Plugin on Zama Protocol - 10 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:1ef360330094b:0-zama-aragon-launches-confidential-voting-plugin-on-zama-protocol-10-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
+      "scraped_at": "2026-09-10T17:54:24.933Z"
     },
     {
-      "id": "ea586a17e9d3f6f324c9cc6492fccad75a3145fd273e0862355b59acf298f620",
-      "title": "Crypto BriefingResearchers cut quantum resource benchmark 20-fold for Bitcoin and Ethereum attack",
-      "url": "https://www.tradingview.com/news/cryptobriefing:deb695fa7094b:0-researchers-cut-quantum-resource-benchmark-20-fold-for-bitcoin-and-ethereum-attack/",
+      "id": "72efe3504acfb44bb5bb2c7ccb48e3f51aa1c7039619fe33b9edce1ec2bb34f3",
+      "title": "CoinMarketCalStacks: Bonding Period 2 of the Genesis Bond opens for institutional BTC registration - 10 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:da390c9dd094b:0-stacks-bonding-period-2-of-the-genesis-bond-opens-for-institutional-btc-registration-10-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
+      "scraped_at": "2026-09-10T17:54:24.933Z"
     },
     {
-      "id": "ca857fd986c896f3ee910d8e643c74f4e587f451a96f02dd121a5ab7f2978973",
-      "title": "Seeking AlphaYieldMax Bitcoin Option Income Strategy ETF announces weekly distribution of $0.3096",
-      "url": "https://www.tradingview.com/news/seekingalpha:7c5a51f1f094b:0-yieldmax-bitcoin-option-income-strategy-etf-announces-weekly-distribution-of-0-3096/",
+      "id": "949ecec2bf135b4a5b92e93db2875433a831622747f7905d87dbd846d2e2de38",
+      "title": "CoinMarketCalStellar: MoneyGram Card by Rain Goes Live for Visa Stablecoin Spending - 10 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:16de3eb0d094b:0-stellar-moneygram-card-by-rain-goes-live-for-visa-stablecoin-spending-10-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
+      "scraped_at": "2026-09-10T17:54:24.933Z"
     },
     {
-      "id": "018c468cc8d8df3dea5d90cfec0ea56d3f296ea29e4440d00cffa8f15e79893e",
-      "title": "The BlockResearchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
-      "url": "https://www.tradingview.com/news/the_block:7f3245a57094b:0-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack/",
+      "id": "ed909019df7f0705ccd3f5ee09cf49e14b8c5e99876fed8b26bb1d6cb97ac820",
+      "title": "Crypto Briefing$21B raised year-to-date in Bitcoin bear market signals industry maturation",
+      "url": "https://www.tradingview.com/news/cryptobriefing:9439c8f0d094b:0-21b-raised-year-to-date-in-bitcoin-bear-market-signals-industry-maturation/",
       "source": "tradingview",
-      "scraped_at": "2026-09-10T14:39:35.060Z"
+      "scraped_at": "2026-09-10T17:54:24.933Z"
+    },
+    {
+      "id": "b5a2ef4fed3fc93ec68c2f1fed91dce19c729aa28d500ebc63265375519db8f9",
+      "title": "CointelegraphLiquid Network resumes block production after $320M exploit",
+      "url": "https://www.tradingview.com/news/cointelegraph:4fd65cf87094b:0-liquid-network-resumes-block-production-after-320m-exploit/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T17:54:24.933Z"
+    },
+    {
+      "id": "0f1badc84dcdea5d71d44835abb4e2925a90520691ad4ef44c7e1f1f5324a1c6",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260910007051:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T17:54:24.933Z"
+    },
+    {
+      "id": "d1b520a03a1255b6ac6145001a3c71cc523bd78b16a08975ff22b4ea2c68d04e",
+      "title": "CoinpediaKAS Price Eyes $0.076 as Kaspa Activity Picks Up",
+      "url": "https://www.tradingview.com/news/coinpedia:35649483b094b:0-kas-price-eyes-0-076-as-kaspa-activity-picks-up/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T17:54:24.933Z"
+    },
+    {
+      "id": "ca8ecb065835d6fda75438dd7902cdd9d792297de3efda98f87dad123811a6d4",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:862a57b8c094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T17:54:24.933Z"
+    },
+    {
+      "id": "23b6c43e64e660cab4ef62131238ac1c9b3592847d78dd0fa204ad8a7370b4f0",
+      "title": "99BitcoinsWorld Liberty Financial USD1 Plan Clears Initial Hurdle for National Trust Bank",
+      "url": "https://www.tradingview.com/news/99Bitcoins:fa506bdfb094b:0-world-liberty-financial-usd1-plan-clears-initial-hurdle-for-national-trust-bank/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T17:54:24.933Z"
+    },
+    {
+      "id": "c43a57f954c2022fbeeeea3e57a3cc5ccd55b419a8cb8cc7a27496789163449a",
+      "title": "PR NewswireBitwise Announces Updates to ETF Lineup",
+      "url": "https://www.tradingview.com/news/prnewswire:9e3943fb6b1d1:0-bitwise-announces-updates-to-etf-lineup/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T17:54:24.933Z"
+    },
+    {
+      "id": "3c99c8cefe955f64d6fb1af82cd4b83106170e178efdca257c3d6e9bf3670397",
+      "title": "Finance MagnatesIf MiCA Can Crack DeFi, Its Slow-and-Steady Approach Could Beat CLARITY",
+      "url": "https://www.tradingview.com/news/financemagnates:cb548c741094b:0-if-mica-can-crack-defi-its-slow-and-steady-approach-could-beat-clarity/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T17:54:24.933Z"
+    },
+    {
+      "id": "f6302e9383a20c46767ee2f2697952f0a39057c8be104f4104ff2676be2879b0",
+      "title": "BeincryptoTRON Expands MetaMask Connectivity Across B.AI, SUN.io, JustLend DAO and BitTorrent",
+      "url": "https://www.tradingview.com/news/beincrypto:d35699574094b:0-tron-expands-metamask-connectivity-across-b-ai-sun-io-justlend-dao-and-bittorrent/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T17:54:24.933Z"
+    },
+    {
+      "id": "63e34b5dc5847fbe5c6bec88816aae57ba883490b089d2d413282b0968f8b543",
+      "title": "CointelegraphEU finance groups push to remove tokenized securities cap",
+      "url": "https://www.tradingview.com/news/cointelegraph:5366984dc094b:0-eu-finance-groups-push-to-remove-tokenized-securities-cap/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-10T17:54:24.933Z"
     }
   ]
 }
