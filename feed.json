@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-09-11T00:53:12.928Z",
-  "total": 15,
+  "generated_at": "2026-09-11T05:44:06.828Z",
+  "total": 14,
   "items": [
+    {
+      "id": "2682ab79d919e4036821ff71d87ea631543de1c864c62512fbc30ef124a0e09f",
+      "title": "CoinMarketCalCronos: Prediction and Sports Markets Launch in App - 17 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:da9d899d3094b:0-cronos-prediction-and-sports-markets-launch-in-app-17-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-11T05:44:06.823Z"
+    },
+    {
+      "id": "0c60e3212c024e7076fc62457c7e946253c16e2728349fa1b00dd6f22e84188c",
+      "title": "CointelegraphBrevo login flaw enabled phishing email targeting 347K Trezor subscribers",
+      "url": "https://www.tradingview.com/news/cointelegraph:54e7c0a16094b:0-brevo-login-flaw-enabled-phishing-email-targeting-347k-trezor-subscribers/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-11T05:44:06.823Z"
+    },
+    {
+      "id": "73e016e5626b3b62f6550981dd5d101c1b2ef542e9a6ccf025dad28dadbe4778",
+      "title": "The BlockSam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
+      "url": "https://www.tradingview.com/news/the_block:f0a072cfa094b:0-sam-bankman-fried-asks-supreme-court-to-overturn-fraud-conviction-and-11-billion-forfeiture/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-11T05:44:06.823Z"
+    },
+    {
+      "id": "6daf7ed439b6261099d4c5e6307107d1d855a1029cd0fef76ccd583e4eca0e69",
+      "title": "BenzingaTrump's $5,000 Stimulus Checks a Win-Win for Bitcoin and Gold, Says Anthony Pompliano: 'The More Money He Hands Out...'",
+      "url": "https://www.tradingview.com/news/benzinga:59f6ee002094b:0-trump-s-5-000-stimulus-checks-a-win-win-for-bitcoin-and-gold-says-anthony-pompliano-the-more-money-he-hands-out/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-11T05:44:06.823Z"
+    },
+    {
+      "id": "9016f500cb6c494298e37fbd8c6156aab198b2533507fbbc1dfda950995a33c4",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260910010625:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-11T05:44:06.823Z"
+    },
+    {
+      "id": "e8a9e624237d52a6dd8529a00310408dcd936162dda8656a921cf43b308849f3",
+      "title": "BenzingaBitcoin, Ethereum, XRP, Dogecoin Fall as Hot PPI Raises Rate Hike Bets: Analyst Says BTC Not the 'Biggest Runner,' Expects This Coin to Break Out",
+      "url": "https://www.tradingview.com/news/benzinga:67992894b094b:0-bitcoin-ethereum-xrp-dogecoin-fall-as-hot-ppi-raises-rate-hike-bets-analyst-says-btc-not-the-biggest-runner-expects-this-coin-to-break-out/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-11T05:44:06.823Z"
+    },
+    {
+      "id": "781784e4fef8e622033b2a64aecb1f21b96bd5d1199cbe845b5525fa33952be3",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260910010503:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-11T05:44:06.823Z"
+    },
+    {
+      "id": "f0802b899b64d636a9c595c50cb314bb4cd3689c7f821fb3bd9cffeb07c2a05e",
+      "title": "BeincryptoBen Cowen Warns Anthropic IPO Could Drain Attention From Bitcoin Price Rally",
+      "url": "https://www.tradingview.com/news/beincrypto:1d6a7dc49094b:0-ben-cowen-warns-anthropic-ipo-could-drain-attention-from-bitcoin-price-rally/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-11T05:44:06.823Z"
+    },
     {
       "id": "8a7341028b73014c246ddd4ed2b79322b146262159013c41db8fcc6c9af8caf2",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260910009928_20260910009931:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
+      "scraped_at": "2026-09-11T05:44:06.823Z"
     },
     {
       "id": "78ed5cae932b94ecc104333bc9c4f0cc123fa161b8270150034aa9233a11b275",
       "title": "BenzingaCLARITY Act Faces New Fight Over 'Vertical Integration' In Crypto",
       "url": "https://www.tradingview.com/news/benzinga:6d8f9a3ac094b:0-clarity-act-faces-new-fight-over-vertical-integration-in-crypto/",
       "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
+      "scraped_at": "2026-09-11T05:44:06.824Z"
     },
     {
       "id": "56dbf47b0521fb5506cb728f3940cc64a045033c9664e2e46ddb994c31959d69",
       "title": "BenzingaBitcoin, XRP, Solana, Dogecoin Remain Rangebound: Why Has the Rally Stalled?",
       "url": "https://www.tradingview.com/news/benzinga:853e54556094b:0-bitcoin-xrp-solana-dogecoin-remain-rangebound-why-has-the-rally-stalled/",
       "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
+      "scraped_at": "2026-09-11T05:44:06.824Z"
     },
     {
       "id": "cd2de83ff5bed7434cdede497c49e45f672682f5a7e151bcb39def21cade8552",
       "title": "Crypto BriefingBitcoin, Ethereum options worth $3B expire as ETH traders shift defensively toward puts",
       "url": "https://www.tradingview.com/news/cryptobriefing:3e8a75f52094b:0-bitcoin-ethereum-options-worth-3b-expire-as-eth-traders-shift-defensively-toward-puts/",
       "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
+      "scraped_at": "2026-09-11T05:44:06.824Z"
     },
     {
       "id": "9f189b3683adc1aef446c81096f23988c5fb87b1f52f1efdb7abd8578bb49c93",
       "title": "BeincryptoFormer Ripple CTO Makes Surprising XRP Prediction",
       "url": "https://www.tradingview.com/news/beincrypto:b0d055c58094b:0-former-ripple-cto-makes-surprising-xrp-prediction/",
       "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
+      "scraped_at": "2026-09-11T05:44:06.824Z"
     },
     {
       "id": "b6fa1b64b3b75b5af024ea3deec42bce12e97330f394d8c638f265242f22558c",
       "title": "BeincryptoBitwise Dogecoin ETF Shuts Down With $722,000 Left: Will Rival Funds Follow?",
       "url": "https://www.tradingview.com/news/beincrypto:849f1dffd094b:0-bitwise-dogecoin-etf-shuts-down-with-722-000-left-will-rival-funds-follow/",
       "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
-    },
-    {
-      "id": "edaaf71ce238865eb8430c35dcaceea0ff096abd01f7bbd0d495844290885172",
-      "title": "BenzingaXRP to $1.85? Here's What Technical Analysis Says",
-      "url": "https://www.tradingview.com/news/benzinga:3689912d0094b:0-xrp-to-1-85-here-s-what-technical-analysis-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
-    },
-    {
-      "id": "ddddca0d83cf7de536d099a3f10f582430d0af72ad2b1f2c1f9e0787a8f92b65",
-      "title": "The BlockBitwise shuts down Dogecoin ETF less than a year after launch",
-      "url": "https://www.tradingview.com/news/the_block:9fda1b47e094b:0-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
-    },
-    {
-      "id": "431e3183dace49327ffb03266ffdbc76de4b41d52907bf33a3bdc903e000f76d",
-      "title": "CointelegraphESMA warns growing crypto ties could amplify risks to traditional finance",
-      "url": "https://www.tradingview.com/news/cointelegraph:96afbf35b094b:0-esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
-    },
-    {
-      "id": "346a8e0038643362860cc78a0a12bdbf6de5186d37fde379bea58bb7ec0c6e13",
-      "title": "CoinMarketCalSpark: RLUSD Joins Stablecoin FX Layer on Uniswap V4 - 10 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:abf864d3e094b:0-spark-rlusd-joins-stablecoin-fx-layer-on-uniswap-v4-10-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
-    },
-    {
-      "id": "509a919ad99f6ffd011e3b16d8bbf8914f7e2ec93009786030ae815a21d5b0c3",
-      "title": "CoinMarketCalStacks: Genesis Bond Goes Live With Institutions Earning Self-Custodial BTC Yield - 10 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:64cf1e483094b:0-stacks-genesis-bond-goes-live-with-institutions-earning-self-custodial-btc-yield-10-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
-    },
-    {
-      "id": "cba18a679cca82ca4dc6b6485135bb03f4c31465df725bd908f281e5b5df4ba1",
-      "title": "BenzingaWhy Bitcoin Could Become a Quiet Winner in the AI Economy",
-      "url": "https://www.tradingview.com/news/benzinga:df1a33830094b:0-why-bitcoin-could-become-a-quiet-winner-in-the-ai-economy/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
-    },
-    {
-      "id": "d12c9760648a065bdf66fb9391094dbefcfe1436cc28122399926057334518e9",
-      "title": "The BlockSenate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
-      "url": "https://www.tradingview.com/news/the_block:0d44c0ec5094b:0-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
-    },
-    {
-      "id": "25fc20ee6737cfc655daee4faf35b9d05e1346e5854d5969dc24b4f5ac0ab519",
-      "title": "InvezzEvening digest: US crude oil tops $100 as Bitcoin falls below $78,000",
-      "url": "https://www.tradingview.com/news/invezz:4e63e094f094b:0-evening-digest-us-crude-oil-tops-100-as-bitcoin-falls-below-78-000/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
-    },
-    {
-      "id": "1a8f7a3b5ac949525c00f87ced5e13500cb555768090c8b5cf9c2510bf10fb75",
-      "title": "BenzingaWhite House Crypto Advisor Is Bullish on CLARITY Act: 'Either Way It's Coming'",
-      "url": "https://www.tradingview.com/news/benzinga:602077d56094b:0-white-house-crypto-advisor-is-bullish-on-clarity-act-either-way-it-s-coming/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-11T00:53:12.924Z"
+      "scraped_at": "2026-09-11T05:44:06.824Z"
     }
   ]
 }
