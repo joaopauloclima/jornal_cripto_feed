@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-09-17T20:34:26.046Z",
-  "total": 14,
+  "generated_at": "2026-09-17T23:07:43.419Z",
+  "total": 15,
   "items": [
+    {
+      "id": "b413f13267f1dfdabd3133ee1e7d395df8e4b28375e476df4601558d8717ed8e",
+      "title": "CoinMarketCalAcross Protocol: Deprecating ACX Token as Equity and USDC Exchanges Close - 08 Jan 2027",
+      "url": "https://www.tradingview.com/news/coinmarketcal:61b6db329094b:0-across-protocol-deprecating-acx-token-as-equity-and-usdc-exchanges-close-08-jan-2027/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.414Z"
+    },
+    {
+      "id": "12fafed4dfb5fb56450777e7553b1b6a8092789f6e2be6940a7f232a8b89340b",
+      "title": "CoinMarketCalReserve Rights: First RSR Burn Gauge Vote Opens - 18 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:46ed690e0094b:0-reserve-rights-first-rsr-burn-gauge-vote-opens-18-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.414Z"
+    },
+    {
+      "id": "6d05f2360d71d3e9901bd3362cd62d322e6d0e19b38eae0761bf296554f7fd1b",
+      "title": "CoinMarketCalPendle: Staking boost ends, equalizing PENDLE reward weight - 20 Jan 2028",
+      "url": "https://www.tradingview.com/news/coinmarketcal:adfbbd3c3094b:0-pendle-staking-boost-ends-equalizing-pendle-reward-weight-20-jan-2028/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.414Z"
+    },
+    {
+      "id": "9626ce51c7851903a3a8c4c6960f092b31d96f52dd92d9ae4eae886a5de80947",
+      "title": "TradingViewInnovator Capital Management, LLC To Liquidate Uncapped Bitcoin 20 Floor ETF",
+      "url": "https://www.tradingview.com/news/tradingview:48c425b81658f:0-innovator-capital-management-llc-to-liquidate-uncapped-bitcoin-20-floor-etf/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.414Z"
+    },
+    {
+      "id": "397c5d6f2050e94f1fb554f3a16e36a6d8e6a5f4663086c4cf59e90ba38ffddd",
+      "title": "dpa-AFXSEC Grants Five-Year Exemption For Tokenized Stock Trading",
+      "url": "https://www.tradingview.com/news/dpa_afx:c412b20cde7aa:0-sec-grants-five-year-exemption-for-tokenized-stock-trading/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.414Z"
+    },
+    {
+      "id": "60143581f508ae843ff6c8a19db78cc6e6a376cae2bfc7f8a5c68b06e75ce951",
+      "title": "BeincryptoBitMEX Just Killed the Trade That Changed Crypto Forever",
+      "url": "https://www.tradingview.com/news/beincrypto:415a847e5094b:0-bitmex-just-killed-the-trade-that-changed-crypto-forever/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.414Z"
+    },
+    {
+      "id": "de8e86cb4fac95d32da96573aad2e00836f3073130e2f65ffbe35a2ecc1a7c3f",
+      "title": "BeincryptoUS Launches $215 Million Quantum Race. Should Bitcoin Be Worried?",
+      "url": "https://www.tradingview.com/news/beincrypto:a78270afd094b:0-us-launches-215-million-quantum-race-should-bitcoin-be-worried/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.414Z"
+    },
+    {
+      "id": "528c5e0e7fb8906cd606eb5b87d8887546837377b4f39345bdd4fcc78d8111f3",
+      "title": "Crypto BriefingZest Protocol's levered Bitcoin staking vault begins accruing yield on Stacks",
+      "url": "https://www.tradingview.com/news/cryptobriefing:a45268f68094b:0-zest-protocol-s-levered-bitcoin-staking-vault-begins-accruing-yield-on-stacks/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.415Z"
+    },
+    {
+      "id": "5b340d22e634c3d785cd43640d23920ee6e89692559eba349858b604e500f48f",
+      "title": "BenzingaGrayscale: Bitcoin Put in the Bottom at $58,000, 'Green Light' From Here",
+      "url": "https://www.tradingview.com/news/benzinga:74ad2eddd094b:0-grayscale-bitcoin-put-in-the-bottom-at-58-000-green-light-from-here/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.415Z"
+    },
+    {
+      "id": "4a03a07ceb20e4dd384ba0572bca12e63e4ac062877ea04e895233a02e076319",
+      "title": "Seeking AlphaBitGo names Alex Rozman as CCO",
+      "url": "https://www.tradingview.com/news/seekingalpha:3d3de0030094b:0-bitgo-names-alex-rozman-as-cco/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.415Z"
+    },
+    {
+      "id": "0a9b5ec88aebfe77a5e288bfbc15f223c2b0ddcd86bc6defbf2245b00b66fe9d",
+      "title": "BenzingaBitcoin Holds $76,000 as Ethereum, XRP, Dogecoin Spike 2%",
+      "url": "https://www.tradingview.com/news/benzinga:b6a7bece2094b:0-bitcoin-holds-76-000-as-ethereum-xrp-dogecoin-spike-2/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T23:07:43.415Z"
+    },
     {
       "id": "6d9ee3785b810959b8cdcc32b21def87269759c64088a14367876f7a58aa8e2c",
       "title": "The BlockUS sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
       "url": "https://www.tradingview.com/news/the_block:0e0bebbd1094b:0-us-sanctions-iranian-crypto-exchange-bitbank-over-alleged-bitcoin-transfers-to-irgc/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
+      "scraped_at": "2026-09-17T23:07:43.415Z"
     },
     {
       "id": "17b37f101246197e67416cd9b34e5329ee5c56365d25792e9648675641995ae1",
       "title": "CoinMarketCalSafe: Safenet Aegis Proposal Draft Live for DAO Discussion to Fund Ecosystem Security Release - 17 Sep 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:e8207508a094b:0-safe-safenet-aegis-proposal-draft-live-for-dao-discussion-to-fund-ecosystem-security-release-17-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
+      "scraped_at": "2026-09-17T23:07:43.415Z"
     },
     {
       "id": "373f87bc53fb2bf88524a1b9f011e83280060ad03de14b7a3ece4046fef43f69",
       "title": "CoinMarketCalNEAR Protocol: near.com perps positions become confidential by default - 17 Sep 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:1b7e76b7f094b:0-near-protocol-near-com-perps-positions-become-confidential-by-default-17-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
+      "scraped_at": "2026-09-17T23:07:43.415Z"
     },
     {
       "id": "0d0f0d8dca41912fbdc8301f69780ebac1e0881368e529e194bd97c1286b8226",
       "title": "CoinMarketCalPlume: Liquid staking goes live on Mystic Finance with myPLUME receipt token - 17 Sep 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:b87ef4e24094b:0-plume-liquid-staking-goes-live-on-mystic-finance-with-myplume-receipt-token-17-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "0a25143e95a7a0ed1de7e914fdf3406f3bd37aa08e60a230c88e6f79b8d0b708",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260917006765:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "9d01519bafb92d57d19e78ff49b4aae017a9bd1dbf88b09cd3029b7607dda47b",
-      "title": "CoindarLCX to Be Integrated With Titan",
-      "url": "https://www.tradingview.com/news/coindar:ae2c7f645094b:0-lcx-to-be-integrated-with-titan/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "d11eaaaa822c6b6f26e1a97bf44cc8a08ff1125a9f04c223d241d49d017df4ed",
-      "title": "CoindarAlchemy Pay to Hold AMA on Discord on September 24th",
-      "url": "https://www.tradingview.com/news/coindar:c120154ef094b:0-alchemy-pay-to-hold-ama-on-discord-on-september-24th/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "7a04b448821b6e48962b7a549733f78d781491326b56eaf7d60f0b6e885c83c2",
-      "title": "CointelegraphCFTC expands regulatory relief for passive trading software providers",
-      "url": "https://www.tradingview.com/news/cointelegraph:7127656f8094b:0-cftc-expands-regulatory-relief-for-passive-trading-software-providers/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "7bfbda91f6d2a5ebe6c3701d7ddc1541ffa72116e6f4572d025209e7f02fad05",
-      "title": "CoindarGMT to Start STEPN Marathon Round 4 on September 21st",
-      "url": "https://www.tradingview.com/news/coindar:c6e0209a6094b:0-gmt-to-start-stepn-marathon-round-4-on-september-21st/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "68c61c5f4dad92d2bf69331b6ecacbe1b3b89e2c95623eced2c5712b651f0619",
-      "title": "CoindarNEXO to Hold Giveaway",
-      "url": "https://www.tradingview.com/news/coindar:c251a2862094b:0-nexo-to-hold-giveaway/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "5333622a2bedbac632501f9ad4660e4e3ba226232a736ba36f69885b8f9d793d",
-      "title": "CoindarBonfida to Be Integrated With Bubblemaps",
-      "url": "https://www.tradingview.com/news/coindar:c518ddeae094b:0-bonfida-to-be-integrated-with-bubblemaps/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "b96002f0a90876d5b7d0a4d090525d450d0d3ada732bb4c68e6eb1d9576758ef",
-      "title": "BeincryptoAnalyst Says Bitcoin ETFs Could Triple Gold. What Does It Mean for BTC Price?",
-      "url": "https://www.tradingview.com/news/beincrypto:bb9a1c621094b:0-analyst-says-bitcoin-etfs-could-triple-gold-what-does-it-mean-for-btc-price/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "2d2dd4a011135eb2fe12a1f141828d3aef62bcbb7383895ae91d80c7cd4ec850",
-      "title": "CoindarInjective to Be Integrated With Solana",
-      "url": "https://www.tradingview.com/news/coindar:a39cad569094b:0-injective-to-be-integrated-with-solana/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
-    },
-    {
-      "id": "e08b45f2d996454a62830b7cf4c35123154c6eb33b691a61850d655300783eac",
-      "title": "CoindarLisk to Participate in TOKEN2049 in Singapore on October 7th",
-      "url": "https://www.tradingview.com/news/coindar:b6be8bb5f094b:0-lisk-to-participate-in-token2049-in-singapore-on-october-7th/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T20:34:26.043Z"
+      "scraped_at": "2026-09-17T23:07:43.415Z"
     }
   ]
 }
