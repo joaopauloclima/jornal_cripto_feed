@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-09-17T17:17:21.977Z",
-  "total": 15,
+  "generated_at": "2026-09-17T20:34:26.046Z",
+  "total": 14,
   "items": [
     {
-      "id": "cc37526885c4f09ee029750271a7845d837c7b95c72ad05dff2fb963ea1880df",
-      "title": "CoinMarketCalOnyxcoin: Onyx Mesh goes live for permissioned ledgers - 17 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:a87646e34094b:0-onyxcoin-onyx-mesh-goes-live-for-permissioned-ledgers-17-sep-2026/",
+      "id": "6d9ee3785b810959b8cdcc32b21def87269759c64088a14367876f7a58aa8e2c",
+      "title": "The BlockUS sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
+      "url": "https://www.tradingview.com/news/the_block:0e0bebbd1094b:0-us-sanctions-iranian-crypto-exchange-bitbank-over-alleged-bitcoin-transfers-to-irgc/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     },
     {
-      "id": "86a546b86af0f93f747a3eac454543bb333b0e74ddfae73b6ef293d1ea3d8b7f",
-      "title": "CoinMarketCalUniswap: SEC Innovation Exemption Covers Permissioned Pools for Tokenized Stock Trading - 17 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:0bf8f8c9b094b:0-uniswap-sec-innovation-exemption-covers-permissioned-pools-for-tokenized-stock-trading-17-sep-2026/",
+      "id": "17b37f101246197e67416cd9b34e5329ee5c56365d25792e9648675641995ae1",
+      "title": "CoinMarketCalSafe: Safenet Aegis Proposal Draft Live for DAO Discussion to Fund Ecosystem Security Release - 17 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:e8207508a094b:0-safe-safenet-aegis-proposal-draft-live-for-dao-discussion-to-fund-ecosystem-security-release-17-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     },
     {
-      "id": "a9ca64de85b9677588486c06bb2feb8669a7c7dbdcd914f1e44f9e919ea03719",
-      "title": "CoinMarketCalAvalanche: Paxos regulated infrastructure goes live for institutional access - 17 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:cdf3e832d094b:0-avalanche-paxos-regulated-infrastructure-goes-live-for-institutional-access-17-sep-2026/",
+      "id": "373f87bc53fb2bf88524a1b9f011e83280060ad03de14b7a3ece4046fef43f69",
+      "title": "CoinMarketCalNEAR Protocol: near.com perps positions become confidential by default - 17 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:1b7e76b7f094b:0-near-protocol-near-com-perps-positions-become-confidential-by-default-17-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     },
     {
-      "id": "0d2e00152d9575bda4bb9d6961d52ab86e79ada307b34e15dd22eeb7edc754bb",
-      "title": "The BlockRegulators keep moving on crypto: CFTC follows SEC with developer-friendly no-action stance",
-      "url": "https://www.tradingview.com/news/the_block:ba16bc4d7094b:0-regulators-keep-moving-on-crypto-cftc-follows-sec-with-developer-friendly-no-action-stance/",
+      "id": "0d0f0d8dca41912fbdc8301f69780ebac1e0881368e529e194bd97c1286b8226",
+      "title": "CoinMarketCalPlume: Liquid staking goes live on Mystic Finance with myPLUME receipt token - 17 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b87ef4e24094b:0-plume-liquid-staking-goes-live-on-mystic-finance-with-myplume-receipt-token-17-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     },
     {
-      "id": "ec5192f4a2b98ce1f7855bc0c5ca64d823aff5843de31201eefe204150622a70",
-      "title": "Crypto BriefingJPMorgan warns agency crypto rules lack durability after CLARITY Act failure",
-      "url": "https://www.tradingview.com/news/cryptobriefing:a4ea27ca4094b:0-jpmorgan-warns-agency-crypto-rules-lack-durability-after-clarity-act-failure/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
-    },
-    {
-      "id": "56d5b0ce085e2c0dc406ec764c08509ec441db9b25308dcdea9acab35cb86c78",
-      "title": "Crypto BriefingBitcoin's Bull Index drops to 30 after Fed's rate hike",
-      "url": "https://www.tradingview.com/news/cryptobriefing:49c6f6c24094b:0-bitcoin-s-bull-index-drops-to-30-after-fed-s-rate-hike/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
-    },
-    {
-      "id": "cbc852954a8d6838c8aa9893874a7685a66eab57cc13ddea4bf4e7cf3b3573fa",
-      "title": "Crypto BriefingBitcoin trades near $76K as US stocks rebound from Fed's first rate hike since 2023",
-      "url": "https://www.tradingview.com/news/cryptobriefing:ee0fb5753094b:0-bitcoin-trades-near-76k-as-us-stocks-rebound-from-fed-s-first-rate-hike-since-2023/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
-    },
-    {
-      "id": "63360fe023c6893c4561000f9189fd921799c6b3aaf989581cefc1133071a4ff",
-      "title": "Crypto BriefingBitcoin ETFs expected to triple gold ETF assets within three to five years, says Bloomberg analyst",
-      "url": "https://www.tradingview.com/news/cryptobriefing:c475746cd094b:0-bitcoin-etfs-expected-to-triple-gold-etf-assets-within-three-to-five-years-says-bloomberg-analyst/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
-    },
-    {
-      "id": "3f81930bc8d7c65ad4716ea46154532751da9e59b4cc832242600a0ec976f759",
-      "title": "CointelegraphBitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-      "url": "https://www.tradingview.com/news/cointelegraph:f52dafbf8094b:0-bitcoin-coils-near-76-5k-as-us-stocks-rebound-from-fed-rate-hike/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
-    },
-    {
-      "id": "b8f8bbb1a9d96a3c43a12a4f43df4d6b896055cf5be3e410ded1e9fd691214b4",
+      "id": "0a25143e95a7a0ed1de7e914fdf3406f3bd37aa08e60a230c88e6f79b8d0b708",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260917005792:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260917006765:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     },
     {
-      "id": "6e84af0fa079c0d28423fe22f79e9643184b58464ed114815388a7ab4bd731f1",
-      "title": "Crypto BriefingBitcoin Life launches regulated Bitcoin insurance bonds in the UK",
-      "url": "https://www.tradingview.com/news/cryptobriefing:c972f8ef0094b:0-bitcoin-life-launches-regulated-bitcoin-insurance-bonds-in-the-uk/",
+      "id": "9d01519bafb92d57d19e78ff49b4aae017a9bd1dbf88b09cd3029b7607dda47b",
+      "title": "CoindarLCX to Be Integrated With Titan",
+      "url": "https://www.tradingview.com/news/coindar:ae2c7f645094b:0-lcx-to-be-integrated-with-titan/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     },
     {
-      "id": "588535c800dd52812d74da486c003292785be74a7b38a1f4aa9f4d623a0728eb",
-      "title": "CointelegraphZcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
-      "url": "https://www.tradingview.com/news/cointelegraph:9d9e764aa094b:0-zcash-miner-fortitude-taps-former-hut-8-ceo-to-lead-ahead-of-public-listing/",
+      "id": "d11eaaaa822c6b6f26e1a97bf44cc8a08ff1125a9f04c223d241d49d017df4ed",
+      "title": "CoindarAlchemy Pay to Hold AMA on Discord on September 24th",
+      "url": "https://www.tradingview.com/news/coindar:c120154ef094b:0-alchemy-pay-to-hold-ama-on-discord-on-september-24th/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     },
     {
-      "id": "24b7376bddde4ee4fb7fccf67ea04816d2fffc179b1384d386424760b63195c2",
-      "title": "The Block‘There’s not enough blockspace’: Avalanche Treasury CEO says AI agents could crunch L1 blockchain capacity",
-      "url": "https://www.tradingview.com/news/the_block:4c8e566b2094b:0-there-s-not-enough-blockspace-avalanche-treasury-ceo-says-ai-agents-could-crunch-l1-blockchain-capacity/",
+      "id": "7a04b448821b6e48962b7a549733f78d781491326b56eaf7d60f0b6e885c83c2",
+      "title": "CointelegraphCFTC expands regulatory relief for passive trading software providers",
+      "url": "https://www.tradingview.com/news/cointelegraph:7127656f8094b:0-cftc-expands-regulatory-relief-for-passive-trading-software-providers/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     },
     {
-      "id": "5b56262e7634bd4b2312a9f08959fb1ea5f553a27877dd049fb3c630cb6e235c",
-      "title": "Crypto Briefing$40T US debt neither bullish nor bearish for Bitcoin",
-      "url": "https://www.tradingview.com/news/cryptobriefing:c659e52fa094b:0-40t-us-debt-neither-bullish-nor-bearish-for-bitcoin/",
+      "id": "7bfbda91f6d2a5ebe6c3701d7ddc1541ffa72116e6f4572d025209e7f02fad05",
+      "title": "CoindarGMT to Start STEPN Marathon Round 4 on September 21st",
+      "url": "https://www.tradingview.com/news/coindar:c6e0209a6094b:0-gmt-to-start-stepn-marathon-round-4-on-september-21st/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.973Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     },
     {
-      "id": "f3fa9ef0e6cfebbaa383b7220ab88fa276b30d9b2f075b9d042b5b20c036a9da",
-      "title": "The BlockWorld launches ‘World Money’ super app with stablecoins, Stripe integration and boosted rewards",
-      "url": "https://www.tradingview.com/news/the_block:e59f6d9c5094b:0-world-launches-world-money-super-app-with-stablecoins-stripe-integration-and-boosted-rewards/",
+      "id": "68c61c5f4dad92d2bf69331b6ecacbe1b3b89e2c95623eced2c5712b651f0619",
+      "title": "CoindarNEXO to Hold Giveaway",
+      "url": "https://www.tradingview.com/news/coindar:c251a2862094b:0-nexo-to-hold-giveaway/",
       "source": "tradingview",
-      "scraped_at": "2026-09-17T17:17:21.974Z"
+      "scraped_at": "2026-09-17T20:34:26.043Z"
+    },
+    {
+      "id": "5333622a2bedbac632501f9ad4660e4e3ba226232a736ba36f69885b8f9d793d",
+      "title": "CoindarBonfida to Be Integrated With Bubblemaps",
+      "url": "https://www.tradingview.com/news/coindar:c518ddeae094b:0-bonfida-to-be-integrated-with-bubblemaps/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T20:34:26.043Z"
+    },
+    {
+      "id": "b96002f0a90876d5b7d0a4d090525d450d0d3ada732bb4c68e6eb1d9576758ef",
+      "title": "BeincryptoAnalyst Says Bitcoin ETFs Could Triple Gold. What Does It Mean for BTC Price?",
+      "url": "https://www.tradingview.com/news/beincrypto:bb9a1c621094b:0-analyst-says-bitcoin-etfs-could-triple-gold-what-does-it-mean-for-btc-price/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T20:34:26.043Z"
+    },
+    {
+      "id": "2d2dd4a011135eb2fe12a1f141828d3aef62bcbb7383895ae91d80c7cd4ec850",
+      "title": "CoindarInjective to Be Integrated With Solana",
+      "url": "https://www.tradingview.com/news/coindar:a39cad569094b:0-injective-to-be-integrated-with-solana/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T20:34:26.043Z"
+    },
+    {
+      "id": "e08b45f2d996454a62830b7cf4c35123154c6eb33b691a61850d655300783eac",
+      "title": "CoindarLisk to Participate in TOKEN2049 in Singapore on October 7th",
+      "url": "https://www.tradingview.com/news/coindar:b6be8bb5f094b:0-lisk-to-participate-in-token2049-in-singapore-on-october-7th/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-17T20:34:26.043Z"
     }
   ]
 }
