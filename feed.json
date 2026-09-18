@@ -1,111 +1,118 @@
 {
-  "generated_at": "2026-09-18T16:10:17.400Z",
-  "total": 15,
+  "generated_at": "2026-09-18T19:13:23.948Z",
+  "total": 16,
   "items": [
     {
-      "id": "4687e69f34b0dc0daee15f5468ea653646c09a789b27c1a81af34c930e9c1a3c",
-      "title": "CointelegraphBitcoin hits $81K as US bond yields rebound on global oil woes",
-      "url": "https://www.tradingview.com/news/cointelegraph:f2b13b93b094b:0-bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes/",
+      "id": "ff7fe43d70adf56bb745e1acfa024ce25eef9b3a22b5d3632911df6f01410167",
+      "title": "Crypto BriefingBitcoin rises 6% as lower oil prices and SEC decision boost market",
+      "url": "https://www.tradingview.com/news/cryptobriefing:cd971689b094b:0-bitcoin-rises-6-as-lower-oil-prices-and-sec-decision-boost-market/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
-    },
-    {
-      "id": "456df724e7a2138107524d6d2ffacf4f255040399c50d3b46e8293dcd8494912",
-      "title": "Crypto BriefingLargest cluster of net long Bitcoin positions enters at $78,057",
-      "url": "https://www.tradingview.com/news/cryptobriefing:0f50757d1094b:0-largest-cluster-of-net-long-bitcoin-positions-enters-at-78-057/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
-    },
-    {
-      "id": "56e6a037f4ea6f04b388c47a9ceb8e04b73557f72dfc8fd92edade47de8c700e",
-      "title": "dpa-AFXCryptos Jump, Bitcoin Dazzles Above $80k",
-      "url": "https://www.tradingview.com/news/dpa_afx:7da73f838a77d:0-cryptos-jump-bitcoin-dazzles-above-80k/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
-    },
-    {
-      "id": "042081dc0be7f438790aaaf7577d21c9c01f508628649660c1fbb1877a360432",
-      "title": "The BlockBitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
-      "url": "https://www.tradingview.com/news/the_block:065e01342094b:0-bitcoin-reclaims-80-000-solana-and-hyperliquid-rally-as-crypto-markets-shrug-off-clarity-setback/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
-    },
-    {
-      "id": "1b28d6b781e01c7eb908abf27b7cb3e0f7c3de7986b22a0f7ea87dcc63bf9559",
-      "title": "StocktwitsBitcoin Reclaims $80K After CFTC’s Crypto Proposals – HYPE, ZEC Hit New Record Highs Amid Rally",
-      "url": "https://www.tradingview.com/news/stocktwits:df8d4e079094b:0-bitcoin-reclaims-80k-after-cftc-s-crypto-proposals-hype-zec-hit-new-record-highs-amid-rally/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
+      "scraped_at": "2026-09-18T19:13:23.944Z"
     },
     {
       "id": "561c94731871a5b888c89764f96a785efcf84f8f3567ed542534b175406f673e",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260918002228:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
+      "scraped_at": "2026-09-18T19:13:23.944Z"
     },
     {
-      "id": "3471f92ce2ed47b91403cdf76b741681a03106ff45551e5b598380bf67738748",
+      "id": "3a3391697283408ded8a55f23137a6b3c65c484298e799f678f5e6942822b883",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260918004423:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260918002599:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
+      "scraped_at": "2026-09-18T19:13:23.944Z"
     },
     {
-      "id": "2ce03bf4c083cfeec4fbe9de5c04564991ef6dd66310ceacdd068012c4c7d0d8",
-      "title": "The BlockGrayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
-      "url": "https://www.tradingview.com/news/the_block:f8edefa9a094b:0-grayscale-s-zcash-etf-plans-3-for-1-split-after-233-million-inflow-surge/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
-    },
-    {
-      "id": "f5bb0ed5428ae9bcf4a5967b21b553ad74d539bf493ce20a95f603bfc7448507",
-      "title": "BenzingaBitcoin Cracks $80,000, Ethereum, XRP Surge 4% on $170M Short Liquidations",
-      "url": "https://www.tradingview.com/news/benzinga:f44635b46094b:0-bitcoin-cracks-80-000-ethereum-xrp-surge-4-on-170m-short-liquidations/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
-    },
-    {
-      "id": "30c8e5ab76adfb6b9ca2c95ad6c0f1567f318d62b4b7ff6565b6f1af32c6759a",
-      "title": "99BitcoinsWhat Does Agentic Era Mean For Ripple XRP?",
-      "url": "https://www.tradingview.com/news/99Bitcoins:b10b4f22b094b:0-what-does-agentic-era-mean-for-ripple-xrp/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
-    },
-    {
-      "id": "fb200c1e55fe3a941c179bd9b01819ae9612fdd0fd577745cffdc1c2660dcac2",
-      "title": "Crypto BriefingBitcoin surges above $80,000, triggering $183M in shorts liquidated",
-      "url": "https://www.tradingview.com/news/cryptobriefing:f67e749d7094b:0-bitcoin-surges-above-80-000-triggering-183m-in-shorts-liquidated/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
-    },
-    {
-      "id": "5fe0e261c04326631830aa1e6ecf4c6aaeaa098795186e5ba0bf6df1cd7432f7",
+      "id": "23bd255c72f4823b0cbcc5f604809e2bf8c4d154825a8cf9cc713294894f4e29",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260918004200:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260918005414:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
+      "scraped_at": "2026-09-18T19:13:23.944Z"
     },
     {
-      "id": "bc04f8852cf595bc7180698a16618cf1555b36f97d9cc38577492528a5afac85",
+      "id": "3e24f2284378b3f2fe1e6959591dcb29cac88be04fdab5f4962e72050b958c18",
+      "title": "CointelegraphCrypto stocks rebound after CLARITY Act selloff",
+      "url": "https://www.tradingview.com/news/cointelegraph:c5e58e782094b:0-crypto-stocks-rebound-after-clarity-act-selloff/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T19:13:23.944Z"
+    },
+    {
+      "id": "eb54c4499d4dab0cae6bf3fccbee258d229b477aad277df6827736a267bd63eb",
+      "title": "BenzingaXRP Skyrockets 6% as Whale Binance Inflows Hit 6-Month High",
+      "url": "https://www.tradingview.com/news/benzinga:1bb6ce544094b:0-xrp-skyrockets-6-as-whale-binance-inflows-hit-6-month-high/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T19:13:23.944Z"
+    },
+    {
+      "id": "84a41166f002b61e194c5520ee932dcb076625e19193aed5db451c869ccd92ac",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260918004150:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260918005371:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
+      "scraped_at": "2026-09-18T19:13:23.944Z"
     },
     {
-      "id": "2022f1a4b0c03878dc41a2efd1ec0b5985677d61771cda18f9ed8e3464ec1806",
-      "title": "Crypto BriefingBlackRock cites financialization as key driver for Bitcoin ETFs",
-      "url": "https://www.tradingview.com/news/cryptobriefing:ad426b5eb094b:0-blackrock-cites-financialization-as-key-driver-for-bitcoin-etfs/",
+      "id": "86af335354749357a8ecf078b1006780801a2849a36b79aed880042b14eaf213",
+      "title": "Dow Jones NewswiresBitcoin Trades Above $80,000 to Clock Third Day of Gains — 2nd Update",
+      "url": "https://www.tradingview.com/news/DJN_DN20260918005343:0-bitcoin-trades-above-80-000-to-clock-third-day-of-gains-2nd-update/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
+      "scraped_at": "2026-09-18T19:13:23.944Z"
     },
     {
-      "id": "12e4d56ef625f6ac588889334c42d28941960eebeddcc5d97e21ac9b32927cd4",
-      "title": "Finance MagnatesTurkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network",
-      "url": "https://www.tradingview.com/news/financemagnates:c14aadc86094b:0-turkey-detains-175-in-alleged-266m-forex-and-crypto-fraud-network/",
+      "id": "5279edc390f5fe228b1785e424e1aacc25aa7f3cd2b2cc95562113055e08c8eb",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260918005245:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T16:10:17.396Z"
+      "scraped_at": "2026-09-18T19:13:23.944Z"
+    },
+    {
+      "id": "cf5dffffe0d6e0e5b340d2ff128f6a1ccde9a6ba27e8c4c997522645833ed06a",
+      "title": "BusinessWireAfter 7% Rally in SOL, Solmate CEO Believes The Token Is Still Undervalued",
+      "url": "https://www.tradingview.com/news/business_wire:825fa3dec08ba:0-after-7-rally-in-sol-solmate-ceo-believes-the-token-is-still-undervalued/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T19:13:23.944Z"
+    },
+    {
+      "id": "2891adc5e1eafede3a794f556a879cee7b1284a93141fc3b70bee7521f5b3904",
+      "title": "BenzingaGrayscale Says Rate Hike Is 'Unlikely to Drive Major Shifts' In Bitcoin",
+      "url": "https://www.tradingview.com/news/benzinga:e2b4a389f094b:0-grayscale-says-rate-hike-is-unlikely-to-drive-major-shifts-in-bitcoin/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T19:13:23.944Z"
+    },
+    {
+      "id": "a1f95a4aeb71cc7684f4fbe110288363f1b79b2059f280cd8b5faec302955a8c",
+      "title": "BenzingaBitcoin Tops $80,000, S&P 500 Slips as Yields Reclaim 5%: Stock Market Today",
+      "url": "https://www.tradingview.com/news/benzinga:068e41279094b:0-bitcoin-tops-80-000-s-p-500-slips-as-yields-reclaim-5-stock-market-today/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T19:13:23.945Z"
+    },
+    {
+      "id": "1e0f66ec3063d4f57ef5313478e4d78ba4c6fcde86bd783e558cba4c589af7f8",
+      "title": "CNBC TV18Start a free trial to read this news",
+      "url": "https://www.tradingview.com/news/cnbctv:04c9aad27094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T19:13:23.945Z"
+    },
+    {
+      "id": "35da9f1615c428f864e974302e0cb263dc9687d0f847fb1e204514062d136afa",
+      "title": "Crypto Briefing$515M liquidated from cryptocurrency market in 24 hours",
+      "url": "https://www.tradingview.com/news/cryptobriefing:73e03e576094b:0-515m-liquidated-from-cryptocurrency-market-in-24-hours/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T19:13:23.945Z"
+    },
+    {
+      "id": "608f50c54b89e48b125ede7a31c2ee18089f1cb5c0586cee1ee4bd0080c0c84a",
+      "title": "FinanceWireTetherMax Launches Beginner’s Guide to Help Crypto Traders Understand Spot, Futures and Cashback",
+      "url": "https://www.tradingview.com/news/financewire:aa2cf74cc094b:0-tethermax-launches-beginner-s-guide-to-help-crypto-traders-understand-spot-futures-and-cashback/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T19:13:23.945Z"
+    },
+    {
+      "id": "6e199181f28636f568cec483473d2f34f00057c7e6b1fa6049f835d5f9e39525",
+      "title": "FMace NewsKC FED'S SCHMID Q&A/VAIL: 'STRUGGLE TO UNDERSTAND' ANY ADVANTAGE OF STABLECOIN OVER FEDNOW INSTANT PAYMENTS EXCEPT IN CERTAIN NARROW CIRCUMSTANCES",
+      "url": "https://www.tradingview.com/news/macenews:a6ac89c57094b:0-kc-fed-s-schmid-q-a-vail-struggle-to-understand-any-advantage-of-stablecoin-over-fednow-instant-payments-except-in-certain-narrow-circumstances/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T19:13:23.945Z"
     }
   ]
 }
