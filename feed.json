@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-09-18T11:53:05.147Z",
-  "total": 14,
+  "generated_at": "2026-09-18T16:10:17.400Z",
+  "total": 15,
   "items": [
     {
-      "id": "79ee1661f5ec935a8b24a6ed4e3bca31ce3e87f61edb1b5c4b80d297be5d3356",
-      "title": "Crypto BriefingBinance netflow shows inflow of 4,618 BTC on September 15",
-      "url": "https://www.tradingview.com/news/cryptobriefing:4ef627bf2094b:0-binance-netflow-shows-inflow-of-4-618-btc-on-september-15/",
+      "id": "4687e69f34b0dc0daee15f5468ea653646c09a789b27c1a81af34c930e9c1a3c",
+      "title": "CointelegraphBitcoin hits $81K as US bond yields rebound on global oil woes",
+      "url": "https://www.tradingview.com/news/cointelegraph:f2b13b93b094b:0-bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.141Z"
+      "scraped_at": "2026-09-18T16:10:17.396Z"
     },
     {
-      "id": "8dc37552f383bed53fadc32ef93cbc370546ffc73ca15e1fd87c9a63a0bc2cc7",
-      "title": "CointelegraphDragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
-      "url": "https://www.tradingview.com/news/cointelegraph:77d7cb9a0094b:0-dragonfly-s-qureshi-calls-for-end-to-zcash-dev-fund-after-2028/",
+      "id": "456df724e7a2138107524d6d2ffacf4f255040399c50d3b46e8293dcd8494912",
+      "title": "Crypto BriefingLargest cluster of net long Bitcoin positions enters at $78,057",
+      "url": "https://www.tradingview.com/news/cryptobriefing:0f50757d1094b:0-largest-cluster-of-net-long-bitcoin-positions-enters-at-78-057/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
+      "scraped_at": "2026-09-18T16:10:17.396Z"
     },
     {
-      "id": "781aa80f261961ca3537c27dd88dd9180671844d3a07804761cef415ab393fd6",
-      "title": "BEMace NewsMORE ECB'S LAGARDE: WE VERY MUCH HOPE THAT DEBATE OVER DIGITAL EURO LEGISLATION WILL CONCLUDE THIS YEAR; WE AIM TO ROLE OUT A PILOT IN BY MID 2027",
-      "url": "https://www.tradingview.com/news/macenews:7b7b3a2a3094b:0-more-ecb-s-lagarde-we-very-much-hope-that-debate-over-digital-euro-legislation-will-conclude-this-year-we-aim-to-role-out-a-pilot-in-by-mid-2027/",
+      "id": "56e6a037f4ea6f04b388c47a9ceb8e04b73557f72dfc8fd92edade47de8c700e",
+      "title": "dpa-AFXCryptos Jump, Bitcoin Dazzles Above $80k",
+      "url": "https://www.tradingview.com/news/dpa_afx:7da73f838a77d:0-cryptos-jump-bitcoin-dazzles-above-80k/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
+      "scraped_at": "2026-09-18T16:10:17.396Z"
     },
     {
-      "id": "00c81bd7cf384b4eaeaf846e5059aae6510563c256d05ab82f8bc59025185271",
-      "title": "BEMace NewsECB PRESIDENT CHRISTINE LAGARDE AT EUROGROUP PRESS CONFERENCE IN DUBLIN: ECB TO LAUNCH A DIGITAL EURO FOR INTRA-BANK TRANSACTIONS ON MONDAY",
-      "url": "https://www.tradingview.com/news/macenews:dd7ee6d8b094b:0-ecb-president-christine-lagarde-at-eurogroup-press-conference-in-dublin-ecb-to-launch-a-digital-euro-for-intra-bank-transactions-on-monday/",
+      "id": "042081dc0be7f438790aaaf7577d21c9c01f508628649660c1fbb1877a360432",
+      "title": "The BlockBitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
+      "url": "https://www.tradingview.com/news/the_block:065e01342094b:0-bitcoin-reclaims-80-000-solana-and-hyperliquid-rally-as-crypto-markets-shrug-off-clarity-setback/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
+      "scraped_at": "2026-09-18T16:10:17.396Z"
     },
     {
-      "id": "0143b33e1881df394f5d2bf28283d42395a0f166bbd6b5b5859a24519d852be0",
-      "title": "CoinMarketCalMorpho: Stock-backed lending goes live on Base - 18 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:30e8662c3094b:0-morpho-stock-backed-lending-goes-live-on-base-18-sep-2026/",
+      "id": "1b28d6b781e01c7eb908abf27b7cb3e0f7c3de7986b22a0f7ea87dcc63bf9559",
+      "title": "StocktwitsBitcoin Reclaims $80K After CFTC’s Crypto Proposals – HYPE, ZEC Hit New Record Highs Amid Rally",
+      "url": "https://www.tradingview.com/news/stocktwits:df8d4e079094b:0-bitcoin-reclaims-80k-after-cftc-s-crypto-proposals-hype-zec-hit-new-record-highs-amid-rally/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
-    },
-    {
-      "id": "1c18b58160eaf9a55980bc0853799f19b99548f602d8710cd911afe1796f516c",
-      "title": "CryptoNewsGrayscale Sees Limited Bitcoin Impact From 25-Basis-Point Hike",
-      "url": "https://www.tradingview.com/news/cryptonews:36464154c094b:0-grayscale-sees-limited-bitcoin-impact-from-25-basis-point-hike/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
-    },
-    {
-      "id": "fc4f680f19010ab898a2133199443e4eace6b2c00ded4e3a61387c1caa526402",
-      "title": "CointelegraphBitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-      "url": "https://www.tradingview.com/news/cointelegraph:2538eb437094b:0-bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
-    },
-    {
-      "id": "69966a4a406b597e34815c3fd7a44d33040b6b138b3feb073d623f322c8d8e22",
-      "title": "BeincryptoBitcoin to $100,000 Next Year? VanEck Reveals What Gets It There",
-      "url": "https://www.tradingview.com/news/beincrypto:507bee65b094b:0-bitcoin-to-100-000-next-year-vaneck-reveals-what-gets-it-there/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
-    },
-    {
-      "id": "4e1091d956966c3ef8a78165597581c2ed862ed1ee8fd1fb05a26f8d9172d57c",
-      "title": "Crypto BriefingBitcoin price jumps $2,000 to reclaim $78,000 after $80M shorts liquidated",
-      "url": "https://www.tradingview.com/news/cryptobriefing:e0c0f9b7d094b:0-bitcoin-price-jumps-2-000-to-reclaim-78-000-after-80m-shorts-liquidated/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
-    },
-    {
-      "id": "096f0d570cd41e11fc8455ee7538178f8e86f090ee858ce2870c6f543ded65e3",
-      "title": "ChainwireBybit's USD1 Hold & Earn Closes Out with a Final Shot at 35 Million WLFI",
-      "url": "https://www.tradingview.com/news/chainwire:2fcad8bfe094b:0-bybit-s-usd1-hold-earn-closes-out-with-a-final-shot-at-35-million-wlfi/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
-    },
-    {
-      "id": "e14dd4a5a0ff49dfced291312a0df2cb313c74bf23ada356e27ce6e2e9a5a439",
-      "title": "Binance NewsPolymarket Odds of Next Grok Model Release Before September 18 Fall to 15%",
-      "url": "https://www.tradingview.com/news/binance_news:6de1ea5bb094b:0-polymarket-odds-of-next-grok-model-release-before-september-18-fall-to-15/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
-    },
-    {
-      "id": "cda386f6fcb5cd610cdc32e810ae23714757a43aa2c3df555c57f90220e182da",
-      "title": "Binance NewsNGI+ Tokenized by AssetoFinance Tracks Partners Group Infrastructure Fund NAV",
-      "url": "https://www.tradingview.com/news/binance_news:531687550094b:0-ngi-tokenized-by-assetofinance-tracks-partners-group-infrastructure-fund-nav/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
-    },
-    {
-      "id": "ac7d32bc477d21b35f044e2f6b303e8bb562b29d9682864e7612c55207daddc6",
-      "title": "Binance NewsEthereum Foundation Transfers $2.45 Million in ETH to Unlabeled Gnosis Safe Wallet",
-      "url": "https://www.tradingview.com/news/binance_news:d9c13401e094b:0-ethereum-foundation-transfers-2-45-million-in-eth-to-unlabeled-gnosis-safe-wallet/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
+      "scraped_at": "2026-09-18T16:10:17.396Z"
     },
     {
       "id": "561c94731871a5b888c89764f96a785efcf84f8f3567ed542534b175406f673e",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20260918002228:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-18T11:53:05.142Z"
+      "scraped_at": "2026-09-18T16:10:17.396Z"
+    },
+    {
+      "id": "3471f92ce2ed47b91403cdf76b741681a03106ff45551e5b598380bf67738748",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260918004423:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T16:10:17.396Z"
+    },
+    {
+      "id": "2ce03bf4c083cfeec4fbe9de5c04564991ef6dd66310ceacdd068012c4c7d0d8",
+      "title": "The BlockGrayscale’s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
+      "url": "https://www.tradingview.com/news/the_block:f8edefa9a094b:0-grayscale-s-zcash-etf-plans-3-for-1-split-after-233-million-inflow-surge/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T16:10:17.396Z"
+    },
+    {
+      "id": "f5bb0ed5428ae9bcf4a5967b21b553ad74d539bf493ce20a95f603bfc7448507",
+      "title": "BenzingaBitcoin Cracks $80,000, Ethereum, XRP Surge 4% on $170M Short Liquidations",
+      "url": "https://www.tradingview.com/news/benzinga:f44635b46094b:0-bitcoin-cracks-80-000-ethereum-xrp-surge-4-on-170m-short-liquidations/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T16:10:17.396Z"
+    },
+    {
+      "id": "30c8e5ab76adfb6b9ca2c95ad6c0f1567f318d62b4b7ff6565b6f1af32c6759a",
+      "title": "99BitcoinsWhat Does Agentic Era Mean For Ripple XRP?",
+      "url": "https://www.tradingview.com/news/99Bitcoins:b10b4f22b094b:0-what-does-agentic-era-mean-for-ripple-xrp/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T16:10:17.396Z"
+    },
+    {
+      "id": "fb200c1e55fe3a941c179bd9b01819ae9612fdd0fd577745cffdc1c2660dcac2",
+      "title": "Crypto BriefingBitcoin surges above $80,000, triggering $183M in shorts liquidated",
+      "url": "https://www.tradingview.com/news/cryptobriefing:f67e749d7094b:0-bitcoin-surges-above-80-000-triggering-183m-in-shorts-liquidated/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T16:10:17.396Z"
+    },
+    {
+      "id": "5fe0e261c04326631830aa1e6ecf4c6aaeaa098795186e5ba0bf6df1cd7432f7",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260918004200:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T16:10:17.396Z"
+    },
+    {
+      "id": "bc04f8852cf595bc7180698a16618cf1555b36f97d9cc38577492528a5afac85",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260918004150:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T16:10:17.396Z"
+    },
+    {
+      "id": "2022f1a4b0c03878dc41a2efd1ec0b5985677d61771cda18f9ed8e3464ec1806",
+      "title": "Crypto BriefingBlackRock cites financialization as key driver for Bitcoin ETFs",
+      "url": "https://www.tradingview.com/news/cryptobriefing:ad426b5eb094b:0-blackrock-cites-financialization-as-key-driver-for-bitcoin-etfs/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T16:10:17.396Z"
+    },
+    {
+      "id": "12e4d56ef625f6ac588889334c42d28941960eebeddcc5d97e21ac9b32927cd4",
+      "title": "Finance MagnatesTurkey Detains 175 in Alleged $266m Forex and Crypto Fraud Network",
+      "url": "https://www.tradingview.com/news/financemagnates:c14aadc86094b:0-turkey-detains-175-in-alleged-266m-forex-and-crypto-fraud-network/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-18T16:10:17.396Z"
     }
   ]
 }
