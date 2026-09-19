@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-19T21:46:51.833Z",
+  "generated_at": "2026-09-19T23:59:00.655Z",
   "total": 15,
   "items": [
+    {
+      "id": "89c4b273ee0dfd3ed2ffeadb28758b4048f0ac9adc28c1b8d62b12d796b74497",
+      "title": "Crypto BriefingBitcoin ETFs now hold 6% of total Bitcoin market cap",
+      "url": "https://www.tradingview.com/news/cryptobriefing:d51c983dd094b:0-bitcoin-etfs-now-hold-6-of-total-bitcoin-market-cap/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T23:59:00.650Z"
+    },
+    {
+      "id": "30f67c671a5cce0ededfdb32932ef34d3666ea3ff0d1ef9956a2f49fd23d97f3",
+      "title": "Crypto BriefingSolana ETFs notch 12 consecutive weeks of inflows as Bitcoin posts its quietest week on record",
+      "url": "https://www.tradingview.com/news/cryptobriefing:a6f937811094b:0-solana-etfs-notch-12-consecutive-weeks-of-inflows-as-bitcoin-posts-its-quietest-week-on-record/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T23:59:00.650Z"
+    },
+    {
+      "id": "4074f05ad7008f24fc8eaeb0b9e0d06f21a00b851ed5d662625c556a96592c3a",
+      "title": "Finance MagnatesWhy Is Ethereum Up Today? ETH Hits Highest Price Since January as $2,757 Comes Into View",
+      "url": "https://www.tradingview.com/news/financemagnates:f266b6359094b:0-why-is-ethereum-up-today-eth-hits-highest-price-since-january-as-2-757-comes-into-view/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T23:59:00.651Z"
+    },
     {
       "id": "8377f82db671529377e73df69d5ce0ea4d09a45261a38ede7c378344450ce268",
       "title": "CoinMarketCalInjective: USDC Becomes the Canonical Stablecoin Standard Across 20+ Chains - 19 Sep 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:92c6f24d9094b:0-injective-usdc-becomes-the-canonical-stablecoin-standard-across-20-chains-19-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.830Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "ec08b2f295ec29d0784f98b19cab9b5715ad4f757e5b5e569769eb4335da029d",
       "title": "NewsBTCEU Cyber Resilience Act Brings 24-Hour Vulnerability Reporting Into Force",
       "url": "https://www.tradingview.com/news/newsbtc:1848ba7c6094b:0-eu-cyber-resilience-act-brings-24-hour-vulnerability-reporting-into-force/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "bc494b88401de9122e0e6c28718280fa26a9254d519dfd7afde62a8105363eef",
       "title": "CoindarCronos to Host Meetup in Rome on September 26th",
       "url": "https://www.tradingview.com/news/coindar:4f9752469094b:0-cronos-to-host-meetup-in-rome-on-september-26th/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "6baca6d6b309f6ec56433efabc465201db4316fd431aa9af63dc54ecb79c1393",
       "title": "CoindarInternet Computer to Hold Live Stream on X on September 20th",
       "url": "https://www.tradingview.com/news/coindar:600b01048094b:0-internet-computer-to-hold-live-stream-on-x-on-september-20th/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "f4562679a9623541f8f6da5c269e137ec5ef0d8f0f12d4445f3117a95af04b6f",
       "title": "CoindarCardano to Hold Live Stream on X on September 24th",
       "url": "https://www.tradingview.com/news/coindar:731218532094b:0-cardano-to-hold-live-stream-on-x-on-september-24th/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "5d4e703db91d386af54059c84bc10112ccf7eced9360a59b25b16586dd65bb39",
       "title": "CoindarEthereum Developers to Test Glamsterdam Upgrade on October 6th",
       "url": "https://www.tradingview.com/news/coindar:ec6b96000094b:0-ethereum-developers-to-test-glamsterdam-upgrade-on-october-6th/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "dcebe4edf956a07f3585c547a10634126ed8d0f25d6236a49581be1dbe2963e1",
       "title": "NewsBTCCoinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions",
       "url": "https://www.tradingview.com/news/newsbtc:8fcaa25d6094b:0-coinbase-and-stablecore-open-digital-asset-rails-to-3-000-banks-and-credit-unions/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "4c9f39732c7fd4d395084311db311c8c5e8d7f9db4e5bfcb946c86af110a6e83",
       "title": "CoindarTrust Wallet to Host Meetup in Singapore on October 6th",
       "url": "https://www.tradingview.com/news/coindar:5495e0171094b:0-trust-wallet-to-host-meetup-in-singapore-on-october-6th/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "3c899fa4a5bd089e4ed686c14418f010d5005ee384d8ca841a982a1cc74090a2",
       "title": "CoindarFilecoin to Release Official Agent Skills in September",
       "url": "https://www.tradingview.com/news/coindar:2c3dd37f5094b:0-filecoin-to-release-official-agent-skills-in-september/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "ceee8e91e92f3a50e1603932432f4e35b7a772fce91aa6f004ca7b0b2c3ca176",
       "title": "CoindarSingularityNET to Host Community Call on September 25th",
       "url": "https://www.tradingview.com/news/coindar:8cecbe7ec094b:0-singularitynet-to-host-community-call-on-september-25th/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "071e167e1079fd957055978a0f3d18a978f7e1933c9759879d42893af1d3f82e",
       "title": "CoindarInjective was Integrated With Pump.fun, LaunchOnSF and Meteora",
       "url": "https://www.tradingview.com/news/coindar:81f6e3f68094b:0-injective-was-integrated-with-pump-fun-launchonsf-and-meteora/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     },
     {
       "id": "4b53ace9026fd56f3fce1a54c5497133a75d5239602017519e3df5920a6b2672",
       "title": "CoindarInjective Vote on Meridian Mainnet Upgrade to Close on September 22nd",
       "url": "https://www.tradingview.com/news/coindar:b0cd335cd094b:0-injective-vote-on-meridian-mainnet-upgrade-to-close-on-september-22nd/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
-    },
-    {
-      "id": "423b2c517c452b1d5a9efb48657ac6e137a5cc2f7e919131802b68d15e7eb72a",
-      "title": "NewsBTCTreasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network",
-      "url": "https://www.tradingview.com/news/newsbtc:c56fcf107094b:0-treasury-sanctions-bitbank-over-iranian-crypto-sanctions-evasion-network/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
-    },
-    {
-      "id": "135f2fda9a6d700599e47467249c512921e92f4ac480bcc749d3cf67c209a2ee",
-      "title": "The BlockBitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
-      "url": "https://www.tradingview.com/news/the_block:9ef5b7d30094b:0-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
-    },
-    {
-      "id": "7926dbbf984e58f6eb71d4fe3b0ce9dd984f95ae5b758d3b57377f1714853483",
-      "title": "StocktwitsT. Rowe Price's Head Of Digital Assets Says Tokenized Stocks Must Be 'Instantly Fungible,' Agency Rules Can Move Without CLARITY Act",
-      "url": "https://www.tradingview.com/news/stocktwits:cca842bbd094b:0-t-rowe-price-s-head-of-digital-assets-says-tokenized-stocks-must-be-instantly-fungible-agency-rules-can-move-without-clarity-act/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T21:46:51.831Z"
+      "scraped_at": "2026-09-19T23:59:00.651Z"
     }
   ]
 }
