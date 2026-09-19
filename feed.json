@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-09-19T16:49:32.696Z",
-  "total": 14,
+  "generated_at": "2026-09-19T19:14:46.554Z",
+  "total": 15,
   "items": [
+    {
+      "id": "dcebe4edf956a07f3585c547a10634126ed8d0f25d6236a49581be1dbe2963e1",
+      "title": "NewsBTCCoinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions",
+      "url": "https://www.tradingview.com/news/newsbtc:8fcaa25d6094b:0-coinbase-and-stablecore-open-digital-asset-rails-to-3-000-banks-and-credit-unions/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.551Z"
+    },
+    {
+      "id": "4c9f39732c7fd4d395084311db311c8c5e8d7f9db4e5bfcb946c86af110a6e83",
+      "title": "CoindarTrust Wallet to Host Meetup in Singapore on October 6th",
+      "url": "https://www.tradingview.com/news/coindar:5495e0171094b:0-trust-wallet-to-host-meetup-in-singapore-on-october-6th/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.551Z"
+    },
+    {
+      "id": "3c899fa4a5bd089e4ed686c14418f010d5005ee384d8ca841a982a1cc74090a2",
+      "title": "CoindarFilecoin to Release Official Agent Skills in September",
+      "url": "https://www.tradingview.com/news/coindar:2c3dd37f5094b:0-filecoin-to-release-official-agent-skills-in-september/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.551Z"
+    },
+    {
+      "id": "ceee8e91e92f3a50e1603932432f4e35b7a772fce91aa6f004ca7b0b2c3ca176",
+      "title": "CoindarSingularityNET to Host Community Call on September 25th",
+      "url": "https://www.tradingview.com/news/coindar:8cecbe7ec094b:0-singularitynet-to-host-community-call-on-september-25th/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.551Z"
+    },
+    {
+      "id": "071e167e1079fd957055978a0f3d18a978f7e1933c9759879d42893af1d3f82e",
+      "title": "CoindarInjective was Integrated With Pump.fun, LaunchOnSF and Meteora",
+      "url": "https://www.tradingview.com/news/coindar:81f6e3f68094b:0-injective-was-integrated-with-pump-fun-launchonsf-and-meteora/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.551Z"
+    },
+    {
+      "id": "4b53ace9026fd56f3fce1a54c5497133a75d5239602017519e3df5920a6b2672",
+      "title": "CoindarInjective Vote on Meridian Mainnet Upgrade to Close on September 22nd",
+      "url": "https://www.tradingview.com/news/coindar:b0cd335cd094b:0-injective-vote-on-meridian-mainnet-upgrade-to-close-on-september-22nd/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.551Z"
+    },
+    {
+      "id": "423b2c517c452b1d5a9efb48657ac6e137a5cc2f7e919131802b68d15e7eb72a",
+      "title": "NewsBTCTreasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network",
+      "url": "https://www.tradingview.com/news/newsbtc:c56fcf107094b:0-treasury-sanctions-bitbank-over-iranian-crypto-sanctions-evasion-network/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.551Z"
+    },
+    {
+      "id": "135f2fda9a6d700599e47467249c512921e92f4ac480bcc749d3cf67c209a2ee",
+      "title": "The BlockBitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+      "url": "https://www.tradingview.com/news/the_block:9ef5b7d30094b:0-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.551Z"
+    },
+    {
+      "id": "7926dbbf984e58f6eb71d4fe3b0ce9dd984f95ae5b758d3b57377f1714853483",
+      "title": "StocktwitsT. Rowe Price's Head Of Digital Assets Says Tokenized Stocks Must Be 'Instantly Fungible,' Agency Rules Can Move Without CLARITY Act",
+      "url": "https://www.tradingview.com/news/stocktwits:cca842bbd094b:0-t-rowe-price-s-head-of-digital-assets-says-tokenized-stocks-must-be-instantly-fungible-agency-rules-can-move-without-clarity-act/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.551Z"
+    },
+    {
+      "id": "83a0fd1ba194072eabc8f893eb883753e3f6fa1ab734c1bc30a1319211a9ba5d",
+      "title": "BenzingaBitcoin Bull Says Cancer Took Both Parents By 18, Thought He’d Die Young Too—Until He 'Uncovered a Hack' to Living Well",
+      "url": "https://www.tradingview.com/news/benzinga:a198061e4094b:0-bitcoin-bull-says-cancer-took-both-parents-by-18-thought-he-d-die-young-too-until-he-uncovered-a-hack-to-living-well/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.552Z"
+    },
+    {
+      "id": "67ceb71873076bdbbe9b86614f79b99ebc5202bf97c09f59a0315b5055402a9e",
+      "title": "NewsBTCSEC Grants Five-Year Exemption For Tokenized Stock Trading Venues",
+      "url": "https://www.tradingview.com/news/newsbtc:a3ea6c356094b:0-sec-grants-five-year-exemption-for-tokenized-stock-trading-venues/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.552Z"
+    },
+    {
+      "id": "017f31956c742ded102209b7c6ceca5a217e4b0f25b5de4d14b972ec4b33acaa",
+      "title": "CoinMarketCalInjective: Meridian Mainnet Upgrade Adds Regulated RWA Markets and RFQ Testing - 24 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:2c3bfc840094b:0-injective-meridian-mainnet-upgrade-adds-regulated-rwa-markets-and-rfq-testing-24-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.552Z"
+    },
+    {
+      "id": "ae1475ba3174483dcd6e2c7b57383c431d8b147fc0d27d3e9205cc473f9e570f",
+      "title": "NewsBTCFCA Crypto Authorisation Gateway Opens September 30",
+      "url": "https://www.tradingview.com/news/newsbtc:f51ba1637094b:0-fca-crypto-authorisation-gateway-opens-september-30/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-19T19:14:46.552Z"
+    },
     {
       "id": "f04b1f619e8a0cd432098b83bd83f8c5e1a9b93d70e25bf57c83919f96319031",
       "title": "StocktwitsThis Bitcoin Signal Has Flashed Just 4 Times In History, And The Prior 3 Coincided With Bear-Market Bottoms — Here’s What To Know",
       "url": "https://www.tradingview.com/news/stocktwits:4a952df48094b:0-this-bitcoin-signal-has-flashed-just-4-times-in-history-and-the-prior-3-coincided-with-bear-market-bottoms-here-s-what-to-know/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
+      "scraped_at": "2026-09-19T19:14:46.552Z"
     },
     {
       "id": "cc64c62e1414bb0e64ab703eaa1db1d38be051375100e65a91dedd93e91df3db",
       "title": "99BitcoinsSepolia Sets the Stage for Ethereum’s Glamsterdam Upgrade",
       "url": "https://www.tradingview.com/news/99Bitcoins:866b4a36c094b:0-sepolia-sets-the-stage-for-ethereum-s-glamsterdam-upgrade/",
       "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "d5af9be5f538c78d63fc7fac28e6772b535b32fdfa8f3c903cbb9747737cfb57",
-      "title": "NewsBTCChainalysis Warns Malware Operators Are Turning Blockchains Into Dead Drops",
-      "url": "https://www.tradingview.com/news/newsbtc:857db44d9094b:0-chainalysis-warns-malware-operators-are-turning-blockchains-into-dead-drops/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "5b82b2b37be125796a411c6797970877c37531e46030a68ae499b90779d495ee",
-      "title": "Crypto BriefingStacks launches first institutional Bitcoin bond with staking program",
-      "url": "https://www.tradingview.com/news/cryptobriefing:01708770a094b:0-stacks-launches-first-institutional-bitcoin-bond-with-staking-program/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "3d33a574bd1401a0a6a8194dabcc8d12565723338820b3cc27762a3ad0eb26ae",
-      "title": "NewsBTCEthereum ETFs Add $29.4M Friday As Fidelity Leads Reported Flows",
-      "url": "https://www.tradingview.com/news/newsbtc:38279b513094b:0-ethereum-etfs-add-29-4m-friday-as-fidelity-leads-reported-flows/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "64daea5e810fe2aed39bf49326982a7c0db072c8311f232549042d8a6818bc27",
-      "title": "StocktwitsCathie Wood Says ‘Bitcoin Is Not A Dead Cat’, Days After ARK Sold Its Own Bitcoin ETF",
-      "url": "https://www.tradingview.com/news/stocktwits:46df469e6094b:0-cathie-wood-says-bitcoin-is-not-a-dead-cat-days-after-ark-sold-its-own-bitcoin-etf/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "c94e08ec5efd600f525e0181ec95a8bee5ff2846090d1ff7c1cb1e2e500f6117",
-      "title": "BSeeking AlphaCrypto names climb after SEC prepares for stock tokenization, TradFi names weaken: Financials week",
-      "url": "https://www.tradingview.com/news/seekingalpha:16bc954ce094b:0-crypto-names-climb-after-sec-prepares-for-stock-tokenization-tradfi-names-weaken-financials-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "d5b78a1f8bb80a46c254601305b0614d7ad7684721d1bcfa0dc3dcde5367cf7f",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:5ac0f5dfe094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "d962607f4bf316ec927432a9ec3efeaae6653b5b2ab48a3579ec53dfeb2f8c71",
-      "title": "BenzingaEXCLUSIVE: ‘The AI Tag Is Free’: Crypto Is Finally Charging for AI Hype",
-      "url": "https://www.tradingview.com/news/benzinga:683c9958e094b:0-exclusive-the-ai-tag-is-free-crypto-is-finally-charging-for-ai-hype/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "d825094a9d72d6cf5e1655eacca8e7cb2717b320f16e9e63d8b6b7c233c6ba5a",
-      "title": "CoinMarketCalInjective: INJ added as a launch pairing asset on Pump.fun, LaunchOnSF and MeteoraAG - 19 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:d04de10d1094b:0-injective-inj-added-as-a-launch-pairing-asset-on-pump-fun-launchonsf-and-meteoraag-19-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "59137b45e0ddf058d88efd2f7832f26453ac0be2bfef3b0af49c675d197a707a",
-      "title": "FINewsBTCBitcoin ETFs Add $324.6M As Fidelity Dominates Friday Flows",
-      "url": "https://www.tradingview.com/news/newsbtc:50076e8b0094b:0-bitcoin-etfs-add-324-6m-as-fidelity-dominates-friday-flows/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "cb25fd7c75166bb4d2165d9f7f7dae01f96a95cba368dc9ec565933fed2e2b67",
-      "title": "BenzingaBitcoin, Zcash, Hyperliquid in Focus as Industry Expert Sees Crypto Nearing a 'Major Turning Point'",
-      "url": "https://www.tradingview.com/news/benzinga:1190fb874094b:0-bitcoin-zcash-hyperliquid-in-focus-as-industry-expert-sees-crypto-nearing-a-major-turning-point/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "ea32f4c55d585afceda712f5ab2673f6d057c19bbdf5d0a3fb70bb44ac263eb2",
-      "title": "NewsBTCCFTC Crypto Asset Rules Enter White House Review",
-      "url": "https://www.tradingview.com/news/newsbtc:13ef7b917094b:0-cftc-crypto-asset-rules-enter-white-house-review/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
-    },
-    {
-      "id": "97ac7f6c53cef2dd69be7e61b58cb9dd304bdd65f290f4e6b2cf8b2078f1a5cc",
-      "title": "StocktwitsTom Lee Says Crypto Is A 'Huge Winner' As Banks Move Toward Tech-Style Valuations, While Dan Ives Calls AI A 'Two-Horse Race'",
-      "url": "https://www.tradingview.com/news/stocktwits:a62f9f5e2094b:0-tom-lee-says-crypto-is-a-huge-winner-as-banks-move-toward-tech-style-valuations-while-dan-ives-calls-ai-a-two-horse-race/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-19T16:49:32.691Z"
+      "scraped_at": "2026-09-19T19:14:46.552Z"
     }
   ]
 }
