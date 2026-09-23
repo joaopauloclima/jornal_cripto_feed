@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-22T22:25:43.758Z",
+  "generated_at": "2026-09-23T00:57:22.757Z",
   "total": 15,
   "items": [
+    {
+      "id": "c61f5ac02280d7357fdbd4e4aa9fb4bc5df885d78babc4d65b73838453cb822c",
+      "title": "CoindarTHORChain to Hold Live Stream on Riverside on September 26th",
+      "url": "https://www.tradingview.com/news/coindar:543c299e9094b:0-thorchain-to-hold-live-stream-on-riverside-on-september-26th/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.753Z"
+    },
+    {
+      "id": "10b0eafe4908f69a049e8e0dfbf60e36d18e62c14ae30d2012042213cb4325d9",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260922008994:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.753Z"
+    },
+    {
+      "id": "33cad7d07270b6d192bd6d622809ef0864a95d25bb55558e5a0431890547c717",
+      "title": "CoindarInjective to Hold Token Burn on September 30th",
+      "url": "https://www.tradingview.com/news/coindar:45cd4e66b094b:0-injective-to-hold-token-burn-on-september-30th/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.753Z"
+    },
+    {
+      "id": "5153a695d797fb33ba3a10a2f65452dd2342a5a09b135cd32b7081301d7448c1",
+      "title": "CoindarSPACE ID to Migrate .g Domains to Gravity L1",
+      "url": "https://www.tradingview.com/news/coindar:a793750d2094b:0-space-id-to-migrate-g-domains-to-gravity-l1/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.753Z"
+    },
+    {
+      "id": "1d6cead190b206616721121514ad54a9926afd2d63e11dd2d1e7bdc6867041b4",
+      "title": "CoindarConflux to Participate in Han River Sunset: the Next On-Chain Economy in Seoul on September 29th",
+      "url": "https://www.tradingview.com/news/coindar:ff9cc48b7094b:0-conflux-to-participate-in-han-river-sunset-the-next-on-chain-economy-in-seoul-on-september-29th/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.753Z"
+    },
+    {
+      "id": "a7bed7c456ae296e7e0bf9d9067bed9e075ddd1dff71ad317ee94a0818f8b790",
+      "title": "CoindarHorizen to Host Community Call on September 24th",
+      "url": "https://www.tradingview.com/news/coindar:933af09b6094b:0-horizen-to-host-community-call-on-september-24th/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.753Z"
+    },
+    {
+      "id": "a8aad0378e1a27233f1148efd9ab3893c13dd4769e3201518ee4fa39fb61347a",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260922008987:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.753Z"
+    },
+    {
+      "id": "bb3e0351d0069d4e454b32d2f57616b51d50de4791edc62c861e48e5f11ff2f4",
+      "title": "Crypto BriefingBitcoin price recovery makes $100,000 target more plausible",
+      "url": "https://www.tradingview.com/news/cryptobriefing:c4c847738094b:0-bitcoin-price-recovery-makes-100-000-target-more-plausible/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.753Z"
+    },
+    {
+      "id": "5028b6eb2eb39868d87afd1373bbf3db4baa2ac05c8416d1a834778663c44eae",
+      "title": "CoindarFlare to Host Meetup in Singapore on October 6th",
+      "url": "https://www.tradingview.com/news/coindar:586f9567c094b:0-flare-to-host-meetup-in-singapore-on-october-6th/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.753Z"
+    },
+    {
+      "id": "592f7d11fb48d5d149f1e43e971c5d501abe2fb43365cb9c69091f14fd0f2c76",
+      "title": "CoinMarketCalDigiByte: Mainnet activates Thaw Day consensus changes at block 24,490,000 - By 01 Nov 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:8246aedf8094b:0-digibyte-mainnet-activates-thaw-day-consensus-changes-at-block-24-490-000-by-01-nov-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.754Z"
+    },
+    {
+      "id": "8bbcc6e3b722e0a68deef25b73c4377bc890e2d4a2639e246bd67145da0a00f7",
+      "title": "CoinMarketCalOriginTrail: NeuroSymbolic Marketplace enters private beta for metered AI inference - Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:eeea81602094b:0-origintrail-neurosymbolic-marketplace-enters-private-beta-for-metered-ai-inference-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.754Z"
+    },
+    {
+      "id": "5ce9fbcb1cdcbc9f97a2a15aab1921edf44dd78b51b3affbf5c901a11ea93350",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260922008649:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.754Z"
+    },
+    {
+      "id": "cc98c34cd99428b8e2e7d7808da059274ac6f18abf0787764512483f162e9de2",
+      "title": "The BlockCrypto VC Hashed anchors new digital asset private credit fund targeting $300 million",
+      "url": "https://www.tradingview.com/news/the_block:7cf9cf111094b:0-crypto-vc-hashed-anchors-new-digital-asset-private-credit-fund-targeting-300-million/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-23T00:57:22.754Z"
+    },
     {
       "id": "3a11b5b506367de4380bc211d38be5b017a12a3e9a928042b8273d40f40c41ec",
       "title": "GuruFocusSoFi's Stablecoin Goes Live Across Mastercard's Network",
       "url": "https://www.tradingview.com/news/gurufocus:d8568e626094b:0-sofi-s-stablecoin-goes-live-across-mastercard-s-network/",
       "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
+      "scraped_at": "2026-09-23T00:57:22.754Z"
     },
     {
       "id": "02f32627a4becde0b781c18bc0edf0702779d95db169873804710de3022e3a39",
       "title": "Crypto BriefingBitcoin's Lightning Network receives first quantum-proof defense from East Texas A&M University",
       "url": "https://www.tradingview.com/news/cryptobriefing:86535667b094b:0-bitcoin-s-lightning-network-receives-first-quantum-proof-defense-from-east-texas-a-m-university/",
       "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "9c6201ee8c5c61cff3a57e8698092d427de55db7b624059c5dbe39f66e07c8f6",
-      "title": "The BlockCFTC Chairman Selig says markets must prepare for ‘mass tokenization’",
-      "url": "https://www.tradingview.com/news/the_block:fffac5f32094b:0-cftc-chairman-selig-says-markets-must-prepare-for-mass-tokenization/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "2e9f3445754f1b01460a5573f1e5e9ca0d61a3608d10e4e0fada2a06f2327a52",
-      "title": "CointelegraphArch Lending eyes tokenized stocks as next collateral market",
-      "url": "https://www.tradingview.com/news/cointelegraph:548ef1532094b:0-arch-lending-eyes-tokenized-stocks-as-next-collateral-market/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "b146d24c9f73f80884c0d2cc4f950bdbcd2bdd40216a4fc05cccfee79bcbf479",
-      "title": "BeincryptoTom Lee and iTrustCapital CEO Say the Worst Is Over: Can Bitcoin Hold $86,000?",
-      "url": "https://www.tradingview.com/news/beincrypto:4172f43e2094b:0-tom-lee-and-itrustcapital-ceo-say-the-worst-is-over-can-bitcoin-hold-86-000/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "1d20fa2ace81b308d83c4de96b5a74cd252ec43f8e338d6cec259593d811a182",
-      "title": "CointelegraphRepublican senator calls for probe into US presidents’ sons, citing crypto ventures",
-      "url": "https://www.tradingview.com/news/cointelegraph:e2b7457e7094b:0-republican-senator-calls-for-probe-into-us-presidents-sons-citing-crypto-ventures/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "3b41fb9085d4949530df65a53b349f2cdb0326c3c05675d034dfdbccd5be596e",
-      "title": "Seeking AlphaDirexion Daily Ether Bull 2X ETF declares quarterly distribution of $0.2101",
-      "url": "https://www.tradingview.com/news/seekingalpha:bb56904c5094b:0-direxion-daily-ether-bull-2x-etf-declares-quarterly-distribution-of-0-2101/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "871072f5092ff636715d7fa6c3805c86390b9a3fc2abb30309c2d175dc12f356",
-      "title": "Seeking AlphaDirexion Daily Bitcoin Bull 2X ETF declares quarterly distribution of $0.1633",
-      "url": "https://www.tradingview.com/news/seekingalpha:704b4e006094b:0-direxion-daily-bitcoin-bull-2x-etf-declares-quarterly-distribution-of-0-1633/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "0158ec48eaad783f868ccda361995182c3339d53b329b18189c6d37d6e2bee47",
-      "title": "CoinMarketCalOrbs: THENA Perps V2 launches on Orbs L3 infrastructure - 22 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:da3b8ee72094b:0-orbs-thena-perps-v2-launches-on-orbs-l3-infrastructure-22-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "81f7330ff6b5a080e388616d2a5705392890d49744c684dd3d6d2eabf27fc8de",
-      "title": "CoinMarketCalInjective: Community BuyBack concludes with committed $INJ burn and Stockdrop reveals - 30 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:88ce06ccd094b:0-injective-community-buyback-concludes-with-committed-inj-burn-and-stockdrop-reveals-30-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "840d8ec024ca911236f45c54aa6aaafffdc80a778f54f487b4ffe15e77f67c57",
-      "title": "CointelegraphCanada’s six largest banks explore tokenized Canadian dollar deposits",
-      "url": "https://www.tradingview.com/news/cointelegraph:e27a31acd094b:0-canada-s-six-largest-banks-explore-tokenized-canadian-dollar-deposits/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "3ea6c05a0ab97015078e14b173e69e5038558b61b2a4ddfed592a993dbdadc8c",
-      "title": "BenzingaBitcoin, Ethereum Flat as XRP, Dogecoin Gain on $1B ETF Inflows: 'Real Capital Is Coming Back'",
-      "url": "https://www.tradingview.com/news/benzinga:699fea533094b:0-bitcoin-ethereum-flat-as-xrp-dogecoin-gain-on-1b-etf-inflows-real-capital-is-coming-back/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "7fd20b6fe96383cdf38851e36c18ef4008994a215cca3a8c7dedb45737fe8ab0",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260922007110:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "c9cb962e3e65568a39839c957c4fd574de951e122b0620720e74fd351fc68e95",
-      "title": "Crypto BriefingBitcoin perpetual futures debut at Moscow Exchange with a modest $1.3M in first-day volume",
-      "url": "https://www.tradingview.com/news/cryptobriefing:d8e9aca7e094b:0-bitcoin-perpetual-futures-debut-at-moscow-exchange-with-a-modest-1-3m-in-first-day-volume/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
-    },
-    {
-      "id": "07a29c4eb75503d8ef1bff9ba9154190d16c9fb75dd40a7e1e7e13ebc0462c7f",
-      "title": "BenzingaEXCLUSIVE: Nvidia Is a Stock And a Token — When ‘Retail No Longer Distinguishes Between Ticker and Rail’",
-      "url": "https://www.tradingview.com/news/benzinga:cfb110914094b:0-exclusive-nvidia-is-a-stock-and-a-token-when-retail-no-longer-distinguishes-between-ticker-and-rail/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-22T22:25:43.753Z"
+      "scraped_at": "2026-09-23T00:57:22.754Z"
     }
   ]
 }
