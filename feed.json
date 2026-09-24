@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-23T22:27:53.223Z",
+  "generated_at": "2026-09-24T00:54:22.504Z",
   "total": 15,
   "items": [
+    {
+      "id": "dd349ca65e6c92a152329b8a7709743fbcf024df49f441b68774ff0f66e85b30",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260923008569:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-24T00:54:22.500Z"
+    },
+    {
+      "id": "26919c724f633b266fb811f831a0f7b449f5c7c084755c5024023c938c2593d6",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260923008523:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-24T00:54:22.500Z"
+    },
+    {
+      "id": "9162677ded01ce305b51a0d9fef4bd665eb05a18f9c97c13bf95df99b9c4fd86",
+      "title": "ReutersUK banks make first interbank transactions using tokenised deposits",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45F0GO:0-uk-banks-make-first-interbank-transactions-using-tokenised-deposits/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-24T00:54:22.500Z"
+    },
+    {
+      "id": "ebd40703694dbdc536367c7fa5fb22acf48b1d1a21e0149d24e8a87146bf0ded",
+      "title": "Dow Jones NewswiresBitcoin Slides Back Below $85,000 After Treasury Yields Jump",
+      "url": "https://www.tradingview.com/news/DJN_DN20260923008330:0-bitcoin-slides-back-below-85-000-after-treasury-yields-jump/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-24T00:54:22.500Z"
+    },
+    {
+      "id": "698923396b39c65005b3874e8793911ae46fdfd7ceb8bdcef47dbccc4e0a9baa",
+      "title": "Beincrypto$20 Million in XRP Stolen From Thousands of Hardware Wallets",
+      "url": "https://www.tradingview.com/news/beincrypto:33b3e49c7094b:0-20-million-in-xrp-stolen-from-thousands-of-hardware-wallets/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-24T00:54:22.500Z"
+    },
     {
       "id": "ccb73602e09849cd217496dbae88d24c1b1bca127381dfddeec064677aa917fd",
       "title": "Crypto BriefingBitcoin's 100-1,000 BTC wallets accumulate 113,950 BTC since July 15",
       "url": "https://www.tradingview.com/news/cryptobriefing:a61739fb8094b:0-bitcoin-s-100-1-000-btc-wallets-accumulate-113-950-btc-since-july-15/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     },
     {
       "id": "43c15dad2253a89f048ed93c2629e2d8dcb416535561de1d2d2529767acf1f79",
       "title": "CointelegraphEx-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
       "url": "https://www.tradingview.com/news/cointelegraph:bb3c0c974094b:0-ex-sec-acting-chair-agency-dropped-crypto-cases-to-avoid-issues-with-credibility/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     },
     {
       "id": "bae334d15c2069e0c0fc3ee7e6a803f5638252ad455024a545df1a8576489cca",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:2a1e062b9094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     },
     {
       "id": "7f4b90d263e68b4f172de99344ddeec2faf6c3f500eff81670eab044691f4e3a",
       "title": "CointelegraphFormer Hack VC partner Hsin-Ju Chuang found dead at 37",
       "url": "https://www.tradingview.com/news/cointelegraph:998511e69094b:0-former-hack-vc-partner-hsin-ju-chuang-found-dead-at-37/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     },
     {
       "id": "024e6eea9b8fc8e8a57b4eeebb63cd045987d6eed22dbb4d47a7563bcb7ef40e",
       "title": "Seeking AlphaBitcoin slides back to $84K after strong U.S. business activity report",
       "url": "https://www.tradingview.com/news/seekingalpha:44f6b0dbd094b:0-bitcoin-slides-back-to-84k-after-strong-u-s-business-activity-report/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     },
     {
       "id": "c84521f1caed520b05248921ff616e097c080561fca25b14f388648141a50b4e",
       "title": "Finance MagnatesPolymarket Wants Financial Status in Europe, but It May Come with a Retail Ban",
       "url": "https://www.tradingview.com/news/financemagnates:d47946725094b:0-polymarket-wants-financial-status-in-europe-but-it-may-come-with-a-retail-ban/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     },
     {
       "id": "0fddbd73dc03ca498214f3b52bf8f769aa520b2470bdeed1dd8bdda80d0a07bf",
       "title": "CoinMarketCalIoTeX: Coinbase disables IOTX spot trading as withdrawals stay open - 23 Sep 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:fae6969d8094b:0-iotex-coinbase-disables-iotx-spot-trading-as-withdrawals-stay-open-23-sep-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     },
     {
       "id": "0a8341d2925cd7c7e4c0d1e44ad5e4545e4e1daa11ad08fa4f675d1c6d238563",
       "title": "Beincrypto15 Institutions Reveal Why They Refused to Sell Bitcoin During a 50% Crash",
       "url": "https://www.tradingview.com/news/beincrypto:fc06ef76e094b:0-15-institutions-reveal-why-they-refused-to-sell-bitcoin-during-a-50-crash/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     },
     {
       "id": "ffd7c43a603112a96af94ec7753aa43a2f282227ddf7f9b6763bce550702b072",
       "title": "BenzingaBlockchain.com, NYSE Explore Around-The-Clock Tokenized U.S. Stock Trading for Global Investors",
       "url": "https://www.tradingview.com/news/benzinga:2185c3427094b:0-blockchain-com-nyse-explore-around-the-clock-tokenized-u-s-stock-trading-for-global-investors/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     },
     {
       "id": "fe96f51ee831bc5d11dfbd81813b4d76c055a13221eee674b79b81a140b5de01",
       "title": "BenzingaBitcoin Slips Below $85,000 as Ethereum, XRP, Dogecoin Fall With Treasury Yields at 19-Year Highs",
       "url": "https://www.tradingview.com/news/benzinga:b493b4f14094b:0-bitcoin-slips-below-85-000-as-ethereum-xrp-dogecoin-fall-with-treasury-yields-at-19-year-highs/",
       "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.220Z"
-    },
-    {
-      "id": "ba9333c6230f0501ab9f8da11cd7e1927a12a6a2c94e6a3206c5c44d81a9990a",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260923006665:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.221Z"
-    },
-    {
-      "id": "d1a1a792b56a5714417a5d4525a0a8175ab316fb32f6e7b107c6264aa2ab835c",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260923006651:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.221Z"
-    },
-    {
-      "id": "caf754b85408e298c70ba8ff37a1fc09d0cb7b6cfe3e951de53f87b419212096",
-      "title": "Crypto BriefingDeribit sees $16B in Bitcoin options expire Friday",
-      "url": "https://www.tradingview.com/news/cryptobriefing:728756f9d094b:0-deribit-sees-16b-in-bitcoin-options-expire-friday/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.221Z"
-    },
-    {
-      "id": "b96b56a23b33dd44b4e43145b83c601faf07fcb97a51f384f8c23866630b9a98",
-      "title": "BenzingaBitcoin Falls Below $85,000 as 10-Year Yield Hits 19-Year High",
-      "url": "https://www.tradingview.com/news/benzinga:78e92d9f9094b:0-bitcoin-falls-below-85-000-as-10-year-yield-hits-19-year-high/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.221Z"
-    },
-    {
-      "id": "eb33d0d85995c457a5abe002236c311a2184a718ea78e3a77acedeb6194190b7",
-      "title": "Seeking AlphaREX Crypto Equity Premium Income ETF declares $0.2599 dividend",
-      "url": "https://www.tradingview.com/news/seekingalpha:795f6e864094b:0-rex-crypto-equity-premium-income-etf-declares-0-2599-dividend/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-23T22:27:53.221Z"
+      "scraped_at": "2026-09-24T00:54:22.500Z"
     }
   ]
 }
