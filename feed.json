@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-26T00:10:07.237Z",
+  "generated_at": "2026-09-26T05:32:53.485Z",
   "total": 15,
   "items": [
+    {
+      "id": "b7e38c71d2496872409bada743c9c1a759321c358f0d90e6ac6beb4f5ff93212",
+      "title": "Crypto BriefingBitwise, Franklin ETF clients acquire $23M in XRP, boosting institutional interest",
+      "url": "https://www.tradingview.com/news/cryptobriefing:1c1d00757094b:0-bitwise-franklin-etf-clients-acquire-23m-in-xrp-boosting-institutional-interest/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.481Z"
+    },
+    {
+      "id": "d9b39459d04fd54fa69790eef694519154cd3dfd01b88dc132e89ca97cf00984",
+      "title": "NewsBTCBitget Confirms $351.6M Hot Wallet Breach And Pauses Withdrawals",
+      "url": "https://www.tradingview.com/news/newsbtc:7404ec1a2094b:0-bitget-confirms-351-6m-hot-wallet-breach-and-pauses-withdrawals/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "5e44b15801e53b0acac13d58c8d9757d22a281be7bdae7b022307e657538868a",
+      "title": "Crypto BriefingBitget hacker withdraws $1.23M from Binance, funnels funds to attacker-controlled wallet",
+      "url": "https://www.tradingview.com/news/cryptobriefing:dbaded5d8094b:0-bitget-hacker-withdraws-1-23m-from-binance-funnels-funds-to-attacker-controlled-wallet/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "a21a20978005ae5a3bf197c726a1f77a6cbfabc196aa6d9932f2bb731caf89e7",
+      "title": "NewsBTCPaxos Labs Launches Gold Token That Can Earn A Return In Gold",
+      "url": "https://www.tradingview.com/news/newsbtc:ad7b02af7094b:0-paxos-labs-launches-gold-token-that-can-earn-a-return-in-gold/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "450d6a3fc64502371331963606afbbe1b480a8a1b2f0e877f03c1476b56ea5cf",
+      "title": "NewsBTCSolana Foundation Hires Former Binance CMO For Institutional Push",
+      "url": "https://www.tradingview.com/news/newsbtc:eb5ad010b094b:0-solana-foundation-hires-former-binance-cmo-for-institutional-push/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "0ce5ca568846d283a6aa3a4b3bad78fa2b8706f7c6141cf1381fe3b3991fd5fc",
+      "title": "Binance NewsPolymarket Bitcoin September 26 Breakout Bet Sees Sharp Swing in 84,000 Yes Odds",
+      "url": "https://www.tradingview.com/news/binance_news:c2b583c6d094b:0-polymarket-bitcoin-september-26-breakout-bet-sees-sharp-swing-in-84-000-yes-odds/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "c676a210f0515c7b51578d694e0e4e5e6311d44a6c70c9bd1c8537f9428eea3d",
+      "title": "Binance NewsPolymarket Clemson vs. California Submarket Sees Sharp Swing in Over Odds",
+      "url": "https://www.tradingview.com/news/binance_news:f00749087094b:0-polymarket-clemson-vs-california-submarket-sees-sharp-swing-in-over-odds/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "53d14f28015d4fe98e75c9e419a3b29cf8066a66dc0e97c089c7735c5e15d6a1",
+      "title": "NewsBTCThe Clearing House Picks Quant For US Tokenized Deposit Network",
+      "url": "https://www.tradingview.com/news/newsbtc:7281055e7094b:0-the-clearing-house-picks-quant-for-us-tokenized-deposit-network/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "65059a865bbdfbdea2aa3b279ba58136396472faf24b151b31a00364c1db7329",
+      "title": "Binance NewsMASK Meme Coin on Solana Briefly Tops $31 Million Market Cap, Hits Record High",
+      "url": "https://www.tradingview.com/news/binance_news:c9abe85ab094b:0-mask-meme-coin-on-solana-briefly-tops-31-million-market-cap-hits-record-high/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "5d3a00afd7ed6f15718754430d3b032b1806ba556c61dc8aa13e94d76a2445e6",
+      "title": "Binance NewsEthereum Node Sync Time Falls to Half a Day, Vitalik Says",
+      "url": "https://www.tradingview.com/news/binance_news:939ffd523094b:0-ethereum-node-sync-time-falls-to-half-a-day-vitalik-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "5dcbcedd9db0d7e5f0a7dd93bad2d68baccbbff07fe8fa31d29b812be3bc595b",
+      "title": "Binance NewsxStocks Issues $858 Million in Assets Across Eight Networks",
+      "url": "https://www.tradingview.com/news/binance_news:201b422d8094b:0-xstocks-issues-858-million-in-assets-across-eight-networks/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
     {
       "id": "03e7eb7d84ac9f1c5c74453f8f4b7be70562472bd00d73547859c2d198b8f339",
       "title": "Crypto BriefingRiver reports 81% of Bitcoin supply inactive for six months as holders tighten their grip",
       "url": "https://www.tradingview.com/news/cryptobriefing:012ba2bcf094b:0-river-reports-81-of-bitcoin-supply-inactive-for-six-months-as-holders-tighten-their-grip/",
       "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
+      "scraped_at": "2026-09-26T05:32:53.482Z"
     },
     {
       "id": "b071f251a65411626bfeff14b98607ce0978f93145ae7e66cdd5ca74677ce6c9",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:0e7e413b1094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
+      "scraped_at": "2026-09-26T05:32:53.482Z"
+    },
+    {
+      "id": "f69c3c7d82175b75058c87531eb519573d7ca6f65b60f74c93da0c29b122f0be",
+      "title": "Binance NewsSEC Commissioner Hester Peirce to Leave on October 2",
+      "url": "https://www.tradingview.com/news/binance_news:85c0b2c1e094b:0-sec-commissioner-hester-peirce-to-leave-on-october-2/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T05:32:53.482Z"
     },
     {
       "id": "655e8f2a908bfe46256ca85b3c9990e03c1e5d3a9f152e6ace07d1a934a95945",
       "title": "NewsBTCOndo Puts BlackRock-Designed Portfolios Into Single Onchain Tokens",
       "url": "https://www.tradingview.com/news/newsbtc:05c0e0971094b:0-ondo-puts-blackrock-designed-portfolios-into-single-onchain-tokens/",
       "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "7d59e4be856859a173ba28bdc6928baad2da593979d12b968b648a795eaa8b4f",
-      "title": "NewsBTCNew York Sues Polymarket Over Alleged Illegal Gambling Operation",
-      "url": "https://www.tradingview.com/news/newsbtc:97798e4cc094b:0-new-york-sues-polymarket-over-alleged-illegal-gambling-operation/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "0110c0518239abb7588a0b425769e3d078f14f121423bb8fc3813569543558d9",
-      "title": "Crypto BriefingBitcoin futures speculators net long 2,756 contracts in CFTC report",
-      "url": "https://www.tradingview.com/news/cryptobriefing:4359a07ff094b:0-bitcoin-futures-speculators-net-long-2-756-contracts-in-cftc-report/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "a8fb3d4fb4fca19c3df304ce9cd0370278e0c390ebe99d12a52ff63d247ed031",
-      "title": "The BlockSEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
-      "url": "https://www.tradingview.com/news/the_block:005893a95094b:0-sec-crypto-faq-addresses-token-buybacks-network-upgrades-and-promises-of-profit/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "f9c21b31e6282c527fa5fe38138305fc44a6d91e7361737344d6c5a26a928384",
-      "title": "CointelegraphEx-CFTC leader to leave Blockchain Association after CLARITY vote fails",
-      "url": "https://www.tradingview.com/news/cointelegraph:1a76c2244094b:0-ex-cftc-leader-to-leave-blockchain-association-after-clarity-vote-fails/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "8efc16452af11b0b61a40d45bc12a2e8aefa857b218b4ab7c3a575aee7687f3b",
-      "title": "Seeking AlphaSA analyst sees stocks, bonds, gold, and crypto rising into year-end",
-      "url": "https://www.tradingview.com/news/seekingalpha:57778f156094b:0-sa-analyst-sees-stocks-bonds-gold-and-crypto-rising-into-year-end/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "c6ae54c99891cae0ced72cb2b71f8b33d5f72f9902f0c4858e034b237c2c25e0",
-      "title": "CoinMarketCalKamino: Fixed-rate USDC borrowing against ONyc goes live in the OnRe market - 25 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:a42c8ae05094b:0-kamino-fixed-rate-usdc-borrowing-against-onyc-goes-live-in-the-onre-market-25-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "e006567876077cad35d49ee0d55a5814cb71b7367085f23681133a2739038110",
-      "title": "CoinMarketCalAerodrome Finance: Aero launches across seven chains in multi-chain rollout - 21 Oct 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:bfa6c1724094b:0-aerodrome-finance-aero-launches-across-seven-chains-in-multi-chain-rollout-21-oct-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "2b4ea78a919a296d453e97968cce6068917bd6732c64f62773b1161660b2d5c1",
-      "title": "CoinMarketCalZano: 24-Hour Chain Rollback After Inflation Bug Halts Economic Activity - 25 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:9f3516731094b:0-zano-24-hour-chain-rollback-after-inflation-bug-halts-economic-activity-25-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "9d627663c43b05ff949f431cd0bd1987aeae1ac97f49a1a66d5ab023d22f6eca",
-      "title": "The BlockBlockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
-      "url": "https://www.tradingview.com/news/the_block:ed4c3cd53094b:0-blockchain-association-ceo-summer-mersinger-to-step-down-kristin-smith-to-return-as-interim-ceo/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "e6909af2c7572b2d6a8dcfe64a5e92211e3fa6e903f31ee7481471f04b80044e",
-      "title": "U.Today'Crypto Mom' Hester Peirce Announces Official Resignation",
-      "url": "https://www.tradingview.com/news/u_today:0d62823ea094b:0-crypto-mom-hester-peirce-announces-official-resignation/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "790384c489b766b74e3cae9dd9940b8e6d0a4f60bcbf0987c608d7a1c73089ad",
-      "title": "BeincryptoFC Barcelona Bets on Cardano With New ‘Barça Fan Lab' Platform",
-      "url": "https://www.tradingview.com/news/beincrypto:7b0e2497c094b:0-fc-barcelona-bets-on-cardano-with-new-bar-a-fan-lab-platform/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
-    },
-    {
-      "id": "21ef4587a929870261e944734720805963c928c6a7d690d99c2338b8ef46f5f0",
-      "title": "BenzingaBitcoin Slips Below $84,000 as Ethereum Holds $2,600, XRP and Dogecoin Rise on Rate-Hike Fears",
-      "url": "https://www.tradingview.com/news/benzinga:d64288f94094b:0-bitcoin-slips-below-84-000-as-ethereum-holds-2-600-xrp-and-dogecoin-rise-on-rate-hike-fears/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T00:10:07.234Z"
+      "scraped_at": "2026-09-26T05:32:53.482Z"
     }
   ]
 }
