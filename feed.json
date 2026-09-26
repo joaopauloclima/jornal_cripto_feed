@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-26T05:32:53.485Z",
+  "generated_at": "2026-09-26T10:17:46.715Z",
   "total": 15,
   "items": [
+    {
+      "id": "d5434367661eced1455e4f74ce5dce9fa36cdd83b9bf0e7bea03733e710eb3df",
+      "title": "CointelegraphSEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "url": "https://www.tradingview.com/news/cointelegraph:61d4d2d95094b:0-sec-commissioner-hester-peirce-to-leave-post-on-oct-2/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.711Z"
+    },
+    {
+      "id": "53c571d90a0f57de0231db622ea4b4ff84e9121b8bad36f1aaded4426bcd2704",
+      "title": "CoinpediaCrypto Hacks 2026: 288 Attacks and $2.2B Lost",
+      "url": "https://www.tradingview.com/news/coinpedia:995890166094b:0-crypto-hacks-2026-288-attacks-and-2-2b-lost/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.711Z"
+    },
+    {
+      "id": "6000d3463aae2bcf6ec313e3c430788d4c8bef7f92424ab55a804d5fc5ead1c5",
+      "title": "CoinpediaBitcoin Supply Shock: 81% of BTC Has Not Moved in Six Months",
+      "url": "https://www.tradingview.com/news/coinpedia:fc3fec960094b:0-bitcoin-supply-shock-81-of-btc-has-not-moved-in-six-months/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.711Z"
+    },
+    {
+      "id": "78824386be4db166b096618ec60e93678209d80114ecab9f321c17c1cda5ada7",
+      "title": "CointelegraphCFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "url": "https://www.tradingview.com/news/cointelegraph:aeaf47056094b:0-cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.711Z"
+    },
+    {
+      "id": "e2b489d623b347618ad0a666fc8be10468e7dab1bf7df0f31ed6e2cbecf2e8fa",
+      "title": "CoinpediaSEC Issues New Crypto Guidance, Clarifies When Tokens Fall Under Securities Laws",
+      "url": "https://www.tradingview.com/news/coinpedia:2bbbac996094b:0-sec-issues-new-crypto-guidance-clarifies-when-tokens-fall-under-securities-laws/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.711Z"
+    },
+    {
+      "id": "8e4ce46ee07ab0075f5adb12afe3b4f2e93651ec2f443652e73d17a87be64818",
+      "title": "BeincryptoSEC Clarifies New Rules For Staked Ethereum",
+      "url": "https://www.tradingview.com/news/beincrypto:b499e4bfe094b:0-sec-clarifies-new-rules-for-staked-ethereum/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.711Z"
+    },
+    {
+      "id": "941849b5204a4cde20d50f0cb091b9609608e546382ea26095515506733db156",
+      "title": "CoinpediaTom Lee Says Crypto Rally Could Go Much Further – Here’s What’s Driving It",
+      "url": "https://www.tradingview.com/news/coinpedia:a59477407094b:0-tom-lee-says-crypto-rally-could-go-much-further-here-s-what-s-driving-it/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.711Z"
+    },
+    {
+      "id": "ed0f121303bc2b693633222f5056898b3c4a9fce5f9fb73139a64e557979f9bf",
+      "title": "BloomingbitUS Spot Ether ETFs Post $87 Million in Net Inflows, Extending Streak to Six Sessions",
+      "url": "https://www.tradingview.com/news/bloomingbit:97ebb4d90094b:0-us-spot-ether-etfs-post-87-million-in-net-inflows-extending-streak-to-six-sessions/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.711Z"
+    },
+    {
+      "id": "900d07b9175866d9c8976e96673504b286e9a3751dee64d4e0c034c417b8aa57",
+      "title": "Crypto BriefingBitcoin dominance falls below 60%, signaling potential altcoin season",
+      "url": "https://www.tradingview.com/news/cryptobriefing:a2095028e094b:0-bitcoin-dominance-falls-below-60-signaling-potential-altcoin-season/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.712Z"
+    },
+    {
+      "id": "5eda246bf11a9afc208e4307d15a9082e82122c3d49a262f999f09d3e709c0bb",
+      "title": "BloomingbitBitget to Resume Withdrawals From Sept. 28 After $387.5 Million Asset Drain",
+      "url": "https://www.tradingview.com/news/bloomingbit:588881b2e094b:0-bitget-to-resume-withdrawals-from-sept-28-after-387-5-million-asset-drain/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.712Z"
+    },
+    {
+      "id": "5d43a499f1962faff7b230a9c6f0be3f1614710f42230ae9e18769d411db84f5",
+      "title": "BloomingbitU.S. Spot Bitcoin ETFs Draw $134.47 Million, Extend Net Inflow Streak to Seven Sessions",
+      "url": "https://www.tradingview.com/news/bloomingbit:45d54d53c094b:0-u-s-spot-bitcoin-etfs-draw-134-47-million-extend-net-inflow-streak-to-seven-sessions/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-26T10:17:46.712Z"
+    },
     {
       "id": "b7e38c71d2496872409bada743c9c1a759321c358f0d90e6ac6beb4f5ff93212",
       "title": "Crypto BriefingBitwise, Franklin ETF clients acquire $23M in XRP, boosting institutional interest",
       "url": "https://www.tradingview.com/news/cryptobriefing:1c1d00757094b:0-bitwise-franklin-etf-clients-acquire-23m-in-xrp-boosting-institutional-interest/",
       "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.481Z"
+      "scraped_at": "2026-09-26T10:17:46.712Z"
     },
     {
       "id": "d9b39459d04fd54fa69790eef694519154cd3dfd01b88dc132e89ca97cf00984",
       "title": "NewsBTCBitget Confirms $351.6M Hot Wallet Breach And Pauses Withdrawals",
       "url": "https://www.tradingview.com/news/newsbtc:7404ec1a2094b:0-bitget-confirms-351-6m-hot-wallet-breach-and-pauses-withdrawals/",
       "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
+      "scraped_at": "2026-09-26T10:17:46.712Z"
     },
     {
       "id": "5e44b15801e53b0acac13d58c8d9757d22a281be7bdae7b022307e657538868a",
       "title": "Crypto BriefingBitget hacker withdraws $1.23M from Binance, funnels funds to attacker-controlled wallet",
       "url": "https://www.tradingview.com/news/cryptobriefing:dbaded5d8094b:0-bitget-hacker-withdraws-1-23m-from-binance-funnels-funds-to-attacker-controlled-wallet/",
       "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
+      "scraped_at": "2026-09-26T10:17:46.712Z"
     },
     {
-      "id": "a21a20978005ae5a3bf197c726a1f77a6cbfabc196aa6d9932f2bb731caf89e7",
-      "title": "NewsBTCPaxos Labs Launches Gold Token That Can Earn A Return In Gold",
-      "url": "https://www.tradingview.com/news/newsbtc:ad7b02af7094b:0-paxos-labs-launches-gold-token-that-can-earn-a-return-in-gold/",
+      "id": "804746ca839f92ea550b3c835f09e1e24054e141a6051fd9a249a06a5176c4a7",
+      "title": "U.TodayAI Agents Opt for Ripple USD Not XRP, While BlackRock Makes Stunning New Prediction",
+      "url": "https://www.tradingview.com/news/u_today:7c6526233094b:0-ai-agents-opt-for-ripple-usd-not-xrp-while-blackrock-makes-stunning-new-prediction/",
       "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "450d6a3fc64502371331963606afbbe1b480a8a1b2f0e877f03c1476b56ea5cf",
-      "title": "NewsBTCSolana Foundation Hires Former Binance CMO For Institutional Push",
-      "url": "https://www.tradingview.com/news/newsbtc:eb5ad010b094b:0-solana-foundation-hires-former-binance-cmo-for-institutional-push/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "0ce5ca568846d283a6aa3a4b3bad78fa2b8706f7c6141cf1381fe3b3991fd5fc",
-      "title": "Binance NewsPolymarket Bitcoin September 26 Breakout Bet Sees Sharp Swing in 84,000 Yes Odds",
-      "url": "https://www.tradingview.com/news/binance_news:c2b583c6d094b:0-polymarket-bitcoin-september-26-breakout-bet-sees-sharp-swing-in-84-000-yes-odds/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "c676a210f0515c7b51578d694e0e4e5e6311d44a6c70c9bd1c8537f9428eea3d",
-      "title": "Binance NewsPolymarket Clemson vs. California Submarket Sees Sharp Swing in Over Odds",
-      "url": "https://www.tradingview.com/news/binance_news:f00749087094b:0-polymarket-clemson-vs-california-submarket-sees-sharp-swing-in-over-odds/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "53d14f28015d4fe98e75c9e419a3b29cf8066a66dc0e97c089c7735c5e15d6a1",
-      "title": "NewsBTCThe Clearing House Picks Quant For US Tokenized Deposit Network",
-      "url": "https://www.tradingview.com/news/newsbtc:7281055e7094b:0-the-clearing-house-picks-quant-for-us-tokenized-deposit-network/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "65059a865bbdfbdea2aa3b279ba58136396472faf24b151b31a00364c1db7329",
-      "title": "Binance NewsMASK Meme Coin on Solana Briefly Tops $31 Million Market Cap, Hits Record High",
-      "url": "https://www.tradingview.com/news/binance_news:c9abe85ab094b:0-mask-meme-coin-on-solana-briefly-tops-31-million-market-cap-hits-record-high/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "5d3a00afd7ed6f15718754430d3b032b1806ba556c61dc8aa13e94d76a2445e6",
-      "title": "Binance NewsEthereum Node Sync Time Falls to Half a Day, Vitalik Says",
-      "url": "https://www.tradingview.com/news/binance_news:939ffd523094b:0-ethereum-node-sync-time-falls-to-half-a-day-vitalik-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "5dcbcedd9db0d7e5f0a7dd93bad2d68baccbbff07fe8fa31d29b812be3bc595b",
-      "title": "Binance NewsxStocks Issues $858 Million in Assets Across Eight Networks",
-      "url": "https://www.tradingview.com/news/binance_news:201b422d8094b:0-xstocks-issues-858-million-in-assets-across-eight-networks/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "03e7eb7d84ac9f1c5c74453f8f4b7be70562472bd00d73547859c2d198b8f339",
-      "title": "Crypto BriefingRiver reports 81% of Bitcoin supply inactive for six months as holders tighten their grip",
-      "url": "https://www.tradingview.com/news/cryptobriefing:012ba2bcf094b:0-river-reports-81-of-bitcoin-supply-inactive-for-six-months-as-holders-tighten-their-grip/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "b071f251a65411626bfeff14b98607ce0978f93145ae7e66cdd5ca74677ce6c9",
-      "title": "Brave New CoinSign up to read this news",
-      "url": "https://www.tradingview.com/news/bravenewcoin:0e7e413b1094b:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "f69c3c7d82175b75058c87531eb519573d7ca6f65b60f74c93da0c29b122f0be",
-      "title": "Binance NewsSEC Commissioner Hester Peirce to Leave on October 2",
-      "url": "https://www.tradingview.com/news/binance_news:85c0b2c1e094b:0-sec-commissioner-hester-peirce-to-leave-on-october-2/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
-    },
-    {
-      "id": "655e8f2a908bfe46256ca85b3c9990e03c1e5d3a9f152e6ace07d1a934a95945",
-      "title": "NewsBTCOndo Puts BlackRock-Designed Portfolios Into Single Onchain Tokens",
-      "url": "https://www.tradingview.com/news/newsbtc:05c0e0971094b:0-ondo-puts-blackrock-designed-portfolios-into-single-onchain-tokens/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-26T05:32:53.482Z"
+      "scraped_at": "2026-09-26T10:17:46.712Z"
     }
   ]
 }
