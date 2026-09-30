@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-09-30T13:02:08.089Z",
-  "total": 15,
+  "generated_at": "2026-09-30T18:35:22.023Z",
+  "total": 14,
   "items": [
     {
-      "id": "edd5442ecf65cf4c530080283b643c014375dd3eff6a9be9eabb1e4e37499b52",
+      "id": "9ec07f5638ddfd2abf108d7b613015dd3f67aa54fd171bff921649032b7379cb",
+      "title": "The BlockDogeOS launches testnet to bring EVM smart contracts to Dogecoin",
+      "url": "https://www.tradingview.com/news/the_block:a0d1ad73b094b:0-dogeos-launches-testnet-to-bring-evm-smart-contracts-to-dogecoin/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "cbcc6ead5e594ac9044c661e77f0495e45a39e4380c018bf35bdff8b97b7aa83",
+      "title": "NewsBTCRipple Tokenizes Brazilian Investment Fund & Real Estate Records On XRP Ledger",
+      "url": "https://www.tradingview.com/news/newsbtc:d7309ee1a094b:0-ripple-tokenizes-brazilian-investment-fund-real-estate-records-on-xrp-ledger/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "b8ee4aefe3e12c623c22356e468507bebc9f36b770bcf6f81ef8d1caf50e58ed",
+      "title": "ReutersStripe Partnered With Open Standard To Make Open USD (OUSD) Available To Businesses Running On Stripe",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45M198:0-stripe-partnered-with-open-standard-to-make-open-usd-ousd-available-to-businesses-running-on-stripe/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "261ffcce0b623116f07a5c1475e7413b3a78a8f4f5cbafe8005b3d8cbe925848",
+      "title": "StocktwitsHYPE, ZEC Edge Higher — Hyperliquid And Zcash Are Challenging Crypto’s ‘Mount Rushmore,’ Says Bitwise CIO Matt Hougan",
+      "url": "https://www.tradingview.com/news/stocktwits:d54ecf944094b:0-hype-zec-edge-higher-hyperliquid-and-zcash-are-challenging-crypto-s-mount-rushmore-says-bitwise-cio-matt-hougan/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "198bf4d24f5547242c11a69924f1a15f0cbae6011f80da0da789f718db2834e8",
+      "title": "BenzingaEthereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered",
+      "url": "https://www.tradingview.com/news/benzinga:51e7d381d094b:0-ethereum-based-stablecoin-issuer-ena-could-surge-600-standard-chartered/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "3d63fc2e8101df678004c3ae3fa31526c5c073026007c2b9d5728ec1d92e7ebc",
+      "title": "CoinMarketCalChainlink: Fulcrum cross-chain collateral and financing platform launches - 30 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:f5317b413094b:0-chainlink-fulcrum-cross-chain-collateral-and-financing-platform-launches-30-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "29ebc057c7b239f6994baf0ef661b20118d215043fd6a22b336aa0204a1f96fe",
+      "title": "UCoinMarketCalSolana: Western Union's USDPT stablecoin goes live onchain - 30 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:c51296653094b:0-solana-western-union-s-usdpt-stablecoin-goes-live-onchain-30-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "5e4cbf77428b9453b3357cae5098a1eda12f709d1e21e6f38d3f5be55ab623aa",
+      "title": "CoinMarketCalNEAR Protocol: House of Stake vote on cutting max issuance to 1.6% - By 11 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:8a69eb09a094b:0-near-protocol-house-of-stake-vote-on-cutting-max-issuance-to-1-6-by-11-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "b4ad737bf734aca5e27972b1efe7c279bbe2481dfccd0797808c9ba5a9196d06",
+      "title": "NewsBTCHouse Oversight Chair Comer Probes Crypto.com, Hyperliquid & PredictIt Over Identity Checks",
+      "url": "https://www.tradingview.com/news/newsbtc:f4c690910094b:0-house-oversight-chair-comer-probes-crypto-com-hyperliquid-predictit-over-identity-checks/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "a4ba45a906dd139a01081084ff9645a7e90a4e3c94e666446f7a5194218ea428",
+      "title": "CoinpediaBrad Garlinghouse Says XRP Has a Specific Role in Ripple’s Payments Strategy",
+      "url": "https://www.tradingview.com/news/coinpedia:dfc2693e3094b:0-brad-garlinghouse-says-xrp-has-a-specific-role-in-ripple-s-payments-strategy/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T18:35:22.020Z"
+    },
+    {
+      "id": "800ba5e54116e810c3d106f44b76142875470296620746551f69e952e7cfed77",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260930004458:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260930006405:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.085Z"
+      "scraped_at": "2026-09-30T18:35:22.020Z"
     },
     {
-      "id": "66f16b0a2655a30937b3708d9688311a1642ea311ebc1d3f385246cc91e14764",
-      "title": "CointelegraphSingapore crypto activity grows 55% as broader region contracts",
-      "url": "https://www.tradingview.com/news/cointelegraph:3b7f990bb094b:0-singapore-crypto-activity-grows-55-as-broader-region-contracts/",
+      "id": "c4fcdd11563a0d1c43387db9c1a5938cfed720d3ab33ffd5b97db79ed244693a",
+      "title": "ReutersEuropean regulators need more powers to police crypto, watchdog says",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45M10T:0-european-regulators-need-more-powers-to-police-crypto-watchdog-says/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
+      "scraped_at": "2026-09-30T18:35:22.020Z"
     },
     {
-      "id": "486199ace742dec8e9204654f483a549bacd1617069224156d527801ecba8aa1",
-      "title": "SPR NewswireSecuritize Integrates with ADI Chain to Expand Institutional Tokenization Across Global Markets",
-      "url": "https://www.tradingview.com/news/prnewswire:3b18ae9879d4b:0-securitize-integrates-with-adi-chain-to-expand-institutional-tokenization-across-global-markets/",
+      "id": "77e162b5baf1bca59d93b0563bd6b8b786a4dbaa601f27284b0586fee76d43c7",
+      "title": "CoinpediaCrypto Market Cap Breakout Signals End of 2026 Accumulation",
+      "url": "https://www.tradingview.com/news/coinpedia:547602d1a094b:0-crypto-market-cap-breakout-signals-end-of-2026-accumulation/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
+      "scraped_at": "2026-09-30T18:35:22.020Z"
     },
     {
-      "id": "004cefb5bf5ea01f23a66ea27638d10dae29a326c3e15997006358845c751e2d",
-      "title": "NewsBTCUK Financial Conduct Authority Formally Opens Crypto Authorisation Regime",
-      "url": "https://www.tradingview.com/news/newsbtc:ff00949d4094b:0-uk-financial-conduct-authority-formally-opens-crypto-authorisation-regime/",
+      "id": "8c608eef979d9cbc94fb611f48dc2a52352ea6fe3e824eb8dc79e90a92644d6e",
+      "title": "CointelegraphBitget ‘gradually back to usual’ as protection fund reaches $309M",
+      "url": "https://www.tradingview.com/news/cointelegraph:9aa93239a094b:0-bitget-gradually-back-to-usual-as-protection-fund-reaches-309m/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "e7797c2131be0a982698f95fdc827d3a1058568d741b19eefe9a4790314131f7",
-      "title": "ReutersGlobal stocks weather third-quarter AI, bond and crude maelstrom",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N45G0H5:0-global-stocks-weather-third-quarter-ai-bond-and-crude-maelstrom/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "b5591a71ede0a3d4da6283923d9cb2f16eaf6678d8764ec5a6689dc5c46ede1a",
-      "title": "CoindarMoonbeam Announces Token Swap on September 30th",
-      "url": "https://www.tradingview.com/news/coindar:1ab60660b094b:0-moonbeam-announces-token-swap-on-september-30th/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "3c830a182917ece1e2ce26983b062826cd8655815ab06bd00e55509eadd68e18",
-      "title": "CoindarMoonriver Announces Token Swap on September 30th",
-      "url": "https://www.tradingview.com/news/coindar:79fe65c6c094b:0-moonriver-announces-token-swap-on-september-30th/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "dd709c3e7d05c13649e3607223fbc775ede91112a3bc3fdb198ac9154e39f87a",
-      "title": "CoindarSafePal to Hold Live Stream on X on October 1st",
-      "url": "https://www.tradingview.com/news/coindar:06cd8b8e4094b:0-safepal-to-hold-live-stream-on-x-on-october-1st/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "3e902a92cf80143a476876a975e10d757c8a0fd4c053b4fa114fd390cdf6d1fc",
-      "title": "PR NewswireBloomberg Launches Stablecoin Dashboard on the Terminal Powered by Data from Allium",
-      "url": "https://www.tradingview.com/news/prnewswire:70d4f40b665f0:0-bloomberg-launches-stablecoin-dashboard-on-the-terminal-powered-by-data-from-allium/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "b688a18b680246a63c579c7642a7b75f5f3680b777d0a1c582cfe1da2962b93b",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260930003893:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "7f6ab9779ce3dfbac144116dba402c163e5fbc8c3439c41b25496856fd1d3681",
-      "title": "Seeking AlphaZcash ETF completes 3-for-1 share split",
-      "url": "https://www.tradingview.com/news/seekingalpha:3ba61d064094b:0-zcash-etf-completes-3-for-1-share-split/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "67a0238ab57bec9ec5c3aef2b93307e0f789462b03fb9b37d6401bade4f06ee1",
-      "title": "CoindarArbitrum to Hold Hackathon on October 23rd",
-      "url": "https://www.tradingview.com/news/coindar:93a824ebd094b:0-arbitrum-to-hold-hackathon-on-october-23rd/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "657d5daca128d457c9b1b92638eddd822c2b1cd83865cc6f82fd4b5d30e0fdd8",
-      "title": "CoindarSuperRare to Launch END GAME: PROLOGUE on October 1st",
-      "url": "https://www.tradingview.com/news/coindar:1d9d1dcda094b:0-superrare-to-launch-end-game-prologue-on-october-1st/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "2188ca820b0689533d3e29a0a64626106dd06056b73e0b867840300b5e3983a1",
-      "title": "CoindarSuperRare to Release Slightly Wrong on October 1st",
-      "url": "https://www.tradingview.com/news/coindar:c5f6646cd094b:0-superrare-to-release-slightly-wrong-on-october-1st/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
-    },
-    {
-      "id": "e7a2f72ba7a93061c8a275069ee931733686afde372c3e8878851ce712c3cbd5",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260930003883:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T13:02:08.086Z"
+      "scraped_at": "2026-09-30T18:35:22.020Z"
     }
   ]
 }
