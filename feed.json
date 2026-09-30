@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-09-30T18:35:22.023Z",
-  "total": 14,
+  "generated_at": "2026-09-30T22:38:54.084Z",
+  "total": 15,
   "items": [
     {
-      "id": "9ec07f5638ddfd2abf108d7b613015dd3f67aa54fd171bff921649032b7379cb",
-      "title": "The BlockDogeOS launches testnet to bring EVM smart contracts to Dogecoin",
-      "url": "https://www.tradingview.com/news/the_block:a0d1ad73b094b:0-dogeos-launches-testnet-to-bring-evm-smart-contracts-to-dogecoin/",
+      "id": "7d177b79c78375f8d32689b3bac7d38c2c3c99f26fcebcf40faaa0e77ae0f391",
+      "title": "NewsBTCOrderly Network Surpasses $100 Billion In Cumulative Trading Volume",
+      "url": "https://www.tradingview.com/news/newsbtc:7a2d05972094b:0-orderly-network-surpasses-100-billion-in-cumulative-trading-volume/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
+      "scraped_at": "2026-09-30T22:38:54.077Z"
     },
     {
-      "id": "cbcc6ead5e594ac9044c661e77f0495e45a39e4380c018bf35bdff8b97b7aa83",
-      "title": "NewsBTCRipple Tokenizes Brazilian Investment Fund & Real Estate Records On XRP Ledger",
-      "url": "https://www.tradingview.com/news/newsbtc:d7309ee1a094b:0-ripple-tokenizes-brazilian-investment-fund-real-estate-records-on-xrp-ledger/",
+      "id": "2ad1b391f3b82d2dbc5faf2330249d114b3d87a90095592b2b2a257344a0a544",
+      "title": "The BlockClarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
+      "url": "https://www.tradingview.com/news/the_block:eb326066b094b:0-clarity-act-s-failure-gave-crypto-faster-regulatory-wins-bitwise-cio-says/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
+      "scraped_at": "2026-09-30T22:38:54.078Z"
     },
     {
-      "id": "b8ee4aefe3e12c623c22356e468507bebc9f36b770bcf6f81ef8d1caf50e58ed",
-      "title": "ReutersStripe Partnered With Open Standard To Make Open USD (OUSD) Available To Businesses Running On Stripe",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45M198:0-stripe-partnered-with-open-standard-to-make-open-usd-ousd-available-to-businesses-running-on-stripe/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
-    },
-    {
-      "id": "261ffcce0b623116f07a5c1475e7413b3a78a8f4f5cbafe8005b3d8cbe925848",
-      "title": "StocktwitsHYPE, ZEC Edge Higher — Hyperliquid And Zcash Are Challenging Crypto’s ‘Mount Rushmore,’ Says Bitwise CIO Matt Hougan",
-      "url": "https://www.tradingview.com/news/stocktwits:d54ecf944094b:0-hype-zec-edge-higher-hyperliquid-and-zcash-are-challenging-crypto-s-mount-rushmore-says-bitwise-cio-matt-hougan/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
-    },
-    {
-      "id": "198bf4d24f5547242c11a69924f1a15f0cbae6011f80da0da789f718db2834e8",
-      "title": "BenzingaEthereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered",
-      "url": "https://www.tradingview.com/news/benzinga:51e7d381d094b:0-ethereum-based-stablecoin-issuer-ena-could-surge-600-standard-chartered/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
-    },
-    {
-      "id": "3d63fc2e8101df678004c3ae3fa31526c5c073026007c2b9d5728ec1d92e7ebc",
-      "title": "CoinMarketCalChainlink: Fulcrum cross-chain collateral and financing platform launches - 30 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:f5317b413094b:0-chainlink-fulcrum-cross-chain-collateral-and-financing-platform-launches-30-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
-    },
-    {
-      "id": "29ebc057c7b239f6994baf0ef661b20118d215043fd6a22b336aa0204a1f96fe",
-      "title": "UCoinMarketCalSolana: Western Union's USDPT stablecoin goes live onchain - 30 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:c51296653094b:0-solana-western-union-s-usdpt-stablecoin-goes-live-onchain-30-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
-    },
-    {
-      "id": "5e4cbf77428b9453b3357cae5098a1eda12f709d1e21e6f38d3f5be55ab623aa",
-      "title": "CoinMarketCalNEAR Protocol: House of Stake vote on cutting max issuance to 1.6% - By 11 Oct 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:8a69eb09a094b:0-near-protocol-house-of-stake-vote-on-cutting-max-issuance-to-1-6-by-11-oct-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
-    },
-    {
-      "id": "b4ad737bf734aca5e27972b1efe7c279bbe2481dfccd0797808c9ba5a9196d06",
-      "title": "NewsBTCHouse Oversight Chair Comer Probes Crypto.com, Hyperliquid & PredictIt Over Identity Checks",
-      "url": "https://www.tradingview.com/news/newsbtc:f4c690910094b:0-house-oversight-chair-comer-probes-crypto-com-hyperliquid-predictit-over-identity-checks/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
-    },
-    {
-      "id": "a4ba45a906dd139a01081084ff9645a7e90a4e3c94e666446f7a5194218ea428",
-      "title": "CoinpediaBrad Garlinghouse Says XRP Has a Specific Role in Ripple’s Payments Strategy",
-      "url": "https://www.tradingview.com/news/coinpedia:dfc2693e3094b:0-brad-garlinghouse-says-xrp-has-a-specific-role-in-ripple-s-payments-strategy/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
-    },
-    {
-      "id": "800ba5e54116e810c3d106f44b76142875470296620746551f69e952e7cfed77",
+      "id": "bf485cf18cb72ab0667b6f5ddeac1afa0ad3ce8d2dd3e0631a5ee15c772bfe2f",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260930006405:0/",
+      "url": "https://www.tradingview.com/news/DJN_DN20260930008794:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
+      "scraped_at": "2026-09-30T22:38:54.078Z"
     },
     {
-      "id": "c4fcdd11563a0d1c43387db9c1a5938cfed720d3ab33ffd5b97db79ed244693a",
-      "title": "ReutersEuropean regulators need more powers to police crypto, watchdog says",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45M10T:0-european-regulators-need-more-powers-to-police-crypto-watchdog-says/",
+      "id": "b7efc3bd5c58116a6ecad0a8a9ac28d85f12d76ad923be0dfd3ac54416428022",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260930008758:0/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
+      "scraped_at": "2026-09-30T22:38:54.078Z"
     },
     {
-      "id": "77e162b5baf1bca59d93b0563bd6b8b786a4dbaa601f27284b0586fee76d43c7",
-      "title": "CoinpediaCrypto Market Cap Breakout Signals End of 2026 Accumulation",
-      "url": "https://www.tradingview.com/news/coinpedia:547602d1a094b:0-crypto-market-cap-breakout-signals-end-of-2026-accumulation/",
+      "id": "07a4e917555f17e8e02af3214f622e840864390ab91271cb784435175a72ed88",
+      "title": "Crypto BriefingBitcoin gains as rate hike expectations ease after soft PCE data",
+      "url": "https://www.tradingview.com/news/cryptobriefing:95880e6c9094b:0-bitcoin-gains-as-rate-hike-expectations-ease-after-soft-pce-data/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
+      "scraped_at": "2026-09-30T22:38:54.078Z"
     },
     {
-      "id": "8c608eef979d9cbc94fb611f48dc2a52352ea6fe3e824eb8dc79e90a92644d6e",
-      "title": "CointelegraphBitget ‘gradually back to usual’ as protection fund reaches $309M",
-      "url": "https://www.tradingview.com/news/cointelegraph:9aa93239a094b:0-bitget-gradually-back-to-usual-as-protection-fund-reaches-309m/",
+      "id": "dbf51e9937ffeff824cf06157de6bde205ce373c24f195bb941aa28693ef7c4b",
+      "title": "BenzingaBitcoin, Ethereum, XRP Are Stuck—So Where Is Crypto Money Actually Going?",
+      "url": "https://www.tradingview.com/news/benzinga:b7aaef9ed094b:0-bitcoin-ethereum-xrp-are-stuck-so-where-is-crypto-money-actually-going/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T18:35:22.020Z"
+      "scraped_at": "2026-09-30T22:38:54.078Z"
+    },
+    {
+      "id": "05bb3a89084307e9d30996eb3c4e085509a4fbcddede1b508abae87ecf49dc0c",
+      "title": "NewsBTCSuperstate Expands Tokenized Short-Duration US Treasury Fund (USTB) To Base",
+      "url": "https://www.tradingview.com/news/newsbtc:ab5ae3239094b:0-superstate-expands-tokenized-short-duration-us-treasury-fund-ustb-to-base/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T22:38:54.078Z"
+    },
+    {
+      "id": "85503106dde4124d23dd91f5883c8dc8c386c9dc71c79f7b368f2ff40270547a",
+      "title": "CointelegraphStandard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+      "url": "https://www.tradingview.com/news/cointelegraph:6baa731ea094b:0-standard-chartered-sees-ethena-s-usde-reaching-40b-ena-hitting-2/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T22:38:54.078Z"
+    },
+    {
+      "id": "80ffd44d99fddf0e96274c1952cc041f337bf571cf82becc26716a0d809bd21a",
+      "title": "The BlockCFTC secures over $30 million judgment against defendants in Fundsz fraud case",
+      "url": "https://www.tradingview.com/news/the_block:776392bcd094b:0-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T22:38:54.078Z"
+    },
+    {
+      "id": "354707ac7bcf620f322570310c8eafe558679ef0cbeb32d659cd05fecc65098a",
+      "title": "CoinMarketCalOrbio.so: Incognito launches end-to-end encrypted inference for agents - 30 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:7364ae667094b:0-orbio-so-incognito-launches-end-to-end-encrypted-inference-for-agents-30-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T22:38:54.078Z"
+    },
+    {
+      "id": "18dfea1150b8d848e9d8ecb39d70bbf338fa824edf4212985c9f2ff44f55f06a",
+      "title": "CoinMarketCalKinetiq: Ascend buyback allocation shifts to 50% HYPE / 50% KNTQ - 30 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:0115aaccb094b:0-kinetiq-ascend-buyback-allocation-shifts-to-50-hype-50-kntq-30-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T22:38:54.078Z"
+    },
+    {
+      "id": "925c074cee13490e1fc443c9b6d76ea13c31a9fcfe467684c523851cb6f6df8d",
+      "title": "CoinMarketCalChainlink: OUSD adopts Chainlink Data Feeds as its official oracle - 30 Sep 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:991fbb3d7094b:0-chainlink-ousd-adopts-chainlink-data-feeds-as-its-official-oracle-30-sep-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T22:38:54.078Z"
+    },
+    {
+      "id": "2ed90f694c06ea8854c61e0bf5482e69e9bb97c1d7920add3036432c090cdeae",
+      "title": "CointelegraphCrypto advocacy group announces picks for US Congress as midterms loom",
+      "url": "https://www.tradingview.com/news/cointelegraph:44f983e42094b:0-crypto-advocacy-group-announces-picks-for-us-congress-as-midterms-loom/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T22:38:54.078Z"
+    },
+    {
+      "id": "22f2d7bda9c5f16cd6e35d746d223d03f3cfbb6f4406f9589cffc4cd89a7fe18",
+      "title": "BeincryptoWall Street Puts $3.5 Billion Into Crypto Despite Rising Interest Rates",
+      "url": "https://www.tradingview.com/news/beincrypto:fee2dffc2094b:0-wall-street-puts-3-5-billion-into-crypto-despite-rising-interest-rates/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T22:38:54.078Z"
+    },
+    {
+      "id": "a16bc9285e24bf78b7604fe9e998ef186601d1fabcd4c342bac0332e81ea2c90",
+      "title": "CointelegraphBase completes Cobalt upgrade, adds new tools for tokenized assets",
+      "url": "https://www.tradingview.com/news/cointelegraph:a72f01f06094b:0-base-completes-cobalt-upgrade-adds-new-tools-for-tokenized-assets/",
+      "source": "tradingview",
+      "scraped_at": "2026-09-30T22:38:54.078Z"
     }
   ]
 }
