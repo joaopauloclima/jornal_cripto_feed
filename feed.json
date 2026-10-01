@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-09-30T22:38:54.084Z",
+  "generated_at": "2026-10-01T01:36:15.833Z",
   "total": 15,
   "items": [
+    {
+      "id": "4ed3c85076fc21b9f0d0a60763ddac81c6ab512c2b00808b303a617e6ab11ea3",
+      "title": "Crypto BriefingBybit releases 40th proof-of-reserves report as covered assets reach $19.6 billion",
+      "url": "https://www.tradingview.com/news/cryptobriefing:60b808613094b:0-bybit-releases-40th-proof-of-reserves-report-as-covered-assets-reach-19-6-billion/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.830Z"
+    },
+    {
+      "id": "1c44ca14b465df8b6f560c3c6a4c868369dc550a28b12db517c279141fd38bcb",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260930009600:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.830Z"
+    },
+    {
+      "id": "8ff8cb1155f9e205ecd705ebe17881c629fa50ea3b9813ed0b4a98d5dd6e0522",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260930009535:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.830Z"
+    },
+    {
+      "id": "676d33618085dc29eb86fb471fe6ad6cb339ebdbe14ae49035d7e32d5ec9fa3f",
+      "title": "NewsBTCWisdomTree Deploys Tokenized Real World Asset Funds Natively On Arbitrum",
+      "url": "https://www.tradingview.com/news/newsbtc:79e6354ff094b:0-wisdomtree-deploys-tokenized-real-world-asset-funds-natively-on-arbitrum/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.830Z"
+    },
+    {
+      "id": "f71f008bd3021be9c893313d3ed0b3465ad021b49170350f8dc902ced5e6e3e9",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260930009397_20260930009445:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.830Z"
+    },
+    {
+      "id": "fed1b20069249bf53d6180a5aee2986b4fe3cf695997debe9fe19d51abaaa976",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20260930009397_20260930009444:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.830Z"
+    },
+    {
+      "id": "c2714ab7bc032658b7e101f5c46ba4f818ba583386826b7c109515e1695c835d",
+      "title": "CointelegraphMetaMask exits Ethereum validators amid undisclosed security incident",
+      "url": "https://www.tradingview.com/news/cointelegraph:87cece81e094b:0-metamask-exits-ethereum-validators-amid-undisclosed-security-incident/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.830Z"
+    },
+    {
+      "id": "c63fa0bd9a6440826436b49d3372f7d38bb9aa16e66f1778ac680b674f7c173d",
+      "title": "BusinessWireOKX and BitGo Expand Off-Exchange Settlement Infrastructure to Institutions Globally",
+      "url": "https://www.tradingview.com/news/business_wire:9dfadf6d2f715:0-okx-and-bitgo-expand-off-exchange-settlement-infrastructure-to-institutions-globally/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.830Z"
+    },
+    {
+      "id": "68786dc6870b3890e9e1cfffa0e407097f8696d10ec2a4778dbcc79346226b7b",
+      "title": "NewsBTCSolana Validator Codebase Tag v2.1.0 Released On Testnet",
+      "url": "https://www.tradingview.com/news/newsbtc:7ba4b535e094b:0-solana-validator-codebase-tag-v2-1-0-released-on-testnet/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.831Z"
+    },
+    {
+      "id": "a1e8f695790b52dee8ab85567d5342b88d38c8a20bcc0f7365c814f7a98a3cd4",
+      "title": "CoinMarketCalWalrus: New Data Connectivity for Apps and AI Tools Unveiled at Sui Basecamp - 07 Oct 2026 to 08 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:ce5eade1d094b:0-walrus-new-data-connectivity-for-apps-and-ai-tools-unveiled-at-sui-basecamp-07-oct-2026-to-08-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.831Z"
+    },
+    {
+      "id": "8222f6e714f22582d5a086753f224251ee639d2992d6ffb9a574d2d4a3500509",
+      "title": "CoinMarketCalInjective: RunUp launchpad goes live with $RUNNER public launch - 01 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:2aa724111094b:0-injective-runup-launchpad-goes-live-with-runner-public-launch-01-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.831Z"
+    },
+    {
+      "id": "912afc2e57159f715c24891df027680528ec8735d54451b1dc89fcfc6eac975c",
+      "title": "CoinMarketCalPudgy Penguins: LINE FRIENDS Collaboration Launches in Seoul - 01 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:9f3e49b0c094b:0-pudgy-penguins-line-friends-collaboration-launches-in-seoul-01-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.831Z"
+    },
+    {
+      "id": "2a4054a816d887de0439673895f05923ec374d9004c453875e7c2c950bf2d7ad",
+      "title": "NewsBTCEigenLayer Unveils Dual-Staking Extension For Bitcoin Asset Security",
+      "url": "https://www.tradingview.com/news/newsbtc:84b798c0a094b:0-eigenlayer-unveils-dual-staking-extension-for-bitcoin-asset-security/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-01T01:36:15.831Z"
+    },
     {
       "id": "7d177b79c78375f8d32689b3bac7d38c2c3c99f26fcebcf40faaa0e77ae0f391",
       "title": "NewsBTCOrderly Network Surpasses $100 Billion In Cumulative Trading Volume",
       "url": "https://www.tradingview.com/news/newsbtc:7a2d05972094b:0-orderly-network-surpasses-100-billion-in-cumulative-trading-volume/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.077Z"
+      "scraped_at": "2026-10-01T01:36:15.831Z"
     },
     {
       "id": "2ad1b391f3b82d2dbc5faf2330249d114b3d87a90095592b2b2a257344a0a544",
       "title": "The BlockClarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
       "url": "https://www.tradingview.com/news/the_block:eb326066b094b:0-clarity-act-s-failure-gave-crypto-faster-regulatory-wins-bitwise-cio-says/",
       "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "bf485cf18cb72ab0667b6f5ddeac1afa0ad3ce8d2dd3e0631a5ee15c772bfe2f",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260930008794:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "b7efc3bd5c58116a6ecad0a8a9ac28d85f12d76ad923be0dfd3ac54416428022",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20260930008758:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "07a4e917555f17e8e02af3214f622e840864390ab91271cb784435175a72ed88",
-      "title": "Crypto BriefingBitcoin gains as rate hike expectations ease after soft PCE data",
-      "url": "https://www.tradingview.com/news/cryptobriefing:95880e6c9094b:0-bitcoin-gains-as-rate-hike-expectations-ease-after-soft-pce-data/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "dbf51e9937ffeff824cf06157de6bde205ce373c24f195bb941aa28693ef7c4b",
-      "title": "BenzingaBitcoin, Ethereum, XRP Are Stuck—So Where Is Crypto Money Actually Going?",
-      "url": "https://www.tradingview.com/news/benzinga:b7aaef9ed094b:0-bitcoin-ethereum-xrp-are-stuck-so-where-is-crypto-money-actually-going/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "05bb3a89084307e9d30996eb3c4e085509a4fbcddede1b508abae87ecf49dc0c",
-      "title": "NewsBTCSuperstate Expands Tokenized Short-Duration US Treasury Fund (USTB) To Base",
-      "url": "https://www.tradingview.com/news/newsbtc:ab5ae3239094b:0-superstate-expands-tokenized-short-duration-us-treasury-fund-ustb-to-base/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "85503106dde4124d23dd91f5883c8dc8c386c9dc71c79f7b368f2ff40270547a",
-      "title": "CointelegraphStandard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
-      "url": "https://www.tradingview.com/news/cointelegraph:6baa731ea094b:0-standard-chartered-sees-ethena-s-usde-reaching-40b-ena-hitting-2/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "80ffd44d99fddf0e96274c1952cc041f337bf571cf82becc26716a0d809bd21a",
-      "title": "The BlockCFTC secures over $30 million judgment against defendants in Fundsz fraud case",
-      "url": "https://www.tradingview.com/news/the_block:776392bcd094b:0-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "354707ac7bcf620f322570310c8eafe558679ef0cbeb32d659cd05fecc65098a",
-      "title": "CoinMarketCalOrbio.so: Incognito launches end-to-end encrypted inference for agents - 30 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:7364ae667094b:0-orbio-so-incognito-launches-end-to-end-encrypted-inference-for-agents-30-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "18dfea1150b8d848e9d8ecb39d70bbf338fa824edf4212985c9f2ff44f55f06a",
-      "title": "CoinMarketCalKinetiq: Ascend buyback allocation shifts to 50% HYPE / 50% KNTQ - 30 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:0115aaccb094b:0-kinetiq-ascend-buyback-allocation-shifts-to-50-hype-50-kntq-30-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "925c074cee13490e1fc443c9b6d76ea13c31a9fcfe467684c523851cb6f6df8d",
-      "title": "CoinMarketCalChainlink: OUSD adopts Chainlink Data Feeds as its official oracle - 30 Sep 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:991fbb3d7094b:0-chainlink-ousd-adopts-chainlink-data-feeds-as-its-official-oracle-30-sep-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "2ed90f694c06ea8854c61e0bf5482e69e9bb97c1d7920add3036432c090cdeae",
-      "title": "CointelegraphCrypto advocacy group announces picks for US Congress as midterms loom",
-      "url": "https://www.tradingview.com/news/cointelegraph:44f983e42094b:0-crypto-advocacy-group-announces-picks-for-us-congress-as-midterms-loom/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "22f2d7bda9c5f16cd6e35d746d223d03f3cfbb6f4406f9589cffc4cd89a7fe18",
-      "title": "BeincryptoWall Street Puts $3.5 Billion Into Crypto Despite Rising Interest Rates",
-      "url": "https://www.tradingview.com/news/beincrypto:fee2dffc2094b:0-wall-street-puts-3-5-billion-into-crypto-despite-rising-interest-rates/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
-    },
-    {
-      "id": "a16bc9285e24bf78b7604fe9e998ef186601d1fabcd4c342bac0332e81ea2c90",
-      "title": "CointelegraphBase completes Cobalt upgrade, adds new tools for tokenized assets",
-      "url": "https://www.tradingview.com/news/cointelegraph:a72f01f06094b:0-base-completes-cobalt-upgrade-adds-new-tools-for-tokenized-assets/",
-      "source": "tradingview",
-      "scraped_at": "2026-09-30T22:38:54.078Z"
+      "scraped_at": "2026-10-01T01:36:15.831Z"
     }
   ]
 }
