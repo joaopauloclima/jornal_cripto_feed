@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-10-02T18:43:08.084Z",
+  "generated_at": "2026-10-02T22:36:26.402Z",
   "total": 15,
   "items": [
+    {
+      "id": "605831efb25483d1982f256dc53b9fc146f5f7590233bb79655c0b4335a1058b",
+      "title": "Dow Jones NewswiresStart a free trial to read this news",
+      "url": "https://www.tradingview.com/news/DJN_DN20261002006987:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.397Z"
+    },
+    {
+      "id": "48f6771397b50bdb93bfb562f84d6daef459c3e9721cf3ee306486fc90b936b5",
+      "title": "ReutersCanary Pepe ETF Says Shares Expected To Be Listed For Trading On CBOE BZX Exchange - SEC Filing",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45O0YR:0-canary-pepe-etf-says-shares-expected-to-be-listed-for-trading-on-cboe-bzx-exchange-sec-filing/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
+    {
+      "id": "2d8508fd19108568818bb448b2f247983fd107624d0454b983f9dc63d80e37da",
+      "title": "CointelegraphEuropean crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
+      "url": "https://www.tradingview.com/news/cointelegraph:7427ed978094b:0-european-crypto-users-have-more-faith-in-regulated-firms-under-mica-bitpanda-co-ceo/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
+    {
+      "id": "2d009a9fbfb85a6f27dd0ca9a330d3ee4d71fc95303566d715fa62338875a4fa",
+      "title": "ReutersCommunity banks sue US regulator over crypto firm charters",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45O124:0-community-banks-sue-us-regulator-over-crypto-firm-charters/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
+    {
+      "id": "489d8416b643d59b7c566e6f832299d5259091ebe596d07628f16ff72ca51ea6",
+      "title": "CoinMarketCalSolana: HYPE goes multichain via Wormhole NTT - 02 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:818d4a7dd094b:0-solana-hype-goes-multichain-via-wormhole-ntt-02-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
+    {
+      "id": "d37b8791e639225b688b89c4a284174cf671253c1b12a72c54d3c5c4be4118a5",
+      "title": "CoinMarketCalZilliqa: Third migration hard fork moves exchange balances to EVM addresses - 05 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:56f924e35094b:0-zilliqa-third-migration-hard-fork-moves-exchange-balances-to-evm-addresses-05-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
+    {
+      "id": "ceb03cf98632cd23b81bb265845910cfa9b05d3e2809c824f4b78941fff5e42d",
+      "title": "CoinMarketCalCOTI: Team closes buyout of market maker's full position - 02 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:f62d40bd5094b:0-coti-team-closes-buyout-of-market-maker-s-full-position-02-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
+    {
+      "id": "f9b7bae016bf4b8f2d0580bb4b7e2f8c668d7ae8dfccc4b3b93e5eb7c594e751",
+      "title": "BloomingbitTether to Return to Bitcoin Network This Month via Utexo, Adding Private Transfers and Swaps",
+      "url": "https://www.tradingview.com/news/bloomingbit:adc93591f094b:0-tether-to-return-to-bitcoin-network-this-month-via-utexo-adding-private-transfers-and-swaps/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
     {
       "id": "973fd174e241b009d2920118668f4174a1d2b5fe49e52356c19e452e64dccca5",
       "title": "Crypto BriefingBitcoin jumps 42.9% in Q3 2026, leaving gold and stocks behind",
       "url": "https://www.tradingview.com/news/cryptobriefing:6c750f1d4094b:0-bitcoin-jumps-42-9-in-q3-2026-leaving-gold-and-stocks-behind/",
       "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.080Z"
+      "scraped_at": "2026-10-02T22:36:26.398Z"
     },
     {
       "id": "bd9bbf470d83cebd4b0d6e2ddcafd030942bedcfbf5e081d5f1136afcc7fcce7",
       "title": "CointelegraphBlast to wind down Ethereum L2 after costs outpace revenue",
       "url": "https://www.tradingview.com/news/cointelegraph:d1e43dbed094b:0-blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue/",
       "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.080Z"
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
+    {
+      "id": "967004e766bf2c30c7baea87f379bc0e8934d75b8091e9e00a22ac58ee1def75",
+      "title": "BloomingbitBitcoin Whales Accumulate 75,000 BTC Over 30 Days",
+      "url": "https://www.tradingview.com/news/bloomingbit:e42289f80094b:0-bitcoin-whales-accumulate-75-000-btc-over-30-days/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
+    {
+      "id": "45b2505142031fa2f3772e924f9f3b98432ac0ca12a0925930a1c761f9f32470",
+      "title": "Finance MagnatesSEC Proposes Last-Resort Crypto Self-Custody for Advisers and Funds",
+      "url": "https://www.tradingview.com/news/financemagnates:e9f5ba5c7094b:0-sec-proposes-last-resort-crypto-self-custody-for-advisers-and-funds/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
+    },
+    {
+      "id": "436f458a42758282ebfcaa74955db1defb781ee36e2ce97b60eeb87a43e4e826",
+      "title": "BenzingaBitcoin, Ethereum, XRP Pare Earlier Gains as Sentiment Turns Negative",
+      "url": "https://www.tradingview.com/news/benzinga:c06a50342094b:0-bitcoin-ethereum-xrp-pare-earlier-gains-as-sentiment-turns-negative/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-02T22:36:26.398Z"
     },
     {
       "id": "f432b8c70cc87675546840cfcf953dffe687900dc18beffbda0726b120a1057a",
       "title": "Crypto BriefingEl Salvador's Bitcoin stash sits at $618 million despite IMF strings",
       "url": "https://www.tradingview.com/news/cryptobriefing:cea6022ab094b:0-el-salvador-s-bitcoin-stash-sits-at-618-million-despite-imf-strings/",
       "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.080Z"
+      "scraped_at": "2026-10-02T22:36:26.398Z"
     },
     {
       "id": "c164425cb428379594ac9a2961d7b697616d080d9c431b1f93a4e8dbb257e0e3",
       "title": "Dow Jones NewswiresStart a free trial to read this news",
       "url": "https://www.tradingview.com/news/DJN_DN20261002005086:0/",
       "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.080Z"
-    },
-    {
-      "id": "fc9558814938ebebe010363781112d99b11b87fd85d48968c4430100704687fc",
-      "title": "Dow Jones NewswiresStart a free trial to read this news",
-      "url": "https://www.tradingview.com/news/DJN_DN20261002005084:0/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.080Z"
-    },
-    {
-      "id": "e43058374651b647d7b9b85cf567bde4edf2b882e8cd7d5a2217507b8428fa1f",
-      "title": "ReutersPLUS Mainnet Launches Layer-1 Blockchain With $945 Mln Reserves",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45O0T5:0-plus-mainnet-launches-layer-1-blockchain-with-945-mln-reserves/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.080Z"
-    },
-    {
-      "id": "87ad6264682c2245ef51d5949bec9c7b945f29eb5d872ec89fe0025a96c6cfe9",
-      "title": "The BlockDrift opens exploit recovery claims with initial payouts of just over 1% of user losses",
-      "url": "https://www.tradingview.com/news/the_block:c3cbaebb8094b:0-drift-opens-exploit-recovery-claims-with-initial-payouts-of-just-over-1-of-user-losses/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.080Z"
-    },
-    {
-      "id": "96339bd8f65859632e03b05a08eb493f3ae4e2a740ed1c11e353385fc05f4749",
-      "title": "CoinMarketCalUniswap: SMBC Nikko builds a Japan-compliant trading venue - Q2 2027",
-      "url": "https://www.tradingview.com/news/coinmarketcal:b8ba02da2094b:0-uniswap-smbc-nikko-builds-a-japan-compliant-trading-venue-q2-2027/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.080Z"
-    },
-    {
-      "id": "dc1248150b7f1b07fb99121e4e86a380e5e4927a734c8346a246426b418f680c",
-      "title": "CoinMarketCalIoTeX: Zanzibar hardfork moves staking rewards fully on-chain - By 19 Oct 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:dc75bab08094b:0-iotex-zanzibar-hardfork-moves-staking-rewards-fully-on-chain-by-19-oct-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.080Z"
-    },
-    {
-      "id": "36e58f1c3acf3e55226308cea093110ddc03b3e458787fc58699eaa5b1719f6a",
-      "title": "CoinMarketCalLido DAO: MetaMask Staking exits roughly 17,000 validators from the protocol - 07 Oct 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:da7fe3876094b:0-lido-dao-metamask-staking-exits-roughly-17-000-validators-from-the-protocol-07-oct-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.081Z"
-    },
-    {
-      "id": "95e3d13c207a54265d41305403e4255592d4c95534c9a7bbc96cba0526e3fdc1",
-      "title": "The BlockParadigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
-      "url": "https://www.tradingview.com/news/the_block:8fa6a5356094b:0-paradigm-backed-layer-2-blast-to-wind-down-network-as-costs-exceed-revenue/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.081Z"
-    },
-    {
-      "id": "6f948623479ff1485b9f64be35cf8ce94ea78a2b84e780b809459d4a5409dacd",
-      "title": "BeincryptoEthereum Network Blast Is Shutting Down: Who Controls Users' Last $51 Million?",
-      "url": "https://www.tradingview.com/news/beincrypto:9f033d484094b:0-ethereum-network-blast-is-shutting-down-who-controls-users-last-51-million/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.081Z"
-    },
-    {
-      "id": "f1470fa5835e9c30cd7cc1ed23515e0ca8bc1ee95880f56f190f7dcfc2932576",
-      "title": "ChainwireUmia Opens Its Platform to Outside Projects, With Slop Cash From elizaOS Creator Shaw Walters the First to Be Announced",
-      "url": "https://www.tradingview.com/news/chainwire:f4dd6c990094b:0-umia-opens-its-platform-to-outside-projects-with-slop-cash-from-elizaos-creator-shaw-walters-the-first-to-be-announced/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.081Z"
-    },
-    {
-      "id": "1900c476d56c4efc5fdbb0376f09c15b00638353786403e18d6c9a66f858155e",
-      "title": "Cointelegraph71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
-      "url": "https://www.tradingview.com/news/cointelegraph:fa6711585094b:0-71-of-uk-finance-leaders-expect-tokenization-to-reshape-financial-services-lloyds/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.081Z"
-    },
-    {
-      "id": "cff1f6254722cf024cbdba984f8e6f56d918fe1c979206d4a238c2817e7209a7",
-      "title": "ChainwireCOINPAYMENTS founder Alex Alexandrov appointed Group CEO as company strengthens executive team",
-      "url": "https://www.tradingview.com/news/chainwire:0d8d4cc2c094b:0-coinpayments-founder-alex-alexandrov-appointed-group-ceo-as-company-strengthens-executive-team/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-02T18:43:08.081Z"
+      "scraped_at": "2026-10-02T22:36:26.398Z"
     }
   ]
 }
