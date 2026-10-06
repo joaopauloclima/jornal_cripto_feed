@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-10-05T22:12:13.420Z",
-  "total": 14,
+  "generated_at": "2026-10-06T02:32:16.855Z",
+  "total": 15,
   "items": [
+    {
+      "id": "f59f21b4445671937bd70f554901f376c89175caae25920d3bb6e847be38b202",
+      "title": "Dow Jones NewswiresBitcoin Edges Lower as Markets Await Next Catalyst — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261005008724:0-bitcoin-edges-lower-as-markets-await-next-catalyst-market-talk/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-06T02:32:16.852Z"
+    },
+    {
+      "id": "fe1786dca2fc8de2bcf3b44cc951e09203d158bb43af6d3dac7425502d599c01",
+      "title": "CointelegraphChinese crime network laundered over $1B for Lazarus: ZachXBT",
+      "url": "https://www.tradingview.com/news/cointelegraph:e08e3c538094b:0-chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-06T02:32:16.852Z"
+    },
+    {
+      "id": "a5d39010180a83fede2301a99356fecf439de981c4c71a5a4d283b5d7e4405e1",
+      "title": "TradingViewQupital Launches AI On-Chain E‑Commerce Lending With USDC",
+      "url": "https://www.tradingview.com/news/tradingview:e73f964880513:0-qupital-launches-ai-on-chain-e-commerce-lending-with-usdc/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-06T02:32:16.852Z"
+    },
+    {
+      "id": "55704048381f31240aeffde12992bd87828bc3098a5c38a162e950a3fb8749fa",
+      "title": "Dow Jones NewswiresNikkei Rises 0.4%, Led by Electronics, Financial Stocks — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261005008552:0-nikkei-rises-0-4-led-by-electronics-financial-stocks-market-talk/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-06T02:32:16.852Z"
+    },
+    {
+      "id": "17be689a33e2266a7c45bef1573d18958b8124735fac0ff4d058350737967033",
+      "title": "Crypto BriefingBitcoin rally sets the mood as TOKEN2049 Singapore draws crypto's biggest names",
+      "url": "https://www.tradingview.com/news/cryptobriefing:f516ba81b094b:0-bitcoin-rally-sets-the-mood-as-token2049-singapore-draws-crypto-s-biggest-names/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-06T02:32:16.852Z"
+    },
+    {
+      "id": "bacad07cad2a3f21864c317367e4328dc8e8e87d42e3e01b166553959d20414e",
+      "title": "Dow Jones NewswiresNikkei May Remain Rangebound; Oil, Bond Yields in Focus — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261005008475:0-nikkei-may-remain-rangebound-oil-bond-yields-in-focus-market-talk/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-06T02:32:16.852Z"
+    },
+    {
+      "id": "ebdc9715500ed073b19c6efe1c4cdbe4bafde755833b58c92b9fd0d5608651bd",
+      "title": "CoinpediaInside the CFTC’s New Rules for Crypto Asset Markets",
+      "url": "https://www.tradingview.com/news/coinpedia:2cccc5395094b:0-inside-the-cftc-s-new-rules-for-crypto-asset-markets/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-06T02:32:16.852Z"
+    },
+    {
+      "id": "ab50db9122a9122dc2a20876e5b16e1be9ac92229105be06dedb9ee16c984824",
+      "title": "CoinMarketCalFlare: Firelight launches staker-backed DeFi protection - 06 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:7d057b3e6094b:0-flare-firelight-launches-staker-backed-defi-protection-06-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-06T02:32:16.852Z"
+    },
     {
       "id": "97ea4499edf3494a206fc1e3db1c95b626d451de82a0562345782f8b84634990",
       "title": "ReutersGrayscale Xrp Trust ETF - Allows In-Kind Creations And Redemptions With Macquarie Capital And Virtu Americas - SEC Filing",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45R1EL:0-grayscale-xrp-trust-etf-allows-in-kind-creations-and-redemptions-with-macquarie-capital-and-virtu-americas-sec-filing/",
       "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
+      "scraped_at": "2026-10-06T02:32:16.852Z"
     },
     {
       "id": "97b1496227ff809236c77e59c2f1dd5bcc9b2b8ca1a267c75818e305922da24f",
       "title": "Dow Jones NewswiresStablecoin Payment Platform Rain Applies to Establish National Trust Bank",
       "url": "https://www.tradingview.com/news/DJN_DN20261005008104:0-stablecoin-payment-platform-rain-applies-to-establish-national-trust-bank/",
       "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
+      "scraped_at": "2026-10-06T02:32:16.852Z"
     },
     {
       "id": "c686625f9d890e1ac6e0a14af38e1157d4068ffeaee744ae485cfe29c4917649",
       "title": "Crypto BriefingTHORChain cofounder argues protocol is more decentralized than Bitcoin and Ethereum",
       "url": "https://www.tradingview.com/news/cryptobriefing:3ef8c38cb094b:0-thorchain-cofounder-argues-protocol-is-more-decentralized-than-bitcoin-and-ethereum/",
       "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
+      "scraped_at": "2026-10-06T02:32:16.852Z"
     },
     {
       "id": "e43e3d2c6b9764298191a90e09eeffaa668814e7f250241aa7b4f2c37b7eed2e",
       "title": "CointelegraphCrypto PAC announces support for 32 House candidates in US midterms",
       "url": "https://www.tradingview.com/news/cointelegraph:644cdb2ec094b:0-crypto-pac-announces-support-for-32-house-candidates-in-us-midterms/",
       "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
+      "scraped_at": "2026-10-06T02:32:16.852Z"
     },
     {
       "id": "1776268f0b5c2359b9e1afb57f6952860ff41be8bcc67a1134f5c5f5eb3db9e3",
       "title": "ReutersGrayscale Bittensor Trust (Tao) - Enters Amendment To Bitgo Custodial Services Agreement On Sept 30, 2026 - SEC Filing",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45R1EG:0-grayscale-bittensor-trust-tao-enters-amendment-to-bitgo-custodial-services-agreement-on-sept-30-2026-sec-filing/",
       "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
+      "scraped_at": "2026-10-06T02:32:16.852Z"
     },
     {
       "id": "a1408ac079661ace8a3eb05255d0e3f545778b6d5c3b47e7e6ee364584d84d65",
       "title": "CointelegraphFinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
       "url": "https://www.tradingview.com/news/cointelegraph:c59e2cbc4094b:0-fincen-withdraws-proposed-crypto-mixing-rule-over-legitimate-activity-concerns/",
       "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
+      "scraped_at": "2026-10-06T02:32:16.852Z"
     },
     {
       "id": "f1e77af4649eb26a1cdd3a8f2bdc75a8a58fefc6bfbc13ecb862e113988eb3ca",
       "title": "Finance MagnatesBinance Launches Retail AI Assistant, Repackages Existing Trading Tools",
       "url": "https://www.tradingview.com/news/financemagnates:244955bfa094b:0-binance-launches-retail-ai-assistant-repackages-existing-trading-tools/",
       "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
-    },
-    {
-      "id": "0c6f0e2fe69754ca77e88535940b74c3adb9e96a21fa1e7ebad5873824edd475",
-      "title": "BenzingaCLARITY Act Failure Spurs New CFTC Crypto Rules, Chairman Selig Says It's 'Just The Beginning'",
-      "url": "https://www.tradingview.com/news/benzinga:5257cb70d094b:0-clarity-act-failure-spurs-new-cftc-crypto-rules-chairman-selig-says-it-s-just-the-beginning/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
-    },
-    {
-      "id": "aed5e25e2481ce2a641f4b793eabf983da3ba127cb1505a5bc8658cd1e282e6d",
-      "title": "CoinMarketCalStacks: Bonding Period 2 opens Bitcoin staking capacity - By 09 Oct 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:02e129af5094b:0-stacks-bonding-period-2-opens-bitcoin-staking-capacity-by-09-oct-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
-    },
-    {
-      "id": "9ac55e4c741ea4cf2bc49a06a0a5da4aef7e650f5483e35aeeea1a86e8a8d823",
-      "title": "CoinMarketCalStarknet: Haven opens private neobank accounts - 05 Oct 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:49c49212d094b:0-starknet-haven-opens-private-neobank-accounts-05-oct-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
-    },
-    {
-      "id": "3433916fb89033cb891bb2e743932fa3d47c3ff1d9bf8fcb2ff7e47e0c04bdc2",
-      "title": "CoinMarketCalLivepeer: Announces upcoming Livepeer 2.0 litepaper publication - By 11 Oct 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:6f1dd62c1094b:0-livepeer-announces-upcoming-livepeer-2-0-litepaper-publication-by-11-oct-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
-    },
-    {
-      "id": "bdfce1b52577294769ab65fe0631ea48a39f63f122ae3300b61889c7c1b31787",
-      "title": "Dow Jones NewswiresLong-Term Treasury Yields Settle at New Multidecade Highs — Market Talk",
-      "url": "https://www.tradingview.com/news/DJN_DN20261005006543:0-long-term-treasury-yields-settle-at-new-multidecade-highs-market-talk/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
-    },
-    {
-      "id": "c2e79b41eb4cd3d7e7307eca0687c39d173790e629991858a4a3a5cbfae508f6",
-      "title": "Dow Jones NewswiresTexas Stock Exchange CEO: Movement Away From N.Y. Is Just Beginning — Market Talk",
-      "url": "https://www.tradingview.com/news/DJN_DN20261005006499:0-texas-stock-exchange-ceo-movement-away-from-n-y-is-just-beginning-market-talk/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
-    },
-    {
-      "id": "18dc1e12ae6c1b252030bd222fabe56d20414613a64ad79e577ffc404f4729af",
-      "title": "Seeking AlphaU.S. regulator offers proposal for crypto market oversight",
-      "url": "https://www.tradingview.com/news/seekingalpha:a282a33fc094b:0-u-s-regulator-offers-proposal-for-crypto-market-oversight/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-05T22:12:13.417Z"
+      "scraped_at": "2026-10-06T02:32:16.852Z"
     }
   ]
 }
