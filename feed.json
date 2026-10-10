@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-10-09T23:54:38.248Z",
+  "generated_at": "2026-10-10T05:16:53.336Z",
   "total": 15,
   "items": [
+    {
+      "id": "ace32d647e1fe179a5e3ece1ee40c808f1bf5c8a3c687f87a1e04273a025e644",
+      "title": "Crypto BriefingRobinhood Chain transactions fall more than 40% as memecoin trading cools",
+      "url": "https://www.tradingview.com/news/cryptobriefing:ef4b5147e094b:0-robinhood-chain-transactions-fall-more-than-40-as-memecoin-trading-cools/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.332Z"
+    },
+    {
+      "id": "4841a25b6cb579fbd04c5b221dfe48c9d0674bb7012206dfc4c583cb050d3a89",
+      "title": "Crypto BriefingBlackRock ETF clients buy $22.38 million worth of Bitcoin",
+      "url": "https://www.tradingview.com/news/cryptobriefing:e1fd15d75094b:0-blackrock-etf-clients-buy-22-38-million-worth-of-bitcoin/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.332Z"
+    },
+    {
+      "id": "f72f29f1920c5c7ba3d17c7d5d6ae2bc96848f1fad6934de4b313efdce0d0071",
+      "title": "Binance NewsSlowMist CISO Speculates on Ledger Attack Path Involving Screen Recording of Seed Phrase",
+      "url": "https://www.tradingview.com/news/binance_news:4f5a22b34094b:0-slowmist-ciso-speculates-on-ledger-attack-path-involving-screen-recording-of-seed-phrase/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.332Z"
+    },
+    {
+      "id": "9e70143fe274fc23991aebf6de2c0ded2ad75bba478650f4e89e26d5ab534f1f",
+      "title": "Dow Jones NewswiresWall Street Enters the Age of Tokens — Barron's",
+      "url": "https://www.tradingview.com/news/DJN_DN20261009000073:0-wall-street-enters-the-age-of-tokens-barron-s/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.332Z"
+    },
+    {
+      "id": "4f98498263f9f0c764a109d070e7ea1be6cde0f78b428f043492c7f7db217f76",
+      "title": "Binance NewsSOL Treasury Company SKYA Transfers 468,000 SOL Worth $51.1 Million in 1 Day",
+      "url": "https://www.tradingview.com/news/binance_news:da57c6681094b:0-sol-treasury-company-skya-transfers-468-000-sol-worth-51-1-million-in-1-day/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.332Z"
+    },
+    {
+      "id": "bab902e75356af2063b8eafd9ba27a5f2787b81c01d9e6f679307e47e8d65d92",
+      "title": "Binance NewsPolymarket's Elon Musk Tweet Count Market Sees 65-89 Range Odds Drop 24.5%",
+      "url": "https://www.tradingview.com/news/binance_news:6f3808f79094b:0-polymarket-s-elon-musk-tweet-count-market-sees-65-89-range-odds-drop-24-5/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.332Z"
+    },
+    {
+      "id": "b1cafde1e0cea888fdc13c919addc954ae09c6ca15a31565698402a7cef25590",
+      "title": "Binance NewsPrivacy Infrastructure Hinkal Joins Mastercard Crypto Partner Program",
+      "url": "https://www.tradingview.com/news/binance_news:b8627b709094b:0-privacy-infrastructure-hinkal-joins-mastercard-crypto-partner-program/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.332Z"
+    },
+    {
+      "id": "e54ebd0879c8c64d6728390c8c265e75e42c64d40d4c274bd0c978316c8aca97",
+      "title": "Binance NewsNEAR Accounts Now Support Post-Quantum ML-DSA Without Asset Migration",
+      "url": "https://www.tradingview.com/news/binance_news:ac76c0812094b:0-near-accounts-now-support-post-quantum-ml-dsa-without-asset-migration/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.332Z"
+    },
+    {
+      "id": "62b9192a83f7b1d0e0c7453be69b7360860c3c0f5630c7a977abc3a8a038f046",
+      "title": "Binance NewsOpenETF Launches Hyperliquid Testnet for Tokenized Funds",
+      "url": "https://www.tradingview.com/news/binance_news:42d62594b094b:0-openetf-launches-hyperliquid-testnet-for-tokenized-funds/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.333Z"
+    },
+    {
+      "id": "c77ea5930a4916ff7559bd3b49be0d6c881a29803021d9a7f7547c12f8088767",
+      "title": "Binance NewsFormer FTX COO Constance Wang Says Netflix's 'The Altruists' Trailer Made Her Physically Sick",
+      "url": "https://www.tradingview.com/news/binance_news:9c68c564f094b:0-former-ftx-coo-constance-wang-says-netflix-s-the-altruists-trailer-made-her-physically-sick/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.333Z"
+    },
+    {
+      "id": "1e72812bd1d03abbb570a978a87384e00336b96e5ce80f9232540d4534f60a68",
+      "title": "Binance NewsAnza Says Solana Mainnet Beta Has Launched 200 Millisecond Slot Intervals",
+      "url": "https://www.tradingview.com/news/binance_news:41293d4a4094b:0-anza-says-solana-mainnet-beta-has-launched-200-millisecond-slot-intervals/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.333Z"
+    },
+    {
+      "id": "370ea9371aa2008feca6da13f7e74a3b3f6cf92f806fa7cc59fd7793686a44d9",
+      "title": "Binance NewsB3 Plans Securities Tokenization Trading Platform for First Half of 2027",
+      "url": "https://www.tradingview.com/news/binance_news:4b70de0a9094b:0-b3-plans-securities-tokenization-trading-platform-for-first-half-of-2027/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.333Z"
+    },
+    {
+      "id": "106f8162ab6bea7025a8a2893cbe4b9d8149910a0f0ee5461a593d9b11916391",
+      "title": "BloomingbitCelsius Founder Alex Mashinsky Settles With New York for Up to $35 Million, Permanently Barred From Crypto, Securities and Commodities Industries",
+      "url": "https://www.tradingview.com/news/bloomingbit:b53b30f0e094b:0-celsius-founder-alex-mashinsky-settles-with-new-york-for-up-to-35-million-permanently-barred-from-crypto-securities-and-commodities-industries/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-10T05:16:53.333Z"
+    },
     {
       "id": "37f2af9dbac0b61a6c3620eecff257d19b833c384ee3c3d2879be36ddca52f3a",
       "title": "ReutersDOJ scrutinizing Binance compliance with 2023 settlement accord - Bloomberg News",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N45V152:0-doj-scrutinizing-binance-compliance-with-2023-settlement-accord-bloomberg-news/",
       "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
+      "scraped_at": "2026-10-10T05:16:53.333Z"
     },
     {
-      "id": "9b25dad3d8d6b3837a72a23f97f411a44017c225133558be215daff66501b158",
-      "title": "CointelegraphUS plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "url": "https://www.tradingview.com/news/cointelegraph:2809547ff094b:0-us-plans-to-seize-1b-in-crypto-linked-to-iran-this-week-scott-bessent/",
+      "id": "e4f789f0248e70e970f0d93b7131660c27d14c9d8c1a98467fa6058c04207fca",
+      "title": "Binance NewsAero Sets October 21 Launch for Aerodrome and Velodrome Merger Terms",
+      "url": "https://www.tradingview.com/news/binance_news:fe3c6417a094b:0-aero-sets-october-21-launch-for-aerodrome-and-velodrome-merger-terms/",
       "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "b3a48efbc82dea408fb7a60bb7c4324d4c822458ea7be9a9e342389fdd6b82e9",
-      "title": "CointelegraphNew York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-      "url": "https://www.tradingview.com/news/cointelegraph:08ae50094094b:0-new-york-permanently-bars-celsius-founder-mashinsky-in-35m-fraud-settlement/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "640861ae950d34b8d9dbbc5ee72a91b36a3f7e5d4d1fce9ff851a0e4b32fea04",
-      "title": "Dow Jones NewswiresBitcoin Recovers Some Ground on Falling Yields, Oil — 2nd Update",
-      "url": "https://www.tradingview.com/news/DJN_DN20261009006632:0-bitcoin-recovers-some-ground-on-falling-yields-oil-2nd-update/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "86d25115a15e73c3630d488926c6fcd9349282771d319141f2b9cdc23d33df67",
-      "title": "CoinMarketCalZcash: Developers target quantum-resistant payments rollout - Jan 2027",
-      "url": "https://www.tradingview.com/news/coinmarketcal:50e92262c094b:0-zcash-developers-target-quantum-resistant-payments-rollout-jan-2027/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "e9a1d39a6521e8819e00f5b5880934b44c97539d54357735fb21fffb3770f522",
-      "title": "Dow Jones NewswiresBond Market Could Recover With or Without War Ending — Market Talk",
-      "url": "https://www.tradingview.com/news/DJN_DN20261009006273:0-bond-market-could-recover-with-or-without-war-ending-market-talk/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "a926cf2358fa3881c276f82e382bd1dffe1d5f873b4032c0b49b152ad84a7bdb",
-      "title": "Finance MagnatesToo Big to Supervise at Home: EU Limits Direct ESMA Rule to Crypto Giants",
-      "url": "https://www.tradingview.com/news/financemagnates:0251d581a094b:0-too-big-to-supervise-at-home-eu-limits-direct-esma-rule-to-crypto-giants/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "1dd48ba5cdb415fa083b8e59cb043ebbde7a63ec56494f3b4da16a66acf4ba9d",
-      "title": "CointelegraphTHORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "url": "https://www.tradingview.com/news/cointelegraph:0574bf57f094b:0-thorchain-exec-accuses-tether-of-temporarily-freezing-usdt-vaults/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "20e70d0e7aeed0d836afac9818413433d6fd4ac3be773a6729504019522cbf44",
-      "title": "BloomingbitCorporate Bitcoin Holdings Rise by 193,000 This Year as Retail Investors Cut 93,000",
-      "url": "https://www.tradingview.com/news/bloomingbit:cefb0c8d2094b:0-corporate-bitcoin-holdings-rise-by-193-000-this-year-as-retail-investors-cut-93-000/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "9b955d91482c71715eaa567ea78e9727cbcb3c7e9808e7dd47911d35ec7f2354",
-      "title": "BloomingbitArthur Hayes Says Market Must Climb ‘Wall of Worry’ at Start of Major Bull Run",
-      "url": "https://www.tradingview.com/news/bloomingbit:70280e1f9094b:0-arthur-hayes-says-market-must-climb-wall-of-worry-at-start-of-major-bull-run/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "1e4c1c8e86f869a303233975a9041f48b02b9665dae9227b76177eea3534ab4e",
-      "title": "BloomingbitBitcoin Investor Loses All 80 BTC After Moving Funds to Ledger Wallet Bought From Reseller",
-      "url": "https://www.tradingview.com/news/bloomingbit:7606bcbff094b:0-bitcoin-investor-loses-all-80-btc-after-moving-funds-to-ledger-wallet-bought-from-reseller/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "db8d2371996691179b66f8e7ba409ddeec737ffed024a97fe77eb30f324c4c79",
-      "title": "Crypto BriefingNEAR Protocol gains 83% in four weeks, leaving Bitcoin and Ether behind",
-      "url": "https://www.tradingview.com/news/cryptobriefing:f8f617f62094b:0-near-protocol-gains-83-in-four-weeks-leaving-bitcoin-and-ether-behind/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "356b350063206818a65fe745725d52e078bb3f54bbae4b7dd068fa24f03a333a",
-      "title": "U.TodayXRP Ledger Might Be Vulnerable to AI, Avalanche Founder Warns",
-      "url": "https://www.tradingview.com/news/u_today:53c1f6bb2094b:0-xrp-ledger-might-be-vulnerable-to-ai-avalanche-founder-warns/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "971b55ebf327219b45357a9984bae2daa7d9708d8c15599b4fc3e9a50d8ada80",
-      "title": "GuruFocusStrategy, Robinhood and Coinbase Jump as Trump Eases Iran Attack Fears",
-      "url": "https://www.tradingview.com/news/gurufocus:06dd69ad7094b:0-strategy-robinhood-and-coinbase-jump-as-trump-eases-iran-attack-fears/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
-    },
-    {
-      "id": "08163fe8481b01ce5430872662860cfe34a74543bba0f9f9dca9fb0989b462e4",
-      "title": "BeincryptoJustin Sun Shares AI and Quantum Vision at TOKEN2049 Singapore and Blockworks DAS Asia",
-      "url": "https://www.tradingview.com/news/beincrypto:272b7c923094b:0-justin-sun-shares-ai-and-quantum-vision-at-token2049-singapore-and-blockworks-das-asia/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-09T23:54:38.245Z"
+      "scraped_at": "2026-10-10T05:16:53.333Z"
     }
   ]
 }
