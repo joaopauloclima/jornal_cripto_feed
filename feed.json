@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-10-17T09:42:29.387Z",
+  "generated_at": "2026-10-17T13:16:01.499Z",
   "total": 15,
   "items": [
+    {
+      "id": "b7fc61f55e2fc1452bdc5aff6d30cc855d2d65e60677a90f7cbd6abe90265cf7",
+      "title": "CointelegraphSolana shows resilience, but some areas need continued observation, Fidelity says",
+      "url": "https://www.tradingview.com/news/cointelegraph:938316fd5094b:0-solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.496Z"
+    },
+    {
+      "id": "5a297243b688681767254585463feb8e754784b670a199ea1ca142877a523d82",
+      "title": "StocktwitsBitcoin Bounces Off Its Lowest Point In A Month, But Charles Schwab’s Adam Lynch Warns A Midterms Risk",
+      "url": "https://www.tradingview.com/news/stocktwits:8e404b97a094b:0-bitcoin-bounces-off-its-lowest-point-in-a-month-but-charles-schwab-s-adam-lynch-warns-a-midterms-risk/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.496Z"
+    },
+    {
+      "id": "03087925f5628dde850e845c59e18848ef170d4b9a94c1b6f305b606f8cde825",
+      "title": "NewsBTCBitcoin ETFs Lose $82 Million As BlackRock Leads Friday’s Withdrawals",
+      "url": "https://www.tradingview.com/news/newsbtc:f6559f7f0094b:0-bitcoin-etfs-lose-82-million-as-blackrock-leads-friday-s-withdrawals/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.496Z"
+    },
+    {
+      "id": "9870940034461923a152bdd5081930139c6603a57ce58778895aa1db56cdec72",
+      "title": "TradingViewKey facts: CME Plans CRYPTO:UNIUSD Futures Oct 19; Price, TVL Dip",
+      "url": "https://www.tradingview.com/news/tradingview:73858b9a9053f:0-key-facts-cme-plans-crypto-uniusd-futures-oct-19-price-tvl-dip/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.496Z"
+    },
+    {
+      "id": "7e5ebcf2a410e412c6723218636e34d399a1af089af167398e0c1587e52cdd21",
+      "title": "TradingViewKey facts: CRYPTO:BTCUSD $82.1K; ETFs $540M Outflows; Target $74.9K",
+      "url": "https://www.tradingview.com/news/tradingview:8da85230a013b:0-key-facts-crypto-btcusd-82-1k-etfs-540m-outflows-target-74-9k/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.496Z"
+    },
+    {
+      "id": "060800c4df313c15c0ea03271e3f6a54d153021aebc449fc686a639dacb1e147",
+      "title": "TradingViewKey facts: CRYPTO:SHIBUSD 32.76B SHIB Outflow; $28.8K Liquidations",
+      "url": "https://www.tradingview.com/news/tradingview:36dc0376e3fe4:0-key-facts-crypto-shibusd-32-76b-shib-outflow-28-8k-liquidations/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.496Z"
+    },
+    {
+      "id": "6c17117def510cf3c67bc9eb4beebfa561c61287ae0f7a857e7cd8c7768f6fff",
+      "title": "TradingViewKey facts: CRYPTO:XRPUSD pressured; EW targets $3–$4, $9–$13; SBI RLUSD",
+      "url": "https://www.tradingview.com/news/tradingview:7c051ad95c6ba:0-key-facts-crypto-xrpusd-pressured-ew-targets-3-4-9-13-sbi-rlusd/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.496Z"
+    },
+    {
+      "id": "0eb8e2256614dc82648552398ec5e542c7a6888e7097cadbe11c20910871cab6",
+      "title": "TradingViewKey facts: ETHUSD $862M/$475M risk; Pal $1–1.5T; Wintermute $75.45M",
+      "url": "https://www.tradingview.com/news/tradingview:f23da2dd3d247:0-key-facts-ethusd-862m-475m-risk-pal-1-1-5t-wintermute-75-45m/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.496Z"
+    },
+    {
+      "id": "3265bbea581e67e9eed968971e1d9b96375d74cd554eb5b5113a22f1c03a4aeb",
+      "title": "StocktwitsUniswap Slides Ahead Of CME Futures Debut As Binance Selling Pressure Eases",
+      "url": "https://www.tradingview.com/news/stocktwits:cd8523ddc094b:0-uniswap-slides-ahead-of-cme-futures-debut-as-binance-selling-pressure-eases/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.496Z"
+    },
+    {
+      "id": "1a45678d896fec4a62917811b8318fece1cdf490d8cd1a2b9a5ae94117b0457c",
+      "title": "CoinpediaFormer Ripple Adviser Says XRPL Is Ready for Banks, Price Gain Isn’t Guaranteed",
+      "url": "https://www.tradingview.com/news/coinpedia:a1149457c094b:0-former-ripple-adviser-says-xrpl-is-ready-for-banks-price-gain-isn-t-guaranteed/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.497Z"
+    },
+    {
+      "id": "3e129b8cb237c6f93ef55bfe845532d8d4bcf019b65c1fff402eddfd12b07f6f",
+      "title": "NewsBTCJudge Rejects Gemini And CFTC Bid To Overturn $5 Million Settlement",
+      "url": "https://www.tradingview.com/news/newsbtc:0a45cb7c3094b:0-judge-rejects-gemini-and-cftc-bid-to-overturn-5-million-settlement/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.497Z"
+    },
     {
       "id": "b8a0e5bdd13a71a34ce8f86f4d24e30c80af9512d979d6f71a4dfc3dee79d64a",
       "title": "StocktwitsBitcoin Is Jordi Visser's ‘Most Asymmetric Bet Ever’ As Tokenization Threatens To Upend Hedge Funds",
       "url": "https://www.tradingview.com/news/stocktwits:7300c0cd7094b:0-bitcoin-is-jordi-visser-s-most-asymmetric-bet-ever-as-tokenization-threatens-to-upend-hedge-funds/",
       "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
+      "scraped_at": "2026-10-17T13:16:01.497Z"
+    },
+    {
+      "id": "27ca42d55f6e9f37efde65d2d7885125bf5c56124b7cb75b5e9076fc59b3b446",
+      "title": "BeincryptoBitcoin Bull Signals are Flashing Everywhere, Analysts Claim",
+      "url": "https://www.tradingview.com/news/beincrypto:8d56f8f43094b:0-bitcoin-bull-signals-are-flashing-everywhere-analysts-claim/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-17T13:16:01.497Z"
     },
     {
       "id": "ca86549b94a1073bde87e045c62ab3f2ec8cd7a3c26fd49d3ba33da96c5ca336",
       "title": "Brave New CoinSign up to read this news",
       "url": "https://www.tradingview.com/news/bravenewcoin:a7850b92a094b:0/",
       "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
+      "scraped_at": "2026-10-17T13:16:01.497Z"
     },
     {
       "id": "4829be569d1f056d4bcf2dd2c3a743c8a1d83446ebbd7001e935db74bc61e063",
       "title": "CointelegraphLagarde says euro-area economy is resilient, digital euro imminent",
       "url": "https://www.tradingview.com/news/cointelegraph:60d86e7d5094b:0-lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent/",
       "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "d36ca18fee708986cabc064daa17c5325b786de64d9b70101053bbc1d481b4ec",
-      "title": "CoindardYdX to Reimburse Affected Traders in October",
-      "url": "https://www.tradingview.com/news/coindar:4df9ec734094b:0-dydx-to-reimburse-affected-traders-in-october/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "3c98e355ea3e1183048a356b66d5b77c194865cec17573ece065c25082fae5c0",
-      "title": "CoindarSuperRare to Host Sine Collection Release on October 20th",
-      "url": "https://www.tradingview.com/news/coindar:ce8793418094b:0-superrare-to-host-sine-collection-release-on-october-20th/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "d900a827e452876af10161e80f4bed54970a1b7dc4f8df8ee75708dbe33651cf",
-      "title": "CoindarAxie Infinity to Launch Terrariums: Halloween 2026 on October 24th",
-      "url": "https://www.tradingview.com/news/coindar:d17eaefd7094b:0-axie-infinity-to-launch-terrariums-halloween-2026-on-october-24th/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "8cb49935d3294ab51db99909b7196f192db169fe41595fd13916d7073d47ee30",
-      "title": "CointelegraphBitget to discontinue services for some users in one-off exercise",
-      "url": "https://www.tradingview.com/news/cointelegraph:13ed00399094b:0-bitget-to-discontinue-services-for-some-users-in-one-off-exercise/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "4971efc86bd8cf894b1d3567d53ce0bb1ebbd3fc599463e5a598aad78240d439",
-      "title": "CoinpediaCelestia’s Eden Launch Sends TIA Price Higher, but $0.80 Resistance Looms",
-      "url": "https://www.tradingview.com/news/coinpedia:6589ad43e094b:0-celestia-s-eden-launch-sends-tia-price-higher-but-0-80-resistance-looms/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "5b4056d00f405317f3ed6778d7fafba30b9f1ca734a431b4459767d579a06778",
-      "title": "Crypto BriefingBitcoin ETFs post $82.39 million in net outflows as Ethereum funds shed $69.68 million",
-      "url": "https://www.tradingview.com/news/cryptobriefing:7b3b6a72f094b:0-bitcoin-etfs-post-82-39-million-in-net-outflows-as-ethereum-funds-shed-69-68-million/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "c719daf776672845f4cf0717950dd806288834a7528a33005141c3b13ab720d2",
-      "title": "BloomingbitUS Ether ETFs See $69.7 Million in Net Outflows as October Total Nears $955 Million",
-      "url": "https://www.tradingview.com/news/bloomingbit:6c6d38db7094b:0-us-ether-etfs-see-69-7-million-in-net-outflows-as-october-total-nears-955-million/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "90ac273ba43cb07906f21f1b6f1fcab744856f370155a3c97126364c0a749418",
-      "title": "BloomingbitUS Spot Bitcoin ETFs See $82.41 Million in Net Outflows, With $71.8 Million Exiting BlackRock's IBIT",
-      "url": "https://www.tradingview.com/news/bloomingbit:70e684fdc094b:0-us-spot-bitcoin-etfs-see-82-41-million-in-net-outflows-with-71-8-million-exiting-blackrock-s-ibit/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "0b48c4194e8a2a53fcadc422be93784546442117796ab200306890c7e652a700",
-      "title": "Crypto BriefingBlackRock sells $71.78 million in Bitcoin as ETF redemptions pile up",
-      "url": "https://www.tradingview.com/news/cryptobriefing:d7adefbdd094b:0-blackrock-sells-71-78-million-in-bitcoin-as-etf-redemptions-pile-up/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "215db4f2caa958aa73bee9b3a29c384185f2f143064e83dec2266499f9c8b951",
-      "title": "BloomingbitAI Stocks Slide, Oil Tops $110, Bitcoin Weakens to $81,000 Range",
-      "url": "https://www.tradingview.com/news/bloomingbit:bd447e64e094b:0-ai-stocks-slide-oil-tops-110-bitcoin-weakens-to-81-000-range/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "f7460228e682ef211656ae995b4578e628fdd122c13847a8e45781c369cf9625",
-      "title": "Binance NewsMicrosoft and Partners Disrupt Phishing Network That Accepted USDT and Targeted 75,000 Organizations",
-      "url": "https://www.tradingview.com/news/binance_news:e598b4aa4094b:0-microsoft-and-partners-disrupt-phishing-network-that-accepted-usdt-and-targeted-75-000-organizations/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
-    },
-    {
-      "id": "231540ec826ef1f3dad748b91dbd9eb61b81a00d498e53da1d41103e9042d891",
-      "title": "BloomingbitMore Than 70% of BNB Chain Tokenized Stock Trading Occurs Outside US Market Hours",
-      "url": "https://www.tradingview.com/news/bloomingbit:a6b80b92d094b:0-more-than-70-of-bnb-chain-tokenized-stock-trading-occurs-outside-us-market-hours/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-17T09:42:29.383Z"
+      "scraped_at": "2026-10-17T13:16:01.497Z"
     }
   ]
 }
