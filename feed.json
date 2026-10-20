@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-10-20T01:18:07.336Z",
+  "generated_at": "2026-10-20T06:39:41.437Z",
   "total": 15,
   "items": [
+    {
+      "id": "d5d4ab42e93f5e11ec967aed1ffc519938fc00c184df1af49e02ac39c6cfcf1e",
+      "title": "Dow Jones NewswiresBitcoin Below $82,000 on Wavering Risk Appetite",
+      "url": "https://www.tradingview.com/news/DJN_DN20261020000677:0-bitcoin-below-82-000-on-wavering-risk-appetite/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.433Z"
+    },
+    {
+      "id": "c411c3600c12d3183a209b743da732fe6c5edb0870ee708906ed2d7e11e4f7cc",
+      "title": "CointelegraphUS Bitcoin ETFs draw $527M in biggest showing since September",
+      "url": "https://www.tradingview.com/news/cointelegraph:b397a3cd1094b:0-us-bitcoin-etfs-draw-527m-in-biggest-showing-since-september/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.434Z"
+    },
+    {
+      "id": "d5b9ad293bde39b1402f19863a3a8a61d2c501e4d6a8ff5dce1ef3c857f90707",
+      "title": "Crypto BriefingJ.P. Morgan projects Bitcoin to outperform US stocks and gold over the next decade",
+      "url": "https://www.tradingview.com/news/cryptobriefing:f04d95557094b:0-j-p-morgan-projects-bitcoin-to-outperform-us-stocks-and-gold-over-the-next-decade/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.434Z"
+    },
+    {
+      "id": "4a8c0bea7ee90688124595ea4e6f093f88bcf698cd5448922b7bcae3b23203a1",
+      "title": "BeincryptoIs Korea’s Chip Selloff a Crypto Buying Opportunity? Tom Lee’s Case and Its Catch",
+      "url": "https://www.tradingview.com/news/beincrypto:0c94562f7094b:0-is-korea-s-chip-selloff-a-crypto-buying-opportunity-tom-lee-s-case-and-its-catch/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.434Z"
+    },
+    {
+      "id": "cc96eb679056f6e81fb03f4fc0247266929b20b0dec74a585d9c467fa4768e86",
+      "title": "CointelegraphSophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+      "url": "https://www.tradingview.com/news/cointelegraph:f2308f33e094b:0-sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.434Z"
+    },
+    {
+      "id": "a0d975984f510aa7bba4bcf9312429875e6c2c2e555de21e0bf9f2cb5ea0a282",
+      "title": "BenzingaIran Escalates Threat to Target Undersea Cables in Hormuz Strait: ‘All of the World’s Internet and Commercial Data Depend on Them’",
+      "url": "https://www.tradingview.com/news/benzinga:3e263c62d094b:0-iran-escalates-threat-to-target-undersea-cables-in-hormuz-strait-all-of-the-world-s-internet-and-commercial-data-depend-on-them/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.434Z"
+    },
+    {
+      "id": "873d9cc1fc3d43bed5b907bedab2b4b26e1d53828ca992ac85921edf928c1dc4",
+      "title": "BenzingaBitcoin, Ethereum, XRP, Dogecoin Dip Even as 'Greed' Runs High: Analyst Sees 'Strong Bullish Setup' if This Trend Continues",
+      "url": "https://www.tradingview.com/news/benzinga:cbdfa6e40094b:0-bitcoin-ethereum-xrp-dogecoin-dip-even-as-greed-runs-high-analyst-sees-strong-bullish-setup-if-this-trend-continues/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.434Z"
+    },
+    {
+      "id": "58f0fe099034ff7dd32073e2456736f8766989af7b5dc5003b7052b026c72380",
+      "title": "CoinMarketCalAvalanche: DIFC courts use digital seals to verify court orders - 20 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:f57e0d860094b:0-avalanche-difc-courts-use-digital-seals-to-verify-court-orders-20-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.434Z"
+    },
+    {
+      "id": "08e505b5da3442542746eddf4c226b69663687ea2be9f250c0844923c865fe92",
+      "title": "Dow Jones NewswiresBitcoin Falls as Risk Appetite Wavers — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261019008694:0-bitcoin-falls-as-risk-appetite-wavers-market-talk/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.434Z"
+    },
+    {
+      "id": "c3ff6e74259f6eb75e9ef9a2f931e1c0efd24b70998bc3ac25419c78b5fd1c66",
+      "title": "CointelegraphBitcoin rally could revive treasury buying, but easy-money days over",
+      "url": "https://www.tradingview.com/news/cointelegraph:723518a50094b:0-bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T06:39:41.434Z"
+    },
     {
       "id": "979a2c53be2be3f819a37aba1a49fcb3b1bf540b7ceab88d1434ba6f72b6ce71",
       "title": "Binance NewsCME Group Launches Uniswap Futures With 24/7 Trading",
       "url": "https://www.tradingview.com/news/binance_news:1b2342035094b:0-cme-group-launches-uniswap-futures-with-24-7-trading/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
+      "scraped_at": "2026-10-20T06:39:41.434Z"
     },
     {
       "id": "9d8a357a8d52ac6d41baf298a76904ac84824ec8adb08fb32f0d28ba300b41a1",
       "title": "Binance NewsEthereum Foundation Schedules Glamsterdam Upgrade for Hoodi Testnet on October 27",
       "url": "https://www.tradingview.com/news/binance_news:920cb6931094b:0-ethereum-foundation-schedules-glamsterdam-upgrade-for-hoodi-testnet-on-october-27/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
+      "scraped_at": "2026-10-20T06:39:41.434Z"
     },
     {
       "id": "8d59fbf09087d6566bf717e7cb4d22830fa620823a82b1acfc8e23d3debc51b2",
       "title": "Binance NewsWhale Who Bought ETH at $1,647 Sells 12,468 Tokens for $8.99 Million Profit and Turns to Crude Oil Longs",
       "url": "https://www.tradingview.com/news/binance_news:5253272bc094b:0-whale-who-bought-eth-at-1-647-sells-12-468-tokens-for-8-99-million-profit-and-turns-to-crude-oil-longs/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
+      "scraped_at": "2026-10-20T06:39:41.434Z"
     },
     {
       "id": "6aafcbf11a8115988ad10b832ce48f478dafb1fd7b5a0a68301c610fe0459227",
       "title": "Binance NewsWhale Withdraws 774.77 BTC From Robinhood in $63.36 Million Transfer",
       "url": "https://www.tradingview.com/news/binance_news:44afb1225094b:0-whale-withdraws-774-77-btc-from-robinhood-in-63-36-million-transfer/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
+      "scraped_at": "2026-10-20T06:39:41.434Z"
     },
     {
       "id": "3110a106da644b7878837faff241de993a17ab5cb0088f8218892c8f61c27ea2",
       "title": "Binance NewsU.S. Blockchain Association Submits GENIUS Act Comments, Seeks Clearer Stablecoin Responsibilities",
       "url": "https://www.tradingview.com/news/binance_news:7bfe2b99f094b:0-u-s-blockchain-association-submits-genius-act-comments-seeks-clearer-stablecoin-responsibilities/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "074728df66254572c0c023d270f029580a179ffa0a9002fe722e6516e8bf050c",
-      "title": "Binance NewsSophon Plans to Shut Down Mainnet on November 30, 2026",
-      "url": "https://www.tradingview.com/news/binance_news:2cfcaa0b0094b:0-sophon-plans-to-shut-down-mainnet-on-november-30-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "8e863f5d2a57a2fd2f6e08195b28a9d98ab6a77f6bd79035ce4c539959fd5f13",
-      "title": "Dow Jones NewswiresNikkei May Consolidate Amid Lingering Worry Over AI Boom — Market Talk",
-      "url": "https://www.tradingview.com/news/DJN_DN20261019008475:0-nikkei-may-consolidate-amid-lingering-worry-over-ai-boom-market-talk/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "495c5daebc9f491d82b946eea6830261037a879d2eccc3d680008c5fe76c453e",
-      "title": "Binance NewsPapertrade Keeps PAPER Token Nontransferable Citing Perpetual Contract Attack Risks",
-      "url": "https://www.tradingview.com/news/binance_news:c8540cd8a094b:0-papertrade-keeps-paper-token-nontransferable-citing-perpetual-contract-attack-risks/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "e67ed23ba7082e1cf7f6aa7ba3cc540f866f6074b51d922559fead04e5a9cbc5",
-      "title": "BeincryptoTop 3 Altcoins to Watch in Third Week of October 2026",
-      "url": "https://www.tradingview.com/news/beincrypto:f71222a2f094b:0-top-3-altcoins-to-watch-in-third-week-of-october-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "8154538902e27f203a2a095b76fc2f982a6f3f1a0865b938e7a47538a407f917",
-      "title": "Binance NewsBlackRock files for bitcoin ETF with downside protection and upside exposure to IBIT",
-      "url": "https://www.tradingview.com/news/binance_news:a62d70e89094b:0-blackrock-files-for-bitcoin-etf-with-downside-protection-and-upside-exposure-to-ibit/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "2ea3813e3c206c7ebb1030bec3a086796867567a2b95456e3821a432e7c7131a",
-      "title": "Crypto BriefingStrive buys $335M in Bitcoin after $369M warrant windfall",
-      "url": "https://www.tradingview.com/news/cryptobriefing:b41188311094b:0-strive-buys-335m-in-bitcoin-after-369m-warrant-windfall/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "cf77e9e3e1d7536072309183b75be1c51f25422277667f7a6e3eb7dc2c6d8c5f",
-      "title": "Binance NewsPolymarket’s ‘Elon Musk Tweet Prediction’ Yes Odds Drop 15.2% in ‘340–359’ Market",
-      "url": "https://www.tradingview.com/news/binance_news:b4bbb1a26094b:0-polymarket-s-elon-musk-tweet-prediction-yes-odds-drop-15-2-in-340-359-market/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "9d30fa0cd9f67787f878de02e3bdacfd237a6c9d2ebb841fd01af0a3eb892c2f",
-      "title": "U.TodaySolana Achieves 104% Transaction Growth",
-      "url": "https://www.tradingview.com/news/u_today:76cd1eba6094b:0-solana-achieves-104-transaction-growth/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "2880c59bebd706cbbf6c79571fe4ea14bd20787eae3c1ff38f09d369e6e310d5",
-      "title": "Binance NewsSentora's OUSD Lending Vault Holds $42.5 Million on Tempo",
-      "url": "https://www.tradingview.com/news/binance_news:992d89e45094b:0-sentora-s-ousd-lending-vault-holds-42-5-million-on-tempo/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
-    },
-    {
-      "id": "c904204b11168b32bfac0c4ab24e40295afba65deb82737de66c952db05368ff",
-      "title": "NewsBTCSouth Korea Faces Fresh Push To Delay Crypto Gains Tax Until 2029",
-      "url": "https://www.tradingview.com/news/newsbtc:7427395e9094b:0-south-korea-faces-fresh-push-to-delay-crypto-gains-tax-until-2029/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T01:18:07.334Z"
+      "scraped_at": "2026-10-20T06:39:41.434Z"
     }
   ]
 }
