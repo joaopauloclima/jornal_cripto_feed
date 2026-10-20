@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-10-20T20:54:14.011Z",
+  "generated_at": "2026-10-20T23:42:23.199Z",
   "total": 15,
   "items": [
+    {
+      "id": "c18123d09c26f40e21b61e7f3b2b5a2380dfbb364635d7caf2fd42e1ae15d803",
+      "title": "Dow Jones NewswiresNikkei May Rise on Possible Dip-Buying Interest — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261020010591:0-nikkei-may-rise-on-possible-dip-buying-interest-market-talk/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T23:42:23.194Z"
+    },
+    {
+      "id": "f7b5326f88d4bc705743fbe38088d5a2d48377664145a5d8c1e9e87176a9a14c",
+      "title": "CointelegraphQubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "url": "https://www.tradingview.com/news/cointelegraph:6e0d7799a094b:0-qubic-restarts-blockchain-opens-recovery-claims-after-1-4m-hack/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T23:42:23.194Z"
+    },
+    {
+      "id": "0e1b540a9b7100ddee9e5c14f7a2549f5290e345fc1d63057b8b34131736644d",
+      "title": "CoinMarketCalStellar: Validators vote on Bell Protocol 30 mainnet upgrade - 23 Nov 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:a0318db60094b:0-stellar-validators-vote-on-bell-protocol-30-mainnet-upgrade-23-nov-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T23:42:23.194Z"
+    },
+    {
+      "id": "ed21fba7e8272ee77bcc7792be86e63ec1fd55ed8c5b6ef8480b7d51fe088398",
+      "title": "CoinMarketCalCOTI: Interphase launches private cross-chain payments - Q1 2027",
+      "url": "https://www.tradingview.com/news/coinmarketcal:0f5c9dc97094b:0-coti-interphase-launches-private-cross-chain-payments-q1-2027/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T23:42:23.194Z"
+    },
+    {
+      "id": "127ea103a1a75fe41bac324cd1d696cc53358690745da5807bcda9b442c33813",
+      "title": "GCoinMarketCalGRVT Token: Grvt launches Stable Funding Perps - Nov 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:cae24a4b3094b:0-grvt-token-grvt-launches-stable-funding-perps-nov-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T23:42:23.194Z"
+    },
+    {
+      "id": "3a434769f67995ff253caf46ce106b76efb36cf671a3fd915f0106d55bfe6760",
+      "title": "Dow Jones NewswiresBeach Energy's 1Q Update Looks Very Strong — Market Talk",
+      "url": "https://www.tradingview.com/news/DJN_DN20261020010504:0-beach-energy-s-1q-update-looks-very-strong-market-talk/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T23:42:23.194Z"
+    },
+    {
+      "id": "3b82150f2e6b83530918a9ba25fbe8b2fbe58fc574ba85bd0dbe1000163582c1",
+      "title": "Crypto BriefingArkansas foreign Bitcoin mining ownership law stays blocked as appeals court weighs case",
+      "url": "https://www.tradingview.com/news/cryptobriefing:1c2762236094b:0-arkansas-foreign-bitcoin-mining-ownership-law-stays-blocked-as-appeals-court-weighs-case/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T23:42:23.194Z"
+    },
     {
       "id": "d4dd31c8d50446bc6415123763071caaa1de6c304293325495404f0ad6a2b13d",
       "title": "CointelegraphBitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
       "url": "https://www.tradingview.com/news/cointelegraph:d185d5fe9094b:0-bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.007Z"
+      "scraped_at": "2026-10-20T23:42:23.194Z"
     },
     {
       "id": "1d071b7f53c1a4d4ceb4f41a4d57cf78b8868405d1dfe8922a68d42943476bdc",
       "title": "Crypto BriefingFidelity identifies preferred stocks as a demand catalyst for Bitcoin",
       "url": "https://www.tradingview.com/news/cryptobriefing:abffb91c9094b:0-fidelity-identifies-preferred-stocks-as-a-demand-catalyst-for-bitcoin/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.007Z"
+      "scraped_at": "2026-10-20T23:42:23.194Z"
+    },
+    {
+      "id": "c13320459817fd35a58c0ab15a001a4414fd8d15eafc86ed6d7e08868cc295b9",
+      "title": "BenzingaJamie Dimon Once Called Bitcoin a 'Fraud'—Now JP Morgan Projects 10% Annualized Returns",
+      "url": "https://www.tradingview.com/news/benzinga:b1ad78dbb094b:0-jamie-dimon-once-called-bitcoin-a-fraud-now-jp-morgan-projects-10-annualized-returns/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T23:42:23.194Z"
+    },
+    {
+      "id": "ebdc18ee88ded9a08a4da3bcd3e44a943d236c91db8de1c08fe28420b9e58efb",
+      "title": "BenzingaPeter Schiff Will Be Right About Bitcoin ‘One Day,’ Binance Founder Says",
+      "url": "https://www.tradingview.com/news/benzinga:dcf3de927094b:0-peter-schiff-will-be-right-about-bitcoin-one-day-binance-founder-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-20T23:42:23.194Z"
     },
     {
       "id": "47b26eeed4ee43f313c216cdaa6c5df2c6aebe97e2bf2962f03c6b7faab85af3",
       "title": "GCoinMarketCalGRVT Token: Upgraded Earn product launches - Oct 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:f11c0e00a094b:0-grvt-token-upgraded-earn-product-launches-oct-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.007Z"
+      "scraped_at": "2026-10-20T23:42:23.194Z"
     },
     {
       "id": "e977e106cc619a0cf25bb3b7197b6c366d96129f4a50ace023d90ba1b6e8621e",
       "title": "CoinMarketCalBittensor: eTAO activates subnet emission split controls - 20 Oct 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:dc51a2712094b:0-bittensor-etao-activates-subnet-emission-split-controls-20-oct-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.007Z"
+      "scraped_at": "2026-10-20T23:42:23.194Z"
     },
     {
       "id": "f116ec088efe751b6e860450fafbe10fdfce9c77cb22d6d4428bc70aaa33da9f",
       "title": "CoinMarketCalOsmosis: Voting closes on proposal to end OSMO inflation - 25 Oct 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:675ace980094b:0-osmosis-voting-closes-on-proposal-to-end-osmo-inflation-25-oct-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.007Z"
+      "scraped_at": "2026-10-20T23:42:23.194Z"
     },
     {
       "id": "6aed464a85e1fe7ccc0998608ec13336e274aa30825043f222c92251610b76cf",
       "title": "CointelegraphCrypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
       "url": "https://www.tradingview.com/news/cointelegraph:d67869024094b:0-crypto-s-2026-shutdown-wave-claims-82-projects-what-went-wrong/",
       "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.007Z"
-    },
-    {
-      "id": "2b893d97946df7505038fe8c83b4f768485c20772291c7af126d81d4dfe32f31",
-      "title": "Finance MagnatesRiver Markets Targets Institutional Distribution Role for OG.com and Crypto.com",
-      "url": "https://www.tradingview.com/news/financemagnates:1d5ffaac6094b:0-river-markets-targets-institutional-distribution-role-for-og-com-and-crypto-com/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.007Z"
-    },
-    {
-      "id": "a13518f197aef92e4d28a689e8148b1e8a1adbc1bfe0274a76340ce6d76480fa",
-      "title": "BenzingaUS Retail Traders Could Use Crypto Margin Under Proposed Rules, CFTC Chair Says",
-      "url": "https://www.tradingview.com/news/benzinga:33785fe52094b:0-us-retail-traders-could-use-crypto-margin-under-proposed-rules-cftc-chair-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.007Z"
-    },
-    {
-      "id": "17359516fd8436f1391398d7ca3ae3604e2a945d0cbd9f1b294c8b7eac6f2719",
-      "title": "BenzingaEthereum, Solana, HYPE Growth Isn’t Lifting Staking Yields: Bitwise",
-      "url": "https://www.tradingview.com/news/benzinga:81d0b3f35094b:0-ethereum-solana-hype-growth-isn-t-lifting-staking-yields-bitwise/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.007Z"
-    },
-    {
-      "id": "1ac5d2d34ccfab9349e71e7ae7f14c26ad152fa42b1866e4d1e2deb0e34e4050",
-      "title": "Dow Jones NewswiresBitcoin Correlation With Stock Market Returning — Market Talk",
-      "url": "https://www.tradingview.com/news/DJN_DN20261020007002:0-bitcoin-correlation-with-stock-market-returning-market-talk/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.008Z"
-    },
-    {
-      "id": "3f1919920f2b7e75672682a1f12959ba2610a52e3a7ebc3e55b958974bbee81a",
-      "title": "BeincryptoJPMorgan Reveals 3 Bitcoin Price Scenarios for 2036",
-      "url": "https://www.tradingview.com/news/beincrypto:93bd84a03094b:0-jpmorgan-reveals-3-bitcoin-price-scenarios-for-2036/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.008Z"
-    },
-    {
-      "id": "8a6a9af2f2f8d2bd3b512392274d08ac956b9fbc8bd3eef50959948ea1951747",
-      "title": "Crypto BriefingTether sees $1B drop in USDT as Bitcoin recovery faces challenges",
-      "url": "https://www.tradingview.com/news/cryptobriefing:97cfbf920094b:0-tether-sees-1b-drop-in-usdt-as-bitcoin-recovery-faces-challenges/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.008Z"
-    },
-    {
-      "id": "c7b7f99446245321eb1941bd17a84f3575eb5651fddb3411f515d04c649fef92",
-      "title": "StocktwitsZcash Is More Like AI Than Bitcoin, Says Cameron Winklevoss: Predicts ZEC Price Could Eventually Top $5,000",
-      "url": "https://www.tradingview.com/news/stocktwits:3a26aa0be094b:0-zcash-is-more-like-ai-than-bitcoin-says-cameron-winklevoss-predicts-zec-price-could-eventually-top-5-000/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.008Z"
-    },
-    {
-      "id": "a07c7cf9972d578a71822df3205518eb94d00385d1b64a4ad0229ba990513775",
-      "title": "BenzingaXRP Whale Activity Hits 5-Year Low: Is a Bigger Price Correction Coming?",
-      "url": "https://www.tradingview.com/news/benzinga:15dda09c3094b:0-xrp-whale-activity-hits-5-year-low-is-a-bigger-price-correction-coming/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.008Z"
-    },
-    {
-      "id": "519ac6ad66244a3368a81eb7f354a8146a2ddba5ee53d90f11e00e4b5ca5bb20",
-      "title": "ChainwireOutpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
-      "url": "https://www.tradingview.com/news/chainwire:6f8bab355094b:0-outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-20T20:54:14.008Z"
+      "scraped_at": "2026-10-20T23:42:23.194Z"
     }
   ]
 }
