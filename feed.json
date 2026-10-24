@@ -1,104 +1,111 @@
 {
-  "generated_at": "2026-10-24T13:54:18.075Z",
-  "total": 14,
+  "generated_at": "2026-10-24T17:17:08.478Z",
+  "total": 15,
   "items": [
+    {
+      "id": "0c882855f88d5f5269154e0c986219cbd055d8a2e369cff6bacc0af7f3ee7038",
+      "title": "StocktwitsHyperliquid Strategies Expands PURR Stock Buyback As HYPE Extends Monthly Losses",
+      "url": "https://www.tradingview.com/news/stocktwits:92ed27eb2094b:0-hyperliquid-strategies-expands-purr-stock-buyback-as-hype-extends-monthly-losses/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "91ac57381c1d1937157b4bc25273384fa11a4ff758a4dd35769d58c11e5358a9",
+      "title": "NewsBTCBitcoin Hashrate Reclaims One Zettahash As Mining Competition Rebounds",
+      "url": "https://www.tradingview.com/news/newsbtc:7c801bd38094b:0-bitcoin-hashrate-reclaims-one-zettahash-as-mining-competition-rebounds/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "d362dd3ab0b726de4ef0fad6015dfd22e7776c43e58211d19a0a857fc1ad8e9b",
+      "title": "The BlockArgentine judge clears Milei and 10 others in LIBRA case, finding no ‘criminally relevant deception’",
+      "url": "https://www.tradingview.com/news/the_block:eed3aa9db094b:0-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "f0c1fdd939aadcc4e1d73616e5204e8b1f53001a344b55e026321269671c9882",
+      "title": "StocktwitsWall Street Assets Take Nearly A Quarter Of Crypto Perpetual Trading: Glassnode Report",
+      "url": "https://www.tradingview.com/news/stocktwits:e368130a5094b:0-wall-street-assets-take-nearly-a-quarter-of-crypto-perpetual-trading-glassnode-report/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "85fcfce0498e75277339dbecff110fe1c70b968041ddffbcaa6ab45666dd2201",
+      "title": "BeincryptoBitcoin Loses $80,000 as $200 Million in Leverage Unwinds in an Hour",
+      "url": "https://www.tradingview.com/news/beincrypto:602974a48094b:0-bitcoin-loses-80-000-as-200-million-in-leverage-unwinds-in-an-hour/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "0fc9dd9ab60b677ea36b3cb2b87269c19d0d45ee8ef2f4bfb5cf9f918b217e0f",
+      "title": "BeincryptoBitcoin Keeps Reversing. Why Are 80% of Crypto Tokens Falling?",
+      "url": "https://www.tradingview.com/news/beincrypto:b31003298094b:0-bitcoin-keeps-reversing-why-are-80-of-crypto-tokens-falling/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "e79b5d5a64171ba757dee7684d3e85357992c1411a54bdeceb969351575d6658",
+      "title": "NewsBTCSygnum Launches Bitcoin Loans With Collateral Keys Shared Across Parties",
+      "url": "https://www.tradingview.com/news/newsbtc:77be4c5fd094b:0-sygnum-launches-bitcoin-loans-with-collateral-keys-shared-across-parties/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "d28f170a4103ebc95c405ec0c47c9dbb7fb3147651858ad569f4f84af6174e74",
+      "title": "Brave New CoinSign up to read this news",
+      "url": "https://www.tradingview.com/news/bravenewcoin:8f5e4a1e1094b:0/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "2a2ab6a0c19761a56436ce78784e9658a3d4e6f0a33e87b5c6061c6d2d48bcb6",
+      "title": "StocktwitsFranklin Templeton Prepares Nasdaq Debut For ETFs That Turn Stock Dividends Into Bitcoin",
+      "url": "https://www.tradingview.com/news/stocktwits:2eb7f213c094b:0-franklin-templeton-prepares-nasdaq-debut-for-etfs-that-turn-stock-dividends-into-bitcoin/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "ba4cb8581f64b8a2dcca0e64008246e8223461d65fc16f7d772b205b3f113073",
+      "title": "BenzingaAnthony Scaramucci Once Shared This Cautionary Tale for Navigating Personal and Business Relationships — Crypto Bull Warns ‘You Can’t Put Your Pride and Ego’ Into Decisions",
+      "url": "https://www.tradingview.com/news/benzinga:84c8c976e094b:0-anthony-scaramucci-once-shared-this-cautionary-tale-for-navigating-personal-and-business-relationships-crypto-bull-warns-you-can-t-put-your-pride-and-ego-into-decisions/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "d28b7a3550d72dad0d96fe207d8b11a7356d961acfb962f69d69899afbf7ba09",
+      "title": "ACoinMarketCalArcium: Distracted launches single-player poker on Solana - 24 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:d1ab74470094b:0-arcium-distracted-launches-single-player-poker-on-solana-24-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "b72e691fe508a1292c3b122853d8dea4aac0612205ccb57bc74291b6c5b76730",
+      "title": "CoinMarketCalLisk: Bridge initiation window closes for transfers to Ethereum - 24 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:fafeb65dc094b:0-lisk-bridge-initiation-window-closes-for-transfers-to-ethereum-24-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "50a60c16cb8d1b4a0a9f3e74e204bbc1268bdb5ff6a3ae1d34c25205dd7ab887",
+      "title": "NewsBTCFranklin Moves Bitcoin DRIP ETFs Toward Nasdaq With Dividend Reinvestment Plan",
+      "url": "https://www.tradingview.com/news/newsbtc:5fe889278094b:0-franklin-moves-bitcoin-drip-etfs-toward-nasdaq-with-dividend-reinvestment-plan/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
+    {
+      "id": "77d9417309578414807451cae99ec7135a3b755e23e538b6a372dd03cf7f2d84",
+      "title": "BloomingbitHSBC Adds Hong Kong Dollar Stablecoin RedCoin to PayMe",
+      "url": "https://www.tradingview.com/news/bloomingbit:602d09e58094b:0-hsbc-adds-hong-kong-dollar-stablecoin-redcoin-to-payme/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-24T17:17:08.472Z"
+    },
     {
       "id": "00a3337bbd6db0b2e020e8118956a6d798593100b1d3e0aa2879006f7eaed1e3",
       "title": "ABeincryptoArthur Hayes Dumps $22 Million in Crypto, Warns of More Pain",
       "url": "https://www.tradingview.com/news/beincrypto:ca04944b2094b:0-arthur-hayes-dumps-22-million-in-crypto-warns-of-more-pain/",
       "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.071Z"
-    },
-    {
-      "id": "f6911510512e8f16afc31007b0a524c0bf6ef04857802e1571516fd7ea963936",
-      "title": "BNewsBTCCoinShares BTF Liquidation Sets Cash Payout And Earlier Options Expiry",
-      "url": "https://www.tradingview.com/news/newsbtc:a2c0ad594094b:0-coinshares-btf-liquidation-sets-cash-payout-and-earlier-options-expiry/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.071Z"
-    },
-    {
-      "id": "34640ce54cf199191ff7a3571a03eed99f2ba741939b0679f5f18895ab3f7578",
-      "title": "StocktwitsBitcoin ETFs See $635M Outflow In A Day As BTC Slips Back To September Levels",
-      "url": "https://www.tradingview.com/news/stocktwits:f9a55b2d6094b:0-bitcoin-etfs-see-635m-outflow-in-a-day-as-btc-slips-back-to-september-levels/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.071Z"
-    },
-    {
-      "id": "1e2a875a4915968154484cde799d48d70cdf137d044a5d11a6cef5f25ee1456a",
-      "title": "NewsBTCJST Buyback & Burn Upgrade: GasFree Revenue and $20.34M Surplus Injected as JUST’s Ecosystem Trio Solidifies JST Token Value",
-      "url": "https://www.tradingview.com/news/newsbtc:7bb8e0e4d094b:0-jst-buyback-burn-upgrade-gasfree-revenue-and-20-34m-surplus-injected-as-just-s-ecosystem-trio-solidifies-jst-token-value/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.071Z"
-    },
-    {
-      "id": "2bc1692f20946e433a34aec363265c82544880603174571221c0cb12d05bd275",
-      "title": "NewsBTCBitcoin Core Speeds Up Bug Fixes As AI Changes Disclosure Rules",
-      "url": "https://www.tradingview.com/news/newsbtc:9f00e123d094b:0-bitcoin-core-speeds-up-bug-fixes-as-ai-changes-disclosure-rules/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.071Z"
-    },
-    {
-      "id": "64fefb53fa967846fb878060c22a5ab25b093846a33f8a5c0f8817630e60b864",
-      "title": "TradingViewKey facts: CRYPTO:BTCUSD $81k;ETF-$636M;$281M long lqns;<50dSMA",
-      "url": "https://www.tradingview.com/news/tradingview:a9d79ff3a8832:0-key-facts-crypto-btcusd-81k-etf-636m-281m-long-lqns-50dsma/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.071Z"
-    },
-    {
-      "id": "6517aba92c9d295336af558261e10bbd1680573a4a71eeab49d64507d377544a",
-      "title": "TradingViewKey facts: ETHUSD Faces $676M Long Liquidation Risk; $225M Outflows",
-      "url": "https://www.tradingview.com/news/tradingview:635d696cc813e:0-key-facts-ethusd-faces-676m-long-liquidation-risk-225m-outflows/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.071Z"
-    },
-    {
-      "id": "0d0158f7ab285cbbedc50e12a6e4636de2f6e5bb5b4443b1338d5075026cba3c",
-      "title": "TradingViewKey facts: Futu HK Enables BNB On-Chain for CRYPTO:BNBUSD; Pro-Only",
-      "url": "https://www.tradingview.com/news/tradingview:903617f627bd0:0-key-facts-futu-hk-enables-bnb-on-chain-for-crypto-bnbusd-pro-only/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.071Z"
-    },
-    {
-      "id": "cb49d45020ba7ac43130d7fa0faadf3d3840754064e0387d06939f8c0bc5cc48",
-      "title": "TradingViewKey facts: XRPUSD $1.31; Bollinger Squeeze, OTC Shortfall, Flare Loans",
-      "url": "https://www.tradingview.com/news/tradingview:237132b536884:0-key-facts-xrpusd-1-31-bollinger-squeeze-otc-shortfall-flare-loans/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.071Z"
-    },
-    {
-      "id": "14dc2c79aae722a07b37167f80fab91c3f279578e28f4ce70c2ea05ce55ce65b",
-      "title": "CoindarIlluvium to Open Main Council Voting on October 27th",
-      "url": "https://www.tradingview.com/news/coindar:e281c152d094b:0-illuvium-to-open-main-council-voting-on-october-27th/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.072Z"
-    },
-    {
-      "id": "cacb4abfa2981ebf22c5c7c25a5dc17d8fe7f67364e389691f46e6f62580df6e",
-      "title": "CoindarHorizen to Conduct Scheduled Maintenance on November 5th",
-      "url": "https://www.tradingview.com/news/coindar:cba4f3201094b:0-horizen-to-conduct-scheduled-maintenance-on-november-5th/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.072Z"
-    },
-    {
-      "id": "cd7db7f293a1b291eed95f801a7fa06efb9356460092c7f186ea22944ac15fa0",
-      "title": "CoindarBinance Upgraded the AI Pro Standard Plan",
-      "url": "https://www.tradingview.com/news/coindar:756246c71094b:0-binance-upgraded-the-ai-pro-standard-plan/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.072Z"
-    },
-    {
-      "id": "b26925fe0c6b9eccc37ed455068be94b96f3849d39a1de7bb45742e6b3da7539",
-      "title": "CoindarTezos Opened Quantumnet for Testing",
-      "url": "https://www.tradingview.com/news/coindar:adf2ca523094b:0-tezos-opened-quantumnet-for-testing/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.072Z"
-    },
-    {
-      "id": "5fe69a0e4c8e0fd0155ddc1528d8a8b70b1972660f1f987fccb82a5a5e1d26e0",
-      "title": "BeincryptoBitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow",
-      "url": "https://www.tradingview.com/news/beincrypto:b24260ebe094b:0-bitcoin-faces-make-or-break-weekend-as-market-crash-fears-grow/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-24T13:54:18.072Z"
+      "scraped_at": "2026-10-24T17:17:08.472Z"
     }
   ]
 }
