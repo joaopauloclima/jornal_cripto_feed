@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-10-25T05:22:00.442Z",
-  "total": 15,
+  "generated_at": "2026-10-25T10:10:31.673Z",
+  "total": 14,
   "items": [
+    {
+      "id": "b35aeac55f2ab52ca7029029e1339524aba5b585e6edf11a787144f9aeab15c2",
+      "title": "StocktwitsBitcoin Slips Below $80K As Peter Schiff Warns Of ‘Very Long Weekend’ For BTC Investors — Mike McGlone Says ‘Don’t Fight The Fed’",
+      "url": "https://www.tradingview.com/news/stocktwits:6c272b2e5094b:0-bitcoin-slips-below-80k-as-peter-schiff-warns-of-very-long-weekend-for-btc-investors-mike-mcglone-says-don-t-fight-the-fed/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-25T10:10:31.668Z"
+    },
+    {
+      "id": "2a5725cc289ee4a96b70a96bf990afbc82a2e843f07bef33ff3f160f70bc5aeb",
+      "title": "Crypto BriefingSEC clears listing of Volatility Shares' 3x Bitcoin and Ether ETFs",
+      "url": "https://www.tradingview.com/news/cryptobriefing:8480556f5094b:0-sec-clears-listing-of-volatility-shares-3x-bitcoin-and-ether-etfs/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-25T10:10:31.668Z"
+    },
+    {
+      "id": "44c1581ab6220931c0b25b05d517997cea7d2030f6f2fa69873bc55cf7b4662e",
+      "title": "CoinMarketCalTerra: Governance proposal outlines recovery after Station Desktop compromise - 25 Oct 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:d78549f37094b:0-terra-governance-proposal-outlines-recovery-after-station-desktop-compromise-25-oct-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-25T10:10:31.668Z"
+    },
+    {
+      "id": "9136aba79bc9ffca1143b5cd4a34afd6b5aae4d960ba61683014cb3524e89d0c",
+      "title": "Crypto BriefingOver $815M in crypto positions liquidated as Bitcoin, Ether prices drop",
+      "url": "https://www.tradingview.com/news/cryptobriefing:3b4795513094b:0-over-815m-in-crypto-positions-liquidated-as-bitcoin-ether-prices-drop/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-25T10:10:31.668Z"
+    },
+    {
+      "id": "12f103cb6dba78bf444b615158c974dbbff079f02a555d4af28a3aaccddbeae0",
+      "title": "BeincryptoTrump Says Iran Strikes Could Come Today. Can Bitcoin Hold $80,000?",
+      "url": "https://www.tradingview.com/news/beincrypto:fdb68abfc094b:0-trump-says-iran-strikes-could-come-today-can-bitcoin-hold-80-000/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-25T10:10:31.668Z"
+    },
+    {
+      "id": "3e3cfd76557cc3037294df7d207b08c5481b3c469beec32a00362a0c5ab7a2f2",
+      "title": "NewsBTCBitcoin ETF Week Stays Positive After Nearly $774 Million In Late Outflows",
+      "url": "https://www.tradingview.com/news/newsbtc:f4df5f87b094b:0-bitcoin-etf-week-stays-positive-after-nearly-774-million-in-late-outflows/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-25T10:10:31.668Z"
+    },
+    {
+      "id": "64b10e834cfc9a34224f9d173824154621dad57457923c1c68489d80bcaa2bc9",
+      "title": "U.TodayBitcoin Finally Crashing, Schiff Says",
+      "url": "https://www.tradingview.com/news/u_today:7ab5b7ae5094b:0-bitcoin-finally-crashing-schiff-says/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-25T10:10:31.668Z"
+    },
+    {
+      "id": "20c0da43c94de6dabe9cf3fa8f288644d1e6f6a28164241aba86d21e1d819200",
+      "title": "U.Today95 Billion SHIB in 24 Hours: Shiba Inu Exchange Activity Flips Bullish",
+      "url": "https://www.tradingview.com/news/u_today:531361c63094b:0-95-billion-shib-in-24-hours-shiba-inu-exchange-activity-flips-bullish/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-25T10:10:31.668Z"
+    },
+    {
+      "id": "e0ef45b093b327e341ec399d175e569e150e8ed92a7bb20ce7ef0b3d2a0429e7",
+      "title": "Binance NewsUniswap, PancakeSwap, Aero, Pump, and BisonFi Rank Among Top Five DEXs by 7-Day Volume",
+      "url": "https://www.tradingview.com/news/binance_news:96892e524094b:0-uniswap-pancakeswap-aero-pump-and-bisonfi-rank-among-top-five-dexs-by-7-day-volume/",
+      "source": "tradingview",
+      "scraped_at": "2026-10-25T10:10:31.668Z"
+    },
     {
       "id": "a7d798289afad5cdd7c2c43b008343e06a2fec3fdacf24020b7348e801aa51dd",
       "title": "NewsBTCXRP Ledger Fix Upgrade Faces November 4 Earliest Activation After Vote Reset",
       "url": "https://www.tradingview.com/news/newsbtc:0d5e0bb37094b:0-xrp-ledger-fix-upgrade-faces-november-4-earliest-activation-after-vote-reset/",
       "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
+      "scraped_at": "2026-10-25T10:10:31.669Z"
     },
     {
-      "id": "46c7acc6509223a05277d8d5f2d270688695875bc9d16ca24d13512c04f6da92",
-      "title": "NewsBTCBitcoin ETF Flows Trail Price Moves, DWF Study Finds",
-      "url": "https://www.tradingview.com/news/newsbtc:6b87e479d094b:0-bitcoin-etf-flows-trail-price-moves-dwf-study-finds/",
+      "id": "23a6b21b8e86e8ee8bfdaa563fabddf6262b7ef4ec2bfabe4436d80f4151c40f",
+      "title": "BenzingaBitcoin Will Hit $100,000 Before $60,000, Says Mike Alfred, Who’d Bet Up to $1 Million — Scaramucci Backs the Call",
+      "url": "https://www.tradingview.com/news/benzinga:0f9b016fe094b:0-bitcoin-will-hit-100-000-before-60-000-says-mike-alfred-who-d-bet-up-to-1-million-scaramucci-backs-the-call/",
       "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
+      "scraped_at": "2026-10-25T10:10:31.669Z"
     },
     {
-      "id": "bfab5efa47e34422af61260a927898153f2a40875c6aab0b191ebc54be3a4a51",
-      "title": "CoinMarketCalFlux: Block reward drops 10% to 12.6 FLUX - 26 Oct 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:9d084cbed094b:0-flux-block-reward-drops-10-to-12-6-flux-26-oct-2026/",
+      "id": "a55ac93703e53949cd70dcefe39ad910e3b5eb3528f3582377678a65dee504b1",
+      "title": "Binance NewsSouth Korea Delays Crypto Income Tax Again as Officials Weigh Youth Investor Backlash",
+      "url": "https://www.tradingview.com/news/binance_news:539063068094b:0-south-korea-delays-crypto-income-tax-again-as-officials-weigh-youth-investor-backlash/",
       "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
+      "scraped_at": "2026-10-25T10:10:31.669Z"
     },
     {
-      "id": "1dae6ed8a29bc34caae031ce5e9e080851fb1f4ffec0972add89efc83516ff3b",
-      "title": "NewsBTCAave Says V3.8 Security Proposal Preserves Flash-Loan Liquidations",
-      "url": "https://www.tradingview.com/news/newsbtc:bd64d853f094b:0-aave-says-v3-8-security-proposal-preserves-flash-loan-liquidations/",
+      "id": "6ac9ed1c3e6f4b5b15c30ac65d24f15d2f2cfc068152d10e357c1bbccd7671bb",
+      "title": "Binance NewsTrader Frank Says Main Perpetual Futures Wallet Is Not Yet Profitable Overall",
+      "url": "https://www.tradingview.com/news/binance_news:1d65a9c3e094b:0-trader-frank-says-main-perpetual-futures-wallet-is-not-yet-profitable-overall/",
       "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
+      "scraped_at": "2026-10-25T10:10:31.669Z"
     },
     {
-      "id": "639f8108cbb5d439ad58ccc6988e8cc46d4120df815606c5755861ac436d9c56",
-      "title": "NewsBTCAave Opens Its First Externally Curated V4 Markets With Sentora",
-      "url": "https://www.tradingview.com/news/newsbtc:c61dfdcde094b:0-aave-opens-its-first-externally-curated-v4-markets-with-sentora/",
+      "id": "0e2e73be662a708efc00fb64d7251f82b191e54bda4fbf93e559efb9b5471464",
+      "title": "Binance NewsFomo Co-Founder Denies Plans to Launch a Launchpad on Solana",
+      "url": "https://www.tradingview.com/news/binance_news:8c2e10a25094b:0-fomo-co-founder-denies-plans-to-launch-a-launchpad-on-solana/",
       "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "ca76254c2fb9d7268918651f475410bea0add28d2fe42af32ea19a48638cb016",
-      "title": "Binance NewsInfinite Node Foundation Accepts Punk Strategy Donation, Cuts Token Trading Fee to 5%",
-      "url": "https://www.tradingview.com/news/binance_news:4300d7d7a094b:0-infinite-node-foundation-accepts-punk-strategy-donation-cuts-token-trading-fee-to-5/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "f14a8704c48657cebe08542c4d398b900869fa4710321941c3e19b7d01607783",
-      "title": "Binance NewsBonk Guy Says Overtrading After Eight-Figure Loss Cost Him Millions",
-      "url": "https://www.tradingview.com/news/binance_news:5be6896a2094b:0-bonk-guy-says-overtrading-after-eight-figure-loss-cost-him-millions/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "61a3853b8a964f91877b1cc1b08e7b8637c314bb25d6fa74be6d6de39fd92048",
-      "title": "BloomingbitCoinbase Launches BTC, ETH, SOL Short-Term Price Prediction Markets With 15-Minute to Daily Contracts",
-      "url": "https://www.tradingview.com/news/bloomingbit:7e4f5addc094b:0-coinbase-launches-btc-eth-sol-short-term-price-prediction-markets-with-15-minute-to-daily-contracts/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "3100fb8b3ac8f440d3ce437a4acae2895ca77997ab3ce2335f6f5072cb74e939",
-      "title": "NewsBTCCircle Gateway Adds Bitcoin And Euro Balances With cirBTC And EURC",
-      "url": "https://www.tradingview.com/news/newsbtc:f992af379094b:0-circle-gateway-adds-bitcoin-and-euro-balances-with-cirbtc-and-eurc/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "1aec828a61d4bcc4a8e5cbfbe6be09780f3ecf08fac22f42b9f40f3d9b58f780",
-      "title": "NewsBTCStellar Updates Bell Upgrade Guide Ahead Of November Votes",
-      "url": "https://www.tradingview.com/news/newsbtc:327f4abdf094b:0-stellar-updates-bell-upgrade-guide-ahead-of-november-votes/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "94135e68dc1d73b7ca15b5634d95b80df50f7a33fb492db14509b6bcacd0a530",
-      "title": "Binance NewsGrayscale Names 3 Cryptocurrencies That Could Benefit From AI Growth",
-      "url": "https://www.tradingview.com/news/binance_news:7bd06cc8d094b:0-grayscale-names-3-cryptocurrencies-that-could-benefit-from-ai-growth/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "18762450c32b076a50aa8b04a3887b0a4e1611a12b003c37c91dd0cf04d09449",
-      "title": "Binance NewsArthur Hayes Receives $11.73 Million in USDC, With $6.96 Million Yet to Be Accounted For",
-      "url": "https://www.tradingview.com/news/binance_news:899aab31a094b:0-arthur-hayes-receives-11-73-million-in-usdc-with-6-96-million-yet-to-be-accounted-for/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "4bd97866b3af7ad1a9985cf2fa363646677a6684e877ef2aa840a83fda007b12",
-      "title": "NewsBTCBCG Study Puts Custody At The Center Of Banks’ Digital Asset Plans",
-      "url": "https://www.tradingview.com/news/newsbtc:b9d3ec591094b:0-bcg-study-puts-custody-at-the-center-of-banks-digital-asset-plans/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "32a6040d8488a8f676f0230a8674fee45318e9634ac98260b07e41c8d354668f",
-      "title": "NewsBTCKraken Parent Payward Wins In-Principle Approval For Kazakhstan Expansion",
-      "url": "https://www.tradingview.com/news/newsbtc:57deaffb9094b:0-kraken-parent-payward-wins-in-principle-approval-for-kazakhstan-expansion/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
-    },
-    {
-      "id": "f65e439149cebc9770d475faae6e86d6746e6b7b1361f6d7c2290edfe2095323",
-      "title": "Binance NewsElectrum Says High-Risk Exploit Affected Versions Before 4.8.3",
-      "url": "https://www.tradingview.com/news/binance_news:48dca5f5a094b:0-electrum-says-high-risk-exploit-affected-versions-before-4-8-3/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-25T05:22:00.439Z"
+      "scraped_at": "2026-10-25T10:10:31.669Z"
     }
   ]
 }
