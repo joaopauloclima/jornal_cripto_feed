@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-10-31T22:51:11.578Z",
+  "generated_at": "2026-11-01T02:00:19.754Z",
   "total": 15,
   "items": [
+    {
+      "id": "1f67b051f17b9389a50352b3a759c8f21aaa4b48cf2f65774a839e0839b58ed4",
+      "title": "NewsBTCFurther Asset Management Taps Chainlink ACE for Abu Dhabi Compliance Platform",
+      "url": "https://www.tradingview.com/news/newsbtc:3baff4542094b:0-further-asset-management-taps-chainlink-ace-for-abu-dhabi-compliance-platform/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-01T02:00:19.750Z"
+    },
+    {
+      "id": "8decdb2be0eb0b82eb8a00d70535a4510a32ea3810419ae32ffe69ae8ce80ae5",
+      "title": "NewsBTCChainlink Launches CustodySync With Anchorage to Link Custody and DeFi Loans",
+      "url": "https://www.tradingview.com/news/newsbtc:4abcb2212094b:0-chainlink-launches-custodysync-with-anchorage-to-link-custody-and-defi-loans/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-01T02:00:19.750Z"
+    },
+    {
+      "id": "ed087fa0b91c88d0d13a091ef7e2ebde7c2b82511b0df0c09cf26a9a047b62ad",
+      "title": "NewsBTCTether-Backed FASE Foundation Targets Scams and Stablecoin Aid",
+      "url": "https://www.tradingview.com/news/newsbtc:98d1b50b2094b:0-tether-backed-fase-foundation-targets-scams-and-stablecoin-aid/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-01T02:00:19.750Z"
+    },
     {
       "id": "4fd2927a50f9321ed71210e56d38cd5a2eca24c84db6c6c4a73f9f33b8887288",
       "title": "NewsBTCUniswap Adds Developer Analytics as Swap API Usage Crosses $2B",
       "url": "https://www.tradingview.com/news/newsbtc:20bc9a9c4094b:0-uniswap-adds-developer-analytics-as-swap-api-usage-crosses-2b/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.575Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "ead3cab2a5fb60ddb5e27f1088aa7ff9c72558f975cc338da519e6dc4f8c7be6",
       "title": "ReutersFBI links North Korea to theft of $6 billion from Binance",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN4650BN:0-fbi-links-north-korea-to-theft-of-6-billion-from-binance/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "160821fa52d4c3593b5af2fed3b9bafde6f425f190c9e24e2562aacbfff26a47",
       "title": "NewsBTCShopify’s Base USDC Checkout Puts Stablecoins Into Mainstream E-Commerce",
       "url": "https://www.tradingview.com/news/newsbtc:89d028581094b:0-shopify-s-base-usdc-checkout-puts-stablecoins-into-mainstream-e-commerce/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "1bd156fd4829ea4702bb05615064e5b7743eb7a443f43d975187baa517989459",
       "title": "Beincrypto18 Years of Satoshi’s Paradox: Can Bitcoin Survive What Comes Next?",
       "url": "https://www.tradingview.com/news/beincrypto:a19dd986e094b:0-18-years-of-satoshi-s-paradox-can-bitcoin-survive-what-comes-next/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "367483fe4844977d7ea5f2327967d67165b2c6980cfbb6bc23eb20de84fee822",
       "title": "NewsBTCChainlink Unveils 24/7 Pricing for Tokenized Assets as Aave Adopts Feeds",
       "url": "https://www.tradingview.com/news/newsbtc:cff474445094b:0-chainlink-unveils-24-7-pricing-for-tokenized-assets-as-aave-adopts-feeds/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "a431a92df2944c0b237d9f431ec8e9fd504c9ae77fedc2cc0530055c92e85c52",
       "title": "BenzingaBitcoin, Hyperliquid, Zcash Make '2027 Crypto Playbook': Report",
       "url": "https://www.tradingview.com/news/benzinga:7d4404010094b:0-bitcoin-hyperliquid-zcash-make-2027-crypto-playbook-report/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
+    },
+    {
+      "id": "83ad38a56aff5969f33c217b58804a23c9b7a274b895318560c1a8d462fcc6dc",
+      "title": "InvezzTron price falls 7% to $0.31 as Binance hacker's TRX stash spooks traders",
+      "url": "https://www.tradingview.com/news/invezz:0aa81d83a094b:0-tron-price-falls-7-to-0-31-as-binance-hacker-s-trx-stash-spooks-traders/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "f5061859713cd05978989b760e94c7395eba8b351aeb25f50fd1eecc39a6ffe6",
       "title": "CoinMarketCalGenius: Introduces revenue-funded GENIUS buybacks and burns - 31 Oct 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:d149d8269094b:0-genius-introduces-revenue-funded-genius-buybacks-and-burns-31-oct-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "2f56d19e53e88af08e9599a08e5488a270f7c490e30825551c40b2e16a1651e0",
       "title": "NewsBTCUniswap Opens TJAR Fee Conversion Beyond Protocol as Robinhood Joins",
       "url": "https://www.tradingview.com/news/newsbtc:4d52f9219094b:0-uniswap-opens-tjar-fee-conversion-beyond-protocol-as-robinhood-joins/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "4bb89b91bec44adc10b0f9a646177d8cf3b90b834bfbb2f1ac77b9046dcea31f",
       "title": "NewsBTCPolygon Extends Open Money Stack to Solana for Stablecoin Payment Flows",
       "url": "https://www.tradingview.com/news/newsbtc:3da9965c6094b:0-polygon-extends-open-money-stack-to-solana-for-stablecoin-payment-flows/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "c258d0cbac368797ecf59e67f8ca63d6fd43ba8f79d4d58d5a6f958e7a9db987",
       "title": "StocktwitsBitcoin Looks Like A 'Relative Dud' Against Gold And US Treasuries, Says Bloomberg's Mike McGlone",
       "url": "https://www.tradingview.com/news/stocktwits:18c4ce458094b:0-bitcoin-looks-like-a-relative-dud-against-gold-and-us-treasuries-says-bloomberg-s-mike-mcglone/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     },
     {
       "id": "0eda9b2fff2c9404c2c8dd4a31723401e355b09cf492cf0a87352c3218abdc9a",
       "title": "Seeking AlphaBinance restores 90% of stolen crypto assets",
       "url": "https://www.tradingview.com/news/seekingalpha:85ba546b9094b:0-binance-restores-90-of-stolen-crypto-assets/",
       "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
-    },
-    {
-      "id": "f9fb4306038e730ee8d5bf6f30a6d0d2d4cf486f6017a2cb9b3611978b971df0",
-      "title": "StocktwitsJordi Visser Says One Overlooked Event Could Help Bitcoin Break Out Of Its Slump",
-      "url": "https://www.tradingview.com/news/stocktwits:7c53c5298094b:0-jordi-visser-says-one-overlooked-event-could-help-bitcoin-break-out-of-its-slump/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
-    },
-    {
-      "id": "dda1d947347d2f30c8b0465c5ba6776b316981c145f26a70d4ffa1772d858376",
-      "title": "CointelegraphBinance says 90% of stolen assets replenished, targets Sunday withdrawals",
-      "url": "https://www.tradingview.com/news/cointelegraph:8703aea98094b:0-binance-says-90-of-stolen-assets-replenished-targets-sunday-withdrawals/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
-    },
-    {
-      "id": "aae51eef934ad044ed687df67699276b8b628c8fe6bafc8d75d1142bbbc7653d",
-      "title": "ReutersBinance says it has covered 90% of losses from $6.3 billion hack",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46H03L:0-binance-says-it-has-covered-90-of-losses-from-6-3-billion-hack/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
-    },
-    {
-      "id": "6d22d9735a94ab791a2f1f6f50193a707f2a3dfe47c6f608782bb2582b92b252",
-      "title": "BenzingaBitcoin Buyers May Look Back by March and Say ‘I Could Have Bought Bitcoin at $80,000,’ Galaxy Analyst Says",
-      "url": "https://www.tradingview.com/news/benzinga:46016b7d9094b:0-bitcoin-buyers-may-look-back-by-march-and-say-i-could-have-bought-bitcoin-at-80-000-galaxy-analyst-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-10-31T22:51:11.576Z"
+      "scraped_at": "2026-11-01T02:00:19.750Z"
     }
   ]
 }
