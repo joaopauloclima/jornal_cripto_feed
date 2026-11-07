@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-11-06T23:31:42.509Z",
-  "total": 15,
+  "generated_at": "2026-11-07T03:14:38.620Z",
+  "total": 14,
   "items": [
+    {
+      "id": "9e6cc74bd75fea5d34e57e6c3c0ca7b5a5cdb70194704111772f43588e6a3876",
+      "title": "StocktwitsBitcoin Slips Toward 50-Week Moving Average, Putting Post-September Recovery To The Test: Weekly Close Streak Hangs In Balance",
+      "url": "https://www.tradingview.com/news/stocktwits:9c447e910094b:0-bitcoin-slips-toward-50-week-moving-average-putting-post-september-recovery-to-the-test-weekly-close-streak-hangs-in-balance/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-07T03:14:38.616Z"
+    },
+    {
+      "id": "eeaecf488f0a34bb478654942927bf7f4d66765a52aec888dfae7a8b212bd8d1",
+      "title": "CoinMarketCalBitcoin: Russia's central bank approves retail trading - 17 Nov 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:b42946e7a094b:0-bitcoin-russia-s-central-bank-approves-retail-trading-17-nov-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-07T03:14:38.616Z"
+    },
     {
       "id": "d379fbe1919521b178534006ff854f8a9426562db32f1aec67012717ec8a7ca4",
       "title": "Finance MagnatesNigeria Erects Strict Stablecoin Wall, Demanding $11M Local Subsidiaries for US Dollar Tokens",
       "url": "https://www.tradingview.com/news/financemagnates:cb59dedad094b:0-nigeria-erects-strict-stablecoin-wall-demanding-11m-local-subsidiaries-for-us-dollar-tokens/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
+    },
+    {
+      "id": "e5156cf7e63b04b3793a380e7eb38305b02a5ebe1fbc93aa01bfad9bee3da04b",
+      "title": "BloomingbitTRM Labs Calls $6.3 Billion Binance Hack ‘Cyber Warfare,’ Says North Korean Attacks Will Continue",
+      "url": "https://www.tradingview.com/news/bloomingbit:fb2456ef1094b:0-trm-labs-calls-6-3-billion-binance-hack-cyber-warfare-says-north-korean-attacks-will-continue/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
       "id": "5e3d809505e671fa41830772805e975d7d4b099729c2d85546f8fa637d1f18f0",
       "title": "Dow Jones NewswiresQuantum Computers Are Poised to Crack Encryption. AI Could Beat Them to It. — WSJ",
       "url": "https://www.tradingview.com/news/DJN_DN20261106011704:0-quantum-computers-are-poised-to-crack-encryption-ai-could-beat-them-to-it-wsj/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
       "id": "79c188977e8c23c3731e84f7a59fa88e8d6d31d8ee561df61068c457dcca5e41",
       "title": "CointelegraphUS Treasury cuts off MEXC over alleged $16B in illicit transactions",
       "url": "https://www.tradingview.com/news/cointelegraph:8f039baa8094b:0-us-treasury-cuts-off-mexc-over-alleged-16b-in-illicit-transactions/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
       "id": "6702eea6fdc5af799c71a461ab519b4ce4bdcb37d0bc60b1c62fe67a567a3de6",
       "title": "Crypto BriefingHyperliquid leads focus on fundamentals at TOKEN2049 conference",
       "url": "https://www.tradingview.com/news/cryptobriefing:c70960036094b:0-hyperliquid-leads-focus-on-fundamentals-at-token2049-conference/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
       "id": "7021222586cc42dca83cfcecaa82418b640c8f05257404958a8d5242490bcc51",
       "title": "The BlockTreasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
       "url": "https://www.tradingview.com/news/the_block:223de7652094b:0-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
       "id": "6e74c2176b8e9d24a9245b4df434b86d147f49c1b3d3f7608f893d95b4a31944",
       "title": "CoinMarketCalAvalanche: Helicon's staking reward curve completes its phase-in - By 21 Dec 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:125791c83094b:0-avalanche-helicon-s-staking-reward-curve-completes-its-phase-in-by-21-dec-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
       "id": "51c48d994800975c437b8127a2e0cfc6f54119e3bfe191938aafc3389e0d7329",
       "title": "CoinMarketCalCollector Crypt: Coinbase lists token under CARD ticker - 06 Nov 2026",
       "url": "https://www.tradingview.com/news/coinmarketcal:94c3a9bda094b:0-collector-crypt-coinbase-lists-token-under-card-ticker-06-nov-2026/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
       "id": "68eed68e74d4109ad21c4a90aeb6cdc8673c03b37c75f636d00e123ecf894e52",
       "title": "ReutersUS Treasury sanctions Canadian money services firms over Iran-related transactions",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46N11V:0-us-treasury-sanctions-canadian-money-services-firms-over-iran-related-transactions/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
       "id": "4a776718042527d84092cefa216f821adfe8b7470495b53ad1caacc27191e1d7",
       "title": "CointelegraphGnosis Pay breach exposes card details, personal data and crypto wallet information",
       "url": "https://www.tradingview.com/news/cointelegraph:56c73480e094b:0-gnosis-pay-breach-exposes-card-details-personal-data-and-crypto-wallet-information/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
-      "id": "8adaee874df191ba6cbef94ab85710735dfe0dc3f44085a3fa23d6b942a445ff",
-      "title": "The BlockUS Treasury walks back crypto surveillance ‘travel rule’ proposal",
-      "url": "https://www.tradingview.com/news/the_block:b0c33dbfc094b:0-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal/",
+      "id": "55f1fc2129dbdaa586dc549c47ad1e9acada20fbe376b3ebd9aeccf26f4f11b7",
+      "title": "BloomingbitUS Spot Bitcoin ETFs Shift to Net Outflows in 2026, Totaling $415.9 Million",
+      "url": "https://www.tradingview.com/news/bloomingbit:21b1daead094b:0-us-spot-bitcoin-etfs-shift-to-net-outflows-in-2026-totaling-415-9-million/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     },
     {
-      "id": "011199b51efb4d53bddddf29886e914000a46cf311602d80acc3c9c627cec19c",
-      "title": "CointelegraphBinance hack is ‘cyber war,’ TRM Labs executive says",
-      "url": "https://www.tradingview.com/news/cointelegraph:85af2deb2094b:0-binance-hack-is-cyber-war-trm-labs-executive-says/",
+      "id": "7c8655cf6e39992d3543ff9e2b2a18a9b1f74963152ed1eb6f038414dd0a555f",
+      "title": "BloomingbitFinCEN Blocks MEXC’s Access to US Financial System Over Alleged Iran, North Korea, Russia Sanctions Evasion",
+      "url": "https://www.tradingview.com/news/bloomingbit:074b5ebe9094b:0-fincen-blocks-mexc-s-access-to-us-financial-system-over-alleged-iran-north-korea-russia-sanctions-evasion/",
       "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
-    },
-    {
-      "id": "2f35bdbdb6e85ce3bb4162e52d7a2ff6214667670569c5f960e330d50817a6dd",
-      "title": "ReutersKraken And MEXC Expand Partnership To Support Clients In France",
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46N43K:0-kraken-and-mexc-expand-partnership-to-support-clients-in-france/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
-    },
-    {
-      "id": "71f6cf876721f30bbd8da84cbb03dbb81ab8dcffa03f45b5b51e6994cc0e069c",
-      "title": "CointelegraphUS 401(k) proposal leaves door open to altcoins, but hurdles remain",
-      "url": "https://www.tradingview.com/news/cointelegraph:70224c23b094b:0-us-401-k-proposal-leaves-door-open-to-altcoins-but-hurdles-remain/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
-    },
-    {
-      "id": "ce73e8af1ffd6fa4a77e285a2ebbafcdb488360465f49b0d2ba3109823eb9565",
-      "title": "Finance MagnatesMEXC Refers French Clients to Kraken as Its EU Retreat Widens",
-      "url": "https://www.tradingview.com/news/financemagnates:1e2a481ae094b:0-mexc-refers-french-clients-to-kraken-as-its-eu-retreat-widens/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
-    },
-    {
-      "id": "4728dcf69aab600df4b9736dc8a6487bb7b0f82c29f002b041f2d974d8f995e4",
-      "title": "Crypto BriefingLPL Financial boosts Bitcoin ETF stake by 50% to $261 million",
-      "url": "https://www.tradingview.com/news/cryptobriefing:313ce16f5094b:0-lpl-financial-boosts-bitcoin-etf-stake-by-50-to-261-million/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-06T23:31:42.507Z"
+      "scraped_at": "2026-11-07T03:14:38.616Z"
     }
   ]
 }
