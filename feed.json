@@ -1,111 +1,104 @@
 {
-  "generated_at": "2026-11-10T23:44:49.063Z",
-  "total": 15,
+  "generated_at": "2026-11-11T03:09:38.680Z",
+  "total": 14,
   "items": [
+    {
+      "id": "63f32cbb2ae716d073c45cb7a73b3c7362245f06bd0eddd1df1bbbfbc2eb9bf1",
+      "title": "StocktwitsCynthia Lummis Defends Stablecoins As Affordability Tool, Calls Out Elizabeth Warren For Anti-Crypto Stance",
+      "url": "https://www.tradingview.com/news/stocktwits:1d0ebe3db094b:0-cynthia-lummis-defends-stablecoins-as-affordability-tool-calls-out-elizabeth-warren-for-anti-crypto-stance/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.672Z"
+    },
+    {
+      "id": "3ba3a93a16ed7d76188097414033cd1c5f61fce543f1b8c67140f56d79b04550",
+      "title": "NewsBTCWalt Launches Standalone Crypto App After Years Inside Telegram",
+      "url": "https://www.tradingview.com/news/newsbtc:2368aad04094b:0-walt-launches-standalone-crypto-app-after-years-inside-telegram/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.672Z"
+    },
+    {
+      "id": "50f8ff31cc128963edfe310b6c9af8d8df9e8c37b637919247cc5bc044634456",
+      "title": "BenzingaBitcoin, Ethereum, XRP, Dogecoin Drop as Investors Weigh Rate Hike Odds: Analyst Explains Why ‘Horrific’ BTC Chart Is Routine in a Bull Market",
+      "url": "https://www.tradingview.com/news/benzinga:c294080fe094b:0-bitcoin-ethereum-xrp-dogecoin-drop-as-investors-weigh-rate-hike-odds-analyst-explains-why-horrific-btc-chart-is-routine-in-a-bull-market/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.672Z"
+    },
+    {
+      "id": "d7c27885737a77c049609f8a44af6ee2905bf8449114a5e2fd86901d8dbb9b87",
+      "title": "CointelegraphLNbits rushes emergency patch after reported Bitcoin wallet thefts",
+      "url": "https://www.tradingview.com/news/cointelegraph:760bcd452094b:0-lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.672Z"
+    },
+    {
+      "id": "e4a1feb14dca3e73d59233f628bd2e2e317fe7e734a8684d109d9657fadd3b34",
+      "title": "NewsBTCCharles Schwab Opens Live Solana, Avalanche and Chainlink Trading to Eligible Clients",
+      "url": "https://www.tradingview.com/news/newsbtc:0609e417f094b:0-charles-schwab-opens-live-solana-avalanche-and-chainlink-trading-to-eligible-clients/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.672Z"
+    },
+    {
+      "id": "cc043618a2651c50a63a1f4f71070307d32e0a527165a63f36a2ec7848183cd3",
+      "title": "BeincryptoRipple Ex-CTO Tells Angry XRP Holders There’s No Secret Plan",
+      "url": "https://www.tradingview.com/news/beincrypto:462db3334094b:0-ripple-ex-cto-tells-angry-xrp-holders-there-s-no-secret-plan/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.672Z"
+    },
+    {
+      "id": "d7bedcdb819438b1c133ecc176065de665bea358b56b321941c033d6dd75ff4f",
+      "title": "CoinMarketCalFlare: go-flare v1.15.1 hard fork patches a node vulnerability - 11 Nov 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:278c2191a094b:0-flare-go-flare-v1-15-1-hard-fork-patches-a-node-vulnerability-11-nov-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.672Z"
+    },
+    {
+      "id": "deb5430bc6440abf58f940bdc05c835a8092026879ad5d548f4e7180fe59092c",
+      "title": "NewsBTCStandard Chartered Expands Prime Brokerage Partnership With 24X to Cover BTC and ETH",
+      "url": "https://www.tradingview.com/news/newsbtc:ee6ee81c7094b:0-standard-chartered-expands-prime-brokerage-partnership-with-24x-to-cover-btc-and-eth/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.672Z"
+    },
+    {
+      "id": "7f894d5007a52251fc532d0eebf3034ef8928cb45af52448dc27b8e98fd0091f",
+      "title": "BeincryptoEthereum Price Fell 20%, But Stakers Are Refusing to Sell",
+      "url": "https://www.tradingview.com/news/beincrypto:1b3f7cf9d094b:0-ethereum-price-fell-20-but-stakers-are-refusing-to-sell/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.672Z"
+    },
+    {
+      "id": "e68476c75de734f1412f332e30dc16747539900a1e9525b212345292a7e4c83d",
+      "title": "BenzingaThe Musk Midterms Trade: SPCX Flat, TSLA Drops 5% but DOGE Plunges 7%",
+      "url": "https://www.tradingview.com/news/benzinga:5ac76411e094b:0-the-musk-midterms-trade-spcx-flat-tsla-drops-5-but-doge-plunges-7/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-11T03:09:38.673Z"
+    },
     {
       "id": "bfb1cae76eb3cfaa4dcd6b8782992538d9dbcb40e933d43ae0037d6e4bca1a14",
       "title": "CointelegraphGlobal banks commit $270M to stablecoin venture targeting 2027 launch",
       "url": "https://www.tradingview.com/news/cointelegraph:6bb225732094b:0-global-banks-commit-270m-to-stablecoin-venture-targeting-2027-launch/",
       "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
+      "scraped_at": "2026-11-11T03:09:38.673Z"
     },
     {
       "id": "e9a0c46fbbc969a4eb1d06f13b651d95da9e1eb3875c8e8ed1493d629387aee4",
       "title": "TradingViewUSHP Foundation Has Commitments Up to $100M for Housing Index Product",
       "url": "https://www.tradingview.com/news/tradingview:615c98cd30a4d:0-ushp-foundation-has-commitments-up-to-100m-for-housing-index-product/",
       "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
+      "scraped_at": "2026-11-11T03:09:38.673Z"
     },
     {
       "id": "5c107d6d9226ae07db06ab7cb7965f585182ecd9be59caec012730f1ca64d064",
       "title": "PR NewswireUSHP Foundation Launches First-of-its-Kind Investable U.S. Home Price Index for Global Investors",
       "url": "https://www.tradingview.com/news/prnewswire:3e759f26d60db:0-ushp-foundation-launches-first-of-its-kind-investable-u-s-home-price-index-for-global-investors/",
       "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
+      "scraped_at": "2026-11-11T03:09:38.673Z"
     },
     {
       "id": "211ac2e960438f0cc6eda5bab5753a701f24d28b3b4d55eddffc309ecdda8bb7",
       "title": "NewsBTCVisa Adds Monad to Stablecoin Settlement Options as Institutions Seek More Rails",
       "url": "https://www.tradingview.com/news/newsbtc:ec80678cf094b:0-visa-adds-monad-to-stablecoin-settlement-options-as-institutions-seek-more-rails/",
       "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "e60f70e9bf2558913cd5f3794410cf656d13e70d6f9dfea669fce7e2b4926494",
-      "title": "BenzingaSolana Tokenized Stock Volume Surges, 'Token Super Cycle' Coming, Backpack CEO Says",
-      "url": "https://www.tradingview.com/news/benzinga:b88be15b8094b:0-solana-tokenized-stock-volume-surges-token-super-cycle-coming-backpack-ceo-says/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "4c0240ab0262a6aa82c2824ca8c4eb572b46e7ea4b25ef89fb4b138cf1c75c05",
-      "title": "BenzingaBitcoin 'Needs Buyers to Come Back' After CPI Data Triggers Slide to $73,000",
-      "url": "https://www.tradingview.com/news/benzinga:0469bb574094b:0-bitcoin-needs-buyers-to-come-back-after-cpi-data-triggers-slide-to-73-000/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "eeef9ca1fcb75570a21bfb7f332ecd35e078bbf427e6e095e1412b0e36c129d9",
-      "title": "Seeking AlphaAre markets open on Veterans Day?",
-      "url": "https://www.tradingview.com/news/seekingalpha:f10e6b314094b:0-are-markets-open-on-veterans-day/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "0bf4817758b40f19a5f3296fc217cb621e2cdc1d4a1c51c7eb2a093d3e37235d",
-      "title": "CointelegraphCan crypto trust firms compete with banks in US derivatives settlements?",
-      "url": "https://www.tradingview.com/news/cointelegraph:bf306d8e5094b:0-can-crypto-trust-firms-compete-with-banks-in-us-derivatives-settlements/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "acfb7021a752e197fa92ebcbf572796136a5c8fa35d0bbd86ac64edfb360bf16",
-      "title": "CointelegraphAcross Protocol warns users to avoid app amid reports of drained wallets",
-      "url": "https://www.tradingview.com/news/cointelegraph:3b04b5a8a094b:0-across-protocol-warns-users-to-avoid-app-amid-reports-of-drained-wallets/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "1ed63769c2df72ab6b8acda3afbc3f789c8bf0bc1a1c005d2367b12f41f1338a",
-      "title": "CoinpediaHere is Why XRP Erased Over $13 Billion in a Week",
-      "url": "https://www.tradingview.com/news/coinpedia:b589a0d52094b:0-here-is-why-xrp-erased-over-13-billion-in-a-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "59be85e5537159749fecfb9f9d7dbe08679ba959cd8a2295ecbaf0812df0fefc",
-      "title": "CointelegraphAva Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
-      "url": "https://www.tradingview.com/news/cointelegraph:973bb66f4094b:0-ava-labs-exec-says-nyse-deal-marks-end-of-blockchain-s-general-purpose-era/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "2c9c5b1e5e7fd2efff8ff43cd6338c6cd11862cf877b7ebc1c7d14d54061be00",
-      "title": "CoinMarketCalORE: ORE integrates Solana Privacy Rings from Helius - 10 Nov 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:416a7e88f094b:0-ore-ore-integrates-solana-privacy-rings-from-helius-10-nov-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "b9737b907aa399d55c87184f6c84f4eef1513dcdb61a90e0848f3c4942bcb1f2",
-      "title": "CoinMarketCalMoca Network: Partners with OKX Ventures to Support Identity-Driven Applications - 10 Nov 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:514793715094b:0-moca-network-partners-with-okx-ventures-to-support-identity-driven-applications-10-nov-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "359fe4e80e0a65b8bf311bd68108ff93fc8473eab26f38679312b0510057cae5",
-      "title": "CoinMarketCalAptos: BitGo takes a strategic position in APT - 10 Nov 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:6c5360009094b:0-aptos-bitgo-takes-a-strategic-position-in-apt-10-nov-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
-    },
-    {
-      "id": "147c9dca205130547ba424f730c5f56f84cbe699b2315b6ca6d2b261c38c1b0a",
-      "title": "BenzingaXRP Slides 14% in a Week: Can the XRP Ledger Spark a Rally?",
-      "url": "https://www.tradingview.com/news/benzinga:432ae30e7094b:0-xrp-slides-14-in-a-week-can-the-xrp-ledger-spark-a-rally/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-10T23:44:49.061Z"
+      "scraped_at": "2026-11-11T03:09:38.673Z"
     }
   ]
 }
