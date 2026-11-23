@@ -1,111 +1,111 @@
 {
-  "generated_at": "2026-11-22T22:24:44.263Z",
+  "generated_at": "2026-11-23T03:09:32.422Z",
   "total": 15,
   "items": [
+    {
+      "id": "14f486d1f5b5f80a68dc7c3e3d46260629f19383a83775559d60002ff982e714",
+      "title": "CoinMarketCalMidnight: NightMode introduces private cross-chain trade offers - Q1 2027",
+      "url": "https://www.tradingview.com/news/coinmarketcal:f43615f48094b:0-midnight-nightmode-introduces-private-cross-chain-trade-offers-q1-2027/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.418Z"
+    },
+    {
+      "id": "b4ed7e58946ebcb0286a8f48b84dec30c6d33efcd13c297030c3459efef56563",
+      "title": "CoinMarketCalMidnight: Network Adds Private Contract Composability - Q1 2027",
+      "url": "https://www.tradingview.com/news/coinmarketcal:085baf3c7094b:0-midnight-network-adds-private-contract-composability-q1-2027/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.418Z"
+    },
+    {
+      "id": "fbfc86e13e5c69640adfafcee1ff7c1bc9a86053d279550510ff32d3b1e4ab51",
+      "title": "CoinMarketCalMBG By Multibank Group: Unlocks About 24.47 Million MBG - Dec 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:9e6716bfc094b:0-mbg-by-multibank-group-unlocks-about-24-47-million-mbg-dec-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.418Z"
+    },
+    {
+      "id": "9c075657e90302c5f0ae898162fffc84c849268fe5074955286d619f33ab02f6",
+      "title": "StocktwitsMike McGlone Says Crypto Crash Is A Preview Of The 'Everything Bubble' Bursting, Sees Bitcoin At $10,000 Again",
+      "url": "https://www.tradingview.com/news/stocktwits:fdae0fe94094b:0-mike-mcglone-says-crypto-crash-is-a-preview-of-the-everything-bubble-bursting-sees-bitcoin-at-10-000-again/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.418Z"
+    },
+    {
+      "id": "715204988b579e086c08b88c06b8a285e80f6c9eb60ba6cc5d88da9775c4728c",
+      "title": "Crypto BriefingBitcoin spot ETFs bleed $669 million as outflow streak stretches to four days",
+      "url": "https://www.tradingview.com/news/cryptobriefing:90831ccfb094b:0-bitcoin-spot-etfs-bleed-669-million-as-outflow-streak-stretches-to-four-days/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.418Z"
+    },
+    {
+      "id": "351ef4937af309651e041ebca0b3fc0317fd4e581da532aa59ae7ca00ad17194",
+      "title": "BenzingaBitcoin, Ethereum Rise, but XRP, Dogecoin Dip Amid Crypto’s Punishing November: Analyst Flags BTC’s ‘Vital Move to the Upside’",
+      "url": "https://www.tradingview.com/news/benzinga:2cbd5b2c8094b:0-bitcoin-ethereum-rise-but-xrp-dogecoin-dip-amid-crypto-s-punishing-november-analyst-flags-btc-s-vital-move-to-the-upside/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.418Z"
+    },
+    {
+      "id": "e10bf31ec70d8ad7714fb3d5a19621a596d214d9da5fe5ca156bb611a7c9c922",
+      "title": "BeincryptoBitcoin Crashes to $17,000 This Weekend: Inside the Bizarre Flash Crash Mystery",
+      "url": "https://www.tradingview.com/news/beincrypto:c193a8ff1094b:0-bitcoin-crashes-to-17-000-this-weekend-inside-the-bizarre-flash-crash-mystery/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.418Z"
+    },
+    {
+      "id": "b7b07f9d789da9e578877826e8572836c10c796bea15bf7369ff4ae7d8e33efd",
+      "title": "CointelegraphHalf of wallets on Trump’s dinner list got tokens from non-US exchanges",
+      "url": "https://www.tradingview.com/news/cointelegraph:b0bf6395d094b:0-half-of-wallets-on-trump-s-dinner-list-got-tokens-from-non-us-exchanges/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.419Z"
+    },
+    {
+      "id": "bdd9f09c85b2a410db7d6577d9d94de89b0b393ddf45c1f4eacaa07b06ffc295",
+      "title": "CoinMarketCalMidnight: Introduces Programmable Shielded Assets - Q1 2027",
+      "url": "https://www.tradingview.com/news/coinmarketcal:64b3ba156094b:0-midnight-introduces-programmable-shielded-assets-q1-2027/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.419Z"
+    },
+    {
+      "id": "a5300d72abae3646da607c5d0fdef4397be01c723d52e3f338be899d991a5c10",
+      "title": "CoinMarketCalMidnight: Shielded Contract Tokens Debut - Q4 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:e4123f112094b:0-midnight-shielded-contract-tokens-debut-q4-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.419Z"
+    },
+    {
+      "id": "63b103caaabd508eac23dc8b1dc530287ddd245965db390ea34b0c9fefb05e4d",
+      "title": "CoinMarketCalMidnight: Private swaps launch - Q4 2026",
+      "url": "https://www.tradingview.com/news/coinmarketcal:87d393910094b:0-midnight-private-swaps-launch-q4-2026/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.419Z"
+    },
+    {
+      "id": "81f186244b4da4771f89e368153c479ea2cc23650dc9ef795d15f7dc8ef7235e",
+      "title": "The BlockA $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+      "url": "https://www.tradingview.com/news/the_block:a79e8b828094b:0-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionist-s-ace-bridge/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.419Z"
+    },
+    {
+      "id": "50eeffaba65b61f71a654af7e2b10423e5d4cf4066efafb5b33bab921accb8f4",
+      "title": "BloomingbitChainflip Hack Losses Rise to $12 Million; Firm Offers Hacker 10% Bounty",
+      "url": "https://www.tradingview.com/news/bloomingbit:87ff94490094b:0-chainflip-hack-losses-rise-to-12-million-firm-offers-hacker-10-bounty/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.419Z"
+    },
+    {
+      "id": "cff362de82ed4d54bdafbcc9def72bca477017261f6e44c4f036ee2e59347571",
+      "title": "Crypto BriefingBitcoin climbs back above $60K after leveraged longs get flushed",
+      "url": "https://www.tradingview.com/news/cryptobriefing:ebfcc41b3094b:0-bitcoin-climbs-back-above-60k-after-leveraged-longs-get-flushed/",
+      "source": "tradingview",
+      "scraped_at": "2026-11-23T03:09:32.419Z"
+    },
     {
       "id": "012f3d767837ae4f6b979838f10dedd537f3e7e5a68c462e1ac898c25c84e8b1",
       "title": "ReutersTrump to welcome investors at gala for his plunging meme coin",
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N473070:0-trump-to-welcome-investors-at-gala-for-his-plunging-meme-coin/",
       "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.240Z"
-    },
-    {
-      "id": "3db917ea736ca274ba39fcc518ecda56dd85d34a310f8fc54a0da2d90c20a657",
-      "title": "CoinMarketCalMidnight: Private lending launches - Q4 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:f39720393094b:0-midnight-private-lending-launches-q4-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "84d72d9c5663dc5684e54604c6b4b1cf2464b559388b02d71a2217139b1c8790",
-      "title": "CoinMarketCalRailgun: PQ-RAILGUN launches on Ethereum - 22 Nov 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:68360ce50094b:0-railgun-pq-railgun-launches-on-ethereum-22-nov-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "9ad49ef1464a9647528f14243eebc4d877b3548cad755c41105b0cb170b31bbf",
-      "title": "CoinMarketCalMidnight: Network adds cross-chain wallet access - Q1 2027",
-      "url": "https://www.tradingview.com/news/coinmarketcal:fa481b27b094b:0-midnight-network-adds-cross-chain-wallet-access-q1-2027/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "22346521ce946a93226dc8a9f95c5d2283be5aef26e860965d69ab604202eb1c",
-      "title": "The BlockTrump to host second memecoin dinner tonight with TRUMP down 99% from peak",
-      "url": "https://www.tradingview.com/news/the_block:b24568265094b:0-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "aa9c3328d255ceb704f23717052c05ca8a32db358fcce88febeef47a11e38030",
-      "title": "The BlockChainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
-      "url": "https://www.tradingview.com/news/the_block:2507a52e3094b:0-chainflip-s-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "8d6bbcf702b743afecc74863b015937b6332851cf65dfa66b6d98b0885824562",
-      "title": "CoinMarketCalMidnight: Private Collateral Vault launches - Q1 2027",
-      "url": "https://www.tradingview.com/news/coinmarketcal:4f9517c75094b:0-midnight-private-collateral-vault-launches-q1-2027/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "e739a687445d63771e49d2881e44c873e6be70b8e2fd36c9a9f5b0bb46e27b9a",
-      "title": "CoinMarketCalMidnight: Real-world asset issuance opens to institutions - Q1 2027",
-      "url": "https://www.tradingview.com/news/coinmarketcal:5a386b83e094b:0-midnight-real-world-asset-issuance-opens-to-institutions-q1-2027/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "9de4e2ed40807ed1ad115a15d8a335a7c9626eea226bfeea511f2a6e6c20c5dc",
-      "title": "CoinMarketCalMidnight: Tokenized Deposit Support Rolls Out - Q4 2026",
-      "url": "https://www.tradingview.com/news/coinmarketcal:36c6884bb094b:0-midnight-tokenized-deposit-support-rolls-out-q4-2026/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "9f04c4e6041acdbae77b9f6abc625d991189c62308d9bb376375e1d53a588a94",
-      "title": "Dow Jones NewswiresTrump Rewards Top Owners of His Declining Coin With Exclusive Dinner — WSJ",
-      "url": "https://www.tradingview.com/news/DJN_DN20261122001420:0-trump-rewards-top-owners-of-his-declining-coin-with-exclusive-dinner-wsj/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "f49ced37545d7593d4f3bd54514107eea909072016c1e162413706244f3a3412",
-      "title": "Crypto BriefingJPMorgan estimates Bitcoin mining costs at $86K as price sinks far below",
-      "url": "https://www.tradingview.com/news/cryptobriefing:586261a98094b:0-jpmorgan-estimates-bitcoin-mining-costs-at-86k-as-price-sinks-far-below/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "6b7ae7b4c0ab40c583557575ed5ad3091b3f386b5dbc465664be97e4fc3d3199",
-      "title": "BenzingaBitcoin Won't Be the Best Way to Get Rich in the Next Bull Run, Expert Claims",
-      "url": "https://www.tradingview.com/news/benzinga:c9f74d504094b:0-bitcoin-won-t-be-the-best-way-to-get-rich-in-the-next-bull-run-expert-claims/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "d7a99453540028c13ebc0e7b25e1769ebbc94acc0b227a36c2ac48b9cf5853cf",
-      "title": "BeincryptoBitcoin Price Recovered Above $60,000 – Will This Hold?",
-      "url": "https://www.tradingview.com/news/beincrypto:6ea955790094b:0-bitcoin-price-recovered-above-60-000-will-this-hold/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "cf7c55092eaa22cec265d76728d65f27fca56ced42983b423e835710a0380608",
-      "title": "CoinpediaNvidia, Anthropic, XRP and Bitcoin Brace for a Volatile Thanksgiving Week",
-      "url": "https://www.tradingview.com/news/coinpedia:52c0b9955094b:0-nvidia-anthropic-xrp-and-bitcoin-brace-for-a-volatile-thanksgiving-week/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
-    },
-    {
-      "id": "cf43f8729304cba789dbf003488bddd7ee630696f8392a7034534fe8c0a23523",
-      "title": "CoinpediaZcash Heads to $800 as Selling Pressure Fades – How High Can ZEC Price Go This Month?",
-      "url": "https://www.tradingview.com/news/coinpedia:0af970353094b:0-zcash-heads-to-800-as-selling-pressure-fades-how-high-can-zec-price-go-this-month/",
-      "source": "tradingview",
-      "scraped_at": "2026-11-22T22:24:44.241Z"
+      "scraped_at": "2026-11-23T03:09:32.419Z"
     }
   ]
 }
